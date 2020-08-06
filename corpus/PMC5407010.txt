@@ -1,0 +1,786 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10093635927066Curr Opin Allergy Clin ImmunolCurr Opin Allergy Clin ImmunolCurrent opinion in allergy and clinical immunology1528-40501473-632227070332540701010.1097/ACI.0000000000000268NIHMS854337ArticleAre genetic tests informative in predicting food allergy? Li Jin 1Maggadottir S. Melkorka 12Hakonarson Hakon 1341 Center for Applied Genomics, Children’s Hospital of Philadelphia, Abramson Research Center, 3615 Civic Center Boulevard, Philadelphia, Pennsylvania 19104, USA2 Department of Immunology, Landspitali University Hospital, Hringbraut (building 14 at Eiriksgata), 101 Reykjavik, Iceland3 Division of Human Genetics, The Children’s Hospital of Philadelphia, Philadelphia, Pennsylvania 19104, USA4 The Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USAAuthor of correspondence: Prof. Hakon Hakonarson, MD, PhD, Director, Center for Applied Genomics, Children’s Hospital of Philadelphia, Abramson Research Center Suite 1216, 3615 Civic Center Blvd, Philadelphia, PA 19104, United States, Phone: 267-426-0088, Fax:267-426-0363, hakonarson@email.chop.edu17 3 2017 6 2016 01 6 2017 16 3 257 264 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Purpose of review
+Food allergy is common among children and adults worldwide. Recent studies have improved our understanding of the genetic mechanism of food allergy and further studies may result in clinical application through genetic testing.
+
+Recent findings
+Genetic factors are important in the development of food allergy. An increasing number of genes have been associated with food allergy in recent years. These include mutations and variant in the Filaggrin (FLG) gene, the association of HLA-DR and –DQ regions with food allergy, CNVs impacting CTNNA3 and RBFOX1, DNA methylation that partially mediates SNP association at the HLA-DR and –DQ loci as well as other genes. Several studies have implicated differences in gut microbiota composition in food allergy.
+
+Summary
+With the advance of high-throughput genotyping and sequencing techniques together with improved analytical methods, the contributions of genetic and environmental factors in development of food allergy are being clarified. Yet much remains to be explored and more studies with larger sample sizes, better phenotyping and improved quality control genomics methods are needed. The ultimate goal is the development of a panel of reliable markers for genetic testing in food allergy to improve overall patient care.
+
+food allergygeneticsepigenetics
+   INTRODUTION
+Food allergy is a type of adverse immune response where exposure to certain food(s) induces allergy rather than tolerance. The food allergens are diverse, with cow’s milk, egg, peanut, tree nut, soy, wheat, fish and shellfish being most common, especially in children. The overall prevalence of food allergy has been increasing and is around 8% in children and 5% in adults.[1] To date no known medication prevents food allergy and strict avoidance remains the main treatment.[2]
+
+Genetic factors play an important role in the development of food allergy and are one of the major risk factors for its development. Family and twin studies show that family history is an important risk factor for food allergy, which imposes a 2–10 fold increased risk [3–6] or 15–80% higher incidence, depending on the study setting, population, method of measurement of allergy and food allergen. [5,7,8]
+
+The genetic mechanism underlying development of food allergy and its interplay with environmental factors are a burning research topic. In this review, we will discuss recent discoveries from candidate gene studies, unbiased genome-wide approaches to findings from epigenetic and gut microbiome studies.
+
+RESULTS FROM CANDIDATE GENE STUDIES
+Most genetic studies of food allergy are candidate gene studies, testing only associations with specific variants, based on prior knowledge of the genes in which the variants reside. Here we briefly summarize the results of recent studies and advances made in the recent years. Table 1, includes studies where positive associations were found between commonly studied candidate genes and food allergy. It is important to be aware that many of these associations have not been extensively tested in other populations nor been replicated, and inconsistent results exist for some variants/genes, thus many associations remain inconclusive.
+
+The Human leukocyte antigen (HLA) plays major roles in immune regulation. Therefore, it’s not surprising that the HLA genetic locus has been highly significantly associated with multiple immune disorders, including allergic diseases[26–28]. The positive association between HLA and food allergy was first reported in 1997[9] and since then many HLA loci have been implicated[10,11,29]. A recent study in a relatively large Canadian pediatric cohort illustrated a significant association of HLA-DQB1*02 and DQB1*06:03P with peanut allergy.[12] However, the drawback of this study is the low genotyping call rate. [12,13]
+
+Another candidate locus for food allergy, now examined in multiple populations, is the Filaggrin (FLG) gene which interacts with keratin filaments. Filaggrin is important for the skin barrier and mutations in FLG have been found to be associated with severe eczema[30] and FLG loss-of-function (FLG-LOF) mutations have been associated with peanut allergy.[14,15] A recent longitudinal study in the UK examined the association between the total effect of FLG-LOF mutations and all-cause food allergy at different ages in 1150 children. Significant association was observed at ages 10 and 18 years.[17] Association of FLG mutations with food allergy has also been shown in populations of Netherlands and Denmark [16,18]. In addition to these LOF mutations, common variants in gene FLG have also been reported to be associated with food allergy. A Japanese study found a common variant rs1933064 in FLG to be associated with food allergy sensitization. The variant might affect promoter activity and thus skin barrier function[19]. A separate study also showed that exposure to peanut antigen in household dust in early life increases the risk of developing peanut sensitization and allergy for children having FLG-LOF mutations[31]. Despite the large body of evidence for FLG association with food allergy, new study also suggests that FLG mutations are not significantly associated with food sensitization among adults without atopic dermatitis[32]. Thus the relationship between FLG mutations/variants, food allergy and potential confounding factor atopic dermatitis needs to be further evaluated.
+
+Interleukins are a large class of genes that play crucial roles in immune responses and have been related to allergic disease. IL10 has been mostly investigated for its potential association with food allergy. The cytokine IL10 is generated mainly from monocytes, but also lymphocytes, in response to commensal or pathogenic flora. IL10 plays pleiotropic regulatory roles such as suppressing the level of MHC class II antigens and Th1 cytokines, inhibiting NF-κB singling and promoting B cell proliferation and antibody production, which influences the balance between Th1 and Th2 responses[33,34]. Older studies have not presented convincing evidence supporting an association with food allergy, due to caveats in analytical methods, such as lacking of multiple testing adjustment [20,35,36]. A more recent study in Brazilian children examined several IL10 polymorphisms and a variant in the TGFβ1 gene. The only significant association found was that of IL-10 polymorphism-1082G/A with cow’s milk allergy [21].
+
+The JAK-STAT signaling pathway serves many important functions in the immune system. STAT6 (Signal transducer and activator of transcription family member 6) is a key transcription factor in downstream response to cytokines such as IL2 and IL4. Upon phosphorylation by JAK tyrosine kinases STAT 6 forms homo- or hetero-dimers with other STAT family members and translocate to the nucleus. STAT6 is involved in immunoglobulin isotype switching and differentiation of Th2 cells via transcriptional regulation of genes. [37] Previous studies have demonstrated an association between polymorphisms in STAT6 and nut allergy.[22] Furthermore, SNPs close to STAT6 (within 20kb upstream/downstream of STAT6 transcript) have been associated with food allergen sensitization found as a secondary phenotype from a genome wide association study (GWAS).[23] In addition, the GG genotype of STAT6 polymorphism rs324015 showed a nominally significant association with longer persistence of cow’s milk allergy than the AA+AG genotype states. In that study variants of other candidate genes CD14, IL10, IL13, SPINK5 and TSLP did not demonstrate such an association.[38]
+
+Since T cells play key roles in food allergy responses, genes with functions in T cell maturation, activation and differentiation present candidate genes for food allergy. In this regards, FOXP3 (Forkhead box P3) encodes a transcription factor of the forkhead/winged-helix family that is critical for the normal function of regulatory T cells. [39] Defects in FOXP3 are associated with immune diseases such as immunodysregulation, polyendocrinopathy, enteropaty X-linked syndrome (IPEX) and an older study found an association between a deletion in the 5′ region of FOXP3 and a subtype of IPEX patients showing multiple food allergies [24]. A more recent study found significantly lower levels of FOXP3 mRNA expression among children with asthma and food allergy compared to healthy controls[40].
+
+Taken together, while candidate gene studies have tried to explore the underlying genetic factors for food allergy for decades, very few firm associations have been established. Several reasons could explain why the studies yielded such inconsistent results. How the outcome variable, food allergy, is measured and defined is not consistent across studies. Many of the studies are underpowered due to limited sample size, suffered from diverse study populations and/or confounding issues due to population stratification. Also some studies did not adjust for multiple-testing. Furthermore, food allergy is highly subjected to environment impact and many of these candidate gene studies have different environmental exposure patterns that is not being controlled for.
+
+COMMON VARIANTS AND CNVS DISCOVERED BY UNBIASED GENOME WIDE APPROCHES
+As an unbiased approach to detect susceptibility loci for complex diseases, GWAS have undergone rapid development and yielded numerous successful discoveries that replicate consistently even across different ethnic groups. In GWAS, the association between the genotype of common variants (minor allele frequency &gt; 1%) and disease status are examined across the genome. So far, only one published study focuses specifically on food allergy [13], in this study Hong et al. reported that HLA-DR and –DQ regions at locus 6p21.32 are significantly associated with peanut allergy (top SNPs: rs7192, P=5.5×10−8; rs9275596, P=6.8×10−10) in a cohort of 2197 US subjects of European ancestry (Table 1). The association was replicated in an independent cohort of 62 peanut allergy cases and 69 controls of European ancestry. The results are in line with previous studies suggesting the important role of HLA in allergic diseases and suggestive associations from previous candidate gene studies of food allergy.[13]
+
+Copy number variation (CNV) is another type of genetic variants associated with susceptibility for multiple diseases, especially psychiatric diseases[41,42]. To date, only a single, very recent study has examined the association of CNV with food allergy[25]. In this study, a significant association was found between food allergy and CNVs in gene CTNNA3 using genome-wide SNP array analysis in both a pediatric discovery cohort (357 cases, 3980 controls) and a replication cohort (167 children with food allergy, 1573 controls) (Table 1). Additional significant association was found in gene RBFOX1 in the subset of participants of European ancestry (Table 1). In addition, more prominent expression upregulation of CD63 and CD203c following PMA stimulation was observed in mononuclear cells treated with CTNNA3 siRNA compared to controls, implicating that CTNNA3 is involved in sensitization to allergen. [25]
+
+RARE VARIANTS IDENTIFICATION WITH SEQUENCING TECHNOLOGY
+Apart from common variant association with complex diseases, rare variants could also contribute to the etiology of complex diseases including allergic diseases and in some cases may have a large effect. DeWan and colleagues reported co-segregation of rare coding variants in the genes PDE4DIP, CBLB and KALRN with an asthma phenotype. This was a family based study using whole-exome sequencing, however functional studies are lacking to evaluate the roles of these variants in disease etiology[43]. Another study of sequencing candidate genes found an association with asthma and rare variants in or at the flanking regions of DPP10, IL12RB1, IKBKAP and AGT in either European Americans or African Americans[44]. There has been no report of rare variants associated with food allergy via targeted sequencing, whole exome sequencing or whole genome sequencing. However, with the advance of sequencing technology, analytical tools and reduced cost, we anticipate that this will change soon, especially for identification of underlying variants in severe and familial cases.
+
+FINDINGS FROM EPIGENETIC STUDIES
+Similar to other complex diseases, the development of FA is shaped by host factors, environmental factors and the interactions between those. Differential DNA methylation is an epigenetics mechanism that reflects environmental effects upon the human genome. It has been shown that during T cell differentiation, epigenetic modification plays a critical role, highlighting its relevance to the development of food allergy.[45,46] A few studies have attempted to assess the role of DNA methylation in food allergy.
+
+By using an epigenome-wide association analysis, Martino et al. compared the DNA methylation profile of CD4+ T cells between 12 children with IgE-mediated food allergy and 12 healthy controls at birth and 12 months of age. A group of 92 probes were identified as differentially methylated from case-control analyses at both time points, and to be non-SNP associated. Pathway enrichment analysis of the genes that these probes are mapped to yielded the nominally significant association of MAPK (mitogen-activated protein kinases) signaling pathway (P=0.042) and food allergy. Four genes in this pathway contain differentially methylated probes. Fifteen probes at 3 genes were further validated by Mass spectrometry, and the expression level of some genes was correlated with differential methylation.[47] In a study examining the effect of oral immunotherapy on peanut allergy, Syed and colleagues observed the correlation of low methylation level of FOXP3 CpG sites with immune tolerant status[48]. When comparing overall promoter methylation level of cytokine genes IL4, IL5, IL10, INF-γ, Canani and colleagues observed that the methylation level of these genes were significantly different between children with active IgE mediated cow’s milk allergy (CMA), those who outgrew CMA and healthy controls. Methylation levels were lowest within the active CMA group and the highest amongst healthy controls for both IL4 and IL5, with the opposite pattern being seen for IL10 and INF-γ. The expression level of these genes correlates with their methylation levels.[49] In the GWAS study of food allergy by Hong and colleagues, the authors also examined the potential epigenetic contribution. They demonstrated a significant correlation between the two top associated SNPs and CpG sites methylation levels in the genes HLA-DQB1 and HLA-DRB1, and furthermore, showed that the SNP association with the phenotype is partially mediated by the differential methylation[13].
+
+UNDERSTADNING OF THE GUT MICROBIOTA
+In addition to the genetic makeup of the host, the gut microbiota composition likely plays an important role, based on epidemiology studies of allergic diseases and mouse models [50]. Two large cross-sectional studies of more than 14,000 and 79,000 children previously showed and recently confirmed that farm exposure is associated with reduced prevalence of allergic disease and atopy[51,52]. Multiple other studies, including those directly assessing the gut microbiota composition using 16S rDNA analysis, have demonstrated the inverse correlation between gut microbiota diversity and the risk of developing allergic diseases [53–55]. Several studies using mouse models have shown that alterations in gut microbiota constitution affect allergen sensitization [56–58]. The underlying mechanisms include impact on intestinal barrier function through IL-22 signaling and toll-like receptors[57,59–61].
+
+Very few studies have specifically explored the association between intestinal microbiota and food allergy. Recently, Ling and colleagues revealed that the proportion of several important gut bacterial phylotypes showed significant changes among food allergy patients compared to healthy controls by targeted parallel pyrosequencing of the 16S rRNA gene. Furthermore, differences also exist between IgE-mediated food allergy and non IgE mediated food allergy. Ling Z. et al also demonstrated a negative correlation between host IL10 level and food allergy-enriched phylotypes. This study was conducted among Chinese subjects.[62] A new Canadian study examined the abundance and diversity of gut microbiota by illumina 16S rRNA sequencing and found the risk of developing food allergen sensitization to be inversely correlated with microbiota richness and positively associated with the ratio of Enterobacteriacaea/Bacteroidaceae [63]. The inverse correlation between food sensitization and diversity of gut microbiota was similarly observed in a study in Taiwan [64]. However, these studies are of small sample sizes and lack of replication, and therefore the results need to be interpreted with caution. The gut microbiota composition is affected by various environmental factors, like diet, exposure to pets [65,66]. Further studies need to assess how host genetic factors interact with gut microbiota and environmental factors, which is an important yet complicated aspect in predicting the risk of developing food allergy and in establishing reliable genetic testing for food allergy.
+
+FUTURE GENETIC TESTING
+Genetic testing evaluates for underlying mutations/variants that are causal or relevant to the diseases in question. The general purpose of genetic testing includes several aspects, such as disease diagnosis, identifying causal mutations, predicting disease progression and prognosis, predicting responses to medication/treatment, and identification of populations at risk for early prevention. Genetic testing is now applied in the clinic for many diseases, for example, to test for mutations in BRCA1 and BRCA2 for breast and ovarian cancers, checking for CFTR mutations for cystic fibrosis and checking the hemoglobin A gene for sickle cell mutations. A reliable genetic test should provide reliable and relevant information regarding development of the disease in question. As discussed above, though underlying genetic mechanism for food allergy are starting to unravel, a panel of reliable markers for genetic testing in food allergy is still lacking. The future possibilities of such testing lies in further research dissecting the complex interplay between genetic components and diverse environmental factors, including the microbiota, in the pathogenesis and expression of food allergy. In the near future, we anticipate to establish a panel of biomarkers to identify high-risk populations where preventive measures can reduce severe food allergy emergencies, facilitate accurate identification of allergen sources and to predict effective treatment options and thus improve overall patient care.
+
+CONCLUSION
+The development of food allergy is shaped by both genetic components and environmental factors. Through candidate gene studies, GWAS, and CNV studies, we have begun to dissect the genetic mechanisms underlying food allergy. However, due to the limitation of sample sizes, population differences and phenotype heterogeneity, many results are inconsistent and more studies are needed to validate the discoveries, as well as to identify contributions from additional genetic variants, such as rare variants. The interactions between genetic components and environmental factors constitute another important aspect to explore. Important topics in this regard include, but are not limited to, epigenetic effects and gut microbiota. Gaining a better understanding of the genetic and environmental impact of food allergy will allow us to develop a clinically-applicable biomarker panel for genetic testing, which will be of benefit in diagnosis, therapeutics and even prevention of food allergy – a prototype precision medicine focus.
+
+None
+
+
+        Financial support and sponsorship
+      
+
+This work was supported by a gift from the Kubert Estate family, an Institutional Development Fund to the Center for Applied Genomics and grant from the NIH’s Electronic Medical Records and Genomics (eMERGE) program.
+
+
+          Conflicts of interest
+        
+
+There are no conflicts of interest.
+
+Abbreviations
+CNVCopy number variation
+
+FLGFilaggrin
+
+FOXP3Forkhead box P3
+
+GWASgenome wide association study
+
+HLAHuman leukocyte antigen
+
+IPEXenteropaty X-linked syndrome
+
+STAT6Signal transducer and activator of transcription family member 6
+
+Table 1 Association studies addressing food allergy, including candidate gene analysis and more recent genome wide approaches.
+
+Gene (Variants)	Population	FA phenotype	Cases	Controls	Main finding of association	Reference	Approach	
+
+              HLA-DQ7
+            	Italian	cow milk protein allergy	37	35	RR=4.42, P&lt;0.05	[9]	candidate gene study	
+HLA-DRB1 (HLA-DRB1*08)	United Kingdom	peanut allergy	50	293	P=0.0021;Pc=0.027	[10]	candidate gene study	
+HLA-DRB1 (HLA-DRB1*08/12)	United Kingdom	peanut allergy	50	293	P=0.0023; Pc=0.029	[10]	candidate gene study	
+HLA-DQB1 (HLA-DQB1*04)	United Kingdom	peanut allergy	50	293	P=0.00042; Pc=0.0029	[10]	candidate gene study	
+HLA-DRB1 (DR4)	eastern France	birch pollen and food allergy	42	42	Pc=0.018	[11]	candidate gene study	
+HLA-DRB1 (DR7)	eastern France	birch pollen and food allergy	42	42	Pc=0.0037	[11]	candidate gene study	
+HLA-DQB1 (DQB1*02)	Canada	peanut allergy	311	226	OR=0.09, P=1.1×10−8	[12]	candidate gene study	
+HLA-DQB1 (DQB1*06:03P)	Canada	peanut allergy	311	226	OR=2.82, P=2.1×10−2	[12]	candidate gene study	
+HLA-DR region (rs7192)	US	food allergy	316	144 controls and 1737 controls of uncertain phenotype	Allele T vs. G OR=1.7, P= 5.5×10−8	[13]	GWAS	
+HLA-DQ region (rs9275596)	US	food allergy	316	145 controls and 1737 controls of uncertain phenotype	Allele C vs. T OR=1.7, P= 6.8×10−10	[13]	GWAS	
+FLG (R501X, 2282del4, R2447X, and S3247X)	English, Dutch, and Irish, Canadian	peanut allergy	Dis cohort:71; Rep cohort: 390	Dis cohort:1000; Rep cohort: 891	Dis cohort: FLG-LOF P=3.0×10−6; OR=5.3; Rep cohort: P=5.4×10−5, OR=1.9	[14]	candidate gene study	
+FLG (R501X, 2282del4, R2447X, and S3248X)	Canada	peanut allergy	663	889 Ontario controls; 267 Quebec controls	FLG-LOF OR=1.96, P=5.12×10−7 with the combined controls	[15]	candidate gene study	
+FLG (R501X, 2282del4)	Denmark	Self-reported allergy to eggs, milk, fish and wheat	3471 Caucasian participants were surveyed and genomic DNA were collected from 3366 of them	FLG-LOF for having food allergy to at least one type of allergens surveyed OR=2.13, P&lt;0.001	[16]	candidate gene study	
+FLG (R501X, 2282del4, and S3247X)	United Kingdom	food allergy	1150 children in a birth cohort followed up for 18 years	10 years old, FLG-LOF OR=31.46, P=0.005; 18years old: OR=4.25, P=0.005	[17]	candidate gene study	
+FLG (R501X, R2447X, 2282del4, and S3247X)	Netherlands	Clinical reactivity to foods	102	53	FLG-LOF OF=4.9, P=0.005	[18]	candidate gene study	
+FLG (rs1933064)	Japan	food sensitization	116 infants tested for food specific IgEs	Allele G showed negative association with the number of positive food specific IgEs, P=0.0055	[19]	candidate gene study	
+IL-10 (A-1082G)	Japan	food allergy	111	atopic control 115	A allele OR=2.4, P=0.04, adjusted for age and sex	[20]	candidate gene study	
+IL-10 (A-1082G)	Brazil	Persistent IgE-mediated cow milk allergy	34	217	Genotype GG vs. AA: OR=6.15, P=0.001, Pc=0.002	[21]	candidate gene study	
+STAT6 (G2964A in the 3′ UTR)	United Kingdom	nut allergy	71	184	G allele OR=2.9, P&lt; 0.0001	[22]	candidate gene study	
+STAT6 (rs703817 at 3′ UTR of STAT6)	Mexico City	food allergen sensitization	162 trios with a food-sensitized child	P=0.0076	[23]	candidate gene study	
+STAT6 (rs4759044 in gene LRP1, nearby of STAT6)	Mexico City	food allergen sensitization	162 trios with a food-sensitized child	P=0.0056	[23]	candidate gene study	
+STAT6 (rs4759044 in gene LRP1, nearby of STAT6)	Mexico City	food allergen sensitization	162 trios with a food-sensitized child	P=0.0077	[23]	candidate gene study	
+FOXP3 (del-6247_-4859)	France	IPEX syndrome severe food allergy	A four-generation kindred including 4 IPEX patients	The deletion variant cosegregates with the disease phenotype in males	[24]	candidate gene study	
+CTNNA3 (CNV)	United States	food allergy	Dis cohort 357; Rep cohort 167	Dis cohort 3980; Rep cohort 1573	Deletion variants PCA corrected meta-analysis P=1.24×10−3	[25]	CNV study based on genome-wide SNP array	
+RBFOX1 (CNV)	United States	food allergy	Dis cohort Caucasians:222; Rep cohort Caucasians:106	Dis cohort Caucasians:2002; Rep cohort Caucasians:1414	Deletion variants Meta-analysis P=7.35×10−5 in Caucasians	[25]	CNV study based on genome-wide SNP array	
+RR=relative risk; P=P-value; OR=odds ratio; LOF=loss of function; Pc=multiple-comparison corrected P-value; GWAS=genome-wide association study; IPEX=Immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome; PCA= principal component analysis; Dis=Discovery; Rep=Replication; SNP=single nucleotide polymorphism
+
+Key points
+Results from candidate gene studies suggest that genetic variants in several genes, including the HLA locus, IL10, STAT6, FOXP3 and FLG, are associated with food allergy, however, inconsistent results were found in different populations.
+
+The only GWAS of food allergy identified genome wide significant association at the HLA-DR and –DQ regions, and demonstrated that this association is partially mediated by differential DNA methylation.
+
+The only CNV study of food allergy using genome-wide SNP array identified association of CNVs impacting the CTNNA3 and RBFOX1 genes in subjects with food allergy.
+
+Epigenetic studies implicate DNA methylation effects impacting genes in the MAPK pathway, as well as IL4, IL5, IL10, INF-γ all of which are associated with food allergy. Recent studies also revealed the differences in the gut microbiota between food allergy patients and healthy controls.
+
+Further research dissecting the genetic underpinnings and the interplay between genetic components and diverse environmental factors will hopefully lead to the development of a panel of reliable biomarkers for the genetic testing of food allergy.
+
+
+   References and recommended reading
+• of special interest
+
+•• of outstanding interest
+
+1 
+            Sicherer SH  
+            Sampson HA  
+           Food allergy: Epidemiology, pathogenesis, diagnosis, and treatment J Allergy Clin Immunol 2014 133 291 307 quiz 308 24388012 
+2 
+            Wright BL  
+            Walkner M  
+            Vickery BP  
+            Gupta RS  
+           Clinical Management of Food Allergy Pediatr Clin North Am 2015 62 1409 1424 26456440 
+3 
+            Hourihane JO  
+            Dean TP  
+            Warner JO  
+           Peanut allergy in relation to heredity, maternal diet, and other atopic diseases: results of a questionnaire survey, skin prick testing, and food challenges BMJ 1996 313 518 521 8789975 
+4 
+            Crespo JF  
+            James JM  
+            Fernandez-Rodriguez C  
+            Rodriguez J  
+           Food allergy: nuts and tree nuts Br J Nutr 2006 96 Suppl 2 S95 102 17125539 
+5 
+            Tsai HJ  
+            Kumar R  
+            Pongracic J  
+            Liu X  
+            Story R  
+            Yu Y  
+            Caruso D  
+            Costello J  
+            Schroeder A  
+            Fang Y  
+             
+           Familial aggregation of food allergy and sensitization to food allergens: a family-based study Clin Exp Allergy 2009 39 101 109 19016802 
+6 
+            Koplin JJ  
+            Allen KJ  
+            Gurrin LC  
+            Peters RL  
+            Lowe AJ  
+            Tang ML  
+            Dharmage SC  
+            HealthNuts Study T 
+           The impact of family history of allergy on risk of food allergy: a population-based study of infants Int J Environ Res Public Health 2013 10 5364 5377 24284354 
+7 
+            Sicherer SH  
+            Furlong TJ  
+            Maes HH  
+            Desnick RJ  
+            Sampson HA  
+            Gelb BD  
+           Genetics of peanut allergy: a twin study J Allergy Clin Immunol 2000 106 53 56 10887305 
+8 
+            Liu X  
+            Zhang S  
+            Tsai HJ  
+            Hong X  
+            Wang B  
+            Fang Y  
+            Liu X  
+            Pongracic JA  
+            Wang X  
+           Genetic and environmental contributions to allergen sensitization in a Chinese twin study Clin Exp Allergy 2009 39 991 998 19302247 
+9 
+            Camponeschi B  
+            Lucarelli S  
+            Frediani T  
+            Barbato M  
+            Quintieri F  
+           Association of HLA-DQ7 antigen with cow milk protein allergy in Italian children Pediatr Allergy Immunol 1997 8 106 109 9617782 
+10 
+            Howell WM  
+            Turner SJ  
+            Hourihane JO  
+            Dean TP  
+            Warner JO  
+           HLA class II DRB1, DQB1 and DPB1 genotypic associations with peanut allergy: evidence from a family-based and case-control study Clin Exp Allergy 1998 28 156 162 9515587 
+11 
+            Senechal H  
+            Geny S  
+            Desvaux FX  
+            Busson M  
+            Mayer C  
+            Aron Y  
+            Oster JP  
+            Bessot JC  
+            Peltre G  
+            Pauli G  
+             
+           Genetics and specific immune response in allergy to birch pollen and food: evidence of a strong, positive association between atopy and the HLA class II allele HLA-DR7 J Allergy Clin Immunol 1999 104 395 401 10452762 
+12 
+            Madore AM  
+            Vaillancourt VT  
+            Asai Y  
+            Alizadehfar R  
+            Ben-Shoshan M  
+            Michel DL  
+            Kozyrskyj AL  
+            Becker A  
+            Chan-Yeung M  
+            Clarke AE  
+             
+           HLA-DQB1*02 and DQB1*06:03P are associated with peanut allergy Eur J Hum Genet 2013 21 1181 1184 23443026 
+13•• 
+            Hong X  
+            Hao K  
+            Ladd-Acosta C  
+            Hansen KD  
+            Tsai HJ  
+            Liu X  
+            Xu X  
+            Thornton TA  
+            Caruso D  
+            Keet CA  
+             
+           Genome-wide association study identifies peanut allergy-specific loci and evidence of epigenetic mediation in US children Nat Commun 2015 6 6304 This is the first and the only GWAS of food allergy to date 25710614 
+14 
+            Brown SJ  
+            Asai Y  
+            Cordell HJ  
+            Campbell LE  
+            Zhao Y  
+            Liao H  
+            Northstone K  
+            Henderson J  
+            Alizadehfar R  
+            Ben-Shoshan M  
+             
+           Loss-of-function variants in the filaggrin gene are a significant risk factor for peanut allergy J Allergy Clin Immunol 2011 127 661 667 21377035 
+15 
+            Asai Y  
+            Greenwood C  
+            Hull PR  
+            Alizadehfar R  
+            Ben-Shoshan M  
+            Brown SJ  
+            Campbell L  
+            Michel DL  
+            Bussieres J  
+            Rousseau F  
+             
+           Filaggrin gene mutation associations with peanut allergy persist despite variations in peanut allergy diagnostic criteria or asthma status J Allergy Clin Immunol 2013 132 239 242 23684069 
+16 
+            Linneberg A  
+            Fenger RV  
+            Husemoen LL  
+            Thuesen BH  
+            Skaaby T  
+            Gonzalez-Quintela A  
+            Vidal C  
+            Carlsen BC  
+            Johansen JD  
+            Menne T  
+             
+           Association between loss-of-function mutations in the filaggrin gene and self-reported food allergy and alcohol sensitivity Int Arch Allergy Immunol 2013 161 234 242 23548340 
+17 
+            Venkataraman D  
+            Soto-Ramirez N  
+            Kurukulaaratchy RJ  
+            Holloway JW  
+            Karmaus W  
+            Ewart SL  
+            Arshad SH  
+            Erlewyn-Lajeunesse M  
+           Filaggrin loss-of-function mutations are associated with food allergy in childhood and adolescence J Allergy Clin Immunol 2014 134 876 882 e874 25174864 
+18 
+            van Ginkel CD  
+            Flokstra-de Blok BM  
+            Kollen BJ  
+            Kukler J  
+            Koppelman GH  
+            Dubois AE  
+           Loss-of-function variants of the filaggrin gene are associated with clinical reactivity to foods Allergy 2015 70 461 464 25620092 
+19 
+            Nomura T  
+            Tsuge I  
+            Inuo C  
+            Nakajima Y  
+            Kondo Y  
+            Sugiura S  
+            Murata H  
+            Iguchi T  
+            Terada A  
+            Saitoh S  
+             
+           Food sensitization in Japanese infants is associated with a common Filaggrin variant Ann Allergy Asthma Immunol 2013 110 388 390 e381 23622014 
+20 
+            Campos Alberto EJ  
+            Shimojo N  
+            Suzuki Y  
+            Mashimo Y  
+            Arima T  
+            Matsuura T  
+            Inoue Y  
+            Yamaide A  
+            Tomiita M  
+            Fujii K  
+             
+           IL-10 gene polymorphism, but not TGF-beta1 gene polymorphisms, is associated with food allergy in a Japanese population Pediatr Allergy Immunol 2008 19 716 721 18208460 
+21 
+            Jacob CM  
+            Pastorino AC  
+            Okay TS  
+            Castro AP  
+            Gushken AK  
+            Watanabe LA  
+            Frucchi VC  
+            Oliveira LC  
+           Interleukin 10 (IL10) and transforming growth factor beta1 (TGFbeta1) gene polymorphisms in persistent IgE-mediated cow’s milk allergy Clinics (Sao Paulo) 2013 68 1004 1009 23917667 
+22 
+            Amoli MM  
+            Hand S  
+            Hajeer AH  
+            Jones KP  
+            Rolf S  
+            Sting C  
+            Davies BH  
+            Ollier WE  
+           Polymorphism in the STAT6 gene encodes risk for nut allergy Genes Immun 2002 3 220 224 12058257 
+23 
+            Hancock DB  
+            Romieu I  
+            Chiu GY  
+            Sienra-Monge JJ  
+            Li H  
+            Estela Del Rio-Navarro B  
+            London SJ  
+           STAT6 and LRP1 polymorphisms are associated with food allergen sensitization in Mexican children J Allergy Clin Immunol 2012 129 1673 1676 22534531 
+24 
+            Torgerson TR  
+            Linane A  
+            Moes N  
+            Anover S  
+            Mateo V  
+            Rieux-Laucat F  
+            Hermine O  
+            Vijay S  
+            Gambineri E  
+            Cerf-Bensussan N  
+             
+           Severe food allergy as a variant of IPEX syndrome caused by a deletion in a noncoding region of the FOXP3 gene Gastroenterology 2007 132 1705 1717 17484868 
+25• 
+            Li J  
+            Fung I  
+            Glessner JT  
+            Pandey R  
+            Wei Z  
+            Bakay M  
+            Mentch FD  
+            Pellegrino R  
+            Wang T  
+            Kim C  
+             
+           Copy Number Variations in CTNNA3 and RBFOX1 Associate with Pediatric Food Allergy J Immunol 2015 195 1599 1607 This is the first and the only CNV study of food allergy to date. 26188062 
+26 
+            Bonnelykke K  
+            Matheson MC  
+            Pers TH  
+            Granell R  
+            Strachan DP  
+            Alves AC  
+            Linneberg A  
+            Curtin JA  
+            Warrington NM  
+            Standl M  
+             
+           Meta-analysis of genome-wide association studies identifies ten loci influencing allergic sensitization Nat Genet 2013 45 902 906 23817571 
+27 
+            Hirota T  
+            Takahashi A  
+            Kubo M  
+            Tsunoda T  
+            Tomita K  
+            Doi S  
+            Fujita K  
+            Miyatake A  
+            Enomoto T  
+            Miyagawa T  
+             
+           Genome-wide association study identifies three new susceptibility loci for adult asthma in the Japanese population Nat Genet 2011 43 893 896 21804548 
+28 
+            Moffatt MF  
+            Gut IG  
+            Demenais F  
+            Strachan DP  
+            Bouzigon E  
+            Heath S  
+            von Mutius E  
+            Farrall M  
+            Lathrop M  
+            Cookson WO  
+             
+           A large-scale, consortium-based genomewide association study of asthma N Engl J Med 2010 363 1211 1221 20860503 
+29 
+            Hong X  
+            Tsai HJ  
+            Wang X  
+           Genetics of food allergy Curr Opin Pediatr 2009 21 770 776 19851108 
+30 
+            Weidinger S  
+            Illig T  
+            Baurecht H  
+            Irvine AD  
+            Rodriguez E  
+            Diaz-Lacava A  
+            Klopp N  
+            Wagenpfeil S  
+            Zhao Y  
+            Liao H  
+             
+           Loss-of-function variations within the filaggrin gene predispose for atopic dermatitis with allergic sensitizations J Allergy Clin Immunol 2006 118 214 219 16815158 
+31 
+            Brough HA  
+            Simpson A  
+            Makinson K  
+            Hankinson J  
+            Brown S  
+            Douiri A  
+            Belgrave DC  
+            Penagos M  
+            Stephens AC  
+            McLean WH  
+             
+           Peanut allergy: effect of environmental peanut exposure in children with filaggrin loss-of-function mutations J Allergy Clin Immunol 2014 134 867 875 e861 25282568 
+32 
+            Thyssen JP  
+            Tang L  
+            Husemoen LL  
+            Stender S  
+            Szecsi PB  
+            Menne T  
+            Johansen JD  
+            Linneberg A  
+           Filaggrin gene mutations are not associated with food and aeroallergen sensitization without concomitant atopic dermatitis in adults J Allergy Clin Immunol 2015 135 1375 1378 e1371 25678087 
+33 
+            Saraiva M  
+            O’Garra A  
+           The regulation of IL-10 production by immune cells Nat Rev Immunol 2010 10 170 181 20154735 
+34 
+            Ouyang W  
+            Rutz S  
+            Crellin NK  
+            Valdez PA  
+            Hymowitz SG  
+           Regulation and functions of the IL-10 family of cytokines in inflammation and disease Annu Rev Immunol 2011 29 71 109 21166540 
+35 
+            Negoro T  
+            Orihara K  
+            Irahara T  
+            Nishiyama H  
+            Hagiwara K  
+            Nishida R  
+            Takagi H  
+            Satoh K  
+            Yamamoto Y  
+            Shimizu S  
+             
+           Influence of SNPs in cytokine-related genes on the severity of food allergy and atopic eczema in children Pediatr Allergy Immunol 2006 17 583 590 17121586 
+36 
+            Chen TK  
+            Lee JH  
+            Yu HH  
+            Yang YH  
+            Wang LC  
+            Lin YT  
+            Chiang BL  
+           Association between human IL-10 gene polymorphisms and serum IL-10 level in patients with food allergy J Formos Med Assoc 2012 111 686 692 23265747 
+37 
+            Wurster AL  
+            Tanaka T  
+            Grusby MJ  
+           The biology of Stat4 and Stat6 Oncogene 2000 19 2577 2584 10851056 
+38 
+            Yavuz ST  
+            Buyuktiryaki B  
+            Sahiner UM  
+            Birben E  
+            Tuncer A  
+            Yakarisik S  
+            Karabulut E  
+            Kalayci O  
+            Sackesen C  
+           Factors that predict the clinical reactivity and tolerance in children with cow’s milk allergy Ann Allergy Asthma Immunol 2013 110 284 289 23535094 
+39 
+            O’Connor RA  
+            Anderton SM  
+           Inflammation-associated genes: risks and benefits to Foxp3+ regulatory T-cell function Immunology 2015 146 194 205 26190495 
+40 
+            Krogulska A  
+            Polakowska E  
+            Wasowska-Krolikowska K  
+            Malachowska B  
+            Mlynarski W  
+            Borowiec M  
+           Decreased FOXP3 mRNA expression in children with atopic asthma and IgE-mediated food allergy Ann Allergy Asthma Immunol 2015 115 415 421 26409874 
+41 
+            Glessner JT  
+            Wang K  
+            Cai G  
+            Korvatska O  
+            Kim CE  
+            Wood S  
+            Zhang H  
+            Estes A  
+            Brune CW  
+            Bradfield JP  
+             
+           Autism genome-wide copy number variation reveals ubiquitin and neuronal genes Nature 2009 459 569 573 19404257 
+42 
+            Glessner JT  
+            Reilly MP  
+            Kim CE  
+            Takahashi N  
+            Albano A  
+            Hou C  
+            Bradfield JP  
+            Zhang H  
+            Sleiman PM  
+            Flory JH  
+             
+           Strong synaptic transmission impact by copy number variations in schizophrenia Proc Natl Acad Sci U S A 2010 107 10584 10589 20489179 
+43 
+            DeWan AT  
+            Egan KB  
+            Hellenbrand K  
+            Sorrentino K  
+            Pizzoferrato N  
+            Walsh KM  
+            Bracken MB  
+           Whole-exome sequencing of a pedigree segregating asthma BMC Med Genet 2012 13 95 23046476 
+44 
+            Torgerson DG  
+            Capurso D  
+            Mathias RA  
+            Graves PE  
+            Hernandez RD  
+            Beaty TH  
+            Bleecker ER  
+            Raby BA  
+            Meyers DA  
+            Barnes KC  
+             
+           Resequencing candidate genes implicates rare variants in asthma susceptibility Am J Hum Genet 2012 90 273 281 22325360 
+45 
+            Hong X  
+            Wang X  
+           Early life precursors, epigenetics, and the development of food allergy Semin Immunopathol 2012 34 655 669 22777545 
+46 
+            Hong X  
+            Wang X  
+           Epigenetics and development of food allergy (FA) in early childhood Curr Allergy Asthma Rep 2014 14 460 25096861 
+47• 
+            Martino D  
+            Joo JE  
+            Sexton-Oates A  
+            Dang T  
+            Allen K  
+            Saffery R  
+            Prescott S  
+           Epigenome-wide association study reveals longitudinally stable DNA methylation differences in CD4+ T cells from children with IgE-mediated food allergy Epigenetics 2014 9 998 1006 This is the first and the only epigenome-wide association analysis for food allergy to date 24762976 
+48 
+            Syed A  
+            Garcia MA  
+            Lyu SC  
+            Bucayu R  
+            Kohli A  
+            Ishida S  
+            Berglund JP  
+            Tsai M  
+            Maecker H  
+            O’Riordan G  
+             
+           Peanut oral immunotherapy results in increased antigen-induced regulatory T-cell function and hypomethylation of forkhead box protein 3 (FOXP3) J Allergy Clin Immunol 2014 133 500 510 24636474 
+49 
+            Berni Canani R  
+            Paparo L  
+            Nocerino R  
+            Cosenza L  
+            Pezzella V  
+            Di Costanzo M  
+            Capasso M  
+            Del Monaco V  
+            D’Argenio V  
+            Greco L  
+             
+           Differences in DNA methylation profile of Th1 and Th2 cytokine genes are associated with tolerance acquisition in children with IgE-mediated cow’s milk allergy Clin Epigenetics 2015 7 38 25859290 
+50 
+            Prince BT  
+            Mandel MJ  
+            Nadeau K  
+            Singh AM  
+           Gut Microbiome and the Development of Food Allergy and Allergic Disease Pediatr Clin North Am 2015 62 1479 1492 26456445 
+51 
+            Alfven T  
+            Braun-Fahrlander C  
+            Brunekreef B  
+            von Mutius E  
+            Riedler J  
+            Scheynius A  
+            van Hage M  
+            Wickman M  
+            Benz MR  
+            Budde J  
+             
+           Allergic diseases and atopic sensitization in children related to farming and anthroposophic lifestyle–the PARSIFAL study Allergy 2006 61 414 421 16512802 
+52 
+            Genuneit J  
+            Strachan DP  
+            Buchele G  
+            Weber J  
+            Loss G  
+            Sozanska B  
+            Boznanski A  
+            Horak E  
+            Heederik D  
+            Braun-Fahrlander C  
+             
+           The combined effects of family size and farm exposure on childhood hay fever and atopy Pediatr Allergy Immunol 2013 24 293 298 23551831 
+53 
+            Bisgaard H  
+            Li N  
+            Bonnelykke K  
+            Chawes BL  
+            Skov T  
+            Paludan-Muller G  
+            Stokholm J  
+            Smith B  
+            Krogfelt KA  
+           Reduced diversity of the intestinal microbiota during infancy is associated with increased risk of allergic disease at school age J Allergy Clin Immunol 2011 128 646 652 e641 645 21782228 
+54 
+            Abrahamsson TR  
+            Jakobsson HE  
+            Andersson AF  
+            Bjorksten B  
+            Engstrand L  
+            Jenmalm MC  
+           Low diversity of the gut microbiota in infants with atopic eczema J Allergy Clin Immunol 2012 129 434 440 440 e431 432 22153774 
+55 
+            Abrahamsson TR  
+            Jakobsson HE  
+            Andersson AF  
+            Bjorksten B  
+            Engstrand L  
+            Jenmalm MC  
+           Low gut microbiota diversity in early infancy precedes asthma at school age Clin Exp Allergy 2014 44 842 850 24330256 
+56 
+            Sudo N  
+            Sawamura S  
+            Tanaka K  
+            Aiba Y  
+            Kubo C  
+            Koga Y  
+           The requirement of intestinal bacterial flora for the development of an IgE production system fully susceptible to oral tolerance induction J Immunol 1997 159 1739 1745 9257835 
+57 
+            Stefka AT  
+            Feehley T  
+            Tripathi P  
+            Qiu J  
+            McCoy K  
+            Mazmanian SK  
+            Tjota MY  
+            Seo GY  
+            Cao S  
+            Theriault BR  
+             
+           Commensal bacteria protect against food allergen sensitization Proc Natl Acad Sci U S A 2014 111 13145 13150 25157157 
+58 
+            Rodriguez B  
+            Prioult G  
+            Hacini-Rachinel F  
+            Moine D  
+            Bruttin A  
+            Ngom-Bru C  
+            Labellie C  
+            Nicolis I  
+            Berger B  
+            Mercenier A  
+             
+           Infant gut microbiota is protective against cow’s milk allergy in mice despite immature ileal T-cell response FEMS Microbiol Ecol 2012 79 192 202 22029421 
+59 
+            Bashir ME  
+            Louie S  
+            Shi HN  
+            Nagler-Anderson C  
+           Toll-like receptor 4 signaling by intestinal microbes influences susceptibility to food allergy J Immunol 2004 172 6978 6987 15153518 
+60 
+            de Kivit S  
+            Tobin MC  
+            Forsyth CB  
+            Keshavarzian A  
+            Landay AL  
+           Regulation of Intestinal Immune Responses through TLR Activation: Implications for Pro- and Prebiotics Front Immunol 2014 5 60 24600450 
+61 
+            de Kivit S  
+            Tobin MC  
+            DeMeo MT  
+            Fox S  
+            Garssen J  
+            Forsyth CB  
+            Keshavarzian A  
+            Landay AL  
+           In vitro evaluation of intestinal epithelial TLR activation in preventing food allergic responses Clin Immunol 2014 154 91 99 25058467 
+62 
+            Ling Z  
+            Li Z  
+            Liu X  
+            Cheng Y  
+            Luo Y  
+            Tong X  
+            Yuan L  
+            Wang Y  
+            Sun J  
+            Li L  
+             
+           Altered fecal microbiota composition associated with food allergy in infants Appl Environ Microbiol 2014 80 2546 2554 24532064 
+63 
+            Azad MB  
+            Konya T  
+            Guttman DS  
+            Field CJ  
+            Sears MR  
+            HayGlass KT  
+            Mandhane PJ  
+            Turvey SE  
+            Subbarao P  
+            Becker AB  
+             
+           Infant gut microbiota and food sensitization: associations in the first year of life Clin Exp Allergy 2015 45 632 643 25599982 
+64 
+            Chen CC  
+            Chen KJ  
+            Kong MS  
+            Chang HJ  
+            Huang JL  
+           Alterations in the gut microbiotas of children with food sensitization in early life Pediatr Allergy Immunol 2015 
+65 
+            Uy N  
+            Graf L  
+            Lemley KV  
+            Kaskel F  
+           Effects of gluten-free, dairy-free diet on childhood nephrotic syndrome and gut microbiota Pediatr Res 2015 77 252 255 25310757 
+66 
+            Nermes M  
+            Endo A  
+            Aarnio J  
+            Salminen S  
+            Isolauri E  
+           Furry pets modulate gut microbiota composition in infants at risk for allergic disease J Allergy Clin Immunol 2015 136 1688 1690 e1681 26343452 
+

@@ -1,0 +1,716 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   980846321444Public Health NutrPublic Health NutrPublic health nutrition1368-98001475-272726054756464094410.1017/S1368980015001640NIHMS700114ArticleNon-linear education gradient across the nutrition transition: mothers’ overweight and the population education transition Haram Jeon hyj5044@psu.eduEducation Policy Studies, Pennsylvania State University, 300 Rackley, University Park, PA 16802, USASalinas Daniel Organization for Economic Co-operation and Development (OECD), Directorate of Education and Skills, Paris, FranceBaker David P Education Policy Studies &amp; Sociology, Pennsylvania State University, University Park, PA, USA24 7 2015 09 6 2015 12 2015 01 12 2015 18 17 3172 3182 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objective
+Previous studies found that developed and developing countries present opposite education-overweight gradients but have not considered the dynamics at different levels of national development. A U-inverted curve is hypothesized to best describe the education-overweight association. It is also hypothesized that as the nutrition transition unfolds within nations the shape of education-overweight curve change.
+
+Design
+Multi-level logistic regression estimates the moderating effect of the nutrition transition at the population level on education-overweight gradient. At the individual level, a non-linear estimate of the education association assesses the optimal functional form of the association across the nutrition transition.
+
+Setting
+Twenty-two administrations of the Demographic and Health Survey, collected at different time points across the nutrition transition in nine Latin American/Caribbean countries.
+
+Subjects
+Mothers of reproductive age (15–49) in each administration (n 143,258).
+
+Results
+In the pooled sample, a non-linear education gradient on mothers‘ overweight is found; each additional year of schooling increases the probability of being overweight up to the end of primary schooling, after which each additional year of schooling decreases the probability of overweight. Also, as access to diets of high animal fats and sweeteners increases over time, the curve‘s critical point moves to lower education levels, the detrimental positive effect of education diminishes, and both occur as the overall risk of overweight increases with greater access to harmful diets.
+
+Conclusions
+Both hypotheses are supported. As the nutrition transition progresses, the education-overweight curve steadily shifts to a negative linear association with higher average risk of overweight; and education, at increasingly lower levels, acts as a “social vaccine” against increasing risk of overweight. These empirical patterns fit the general “population education transition” (PET) curve hypothesis about how education influences on health risks are contextualized across population transitions.
+
+Mothers‘ OverweightEducationNutrition TransitionPopulation Education Health curveLatin AmericaObesity Risk
+   Obesity has become a global epidemic beyond high-income countries including many less developed and middle-income countries(1). In Latin America and the Caribbean the prevalence of obesity and overweight can be as high as, or even higher than, that in developed nations(2–8). For example, by 2008 the Dominican Republic and Mexico reached rates of overweight among adult women population that surpassed 70%, and in no country of the region, with the exception of Haiti, was the rate lower than 50%(6).
+
+The emerging overweight and obesity epidemic in developing regions is partly the result of rapid changes in food environment and diet styles associated with the nutrition transition (hereafter NT), made up of several stages in the shift from traditional to contemporary nutritional patterns. Introduced by Popkin in 1993, NT indicates the shift of dietary consumption and the following nutritional change over the total energy expenditure among a population(10–15). Due to the low development of food supply technologies (i.e. hunting and gathering food, low technology agriculture), at the earliest stage of the NT, people have access to foods low in fats and cereal-predominant with still some risk of nutritional deficiency. At the intermediate stage, nutritional status begins to consist of more fat, especially from animal fats, sugar and processed foods, with increased rates of overweight and obesity and associated diseases among the population. At the most advanced stage of the NT, extreme access to animal fats, sugar and processed food result in high overall rates of obesity, but with a growing proportion of the population attempting to control body weight through taking in less fat and processing food and consuming more fruits and vegetables. Significant shifts towards the intermediate and advanced stages occurred over the last several decades of the 20th century as most regions experienced the ‘Western diet’ – consumption of saturated animal fats, sugar/sweeteners but low in fiber– effecting changes in average stature, body composition, and morbidity(14). While an advancing NT can alleviate risk of under-nutrition, the great influx of cheap, energy-dense and nutritionally poor food requires individuals and communities to self-regulate their diet and life style to prevent unnecessary increases in body weight(10). In this study, the NT stage is operationalized as the percentage of energy derived from animal fats and sugars/sweeteners over the total energy expenditure.
+
+In order to lessen the health challenges of growing overweight in the region, education, with its influence on increased health literacy and accurate decision making, is a potentially important factor and past research frequently finds its role as a social vaccine that assists individuals and communities in improving health and life expectancy(16–18). The term of social vaccine, as a metaphor to highlight the social determinants of health, has been generally used to describe the preventive role of mass education in public health problems associated with higher morbidity and mortality(19–21). Analogous to immunization by a medical vaccine, education is described as a social vaccine to illustrate its potential of raising a person’s capacity to select healthier life styles using better knowledge and cognitive skills(19, 22). Consistently, research on high-income countries reports, ceteris paribus, significant effects of formal education on reducing individual risk of being overweight and obese, particularly among women(8, 9, 23–27). A reverse gradient, however, has been found in some developing countries and in Latin America in particular, where the more educated are often more likely to be overweight(5, 7, 28–31); also there are reports that education has no effect on overweight in samples from middle-income countries(26, 28–29, 32). This leads to speculation that the relationship between educational attainment and risk of overweight may vary by population context, a prominent one being the NT stage. Since along with a worsening obesity epidemic, the rate of importation of energy-dense foods from the Western food market system varies across Latin American/Caribbean countries, the situation in the region is suitable to examine the dimensions of the influence of education on mother’s overweight across the NT(7, 15).
+
+There are a number of reasons why the education effects on overweight might differ by NT stage, but clear empirical evidence remains unavailable. Cultural and economic explanations suggest that overweight body size is regarded as a symbol of wealth, intelligence or health in developing countries, or that the economic benefits of more education might be used primarily to afford access to more and less healthy food(26). Others have argued that information on the risks associated with obesity is unavailable or irrelevant in poor countries when food is not sufficient for survival(13, 33). Despite these speculations, it has yet to be established if counter education gradients across populations are part of a larger consistent pattern, and if the NT plays a role in this. A similar pattern has been found for education effects during the epidemiological transition away from a disease load of mostly communicable disease to chronic diseases, and during the course of the HIV/AID epidemic in sub-Saharan Africa(34). And it is likely that these patterns of education effects on disease across changing population contexts are incidences of the same general process known as the Population Education Transition (hereafter PET) curve(35). These ideas applied to the NT and risk of overweight among women is analyzed in two steps.
+
+First, the problem of heterogeneous education effects on overweight status is addressed through an analysis of the optimal functional form of the association between education and mother’s overweight in Latin American/Caribbean populations. For the most part, previous research on obesity and overweight in developing countries has used linear specifications of the education gradient and binary definitions of national development (developing/developed). As a result, existing research pays insufficient attention to a potential non-linear relationship between education and obesity, and to the specific dynamics at intermediate developmental stages (e.g. low to middle-income countries at various NT stages). Across these kinds of transitional populations, a nonlinear specification might better fit the data as some education and its impact on status and material resources can lead to higher consumption of fat and sugar but higher levels of education leads to better comprehend and effective reaction to the rapid changes in the food supply. Indeed, a non-linearity relationship between education and health has been reported in different contexts for a number of other diseases and health risks(34–39). Thus, the first hypothesis is that a U-inverted curve will be the optimal functional form to represent the overall relationship between education and overweight across a pooled sample from Latin American/Caribbean countries.
+
+Second, while a non-linear education-overweight association may optimally form across all stages of the NT, the nature of the association may be linear with a positive or negative slope in national populations depending on the countries current stage in the transition—the nature of the association likely changes dynamically as the NT progresses(23, 26). For example, prior research from other population transitions and their related health challenges finds that as risks (e.g. tobacco, multi-partner sex, high alcohol content liquor) are introduced into a population superior material and status benefits from education lead to higher risk taking among the more educated, but as the transition deepens the greater knowledge and better decision making skills about prevention accrued from education leads to a reduction in risk taking and higher prevention behaviors among the educated(18, 36–40). And as more information and experience with risks accrue within the population, it takes less education to form accurate knowledge and preventative action(18, 36). Lastly, these dynamics occur while greater access to the risk factors (i.e. less expensive tobacco, high fat food etc.) increases health risks in the overall population. Thus, as the NT progresses and Western diets become more accessible in a country, the second hypothesis is that two components of education-overweight curve will change over cohorts of mothers: 1) As NT status develops, the preventive role of education in reducing overweight prevalence will diffuse to less educated population; and 2) The increase of NT will cause greater probability of being overweight, especially for less educated population. Taken together, these hypotheses highlight a long-term population transition in the role of education in risk of obesity.
+
+Methods
+Data
+Data from repeated administrations of the Demographic and Health Surveys (hereafter DHS) in eight Latin American countries and one bordering Caribbean country were mainly used to examine the research hypotheses. The datasets have large sample sizes ranging from 5,000 to 30,000 households collecting variables about population and health(41). To capture variation on NT stage, 22 “country-time” units were created from the DHS administrations: Bolivia (1994, 1999, 2003, and 2008), Brazil (1996), Colombia (1995, 2005, and 2010), Dominican Republic (1991 and 1996), Guatemala (1995 and 1999), Haiti (1995, 2000, and 2006), Honduras (2006), Nicaragua (1998 and 2001), and Peru (1992, 1996, 2002, and 2008).i The target population is women of reproductive age (15–49) who have given at least one birth at the administration of DHS. In addition to understanding the association between education and women’s weight, focusing on mothers is important given their crucial role in the intergenerational transmission of health inequalities(42). The pooled sample across all country-time units includes 143,258 mothers.
+
+The information regarding NT status of each administration is not available in the DHS. Instead, the Food and Agriculture Organization (FAO) of the United Nations provides the information of food balance by country and by time in the Food Balance Sheet (hereafter FBS) including estimates of the total energy expenditure per day per capita (kcal/day/capita), the energy derived from each dietary source (kcal/day/capita), and the consumed weight of each dietary source (g/day/capita) for each population in a year. The FBS data were used to generate an indicator of the national NT status for each country-time unit (i.e. year of each DHS administration in a country).
+
+For the other population-level information including GDP per capita and urbanization, World Bank statistics were used.
+
+Dependent variable
+Mother's Overweight is an individual-level dichotomous measure constructed from a Body Mass Index (BMI = weight(kg)/height2(m2)), with over 25.0 kg/m2 coded as overweight, and the non-overweight group is the reference category(3, 6, 27).
+
+Independent variables
+Formal education is measured as years of schooling completed by the mother. NT status of each country-time unit is measured by the standard index constructed for the proportion of animal fats and sugar/sweeteners over the total energy expenditure per day per capita (kcal/capita/day) in a country in the year of the DHS administration(10, 13). In the NT status, animal fats includes all types of fat consumption from all kinds of animal sources and sugar/sweeteners also consists of all types of sweetening sources including non-centrifugal sugar, raw equivalent sugar, honey, and other sweeteners. As shown in Figure 1, falling between African countries at mostly modest levels of NT and the U.S. at an advanced level, the sampled countries varied in their initial NT status in 1991 as well as in the speed of progression across statuses over the next twenty years.
+
+Control variables
+To estimate the impact of education and NT status more exactly, the analysis controlled six variables related to determine the probability of overweight. At individual level, household wealth and urbanicity influence obesity because of the economic and geographic proximity to western style diet and process foods(11, 26, 30). In addition, age and pregnancy are known for the physiological factors on body weight(6, 27). At population level, GDP per capita and urbanization are controlled to consider the relationship between national development, marketization of food system and the proportion of overweighed people(10, 14).
+
+Household wealth is measured through a composite score with mean 0 and standard deviation 1; generated through a factor analysis that combined data on availability of various home possessions (electricity, radio, TV, refrigerator, bike, motorcycle, and car), as reported in the DHS surveyii.
+
+Age indicates woman's age ranging from 15 to 49.
+
+Urbanicity is a dichotomous indicator of the area of residence of mother (urban = 1).
+
+Pregnancy is measured as a dichotomous variable (pregnant woman = 1); this is an important control because pregnant women are more likely to weight more than non-pregnant women.
+
+GDP per capita of each country-time unit is measured as natural logged value in order to meet the assumption of normal distribution in the year of DHS administration.
+
+Urbanization of each country-time unit is measured as the percentage of population living in urban area over the total population in the year of DHS administration.
+
+Analytical strategy
+Multilevel modelingiii is an adequate method because it allows to deal with a stratified data structure where individual cases (mothers) nested in the groups (country-time units) are affected by those groups’ contextual influence(42). A series of logistic regression models were estimated to calculate the probability of being overweight relative to non-overweight groups based on the following equationsiv.
+Equation 1: Individual level
+
+ln[Pi/(1-Pi)] = β0 + β1(Education) + β2(Education2) + βk(Controls)
+
+Equation 2: Population level
+
+β0 = γ00 + γ01(NT status) + γ0w(Level 2 controls) + u0
+
+β1 = γ10 + γ11(NT status) + γ1w(Level 2 controls) + u1
+
+β2 = γ20
+
+βk = γk0
+
+
+
+
+In the individual level equation, Pi denotes the individual probability of being overweight in the pooled sample. The outcome is the log odds of the probability of overweight (Pi) over the probability of non-overweight (1-Pi). β0 indicates the initial probability of being overweight among women with no schooling after controlling other variables in the pooled samplev. β1 and β2 represent the linear and quadratic effects of education and βk are coefficients of individual-level covariates. In the population level equation, γ00 is the average log odds of overweight in all groups after controlling for level 2 explanatory variables, γ01 describes the effect of national NT on national average of overweight, and γ0w represents the effect of level 2 variables on the average overweight rate. At the level 2 equation on education-overweight slope (β1), γ11 indicates moderating effect of NT on determining education gradient and γ1w shows the effect of population-level variables on the linear education-overweight slope. Finally, level 2 residuals are assumed only in the intercept (u0) and linear slope of education (u1), because the variance component of quadratic term of education was estimated zero despite the statistical significance. Other slopes of control variables (γk0) are fixed at zero because the group-differences among these covariates are not the focus here.
+
+The initial estimated model on the pooled sample of mothers across all country-time units without including information on NT status evaluates the linear effect of education on the risk of overweight; this initial model is examined including individual covariates. A second model adds the quadratic term of education (education^2) testing the first hypothesis postulating a curvilinear relationship between education and overweight across all country-time units. A third model examines the moderating impact of the NT status of each country-time unit on the education-overweight relationship by estimating the effect of NT at level 2 on the education-overweight slope (β1), as well as on the probability of overweight (β0), conditioning on county-time units’ level of urbanization and GDP per capita.
+
+Design effects and multiple imputation of missing data
+In order to consider design effects of the dataset we included individual-level and population-level weighting variables in the analysisvi. The ice option in the STATA 12.0 software generated five imputed data sets used to derive average corrected coefficients and standard errors of variables in the main analysis(44). Multiple imputations were conducted to estimate and replace missing data.
+
+Results
+Descriptive statistics
+Table 1 shows the descriptive statistics for the pooled sample; 41.5% of Latin American mothers were overweight. The average years of schooling among women in the sample was about 6.5 years, their average age was about 29 years old, 8% were pregnant at the moment of the survey, and more than half of them resided in urban area (53.4%). At the country-time unit level, the average NT status of the pooled sample was 21.823, indicating the proportion of animal fats and sugar/sweeteners over the total dietary consumption. As social developmental confounders, GDP per capita was 1911.312 constant 2000 US dollars and approximately 64 per cent of population resided in urban areas.
+
+Functional form
+The first two models in Table 2 compare the linear and nonlinear functional forms of the effects of education on the risk of mothers’ overweight across all NT statuses. In Model 1, the statistical significance of years of formal schooling is negative but non-significant after conditioning on wealth, age, pregnancy, and urbanicity. In Model 2, once a quadratic term of education is introduced, both the linear (OR=1.070; p&lt;.001) and the non-linear (OR=0.995; p&lt;.001) coefficients are found statistically significant, confirming the first hypothesis that a U-inverted curvilinear relationship fits the relationship between education and risk of being overweight across mothers across all NT statuses.
+
+Graphing these finding, Figure 2 displays a positive slope of increasing probability of being overweight with each additional year of primary education (0–6 years of schooling) up to the critical point at 6.8 years of schooling and then a negative slope through higher education.vii In other words across the pooled sample, among mothers who have completed at least lower secondary schooling (grade 7), the probability of being overweight decreases with each additional year of schooling. Given this, the critical point of the curve at which the gradient of education changes from a risk factor to a social vaccine can be referred to as the social vaccine point.
+
+Associations of national NT status on education-overweight gradients
+As shown in Table 2, the variance component of the education-overweight slope between groups (τ11) in Model 1 and 2 are statistically significant, indicating that the education-overweight association varies across country-time units. This motivates the analysis of the second hypothesis about the national NT status as a significant contextual factor that mediates the effects of education on overweight across countries.
+
+As displayed in Table 3, Model 3 estimates a NT status effect on the initial overweight rate (direct effects) and on the education-overweight slope (cross-level interaction terms) conditioning on urbancity and GDP at population level. As predicted, the Westernization of the food supply has a positive impact on increasing the initial probability of mothers being overweight, indicating that 1 unit increase of NT status in a country increases by 5.9% of odds of national average probability of being overweight (OR=1.059; p&lt;.01). At the same time, the cross-level interaction term (education*NT) has a negative impact on being overweight (OR=0.995; p&lt;0.001), indicating that in the countries at more advanced NT statuses, the education effect on increasing mothers’ overweight declines and eventually shifts to a negative effect. These results suggest that advanced NT status changes the role of education on overweight from a risk factor to a social vaccine.
+
+To further illustrate differences in the education-overweight gradient across different NT status, Figure 3 compares estimated education-overweight slopes for three hypothetical groups with different NT levels as: 1) Low NT status includes the NT index at two standard deviations below the pooled sample mean; 2) Medium NT status includes the index within two standard deviation of the mean; and, 3) High NT status includes the index at two standard deviations above the mean. The curves, net of the control variables, change in the three predicted ways as countries progress across the NT. First, the critical, or social vaccine, point shift towards lower education levels from 10 to 7 to just under 3 years of schooling. Second, the positive gradient between education and mother’s overweight diminishes at the high NT status. And lastly, as countries gain more access to high animal fats, high sugar/sweeteners, and processed foods, the risk of overweight for the entire population of mothers substantially increases. For example, mothers with no formal education in countries earlier in the NT have a 25% probability of being overweight but deeper into the NT this shifts upwards to 36% and over 50%. Also, in populations at high NT status, while even small amounts of education lowers the risk of mothers’ overweight, it takes advanced levels of education (13–14 years) to reach average risk levels of populations in low NT status.
+
+Discussion: Overweight and the Population Education Transition Curve
+The fact that approximately 40% of women of reproductive age in Latin American/Caribbean region from the sample were overweight reveals a public health risk of great magnitude for this region. Even though this proportion is lower than the 76.7%viii recently reported in the United States(6), there is evidence that the rate of overweight continues to grow among Latin American and Caribbean countries. Although education is usually assumed to be negatively related to health risks, the results for our sample of mothers showed a mixed association between educational attainment and overweight. The findings across pooled country-time units indicate that a non-linear inverted U-shaped curve is the best functional form to represent the education effects on probability of mothers’ overweight. In the curvilinear relationship, education acted as a risk factor to exacerbate overweight prevalence among the population with less than primary education. At the critical point, referred as social vaccine point, education became preventive in reducing the probability of overweight among those in the population with more than primary education. In addition, the curve changes dynamically towards a general social vaccine effect of education even among less educated, as the NT status advanced in populations. Therefore, earlier reports of seemingly inconsistent positive and negative education gradients are likely part of a larger PET pattern; a predictable systemic interaction among the multiple, and sometimes contrasting, effects of individual educational attainment on health-related variables caused by changes in social and health environment of the population as a whole(35). The PET curve reflects the fact that in earlier stages of the NT more educated are at higher risk of overweight and as the NT progresses the education gradient shifts to a negative slope. Past research on schooling effects shows that education affects health through several mediating channels(18,36,45). Salient among these channels are material or economic benefits (e.g. occupation, income or wealth), and improvements in cognitive functioning (e.g. information processing, reasoning and decision-making abilities leading to understanding risks and preventive behavior) along with attitudinal change (e.g. acquisition of modern values, empowerment to make independent decisions). And the PET curve process hypothesizes that different levels of a population transition can suppress or enhance mediating educational effects. While it is frequently assumed that multiple effects of education work in the same direction relative to health, it can be the case that they have contrasting influences, such as during periods of introduction of luxury items that are potential new health risks, including when the food supply starts to include significant levels of animal fats, sugar/sweeteners, and processed food products(39, 46). The dynamic changes shown in Figure 3 is likely the classic case of PET, and although a test of this complex hypothesis is beyond the scope here, it is useful to consider the potential implication of the PET curve in light of the global NT and obesity pandemic. In addition, recent globalization in food market, led predominantly by multinational food and beverage companies, has made much faster the shift of NT to western style diet and the following PET in education-overweight gradient among developing countries(10).
+
+There are several ramifications the first of which is that epidemiological conclusions about the role of education in the global obesity epidemic must be sensitive to the NT stages of populations from which research samples are drawn or else misleading conclusions that education is always a risk or social vaccine are likely to muddy the literature. A similar confusion has occurred in epidemiological assessments of education and HIV/AIDS pandemic in sub-Saharan Africa; where education initially led to more risk, but by the mid-point in the pandemic became the most robust of social factors lowering risk(38).
+
+The PET curve for obesity also has implications for the timing and focus of public health interventions as populations transverse through the NT. Earlier in the NT prevention should be aimed at wealthier and more educated segments of the population, not only because they are initially at highest risk of overweight, but because this could also work to lower social vaccine point more rapidly. Later in the NT the public health target should include less education groups, and the intervention itself probably must be richer in its information to match the lower cognitive and literacy skills of these individuals(47). From our analysis, as the NT progresses the overweight rate is predicted to grow grown to 50% particularly for the less educated population, while the prevalence of overweight among those who have completed more than a tertiary education (i.e., master's degree and doctoral degree) is less than 30%. This finding underlines the fact of increasing vulnerability to the risk of obesity among less educated groups, and should be regarded as a main cause to increasing health inequalities in high NT countries. Lastly, as food security and diet style become global issues, while obesity and its impact on chronic diseases and mortality become more prominent for nations’ health systems, the fact that continued investment in academic education is an essential public health tool must be advanced within governments and world health agencies.
+
+Despite the implications for public health from the PET curve for obesity, there are some caveats about the findings. First, even though the proxy indicator of NT status from the FBS provided the population context of dietary consumption across administrations, the diffusion of the westernized diet style can vary by subpopulations in a country. Specifically, the dietary westernization first takes place among younger, more educated, and wealthier populations and then the new trend spreads to other population(48). While the aggregate measure of dietary westernization by FBS provides the information on overall level of NT in a country, it could not capture these kinds of within nation differences, nor the diets of individuals. Second, some potential confounding factors not available in the DHS, such as nutritional knowledge(17), health-service utilization(49) and physical activity(14, 50, 51), might distort the estimation. In particular, future research on education and overweight across NT status should consider physical activity, as high levels of sedentary behavior and low levels of physical activity are well-known factors in increasing the probability of obesity(50–51). Indeed, modernization and urbanization during national development can lead to changes in life styles characterized with low level of physical activity in leisure, transportation, and work due to the development of technologies and shift from high-energy expenditure activities (e.g., farming) to the service sector(14).
+
+Conclusions
+This research investigated the dynamics of changing role of education on reducing the probability of being overweight among mothers of reproductive age in Latin American/Caribbean regions. As NT progresses to the level of Western countries, the association between education and overweight has changed from inverted-U shaped curve to a negative and linear gradient. The dynamics support the PET curve hypothesis on the moderating effect of population NT transition on education-overweight gradient, and these dynamics hold implications for public health interventions to reducing health inequalities caused by increase of vulnerability among less educated population in high NT countries.
+
+i Bolivia, Colombia, and Peru make up 70% country-time units. To verify that these 3 countries showed consistent results with other countries in the analysis, all coefficients from 3 datasets were compared with z-score test: pooled dataset (22 country-time units), 3-country dataset (11 country-time units), and others (11 country-time units from Haiti, Brazil, Dominican Republic, Nicaragua, Guatemala, Honduras). As a result, the difference of coefficients was not statistically significant, which means that all units show the similar result about the overall nonlinearity of education effect and the effect of nutrition transition on individual countries.
+
+ii Only the most recent DHSs provide a composite score of wealth combining related indicators. Therefore, a wealth indicator using data on home possessions available in older DHSs was created and is highly correlated (.9) with the composite score provided by later DHSs.
+
+iii The multilevel modeling in this analysis assumes random effects in intercept (i.e., between-group difference in the initial probability of overweight) and in coefficient of education (i.e., between-group difference in the education-overweight gradient). The significance of variance components (τ00 and τ01) supports the assumption of random effects in the model. Table 2 and 3 report the significance of variance components.
+
+iv The equations describe model 3 as a final analysis.
+
+v Among the individual-level control variables, wealth and age were grand-mean centered. As discrete variables, urbanity was centered at the middle point (0.5) between urban (=1) and rural (=0) in order to estimate the value of average probability of overweight regardless of urbanity. Finally, pregnancy is assumed to be 0 if she is not pregnant at the time surveyed.
+
+vi Since we combined national data sets of DHS administration, each national data set does not have population-level weighting variable. Thus, in order to avoid the estimation error by imbalanced distribution of the pooled sample, we calculated population-level weighting variables for each county-time unit(43).
+
+vii The probability of being overweight is calculated by odds ratio over odds ratio plus 1 (OR/(OR+1)) for individuals considering their educational attainment and the initial probability of being overweight. As mentioned above, the residential status is rearranged by the centering strategy of the middle point between urban and rural area. For example, the overweight probability of non-educated individuals represents 36.95% because their log odds is −0.5345 (= intercept + (urbanicity/2) + education + education2 = −0.704 + (0.339/2) + 0.068*0 – 0.005*0; exp(−0.5345) = 0.5860; P = OR/(OR+1) = 0.3695).
+
+viii The percentage denotes the overweighed among women aged 15–100 in 2010.
+
+Appendix
+Appendix A Means and Standard Deviations of Variables by Country-Time Units
+
+mean or proportion
+(S.D.)	
+
+                  
+                	
+	Country-Time groups	
+Variables	BO94	BO99	BO03	BO08	BR96	CO95	CO05	CO10	DO91	DO96	GT95	
+Overweight	0.356
+(0.479)	0.462
+(0.499)	0.488
+(0.500)	0.527
+(0.499)	0.339
+(0.473)	0.414
+(0.493)	0.402
+(0.490)	0.458
+(0.498)	0.276
+(0.447)	0.363
+(0.481)	0.318
+(0.466)	
+Education	5.488
+(4.491)	6.010
+(4.537)	6.876
+(4.609)	7.888
+(4.786)	5.768
+(3.755)	6.707
+(3.904)	7.913
+(4.064)	8.410
+(4.034)	6.974
+(4.534)	7.045
+(4.537)	2.489
+(3.403)	
+Wealth	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	
+Age	28.587
+(7.067)	29.842
+(7.327)	29.233
+(7.365)	29.033
+(7.361)	27.822
+(6.720)	28.073
+(6.681)	27.785
+(6.875)	27.686
+(7.021)	26.951
+(6.297)	26.848
+(6.425)	28.854
+(7.522)	
+Pregnancy	0.112
+(0.315)	0.088
+(0.284)	0.077
+(0.267)	0.075
+(0.263)	0.076
+(0.265)	0.083
+(0.275)	0.058
+(0.234)	0.054
+(0.226)	0.118
+(0.322)	0.107
+(0.309)	0.135
+(0.342)	
+Urbanicity	0.535
+(0.499)	0.555
+(0.497)	0.579
+(0.494)	0.546
+(0.498)	0.764
+(0.425)	0.679
+(0.467)	0.718
+(0.450)	0.661
+(0.474)	0.600
+(0.490)	0.555
+(0.497)	0.252
+(0.434)	
+NT Index	24.770	24.030	24.670	25.577	30.201	28.050	27.408	26.389	23.370	25.873	21.092	
+GDP capita	927.000	1007.000	1020.000	1182.000	3628.000	2593.000	2785.000	3233.000	1831.000	2286.000	1587.000	
+Urbanization	59.000	61.000	63.000	66.000	78.000	71.000	74.000	75.000	56.000	58.000	43.000	
+Sample size	3,075	4,788	7,325	6,429	3,761	3,824	11,634	14,492	2,726	3,154	6,065	
+	Country-Time groups	
+
+                  
+                	
+Variables	GT99	HT95	HT00	HT06	HN06	NI98	NI01	PE92	PE96	PE00	PE08	
+Overweight	0.410
+(0.492)	0.122
+(0.327)	0.230
+(0.421)	0.224
+(0.417)	0.434
+(0.496)	0.391
+(0.488)	0.445
+(0.497)	0.398
+(0.489)	0.429
+(0.495)	0.458
+(0.498)	0.505
+(0.500)	
+Education	2.811
+(3.453)	2.578
+(3.488)	2.915
+(3.607)	3.789
+(3.937)	5.422
+(4.255)	4.895
+(3.964)	5.047
+(4.208)	6.450
+(4.155)	6.284
+(4.262)	7.445
+(4.444)	8.296
+(4.387)	
+Wealth	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	0.000
+(1.000)	
+Age	28.529
+(7.541)	29.819
+(7.282)	30.225
+(7.736)	29.817
+(7.633)	29.947
+(7.152)	27.501
+(7.192)	27.300
+(7.189)	29.349
+(7.086)	29.296
+(7.208)	29.283
+(7.261)	29.454
+(7.265)	
+Pregnancy	0.123
+(0.329)	0.150
+(0.357)	0.125
+(0.331)	0.096
+(0.294)	0.074
+(0.261)	0.080
+(0.272)	0.068
+(0.252)	0.100
+(0.300)	0.076
+(0.265)	0.062
+(0.240)	0.058
+(0.234)	
+Urbanicity	0.263
+(0.441)	0.399
+(0.490)	0.322
+(0.467)	0.388
+(0.487)	0.334
+(0.472)	0.481
+(0.500)	0.470
+(0.499)	0.623
+(0.485)	0.558
+(0.497)	0.491
+(0.500)	0.539
+(0.499)	
+NT Index	22.063	15.060	15.303	16.129	25.690	22.809	22.954	21.014	15.513	15.431	14.528	
+GDP capita	1697.000	411.000	424.000	385.000	1354.000	719.000	787.000	1628.000	1993.000	2061.000	2962.000	
+Urbanization	45.000	33.000	36.000	46.000	49.000	54.000	55.000	70.000	71.000	73.000	76.000	
+Sample size	3,030	2,273	4,348	4,237	8,082	5,824	5,088	6,335	12,403	10,499	13,866	
+Figure 1 Nutrition Transition Status of Sampled Country-time Units in Comparison with Africa* and the United States†‡
+
+* FAO provides the aggregated information on each continent. This NT status of African contains all countries in Northern, Southern, Western, and Eastern African regions.
+
+† Source: FAO statistics (2013)
+
+‡ The NT statuses of African and the United States indicates the average value during 1991–2009.
+
+Note: FAO statistics provides with the information related to nutrition transition until 2009. Therefore, the NT index of Colombia 2010 was assumed to be same with that of Colombia 2009.
+
+§ NT Status indicates the percentage of the animal fats and sugar/sweeteners over the total food supply in each country. For example, 30 in Brazil 1996 (the second column from the right) means that a Brazilian consumed 30% of animal fats and sugar/sweeteners over his or her energy intake in 1996.
+
+Figure 2 Curvilinear Gradient of Education-Mothers’ Overweight Association across all Nutrition Transition Statuses (Model 2, Table 2)
+
+Figure 3 Curvilinear Gradient of Education-Mothers’ Overweight Association by Nutrition Transition Status* (Model 3, Table 3)
+
+* These three groups were divided by different NT status based on the average percentage of NT status in the sampled countries. Low NT status indicates the group with 2 standard deviation below the average NT, Medium NT status represent the average group of NT, and High NT status denotes the group with 2 standard deviation above the average NT.
+
+Table 1 Means and Standard Deviation for all Variables and Sample Size
+
+Variables	Mean or Proportion	S.D.	% imputed	
+
+              Individual level
+            				
+Mother's Overweight (25 or higher BMI = 1)	0.415	0.493	8.91	
+Education (years of schooling)	6.404	4.548	0.02	
+Wealth (factor score)	0.000	1.000	0.98	
+Age (years)	28.642	7.228	0.00	
+Pregnancy (yes =1)	0.080	0.271	0.00	
+Urbanicity (yes =1)	0.534	0.499	0.00	
+
+              
+            	
+
+              Country-Time level
+            				
+NT status (% of animal fats and sugar/sweeteners)	21.823	4.885	0.00	
+GDP per capita (constant 2000 US dollar)	1911.312	924.298	0.00	
+Urbanization (% of urban population)	63.981	12.254	0.00	
+
+              
+            	
+Sample N		143,258		
+Table 2 Weighted Multilevel Logistic Regression Estimate of Functional Form of Education Gradient on Mother's Overweight
+
+	Model 1		Model 2	
+
+              
+            	
+	log odds
+(S.E.)		odds ratio		log odds
+(S.E.)		odds ratio	
+Education	−0.011
+(0.005)		0.989		0.068***
+(0.007)		1.070	
+Education^2					−0.005***
+(0.0004)		0.995	
+
+              Wealth
+              †
+            	0.318***
+(0.018)		1.375		0.317***
+(0.018)		1.373	
+
+              Age
+            	0.055***
+(0.002)		1.056		0.059***
+(0.001)		1.061	
+Pregnancy
+(yes=1)	0.684***
+(0.041)		1.981		0.696***
+(0.039)		2.005	
+Urbanicity
+(urban=1)	0.357***
+(0.042)		1.429		0.339***
+(0.042)		1.403	
+Intercept	−0.521***
+(0.095)		0.593		−0.704***
+(0.083)		0.494	
+
+              
+            	
+Sample size				143,258				
+Number of Groups				22				
+
+              
+            	
+Variance Components ‡								
+Intercept (τ00)		0.29192***				0.25004***		
+Education (τ11)		0.00090***				0.00065***		
+Covariance (τ10)		−0.01368***				−0.00979***		
+† Grand-mean centered variables (wealth and age) were italicized.
+
+* p &lt;.05
+
+** p &lt;.01
+
+*** p&lt;.001
+
+‡ The significance of variance components indicates whether the random effect can be assumed in intercept and coefficients.
+
+Table 3 Weighted Multilevel Logistic Regression Estimate of Education and Mothers‘ Overweight by National Nutrition Transition Status
+
+	Model 3	
+
+              
+            	
+	log odds
+(S.E.)		odds ratio	
+Education	0.063***
+(0.007)		1.065	
+Education*NT status†	−0.004***
+(0.001)		0.995	
+Education*Urbanization	−0.002**
+(0.000)		0.998	
+Education*Logged GDP	0.011
+(0.009)		1.011	
+Education^2	−0.005***
+(0.000)		0.995	
+
+              Wealth
+            	0.317***
+(0.018)		1.373	
+
+              Age
+            	0.059***
+(0.001)		1.061	
+Pregnancy
+(yes=1)	0.696***
+(0.039)		2.005	
+Urbanicity
+(urban=1)	0.339***
+(0.042)		1.403	
+
+              NT status
+            	0.057**
+(0.014)		1.059	
+
+              Urbanization
+            	0.029**
+(0.007)		1.030	
+
+              Logged GDP
+            	0.032
+(0.165)		1.033	
+Intercept	−0.654***
+(0.067)		0.519	
+
+              
+            	
+  Sample size		143,258		
+  Number of Groups		22		
+
+              
+            	
+Variance Components‡				
+  Intercept (τ00)		0.10184***		
+  Education (τ11)		0.00012***		
+  Covariance (τ10)		−0.00080***		
+† Grand-mean centered variables (wealth, age, NT status, urbanization, logged GDP) were italicized
+
+* p &lt;.05
+
+** p &lt;.01
+
+*** p&lt;.001
+
+‡ The significance of variance components indicates whether the random effect can be assumed in intercept and coefficients.
+
+
+   References
+1 
+            Caballero B  
+           
+            Shils ME  
+            Sheke M  
+            Ross AC  
+            Caballero B  
+            Cousins RJ  
+           The Nutrition Transition: Global Trends in Diet and Disease Modern Nutrition in Health and Disease 2005 Philadelphia, PA Lippincott Williams &amp; Wilkins 1717 1722 
+2 
+            Filozof C  
+            Gonzalez C  
+            Sereday M  
+             
+           Obesity Prevalence and Trends in Latin-American Countries Obesity reviews 2001 2 99 106 12119667 
+3 
+            Uauy R  
+            Albala C  
+            Kain J  
+           Obesity Trends in Latin America: Transiting from under- to Overweight The Journal of Nutrition 2001 131 893S 899S 11238781 
+4 
+            Fernald LCH  
+           Socio-Economic Status and Body Mass Index in Low-Income Mexican Adults Social Science &amp; Medicine 2007 64 2030 2042 17368895 
+5 
+            Hook JV  
+            Altman CE  
+            Balistreri KS  
+           Global Patterns in Overweight among Children and Mothers in Less Developed Countries Public Health Nutrition 2013 16 573 581 22583613 
+6 World Health Organization Global Health Observatory: Overweight and obesity 2013 
+            http://www.who.int/gho/ncd/risk_factors/overweight/en/index.html 
+           
+7 
+            Kain J  
+            Vio F  
+            Albala C  
+           Obesity Trends and Determinant Factors in Latin America Cadernos de Saude Publica 2003 19 S77 S86 12886438 
+8 
+            Feinstein L  
+            Sabates R  
+            Anderson TM  
+             
+           What Are the Effects of Education on Health? Paper presented at the OECD- CERI Proceedings from the Copenhagen Symposium 2006 Paris, France 
+9 
+            Feinstein L  
+           Quantitative Estimates of the Social Benefits of Learning 2: Health (Depression and Obesity) 2002 London, UK Institute of Education 
+10 
+            Kennedy G  
+            Nantel G  
+            Shetty P  
+           Globalization of Food Systems in Developing Countries: Impact on Food Security and Nutrition 2004 Rome UN Food and Agricultural Organization 
+11 
+            Mendez MA  
+            Monteiro CA  
+            Popkin BM  
+           Overweight Exceeds Underweight among Women in Most Developing Countries The American Journal of Clinical Nutrition 2005 81 714 721 15755843 
+12 
+            Drewnowski A  
+            Popkin BM  
+           The Nutrition Transition: New Trends in the Global Diet Nutrition Reviews 1997 55 31 43 9155216 
+13 
+            Popkin BM  
+           Nutritional Patterns and Transitions Population and Development Review 1993 19 138 157 
+14 
+            Popkin BM  
+            Gordon-Larson P  
+           The Nutrition Transition: Worldwide Obesity Dynamics and Their Determinants International Journal of Obesity 2004 28 S2 S9 15543214 
+15 
+            Rivera JA  
+            Barquera S  
+            Gonzalez-Cossío T  
+             
+           Nutrition Transition in Mexico and in ther Latin American Countries Nutrition Reviews 2004 62 S149 S157 15387482 
+16 
+            Baker DP  
+            Leon J  
+            Greenaway EGS  
+             
+           The Education Effect on Population Health: A Reassessment Population and Development Review 2011 37 307 332 21984851 
+17 
+            Renkert S  
+            Nutbeam D  
+           Opportunities to Improve Maternal Health Literacy through Antenatal Education: An Exploratory Study Health Promotion International 2001 16 381 388 11733456 
+18 
+            Peters E  
+            Baker DP  
+            Dieckmann NF  
+             
+           Explaining the Effect of Education on Health: A Field Study in Ghana Psychological Science 2010 21 1369 1376 20739672 
+19 
+            Baker DP  
+            Collins JM  
+            Leon J  
+           Risk factor or social vaccine? The historical progression of the role of education in HIV and AIDS infection in Sub-Saharan Africa Prospects 2008 38 467 486 
+20 
+            Kelly MJ  
+           The encounter between HIV/AIDS and education 2000 Harare Zimbabwe UNESCO, Sub-regional office for Southern Africa 
+21 World Bank Education: The social vaccine to HIV/AIDS 2003 on December 12, 2007 Accessed at http://go.worldbank.org/VXSUKCHBJ0 . 
+22 
+            Baum F  
+            Narayan R  
+            Sanders D  
+             
+           Social vaccines to resist and change unhealthy social and economic structures: a useful metaphor for health promotion Health Promotion International 2009 24 428 433 19628619 
+23 
+            Sobal J  
+            Stunkard AJ  
+           Socioeconomic Status and Obesity: A Review of the Literature Psychological Bulletin 1989 105 260 275 2648443 
+24 
+            Gutierrez-Fisac JL  
+            Regidor EJR  
+            Banegas B  
+             
+           The Size of Obesity Differences Associated with Educational Level in Spain, 1987 and 1995/97 Journal of Epidemiology and Community Health 2002 56 457 460 12011205 
+25 
+            Kan K  
+            Tsai WD  
+           Obesity and Risk Knowledge Journal of Health Economics 2004 23 907 934 15353186 
+26 
+            McLaren L  
+           Socioeconomic Status and Obesity Epidemiologic Reviews 2007 29 29 48 17478442 
+27 
+            Sassi F  
+            Devaux M  
+            Church J  
+             
+           Education and Obesity in Four OECD Countries OECD Health Working Papers 2009 46 Paris, France OECD 
+28 
+            Martorell R  
+            Khan LK  
+            Hughes ML  
+             
+           Obesity in Latin American Women and Children The Journal of Nutrition 1998 128 1464 1473 9732306 
+29 
+            Martorell R  
+            Khan LK  
+            Hughes ML  
+             
+           Obesity in Women from Developing Countries European Journal of Clinical Nutrition 2000 54 247 252 10713748 
+30 
+            Monteiro CA  
+            Conde WL  
+            Lu B  
+             
+           Obesity and Inequities in Health in the Developing World International Journal of Obesity 2004 28 1181 1186 15211362 
+31 
+            Monteiro C  
+            Conde WL  
+            Popkin BM  
+           Independent Effects of Income and Education on the Risk of Obesity in the Brazilian Adult Population The Journal of Nutrition 2001 131 881S 886S 11238779 
+32 
+            Jacoby E  
+            Goldstein J  
+            Lopez A  
+             
+           Social class, family, and life-style factors associated with overweight and obesity among adults in Peruvian cities Preventive Medicine 2003 37 396 405 14572424 
+33 
+            Popkin BM  
+           The Nutrition Transition and Obesity in the Developing World The Journal of Nutrition 2001 131 871S 873S 11238777 
+34 
+            Fortson JG  
+           The gradient in sub-Saharan Africa: socioeconomic status and HIV/AIDS Demography 2008 45 303 322 18613483 
+35 
+            Smith W  
+            Anderson E  
+            Salinas D  
+             
+           Education and the epidemiological transition: A meta-analysis and causal hypothesis about education and chronic disease Social Science and Medicine (Forthcoming). 
+36 
+            Cutler DM  
+            Lleras-Muney A  
+           Education and Health: Evaluating Theories and Evidence National Bureau of Economic Research Working Paper 12352 2006 
+37 
+            Montez JK  
+            Hummer RA  
+            Hayward MD  
+           Educational Attainment and Adult Mortality in the United States: A Systematic Analysis of Functional Form Demography 2012 49 315 336 22246797 
+38 
+            Leon J  
+            Baker DP  
+            Salinas D  
+             
+           Is Education a Risk Factor or Social Vaccine against HIV/AIDS in Sub-Saharan Africa? The Effect of Schooling across Public Health Periods (forthcoming). 
+39 
+            Everett BG  
+            Rehcopf DH  
+            Rogers RG  
+           The Nonlinear Relationship between Education and Mortality: An Examination of Cohort, Race/Ethnic, and Gender Differences Population Research and Policy Review 2013 32 893 917 
+40 
+            de Walque D  
+           Education, Information and smoking decisions: Evidence from smoking histories, 1940–2000 Working paper # 3362 2004 Washington World Bank 
+41 
+            Rutstein SO  
+            Roja G  
+           Guide to DHS statistics 2003 Calverton ORC Macro 
+42 
+            Bryk AS  
+            Raudenbush SW  
+           Hierarchical linear models: Applications and data analysis methods 1992 Newbury Park, CA Sage 
+43 
+            Groves RM  
+            Fowler FJ  
+            Couper MP  
+             
+           Survey Methodology 2009 2 nd ed Hoboken, NJ Wiley 
+44 
+            Royston P  
+           Multiple Imputation of Missing Values Stata Journal 2004 4 227 241 
+45 
+            Ross CE  
+            Mirowsky J  
+           Refining the Association between Education and Health: The Effects of Quantity, Credential, and Selectivity Demography 1999 4 445 460 10604074 
+46 
+            Link B  
+            Phelan J  
+           Social Conditions As Fundamental Causes of Disease Journal of Health and Social Behavior 1995 35 80 94 7560851 
+47 
+            Smith W  
+            Halabi S  
+            Collins J  
+             
+           A Document Analysis of HIV/AIDS Education Interventions in Ghana Health Education Journal (in-press). 
+48 
+            Uusitalo U  
+            Sobal J  
+            Moothoosamy L  
+             
+           Dietary Westernisation: conceptualisation and measurement in Mauritius Public Health Nutrition 2004 8 608 619 16236190 
+49 
+            Mond JM  
+            Hay PJ  
+            Rodgers B  
+             
+           Health service utilization for eating disorders: Findings from a community-based study International Journal of Eating Disorders 2007 40 399 408 17497708 
+50 
+            Renni KL  
+            Johnson L  
+            Jebb SA  
+           Behaviroal determinants of obesity Best Practice &amp; Research Clinical Endocrinology &amp; Metabolism 2005 19 343 358 16150379 
+51 
+            Weinsier RL  
+            Hunter GR  
+            Heini AD  
+             
+           The Etiology of Obesity: Relative Contribution of Metabolic Factors, Diet, and Physical Activity American Journal of Medicine 1998 105 145 150 9727822 
+

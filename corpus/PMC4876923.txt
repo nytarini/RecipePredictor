@@ -1,0 +1,403 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10157369139703Cell RepCell RepCell reports2211-124724485657487692310.1016/j.celrep.2014.01.006EMS68207ArticleHypothalamic eIF2α Signaling Regulates Food Intake Maurin Anne-Catherine 1Benani Alexandre 2Lorsignol Anne 3Brenachot Xavier 2Parry Laurent 1Carraro Valérie 1Guissard Christophe 3Averous Julien 1Jousse Céline 1Bruhat Alain 1Chaveroux Cédric 1B’chir Wafa 1Muranishi Yuki 1Ron David 4Pénicaud Luc 2Fafournoux Pierre 1*1 UMR 1019 Nutrition Humaine, INRA, Université Clermont 1, Centre de Clermont-Ferrand-Theix, 63122 Saint Genès Champanelle, France2 Centre des Sciences du Goût et de l’Alimentation, UMR 6265-CNRS/1324-INRA, Université de Bourgogne, 21000 Dijon, France3 STROMAlab, UMR 5273-CNRS Université Paul Sabatier, EFS, U1031 INSERM, BP 84225, 31432 Toulouse Cedex 4, France4 University of Cambridge, Metabolic Research Laboratories and NIHR Cambridge Biomedical Research Center, Cambridge CB2 0QQ, UK* Correspondence: pierre.fafournoux@clermont.inra.fr28 4 2016 30 1 2014 13 2 2014 23 5 2016 6 3 438 444 This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Summary
+The reversible phosphorylation of the α subunit of eukaryotic initiation factor 2 (eIF2α) is a highly conserved signal implicated in the cellular adaptation to numerous stresses such as the one caused by amino acid limitation. In response to dietary amino acid deficiency, the brain-specific activation of the eIF2α kinase GCN2 leads to food intake inhibition. We report here that GCN2 is rapidly activated in the mediobasal hypothalamus (MBH) after consumption of a leucine-deficient diet. Furthermore, knockdown of GCN2 in this particular area shows that MBH GCN2 activity controls the onset of the aversive response. Importantly, pharmacological experiments demonstrate that the sole phosphorylation of eIF2α in the MBH is sufficient to regulate food intake. eIF2α signaling being at the crossroad of stress pathways activated in several pathological states, our study indicates that hypothalamic eIF2α phosphorylation could play a critical role in the onset of anorexia associated with certain diseases.
+
+
+   Introduction
+The regulation of food intake is one of the most essential phenomena in biology. Besides cultural and hedonic aspects, both motivation to eat and food choices largely depend on metabolic needs (Lenard and Berthoud, 2008). Part of this homeostatic regulation arises from the capacity to sense nutrient availability and to adapt food selection accordingly (Berthoud et al., 2012). The control of food intake is highly complex in the case of omnivores that have to choose among a variety of available food sources. Notably, the selection of a balanced diet is crucial to maintain the homeostasis of essential amino acids, which cannot be synthesized de novo (Harper and Peters, 1989; Morrison et al., 2012). A remarkable example of an innate mechanism governing food choice is presented by the fact that omnivorous animals will consume substantially less of an otherwise identical meal lacking a single essential amino acid (Gietzen, 1993; Harper et al., 1970). The ability to reject amino acid-imbalanced food sources likely improves fitness by stimulating the search for healthier balanced diets (Chaveroux et al., 2010; Leung et al., 1968).
+
+GCN2 is an ancient protein kinase that senses intracellular amino acid deficiencies (Wek et al., 1989). In response to an essential amino acid limitation, GCN2 couples the accumulation of uncharged tRNAs to the phosphorylation of eukaryotic initiation factor 2α (eIF2α) on serine 51. By this mean, GCN2 diminishes the overall protein synthesis rate, while simultaneously activating a gene expression program, mediated by the translational upregulation of the transcription factor ATF4 (Harding et al., 2000; Hinnebusch, 1993). In mammals, eIF2α is at a crossroad of a large signaling network. It can, indeed, be phosphorylated by three other protein kinases: PKR (activated by dsRNA and cytokines), PERK (activated by endoplasmic reticulum stress), or HRI (activated by heme deficiency) (Donnelly et al., 2013; Hinnebusch, 1994). Consequently, eIF2α phosphorylation is a highly conserved signal governing cell adaptation to a variety of stresses. Most importantly, the deregulation of eIF2α signaling has often been linked to various human diseases (Ron and Harding, 2007).
+
+It has been established that GCN2 contributes to the aversive response to amino acid-imbalanced foods (Hao et al., 2005; Maurin et al., 2005). The genetic ablation of GCN2 throughout the brain prevents the initiation of the aforementioned food aversion (Maurin et al., 2005). However, the precise circuitry involved in the sensing and in the response to the lack of amino acid has not been fully established yet. Previous experiments have implicated the anterior piriform cortex (APC) in the sensing of postprandial blood amino acid levels and in the initiation of food aversion (Leung and Rogers, 1971). In a classical view, APC integrates olfactory information (Brunjes et al., 2005), whereas the homeostatic regulation of feeding behavior mainly involves the hypothalamus (Morton et al., 2006). This structure, particularly its mediobasal part (mediobasal hypothalamus [MBH]), is considered a major site for the integration of nutritionally relevant information originating from the periphery and mediated by circulating metabolites, hormones, and/or neural pathways (Blouet and Schwartz, 2010; Lenard and Berthoud, 2008). Particularly, neurons located in the arcuate nucleus (ARC) of the hypothalamus are prone to sense directly peripheral nutrients through a weak blood-brain barrier of the median eminence (Ciofi, 2011). These circulating metabolites include glucose (Oomura et al., 1969; Pénicaud et al., 2006), fatty acids (Wang et al., 2006), and amino acids (Cota et al., 2006).
+
+Taken together, these features led us to investigate the role of hypothalamic GCN2 in eliciting food aversion and, more generally, the role of eIF2α signaling in the regulation of food intake. By pharmacological activation or knockdown of GCN2 in the hypothalamus of adult mice, we show here that GCN2 activity in this area controls food intake. Importantly, our data demonstrate that this mechanism involves changes in hypothalamic phospho-eIF2α levels. Considering that eIF2α phosphorylation is common to different stress pathways activated during several disorders, our data suggest that eIF2α signaling in the hypothalamus could play an important role in various pathologies leading to anorexia.
+
+Results
+A Leucine-Devoid Meal Activates GCN2 in the Hypothalamus
+To understand the role of hypothalamic eIF2α signaling in the control of food intake, we first investigated whether GCN2 is expressed and activated in this area following a meal lacking one essential amino acid. We first mapped GCN2 expression in the mouse brain by in situ hybridization (ISH). In agreement with data from Costa-Mattioli et al. (2005), GCN2 mRNA was highly expressed in several areas, including piriform cortex, hippocampus, dentate gyrus, and hypothalamus (Figure S1). GCN2 mRNA was particularly found in the ARC of the MBH, a major site for nutrient sensing and food intake regulation (Figure 1A). These observations prompted us to hypothesize that food intake inhibition induced by an amino acid-imbalanced diet could result from GCN2 activation in the MBH. We then investigated whether a leucine-devoid (ΔLeu) meal could activate GCN2 in this area. Western blot analysis showed that high levels of phospho-eIF2α were detected in MBH extracts of wild-type mice fed a ΔLeu diet for 40 min (Figure 1B). No such signal was observed in extracts from GCN2 knockout (GCN2−/−) mice. More precisely, immunohistochemistry (IHC) analysis showed an important increase of phospho-eIF2α labeling in the ARC (Figure 1C). In order to check whether GCN2 activation/eIF2α phosphorylation was associated with a classical scheme of uptranslation of uORF-containing mRNA, ATF4 protein was analyzed by western blotting. Figure 1D shows that dietary leucine starvation induced a notable increase in ATF4 protein level in ARC extracts. Furthermore, GCN2 activation in the ARC was also associated with neuronal activation, as reflected by increased c-fos labeling (Figure S2A). The ARC contains at least two populations of neurons sensitive to nutrient-related signals with a major role in the regulation of food intake: orexigenic neurons expressing the neuropeptide Y (NPY), and anorexigenic neurons expressing pro-opiomelanocortin (POMC). The consumption of an amino acid-imbalanced meal promoted eIF2α phosphorylation in many cells of the ARC, including NPY and POMC neurons (Figure S2B).
+
+Hypothalamic GCN2 Activity Controls Food Intake
+We reasoned that if GCN2 signaling in the hypothalamus plays a role to initiate food intake inhibition induced by an amino acid-imbalanced diet, then manipulations of GCN2 activity in this area should alter the anorectic response. In a first set of experiments, we assessed whether GCN2 activity in the ARC is required for the inhibition of food intake after the consumption of a ΔLeu meal. We knocked down GCN2 by lentiviral-mediated delivery of shRNA molecules bilaterally into the ARC (see Figure S3 for technical details). We had previously checked on cultured cells that the GCN2-shRNA lentivector decreases GCN2 mRNA level by at least 80% (data not shown). Furthermore, we verified that GCN2 knockdown in the MBH did not affect the intake of control diet (see Table S1). After injection of the lentivectors and recovery from surgery, we assessed the aversive response of control and knockdown mice to a leucine-deficient meal. As expected, control mice injected with a scramble-shRNA lentivector (Ctr-shRNA) consumed significantly less imbalanced diet than the balanced one (−21.7% over a 1 hr ΔLeu meal) (Figure 2A). This aversive response was markedly blunted in mice injected with the lentivector carrying the GCN2 shRNA. Mice were sacrificed after the completion of food intake measurements in order to measure GCN2 mRNA expression specifically in ARC tissues. The delivery of GCN2-specific shRNA molecules led to a significant reduction of GCN2 mRNA level by 40% in ARC extracts as compared to control mice (Figure 2B). Although the injection of GCN2-shRNA lentivirus led to dispersion in both food intake response and GCN2 mRNA content, our data show that the magnitude of the aversive phenotype is correlated with GCN2 expression level in the ARC (Figure 2C).
+
+We then tested whether the activation of the GCN2/eIF2α pathway alone in the MBH is sufficient to elicit an anorexic response. For that purpose, we pharmacologically activated the GCN2/eIF2α pathway in the MBH independently of the initial stimulus (one essential amino acid-devoid diet). We injected L-leucinol or vehicle (NaCl) into the third cerebral ventricle of adult mice and recorded their food intake. L-leucinol is known to increase the intracellular level of uncharged Leu-tRNA by inhibiting Leucyl-tRNA synthetase and to consecutively activate GCN2 (Ashe et al., 2001). Figure 3A shows that intracerebroventricular (i.c.v.) administration of L-leucinol caused a rapid decrease in food intake of wild-type mice (between −30% and −40% in the first 3 hr following injection), whereas it had no effect on GCN2 knockout (GCN2−/−) mice. In a parallel experiment, we evaluated GCN2 activation in response to L-leucinol administration into the third ventricle, by assessing phospho-eIF2α immunoreactivity on brain slices (Figure 3B). L-leucinol induced the phosphorylation of eIF2α in the MBH of wild-type mice, whereas it had no effect in GCN2 knockout mice. No phospho-eIF2α labeling was found in extrahypothalamic areas, demonstrating that GCN2 activation occurred specifically in the vicinity of the injection site. Particularly, no phospho-eIF2α signal was observed in the APC (Figure 3B). Furthermore, the administration of L-leucinol into the third ventricle also resulted in the accumulation of ATF4 protein in the ARC (Figure 3C). Overall, these results show that pharmacological activation of GCN2 in the MBH is sufficient to induce an anorexic response.
+
+eIF2α Signaling in the Hypothalamus Regulates Food Intake
+Our data have demonstrated that GCN2 activity in the hypothalamus controls food intake. We next investigated whether eIF2α, the substrate for GCN2, is involved in the signaling process leading to food intake inhibition. In order to raise hypothalamic phospho-eIF2α levels while bypassing GCN2 activation, we used salubrinal, a drug that has been shown to prevent phospho-eIF2α dephosphorylation by inhibiting the phosphatase complexes (Boyce et al., 2005).
+
+I.c.v. administration of salubrinal into the third ventricle induced a marked decrease in food intake as measured on a balanced diet, from −40% to −50% 1 hr and 2 and 3 hr, respectively, after the beginning of the meal, as compared to vehicle injection (Figure 4A). We then confirmed that salubrinal injection into the third ventricle resulted in an increased phosphorylation of eIF2α in the hypothalamus, but not in the APC (Figure 4B). Again, the increased level of phospho-eIF2α in the ARC was associated with ATF4 protein overexpression (Figure 4C). These results demonstrated that increasing phospho-eIF2α level in the MBH leads to food intake inhibition. We can thus conclude that eIF2α phosphorylation in the MBH appears to be a key event in the control of food intake.
+
+Discussion
+Our present data highlight an important role of eIF2α signaling in the hypothalamus in the control of feeding behavior in mammals. Most particularly, the results described herein show a crucial role of the hypothalamic eIF2α kinase GCN2 in mediating anorexia toward foods with an imbalanced amino acid composition. Such a nutritional stress can be frequent for wild omnivorous animals. For instance, rodents are often confronted to partial essential amino acid deficiency when the sole protein source is a plant, often lacking some essential amino acids (Chaveroux et al., 2010). This pathway is exploited by omnivores to recognize depressions in blood amino acid levels, resulting in a behavioral response that limits consumption of imbalanced foods (Hao et al., 2005; Maurin et al., 2005) and favors, by default, a balanced diet.
+
+Previous results have involved the APC in the detection of amino acid imbalances leading to food aversion. These conclusions have been first established from cell ablation experiments and localized injections of the limiting amino acid (Leung and Rogers, 1971). More recently, it was found that GCN2 activity was induced in the APC following the consumption of an amino acid-imbalanced meal (Hao et al., 2005; Maurin et al., 2005). Our present data demonstrate that hypothalamic GCN2 activity is sufficient to initiate food intake inhibition. This conclusion is strengthened by a previous work of Blevins et al. showing that threonine injection in the lateral hypothalamus partially blunts food aversion resulting from a threonine imbalanced diet (Blevins et al., 2003). Current available data do not allow the determination of the relative contribution of GCN2 activity in APC and hypothalamus in the response to an amino acid-imbalanced diet. Our data show that a partial GCN2 knockdown in the ARC inhibits the response to a leucine-deficient meal. This result indicates that the hypothalamus is a crucial sensing area involved in the early detection of imbalanced diets. Nevertheless, this conclusion does not exclude the possibility that the APC could play a role in the regulation of food aversion. Indeed, the APC is a well-recognized site for the integration of olfactory informations (Brunjes et al., 2005), particularly in the conditioned avoidance of foods (Choi et al., 2011). It could be hypothesized that dietary amino acid imbalances could be sensed by GCN2, on the one hand, in the ARC leading to an immediate decrease in food intake and, on the other hand, in the APC for eliciting a learned avoidance behavior.
+
+Besides sensing amino acid limitation, the hypothalamus also detects increases in blood amino acid concentration. Cota et al. showed that leucine injection into the third ventricle has anorexigenic effects that are blocked by rapamycin. This observation demonstrates that mTORC1 activation in the hypothalamus inhibits food intake (Cota et al., 2006). Later, data from Blouet et al. (2008) demonstrated that MBH S6 kinase, a major downstream effector of mTORC1, plays a critical role in this effect. In our model of a meal devoid of one essential amino acid, a decrease in blood amino acid concentration should induce a decrease in mTORC1 activity, as confirmed in Figure S4. These data demonstrate that food intake inhibition is a result of GCN2 activation and should not be mediated by mTORC1 activation. Altogether, these data reveal that two amino acid sensors, conserved from yeast to mammals, coexist in the hypothalamus to control food intake according to amino acid availability. Although mTORC1 may sense either body’s energy status or postprandial increases in amino acidemia resulting from protein consumption to downregulate appetite, GCN2 may rather be involved in the adaptation to a nutritional stress leading to the decrease in the concentration of one amino acid in the blood.
+
+The molecular events downstream of eIF2α phosphorylation leading to changes in neuronal activity and food intake inhibition remain to be identified. The phosphorylation of eIF2α promotes a decrease in the overall protein synthesis and an increase in the translation of several mRNAs including ATF4, thereby altering gene expression at the transcriptional level. Therefore, eIF2α signaling in the hypothalamus may promote the aversive response through effects on both translation and transcription. However, two observations suggest that an interaction between ATF4 and GABA receptors could be involved in this process. First, a robust, specific, and reversible interaction between these two proteins has been shown (Nehring et al., 2000; White et al., 2000). GABAB receptor (GABAB-R) subunit and ATF4 are coclustered at the membrane surface of neurons, and their interactions may affect their activities (Nehring et al., 2000). Second, GABAergic signaling has been described to modulate feeding (Ito et al., 2013; Wu et al., 2009) and, particularly, the responses to amino acid deprivation (Truong et al., 2002). Further works will be required to investigate the role of an interaction between ATF4 and GABAB-R in the control of food intake.
+
+Considering that eIF2α phosphorylation is at the crossroad of several stress pathways activated in several pathological states (Donnelly et al., 2013), our results may have implications in the context of disease-associated anorexia. Several diseases (i.e., cancer, infectious diseases) are very often associated with an inflammatory state, which may result in a wasting disorder consisting of a combination of both increased metabolic rate and anorexia (Tisdale, 2009). The mechanisms involved in the establishment of anorexia are hardly identified. However, cytokines resulting from inflammatory states have been proposed to be one component acting on the CNS (Buchanan and Johnson, 2007; Laviano et al., 2012). We could hypothesize that peripheral inflammation could lead to eIF2α phosphorylation in the hypothalamus and could be one of the signaling processes leading to anorexia. Preliminary data show that intraperitoneal lipopolysaccharide (LPS) administration, a commonly used model to experimentally induce the full spectrum of symptoms associated with inflammation (André et al., 2008), dramatically reduces food intake in association with an increase of eIF2α phosphorylation in the hypothalamus (data not shown). Taken together, our data highlight that hypothalamic eIF2α signaling could contribute to the establishment of disease-associated anorexia. The knowledge of the signaling pathways controlling appetite will help to understand the pathophysiology of food intake disorders and is a prerequisite for their successful treatment.
+
+Experimental Procedures
+Animals, Experimental Diets, and Food Intake Measurements
+The generation of C57BL/6J GCN2 null mice has been described in detail elsewhere (Harding et al., 2000; Maurin et al., 2005). Maintenance of the mice and all experiments were approved by our institutional-animal care and use committee (CEMEAA18-13), in conformance with French and European Union laws (details about permissions are given in Supplemental Experimental Procedures). Experimental diets were manufactured in our institute facilities (INRA, Unité de Préparation des Aliments Expérimentaux, Jouy-en-Josas, France). The food intake measurement was described elsewhere (Maurin et al., 2005). More details are given in Supplemental Experimental Procedures.
+
+Tissue Preparation
+For tissue sampling (western blots, RT-qPCR), brains were rapidly removed in order to either collect and freeze MBH in liquid nitrogen or freeze whole brain for 2 min in isopentane cooled with dry ice. Samples were stored at −80°C until processing. For ARC dissection, brain sections 500 µm thick were prepared by using a cryostat, and ARCs were punched out using a stainless steel needle (starting approximately at −1.46 mm relative to bregma and using anatomical landmarks from a mouse brain stereotactic atlas). For ATF4 western blot analysis, nuclear proteins were extracted from fresh ARC tissue using an adult mouse brain matrix (ASI Instruments). Nuclear protein extraction, western blot, and RT-PCR analysis are described in Supplemental Information. In order to perform IHC and ISH experiments (details in Supplemental Experimental Procedures), brains were previously fixed before freezing by transcardially perfusing mice with ice-cold 4% paraformaldehyde. Coronal sections 20 μm thick were cut with a cryostat and collected.
+
+Lentiviral shRNA Delivery into the ARC
+Details about lentiviral GCN2-shRNA strategy are given in Figure S3 and in the Supplemental Experimental Procedures. Lentiviral delivery of GCN2-specific shRNA or scramble sequence was performed bilaterally into the ARC of 12 wild-type C57BL/6 male mice (Janvier). Stereotaxic coordinates were taken relative to the bregma (anteroposterior [AP], −1.7 mm; lateral [L], ±0.3 mm) and to the skull (dorsoventral [DV], −5.8 mm). The lentiviral preparation (109 U/ml; 1 μl/side) was injected at a rate of 0.2 μl/min.
+
+L-Leucinol Administration into the Third Ventricle
+A total of 10 GCN2+/+ mice and 12 GCN2−/− mice underwent stereotaxic surgery to implant a chronic stainless steel cannula (Brain Infusion Kit 2; ALZET) in the third cerebral ventricle using the following coordinates from bregma: AP, −0.825 mm; L, 0 mm; and DV, −5 mm. The cannula was fixed to the skull using screws and dental cement. Injections of L-Leucinol (Sigma-Aldrich; 10 nmol in 1 μl NaCl) or vehicle (NaCl 0.9%) into the third cerebral ventricle were performed over 1.5 min in conscious mice.
+
+Salubrinal Administration into the Third Ventricle
+Cannulas were implanted as described for the L-leucinol experiment. Injections into the third cerebral ventricle were performed in conscious mice. After 6 hr starvation, half of the mice received an i.c.v. injection of vehicle, i.e., 2.5 μl of 0.5% DMSO diluted in artificial cerebrospinal fluid (aCSF; Tocris), whereas the other half received an i.c.v. injection of 2.5 μl of 100 μM salubrinal (Sigma-Aldrich) diluted in aCSF as previously described by Methippara et al. (2009). Injections were performed over 1.5 min.
+
+Statistical Analysis
+All data, presented as mean ± SEM, have been analyzed using XLSTAT. We performed either a two-way ANOVA (Fisher’s post hoc) or paired or unpaired Student’s t test to compare the groups. A Pearson’s correlation analysis was performed to determine the strength of the linear relationship between GCN2 mRNA expression level in the ARC and food intake response to a ΔLeu meal. Differences among groups were considered significant at p &lt; 0.05.
+
+Supplemental Information
+Supplemental Information includes Supplemental Experimental Procedures, four figures, and one table and can be found with this article online at http://dx.doi.org/10.1016/j.celrep.2014.01.006.
+
+Supplemental Information  Acknowledgments
+We thank Dr. J.M. Friedman (Rockefeller University, New York) for the generous gift of NPY- and POMC-GFP mice (Pinto et al., 2004). We wish to acknowledge Dr. Brigitte Gaillard-Martinie, Dr. Jean-Louis Couderc, Xavier Blanc, Anne Terrisse, Christophe Demartrin, and Didier Nègre for their technical assistance and Drs. Jacques Mallet, Patrick Even, and Christelle Boileau for critical reading of this manuscript. This work was supported by grants from “Fondation pour la Recherche Médicale,” “Société Française de Nutrition,” Ajinomoto Amino Acid Research Program (3ARP), and “Agence Nationale pour la Recherche.”
+
+Figure 1 A ΔLeu Meal Activates GCN2 in the MBH
+(A) Expression of GCN2 mRNA was detected in the MBH by ISH on mice brain sections. Brains from GCN2 knockout (GCN2−/−) mice were used as a negative control. Scale bar, 100 μm.
+
+(B) Western blot analysis showed a GCN2-dependent increase in MBH phospho-eIF2α level in response to a ΔLeu meal, as compared to a balanced meal. After overnight starvation, wild-type (GCN2+/+) and GCN2−/− mice were fed either with a control (Ctr) or a ΔLeu diet for 40 min, then animals were sacrificed for analysis. Four male mice were used per group. Signal intensity was quantified using ImageJ software. Results are given as mean ± SEM. The statistical difference between groups was assessed by a two-way ANOVA. **p &lt; 0.01.
+
+(C) IHC showed phospho-eIF2α labeling in the ARC. A representative mouse for each group (four male mice) is shown. Scale bar, 100 μm.
+
+(D) Western blot analysis showed increased ATF4 protein expression in the ARC following a ΔLeu meal. After overnight starvation, mice were fed either with a Ctr or a ΔLeu diet for 4 hr, then animals were sacrificed for analysis. Nuclear protein extracts were prepared from pooled ARC tissues of four mice per group. Histone H3 served as a loading Ctr.
+
+See also Figures S1 and S2.
+
+Figure 2 GCN2 Knockdown in the ARC Markedly Blunts the Aversive Response to a ΔLeu Meal
+Lentivectors encoding GCN2-specific shRNA or scramble sequence were delivered bilaterally into the ARC of wild-type male mice (see Figure S3 for technical details).
+
+(A) GCN2-shRNA delivery in the ARC resulted in a loss of the aversive response to a ΔLeu meal (*p &lt; 0.05, unpaired Student’s t test; six to seven males per group). The relative consumption of a ΔLeu versus Ctr diet during a 1 hr meal was expressed as the ratio of consumption (Δ% ± SEM) of the ΔLeu diet compared to the consumption of the Ctr diet by the same animal. We verified that GCN2 knockdown did not affect the intake of Ctr diet (see Table S1). At the end of the experiment, mice were sacrificed, then the ARC was dissected to extract total RNA.
+
+(B) GCN2-shRNA lentiviral delivery in the ARC resulted in a 40% decrease of the mean level of GCN2 mRNA expression in the ARC. Results are given as mean ± SEM (***p &lt; 0.001, unpaired Student’s t test; six to seven males per group).
+
+(C) The strength of association between levels of food intake inhibition and GCN2 expression in the ARC was analyzed by the Pearson correlation test.
+
+See also Figure S3 and Table S1.
+
+Figure 3 GCN2 Activation in the MBH Is Sufficient to Inhibit Food Intake
+A permanent cannula had been first placed into the third ventricle of wild-type (n = 10) or GCN2−/− (n = 12) male mice. After overnight starvation, mice were injected either with 1 μl L-leucinol (10 mM in 0.9% NaCl) or vehicle just before giving the diet (standard chow).
+
+(A) L-leucinol administration into the third ventricle induced a strong inhibition of food intake in wild-type (GCN2+/+) mice, whereas it had no effect in GCN2−/− mice. Results are given as Δ% ± SEM of food intake level after L-leucinol injection to food intake level after vehicle injection in the same animal. The statistical difference between groups was assessed by a two-way ANOVA: effect of L-leucinol, *p &lt; 0.05 and **p &lt; 0.01; effect of genotype, #p &lt; 0.05 and §p &lt; 0.01. We verified that GCN2 knockout did not affect the intake of control diet (see Table S1).
+
+(B) Representative IHC analysis of phosho-eIF2α (blue labeling) shows that L-leucinol administration (1 hr treatment) resulted in GCN2 activation in the MBH of the GCN2+/+ mice. Following IHC, sections were stained with hematoxylin (pink labeling). We checked that L-leucinol injection in the third ventricle did not induce eIF2α phosphorylation in a distal site, such as the APC. L-leucinol treatment did not increase phospho-eIF2α labeling in the MBH of GCN2−/− mice.
+
+(C) Western blot analysis showed increased ATF4 protein expression in the ARC following L-leucinol administration into the third ventricle. After overnight starvation, mice were treated for 2 hr with L-leucinol, and ARC tissues were harvested. Both cytoplasmic and nuclear protein extracts were prepared from pooled ARC tissues of four mice per group.
+
+See also Table S1.
+
+Figure 4 Increasing Phospho-eIF2α Level in the MBH Leads to Food Intake Inhibition
+A permanent cannula had been placed into the third ventricle of wild-type male mice (n = 10). After a 6 hr starvation period, mice were injected either with 2.5 μl salubrinal (100 μM in 0.5% DMSO/0.9% NaCl) or vehicle. Meal (standard chow) was given 2 hr after injection.
+
+(A) Salubrinal administration into the third ventricle resulted in a marked food intake inhibition as measured in the first 3 hr after giving diet. Results are given as Δ% ± SEM of food intake level after salubrinal injection to food intake level after vehicle injection in the same animal. Paired Student’s t tests were performed to evaluate the significance of salubrinal effect on food intake: **p ≤ 0.01.
+
+(B) Western blot analysis showed that, 2 hr after salubrinal injection in the third ventricle, eIF2α phosphorylation was increased in the ARC, but not in the APC. Signal intensity was quantified using ImageJ software. Results are given as mean ± SEM.
+
+(C) Western blot analysis showed increased ATF4 protein expression in the ARC following salubrinal administration into the third ventricle. After a 6 hr starvation period, mice were treated for 2 hr, and ARC tissues were harvested. Nuclear protein extracts were prepared from pools of ARC tissues of four mice per group.
+
+
+   
+            André C  
+            O’Connor JC  
+            Kelley KW  
+            Lestage J  
+            Dantzer R  
+            Castanon N  
+           Spatio-temporal differences in the profile of murine brain expression of proinflammatory cytokines and indoleamine 2,3-dioxygenase in response to peripheral lipopolysaccharide administration J Neuroimmunol 2008 200 90 99 18653240 
+
+            Ashe MP  
+            Slaven JW  
+            De Long SK  
+            Ibrahimo S  
+            Sachs AB  
+           A novel eIF2B-dependent mechanism of translational control in yeast as a response to fusel alcohols EMBO J 2001 20 6464 6474 11707417 
+
+            Berthoud HR  
+            Münzberg H  
+            Richards BK  
+            Morrison CD  
+           Neural and metabolic regulation of macronutrient intake and selection Proc Nutr Soc 2012 71 390 400 22617310 
+
+            Blevins JE  
+            Teh PS  
+            Wang CX  
+            Gietzen DW  
+           Effects of amino acid deficiency on monoamines in the lateral hypothalamus (LH) in rats Nutr Neurosci 2003 6 291 299 14609315 
+
+            Blouet C  
+            Schwartz GJ  
+           Hypothalamic nutrient sensing in the control of energy homeostasis Behav Brain Res 2010 209 1 12 20035790 
+
+            Blouet C  
+            Ono H  
+            Schwartz GJ  
+           Mediobasal hypothalamic p70S6 kinase 1 modulates the control of energy homeostasis Cell Metab 2008 8 459 467 19041762 
+
+            Boyce M  
+            Bryant KF  
+            Jousse C  
+            Long K  
+            Harding HP  
+            Scheuner D  
+            Kaufman RJ  
+            Ma D  
+            Coen DM  
+            Ron D  
+            Yuan J  
+           A selective inhibitor of eIF2alpha dephosphorylation protects cells from ER stress Science 2005 307 935 939 15705855 
+
+            Brunjes PC  
+            Illig KR  
+            Meyer EA  
+           A field guide to the anterior olfactory nucleus (cortex) Brain Res Brain Res Rev 2005 50 305 335 16229895 
+
+            Buchanan JB  
+            Johnson RW  
+           Regulation of food intake by inflammatory cytokines in the brain Neuroendocrinology 2007 86 183 190 17823502 
+
+            Chaveroux C  
+            Lambert-Langlais S  
+            Cherasse Y  
+            Averous J  
+            Parry L  
+            Carraro V  
+            Jousse C  
+            Maurin AC  
+            Bruhat A  
+            Fafournoux P  
+           Molecular mechanisms involved in the adaptation to amino acid limitation in mammals Biochimie 2010 92 736 745 20188139 
+
+            Choi GB  
+            Stettler DD  
+            Kallman BR  
+            Bhaskar ST  
+            Fleischmann A  
+            Axel R  
+           Driving opposing behaviors with ensembles of piriform neurons Cell 2011 146 1004 1015 21925321 
+
+            Ciofi P  
+           The arcuate nucleus as a circumventricular organ in the mouse Neurosci Lett 2011 487 187 190 20951768 
+
+            Costa-Mattioli M  
+            Gobert D  
+            Harding H  
+            Herdy B  
+            Azzi M  
+            Bruno M  
+            Bidinosti M  
+            Ben Mamou C  
+            Marcinkiewicz E  
+            Yoshida M  
+             
+           Translational control of hippocampal synaptic plasticity and memory by the eIF2alpha kinase GCN2 Nature 2005 436 1166 1173 16121183 
+
+            Cota D  
+            Proulx K  
+            Smith KA  
+            Kozma SC  
+            Thomas G  
+            Woods SC  
+            Seeley RJ  
+           Hypothalamic mTOR signaling regulates food intake Science 2006 312 927 930 16690869 
+
+            Donnelly N  
+            Gorman AM  
+            Gupta S  
+            Samali A  
+           The eIF2α kinases: their structures and functions Cell Mol Life Sci 2013 70 3493 3511 23354059 
+
+            Gietzen DW  
+           Neural mechanisms in the responses to amino acid deficiency J Nutr 1993 123 610 625 8463862 
+
+            Hao S  
+            Sharp JW  
+            Ross-Inta CM  
+            McDaniel BJ  
+            Anthony TG  
+            Wek RC  
+            Cavener DR  
+            McGrath BC  
+            Rudell JB  
+            Koehnle TJ  
+            Gietzen DW  
+           Uncharged tRNA and sensing of amino acid deficiency in mammalian piriform cortex Science 2005 307 1776 1778 15774759 
+
+            Harding HP  
+            Novoa I  
+            Zhang Y  
+            Zeng H  
+            Wek R  
+            Schapira M  
+            Ron D  
+           Regulated translation initiation controls stress-induced gene expression in mammalian cells Mol Cell 2000 6 1099 1108 11106749 
+
+            Harper AE  
+            Peters JC  
+           Protein intake, brain amino acid and serotonin concentrations and protein self-selection J Nutr 1989 119 677 689 2656935 
+
+            Harper AE  
+            Benevenga NJ  
+            Wohlhueter RM  
+           Effects of ingestion of disproportionate amounts of amino acids Physiol Rev 1970 50 428 558 4912906 
+
+            Hinnebusch AG  
+           Gene-specific translational control of the yeast GCN4 gene by phosphorylation of eukaryotic initiation factor 2 Mol Microbiol 1993 10 215 223 7934812 
+
+            Hinnebusch AG  
+           The eIF-2 alpha kinases: regulators of protein synthesis in starvation and stress Semin Cell Biol 1994 5 417 426 7711290 
+
+            Ito Y  
+            Banno R  
+            Shibata M  
+            Adachi K  
+            Hagimoto S  
+            Hagiwara D  
+            Ozawa Y  
+            Goto M  
+            Suga H  
+            Sugimura Y  
+             
+           GABA type B receptor signaling in proopiomelanocortin neurons protects against obesity, insulin resistance, and hypothalamic inflammation in male mice on a high-fat diet J Neurosci 2013 33 17166 17173 24155320 
+
+            Laviano A  
+            Seelaender M  
+            Rianda S  
+            Silverio R  
+            Rossi Fanelli F  
+           Neuroinflammation: a contributing factor to the pathogenesis of cancer cachexia Crit Rev Oncog 2012 17 247 251 22831155 
+
+            Lenard NR  
+            Berthoud HR  
+           Central and peripheral regulation of food intake and physical activity: pathways and genes Obesity (Silver Spring) 2008 16 Suppl 3 S11 S22 19190620 
+
+            Leung PM  
+            Rogers QR  
+           Importance of prepyriform cortex in food-intake response of rats to amino acids Am J Physiol 1971 221 929 935 5570352 
+
+            Leung PM  
+            Rogers QR  
+            Harper AE  
+           Effect of amino acid imbalance on dietary choice in the rat J Nutr 1968 95 483 492 5665652 
+
+            Maurin AC  
+            Jousse C  
+            Averous J  
+            Parry L  
+            Bruhat A  
+            Cherasse Y  
+            Zeng H  
+            Zhang Y  
+            Harding HP  
+            Ron D  
+            Fafournoux P  
+           The GCN2 kinase biases feeding behavior to maintain amino acid homeostasis in omnivores Cell Metab 2005 1 273 277 16054071 
+
+            Methippara MM  
+            Bashir T  
+            Kumar S  
+            Alam N  
+            Szymusiak R  
+            McGinty D  
+           Salubrinal, an inhibitor of protein synthesis, promotes deep slow wave sleep Am J Physiol Regul Integr Comp Physiol 2009 296 R178 R184 18971348 
+
+            Morrison CD  
+            Reed SD  
+            Henagan TM  
+           Homeostatic regulation of protein intake: in search of a mechanism Am J Physiol Regul Integr Comp Physiol 2012 302 R917 R928 22319049 
+
+            Morton GJ  
+            Cummings DE  
+            Baskin DG  
+            Barsh GS  
+            Schwartz MW  
+           Central nervous system control of food intake and body weight Nature 2006 443 289 295 16988703 
+
+            Nehring RB  
+            Horikawa HP  
+            El Far O  
+            Kneussel M  
+            Brandstätter JH  
+            Stamm S  
+            Wischmeyer E  
+            Betz H  
+            Karschin A  
+           The metabotropic GABAB receptor directly interacts with the activating transcription factor 4 J Biol Chem 2000 275 35185 35191 10924501 
+
+            Oomura Y  
+            Ono T  
+            Ooyama H  
+            Wayner MJ  
+           Glucose and osmosensitive neurones of the rat hypothalamus Nature 1969 222 282 284 5778398 
+
+            Pénicaud L  
+            Leloup C  
+            Fioramonti X  
+            Lorsignol A  
+            Benani A  
+           Brain glucose sensing: a subtle mechanism Curr Opin Clin Nutr Metab Care 2006 9 458 462 16778577 
+
+            Pinto S  
+            Roseberry AG  
+            Liu H  
+            Diano S  
+            Shanabrough M  
+            Cai X  
+            Friedman JM  
+            Horvath TL  
+           Rapid rewiring of arcuate nucleus feeding circuits by leptin Science 2004 304 110 115 15064421 
+
+            Ron D  
+            Harding HP  
+           eIF2a phosphorylation in cellular stress responses and disease 
+            Mathews MB  
+            Sonenberg N  
+            Hershey JWB  
+           Translational Control in Biology and Medicine Woodbury Cold Spring Harbor Laboratory Press 2007 349 372 
+
+            Tisdale MJ  
+           Mechanisms of cancer cachexia Physiol Rev 2009 89 381 410 19342610 
+
+            Truong BG  
+            Magrum LJ  
+            Gietzen DW  
+           GABA(A) and GABA(B) receptors in the anterior piriform cortex modulate feeding in rats Brain Res 2002 924 1 9 11743989 
+
+            Wang R  
+            Cruciani-Guglielmacci C  
+            Migrenne S  
+            Magnan C  
+            Cotero VE  
+            Routh VH  
+           Effects of oleic acid on distinct populations of neurons in the hypothalamic arcuate nucleus are dependent on extracellular glucose levels J Neurophysiol 2006 95 1491 1498 16306178 
+
+            Wek RC  
+            Jackson BM  
+            Hinnebusch AG  
+           Juxtaposition of domains homologous to protein kinases and histidyl-tRNA synthetases in GCN2 protein suggests a mechanism for coupling GCN4 expression to amino acid availability Proc Natl Acad Sci USA 1989 86 4579 4583 2660141 
+
+            White JH  
+            McIllhinney RA  
+            Wise A  
+            Ciruela F  
+            Chan WY  
+            Emson PC  
+            Billinton A  
+            Marshall FH  
+           The GABAB receptor interacts directly with the related transcription factors CREB2 and ATFx Proc Natl Acad Sci USA 2000 97 13967 13972 11087824 
+
+            Wu Q  
+            Boyle MP  
+            Palmiter RD  
+           Loss of GABAergic signaling by AgRP neurons to the parabrachial nucleus leads to starvation Cell 2009 137 1225 1234 19563755 
+

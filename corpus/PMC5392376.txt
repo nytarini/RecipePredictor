@@ -1,0 +1,204 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10113262227052J Nutr Educ BehavJ Nutr Educ BehavJournal of nutrition education and behavior1499-40461878-262027756593539237610.1016/j.jneb.2016.09.008NIHMS819045ArticleDevelopment and Validation of a Technology-based System for Tracking and Reporting Dietary Intake at School Meals Appelhans Bradley M. PhD12Martin Molly A. MD3Guzman Marieli 1Olinger Tamara MS1Pleasant Andrew PhD4Cabe Jennifer MA4Powell Lynda H. PhD12561 Department of Preventive Medicine, Rush University Medical Center, 1700 W. Van Buren St., Suite 470, Chicago, IL 60612, USA2 Department of Behavioral Sciences, Rush University Medical Center, 1645 W. Jackson Blvd., Suite 400, Chicago, IL 60612, USA3 Department of Pediatrics, University of Illinois at Chicago, 840 S. Wood St., Chicago, IL 60612, USA4 Canyon Ranch Institute, 8600 E. Rockcliff Road, Tucson, AZ 85750, USA5 Department of Internal Medicine, Rush University Medical Center, 1653 W. Congress Parkway, Suite 301, Chicago, IL 60612, USA6 Department of Pharmacology, Rush University Medical Center, 1735 W. Harrison Street, Suite 406, Chicago, IL 60612, USA* Correspondence: Bradley M. Appelhans, PhD; Associate Professor, Departments of Preventive Medicine and Behavioral Sciences; Tel: +1 312 942 3477; Fax: +1 312 942 8119; brad_appelhans@rush.edu28 9 2016 15 10 2016 1 2018 01 1 2019 50 1 51 55.e1 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objective
+This report describes the development and validation of a technology-based system that integrates data on food choice, nutrition, and plate waste to generate feedback reports summarizing students’ dietary intake at school meals.
+
+Methods
+Cafeteria staff used the system to document the school lunch choices of 7th-graders (N=37) in an urban charter school for five months. Plate waste was assessed by research staff using a visual estimation method that was validated against directly weighed plate waste.
+
+Results
+Most (97.1%) food choices were correctly recorded through the system. Visual estimates of plate waste had excellent interrater reliability (r’s≥.94) and agreement with direct measurements (rho’s≥.75). Plate waste assessment required approximately 10 seconds per tray. Fifty-four percent of parents received feedback reports consistently.
+
+Conclusions and Implications
+The technology-based system enabled staff to accurately monitor dietary intake at school meals. The system could potentially inform lunch menu modifications aimed at reducing plate waste.
+
+
+   Introduction
+Schools are an important setting in which to address children’s dietary intake, particularly in low-income communities where poor diet quality and childhood obesity are most prevalent.1–3 The U.S. Department of Agriculture aims to impact children’s dietary intake by implementing nutrition standards for meals provided through National School Lunch Program (NSLP), which subsidizes free or reduced-cost school meals for over 30 million low-income students annually.4 The Healthy Hunger-Free Kids Act of 2010 stipulates that lunches include only fat-free and 1% milk, increases the amount of fruits and vegetables served, requires gradual reductions in sodium content over a 10-year period, and specifies grade-appropriate calorie ranges for meals. The Act also requires that students select a fruit or vegetable for a meal to be reimbursable.
+
+Parents, school food service providers, and teachers and might be more effective in their efforts to promote children’s nutritional health if they had timely access to information on what students eat at school meals, and what they discard as plate waste. These data could be used to inform waste-reducing changes to lunch menus, provide parents with tailored feedback about the nutrition their child obtains through school meals, and enhance classroom-based nutrition education by helping students understand the nutritional impact of their actual food choices. Researchers have developed methods for estimating dietary intake at school meals across school-or grade-level populations during finite time periods.5–8 However, to the authors’ knowledge, methods have not been developed that would allow schools to collect, synthesize, and report dietary intake data for individual students over prolonged periods.
+
+Any attempt to accurately estimate school meal intake must account for plate waste, which is substantial (40–45% overall) and impacts both nutritional health and program costs.5,6 Plate waste did not increase following the recent passage of more stringent nutrition standards,7,8 but this may change as the standards continue to evolve. The gold standard method of assessing plate waste is to directly weigh portions of uneaten food,5 but this practice is impractical for sustained use in most settings. Visual plate waste estimation methods, with or without the aid of photography, greatly reduce assessment burden and have been found to be valid.9–11
+
+This report describes the development and validation of a technology-based system that facilitates accurate documentation of food choice at school meals, and provides a means for sharing this information with parents, teachers, and stakeholders. The Healthy School Meals Realized through Technology (SMART) system includes touchscreen and barcode scanning technology that enables cafeteria staff to efficiently record food choices as students proceed through the cafeteria lunch line. Plate waste is assessed by research staff using an efficient visual estimation method. The system integrates food choice and plate waste data with nutrition information for each food item, and automatically generates reports that provide parents with nutritional feedback and individually-tailored health messaging. The validity and reliability of the Healthy SMART system was examined during a 5-month proof-of-concept study conducted with middle school students in a low-income, urban charter school network with high NSLP participation. The study aims were to 1) assess the accuracy of food choices recorded using the system, 2) test the validity and interrater reliability of the visual plate waste estimation method, and 3) evaluate two key aspects of program implementation, the time required to assess plate waste and the frequency with which parents received and reviewed feedback reports.
+
+Methods
+Study Sites and Participants
+The target population (N=37) consisted of middle-school students within a K-12 charter school network in Chicago, Illinois (2013–2015). The charter school network almost exclusively served low-income, ethnic minority families, and the vast majority of students received free or reduced-cost lunch through the NSLP (N=37, or 100% of the present sample). As the network serves predominantly Spanish-speaking households (n=25, or 68% of the present sample), study materials were developed in English and Spanish. Students were generally offered between three and six food items at lunch, plus a choice of skim white, 1% milkfat white, or skim chocolate milk. Charter school network administrators selected two schools to participate in this project. Families were informed about the project through flyers and announcements at school functions, and during telephone conversations with a “parent liaison” employed by the charter school network. Interested parents returned signed consent forms and surveys to the research team. Study procedures were approved by the Institutional Review Boards of [BLINDED] and Chicago Public Schools, and all parents and children signed consent/assent forms prior to participation.
+
+Healthy SMART System Development Process
+The first step in the development process was to conduct in-depth formative research with the study population of charter school families, staff, and administrators at both study sites in order to inform the design of the food choice tracking system and the feedback reports. The main findings from the formative research were that 1) healthy foods served at school lunches were somewhat unpalatable and had high levels of plate waste, and 2) few parents had reliable internet access and preferred paper-based feedback reports. A detailed report summarizing this formative research is available from the authors by request. The second step was to contract with a school food service software development company (K-12 Plus, Inc., Tulsa, OK) to build the technology-based food choice tracking system. The third step was to test the functionality of the food choice tracking system prototype during a three-month pilot study with a 6th-grade class (N=18) at one school. No technical problems with the system arose during pilot testing. The fourth step was to examine the validity, reliability, and implementation of the system in a proof-of-concept study with 7th-grade families (N=37) at the second school, which is described in this report.
+
+Description of the Healthy SMART System
+Many schools that provide meals through the NSLP use software to track program participation for reimbursement purposes. For this project, existing software (A-Plus Café version 3.1.0.43, K-12 Plus, Inc., Tulsa, OK) was adapted to allow recording of individual food choices. At school lunches, students’ school identification cards were scanned with a barcode scanner as they passed through the cafeteria line. Doing so created a new record in a relational database. Cafeteria staff then used a touchscreen monitor (model 15B2, Elo Touch Solutions, Inc., Menlo Park, CA) displaying that day’s lunch menu to document food choices. Research staff assessed plate waste for each student every day using a validated visual estimation method (described below). Plate waste data were appended to the food choice database.
+
+Each week, researchers downloaded food choice and plate waste data from the database. Queries were run after the last lunch period in each week so that data for the entire week were available. Nutrition information and portion sizes for all foods served were obtained from the school’s contracted foodservice provider on a monthly basis. The system calculated students’ intake of each food item by subtracting the amount of each food discarded (plate waste) from the amount served. As the tracking system documented all food choices, it was possible to identify foods that were consumed in their entirety and left no residual plate waste. Students’ energy and nutrient intake were derived by multiplying the nutritional content of each food by the amount consumed, and summing these values within each meal.
+
+Report generation software (Crystal Reports 2011, SAP America, Newtown Square, PA) was used to automatically create feedback reports for parents that listed all foods chosen, and summarized the total calorie intake, vegetable choices, and milk choices at each meal during the week. To enhance their relevance for individual families, reports included tailored suggestions based on student’s food choices, and health messages promoting family engagement in activities linked to weight control (e.g., reducing screen time, engaging in physical activity as a family, eating healthy meals at home). To provide value to the school, aggregate reports summarizing student nutrient intake at the classroom level were provided to the physical education teacher, who used these reports to facilitate nutrition education activities.
+
+Measures
+Sociodemographic and anthropometric variables
+To characterize the sample (N=37), household, student, and parent characteristics (i.e., age, gender, race/ethnicity, home language preference, home internet access) were assessed at baseline. Financial strain was assessed with an item adapted from large epidemiological studies,12 “How hard is it for you to pay for the very basics like food, housing, medical care, and heating?” Students’ height and weight were measured without shoes and in light clothing during a physical education class, and age- and sex-specific BMI [height (kg)/weight (m)2] percentiles (www.cdc.gov/growthcharts) were derived.
+
+Plate waste
+Plate waste was assessed by research staff using the quarter-waste estimation method.10 This validated method involves visually estimating the proportion of each food item remaining on students’ cafeteria trays in quarters of the original portion size (0%, 25%, 50%, 75%, 100%). In order to match plate waste estimates to individual students, it was necessary to number and document students’ cafeteria trays as they passed through the cafeteria line. Students were instructed to leave their trays, with their unfinished food, at the lunch table. For validation purposes, plate waste estimates based on the quarter-waste method were compared to a gold standard of actual food weights (in grams).5 To facilitate comparison, estimates derived through the quarter-waste method were converted to grams by multiplying the proportion of food remaining on the tray (e.g., 50%) by the original serving size in grams.
+
+Receipt and utilization of feedback reports
+The program aimed to generate and deliver feedback reports to parents on a weekly basis. To assess whether this aspect of the program was successfully implemented, parents rated the frequencies with which they received, reviewed, and discussed reports with their child on a 4-point scale from “Never” to “Every Week.”
+
+Procedures
+Cafeteria staff were trained to use the food choice tracking system to accurately document student food choices as they passed through the lunch line. To minimize delays in the lunch line, a binder containing photocopied student identification cards was provided for cafeteria staff to scan when students did not have their identification cards with them. Early in the project, the validity of food choice data captured via the system was assessed by comparing its output against food choices manually recorded by research staff on five consecutive days.
+
+Plate waste was assessed daily by research staff using the quarter-waste method. Data collected with the quarter-waste method were incorporated in parent reports. To validate the quarter-waste method in the target population, estimates derived through the quarter-waste method were compared to directly weighed plate waste collected on five consecutive days. Additionally, two researchers independently performed the quarter-waste method during five consecutive school lunches to gauge interrater reliability. The time required to assess plate waste was measured with a stopwatch.
+
+Parents completed sociodemographic survey items at the beginning of the school year. Throughout the study (September 2014–February 2015), feedback reports were generated weekly and distributed to parents in English and Spanish via students’ “Friday Folders.” Parent receipt, review, and discussion of feedback reports were assessed at the end of the program.
+
+Data analysis
+The validity of the food choice tracking system was tested by comparing its agreement with manually documented food choices to an a priori benchmark of 95% accuracy. The validity of the quarter-waste method was evaluated by examining its agreement with directly weighed plate waste through Bland-Altman plots13 and concordance correlations.14 Pearson correlation was used to quantify interrater reliability for the quarter-waste method. Participant characteristics, time required to perform the quarter-waste method, and parent receipt, review, and discussion of weekly feedback reports were summarized using descriptive statistics.
+
+Results
+Thirty-seven (76%) of 49 eligible child-parent dyads enrolled in the proof-of-concept study. Sample characteristics are presented in Table 1. Across 1,219 food choices over five days, agreement between research staff and the technology-based tracking system was 97.1% (95% C.I.: 96.0 to 98.0%), exceeding the a priori benchmark of 95%.
+
+Plate waste was recorded by research staff for 1,092 meals. Plate waste averaged 35% (SD=6%) for entrées, 37% (SD=14%) for milk, 30% (SD=15%) for fruit, and 72% (SD=14%) for vegetables, based on the quarter-waste method. Bland-Altman plots (Figure 1) and Lin’s concordance correlations from 119 school meals with directly weighed and visually estimated plate waste indicated strong agreement and minimal bias for entrées (rho=.78), milk (rho=.94), fruit (rho=.83), and vegetables (rho=.75). The quarter-waste method showed strong interrater reliability among independent research staff, with correlations between raters of .96 for milk, .98 for entrees, .95 for vegetables, and .94 for fruit across 178 meals. On average, the quarter-waste method required 9.9 (SD=1.9; 123 meals) seconds per tray.
+
+Parents reported receiving feedback reports somewhat inconsistently, with 20 (54%) receiving them “every week” or “usually,” and 17 (46%) receiving them “occasionally” or “never.” Among the 20 parents who received reports “every week” or “usually,” 17 (85%) reviewed them and 14 (70%) discussed them with their child “every week” or “usually.”
+
+Discussion
+The Healthy SMART system allows cafeteria staff to efficiently document student food choices at school lunches. Estimates of students’ dietary intake at school meals can be derived by combining data on food choice with nutrition information obtained from school food service providers and plate waste data collected by research or cafeteria staff. This project, which was conducted in collaboration with a charter school network in a low-income community, indicates that the food choice and plate waste data on which dietary intake estimates are based can be collected with high validity and reliability. Specifically, the cafeteria workers who used the system were 97% accurate in documenting students’ food and beverage choices. Plate waste estimates derived through the quarter-waste method demonstrated excellent interrater reliability and showed strong agreement with the gold standard method5 of directly weighed plate waste.
+
+The substantial amount of plate waste observed, particularly for vegetables, corresponds with prior research5–8 and highlights the value of including this information in feedback reports. The quarter-waste method is valid and reliable, but it must be performed by either research staff (as in the present study) or cafeteria staff, and requires about 10 seconds per tray (roughly 4–5 minutes per classroom). Therefore, plate waste assessment may be difficult to scale to larger settings. Until automated plate waste assessment methods are developed, cafeteria workers or others will need to be supported to perform this function.
+
+The Healthy SMART system enabled efficient generation of reports summarizing food choice and plate waste. Those parents who received the reports consistently were likely to review and discuss them with their children frequently. However, roughly half of enrolled parents received the reports inconsistently via students’ Friday Folders. Delivery methods may need to be multimodal (electronic and paper) and tailored to the preferences and resources of each family in future implementations of the program.
+
+Technology-based systems such as the Healthy SMART Program could have several important uses. Schools and food service companies might use the system to monitor dietary intake and modify lunch menus in order to minimize plate waste. Teachers could incorporate data on students’ actual dietary intake to enhance classroom nutrition education. The system may also provide schools with a low-cost, sustainable mechanism for informing parents about what their children eat at school meals. These potential uses should be explored in future work.
+
+Several limitations are noted. The focus on middle school students in a single charter school network limits generalizability to other age levels and settings, including schools with lower NSLP utilization. The feedback reports designed for this pilot study focused on energy, milk, and vegetable intake, but did not include sodium or other nutrients. The Healthy SMART Program could potentially accommodate any nutritional data that is consistently available from a school’s contracted food service provider or from another source; however, reporting these data to parents in a meaningful and succinct way requires forethought and prioritization. Additionally, obtaining nutritional data from food service providers may be challenging in some districts.
+
+This project extends the literature by demonstrating the validity and reliability of a potentially sustainable, technology-based system that facilitates documentation of student food choices by cafeteria staff, and integrates data from several sources in order to estimate dietary intake and plate waste at school meals. Further research is needed to optimize the program for implementation in larger and more heterogeneous school systems.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Conflict of Interest: All authors declare that they have no conflict of interest.
+
+This project was funded by a philanthropic grant from the Hillshire Brands Foundation. Additional support was provided by 1P50HL105189 from NIH/NHLBI. We are very grateful to the principals, teachers, staff, and families of the charter schools with which we partnered on this project. We are also grateful to Raghu Kurella and Steve Schwartzman with K-12 Plus for technical assistance, and to Christie Hefner, Larry G. Goodman, MD, and Terry Peterson for facilitating the many collaborative relationships that made this project possible. We thank Richard H. Carmona, MD, MPH, FACS, Kelly Saulsberry, Mike Simmons, Erica Salem, Kristin Harris, PhD, and Jay Bhatt, MD, for their input on the overall direction of this project.
+
+Figure 1 Bland-Altman plots showing agreement between the quarter-waste method and manual weighing of plate waste. Plots show the mean and 95% confidence intervals of the differences between the two assessment methods across the distribution of scores.
+
+Table 1 Characteristics of enrolled middle school students and their households.
+
+	N=37 dyads	
+Participation rate (% of 49 eligible students)	76%	
+
+              Household
+            		
+  Primary language spoken at home [n (%)]		
+    Spanish	25 (68)	
+    English	12 (32)	
+  Difficulty paying for basic needs [n (%)]		
+    Not difficult at all	9 (24)	
+    Somewhat difficult	21 (57)	
+    Very difficult	7 (19)	
+  Has internet access at home [n (%)]		
+    Yes	23 (62)	
+    No	14 (38)	
+
+              Index child
+            		
+  Age, years [M (SD)]	12.7 (0.5)	
+  Female gender [n (%)]	16 (42)	
+  Body mass index percentile [n (%)]		
+    ≤ 4.9	2 (5)	
+    5.0 – 84.9	13 (35)	
+    85.0 – 94.9	9 (24)	
+    ≥ 95.0	13 (35)	
+  Receives free/reduced-cost lunch [n (%)]	37 (100)	
+
+              Index parent
+            		
+  Age, years [M (SD)]	38.1 (5.8)	
+  Female gender [n (%)]	34 (92)	
+  Ethinicity [n (%)]		
+    Hispanic/Latino	33 (89)	
+    African-American	4 (11)	
+  Education [n (%)]		
+    More than 12th grade	10 (27)	
+    12th grade	10 (27)	
+    ≤11th grade	17 (46)	
+
+   References
+1 
+            Frederick CB  
+            Snellman K  
+            Putnam RD  
+           Increasing socioeconomic disparities in adolescent obesity Proc Natl Acad Sci USA 2014 111 1338 1342 24474757 
+2 
+            Keita AD  
+            Casazza K  
+            Thomas O  
+            Fernandez JR  
+           Neighborhood-level disadvantage is associated with reduced dietary quality in children J Am Diet Assoc 2009 109 1612 1616 19699843 
+3 
+            Kirkpatrick SI  
+            Dodd KW  
+            Reedy J  
+            Krebs-Smith SM  
+           Income and race/ethnicity are associated with adherence to food-based dietary guidance among US adults and children J Acad Nutr Diet 2012 112 624 635 e626 22709767 
+4 U.S. Department of Agriculture National School Lunch Program: Participation and lunches served (Data as of March 04, 2016) 2016 Accessed March 21, 2016 
+            http://www.fns.usda.gov/sites/default/files/pd/slsummar.pdf 
+           
+5 
+            Cohen JF  
+            Richardson S  
+            Austin SB  
+            Economos CD  
+            Rimm EB  
+           School lunch waste among middle school students: nutrients consumed and costs Am J Prev Med 2013 44 114 121 23332326 
+6 
+            Byker CJ  
+            Farris AR  
+            Marcenelle M  
+            Davis GC  
+            Serrano EL  
+           Food waste in a school nutrition program after implementation of new lunch program guidelines J Nutr Educ Behav 2014 46 406 411 24857599 
+7 
+            Cohen JF  
+            Richardson S  
+            Parker E  
+            Catalano PJ  
+            Rimm EB  
+           Impact of the new U.S. Department of Agriculture school meal standards on food selection, consumption, and waste Am J Prev Med 2014 46 388 394 24650841 
+8 
+            Schwartz MB  
+            Henderson KE  
+            Read M  
+            Danna N  
+            Ickovics JR  
+           New school meal regulations increase fruit consumption and do not increase total plate waste Child Obes 2015 11 242 247 25734372 
+9 
+            Swanson M  
+           Digital photography as a tool to measure school cafeteria consumption J Sch Health 2008 78 432 437 18651930 
+10 
+            Hanks AS  
+            Wansink B  
+            Just DR  
+           Reliability and accuracy of real-time visualization techniques for measuring school cafeteria tray waste: validating the quarter-waste method J Acad Nutr Diet 2014 114 470 474 24135053 
+11 
+            Taylor JC  
+            Yon BA  
+            Johnson RK  
+           Reliability and validity of digital imaging as a measure of schoolchildren's fruit and vegetable consumption J Acad Nutr Diet 2014 114 1359 1366 24751663 
+12 
+            Thurston RC  
+            El Khoudary SR  
+            Derby CA  
+             
+           Low socioeconomic status over 12 years and subclinical cardiovascular disease: the Study of Women's Health Across the Nation Stroke 2014 45 954 960 24578209 
+13 
+            Bland JM  
+            Altman DG  
+           Statistical methods for assessing agreement between two methods of clinical measurement Lancet 1986 1 307 310 2868172 
+14 
+            Lin LIK  
+           A note on the concordance correlation coefficient Biometrics 2000 56 324 325 
+

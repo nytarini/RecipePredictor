@@ -1,0 +1,249 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   981575530139Prostate Cancer Prostatic DisProstate Cancer Prostatic Dis.Prostate cancer and prostatic diseases1365-78521476-560830385837668543810.1038/s41391-018-0105-2NIHMS1029018ArticleHigher baseline dietary fat and fatty acid intake is associated with increased risk of incident prostate cancer in the SABOR study Liss Michael A. 12Al-Bayati Osamah 1Gelfond Jonathan 3Goros Martin 3Ullevig Sarah 4DiGiovanni John 2Hamilton-Reeves Jill 5O’Keefe Denise 1Bacich Dean 1Weaver Brandi 1Leach Robin 16Thompson Ian M. 71 Department of Urology, University of Texas Health San Antonio, San Antonio, TX, USA2 Division of Pharmacology and Toxicology, College of Pharmacy, The University of Texas, Austin, TX, USA3 Department of Epidemiology and Biostatistics, University of Texas Health San Antonio, San Antonio, TX, USA4 Department of Kinesiology, Health, and Nutrition, University of Texas Health San Antonio, San Antonio, TX, USA5 Department of Urology, University of Kansas, Kansas City, KS, USA6 Cell and Structural biology, University of Texas Health San Antonio, San Antonio, TX, USA7 CHRISTUS Health, CHRISTUS Santa Rosa Medical Center, San Antonio, TX, USAMichael A. Liss liss@uthscsa.edu29 5 2019 01 11 2018 5 2019 01 5 2020 22 2 244 251 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+To study the association of nutrient intake measured by baseline food frequency questionnaire and risk of subsequent prostate cancer (PCa) in the SABOR (San Antonio Biomarkers of Risk) cohort study.
+
+Methods
+After IRB approval, more than 1903 men enrolled in a prospective cohort from 2000 to 2010 as part of the SABOR clinical validation site for the National Cancer Institute Early Detection Research Network. Food and nutrient intakes were calculated using a Food Frequency Questionnaire. Cox proportional hazards modeling and covariate-balanced propensity scores were used to assess the associations between all nutrients and PCa.
+
+Results
+A total of 229 men were diagnosed with PCa by prostate biopsy. Among all nutrients, increased risk of PCa was associated with intake of dietary fat scaled by the total caloric intake, particularly saturated fatty acid (SFA) [HR 1.19; 95% CI, 1.07–1.32), P value &lt;0.001, False discovery rate (FDR) 0.047] and trans fatty acid (TFA) [HR per quintile 1.21; (95% CI) (1.08–1.35), P &lt; 0.001, FDR 0.039]. There was an increased risk of PCa with increasing intake of monounsaturated fatty acid (MUFA) (HR per quintile 1.14; 95% CI 1.03–1.27, P = 0.01, FDR 0.15) and cholesterol [HR per quintile 1.13; 95% confidence interval (95% CI) (1.02–1.26), P-value 0.02, FDR 0.19].
+
+Conclusion
+After examining a large, population-based cohort for PCa diagnosis, we identified dietary total fat and certain fatty acids as associated with increased risk of PCa. We found no factors that were protective from PCa. Dietary modification of fatty acid intake may reduce risk of PCa.
+
+
+   Introduction
+Prostate cancer is the second most common cancer in men, and the sixth leading cause of cancer death among men with nearly a million new cases diagnosed worldwide [1–3]. Hereditary and environmental factors may contribute to prostate carcinogenesis but at present only age, race, and family history are well-established risk factors [4]. PCa incidence varies internationally but Western countries have approximately a six-fold higher PCa incidence than non-Western countries. Furthermore, ecologic and migrant studies provide substantial evidence of an increased incidence of PCA in immigrant populations to the US and Europe compared to individuals in their countries of origin [5, 6].
+
+Although increased screening likely accounts for some of this discrepancy, it has been hypothesized that differences in dietary intake, lifestyle, environmental and genetic factors may also contribute [7, 8]. Dietary evaluation of large screening studies has been mixed. In the United States, the Prostate, Lung, Colorectal, and Ovarian cancer screening study did not find significant differences in dietary intake in prostate cancer patients [9]. In studies to date, time-to-event analyses have rarely been performed. The impact of diet on risk of PCa has been increasingly studied due to recent evidence suggesting that diet may worsen metastatic disease; higher body mass index has been linked to adverse prostate cancer outcomes, potentially affected by high levels of total fat intake in the U.S [11, 12]. PCa metabolomic subtyping to include lipogenesis and microbiome patterns may also provide insights into new diet-based PCa prevention strategies in at-risk men [10].
+
+We herein investigate the relationship between consumption of various nutrients including types of dietary fat using a validated food frequency questionnaire (FFQ) and the future risk for PCa taken one time at baseline in men participating in a community-based screening cohort called the San Antonio Biomarkers of Risk (SABOR) study.
+
+Materials and methods
+Cohort
+The SABOR study is a National Cancer Institute Early Detection Research Network-sponsored Clinical and Epidemiologic Validation Center that includes a multi-ethnic cohort of 3880 men from San Antonio and South Texas area without prior diagnosis of PCa (https://edrn.nci.nih.gov/protocols/52-san-antonio-center-of-biomarkers-of-risk-for). Cohort enrollment began in 2000. Between 2000–2010, subjects were assessed annually with Prostatic Specific Antigen (PSA) measures and digital rectal examination (DRE). After 2010 and up to the current time of writing, the men were divided into higher and lower risk groups based on a PSA cutoff of 2.5 ng/mL who had annual and every other year visits, respectively. Dietary intake was assessed at baseline in men from 2001 to 2008 (n = 1903). We utilize the STrengthening the Reporting of Observational studies in Epidemiology statement cohort checklist for reporting. (https://www.strobe-statement.org/fileadmin/Strobe/uploads/checklists/STROBE_checklist_v4_cohort.pdf).
+
+Food Frequency Questionnaires (FFQ)
+At baseline, patient dietary intake of the past 3 months was measured using the MSEL FFQ, a self-administered booklet that asks participants to report the frequency of consumption and portion size for approximately 125 line items (Nutrition Assessment Shared Resource Fred Hutchinson Cancer Research Center, Seattle, Washington). Nutrient intake estimates were quantified by Fred Hutchinson Cancer Research Center using Nutrient Data System for Research software version 2005 (Nutrition Coordinating Center, University of Minnesota, Minneapolis, MN). All quantified macronutrients and micronutrients were analyzed in a similar manner.
+
+Primary predictor variables
+The objective of this study was to determine if the FFQ profiles predicted future risk of PCa. The key predictors of PCa identified in previous studies were considered as potential confounders [11]. These variables included age, baseline PSA, African American race, body mass index (BMI), abnormal digital rectal exam (DRE) and family history of PCa. Baseline variables were stratified by cancer status at follow-up and summarized by percent for categorical variables and means and standard deviations for continuous variables.
+
+Outcome variables
+The primary outcome variable was the time of PCa diagnosis for men who developed PCa or censored follow-up time for men without PCa. Participants and their respective primary physicians were provided with PSA and DRE test results. Decision for a prostate biopsy was based on sub-sequent patient-physician discussions and based on general community standards.
+
+Statistical analysis
+Cancer status and diagnosis date was defined as a positive biopsy on or prior to the last follow-up. Baseline comparisons between men who did and did not develop PCa were conducted with the Chi-square and Wilcoxon tests for categorical and continuous variables, respectively. Each nutrient component within the FFQ profile was assessed separately within a Cox proportional hazards model adjusting for key clinical predictors as covariates (baseline PSA, BMI, African American race, family history, and abnormal DRE). Two models of nutrient associations were considered. The first model scaled the nutrient by total caloric intake prior to conversion into quintiles. This is similar to associations with the percent caloric intake for macronutrients. For example, if total fat intake for a subject was 20 g and total calorie intake was 2000 calories (kcal) then the scaled total fat was computed to be 0.01, which was then converted to a quintile relative to other subjects’ values for that nutrient. Quintiles were used instead of raw values to account for outliers and imprecise measures in the FFQ profiles. That is, if a participant was in the bottom 20% (or the top 20%) of intake for that nutrient relative to the cohort then he would receive a value of 1 (or 5), respectively. As a sensitivity analysis, an alternative to scaling by caloric intake was considered in which the nutrient quantities were regressed onto total calorie intake, and the residuals from this regression were used as predictors. The second model used the quintile of each nutrient as a predictor without scaling by the total caloric intake, which might be more appropriate for micronutrients. Volcano plots [12] were used to assess the overall patterns of association with nutrient components with the P-values and the log-hazard ratio (HR) of the nutrient quintiles. We performed adjustments for multiple testing across 133 nutrients with the Benjamini-Hochberg procedure to estimate the false discovery rate (FDR). To further isolate the effect of the most significantly associated nutrient from other covariates, we performed a weighted, covariate balanced regression analysis [13] that compared otherwise similar men in the bottom two intake quintiles of that nutrient with those from the top 2 quintiles of that nutrient. This type of causal analysis estimates the counterfactual effect of men moving from the lower 2 quintiles to the upper two quintiles. The covariates that were balanced were baseline PSA, BMI, African American race, family history, and abnormal DRE. Similar analyses were conducted for high-grade PCa (Gleason &gt; 6).
+
+It is possible that the effect of the nutrients on PCa risk could be mediated by changes in BMI. Although we adjusted for BMI as a covariate, to explore this, we examined the relationship between nutrient intake and change in BMI over three years after baseline. The three-year interval was used for changes in BMI because the interval represented changes in weight temporally close to the time of the FFQ survey. We estimated the change in BMI using a linear mixed-effect model with a random intercept and slope. We assessed the association between nutrient intake BMI change by regressing the estimated random slope of BMI onto each nutrient as a predictor. We tested the association between change in BMI and PCa risk using the estimated random slope as a predictor in Cox proportion hazard model. All analyses were performed in R (Vienna, Austria) using an accountable data analysis process.
+
+Results
+At a median follow up of 8.9 years (SD 4.9), 1903 men completed the FFQ questionnaires and of these, 229 men were diagnosed with PCa after completing the FFQ. Figure 1 displays a flow chart describing the patient population. Baseline characteristics of men stratified by PCa diagnosis status at last follow-up are displayed in Table 1. PCa risk was related to the following variables: baseline PSA, age, BMI, family history, and DRE.
+
+The covariate-adjusted effects of all 133 calorie scaled nutrients on PCa risk are displayed in Supplementary Table 1. Figure 2 shows the statistical significance plotted against the hazard ratio of the nutrients scaled by total caloric intake. The top 20 most significant associations of all nutrients are shown in Table 2a. Stearic acid was most strongly associated with an increased risk of PCa (HR 1.23; 95% CI 1.10–1.37, P &lt;0.001, FDR 0.04). There was also a significant association for total saturated fatty acids SFA Total (HR 1.19; 95% CI, 1.07–1.32, P = 0.001, FDR 0.047). There was a suggestive increased risk of prostate cancer with increasing intake of monounsaturated fatty acid (MUFA, [HR 1.14; 95% CI 1.03–1.27, P 0.02, FDR 0.15]) and cholesterol [HR 1.13; 95% CI 1.02–1.26, P 0.02, FDR 0.19]. The analysis of the residual nutrient intake
+
+While the analysis of high-grade PCa did not show significant associations (FDR &gt; 0.2) largely due to the small number of cases (n = 93), the strongest associations were with saturated and trans-fatty acids. There were no associations between polyunsaturated fatty acids (PUFA) or any of its individual fatty acids and the risk of PCa, nor was there any association with omega-3 fatty acids (OFA).
+
+There was a statistically significant increased risk of PCa incidence and elaidic acid [HR 1.21; 95% CI 1.08–1.35, P-value &lt;0.001, FDR 0.04], trans-hexadecenoic acid [HR 1.20; 95% CI 1.07–1.34; P-value&lt; 0.001, FDR 0.04], linolelaidic acid [HR 1.15; 95% 1.03–1.28, P-value 0.01, FDR 0.15], margaric acid [HR 1.16; 95% CI 1.05–1.29, P-value 0.006, FDR 0.12], and total trans fatty acids [HR 1.21; 95% CI 1.08–1.35, P-value &lt; 0.001, FDR 0.04]. The analysis of the unscaled nutrients yielded few statistically significant results (FDR &lt; 0.2), but showed the similar overall patterns of association. The eight strongest associations with unscaled nutrient quantiles included total trans fatty acids and total saturated fatty acids (FDR &gt;0.1). See Table 2b. In a sub-analysis, we compared the highest quintile to the lowest quintile of nutrients (Supplementary Table 2). We identified vitamin E supplementation increases the risk of prostate cancer. Cholesterol had a larger effect than aspartame; however, in general trans fatty acids remain a significant risk factor for PCa.
+
+The nutrient with the largest association with PCa was explored further. Table 3 shows the results of the covariate balanced propensity weighted analysis that compared the risk of the top two quintiles of SFA 18:0 (stearic acid) (intake to a comparable set of men in the bottom two quintiles. The risk of PCa was about 90% higher in men in the top two quintiles [HR 1.9, 95% CI 1.52–2.38, P &lt; 0.001]. Figure 3 is a Kaplan–Meier curve of men stratified by the trans-fatty acid intake (quintile) and illustrates a dose-effect of increasing risk with increasing intake ranging from 8% after 15 years in the lowest quintile to 25% in the highest quintile.
+
+The nutrient most associated with BMI change was aspartame (BMI change per year 0.02 95% CI 0.003–0.028, P-value = 0.014, FDR = 0.7), but none of these associations were significant after adjusting for multiple testing (FDR &gt; 0.6). Further, the changes in BMI were not associated with PCa risk in a Cox proportional hazards model adjusting for other clinical covariates (HR 1.18, 95% CI 0.73–1.89, P = 0.49).
+
+Discussion
+Our analysis revealed that of all nutrients quantified by the FFQ administered at baseline fatty acid intake had a dose dependent effect on PCa incidence in our SABOR cohort participants. The type of fatty acid [14] rather than total amount may play an important role in PCa development and progression. In our study, high intake of saturated FA (SFA), trans-FA and vitamin E supplementation was found to be significantly associated with PCa risk. Regarding trans-FA, the lowest quintile was higher than the American Heart Association’s 2013 recommendation to “Aim for a dietary pattern that achieves 5–6% of calories from saturated fat and reduced percent of calories from trans fat.” [15] A positive but not statistically significant association was seen between MUFA and cholesterol. Several epidemiological studies have suggested increased consumption of SFA correlates with increased risk of PCa and may be directly related to risk of biochemical recurrence and cancer progression [16, 17]. Consistent with our study, specific SFA, myristic acid and palmitic acid increased the risk of PCa in a dose-dependent manner [18].
+
+Our finding that vitamin E supplementation is a risk factor for prostate cancer is consistent with the findings of the prospective, randomized SELECT clinical trial (Supplemental Table 1) [19]. Our study is also consistent with several others that reported dietary fat as a risk factor for PCa [6, 20, 21] but our analysis is the first to demonstrate the dose-dependent predictive value of fatty acid intake on future risk of prostate cancer, suggesting this dietary component as a potentially modifiable risk factor. While fat consumption has been stable in the United States, global dietary fat consumption has been increasing since 1960 [22], PCa incidence rates have been rapidly increasing in many countries such as China, Korea, Japan, and Singapore [23]. This upward trend has been ascribed to the transition to a Westernized diet in these countries during this period. Specifically, populations with high intake of saturated fat and red meat have an increased risk of PCa compared with populations with low intake of these nutrients or food items [5, 23–26]. It is important to note that some studies have not found dietary fat to be associated with cancer risk [27]. The lack of a strong association between dietary fat intake and risk of PCa in these studies could be due to a number of reasons. For instance, most observational studies had relatively few PCa cases along with a narrow range of fat intake, leading to low statistical power to detect modest associations between fat intake and risk of advanced or fatal PCa. Moreover, the use of a wide variety of dietary assessment techniques and nutrient databases may create significant heterogeneity between studies [28, 29].
+
+Trans-FA are either produced naturally by ruminant bacteria or are man-made formed by the hydrogenation of vegetable oil. Man-made trans-FA contributes a larger portion of the TFA consumed in the US diet as compared to ruminate TFA [30]. Our study found primarily that man- made sources of TFA linolelaidic acid (C18:2), eladic acid (C18:1), and transhexadecenoic acid (C16:1) were associated with PCa risk. An interesting area of future investigation would be the role of lipid metabolism by modifying fatty acid composition by the gastrointestinal microbiome (specifically Lactobacillus plantarum) [31]. Adipose tissue, serum, and dietary total FA have previously been associated with prostate cancer risk, but the impact of trans fatty acids specifically to prostate cancer risk has not been elucidated [30]. Yet, trans fatty acids have been associated with overall mortality and therefore may be beneficial to target reducing fatty acids for improved overall health [32].
+
+Odd chain fatty acids and short chain SFA have limited and specific food sources in the human diet. Margaric acid (C:17) is primarily in ruminate meat fat (red meat) and caproic (C6) and myristic acids (C14) are primarily in dairy, cheese, and butter [33]. The association this study found between specific odd chain and SFA may provide further support for epidemiological studies linking the intake of red meat and high-fat dairy products with prostate cancer risk [26, 34, 35].
+
+Bidoli et al. has described a cancer promoting effect of MUFA in humans and mice [36]. The effects of dietary MUFA, particularly oleic acid, on prostate cancer risk remain especially controversial. Some studies suggest a protective effect of MUFA in cancer development [37], while others describe no association between MUFA and PCa [27, 38]. One study reported a positive association, before adjustment of other factors, between blood levels of palmitoleic acid associated with an increased incidence of high-grade PCa [39].
+
+Several mechanisms may underlie the association between dietary fat intake and PCa risk, including the oxidative stress generated during fat metabolism [40, 41], and induction of prostatic inflammation possibly through high dietary fat-induced association between NF-кB and STAT-3 signaling mechanism [42, 43]. Other proposed mechanisms, including serum testosterone level [44], free radicals [45], and insulin-like growth factor levels [46]. High dietary fat was also found to modulate fatty acid synthase gene expression, which may be an important mechanism in fat-associated PCa progression [47]. Prostate tissues exposed to high levels of dietary fat-exposed exhibit increased levels of Activated Protein Kinase B (Akt) and deactivated Phosphatase and tensin homolog (Pten) [48]. PUFA also increased prostate stromal and epithelial cell proliferation, while SFA influenced only stromal cellular proliferation in the rat ventral prostate [49]. Therefore, validated food frequency questionnaires could be combined with prostate cancer aberrant genetic alterations to utilizes specific diet recommendations as an adjunctive therapeutic approach to prostate cancer.
+
+We foresee the utilization of a validated food frequency questionnaire to provide bespoke dietary recommendations for individuals at high risk for prostate cancer. Black men and men with a family history that are provided regular prostate screening should also undergo dietary evaluation and discussion. As new genetic markers arise, such as BRCA mutation, medical providers should also provide education regarding prostate cancer prevention and starting with evaluation of the diet could be a simple piece of the solution [50]. Studies have shown feasibility of implementing large scale dietary interventions in men with prostate cancer; therefore, an individualized dietary prostate cancer prevention trial is possible [51].
+
+Our study does have potential limitations. While the FFQ does not provide an exact measure of dietary fat intake, it likely adequately ranks intake across participants. Effectively we scaled the kcal analysis to account for this limitation, which is sufficient for the objectives of our study. Also, this FFQ was validated and specific to the US diet with a particularly comprehensive dietary fat section, decreasing risk of exposure misclassification. Nonetheless, this possibility may represent a limitation of our study design. Subjects may also under or over-report food intake, but this is a general limitation with all dietary assessment methods and appropriate statistical adjustments were made considering the dietary assessment method [52, 53]. Our sample size is relatively large considering we have outcomes on almost all patients, but analyses may still be underpowered to detect associations of smaller magnitude, reflected in the relatively large confidence intervals for many associations. Despite these limitations, this analysis is strengthened by the prospective ascertainment of PCa cases, the high PCa event rate, the large sample size in SABOR, regular, protocol-specified follow up, and the ability to control for potentially confounding variables.
+
+In conclusion, we found that high intake of dietary fat was associated with an increased risk of development of PCa in a large, community-based cohort. These findings add further evidence that the intake of dietary fat is an important predictor of prostate cancer risk, and dietary modification of fatty acid intake may reduce this risk. With a renewed interest in prostate cancer screening particularly for patients at high risk, dietary modification could be considered as a prevention strategy.
+
+Supplementary Material
+Table1  Table2  Acknowledgements
+This work was sponsored in part by grants from the National Institute of Health: U01 CA86402, and P30 CA0541474. JG was also supported by NIH grant GM07033. This work was also supported by the Office of the Assistant Secretary of Defense for Health Affairs through the Prostate Cancer Research Program under Award No. W81XWH-15–1-0441. Opinions, interpretations, conclusions and recommendations are those of the author and are not necessarily endorsed by the Department of Defense. Nutrition assessment shared resource at Fred Hutch utilized funds from NIH/ NCI award number P30 CA015704.
+
+Compliance with ethical standards
+
+Conflict of interest The authors declare that they have no conflict of interest.
+
+Electronic supplementary material The online version of this article (https://doi.org/10.1038/s41391-018-0105-2) contains supplementary material, which is available to authorized users.
+
+Fig. 1 Study cohort diagram. The flow diagram recommended for cohort studies utilizing STrengthening the Reporting of OBservational studies in Epidemiology (STROBE) recommendations. FFQ Food Frequency Questionnaire, PCa prostate cancer, ISUP International Society of Urologic Pathologists
+
+Fig. 2 Volcano plot for scaled nutrients of the food frequency questionnaire on prostate cancer risk. The horizontal axis (log2 HR) is the log hazard ratio and the vertical axis (–log10 P-value) is the log P-value
+
+Fig. 3 Cox proportional hazard mode for time to prostate cancer based on SFA 18:0 (stearic acid) intake quintile. SFA 18:0 quintiles 1 and 5 are the bottom 20th and top 20th percentiles, respectively
+
+Table 1 Characteristics of study sample by prostate cancer status
+
+Demographic		Cancer	No cancer	P value	
+
+              
+            	
+n (sample size)		229	1674		
+Baseline PSAa (mean (sd))		2.37 (1.70)	1.29 (1.25)	&lt;0.001	
+Baseline age (mean (sd))		61.68 (8.21)	58.68 (9.83)	&lt;0.001	
+Body mass index (mean (sd))		27.15 (4.35)	28.26 (4.80)	0.002	
+Follow up in Years (mean (sd))		5.59 (4.05)	9.19 (4.82)		
+Race (%)	African American	22 (9.6)	155 (9.3)	0.961	
+	Caucasian	207 (90.4)	1519 (90.7)		
+Family history (%)	No	138 (60.3)	1316 (78.6)	&lt;0.001	
+	Yes	91 (39.7)	358 (21.4)		
+Abnormal prostate exam (%)	No	160 (69.9)	1401 (83.7)	&lt;0.001	
+	Yes	69 (30.1)	273 (16.3)		
+a PSA prostate specific antigen
+
+Table 2a Nutrients scaled by total caloric intake with the strongest associations with prostate cancer. Hazard ratio is the relative risk of prostate cancer increasing nutrient to the next highest quintile. FDR is thefalse discovery rate
+
+Nutrient	Hazard ratio 95% CI	P-value	FDR	
+
+              
+            	
+SFA 18:0 (stearic acid)	1.23 [1.10, 1.37]	&lt;0.001	0.036	
+TRANS 18:1 (trans-octadecenoic acid [elaidic acid])	1.21 [1.08, 1.35]	&lt;0.001	0.0387	
+Total trans-fatty acids (TRANS)	1.21 [1.08, 1.35]	&lt;0.001	0.0387	
+TRANS 16:1 (trans-hexadecenoic acid)	1.20 [1.07, 1.34]	0.0012	0.0393	
+Total saturated fatty acids (SFA)	1.19 [1.07, 1.32]	0.0018	0.0473	
+SFA 16:0 (palmitic acid)	1.17 [1.05, 1.30]	0.0049	0.1092	
+SFA 17:0 (margaric acid)	1.16 [1.04, 1.29]	0.0061	0.1153	
+Gamma-tocopherol	1.15 [1.04, 1.28]	0.0082	0.1356	
+TRANS 18:2 (trans-octadecadienoic acid [linolelaidic acid];
+incl. c-t, t-c, t-t)	1.15 [1.03, 1.28]	0.0111	0.1458	
+SFA 6:0 (caproic acid)	1.14 [1.03, 1.27]	0.0121	0.1458	
+MUFA 18:1(oleic acid)	1.15 [1.03, 1.27]	0.0131	0.1458	
+SFA 10:0 (capric acid)	1.14 [1.03, 1.27]	0.0142	0.1458	
+SFA 14:0 (myristic acid)	1.14 [1.03, 1.27]	0.0143	0.1458	
+Total monounsaturated fatty acids (MUFA)	1.14 [1.03, 1.27]	0.0159	0.1511	
+Cholestorol	1.13 [1.02, 1.26]	0.0227	0.1906	
+SFA 12:0 (lauric acid)	1.13 [1.02, 1.26]	0.0229	0.1906	
+SFA 8:0 (caprylic acid)	1.13 [1.01, 1.25]	0.0269	0.2105	
+SFA 4:0 (butyric acid)	1.12 [1.00, 1.24]	0.0418	0.3085	
+3-Methylhistidine	1.12 [1.00, 1.24]	0.0458	0.3112	
+Total fat	1.11 [1.00, 1.24]	0.0487	0.3112	
+Table 2b Unscaled nutrients with the strongest associations with prostate cancer. Hazard ratio is the relative risk of increasing nutrient to the next highest quintile. FDR is the false discovery rate
+
+Nutrient	Hazard ratio 95% CI	P-value	FDR	
+
+              
+            	
+TRANS 16:1 (trans-hexadecenoic acid)	1.20 [1.07, 1.34]	0.0014	0.1887	
+TRANS 18:1 (trans-octadecenoic acid [elaidic acid])	1.17 [1.05, 1.31]	0.0062	0.2127	
+Total trans-fatty acids (TRANS)	1.17 [1.04, 1.30]	0.0071	0.2127	
+Total saturated fatty acids (SFA)	1.16 [1.04, 1.30]	0.0085	0.2127	
+SFA 18:0	1.16 [1.04, 1.30]	0.0085	0.2127	
+Gamma-tocopherol	1.16 [1.04, 1.29]	0.0102	0.2127	
+3-Methylhistidine	1.15 [1.03, 1.29]	0.0112	0.2127	
+SFA 16:0 (palmitic acid)	1.15 [1.03, 1.28]	0.0137	0.2281	
+Table 3 Cox model for covariate balanced propensity weighting
+
+Predictor variable	Hazard ratio [95% CI]	P-value	
+
+              
+            	
+Abnormal prostate exam	1.11 [0.86, 1.43]	0.4	
+Baseline age	1.03 [1.02, 1.04]	&lt;0.001	
+Body mass index	0.97 [0.94, 1]	0.03	
+Positive family history	2.75 [2.19, 3.46]	&lt;0.001	
+Caucasian race	0.79 [0.51, 1.24]	0.3	
+Baseline PSA	1.42 [1.34, 1.5]	&lt;0.001	
+SFA 18:0 (stearic acid)	1.9 [1.52, 2.38]	&lt;0.001	
+
+   References
+1. Bray F , Jemal A , Grey N , Ferlay J , Forman D . Global cancer transitions according to the Human Development Index (2008–2030): a population-based study . Lancet Oncol . 2012 ;13 :790 –801 .22658655 
+2. Center MM , Jemal A , Lortet-Tieulent J , Ward E , Ferlay J , Brawley O , 
+International variation in prostate cancer incidence and mortality rates . Eur Urol . 2012 ;61 :1079 –92 .22424666 
+3. Ferlay J , Soerjomataram I , Dikshit R , Eser S , Mathers C , Rebelo M , 
+Cancer incidence and mortality worldwide: sources, methods and major patterns in GLOBOCAN 2012 . Int J Cancer . 2015 ;136 :E359 –386 .25220842 
+4. Lichtenstein P , Holm NV , Verkasalo PK , Iliadou A , Kaprio J , Koskenvuo M , 
+Environmental and heritable factors in the causation of cancer—analyses of cohorts of twins from Sweden, Denmark, and Finland . N Engl J Med . 2000 ; 343 :78 –85 .10891514 
+5. Rose DP , Boyar AP , Wynder EL . International comparisons of mortality rates for cancer of the breast, ovary, prostate, and colon, and per capita food consumption . Cancer . 1986 ;58 :2363 –71 .3768832 
+6. Whittemore AS , Kolonel LN , Wu AH , John EM , Gallagher RP , Howe GR , 
+Prostate cancer in relation to diet, physical activity, and body size in blacks, whites, and Asians in the United States and Canada . J Natl Cancer Inst . 1995 ;87 :652 –61 .7752270 
+7. Lopez Fontana CM , Recalde Rincon GM , Messina Lombino D , Uvilla Recupero AL , Perez Elizalde RF , Lopez Laur JD . Body mass index and diet affect prostate cancer development . Actas Urol Esp . 2009 ;33 :741 –6 .19757658 
+8. Wu K , Hu FB , Willett WC , Giovannucci E . Dietary patterns and risk of prostate cancer in U.S. men . Cancer Epidemiol Biomark Prev . 2006 ;15 :167 –71 .
+9. Kristal AR , Arnold KB , Neuhouser ML , Goodman P , Platz EA , Albanes D , 
+Diet, supplement use, and prostate cancer risk: results from the prostate cancer prevention trial . Am J Epidemiol . 2010 ;172 :566 –77 .20693267 
+10. Priolo C , Pyne S , Rose J , Regan ER , Zadra G , Photopoulos C , 
+AKT1 and MYC induce distinctive metabolic fingerprints in human prostate cancer . Cancer Res . 2014 ;74 :7198 –204 .25322691 
+11. Ankerst DP , Hoefler J , Bock S , Goodman PJ , Vickers A , Hernandez J , 
+Prostate cancer prevention trial risk calculator 2.0 for the prediction of low-vs high-grade prostate cancer . Urology . 2014 ;83 :1362 –8 .24862395 
+12. Cui X , Churchill GA . Statistical tests for differential expression in cDNA microarray experiments . Genome Biol . 2003 ;4 :210 .12702200 
+13. Imai K , Ratkovic M . Covariate balancing propensity score . J R Stat Soc Ser B . 2014 ;76 :243 –63 .
+14. Ohwaki K , Endo F , Kachi Y , Hattori K , Muraishi O , Nishikitani M , 
+Relationship between dietary factors and prostate-specific antigen in healthy men . Urol Int . 2012 ;89 :270 –4 .22796946 
+15 
+Eckel RH , Jakicic JM , Ard JD , de Jesus JM , Houston Miller N , Hubbard VS ,  2013 AHA/ACC guideline on lifestyle management to reduce cardiovascular risk: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines . J Am Coll Cardiol . 2014 ;63 (25  Pt B):2960 –84 .24239922 
+16. Bassett JK , Severi G , Hodge AM , MacInnis RJ , Gibson RA , Hopper JL , 
+Plasma phospholipid fatty acids, dietary fatty acids and prostate cancer risk . Int J Cancer . 2013 ;133 :1882 –91 .23575905 
+17. Strom SS , Yamamura Y , Forman MR , Pettaway CA , Barrera SL , DiGiovanni J . Saturated fat intake predicts biochemical failure after prostatectomy . Int J Cancer . 2008 ;122 :2581 –5 .18324626 
+18. Kurahashi N , Inoue M , Iwasaki M , Sasazuki S , Tsugane AS , Japan Public Health Center-Based Prospective Study G . Dairy product, saturated fatty acid, and calcium intake and prostate cancer in a prospective cohort of Japanese men . Cancer Epidemiol Biomark Prev . 2008 ;17 :930 –7 .
+19. Klein EA , Thompson IM Jr., Tangen CM , Crowley JJ , Lucia MS , Goodman PJ , 
+Vitamin E and the risk of prostate cancer: the Selenium and Vitamin E Cancer Prevention Trial (SELECT) . JAMA . 2011 ;306 :1549 –56 .21990298 
+20. Di Sebastiano KM , Mourtzakis M . The role of dietary fat throughout the prostate cancer trajectory . Nutrients . 2014 ;6 :6095 –109 .25533015 
+21. Pelser C , Mondul AM , Hollenbeck AR , Park Y . Dietary fat, fatty acids, and risk of prostate cancer in the NIH-AARP diet and health study . Cancer Epidemiol Biomark Prev . 2013 ;22 :697 –707 .
+22. Nishida C1 , Uauy R , Kumanyika S , Shetty P , The joint WHO/ FAO expert consultation on diet, nutrition and the prevention of chronic diseases: process, product and policy implications . Public Health Nutr . 2004 
+2 ;7 (1A ):245 –50 .14972063 
+23. Zhang J , Dhakal IB , Zhao Z , Li L . Trends in mortality from cancers of the breast, colon, prostate, esophagus, and stomach in East Asia: role of nutrition transition . Eur J Cancer Prev . 2012 ;21 :480 –9 .22357483 
+24. Crowe FL , Allen NE , Appleby PN , Overvad K , Aardestrup IV , Johnsen NF , 
+Fatty acid composition of plasma phospholipids and risk of prostate cancer in a case-control analysis nested within the European Prospective Investigation into Cancer and Nutrition . Am J Clin Nutr . 2008 ;88 :1353 –63 .18996872 
+25. Ma RW , Chapman K . A systematic review of the effect of diet in prostate cancer prevention and treatment . J Hum Nutr Diet . 2009 ;22 :187 –99 . quiz200–182 19344379 
+26. Michaud DS , Augustsson K , Rimm EB , Stampfer MJ , Willet WC , Giovannucci E . A prospective study on intake of animal products and risk of prostate cancer . Cancer Causes Control . 2001 ;12 :557 –67 .11519764 
+27. Crowe FL , Key TJ , Appleby PN , Travis RC , Overvad K , Jakobsen MU , 
+Dietary fat intake and risk of prostate cancer in the European Prospective Investigation into Cancer and Nutrition . Am J Clin Nutr . 2008 ;87 :1405 –13 .18469265 
+28. Dennis LK , Snetselaar LG , Smith BJ , Stewart RE , Robbins ME . Problems with the assessment of dietary fat in prostate cancer studies . Am J Epidemiol . 2004 ;160 :436 –44 .15321840 
+29. Neuhouser ML , Barnett MJ , Kristal AR , Ambrosone CB , King I , Thornquist M , 
+n-6) PUFA increase and dairy foods decrease prostate cancer risk in heavy smokers . J Nutr . 2007 ;137 :1821 –7 .17585037 
+30. Smith BK , Robinson LE , Nam R , Ma DW . Trans-fatty acids and cancer: a mini-review . Br J Nutr . 2009 ;102 :1254 –66 .19664299 
+31. Kishino S , Takeuchi M , Park SB , Hirata A , Kitamura N , Kuni-sawa J , 
+Polyunsaturated fatty acid saturation by gut lactic acid bacteria affecting host lipid composition . Proc Natl Acad Sci USA . 2013 ;110 :17808 –13 .24127592 
+32. Wang DD , Li Y , Chiuve SE , Stampfer MJ , Manson JE , Rimm EB , 
+Association of specific dietary fats with total and cause-specific mortality . JAMA Intern Med . 2016 ;176 :1134 –45 .27379574 
+33. Haytowitz DB , Pehrsson PR . USDA’s National Food and Nutrient Analysis Program (NFNAP) produces high-quality data for USDA food composition databases: Two decades of collaboration . Food Chem . 2018 
+1 
+1 ;238 :134 –138 . 10.1016/).foodchem.2016.11.082 .  Epub 2016 Nov 19. 28867083 
+34 
+Gao X , LaValley MP , Tucker KL . Prospective studies of dairy product and calcium intakes and prostate cancer risk: a metaanalysis . J Natl Cancer Inst . 2005 ;97 :1768 –77 .16333032 
+35. Yang M , Kenfield SA , Van Blarigan EL , Wilson KM , Batista JL , Sesso HD , 
+Dairy intake after prostate cancer diagnosis in relation to disease-specific and total mortality . Int J Cancer . 2015 ;137 :2462 –9 .25989745 
+36. Bidoli E , Talamini R , Bosetti C , Negri E , Maruzzi D , Montella M , 
+Macronutrients, fatty acids, cholesterol and prostate cancer risk . Ann Oncol . 2005 ;16 :152 –7 .15598953 
+37. Lopez-Miranda J , Perez-Jimenez F , Ros E , De Caterina R , Badimon L , Covas MI , 
+Olive oil and health: summary of the II international conference on olive oil and health consensus report, Jaen and Cordoba (Spain) 2008 . Nutr Metab Cardiovasc Dis . 2010 ;20 :284 –94 .20303720 
+38. Park SY , Wilkens LR , Henning SM , Le Marchand L , Gao K , Goodman MT , 
+Circulating fatty acids and prostate cancer risk in a nested case-control study: the Multiethnic Cohort . Cancer Causes Control . 2009 ;20 :211 –23 .18821021 
+39. Chavarro JE , Kenfield SA , Stampfer MJ , Loda M , Campos H , Sesso HD , 
+Blood levels of saturated and monounsaturated fatty acids as markers of de novo lipogenesis and risk of prostate cancer . Am J Epidemiol . 2013 ;178 :1246 –55 .23989197 
+40. Agalliu I , Kirsh VA , Kreiger N , Soskolne CL , Rohan TE . Oxidative balance score and risk of prostate cancer: results from a case-cohort study . Cancer Epidemiol . 2011 ;35 :353 –61 .21145797 
+41. Khandrika L , Kumar B , Koul S , Maroni P , Koul HK . Oxidative stress in prostate cancer . Cancer Lett . 2009 ;282 : 125 –36 .19185987 
+42. Heymach JV , Shackleford TJ , Tran HT , Yoo SY , Do KA , Wergin M , 
+Effect of low-fat diets on plasma levels of NF-kappaB-regulated inflammatory cytokines and angiogenic factors in men with prostate cancer . Cancer Prev Res . 2011 ;4 :1590 –8 .
+43. Shankar E , Vykhovanets EV , Vykhovanets OV , Maclennan GT , Singh R , Bhaskaran N , 
+High-fat diet activates pro-inflammatory response in the prostate through association of Stat-3 and NF-kappaB . Prostate . 2012 ;72 :233 –43 .21604287 
+44. Bishop GA , McMillan MS , Haughton G , Frelinger JA . Signaling to a B-cell clone by Ek, but not Ak, does not reflect alteration of Ak genes . Immunogenetics . 1988 ;28 :184 –92 .3137158 
+45. Ho PJ , Baxter RC . Insulin-like growth factor-binding protein-2 in patients with prostate carcinoma and benign prostatic hyperplasia . Clin Endocrinol . 1997 ;46 :333 –42 .
+46. Ngo TH , Barnard RJ , Leung PS , Cohen P , Aronson WJ . Insulin-like growth factor I (IGF-I) and IGF binding protein-1 modulate prostate cancer cell growth and apoptosis: possible mediators for the effects of diet and exercise on cancer cell survival . Endocrinology . 2003 ;144 :2319 –24 .12746292 
+47. Huang M , Koizumi A , Narita S , Inoue T , Tsuchiya N , Nakanishi H , 
+Diet-induced alteration of fatty acid synthase in prostate cancer progression . Oncogenesis . 2016 ;5 :e195 .26878389 
+48. Benesh EC , Humphrey PA , Wang Q , Moley KH . Maternal high- fat diet induces hyperproliferation and alters Pten/Akt signaling in prostates of offspring . Sci Rep . 2013 ;3 :3466 .24322661 
+49. Furriel A , Campos-Silva P , Silva PC , Costa WS , Sampaio FJ , Gregorio BM . Diets rich in saturated and polyunsaturated fatty acids induce morphological alterations in the rat ventral prostate . PLoS ONE . 2014 ;9 :e102876. 
+50. Bancroft EK , Page EC , Castro E , Lilja H , Vickers A , Sjoberg D , 
+Targeted prostate cancer screening in BRCA1 and BRCA2 mutation carriers: results from the initial screening round of the IMPACT study . Eur Urol . 2014 ;66 :489 –99 .24484606 
+51. Parsons JK , Pierce JP , Mohler J , Paskett E , Jung SH , Morris MJ , 
+Men’s Eating and Living (MEAL) study (CALGB 70807 [Alliance]): recruitment feasibility and baseline demographics of a randomized trial of diet in men on active surveillance for prostate cancer . BJU Int . 2018 ;121 :534 –9 .28437029 
+52. Freedman LS , Schatzkin A , Midthune D , Kipnis V . Dealing with dietary measurement error in nutritional cohort studies . J Natl Cancer Inst . 2011 ;103 :1086 –92 .21653922 
+53. Subar AF , Freedman LS , Tooze JA , Kirkpatrick SI , Boushey C , Neuhouser ML , 
+Addressing current criticism regarding the value of self-report dietary data . J Nutr . 2015 ;145 : 2639 –45 .26468491 
+

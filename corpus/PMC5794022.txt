@@ -1,0 +1,229 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   980439920863Curr Opin Clin Nutr Metab CareCurr Opin Clin Nutr Metab CareCurrent opinion in clinical nutrition and metabolic care1363-19501473-651928768294579402210.1097/MCO.0000000000000393NIHMS936494ArticleMeasurement of metabolic fluxes using stable isotope tracers in whole animals and human patients Reisz Julie A. D’Alessandro Angelo Department of Biochemistry and Molecular Genetics, School of Medicine, University of Colorado Denver – Anschutz Medical Campus, Aurora, Colorado, USACorrespondence to Angelo D’Alessandro, PhD, Boettcher Investigator, Department of Biochemistry and Molecular Genetics, University of Colorado Denver – Anschutz Medical Campus, 12801 East 17th Ave., Aurora, CO 80045, USA. Tel: +1 303 724 0096; angelo.dalessandro@ucdenver.edu25 1 2018 9 2017 01 9 2018 20 5 366 374 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Purpose of review
+Metabolic flux analysis using stable isotope labeled substrates allows for the tracing of carbon, nitrogen, and hydrogen atoms through metabolic pathways and is an invaluable tool for investigating dynamic metabolic changes occurring in health and disease. Studies of flux analysis in vivo are more technically challenging than in vitro or ex vivo but provide a highly detailed view of organ and/or systemic metabolism. We review here recent efforts in studies of diet and nutrition, non-small cell lung cancer, ischemia/reperfusion injury, and hemorrhagic shock where in vivo flux analysis was utilized to analyze metabolic modulation.
+
+Recent findings
+Recent technical strides in the field of metabolomics afford sensitive and quantitative in vivo measurements of metabolic fluxes. Stable isotope tracing with 13C-glucose, 13C, 15N-glutamine, 13C-propionate, and other substrates are used in combination or in parallel to investigate the interplays among central carbon metabolic pathways and many other areas of the metabolome.
+
+Summary
+Stable isotope tracing in vivo provides opportunities to investigate physiological processes in the context of the whole animal. These approaches, often NMR spectroscopy or mass spectrometry (MS)-based, are growing in use and will likely find key applications in studying systemic disease, sports physiology, cancer metabolism, and personalized medicine.
+
+flux analysis
+          in vivo
+        isotopemass spectrometry
+   INTRODUCTION
+In the several most recent decades, the emergence of ‘omics’ technologies has allowed for investigations reaching previously inaccessible breadths and depths of biological information. Among these fields, also including genomics, proteomics, and lipidomics, metabolomics affords the detection of rapid and dynamic physiological changes across metabolic pathways, often the earliest response to perturbations. The field of metabolomics encompasses a diverse array of approaches to profile and quantitate changes in small biomolecules (&lt;1500 Da) using NMR spectroscopy and/or mass spectrometry (MS). Metabolomics emerged as a NMR-based approach, which offers site resolution of chemically unique atoms (i.e., the ability to distinguish one carbon from another), but does not allow for online analyte separation prior to data acquisition, limiting the number of detectable metabolic species in a single analysis to the most abundant compounds.
+
+More recently, methods using MS have attracted much attention for their significantly improved sensitivity over NMR, rapid data acquisition, and through coupling online to gas or liquid chromatography (termed GC or LC–MS, respectively), for their ability to separate metabolites from complex samples allowing for the detection of hundreds to thousands of chemically distinct metabolites from a single sample. The introduction of ultra-HPLC (UHPLC) along with improvements in mass spectrometer scan speed and mass resolution facilitate high-throughput metabolomics analyses where data may be acquired on 4–20 unique samples within 1h of instrument time. Though metabolomics today is largely MS-reliant, NMR continues to be utilized, particularly for its ability to obtain information on specific atom positions, whereas MS alone in full scan mode (also termed MS1) cannot readily distinguish metabolites with identical chemical formulas, for example, glucose and fructose. This advantage plays a key role in investigations of metabolic flux and will be discussed later in this review.
+
+TECHNICAL CONSIDERATIONS OF METABOLOMICS APPROACHES
+A general workflow of UHPLC–MS metabolomics is presented in Fig. 1. Metabolites are extracted from biological matrices of interest, including cells, biofluids, and tissue biopsies, by either liquid or solid phase extraction with one or more organic solvents. Solvent composition for extraction is dictated by the polarities of metabolite classes of interest and oftentimes various extractions are performed on replicate samples to widen the profile of metabolism investigated in the study. Such extractions solubilize small molecule metabolites, whereas larger biomolecules, such as proteins, lipids, and nucleic acids, are left behind as insoluble pellets. Extracts are analyzed by UHPLC–MS, where metabolites are separated on an analytical column and eluate infused into a mass spectrometer. There exist many diverse approaches in the field of metabolomics toward both sample preparation and instrumentation methods; however, the dominant theme of UHPLC–MS-based platforms is that the separation of metabolites immediately upstream of MS analysis greatly improves overall metabolome coverage and diminishes the bias of detecting only the most abundant species in each sample (Fig. 1). As shown in Fig. 2a, a 16-min reverse phase (C18) UHPLC–MS run provides thousands of unique features that may be mapped to metabolites using Kyoto Encyclopedia of Genes and Genomes, National Institute of Standards and Technology, or other freely available spectral databases. Our group has recently reported the development of a rapid, high-throughput method focused on the hydrophilic metabolite fraction where up to 500 molecules involved in central carbon metabolism, redox homeostasis, amino acid metabolism [1], and nucleotide metabolism are profiled in a 3-min isocratic run (Fig. 2b), characterized against in-house standard libraries [2▪]. Such improvements in throughput, when coupled with the increased sensitivity and analyte resolution afforded by UHPLC, provide a robust, efficient means for achieving a comprehensive snapshot of metabolism in large sample sets within hours to days of analysis.
+
+The high sensitivity of untargeted UHPLC–MS workflows is second only to multiple reaction monitoring MS methods using triple-quadrupole mass spectrometers (or the related parallel reaction monitoring, using a Thermo Q Exactive (Bremen, Germany) series high resolution mass spectrometer, Fig. 3). Briefly, multiple reaction monitoring methods achieve a high degree of sensitivity because the analysis is a priori targeting specific compounds by focusing MS analyzers and detectors only on preselected ions of interest. Thus, the metabolites quantified are prespecified and by nature, this data does not allow for retrospective analysis of additional molecules. Parallel reaction monitoring partially overcomes this disadvantage by increasing the number of compounds targeted in a single analysis, but to date has been utilized only minimally in metabolomics [3,4].
+
+Steady state, snapshot-like studies of metabolism are often accompanied by follow-up experiments to further investigate metabolite levels and their biological sources. Stable isotope labeled (SIL) compounds, such as glucose, fructose, glutamine, and others containing 13C-labeled carbons and 15N-labeled nitrogen atoms, are widely utilized in both MS and NMR studies to elucidate the contributions of metabolic reactions upstream of a target or pathway of interest. Deuterated (2H) SIL substrates are used less frequently as metabolic transformation may render a site easily exchangeable with the much larger pool of unlabeled 1H atoms. SIL compounds offer distinct advantages over the more hazardous radioactive isotopes in terms of safety in handling and not being subject to decay.
+
+Figure 4 demonstrates the utility of metabolic flux analysis using SIL substrates glucose, glutamine, aspartate, or arginine. Uniformly labeled glucose metabolized through glycolysis produces [U-13C]lactate (where U is uniformly labeled, also known as [13C3]lactate) (Fig. 4a). 13C-glucose atoms are also readily traced through the pentose phosphate pathway (PPP) and into nucleosides via entry by SIL glucose 6-phosphate and into the tricarboxylic acid (TCA) cycle via acetyl-CoA. PPP and TCA metabolites derived from [U-13C]glucose are observed in the M+5 and M+2 forms, respectively.
+
+In addition to uniform labeling, flux analysis with labeling of substrates at several selected positions provides a means of further interrogating interconnected pathways of interest. For example, shown in Fig. 4b is the differential utility of [1, 2, 3–13C3]glucose in contrast to [U-13C]glucose. Glycolytic metabolism of [1, 2, 3–13C3]glucose generates M+3 lactate (green arrow), similarly to [U-13C]glucose, as well as an equimolar amount of unlabeled lactate. As [1, 2, 3–13C3]glucose 6-phosphate is diverted to the PPP, 13C at position one is liberated as 13CO2, and thus lactate derived from the nonoxidative phase of the PPP (reenters glycolysis as glyceraldehyde 3-phosphate) is the M+2 form labeled only at carbons 2 and 3 (Fig. 4b red arrow). Determination of the lactate M+2 to M+3 ratio is therefore utilized as a readout for the modulation of the PPP and glycolytic pathways.
+
+Aside from glucose, numerous other SIL substrates, such as the amino acids glutamine, aspartate, and arginine, are utilized to investigate central carbon and nitrogen metabolism. Flux analysis using [13C5, 15N2]glutamine fuels the enrichment of uniformly labeled TCA cycle metabolites via α-ketoglutarate anaplerosis (Fig. 4c). Both glucose and glutamine are also each utilized in probing glutathione (GSH) synthesis, where [U-13C]glucose generates M+2 GSH (via α-ketoglutarate transamination to glutamate) and [13C5, 15N2]glutamine yields M+6 GSH. Tracing with [13C4, 15N]aspartate enriches TCA metabolites via aspartate aminotransferase activity and is employed for investigating the purine monophosphate pool (Fig. 4d). Last, [13C6, 15N4]arginine provides a tool for probing nitrogen metabolism, linked also to the TCA cycle via fumarate. Many additional SIL substrates exist and are useful in metabolic flux analysis; we show here only a selection for brevity.
+
+Signal intensities observed by MS are a function of both a molecule’s concentration and intrinsic ionizability, negating the ability to compare levels of one metabolite to another, both within and across samples. In addition, ionizability (or ionization efficiency) is strongly affected by matrix composition and the presence of contaminants and salts, challenging the comparison of data sets acquired at different times and/or with different instrument platforms. Absolute quantification of metabolites, involving SIL standards that are spiked into the extraction buffer at specified concentrations, overcomes such drawbacks by providing internal standards differing from their endogenous counterparts only by the presence of 13C and/or 15N labeled atoms. Figure 5a depicts the absolute quantification of lactate as measured using a [13C1]lactate spike. The mass difference between endogenous lactate (blue) and the internal standard (black) is 1.0034 Da, precisely the mass of the additional carbon neutron. As noted, 3.3% of the M+1 lactate signal derives from the natural 13C abundance of endogenous three-carbon-atom lactate, which is 1.1% per carbon atom, and is accounted for in absolute quantification calculations. The relative peak areas for endogenous and SIL metabolite are converted to absolute concentration values using the amount of SIL metabolite added and the dilution factor of the sample. Figure 5b and c, illustrate the use of [13C1]lactate (blue arrow) in conjunction with [1, 2, 3–13C3]glucose flux to quantify absolutely PPP activity relative to glycolysis [5▪,6,7▪]. This species does not interfere with the metabolism of the parent (unlabeled),M+2, orM+3 forms nor is it able to be metabolized into these species as enzymes are precipitated in the extraction buffer when M+1 lactate is added. Absolute quantification of metabolites is an essential means of comparing matrices (e.g., metabolism in different tissues) and various metabolites to one another.
+
+Metabolic flux experiments require significant optimization to determine substrate dosing and the time course of isotopic enrichment in downstream metabolites. This is challenging for in vitro studies, particularly those involving primary cells whose growth may be slow or time-limited so as to not disrupt the phenotype. In vivo tracing experiments add an additional layer of complexity because of the network of interconnected metabolic pathways occurring among the organs, vasculature, lymphatic system, to name only several. Isotopic enrichment and localization is difficult, yet critical for obtaining the full picture of metabolism in a specific compartment. We will cover here a selection of recent applications by our group and others of metabolic flux experiments in vivo involving mammals such as mouse, rat, squirrel, and human.
+
+METABOLIC FLUX ANALYSIS USING STABLE ISOTOPE LABELS IN VIVO
+A critical factor motivating the use of in vivo flux analysis is the ability to more thoroughly capture the physiology of a disease or biological process than can be achieved with in vitro studies alone. This has become especially crucial in the field of cancer biology where tumor microenvironment plays a significant role in mediating tumor growth and survival. Numerous studies have uncovered metabolic differences and differential responses to stimuli between cancer cells grown in culture and the tumor in vivo. In vivo imaging techniques have historically exploited fluorescent or radioactive substrates to visualize the uptake and consumption of substrates of interest (e.g., fluorodeoxyglucose), though these approaches do not provide information about metabolic fluxes in vivo and require special licenses to handle and dispose of radioactive compounds, leading to obvious safety concerns for study participents and investigators [8,9]. These hurdles are overcome through the use of stable isotope tracers in vivo. An example of this phenomenon was reported in mouse models of nonsmall cell lung cancer (NSCLC), where lactate levels are known to correlate directly with tumor aggressiveness [10]. Studies of NSCLC cells in culture have revealed a reliance on glutamine for TCA cycle anaplerosis and a requirement for glutamine to glutamate conversion by glutaminase. Interestingly, in several mouse models of NSCLC, chose for their varying tumor origins and differential aggressiveness, results from infusions of either [U-13C]glucose, [U-13C]glutamine, [1, 2–13C2]glucose, or [1–13C]pyruvate in total revealed increases in lactate production and pyruvate carboxylase (PC) activity with more aggressive tumors along with minimal enrichment of 13C in glutamate and TCA cycle metabolites, suggesting a stronger dependence on glucose rather than glutamine in sharp contrast to the phenotype observed in vitro. The dependence on PC activity is corroborated by another in vivo flux study revealing the activation of PC-fueled anaplerosis over glutaminase in a comparison of human NSCLC tumors versus control tissue [11▪▪].
+
+In another study of NSCLC, nine human patients were infused with [U-13C]glucose by bolus followed by 3-h infusion prior to surgical resection of tumor and healthy lung tissue and resulting metabolites analyzed using a combination of GC–MS and 13C NMR [12▪]. Enrichment of lactate was increased in tumor tissue versus control, as anticipated, and analysis by NMR revealed a greater enrichment of TCA cycle intermediates in tumor samples which was accompanied by enhanced PC activity and total acetyl-CoA levels. This study additionally investigated metabolic differences between tumor regions with varying states of perfusion and found that pyruvate dehydrogenase (PDH) flux was highest in poorly perfused regions, whereas PC flux was unchanged by perfusion status. Tumor xenografts in mice infused with [2–13C]lactate also elucidated a minor role of gluconeogenesis and the propensity for lactate to serve as a carbon source for the TCA cycle.
+
+Owing to its role as the primary metabolic hub, the liver has been a focus of in vivo flux experiments particularly in studies of diet, nutrition, and/or liver-associated pathologies such as nonalcoholic fatty liver disease (NAFLD). In a study of the role of a short-term (3 days) high-fat diet on glucose metabolism, rats were infused with SIL substrates to assess the contributions of glycogenolysis and gluconeogenesis – via TCA metabolites and/or glycerol – in glucose synthesis in the liver [13]. The experimental design involved the use of [3, 4–13C2]glucose to assess glucose turnover, deuterium oxide (D2O) to monitor the contribution fractions of glycogenolysis and the routes feeding gluconeogenesis, and [U-13C]propionate, which fuels the TCA cycle via succinyl-CoA. Distinguishing the various routes of glucose synthesis in this approach relies on the ability to measure both overall enrichment of isotopes and also the specific positions of enrichment within the metabolite, making NMR the analytical method of choice. Using this approach, rats on a short high-fat diet were found to have stable levels of total glucose but decreased glycogenolysis and increased gluconeogenesis originating from glycerol.
+
+Similarly, a study of 16 human participents with NAFLD focused on the role of low versus high intrahepatic triglycerides in altering mitochondrial metabolism and liver glucose production [14]. SIL substrate [U-13C]propionate infusion revealed increased mitochondrial oxidative metabolism in the intrahepatic triglycerides cohort as judged by a two-fold increase in oxidative flux through the TCA cycle. Ketogenesis was unaltered, as measured by 13C NMR, suggesting that excess acetyl-CoA is preferentially shunted to the TCA cycle rather than serving as a carbon source for ketone production. In a follow-up study of hepatic metabolism in mice and rats on a 16-week high-fat diet, a combination of MS and NMR along with numerous SIL substrates, including [U-13C]propionate, D2O, acetoacetate, β-hydroxybutyrate, and glucose, perfused into the liver (propionate and D2O only) or supplied by intraperitoneal infusion, was utilized to investigate anaplerotic and cataplerotic fluxes contributing to the TCA cycle, gluconeogenesis, and overall oxidative metabolism[15].Knocking down the cytosolic isoform of phosphoenolpyruvate carboxykinase (PEPCK-C) in combination with the high-fat diet resulted in decreased glucose and insulin, though anaplerosis/cataplerosis were not affected by the knockdown alone, suggesting a significant role for overall lipid load in mediating the metabolic phenotype observed in diseases such as NAFLD. Plasma acetoacetate/hydroxybutyrate ratios were utilized as a proxy for mitochondrial NAD+/NADH ratio and demonstrated decreased NAD+ and less forward cycling of TCA in the PEPCK-C knockdown.
+
+The role of high-fat diets on metabolism in muscle, both skeletal and cardiac, has also been explored using in vivo flux metabolomics approaches. Mice were fed a high-fat diet, dosed orally with [U-13C]glucose followed by muscle biopsy at 15 and 60min. high fat-fed mice had decreased enrichment of TCA metabolites in skeletal muscle revealed that the insulin resistance observed in cardiac muscle in a manner independent of PDH and anaplerosis [16]. In contrast, cardiac glucose metabolism was not altered by oral glucose and the high-fat diet, though the insulin-resistance phenotype was observed [17].
+
+Finally, we and others have utilized in vivo flux approaches to investigate systemic responses to hypoxia, specifically in the areas of ischemia/reperfusion injury and trauma/hemorrhagic shock (Fig. 6a). The metabolomics analysis of the ischemic mouse showed marked increases in hypoxanthine, xanthine, and succinate in mouse heart, kidney, liver, and rat brain, though the ex vivo [U-13C]glucose or [U-13C]glutamine-perfused heart did not suggest that succinate accumulation, believed to fuel reactive oxygen species generation during reperfusion, was occuring via normal routes (glycolysis to PDH, via fatty acids, gamma-aminobutyric acid shunt, or glutamate) [18]. Flux analysis using SIL substrate [1–13C]aspartate revealed that the purine nucleotide cycle and the malate/aspartate shuttle both fuel fumarate production under ischemic hypoxia, followed by the reduction of fumarate to succinate by the reverse activity of mitochondrial complex II (succinate dehydrogenase).
+
+Similarly, a rat model of hemorrhagic shock revealed accumulation of total succinate along with enrichment of labeled succinate (M+4) originating from [13C5, 15N2]glutamine anaplerosis [19▪] and only minimal succinate enrichment from [U-13C]glucose [20]. Interestingly, M+4 enrichment in fumarate, the product of the complex II forward reaction, and downstream TCA metabolite malate, were minimal, suggesting that succinate accumulation in hypoxia is occurring through multiple anaplerotic routes. Studies to assess the roles of fatty acids and further elucidate the metabolic mechanisms underlying the response to shock are ongoing using in vivo tracing with [U-13C]palmitate, [U-13C]aspartate, and [U-13C,15N]arginine.
+
+In vivo tracing experiments in animals are invaluable in uncovering metabolic adaptations and responses not possessed by humans, adaptive metabolic mechanisms that can be leveraged for biomedical applications such as in ischemic patients. Hibernating mammals survive extremely cold temperatures and exploit an altered metabolic status to avoid reperfusion injury [21]. The naked mole-rat survives sustained hypoxia, as extreme as 18 min of complete anoxia, via anaerobic metabolism of fructose instead of glucose, as observed by in vivo flux analysis with [U-13C]fructose [22].
+
+Going forward, the use of in vivo flux studies will continue to grow as the technical details of SIL substrate dosing in different mammals and areas of research are more firmly established and the results of such studies more often reported. In vivo flux is a critical tool for investigating metabolic interplay in inflammation, for example, with IL-37-induced abrogation of innate inflammation observed in mice treated with the recombinant human protein (Fig. 6b). Additionally, we and other groups are collaborating to understand metabolic adaptations in hibernating mammals, which evade ischemia/reperfusion injury and may provide critical information for treating hemorrhagic shock or acute hypoxia patients (Fig. 6c) [21]. SIL tracing in vivo also has applications in transfusion medicine, for example, via treatment of red blood cells with SIL glucose, biotinylation of surface proteins, transfusion and circulation for a set time, and last affinity capture to investigate them etabolic phenotype of transfused cells and how metabolism is altered following reexposure to circulation (Fig. 6d).
+
+CONCLUSION
+MS-based metabolomics has fueled a second youth of classic metabolic biochemistry, opening a window into metabolic fluxes in vivo while eliminating safety concerns associated with the use of radioactive substrates. For the foreseeable future, this technology will help advance fields where metabolic reprogramming plays a key role in the cause and development of conditions as diverse as cancer, inflammation/aging, cardiovascular diseases, neurodegenerative diseases, and immune system reprogramming in response to viral or bacterial infection, host–pathogen interactions, drug resistance or metabolic syndrome (Fig. 6e). The same tool will likely advance our understanding of sports medicine and boost the field of personalized medicine.
+
+None.
+
+
+        Financial support and sponsorship
+      
+
+A.D. is supported in part by funds from the National Blood Foundation Early Career Grant 2016 and the Boettcher Webb-Waring Foundation Biomedical Research Award – Early Career Grant 2017.
+
+
+          Conflicts of interest
+        
+
+There are no conflicts of interest.
+
+FIGURE 1 MS-based metabolomics workflows involve experimental sampling followed by UHPLC–MS analysis of metabolite extracts, relative or absolute quantification of compounds, and statistical analysis of results. MS, mass spectrometry; UHPLC, ultra-HPLC.
+
+FIGURE 2 (a) A reverse phase gradient elucidates 19 000 features shown with varying mass to charge ratios (m/z) and elution profiles. (b) A high-throughput 3-min isocratic method reliably quantifies the 100–500 most abundant metabolites, particularly those involved in central carbon metabolism.
+
+FIGURE 3 The evolution of analytical instrumentation utilized in metabolomics, illustrating improvements in specificity (coverage of the metabolome) and sensitivity (limits of quantification and detection). DAD, diode array detector; GC–MS, gas chromatography–mass spectrometry; LC–MS, liquid chromatography–mass spectrometry; MRM, multiple reaction monitoring; UHPLC, ultra-HPLC.
+
+FIGURE 4 Overview of flux analysis using various SIL substrates. (a) Uniformly labeled glucose results in enrichment of lactate (M+3), TCA cycle intermediates (M+2), and PPP metabolites (M+5). (b) Use of [1, 2, 3–13C3]glucose generates M+3 lactate via glycolysis and M+2 lactate by the PPP and serves as a method for quantifying the modulation of glucose catabolism. (c) [13C5, 15N2]glutamine fully enriches TCA metabolites and is helpful for assessing GSH homeostasis. (d) Approaches using uniformly labeled aspartate and/or arginine allow for investigations of TCA cycle, purine nucleotides, and nitrogen metabolism. Strategic choices of substrates or combinations of substrates are dependent on pathways of interest downstream. GSH, glutathione; GSSG, glutathione disulfide; IMP, inosine monophosphat; PPP, pentose phosphate pathway; SIL, stable isotope labelled; TCA, tricarboxylic acid cycle.
+
+FIGURE 5 Utility of SIL metabolites in absolute quantification and flux analysis: (a) Representative mass spectrum of lactate derived from a flux experiment using [1, 2, 3–13C3]glucose and [13C1]lactate spiked into the extraction buffer. The peak area of the internal standard is corrected to reflect the 3.3% arising from the natural 13C abundance of 1.1% per carbon atom. (b) Lactate M+3 derives from glycolysis (green), whereas lactate M+2 derives from the PPP (red), where C1 is lost as CO2. (c) Lactate isotopologue distribution informs activation or suppression of metabolic pathways, here glycolysis and PPP. PPP, pentose phosphate pathway; SIL, stable isotope labeled.
+
+FIGURE 6 In vivo flux metabolomics in a rat model of hemorrhagic shock (a), mouse studies of anti and pro-inflammatory cytokines (b), hibernation studies in mammals such as arctic squirrels (c), and in transfusion medicine to study red blood cell metabolic modulation during blood bank storage (d). Future applications include investigations of host–microbiome interactions (e). MS, mass spectrometry; UHPLC, ultra-HPLC.
+
+KEY POINTS
+Metabolic flux analysis utilizes SIL substrates for tracing of specific carbon, nitrogen, and hydrogen atoms in downstream metabolic pathways.
+
+Stable isotopes afford in vivo tracing of metabolic reactions and isotopologue distributions in the absence of radioactivity, providing an analytical and logistic/ safety advantage over fluorescence or radioactive isotope-based assays.
+
+Applying flux analysis to studies in vivo allows for dynamic metabolic profiling in the context of the whole animal, including effects resulting from systemic signaling and tissue microenvironment.
+
+
+   REFERENCES AND RECOMMENDED READING
+Papers of particular interest, published within the annual period of review, have been highlighted as:
+
+▪ of special interest
+
+▪▪ of outstanding interest
+
+1 
+            Nemkov T  
+            D’Alessandro A  
+            Hansen KC  
+           Three-minute method for amino acid analysis by UHPLC and high-resolution quadrupole orbitrap mass spectrometry Amino Acids 2015 47 2345 2357 26058356 
+2▪ 
+            Nemkov T  
+            Hansen KC  
+            D’Alessandro A  
+           A three-minute method for high-throughput quantitative metabolomics and quantitative tracing experiments of central carbon and nitrogen pathways Rapid Commun Mass Spectrom 2017 31 663 673 Described herein is a high-throughput 3-min UHPLC–MS method for the rapid profiling of central carbon and nitrogen metabolism. The article discusses critical technical and analytical parameters and offers insight into current and potential applications of this approach. 28195377 
+3 
+            Zhou J  
+            Liu H  
+            Liu Y  
+             
+           Development and evaluation of a parallel reaction monitoring strategy for large-scale targeted metabolomics quantification Anal Chem 2016 88 4478 4486 27002337 
+4 
+            Li Z  
+            Li Y  
+            Chen W  
+             
+           Integrating MS1 and MS2 scans in high-resolution parallel reaction monitoring assays for targeted metabolite quantification and dynamic 13C-labeling metabolism analysis Anal Chem 2017 89 877 885 27966897 
+5▪ 
+            Reisz JA  
+            Wither MJ  
+            Dzieciatkowska M  
+             
+           Oxidative modifications of glyceraldehyde 3-phosphate dehydrogenase regulate metabolic reprogramming of stored red blood cells Blood 2016 128 e32 e42 Used in combination, proteomics and ex vivo  metabolic flux analyses reveal oxidative modulation of glyceraldehyde 3-phosphate dehydrogenase activity during red blood cell storage. Described herein is the application of 13 C1, 2, 3  glucose as a flux substrate to measure glycolysis and the PPP by determining the ratio of M+2 lactate (derived from the PPP) to M+3 lactate (derived from glycolysis). 27405778 
+6 
+            Sun K  
+            Zhang Y  
+            D’Alessandro A  
+             
+           Sphingosine-1-phosphate promotes erythrocyte glycolysis and oxygen release for adaptation to high-altitude hypoxia Nat Commun 2016 7 12086 27417539 
+7▪ 
+            D’Alessandro A  
+            Nemkov T  
+            Yoshida T  
+             
+           Citrate metabolism in red blood cells stored in additive solution-3 Transfusion 2017 57 325 336 Ex vivo  tracing study of metabolism in stored packed red blood cells in blood banking conditions using deuterated citrate. 27813142 
+8 
+            Kim IY  
+            Suh SH  
+            Lee IK  
+            Wolfe RR  
+           Applications of stable, nonradioactive isotope tracers in in-vivo human metabolic research Exp Mol Med 2016 48 e203 26795236 
+9 
+            Sengupta D  
+            Pratx G  
+           Imaging metabolic heterogeneity in cancer Mol Cancer 2016 15 4 26739333 
+10 
+            Davidson SM  
+            Papagiannakopoulos T  
+            Olenchock BA  
+             
+           Environment impacts the metabolic dependencies of Ras-driven nonsmall cell lung cancer Cell Metab 2016 23 517 528 26853747 
+11▪▪ 
+            Sellers K  
+            Fox MP  
+            Bousamra M 2nd  
+             
+           Pyruvate carboxylase is critical for non-small-cell lung cancer proliferation J Clin Invest 2015 125 687 698 A detailed analysis of TCA anaplerosis in NSCLC illustrates the utility of multiple isotope labeled substrates in parallel or in combination. 25607840 
+12▪ 
+            Hensley CT  
+            Faubert B  
+            Yuan Q  
+             
+           Metabolic heterogeneity in human lung tumors Cell 2016 164 681 694 In vivo  flux study in human NSCLC patients utilizes NMR and MS to assess differential glucose metabolism in tumor versus healthy tissues. 26853473 
+13 
+            Jin ES  
+            Beddow SA  
+            Malloy CR  
+            Samuel VT  
+           Hepatic glucose production pathways after three days of a high-fat diet Metabolism 2013 62 152 162 22981137 
+14 
+            Sunny NE  
+            Parks EJ  
+            Browning JD  
+            Burgess SC  
+           Excessive hepatic mitochondrial TCA cycle and gluconeogenesis in humans with nonalcoholic fatty liver disease Cell Metab 2011 14 804 810 22152305 
+15 
+            Satapati S  
+            Kucejova B  
+            Duarte JA  
+             
+           Mitochondrial metabolism mediates oxidative stress and inflammation in fatty liver J Clin Invest 2015 125 4447 4462 26571396 
+16 
+            Kowalski GM  
+            De Souza DP  
+            Burch ML  
+             
+           Application of dynamic metabolomics to examine in vivo skeletal muscle glucose metabolism in the chronically high-fat fed mouse Biochem Biophys Res Commun 2015 462 27 32 25930998 
+17 
+            Kowalski GM  
+            De Souza DP  
+            Risis S  
+             
+           In vivo cardiac glucose metabolism in the high-fat fed mouse: comparison of euglycemic-hyperinsulinemic clamp derived measures of glucose uptake with a dynamic metabolomic flux profiling approach Biochem Biophys Res Commun 2015 463 818 824 26086096 
+18 
+            Chouchani ET  
+            Pell VR  
+            Gaude E  
+             
+           Ischaemic accumulation of succinate controls reperfusion injury through mitochondrial ROS Nature 2014 515 431 435 25383517 
+19▪ 
+            Slaughter AL  
+            D’Alessandro A  
+            Moore EE  
+             
+           Glutamine metabolism drives succinate accumulation in plasma and the lung during hemorrhagic shock J Trauma Acute Care Surg 2016 81 1012 1019 In vivo  flux study of hemorrhagic shock using isotope labeled glutamine and UHPLC–MS analysis. 27602903 
+20 
+            D’Alessandro A  
+            Slaughter AL  
+            Peltz ED  
+             
+           Trauma/hemorrhagic shock instigates aberrant metabolic flux through glycolytic pathways, as revealed by preliminary (13)C-glucose labeling metabolomics J Transl Med 2015 13 253 26242576 
+21 
+            D’Alessandro A  
+            Nemkov T  
+            Bogren LK  
+             
+           Comfortably numb and back: plasma metabolomics reveals biochemical adaptations in the hibernating 13-lined ground squirrel J Proteome Res 2017 16 958 969 27991798 
+22 
+            Park TJ  
+            Reznick J  
+            Peterson BL  
+             
+           Fructose-driven glycolysis supports anoxia resistance in the naked mole-rat Science 2017 356 307 311 28428423 
+

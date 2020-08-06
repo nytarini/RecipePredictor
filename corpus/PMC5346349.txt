@@ -1,0 +1,439 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10159722040850J Allergy Clin Immunol PractJ Allergy Clin Immunol PractThe journal of allergy and clinical immunology. In practice2213-21982213-220128042003534634910.1016/j.jaip.2016.11.020NIHMS840323ArticleThe prevalence of eosinophilic esophagitis in pediatric patients with IgE-mediated food allergy Hill David A. MD, PhDabDudley Jesse W. MScSpergel Jonathan M. MD, PhDaba Institute for Immunology, Perelman School of Medicine at the University of Pennsylvaniab Division of Allergy and Immunology, The Children’s Hospital of Philadelphia, Philadelphia, PA, USAc Department of Biomedical and Health Informatics, The Children’s Hospital of Philadelphia, Philadelphia, PA, USACorresponding author: Jonathan M. Spergel, MD, PhD, The Children’s Hospital of Philadelphia, Division of Allergy and Immunology, 3550 Market St., Philadelphia, PA 19104, Phone: (215) 590-2549, Fax: (215) 590-6849, spergel@email.chop.edu5 1 2017 30 12 2016 Mar-Apr 2017 01 3 2018 5 2 369 375 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.BACKGROUND
+Eosinophilic esophagitis (EoE) is an allergic inflammatory disease that is triggered by food allergens and characterized by progressive esophageal dysfunction. Recently, EoE has been identified in patients undergoing oral immunotherapy (OIT) for IgE-mediated food allergy, suggesting an association.
+
+OBJECTIVE
+We sought to ascertain whether significant associations exist between IgE-mediated food allergies and EoE.
+
+METHODS
+Utilizing analysis of EMR data and manual chart review, we examined our sub-specialty care network of 35,528 children and adolescents to identify and characterize patients with IgE-mediated, and EoE food allergy. The most common food allergens were defined, and the prevalence of EoE in patients with IgE-mediated food allergy was determined. Logistic regression was used to measure the extent to which IgE-mediated food allergy to specific foods is associated with EoE.
+
+RESULTS
+The most common causes of EoE were milk, grains, meats, peanut, tree nuts, egg, and soy, an allergen pattern that is distinct from that of IgE-mediated food allergy. The prevalence of EoE in patients with IgE-mediated food allergy was higher than that reported in the general population (4.7% vs 0.04%). The distribution of IgE-mediated food allergens in patients with EoE was similar to that of the general population, and IgE-mediated allergy to egg (2.27; 1.91–2.64), milk (4.19; 3.52–4.97), or shellfish (1.55; 1.24–1.92) was significantly associated with EoE diagnosis.
+
+CONCLUSIONS
+Our findings support a clinical association between these conditions that has implications for the management of children with food allergy, and particular relevance to patients undergoing OIT.
+
+IgEFood AllergyEosinophilic EsophagitisOral ImmunotherapyPrevalence
+   Introduction
+IgE-mediated food allergies are common in the United States, and their prevalence and severity may be increasing.(1–5) Childhood food allergy is associated with impaired quality of life, limited social interactions, comorbid allergic conditions, and significant economic cost to our healthcare system. Importantly, a severe allergic reaction resulting in anaphylaxis can be life threatening, and food allergens are the most common cause of anaphylaxis and anaphylaxis-related mortality in children and adolescents.(6) Prior studies have identified an association between IgE-mediated food allergy and the development of comorbid atopic conditions including asthma and allergic rhinitis.(7, 8) However, the extent to which IgE-mediated food allergy is associated with eosinophilic esophagitis (EoE) is unknown.
+
+Eosinophilic esophagitis is a chronic allergic inflammatory disease of the esophagus that, if left untreated, can result in significant impairment in quality of life. EoE should be considered in older children and adults who present with symptoms of esophageal dysfunction and/or fibrosis such as dysphagia, odynophagia, or a history of food impaction and/or esophageal stricture formation. Diagnosis in younger children can be difficult as symptoms often mimic those of gastro-esophageal reflux disease, however, EoE-related symptoms do not respond to gastric acid suppression alone. On histology, esophageal tissue of patients with EoE is characterized by esophageal epithelial barrier defects and eosinophil infiltrates. Diagnosis requires the presence of 15 or more eosinophils per high power field in one or more of at least four esophageal biopsy specimens, while the patient is on optimal gastric acid suppression.(9–11) When an EoE diagnosis is made, it is important that measures be taken to eliminate or control esophageal inflammation, through allergen identification and avoidance or topical corticosteroid therapy, to relieve symptoms and prevent fibrotic complications of esophageal stricture formation and food impaction.(12)
+
+The pathophysiology of EoE is complex and an active area of research.(13) However, there are several lines of experimental and clinical evidence from both animal and human studies to suggest that while IgE-mediated food allergy and EoE both lie on the atopic spectrum, they have distinct pathophysiology.(14–16) We have shown that eosinophilic inflammation is independent of both B cells and IgE in animal models.(17, 18) These findings are consistent with the clinical observations that 1) IgE-mediated food allergy and EoE have distinct natural histories (patients with IgE-mediated allergy frequently outgrow their disease, while those with EoE to the same allergen typically do not),(19–21) 2) testing for allergen-specific IgE molecules is not helpful when attempting to identify EoE-causative foods,(22) 3) patients can develop EoE after resolution of IgE-mediated food allergy,(23) and 4) omalizumab (anti-IgE) therapy is not beneficial in EoE.(24) Despite these observations, the extent to which IgE-mediated food allergy is associated with the development of EoE is not known.
+
+We perform a retrospective cohort study of electronic medical record (EMR) data from one of the largest pediatric EoE cohorts available. We define and compare children with IgE-mediated or EoE food allergy in terms of demographics, clinical characteristics, and most common food allergens. We determine the prevalence of EoE in patients with IgE-mediated food allergy, and perform multivariate logistic regression analysis to measure the extent to which IgE-mediated food allergy is associated with EoE diagnosis. Our results identify an important association between these conditions, have implications for the management of children with food allergy, and are of particular relevance to patients undergoing oral immunotherapy (OIT).
+
+Methods
+Cohort generation and data extraction
+The Allergy Section at The Children’s Hospital of Philadelphia (CHOP), which includes six care locations, is the largest provider of sub-specialty allergy care services to patients residing in the eastern Pennsylvania, New Jersey, and Delaware region. In addition, we are an international referral center for eosinophilic esophagitis and have developed one of the largest pediatric cohorts for this condition through our Center for Pediatric Eosinophilic Diseases (CPED). We extracted data from the electronic medical record (EMR; Epic Systems, Verona, WI) of 35,528 children who obtained specialty care in our division between 1/1/2010 and 12/31/2015 (Fig 1). Direct patient identifiers (e.g., medical record number, name, etc.) were removed to create a dataset with limited identifiers (e.g., date of birth, dates of healthcare encounters, diagnoses, etc.) and data analyses tasks were completed using SAS v9.4 (Cary, NC). Three EMR study cohorts were defined: a cohort of 11,513 children with IgE-mediated food allergy in the absence of EoE (Fig 1, a), 570 children with concurrent IgE-mediated food allergy and EoE (Fig 1, b), and 266 children with EoE in the absence of IgE-mediated food allergy (Fig 1, c). We also utilized a manual cohort with detailed information on IgE and EoE allergens for 1795 patients with EoE who were evaluated in the CPED between 1/1/2006 and 5/1/2016. The CHOP Institutional Review Board (IRB) reviewed the retrospective cohort portion of our study and determined that it was exempt from requiring ethics approval or subject consent as it did not meet the definition of “human subject” research. The CPED cohort was approved by the CHOP IRB and performed under protocol number 07–005420.
+
+Definitions of conditions studied
+Diagnosis of IgE-mediated food allergy and EoE was made in accordance with established practice parameters.(10, 25) ICD-9 and ICD-10 codes were used to identify children with IgE-mediated food allergy (ICD-9 codes 477.1, 693.1, 995.60–995.69 and V15.05; ICD-10 codes J30.5, L27.2, T78.0%, T78.1%, and Z91.01%, where % includes all variations that follow the preceding characters), and EoE (ICD-9 code 530.13; ICD-10 code K20.0). The allergy module of our EMR was used to identify specific food allergens. The presence of both a respective ICD diagnosis code and a food allergen in the allergy module were required for inclusion in the EMR study cohorts. Requirement for inclusion in the CPED EoE cohort was diagnosis of EoE and identification of trigger food by biopsy while on an appropriate PPI regimen, in accordance with consensus guidelines.(10) For prevalence calculations, individual children with each diagnosis were enumerated. For determination of the most common food allergens, individual instances of food allergy were enumerated (even if multiple allergies occurred in the same patient).
+
+Validation of ICD codes and food allergy data via chart review
+To determine the extent to which ICD diagnosis codes and food allergy data correctly represented the presence of each of the conditions of interest, a manual review of 100 charts was performed. Additionally, to ensure accurate estimation of the association between IgE-mediated food allergy and EoE, we performed a manual chart review of 100 patients with IgE-mediated food allergy and EoE. Evidence of IgE-mediated allergy was defined as presence of consistent history and laboratory analysis, skin testing, and/or food challenge. The chart review portion of our study was approved by the CHOP IRB and performed under protocol number 07–005420.
+
+Statistics
+We used multivariate logistic regression analysis of our EMR cohort to assess the relationship between demographic variables or IgE-mediated food allergy and EoE status. Analysis of IgE-mediated food allergy was adjusted for gender, race, and ethnicity. The top five IgE-mediated food allergens for patients with EoE (peanut, egg, tree nut, milk, shellfish) were included in our analysis. Odds ratios, 95% confidence intervals, and p values were calculated and reported.
+
+Results
+Cohort demographics and ICD code validation
+A graphical representation of our EMR study cohorts is shown (Fig 1), as are the demographic characteristics of patients with IgE-mediated, and EoE food allergy (Table 1). Patients with IgE-mediated food allergy were found to be approximately 61% male and 58% white, while patients with EoE were found to be approximately 76% male and 74% white. These findings are consistent with prior studies that have found that EoE is most prevalent in Caucasian males.(26) Both cohorts had a similar ethnic distribution, while patients with EoE were slightly older (21% born before the year 2000 compared to 9% in the IgE cohort) consistent with the natural history of these conditions.(19) The demographic characteristics of the manual CPED cohort were similar to those of the EMR EoE cohort (data not shown). To determine the accuracy of our coded EHR data, a manual chart review was performed for 100 patients. The percent confirmed diagnosis for all conditions studied (true positive rate for ICD codes) was 92% overall (92% for EoE, and 92% for IgE-mediated food allergy).
+
+Analysis of food allergens in patients with IgE-mediated food allergy or EoE
+To determine the most common food allergens in patients with IgE-mediated food allergy (in the absence of EoE), we utilized our EMR cohort. Consistent with previous reports, the most common causal foods of IgE-mediated allergy were peanut, tree nut, egg, milk, and shellfish (Fig 2 a, b). To determine the most common causal foods of EoE, we examined our CPED cohort of 1795 patients with EoE. The most common causal foods of EoE were milk, soy, egg, grains, and meats (Fig 2 c, d). To determine the most common causes of IgE-mediated food allergy in patients with concurrent EoE, we performed a manual evaluation of our CPED cohort. Of patients with EoE, the most common causes of IgE-mediated food allergy were peanut, egg, tree nut, milk, and shellfish (Fig 2e, f).
+
+Prevalence of EoE in patients with IgE-mediated food allergy
+We next sought to determine the rate at which IgE and EoE food allergy co-occur. It has previously been shown that patients with EoE have a high rate of IgE-mediated food allergy.(27) We measured a rate of IgE-mediated food allergy in patients with EoE of 68%, a prevalence that is higher than previously reported.(27, 28) To ensure accurate measurement of IgE-mediated food allergy in patients with EoE, we performed a manual chart review of 100 patients. In this review, 94% of patients with both an IgE-mediated food allergy and EoE diagnosis were found to have evidence of IgE-mediated allergy to at least one food.
+
+To measure the prevalence of EoE in patients with IgE-mediated food allergy, we determined the number of patients in our EMR IgE cohort who had a diagnosis of EoE (Fig 1b). Of the 12,083 patients with IgE-mediated food allergy, 570 patients had a diagnosis of EoE indicating a prevalence of 4.72% (~1 in 20). In comparison, the prevalence of EoE in the general population nationally is estimated to be 1 in 2500 when utilizing either a similar ICD-based methodology(29) or a national questionnaire of physicians.(30) Together, these findings indicate that the co-occurrence of IgE-mediated food allergy and EoE is high, and that the prevalence of EoE in patients with IgE-mediated food allergy is higher than that observed in the general population (Table 2).
+
+Association between IgE-mediated allergy to specific foods and EoE
+We next used multivariate logistic regression analysis of our EMR cohort of 12,083 patients with IgE-mediated food allergy to determine whether demographic variables, or the presence of IgE-mediated allergy to specific foods, were associated with a diagnosis of EoE. Consistent with previous reports, we found that EoE is more commonly diagnosed in males (OR 2.27, 95% CI 1.89–2.78) and Caucasians (OR 1.99, 95% CI 1.55–2.56) (Table 3).(31)
+
+We next sought to measure the extent to which IgE-mediated food allergy to specific foods was associated with EoE. We took advantage of different causal allergen patterns for IgE-mediated food allergy and EoE to differentiate foods causing IgE-mediated food allergy from foods causing EoE in our EMR cohort. To ensure that we were accurately measuring specific IgE-mediated food allergens in patients with EoE, we performed a manual chart review of 100 patients in our EMR cohort with both IgE-mediated food allergy and EoE. EMR food allergen data for the top five causes of IgE-mediated food allergy in patients with EoE (peanut, egg, tree nut, milk, shellfish) had a true positive rate (positive predictive value) of 91% for foods causing IgE-mediated allergy. There were no false-negatives (i.e. cases where a child was allergic to a specific food that was not identified in the EMR food allergy data).
+
+We next performed multivariate logistic regression analysis of our EMR cohort dataset to determine the extent to which IgE-mediated food allergy to specific foods is associated with EoE. We found that IgE-mediated allergy to egg (2.27; 1.91–2.64), milk (4.19; 3.52–4.97), or shellfish (1.55; 1.24–1.92) was significantly associated with a diagnosis of EoE (Table 3). Furthermore, we found that more than one IgE-mediated allergy diagnosis to a top 5 food (peanut, egg, tree nut, milk, shellfish) was associated with an increased risk of EoE (Table 3). Together, these findings indicate that individuals with IgE-mediated allergy to specific foods are at increased risk of developing EoE, and that individuals are at increased risk of EoE with each additional IgE-mediated food allergy.
+
+Discussion
+Eosinophilic esophagitis is an increasingly commonly cause of esophageal symptoms in pediatric and adult patient populations. The pathophysiologic relationship between IgE-mediated food allergy and EoE continues to be clarified. Here we provide one of the largest retrospective cohort studies of patients with EoE ever performed. We find the most common causal foods of EoE to be milk, soy, egg, grains, and meats. In comparison, the pattern of IgE-mediated food allergens in patients with EoE are distinct, and similar to those observed in the general population (peanut, tree nut, egg, milk, and shellfish). Together, these findings support different pathophysiology for these two conditions.
+
+While IgE-mediated and EoE food allergy have been reported to occur together,(14, 15, 23, 28) it is difficult to estimate simultaneous occurrence of these conditions to the same food as avoidance of the causal food in IgE-mediated food allergy ameliorates EoE symptoms. Additionally, patients with EoE and IgE-mediated food allergy may display distinct clinical symptoms as compared to those without IgE-mediated food allergy, making EoE diagnosis difficult.(28) As such, there are likely a proportion of patients with concurrent IgE-mediated food allergy and EoE in which EoE is not detected.(23) We observed a higher rate of IgE-mediated food allergy in patients with EoE as compared with prior studies,(27, 28) a finding which was confirmed by manual chart review. While differences in methodology may account for the higher rates of IgE-mediated food allergy observed in our study, it is possible that IgE-mediated food allergy is more common in patients with EoE than previously appreciated. As such, further study of the rate of IgE-mediated food allergy in patients with EoE is warranted.
+
+Recently, diagnoses of EoE in patients undergoing OIT for IgE-mediated food allergy has raised concern that OIT could trigger EoE, at rates ranging from 1 to 10% depending on methodology.(32) The association between OIT and EoE was the focus of a recent meta-analysis which reported a positive correlation between OIT and EoE, with new onset of EoE occurring in 2.7% of patients undergoing OIT.(33) However, this meta-analysis defined EoE by biopsy, excluding patients with symptoms of EoE (such as abdominal pain or vomiting) that did not undergo biopsy. In our review of studies that documented discontinuation of OIT due to EoE symptoms and/or consistent biopsy findings, we found that symptoms of EoE occur at a rate between 8 and 14% (Table 4). While it should be noted that abdominal pain or vomiting are non-specific symptoms that are not diagnostic for EoE, many patients who discontinue OIT due to these symptoms do not obtain biopsies. As such, actual rates of EoE during OIT may be higher than previously appreciated.
+
+Our findings indicate that the prevalence of EoE in patients with IgE-mediated food allergy is higher than the rate of EoE in the general population,(31) and similar to rates of biopsy-confirmed EoE observed during trials of OIT (Table 4).(33–35) Furthermore, we found that allergy to three of the most common IgE-mediated food allergens (milk, egg, and shellfish) was highly associated with diagnosis of EoE. Together, our findings suggest that IgE-mediated food allergy is a marker of risk for development of EoE, possibly because of shared genetic predisposition or environmental modulators. Furthermore, the concern for iatrogenic EoE in patients undergoing OIT is likely warranted, and patients undergoing OIT should be closely monitored for development of EoE symptoms.
+
+Limitations
+This study is a secondary analysis of health records of a sub-specialty clinic at a single institution collected as part of routine care. Utilization of a sub-specialty cohort can result in selection bias. Additionally, we relied on diagnosis codes to identify conditions of interest, and choice of diagnosis codes can be affected by billing or administrative constraints. However, in a chart review of a subset of our cohorts we found a high degree of diagnosis code accuracy when compared to commonly accepted practice parameters. In patients with history consistent with IgE-mediated food allergy, diagnosis of allergy to a food not yet consumed may be made based on positive testing. With this methodology, an over-estimation of IgE-mediated food allergy rates could occur. Finally, our patients primarily reside in an urban and suburban setting which should be considered when extrapolating to rural communities or comparing to national studies.
+
+Supplementary Material
+01  This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Author Contributions: D.A.H. and J.M.S. made contributions to conception and design of the work; D.A.H., J.W.D, and J.M.S. made contributions to the acquisition, analysis, and/or interpretation of the data; All authors made intellectual contributions during drafting and revision of the work, approved the final version to be published, and agree to be accountable for all aspects of the work including accuracy and integrity.
+
+Disclosures: D.A.H. and J.W.D. have no financial relationships or other conflicts of interest relevant to this article to disclose. J.M.S. is on the scientific advisory board of DBV Technologies.
+
+
+        Funding
+      
+
+We thank Robert Grundmeier, MD of the Department of Biomedical and Health Informatics for critical reading of this manuscript and Xuemei Zhang of the CHOP Biostatistics Core for assistance with statistical analysis. Funding: D.A.H. is supported by a Resident Research Grant from the American Academy of Pediatrics. J.M.S. is supported by the Stuart Starr Endowed Chair of Pediatrics, the CHOP Eosinophilic Esophagitis Fund, and the Consortium of Eosinophilic Gastrointestinal Disease Researchers (U54 AI117804) which is part of the Rare Disease Clinical Research Network, an initiative of National Center for Advancing Translational Sciences (NCATS) Office of Rare Disease Research, and is funded by NCATS and collaborating institute centers.
+
+Abbreviations
+EoEEosinophilic Esophagitis
+
+OITOral Immunotherapy
+
+CPEDCenter for Pediatric Eosinophilic Diseases
+
+EMRElectronic Medical Record
+
+IRBInstitutional Review Board
+
+CHOPChildren’s Hospital of Philadelphia
+
+Figure 1 EMR study cohorts. Three study cohorts were identified: (a) A cohort of 11,513 children with IgE-mediated food allergy in the absence of EoE, (b) a cohort of 570 children with concurrent IgE-mediated food allergy and EoE, and (c) a cohort of 266 children with EoE in the absence of IgE-mediated food allergy.
+
+Figure 2 The most common food allergens in patients with IgE-mediated food allergy or EoE. (a) Number of diagnoses for the most common food allergens in patients with IgE-mediated food allergy. (b) Frequency of the most common food allergens in patients with IgE-mediated food allergy. (c) Number of diagnoses for the most common food allergens in patients with EoE food allergy. (d) Frequency of the most common food allergens in patients with EoE food allergy. (e) Number of diagnoses for the most common IgE-mediated food allergens in patients with EoE. (f) Frequency of the most common IgE-mediated food allergens in patients with EoE.
+
+Table 1 Demographic characteristics of the EMR cohorts
+
+	
+              Frequency, % (n)
+              
+            	
+Characteristic	IgE (12,083)	EoE (836)	
+
+              Gender
+            			
+   Male	61 (7,393)	76 (638)	
+   Female	39 (4,690)	24 (198)	
+
+              Race
+            			
+   White	58 (6,994)	74 (621)	
+   Black	20 (2,463)	11 (88)	
+   American Indian or Alaska Native	&lt;1 (15)	&lt;1 (1)	
+   Asian	6 (750)	2 (14)	
+   Native Hawaiian or Other Pacific Islander	&lt;1 (11)	0 (0)	
+   Other	13 (1620)	12 (99)	
+   Multiple	1 (168)	1 (12)	
+   Unknown	&lt;1 (11)	&lt;1 (1)	
+   Refused	&lt;1 (51)	0 (0)	
+
+              Ethnicity
+            			
+   Non-Hispanic or Latino	88 (10,692)	85 (714)	
+   Hispanic or Latino	5 (591)	5 (43)	
+   Unknown	5 (599)	9 (76)	
+   Refused	2 (201)	&lt;1 (3)	
+
+              Birth year
+            			
+   Before 2000	9 (1044)	21 (178)	
+   2000 to 2004	20 (2421)	31 (261)	
+   2005 to 2009	36 (4319)	34 (283)	
+   2010 to 2015	36 (4299)	14 (114)	
+Table 2 Rate of EoE
+
+	Rate	Source	Referencesa	
+General Population	0.0004	ICD, Survey	1, 2	
+IgE Population	0.0472	ICD		
+a See supplemental references
+
+Table 3 Association between patient characteristics and EoE in the EMR cohort
+
+Characteristic	Odds Ratio	95% CI	P value	
+
+              Gender
+            				
+   Male vs Female	2.27	1.89 – 2.78	&lt; 0.0001	
+
+              Race
+            				
+   White vs Black	1.99	1.55 – 2.56	&lt; 0.0001	
+
+              Ethnicit y
+            				
+   Hispanic vs Non-Hispanic	0.99	0.67 – 1.47	ns	
+
+              Specific Food Allergens
+            				
+   Peanut	1.07	0.90 – 1.27	ns	
+   Egg	2.27	1.91 – 2.64	&lt;0.0001	
+   Tree nut	1.04	0.88 – 1.23	ns	
+   Milk	4.19	3.52 – 4.97	&lt;0.0001	
+   Shellfish	1.55	1.24 – 1.92	&lt;0.0001	
+
+              Number of Food Allergies
+            				
+   2 foods	2.93	2.16 – 4.05	&lt;0.0001	
+   3+ foods	5.29	3.82 – 7.32	&lt;0.0001	
+Table 4 Rate of abdominal pain and biopsy-confirmed EoE during OIT
+
+Food	Abdominal pain	Biopsy	Referencesa	
+Milk	14.3%	4.7%	3–11	
+Egg	7.9%	2.5%	12–21	
+Peanut	13.4%	7.3%	22–33	
+a See supplemental references
+
+What is already known about this topic?
+IgE-mediated food allergy is associated with comorbid atopic conditions such as asthma and allergic rhinitis. However, it is not known whether patients with IgE-mediated food allergy are at risk for developing eosinophilic esophagitis (EoE).
+
+What does this article add to our knowledge?
+We find that the causal allergens for IgE-mediated and EoE food allergy are distinct, that the prevalence of EoE is higher in the IgE-mediated food allergy population, and that allergy to common IgE-mediated food allergens is associated with developing EoE.
+
+How does this study impact current management guidelines?
+The association between IgE-mediated food allergy and EoE suggests a shared predisposition, and has implications for the management and monitoring of children with food allergy. Our results identify a very real risk of EoE in patients with IgE-mediated food allergy, and have implications for patients undergoing oral immunotherapy.
+
+
+   References
+1 
+            Jackson KD  
+            Howie LD  
+            Akinbami LJ  
+           Trends in allergic conditions among children: United states, 1997–2011 NCHS Data Brief 2013 5 121 1 8 121 
+2 
+            Sicherer SH  
+            Sampson HA  
+           Food allergy: Epidemiology, pathogenesis, diagnosis, and treatment J Allergy Clin Immunol 2014 2 133 2 291,307 quiz 308 24388012 
+3 
+            Turner PJ  
+            Gowland MH  
+            Sharma V  
+            Ierodiakonou D  
+            Harper N  
+            Garcez T  
+             
+           Increase in anaphylaxis-related hospitalizations but no increase in fatalities: An analysis of united kingdom national anaphylaxis data, 1992–2012 J Allergy Clin Immunol 2015 4 135 4 956,63.e1 25468198 
+4 
+            Branum AM  
+            Lukacs SL  
+           Food allergy among children in the united states Pediatrics 2009 12 124 6 1549 1555 19917585 
+5 
+            Gupta RS  
+            Springston EE  
+            Warrier MR  
+            Smith B  
+            Kumar R  
+            Pongracic J  
+             
+           The prevalence, severity, and distribution of childhood food allergy in the united states Pediatrics 2011 7 128 1 e9 e17 21690110 
+6 
+            de Silva IL  
+            Mehr SS  
+            Tey D  
+            Tang ML  
+           Paediatric anaphylaxis: A 5 year retrospective review Allergy 2008 8 63 8 1071 1076 18691309 
+7 
+            Friedlander JL  
+            Sheehan WJ  
+            Baxi SN  
+            Kopel LS  
+            Gaffin JM  
+            Ozonoff A  
+             
+           Food allergy and increased asthma morbidity in a school-based inner-city asthma study J Allergy Clin Immunol Pract 2013 Sep-Oct 1 5 479 484 24058900 
+8 
+            Hill DA  
+            Grundmeier RW  
+            Ram G  
+            Spergel JM  
+           The epidemiologic characteristics of healthcare provider-diagnosed eczema, asthma, allergic rhinitis, and food allergy in children: A retrospective cohort study BMC Pediatr 2016 8 20 16 133,016-0673-z 27542726 
+9 
+            Furuta GT  
+            Liacouras CA  
+            Collins MH  
+            Gupta SK  
+            Justinich C  
+            Putnam PE  
+             
+           Eosinophilic esophagitis in children and adults: A systematic review and consensus recommendations for diagnosis and treatment Gastroenterology 2007 10 133 4 1342 1363 17919504 
+10 
+            Liacouras CA  
+            Furuta GT  
+            Hirano I  
+            Atkins D  
+            Attwood SE  
+            Bonis PA  
+             
+           Eosinophilic esophagitis: Updated consensus recommendations for children and adults J Allergy Clin Immunol 2011 7 128 1 3,20.e6 quiz 21–2 21477849 
+11 
+            Simon D  
+            Radonjic-Hosli S  
+            Straumann A  
+            Yousefi S  
+            Simon HU  
+           Active eosinophilic esophagitis is characterized by epithelial barrier defects and eosinophil extracellular trap formation Allergy 2015 4 70 4 443 452 25620273 
+12 
+            Schoepfer AM  
+            Safroneeva E  
+            Bussmann C  
+            Kuchen T  
+            Portmann S  
+            Simon HU  
+             
+           Delay in diagnosis of eosinophilic esophagitis increases risk for stricture formation in a time-dependent manner Gastroenterology 2013 12 145 6 1230,6.e1-2 23954315 
+13 
+            Hill DA  
+            Spergel JM  
+           The immunologic mechanisms of eosinophilic esophagitis Curr Allergy Asthma Rep 2016 1 16 2 9,015-0592-3 26758862 
+14 
+            Simon D  
+            Marti H  
+            Heer P  
+            Simon HU  
+            Braathen LR  
+            Straumann A  
+           Eosinophilic esophagitis is frequently associated with IgE-mediated allergic airway diseases J Allergy Clin Immunol 2005 5 115 5 1090 1092 15867873 
+15 
+            Hill DA  
+            Shuker M  
+            Cianferoni A  
+            Wong T  
+            Ruchelli E  
+            Spergel JM  
+             
+           The development of IgE-mediated immediate hypersensitivity after the diagnosis of eosinophilic esophagitis to the same food J Allergy Clin Immunol Pract 2015 Jan-Feb 3 1 123 124 25577634 
+16 
+            Muir AB  
+            Lim DM  
+            Benitez AJ  
+            Modayur Chandramouleeswaran P  
+            Lee AJ  
+            Ruchelli ED  
+             
+           Esophageal epithelial and mesenchymal cross-talk leads to features of epithelial to mesenchymal transition in vitro Exp Cell Res 2013 4 1 319 6 850 859 23237990 
+17 
+            Mishra A  
+            Schlotman J  
+            Wang M  
+            Rothenberg ME  
+           Critical role for adaptive T cell immunity in experimental eosinophilic esophagitis in mice J Leukoc Biol 2007 4 81 4 916 924 17194734 
+18 
+            Noti M  
+            Wojno ED  
+            Kim BS  
+            Siracusa MC  
+            Giacomin PR  
+            Nair MG  
+             
+           Thymic stromal lymphopoietin-elicited basophil responses promote eosinophilic esophagitis Nat Med 2013 8 19 8 1005 1013 23872715 
+19 
+            Spergel JM  
+            Brown-Whitehorn TF  
+            Beausoleil JL  
+            Franciosi J  
+            Shuker M  
+            Verma R  
+             
+           14 years of eosinophilic esophagitis: Clinical features and prognosis J Pediatr Gastroenterol Nutr 2009 1 48 1 30 36 19172120 
+20 
+            Skripak JM  
+            Matsui EC  
+            Mudd K  
+            Wood RA  
+           The natural history of IgE-mediated cow’s milk allergy J Allergy Clin Immunol 2007 11 120 5 1172 1177 17935766 
+21 
+            Spergel JM  
+           Natural history of cow’s milk allergy J Allergy Clin Immunol 2013 3 131 3 813 814 23452903 
+22 
+            Spergel JM  
+            Brown-Whitehorn T  
+            Beausoleil JL  
+            Shuker M  
+            Liacouras CA  
+           Predictive values for skin prick test and atopy patch test for eosinophilic esophagitis J Allergy Clin Immunol 2007 2 119 2 509 511 17291865 
+23 
+            Maggadottir SM  
+            Hill DA  
+            Ruymann K  
+            Brown-Whitehorn TF  
+            Cianferoni A  
+            Shuker M  
+             
+           Resolution of acute IgE-mediated allergy with development of eosinophilic esophagitis triggered by the same food J Allergy Clin Immunol 2014 5 133 5 1487,1489.e1 24636092 
+24 
+            Clayton F  
+            Fang JC  
+            Gleich GJ  
+            Lucendo AJ  
+            Olalla JM  
+            Vinson LA  
+             
+           Eosinophilic esophagitis in adults is associated with IgG4 and not mediated by IgE Gastroenterology 2014 9 147 3 602 609 24907494 
+25 
+            Sampson HA  
+            Aceves S  
+            Bock SA  
+            James J  
+            Jones S  
+            Lang D  
+             
+           Food allergy: A practice parameter update-2014 J Allergy Clin Immunol 2014 11 134 5 1016,25.e43 25174862 
+26 
+            Straumann A  
+            Simon HU  
+           Eosinophilic esophagitis: Escalating epidemiology? J Allergy Clin Immunol 2005 2 115 2 418 419 15696105 
+27 
+            Dellon ES  
+           Epidemiology of eosinophilic esophagitis Gastroenterol Clin North Am 2014 6 43 2 201 218 24813510 
+28 
+            Pelz BJ  
+            Wechsler JB  
+            Amsden K  
+            Johnson K  
+            Singh AM  
+            Wershil BK  
+             
+           IgE-associated food allergy alters the presentation of paediatric eosinophilic esophagitis Clin Exp Allergy 2016 7 8 
+29 
+            Dellon ES  
+            Jensen ET  
+            Martin CF  
+            Shaheen NJ  
+            Kappelman MD  
+           Prevalence of eosinophilic esophagitis in the united states Clin Gastroenterol Hepatol 2014 4 12 4 589,96.e1 24035773 
+30 
+            Spergel JM  
+            Book WM  
+            Mays E  
+            Song L  
+            Shah SS  
+            Talley NJ  
+             
+           Variation in prevalence, diagnostic criteria, and initial management options for eosinophilic gastrointestinal diseases in the united states J Pediatr Gastroenterol Nutr 2011 3 52 3 300 306 21057327 
+31 
+            Mansoor E  
+            Cooper GS  
+           The 2010–2015 prevalence of eosinophilic esophagitis in the USA: A population-based study Dig Dis Sci 2016 6 1 26576552 
+32 
+            Hsieh FH  
+           Oral food immunotherapy and iatrogenic eosinophilic esophagitis: An acceptable level of risk? Ann Allergy Asthma Immunol 2014 12 113 6 581 582 25304341 
+33 
+            Lucendo AJ  
+            Arias A  
+            Tenias JM  
+           Relation between eosinophilic esophagitis and oral immunotherapy for food allergy: A systematic review with meta-analysis Ann Allergy Asthma Immunol 2014 12 113 6 624 629 25216976 
+34 
+            Fuentes-Aparicio V  
+            Alvarez-Perea A  
+            Infante S  
+            Zapatero L  
+            D’Oleo A  
+            Alonso-Lebrero E  
+           Specific oral tolerance induction in paediatric patients with persistent egg allergy Allergol Immunopathol (Madr) 2013 May-Jun 41 3 143 150 22835606 
+35 
+            Hofmann AM  
+            Scurlock AM  
+            Jones SM  
+            Palmer KP  
+            Lokhnygina Y  
+            Steele PH  
+             
+           Safety of a peanut oral immunotherapy protocol in children with peanut allergy J Allergy Clin Immunol 2009 8 124 2 286,91, 291.e1–6 19477496 
+

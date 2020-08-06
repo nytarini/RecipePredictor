@@ -1,0 +1,501 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   91077828548Curr BiolCurr. Biol.Current biology : CB0960-98221879-044525981791445241010.1016/j.cub.2015.03.058NIHMS677963ArticleBehavioral responses to a repetitive shadow stimulus express a persistent state of defensive arousal in Drosophila Gibson William T. wtgibson@caltech.edu123Gonzalez Carlos R. 3Fernandez Conchi M. 3Ramasamy Lakshmi 4Tabachnik Tanya 4Du Rebecca R. 2Felsen Panna E. 3Maire Michael M. 3Perona Pietro 3Anderson David J. wuwei@caltech.edu1241 Howard Hughes Medical Institute, California Institute of Technology, Pasadena, CA 91125, USA2 Division of Biology &amp; Biological Engineering 156-29, California Institute of Technology, Pasadena, CA 91125, USA3 Division of Engineering &amp; Applied Sciences 136-93, California Institute of Technology, Pasadena, CA 91125, USA4 Janelia Farm Research Campus, Howard Hughes Medical Institute, 19700 Helix Drive, Ashburn, VA 20147, USA20 4 2015 14 5 2015 1 6 2015 01 6 2016 25 11 1401 1415 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Summary
+The neural circuit mechanisms underlying emotion states remain poorly understood. Drosophila offers powerful genetic approaches for dissecting neural circuit function, but whether flies exhibit emotion-like behaviors has not been clear. We recently proposed that model organisms may express internal states displaying “emotion primitives,” which are general characteristics common to different emotions, rather than specific anthropomorphic emotions such as “fear” or “anxiety”. These emotion primitives include scalability, persistence, valence and generalization to multiple contexts. Here we have applied this approach to determine whether flies' defensive responses to shadows are purely reflexive, or may express underlying emotion states. We describe a new behavioral assay in which flies confined in an enclosed arena are repeatedly exposed to an overhead translational shadow. Repetitive shadows promoted graded (scalable) and persistent increases in locomotor velocity and hopping, and occasional freezing. The shadow also dispersed feeding flies from a food resource, suggesting both negative valence and context generalization. Strikingly, there was a significant delay before the flies returned to the food following shadow-induced dispersal, suggestive of a slowly decaying internal defensive state. The length of this delay was increased when more shadows were delivered for initial dispersal. These responses can be mathematically modeled by assuming an internal state that behaves as a leaky integrator of shadow exposure. Our results suggest that flies' responses to repetitive shadow stimuli express an internal state exhibiting canonical emotion primitives, possibly analogous to “fear” in mammals. The mechanistic basis of this state can now be investigated in a genetically tractable insect species.
+
+Drosophila behaviorshadow responseinnate fearstimulus integrationpersistent stateemotion-like behavior
+   Introduction
+Emotions are internal states that are expressed by specific behaviors, and that modulate perception, cognition and communication [1-5]. Dysregulation of emotion systems is central to psychiatric disorders. Yet we still do not understand the general neural mechanisms that encode emotion states. Indeed, there is not even agreement on the causal relationship between emotion states and behavior, despite more than a century of debate beginning with Darwin [4] and William James [6, 7] (reviewed in [3, 8]). An understanding of emotion is, therefore essential to explaining brain function, behavior and evolution.
+
+A mechanistic understanding of emotion states at the molecular and neural circuit levels would be aided by studying them in genetically tractable model organisms, especially invertebrates including insects such as Drosophila [3, 9-12]. Emotion research in animal models has traditionally been performed in mammalian systems, however [8, 13, 14], because they exhibit behavioral, physiological and neuroanatomical homologies to humans [15]. Because of this bias, previous efforts to investigate “emotions” in insects (or other arthropod species) have involved attempts to identify behaviors or behavioral states exhibiting similarities to human emotions [10, 11, 16]. For example, traumatized bees have been shown to exhibit “pessimistic cognitive bias” in decision-making [17], and crayfish subjected to electric shocks have been suggested to exhibit “anxiety” [18].
+
+Yet distantly related species may express emotion states through behaviors that have no obvious homology to human behaviors. An alternative approach to identifying instances of emotional expression, that does not depend on anthropocentric homologies, is to establish general features of emotion states, or “emotion primitives,” which apply to both different emotions in a species, and to emotions across phylogeny [3, 12, 19]. One can then search for behaviors that exhibit evidence of such emotion primitives in model organisms. We have recently suggested that such emotion primitives may include the following features or dimensions: persistence following stimulus cessation, scalability (a graded nature of the response), valence, generalization to different contexts, and stimulus degeneracy (different stimuli can evoke the same behavior by induction of a common emotion state) [3]. While these primitives are features of internal emotion states, they should be reflected in the properties of behaviors that express such states.
+
+Evidence of some of these properties in Drosophila has been provided using different behavioral paradigms. For example, flies are capable of entering states of persistent arousal, as evidenced by sustained locomotor activity [20-24] and/or neural activity [25, 26]. In some cases, these states exhibit “scalability:” the strength of the behavioral response scales in proportion to the number or intensity of the stimulus [20]. Drosophila can be conditioned using either appetitive or aversive stimuli [27-32] (and both ethanol and sexual experience appear to be rewarding to them [33, 34]), demonstrating that these animals can represent valence internally. Flies that have been rejected by mating partners consume more ethanol, suggesting that rejection induces a state that generalizes to promote ethanol reward seeking [33]. And flies have been shown to exhibit a “learned helplessness” response to an uncontrollable stressor [35], similar to rodents [36]. However to our knowledge there are few if, any cases, where evidence for multiple emotion primitives has been systematically investigated in a single behavioral paradigm.
+
+Here we establish and characterize a novel behavioral assay, termed ReSA (Repetitive Shadow-induced Arousal), in which flies in an enclosed, inescapable arena are exposed to multiple passes of an overhead, translationally moving shadow (rather than to a more traditional single-trial looming stimulus [37-39]). A simpler, manual version of this assay was previously explored by Kaplan and Trout [40]. This configuration affords systematic variation of stimulus parameters and quantitative analysis of the behavioral response, using automated tracking and behavior classifiers [41, 42]. Our results indicate that, under appropriate conditions, ReSA responses exhibit evidence of persistence, scalability, valence and generalizability. Importantly, flies show a cumulative response to successive shadow presentations, provided that the inter-stimulus interval is sufficiently short. This property can be modeled by an internal state that behaves as a “leaky” integrator. These data suggest that escape responses to shadows in Drosophila do not consist exclusively of single stimulus-response reflexes [37-39], but under certain conditions can exhibit integrative properties that reflect or express an underlying persistent defensive state. Together with recent studies of internal defensive states in mice [43, 44], our results provide evidence for a phylogenetic continuity of “emotion primitives,” and establish a behavioral assay for future mechanistic studies of the neural encoding of such states, in a genetically tractable invertebrate model organism.
+
+Results
+Drosophila exhibit elevated locomotor activity in response to a moving overhead shadow
+Our previous studies using the ReSH (Repetitive Startle-induced Hyperactivity) assay suggested that Drosophila enter a state of persistent, elevated arousal when subjected to a staccato sequence of mechanical startle stimuli (air puffs) [20]. To develop a less traumatic and more ecologically relevant assay, we investigated whether a repeated sequence of overhead shadow stimuli would elicit a similar persistent response. This question cannot be addressed in conventional shadow-response assays, which are single-trial because the animal escapes [37-39, 45]. We therefore delivered sequences of shadows using a servo motor-driven, mechanically isolated IR-transparent paddle controlled by custom software, which sweeps across a covered 100 mm walking arena from which the flies cannot escape (Figure 1A-B). Animals were video recorded at 33 Hz, and tracked using custom-built machine vision software and behavior classifiers.
+
+To characterize the flies' responses to repetitive shadow stimuli, we first loaded cohorts of ten male flies into the walking arena, and delivered eight consecutive shadow presentations at 1 sec intervals (Figure 1E). For the first 90 seconds following introduction into the chamber, animals maintained a roughly constant baseline average velocity (Figure 1E, F; baseline velocity). Upon delivery of the train of shadow stimuli, animal movement increased markedly and continued to rise until termination of the stimulus (Figure 1F, rise phase), after which it gradually decayed back to baseline over a period of ∼20 sec (Figure 1E, F; decay phase). Importantly, the velocity of moving flies increased (p&lt;.001; Kruskal-wallis test) to a greater extent than did the fraction of flies that were moving (p&lt;.01; Chi-square test), 3 sec after the shadow (Figure 1G, H). Therefore, locomotor velocity, not the percentage of moving flies, is the dominant component of the ReSA response under these conditions.
+
+To verify that the response to the paddle was indeed visual, we performed control experiments in which the paddle traversed a half-circle that did not overlap with the walking arena, and hence was not visible to the flies as an overhead stimulus (Figure S1A-E). Under these conditions, no elevation in fly velocity (actually a decrease; p&lt;.001, Kruskal-Wallis test) was observed (red, Figure S1 C-D). Furthermore, animals that happened to be standing upside down on the arena cover during shadowing did not respond to the paddle, suggesting that the ReSA is specific to overhead stimuli, consistent with shadow responses previously studied in mice [46]. Finally, flies did not elevate their locomotor activity in response to flashing overhead lights (Movie S3), indicating that the ReSA response requires translational paddle motion.
+
+The response to the shadow paddle includes hopping as well as walking
+We next investigated whether the increase in velocity caused by the shadow was reflected only in walking, or whether other behaviors were also involved. Jumping responses to initiate flight have been previously observed in response to looming stimuli [37, 47]. We observed repeated and persistent jumping in response to repetitive shadow presentations, which we term “hopping” (Supplemental Movie S1). We quantified hopping as movement above a particular threshold speed, selected based on a discontinuity in the population velocity distribution; this classifier was validated by manual scoring of videos (Experimental Procedures). Using this metric, we observed a rise in the fraction of hopping flies (p&lt;.001; Chi-square test) during the shadow presentation (Figure 1I,J), which persisted for 20-30 sec following shadow termination (Figure 1I). Furthermore, the average velocity of hopping flies increased relative to baseline (p&lt;.001; Kruskal-Wallis test) during the 3 sec after the shadow (Figure 1K). Thus, fly cohorts responded to the shadow stimulus with both an increase in average locomotor velocity, and an increase in hopping, indicating that they exhibit both quantitative increases and qualitative changes in their escape behavior in response to the shadows. Importantly, for both responses, the behavior persisted following cessation of the shadow stimuli and gradually decayed back to baseline (Figure 1E, F, I).
+
+ReSA behaviors scale with shadow number
+Our initial experiments suggested a positive relationship between swipe number and the population velocity of flies (Figures 1E-F; Figure 2A). To investigate this relationship further, we varied systematically swipe number in a series of interleaved experiments. Cohorts of ten male flies received 2, 4, 6, 8, or 10 passes, with each pass separated by a 1 second ISI. Delivering more shadows resulted in greater peak velocities for the flies (Figure 2B). Both the non-zero slope of the relationship between peak velocity and number of shadow passes (Figure 2D), and pairwise contrasts between peak velocities for different numbers of shadows (Figure 2E, F and Figure 3C, “passes with ISI=1 sec”), reached significance (in this and in subsequent pair-wise comparisons, unless otherwise indicated, statistical significance computed by Kruskal-Wallis 1-way ANOVA followed by Bonferroni corrected pair-wise Mann-Whitney U tests; p&lt;.05 for 2p versus 6,8, or 10p; p&lt;.01 for 4p versus 10p). Therefore, for an ISI of 1 second, peak cohort velocity scales with shadow number.
+
+The peak fraction of flies exhibiting hopping behavior also appeared to increase with shadow number (Figure 2C). Statistical analysis indicated that the peak probability of hopping indeed increased as a function of swipe number: there was a statistically significant non-zero slope for the relationship between peak hopping fraction and number of shadow passes (Figure 2G), and significant pairwise differences (p&lt;.05; 2p vs 8p,10p) between peak hopping fraction for different numbers of shadows (Figure 2H, I and Figure 3E, “passes with ISI=1 sec”). We conclude that for an ISI of 1 second, both peak velocity and the peak fraction of flies hopping increase with shadow number.
+
+Scaling of ReSA output depends on the inter-swipe interval (ISI) value
+The foregoing data suggested that flies can summate the influence of multiple, closely-spaced shadow stimuli, to produce an increase in the magnitude of their response. The effect of this summation decays over time following stimulus offset. To investigate whether this effect might reflect an underlying “leaky” integrative process, we asked whether it was dependent on the inter-swipe interval (ISI; Figure 3A-B). We intuited that if integration produced an accumulating internal variable with a fixed rate of decay (Figure 4A), then spacing the stimuli further apart, to increase the amount of “leakage” between each successive shadow, might prevent or reduce the cumulative response to multiple shadow stimuli.
+
+To address this issue, we interleaved experiments in which flies received 2,4,6,8, or 10 passes, respectively, under two interleaved ISI regimes. In the first regime, the ISI was set to 1 second (red, Figure 3C-D), whereas in the second regime, it was set to 3 seconds (blue, Figure 3C-D). Notably, a scalable increase in peak velocity was observed with an ISI=1 sec, but not for an ISI= 3 sec, based on linear fittings to the data (which indicated that the slope of the ISI=1 but not the ISI=3 curve was significantly different from zero, p&lt;.05; Figure 3D). Pair-wise tests indicated that there was a statistically significant increase in the response to 2 vs. 10 shadows when ISI=1s (p&lt;.001), but not when ISI=3s (Figure 3C; Figure S2 A-B). We found a similar ISI-dependence of cumulative increases in the hopping response (Figure 3E-F; Figure S2C-F). Hence, the scalable nature of both the locomotor and hopping responses to increasing numbers of shadow passes are dependent on the length of the ISI, with the transition point between cumulative vs. non-cumulative responses under these conditions lying somewhere between ISI=1 and ISI=3 sec.
+
+A simple model based on a leaky integrator can predict the qualitative features of ReSA
+The foregoing data strongly suggested the existence of an underlying scalable but labile quantity that accumulates in response to multiple shadows, and whose integrated value is reflected in the magnitude of the ReSA reponse. To investigate the behavior of such a system in a more quantitative manner, we constructed a simple mathematical model of a “leaky integrator,” in which each shadow adds a constant value to the integral, and the integral value leaks at a rate proportional to its magnitude (Figure 4A, B; Supplemental Experimental Procedures).
+
+This model makes different predictions according to the relative length of the ISI: (1) in a regime where the ISI is very large compared with the leak rate, there should be no accumulation (Figure 4F); in a regime where the ISI is small compared with the leak rate, there should be a cumulative increase in the value of the integral as a function of stimulus number (Figure 4H,I); and in a regime where the ISI is intermediate relative to the other two regimes, there should be a static increase relative to baseline that levels off after several shadows (Figure 4G). The experimental data provide examples of each of these three regimes. An ISI = 10s corresponds to the first regime (Figure 4C, F); an ISI = 3s corresponds to the intermediate regime (Figure 4D, G) and an ISI = 1s corresponds to the regime that exhibits a cumulative increase in response with each shadow pass (Figure 4E, H) Therefore, for different ISI values that yield three qualitatively distinct response regimes, the experimentally observed behavioral responses to successive shadow presentations can be recapitulated by a leaky integrator model. Taken together with the observation that single flies also show evidence of shadow integration (see next section), this model is consistent with an internal state change that is represented by a cumulative, labile variable.
+
+ReSA output is scalable in single flies
+It was formally possible that the integration process suggested by the foregoing experiments is not a property of individual flies, but instead reflected a collective, population- or swarm-level integration. To test whether such integration can occur in single flies, we performed ReSA experiments on individual animals with an ISI of 1 second, and varied the number of passes (Figure 5A). As in the case of population measurements, peak velocity was measurably greater (Kruskal-Wallis test, p&lt;.001) after flies had received 10 shadow passes as compared with only 2 passes (Figure 5B-C, E), although both stimulus paradigms increased peak velocity over baseline (Figure 5D). In addition, the peak hopping fraction for single flies was also elevated relative to baseline (p&lt;.001), with flies exposed to 10 shadows showing a trend to a higher hopping fraction than those exposed to 2 shadows (Figure 5F). Thus, single flies exhibit a scalable output in peak velocity according to the number of shadows delivered. To test for leaky integration in single flies, we compared the integration achieved by flies receiving 10 passes with an ISI of either 1 second or 10 seconds. Strikingly, single flies showed greater integration when the ISI was 1 second (p&lt;.001, Figure S4 D-F). These data support the idea that the cumulative response to the shadows reflects an internal state that is based on leaky integration of multiple shadow stimuli.
+
+Single flies exhibit shadow-induced freezing behavior
+In addition to locomotor and hopping based behaviors, a small fraction (∼30%) of animals in the single fly experiments exhibited immobility immediately following exposure to the shadow (Figure 5G-J; Figure S7; Movie S2 and S7 at 45 sec) to such an extent that their lack of motion could not be distinguished, at least by eye, from a freeze frame. In order to more fully characterize this apparent “freezing” behavior in response to the shadow, we spaced the shadow passes very far apart (15 seconds) so as not to disturb the initial freezing posture (Figure 5G-H; note the frozen wing posture in 5H).
+
+To characterize this behavior more quantitatively, we built a semi-automated freezing classifier based on pixel movement (see experimental procedures) [48]. Frame to frame, we find statistically significant enrichment for freezing behavior (p&lt;.001), relative to baseline, immediately following the first shadow, and also the second shadow (p&lt;.001), although the first shadow's enrichment is much greater (Figure 5I-J). Moreover, there is a significant cross-correlation (p&lt;.05) between the shadow's presence and subsequent freezing (Figure S7G). We conclude that the freezing behavior is caused by the shadow, and is not simply due to spontaneous bouts of inactivity. This behavior, which is here shown to occur in response to an ecologically relevant stimulus, is reminiscent of the freezing responses observed in rodents and other animals in response to threats [49, 50]. An immobility behavior in Drosophila has been reported previously in response to translational motion of a small fly-sized robot moving in the same plane as the fly [51]. In contrast, the shadow stimulus used here is designed to mimic a threat from an aerial predator. Given these differences, it is difficult to ascertain whether the previously reported behavior is identical to the freezing described here.
+
+An overhead shadow interrupts feeding behaviors in starved flies
+The foregoing experiments suggested that multiple shadow presentations can induce a persistent state of hyperactivity, similar to the persistent response to multiple air puffs in the ReSH assay [20]. In principle, hyperactivity may have a positive or negative valence; for example, flies increase their locomotor velocity in response to ethanol, which is rewarding [34, 52]. To investigate whether the ReSA response has a negative valence, we tested whether the shadow stimulus can interfere with an appetitive behavior, specifically feeding, which is highly sensitive to disruption by threats [53-56]. To this end, we introduced starved flies into a modified version of the chamber in which a food patch was placed in the center (Figure 6A), and onto which they quickly congregated (Figure 6B, D; “loading onto food.”).
+
+While aggregated on the food patch, flies (n=10 per assay) were subjected to a series of overhead shadows. In response to the shadow, the flies mostly did not jump, but rather stopped feeding and walked off the shadow onto the surrounding plastic (Movie S5). On average, with each passing shadow, more and more flies left the food patch, a behavior recapitulated by single flies (Figure 6C; Figure S3A, B, L, M; Supplemental Movie S7). Once off the food patch, the flies continued to respond to the shadow (Movie S5; Figure S3I-K). Very starved (27.5-30 hr food deprivation) animals were harder to disperse from the food (i.e., required more shadow passes) than were less-starved (24-27.5 hr food deprivation) animals, suggesting that feeding and escape are competing behaviors. Fed flies investigating decapitated virgin females were also dispersed less effectively by the shadow (data not shown), suggesting that the sensitivity to the shadow is influenced by the relative strength or salience of a competing appetitive stimulus. Finally, when larger numbers of shadows (∼20) were delivered with sufficiently long ISIs (10-20s), the flies showed evidence of habituation (Figure S4A-C). Anecdotal observations indicated that flies habituated to the shadow could be dishabituated using a mechanical startle stimulus (Movie S4), providing evidence of cross-modal control of this state.
+
+In some experiments (Figure S3L-M), no flies left the food in response to the first pass of the shadow, and only began to disperse following the second or third shadow exposure, suggestive of sensitization (see also Figure S3F; Supplementary Movie S7, part 3). Interestingly, this increasing responsiveness to the shadow following multiple passes was only observed if the time delay between the excursion and return of the shadow paddle was sufficiently short (Figure S5E-G). This is consistent with the model of an internal leaky integrator that controls the magnitude of the shadow response (Figure 4). Thus, the response to the shadow on the food patch shows evidence of integration, as is the case for flies tested in the absence of food (see above).
+
+The observation that feeding is interrupted by the shadow suggests that the shadow has a negative valence. Several other lines of evidence support this interpretation. First, flies avoided the paddle's path when it was presented in a manner that covered only half the arena (Figure S6A-C). Second, high-resolution video analysis demonstrated that flies moved away from the paddle's direction of motion (Figure S6D-G; Movie S6). Together these data argue that the shadow response has a negative valence. Moreover, the fact that the shadow does not simply produce an increase in locomotion, as observed in the absence of food (Figure 1-3), but that it also produces radial dispersal from a food resource (Figure 6), suggests that the ReSA response exhibits flexibility and can generalize to a different context.
+
+Time to return to the food patch increases with the number of shadow passes
+Anecdotally, when animals are dispersed from a food resource (e.g., birds from a feeder) by a predator or other threat, there is often a delay before they return to the resource. Similarly, for the case of the ReSA food based assay, we observed in both cohorts of animals and in single flies that, once dispersed from the central food resource by multiple (4) shadows, animals showed a significant time delay before returning to the food (Figures 6C; Figure S3A; Supplementary Movie S5). This delayed return suggests that the shadow's effect persists, in some cases for minutes, after the flies have left the food. This observation suggests that the flies may enter a state of persistent defensive or threat arousal upon exposure to multiple shadows, and that this labile state may compete with the animals' drive to return to the food, until it decays below a certain threshold.
+
+If the labile state is indeed produced by a leaky integrator of shadow exposure, then one would predict that dispersing the flies with a greater number of shadows (&gt;4) would lengthen the time to return to the food patch, because the integrated value of the state would initially be higher following stimulus offset. To test this prediction, we introduced cohorts of 7-10 starved flies into the arena, and allowed them to load onto the food patch (Figure 6D; from 0-90 seconds). At 90 seconds, we delivered either 4 passes of the shadow, or 10 passes of the shadow, in each case with a 1 second ISI. For these experiments, we chose an empirically determined shorter starvation period, such that most or all flies would be dispersed by only 1-2 shadows (Figure 6D). This eliminated confounds due to difference in total food consumption between the 4- vs. 10-shadow conditions.
+
+Strikingly, the return kinetics were slower for flies exposed to 10 passes of the shadow, compared with flies returning after only 4 passes of the shadow (Figure 6D; “post-shadow return to food” region). Quantitatively, an exponential fit to the return curve of flies off food as a function of time (Figure 6E) revealed a significant difference (p&lt;.05) in return kinetics as a function of swipe number. We conclude that flies dispersed from a food resource take longer to return to the resource, when the number of shadows used for dispersal is larger.
+
+Can the delayed return to food reflect thigmotaxis or initial distance from the patch?
+Once flies are dispersed from the food, it is possible that other non-defensive competing behaviors executed by the animals might delay their return to the food patch. One such behavior is thigmotaxis, in which animals move at a roughly constant velocity along the perimeter of the walking arena. We observed that following dispersal from the food in response to the shadow, some of the flies indeed engaged, at least transiently, in thigmotaxis. This thigmotactic behavior could reflect a continued drive to escape the arena, due to the persistent defensive state caused by the shadow (similar to anxiety behavior in the open field test used in rodent models [57]). Alternatively, it could be due to a self-reinforcing behavioral “attractor” reflecting a psychophysical phenomenon, such as maximizing retrogressive movement on the retina.
+
+We therefore investigated whether an increase in thigmotaxis could be responsible for the slower return to food in the cohort exposed to 10 vs. 4 shadows. We first quantified thigmotaxis for both cohorts. The level of thigmotaxis was low (&lt;20%), because the arena walls were covered with SigmaCote, and was only marginally different for flies in the 10- vs. 4-pass cohorts (Figure 6F). Nevertheless, to eliminate any contribution of thigmotaxis, we re-analyzed the data eliminating any flies that were in thigmotaxis at any given time point. Even with this stringent filter, the return kinetics were still significantly slower (p&lt;.05) for the 10-shadow cohorts than for the 4-shadow cohorts, as verified by exponential curve fitting and decay constant analysis (see Figure 6G, inset). We conclude that the slower return to food of flies exposed to 10 shadow stimuli is unlikely due to a relative increase in thigmotaxis, whether or not this behavior reflects an underlying “anxiety”-like state or a psychophysical attractor.
+
+Finally, we investigated whether the 10-shadow cohorts took longer to return to the food simply because they were initially dispersed further from the patch than were the 4-shadow cohorts, following shadow stimulus termination. Although flies in the 10-shadow cohort were indeed distributed a few mm further from the food patch (Figure 7A), even after normalizing for this initial difference, their return kinetics to the food patch were slower (p&lt;.05; Figure 7A, inset, “rescaled data” and Figure 7B). Together these analyses eliminate differences in thigmotaxis, or post-shadow dispersal radius, as responsible for the slower return to the food patch by flies exposed to 10 vs. 4 shadow stimuli. More likely, the difference reflects a higher initial level, and therefore a longer decay time, for a shadow-induced defensive state, which competes with the flies' appetitive drive to return to the food. Consistent with this interpretation, the flies exposed to 10 shadows took longer to “calm down” following the stimulus (p&lt;.05), as determined by the post-shadow decay kinetics of both velocity and fraction hopping (Figure 7C-D). This may be due to the fact that those flies were exposed to more shadows after they had left the food (Figure 6D), since the response to the shadow off the food was more vigorous than when the flies were on the food (Figure S3I-K).
+
+Discussion
+Defensive responses to threats involve both rapid, reflex reactions and (in higher organisms), more sustained, state-dependent “integrative” behavioral responses. The former are likely to have evolved before the latter, as they are exhibited even by unicellular organisms. The latter type of response can reflect an internal arousal or emotion state; humans subjectively experience and report such a threat state as “fear” or “anxiety” [15]. When such integrative responses to threats first began to emerge in evolution, and whether they involve neural circuits overlapping with, or distinct from, those mediating reflexive responses, is not known. Flies are well known to exhibit rapid, reflexive jump responses to a single presentation of a looming shadow [37-39] (but see [58]). However, whether they are also capable of exhibiting longer-term, integrated responses to repetitive shadow stimuli has not been investigated previously.
+
+Here we describe a novel behavioral assay, called ReSA, in which flies can be exposed to repeated presentations of an aversive shadow stimulus in an enclosed arena, preventing escape. Under these conditions, we observe features of the behavioral response that are suggestive of an internal state exhibiting multiple “emotion primitives” [3]. First, the response exhibits persistence: flies exposed to repeated shadow stimuli remain active for tens of seconds after the stimulus has terminated. Second, the response exhibits a negative valence, in that it interferes with feeding, and that flies avoid the moving shadow in a directional manner. Third, the response generalizes across multiple settings (freely moving flies on plastic, stationary feeding flies on a food patch). Fourth, the response exhibits “stimulus degeneracy:” a similar persistent increase in locomotor hyperactivity can be elicited by repeated presentation of a mechanical startle stimulus [20]; moreover flies habituated to the shadow stimulus can be dishabituated by a mechanical startle. Finally, and most importantly, the behavioral response scales with stimulus number and frequency. These behavioral responses suggest that the response to multiple shadows reflects an underlying causal [3, 4] internal state characterized by the emotion primitives described above.
+
+This inferred state can be mathematically modeled by assuming a shadow-induced labile quantity that accumulates with repeated shadow stimuli -- in other words, a leaky integrator [59], of shadow exposure. We emphasize that this model is simply a formalized illustration, and not a curve-fitting exercise. Nevertheless it may provide a useful heuristic for designing future experiments. Our model bears some resemblance to the “hydraulic” metaphor proposed by Lorenz [60, 61] to explain how internal drive or motivational states influence behavior, with some important differences. First, in Lorenz's metaphor the “drive”-filled vessel did not leak; it simply discharged its contents when a given behavior was released. Second, the level of drive was internally generated, whereas in the present case it is generated by an external sensory (visual) stimulus. Similar effects can be produced with a noxious mechanosensory stimulus [20]. In honey bees, alarm pheromones [62] can induce persistent states of arousal; therefore pheromones likely can induce such defensive internal states as well.
+
+The circuit-level mechanisms underlying such a leaky integrator remain to be investigated; multiple implementations are possible [63] including both network-based and molecular instantiations. Neuromodulators, such as biogenic amines or neuropeptides, are attractive candidates for the latter class of mechanism, because they could encode scalability by their concentration, and persistence by their rate of clearance. Indeed, across phylogeny, some neuropeptides are strikingly well conserved in their behavioral roles [64]. Biogenic amines such as dopamine also play a conserved role in arousal [20, 65]. Drosophila as a genetic system is particularly well suited to search for such molecular mechanisms [66]. Leaky integrators can also be instantiated by a number of circuit-level mechanisms [63]. Improvements in population measurements of neural activity in head-fixed flies may aid in their discovery. Visual stimuli are vastly preferable to mechanical (startle) stimuli for such studies [58], because the stimulus itself does not physically perturb the flies.
+
+What is the adaptive value of a system that integrates multiple threat stimuli to produce a scalable defensive response? Isn't it safer for the fly simply to jump away as soon as it sees an overhead shadow? That may be the case for a well-fed fly, but starved flies engaged in feeding must make a cost-benefit decision: premature flight from a resource deprives the animals of food and consumes energy; conversely, delayed escape renders the animals increasingly vulnerable to predation. The ability to encode an integrated, scalable internal representation of the history of recent threats (which may share some features with working memory [67]), and to use that representation to select behavioral responses and to tune their intensity, may be adaptive in uncertain environments. Whether this depends on the predictability of the shadow remains to be investigated. In addition, our data suggest that these integrated responses may be reinforced or “sharpened” by social interactions: flies feeding in groups are less readily dispersed by the first shadow than are single flies (Figure S3 A,C), and return to food following dispersal is faster than for single flies (Figure S3 G-H), suggestive of cooperativity.
+
+The behavioral response of flies in the ReSA assay exhibits multiple properties consistent with the expression of a persistent, internal defensive state, possibly an evolutionary precursor to the emotion that humans subjectively experience as “fear.” Interestingly, recent studies in mice have shown that optogenetic stimulation of the ventromedial hypothalamus can elicit defensive behaviors exhibiting a similar set of properties [43, 44]. The establishment of this paradigm in Drosophila opens the way to a mechanistic dissection of the molecular and circuit-level implementation of this state, in a genetically powerful invertebrate species. Such mechanistic studies should help to resolve the long-standing issue of the causal relationship between behavior and internal emotion states [4, 7], and may also shed light on the phylogenetic origins and continuity of emotion.
+
+Experimental procedures
+Animal husbandry
+Male flies were raised on Caltech brown food at 25 C at 55% humidity. Flies used for experiments were 5-7 days old, with all experimental and control cohorts matched for age, genetic background, and husbandry conditions.
+
+Fly strains
+Experiments were performed in a w+ genetic background. We used a hybrid background between the Janelia Farm attp2 landing site flies (which were the paternal flies) and Canton S (which were the maternal flies), except in Figures S1, S3, S4, S6, S7, and 6C; and Movies S4, S5, S7,S8, and S9, which used Canton S flies.
+
+Starvation protocols
+Animals in food experiments were wet starved for 24-30 hours, with slight adjustments in starvation length (matched for experimental and control animals) to ensure that animals could load onto food within a ∼90 second time window. Animals in nonfood experiments were wet-starved for 16-24 hours, except for the case of single fly experiments, which used non-starved animals.
+
+Fly detection and tracking
+Flies were filmed using a Point Grey grasshopper camera (part # GRAS-03k2m/c) against an Advanced Illumination backlight (part #BL0608-880-IC). Pixels belonging to flies were detected by background subtraction, and then merged and segmented using custom-built machine vision software. Fly identities were tracked between frames using the Hungarian algorithm. Velocity measurements are computed in terms of fly centroids.
+
+Control of paddle motion
+We used a custom-built control algorithm for programming paddle movements, which were controlled in terms of a Matlab graphical user interface, also custom-built.
+
+Dwell time convention
+For all experiments used in this manuscript (except Figures 5I and S6, which deliberately varied the dwell time for a single excursion and return of the paddle), we took the dwell time to be equal to the ISI, thus producing a stimulus that appears at regular intervals.
+
+Acclimatization to the chamber
+Flies were acclimatized to the chamber for at least 90 seconds prior to the first shadow stimulus.
+
+Chamber geometry
+The behavioral chamber is about 100 mm in diameter, and approximately 5 mm in height, from floor to ceiling.
+
+Criteria for hopping
+Forward versus backward paddle experiments (Figure S1) exhibit qualitatively different log-velocity histograms (data not shown). We set a hopping velocity threshold above a discontinuity in the population-level log-velocity, which closer investigation found corresponded to the hopping behavior. This method was validated using GUI-based manual scoring.
+
+Criteria for freezing
+A fly in a given time step was considered to be freezing if its .98 quantile of pixel motion was below a pixel motion threshold of 4 grey levels per frame. Once freezing events were classified frame to frame, we re-classified freezing in terms of freezing bouts, which are given in the relevant figure panels. Unless otherwise specified (e.g., Figures 1L and S8), freezing is given as a frame to frame proportion.
+
+Control of Paddle motion
+We used custom-made software in Matlab to control the paddle's position. Paddle motion consisted of excursions from 0 to π radians (Figure 1C, clockwise arrow), and return movements from π radians back to 0 (Figure 1C, counter-clockwise arrow), at a velocity of approximately 4.2 radians per second. We chose the paddle velocity to maximize startle effects. Paddle movements were controlled in terms of three parameters: (1) angular velocity; (2) paddle dwell time (DT), defined to be the time elapsed between excursion completion and return initiation (Figure 1D); and (3) the inter-swipe interval (ISI), defined to be the time between the previous return completion and the next excursion initiation (Figure 1D). Together, these control parameters permitted synthesis of diverse shadow stimuli.
+
+Statistical tests
+Unless otherwise specified, a Kruskal-Wallis 1-way ANOVA was used to assess whether any groups were significantly different. If differences could be detected, we then used pair-wise Mann-Whitney U tests, which were corrected for multiple comparisons using the Bonferroni method. Asterisks represent p-values, where (*) denotes p&lt;.05, (**) denotes p&lt;.01, and (***) denotes p&lt;.001. We use an α=.05 level of confidence.
+
+Supplementary Material
+1  2  3  4  5  6  7  8  9  We thank Allan Wong, Brian Duistermars, Kiichi Watanabe, Hidehiko Inagaki, Barret Pfeiffer, Prabhat Kunwar, Moriel Zelikowsky, Weizhe Hong, and Kenta Asahina for helpful comments and discussion. We also thank Gerald M. Rubin and Kevin Moses for financial support. Although all data in the manuscript were collected at Caltech, this project was initiated under the Janelia Farm Visiting Scientist Program, which provided funds for the initial prototype of the instrumentation and for associated software development. We are grateful to HHMI, NIH, and the Gordon and Betty Moore Foundation for financial support. WTG is a fellow of the Jane Coffin Childs Foundation for Medical Research. We thank J.L. Anderson for comments on the model.
+
+Author contributions: WTG, MMM, RRD, CMF, PEF, PP, and DJA performed research. DJA performed the original, food-based pilot studies of the shadow response assay in Martin Heisenberg's lab and at Janelia Farm, and commissioned the construction of the original shadow paddle apparatus at Janelia Farm. MMM built the tracker, which was modified by PEF under the supervision of PP. TT built the original prototype for the shadow response apparatus. LR designed the custom software used to control the apparatus. WTG performed the majority of the experiments in the manuscript, and did the majority of the modeling &amp; analysis used in the paper, based on an initial model of a leaky integrator made by PP. WTG, MMM, PP, and DJA designed research. WTG built the apparatus used for these experiments, with engineering support from Caltech and Janelia Farm/HHMI. WTG, CMF, and MMM programmed scripts for computational analysis of the data. DJA and PP supervised research. WTG and DJA wrote the paper.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Figure 1 Introduction to Repetitive Shadow-Induced Arousal (ReSA). (A-B) Shadow paddle apparatus. (C) Motion of the shadow paddle. (D) Control of swipe delivery. Dwell time (DT) and inter-shadow interval (ISI) control, respectively, how long the paddle remains at θ=π and θ=0. (E) Canonical ReSA curve for a cohort of ten male flies, with SEM envelopes. Shadow passes separated by an ISI of 1 second (vertical bars, black) cause an increase in velocity (yellow shaded region), which persists following stimulus cessation, and then decays back to baseline. (F) Illustration of baseline and peak height, as well as the three phases (“baseline,” “rise phase,”and “decay phase”). (G) Proportion of flies moving in the 3s before and after the shadow (**,Chi-square test). (H) Velocities of moving flies, in the 3s before and after the shadows (***, Kruskal-Wallis test). (I) Fraction of flies hopping over time (black), with SEM envelope (red). (J) Fraction of flies hopping increases relative to baseline (***,Chi-square test). (K) Velocity of hopping flies increases relative to baseline (***, Kruskal-Wallis test). Sample size for panels (E-K) is n=120 flies. (L) Number of flies freezing for ≥10 frames. Asterisks represent p-values, where (*), (**), and (***) denote, respectively, p&lt;.05,p&lt;.01, and p&lt;.001. We use α=.05.
+
+Figure 2 For ISI=1s, peak velocity scales with swipe number. (A) Mean velocity across 12 ten-fly cohorts (blue), with sample trajectories (grey; 1 per cohort) in response to shadows (black). (B) The number of shadow passes (back-and-forth), whether 4 (black), 6 (red), 8 (blue), or 10 (purple), alters the response's peak velocity. (C) The fraction of flies jumping increases with pass number: 6 (red), 8 (blue), or 10 (purple). (D) Linear regression (red) for the response's peak height, when flies receive 2-10 passes (*significantly different from zero, see bottom of legend). (E) Slope is non-zero (Kruskal-Wallis test), as confirmed by pair-wise tests (see bottom of legend); see Figure S2A. Peak velocity, normalized to baseline, for flies receiving 2-10 passes with ISI=1s. (F) Baselines for data in (E) are not different from each other (Kruskal-Wallis test). (G) A linear regression (red) with positive slope (*,see bottom of legend) for the fraction of hopping flies receiving 2-10 passes. (H) Pair-wise tests (see bottom of legend) confirm a monotone increasing trend in the median values. (I) Baseline hopping fractions are not different from each other (Kruskal-Wallis test). Total sample sizes for the 2-10 pass experiments are, respectively, 110, 109, 108, 120, and 119 flies. Cohort sizes were 8-10 flies each. Panels (A-I) re-use data from Figures 1E-K for purposes of analysis and direct comparison. Unless otherwise indicated, in this and all subsequent main and supplemental figures pair-wise tests are Bonferroni-corrected post-hoc Mann-Whitney U tests following significant differences determined by Kruskal-Wallis 1-way ANOVA. Asterisks represent p-values, where (*),(**), and (***) denote, respectively, p&lt;.05,p&lt;.01, and p&lt;.001. We use α=.05. Slopes from (D) and (G)differ from zero (*) because their 95% CI's exclude zero.
+
+Figure 3 Scalability in ReSA depends on ISI value. (A) Response to 10 passes (black bars) with ISI=1s (red), or (B) ISI=3s (blue). (C) Peak velocity is greater (***) following p=10 versus p=2 when ISI=1s (red), but not when ISI=3s (blue). (D) Linear fits to the peak velocity versus p for ISI=1s (red) and ISI=3s (blue). (D, inset) Slopes are significantly different (*, see bottom of legend). Slope for ISI=1s is positive, but for ISI=3s, it is indistinguishable from zero (*, see bottom of legend). (E) Hopping fraction is greater for p=10 versus p=2 when ISI=1s (*), but not when ISI=3s. (F) Linear fits to peak hopping fraction versus p, for ISI=1s (red) and ISI=3s (blue). (F, inset) Slope values. Slope for ISI=1s is positive (*, see bottom of legend), but for ISI=3s, it is indistinguishable from zero. In ISI=1s groups, for p=2…10, sample sizes are, respectively, 110, 109, 108, 120, and 119 flies. For the ISI=3s groups, for p=2…10, sample sizes are, respectively, 100, 110, 100, 110, and 118 flies. For ISI=1s, data in (C-F) are re-used from Figure 2 for comparative purposes. Asterisks represent p-values, where (*), (**), and (***) denote, respectively, p&lt;.05,p&lt;.01, and p&lt;.001. Slopes from (D) and (F) differ (*), because their 95% CI's do not overlap. Slopes for ISI=1 have 95% CI's that exclude zero; hence they differ (*) from zero.
+
+Figure 4 A leaky integrator of shadow exposure. (A) Cumulative shadow integral is analogous to the water level in a reservoir. Shadows (cups of water) fill the reservoir, whereas a slow leak drains the reservoir (B) Model output (blue), with shadow passes (black lines). Model parameters are: κ, the fill rate; α, the leak rate; pass number, p, which is the number of shadows received; and the ISI. Variables (inset) are time, t, and the reservoir's fill level, x. (B′) Rescaled model output (black), which eliminates redundant parameters to simplify analysis (see Supplemental Experimental Procedures). The parameters for the rescaled model are: pass number, p, and the ISI. Variables (inset) are τ = t·α, and 
+ξ=xκ. See Supplementary Experimental Procedures for detailed explanation. (C-E) Experimental time series data for ISI=10s, 3s, and 1s. (F-H) Model output (α =.55). (F) When ISI=10s, the reservoir completely empties between passes, as in (C). (G) When ISI=3s, the integral saturates after only a few passes, as in (D). (H) When ISI=1s, the integral increases, as in (E). (I) Diagram illustrating scalability and peak height definitions (see Supplemental Experimental Procedures). (J) Scalability versus pass number p and ISI. (K) Peak height versus p and ISI. Data from (D-E) are from Figure 3A-B. Sample sizes for (D-F) are 105, 118, and 119 flies.
+
+Figure 5 (A) Single-fly ReSA assay. (B) Time course for single fly velocities. For pass number p=10 (red envelope, black curve), the peak velocity is greater and it persists longer than for p=2 (green envelope, black curve). (C) Peak velocity for p=10 is significantly greater than for p=2 (***,Kruskal-Wallis test). (D) Peak velocities differ from baseline, and increase with p (***). (E) Peak velocity for p=10 is still greater than p=2 when normalized to baseline (*, Kruskal-Wallis test). (F) Peak hopping fraction for p=10 trends towards being greater than p=2; both values differ significantly from baseline (***). (G) Kymograph prior to the first pass (orange for freezing, red for escape, and black for other). (H) Kymograph following first shadow pass. Most time is spent freezing (orange label). Long arrow from t=.91 to t=5.00 s represents 4-seconds of freezing. After freezing, the fly escapes (red label). (I) Proportion of flies freezing vs time (see experimental procedures). Proportion freezing spikes following the first shadow (J) Shadow-induced elevation in the freezing rate (***). For panels B-F, the sample size is n=81 for each condition. Sample sizes for panels I-J are n=55 single flies. See also Movie S2.
+
+Figure 6 (A) Food-based version of the assay, with a central food cup at the arena's center. (B) Flies feeding on the food cup. (C) Shadow passes cause starved Canton S flies (n=810 flies in 81 cohorts) to leave the food, with more flies leaving at each successive pass. (D) Despite identical “loading onto food” kinetics (red and blue enveloped curves), flies return to the food faster when they receive fewer shadows (pass number p=4, black vs p=10, grey; ISI=1s). The “post-shadow return to food” region of the plot shows different kinetics of return for the two different pass treatment groups. Flies receiving 4 passes drop below baseline, whereas the 10-pass cohorts never reach baseline. The case p=4 has a steeper decay function than the case p=10 (E), which is statistically significant (*, see bottom of legend). (F) Thigmotaxis is rare in whether p=4 or p=10. (G) Subset of flies off the food, and not in thigmotaxis, also shows a statistically significantly steeper (*, see bottom of legend) decay for p=4 than for p=10, suggesting that thigmotaxis is not responsible for the decay rate difference. Sample sizes for panels (D-G) are all n=46 experiments for p=4 and for p=10. Decay constants in (E) and (G) are different (*) because their 95% CI's do not overlap.
+
+Figure 7 (A) Radial dispersal of flies from food. Flies receiving 10 passes of the shadow are initially slightly further from the center than flies that receive 4 passes of the shadow, but the return kinetics are different based on rescaling (inset) or (B) an exponential fit to the data. (B) Tau values for the p=10 and p=4 pass conditions (*significantly different; see bottom of legend). (C) When p=10 (blue envelope), there is a higher peak velocity, and slower decay (*, see bottom of legend), than when p=4 (C, inset). (D) Hopping frequency return to baseline more quickly (*, see bottom of legend;based on a power-law fit to the decay region of the function; D, inset) when flies receive 4 vs. 10 passes of the shadow. Sample sizes for panels (A-D) are all n=46 experiments for 4 pass scenario; n=46 experiments for the 10 pass scenario. Each experiment contains 7-10 flies. Panels in Figure 7 are computed from the same dataset as panels in Figures 6D-G. Decay constants in (B), (C) and (D) differ (*) because their 95% CI's do not overlap.
+
+
+   1 
+            Simon HA  
+           1967 Motivational and Emotional Controls of Cognition Psychol Rev 74 29 &amp; 5341441 
+2 
+            Sloman A  
+            Croucher M  
+           1981 Why robots will have emotions 
+3 
+            Anderson DJ  
+            Adolphs R  
+           2014 A framework for studying emotions across species Cell 157 187 200 24679535 
+4 
+            Darwin C  
+           1872 The expression of the emotions in man and animals London J. Murray 
+5 
+            Oatley K  
+            Johnson-Laird PN  
+           1987 Towards a cognitive theory of emotions Cogn emot 1 29 50 
+6 
+            Cannon WB  
+           1927 The James-Lange theory of emotions: a critical examination and an alternative theory Am J Psychol 39 
+7 
+            James W  
+           1884 II.—What is an emotion? Mind 188 205 
+8 
+            Salzman CD  
+            Fusi S  
+           2010 Emotion, cognition, and mental state representation in amygdala and prefrontal cortex Annu Rev Neurosci 33 173 202 20331363 
+9 
+            Iliadi KG  
+           2008 The genetic basis of emotional behavior: has the time come for a Drosophila model? J Neurogenet 23 136 146 19107631 
+10 
+            Döring TF  
+            Chittka L  
+           2011 How human are insects, and does it matter Formosan Entomol 3 1 85 99 
+11 
+            Mendl M  
+            Paul ES  
+            Chittka L  
+           2011 Animal behaviour: emotion in invertebrates? Curr Biol 2 1 R463 465 21683898 
+12 
+            Panksepp J  
+           2005 Affective consciousness: Core emotional feelings in animals and humans Conscious Cogn 14 30 80 15766890 
+13 
+            Adolphs R  
+           2010 Emotion Curr Biol 20 R549 552 20619803 
+14 
+            LeDoux J  
+           2012 Rethinking the Emotional Brain Neuron 73 653 676 22365542 
+15 
+            Adolphs R  
+           2013 The biology of fear Curr Biol 23 R79 93 23347946 
+16 
+            Panksepp J  
+           1998 Affective Neuroscience New York Oxford University Press 
+17 
+            Bateson M  
+            Desire S  
+            Gartside SE  
+            Wright GA  
+           2011 Agitated honeybees exhibit pessimistic cognitive biases Curr Biol 21 1070 1073 21636277 
+18 
+            Fossat P  
+            Bacque-Cazenave J  
+            De Deurwaerdere P  
+            Delbecque JP  
+            Cattaert D  
+           2014 Comparative behavior. Anxiety-like behavior in crayfish is controlled by serotonin Science 344 1293 1297 24926022 
+19 
+            Panksepp J  
+           1982 Toward a General Psycho-Biological Theory of Emotions Behav Brain Sci 5 407 422 
+20 
+            Lebestky T  
+            Chang JSC  
+            Dankert H  
+            Zelnik L  
+            Kim YC  
+            Han KA  
+            Wolf FW  
+            Perona P  
+            Anderson DJ  
+           2009 Two Different Forms of Arousal in Drosophila Are Oppositely Regulated by the Dopamine D1 Receptor Ortholog DopR via Distinct Neural Circuits Neuron 64 522 536 19945394 
+21 
+            Wolf FW  
+            Eddison M  
+            Lee S  
+            Cho W  
+            Heberlein U  
+           2007 GSK-3/Shaggy regulates olfactory habituation in Drosophila Proc Natl Acad Sci USA 104 4653 4657 17360579 
+22 
+            Cho W  
+            Heberlein U  
+            Wolf FW  
+           2004 Habituation of an odorant-induced startle response in Drosophila Genes Brain Behav 3 127 137 15140008 
+23 
+            Jordan KW  
+            Morgan TJ  
+            Mackay TFC  
+           2006 Quantitative trait loci for locomotor behavior in Drosophila melanogaster Genetics 174 271 284 16783013 
+24 
+            Yamamoto A  
+            Zwarts L  
+            Callaerts P  
+            Norga K  
+            Mackay TFC  
+            Anholt RRH  
+           2008 Neurogenetic networks for startle-induced locomotion in Drosophila melanogaster Proc Natl Acad Sci USA 105 12393 12398 18713854 
+25 
+            van Swinderen B  
+            Nitz DA  
+            Greenspan RJ  
+           2004 Uncoupling of brain activity from movement defines arousal States in Drosophila Curr Biol 14 81 87 14738728 
+26 
+            Nitz DA  
+            van Swinderen B  
+            Tononi G  
+            Greenspan RJ  
+           2002 Electrophysiological correlates of rest and activity in Drosophila melanogaster Curr Biol 12 1934 1940 12445387 
+27 
+            Krashes MJ  
+            DasGupta S  
+            Vreede A  
+            White B  
+            Armstrong JD  
+            Waddell S  
+           2009 A Neural Circuit Mechanism Integrating Motivational State with Memory Expression in Drosophila Cell 139 416 427 19837040 
+28 
+            Waddell S  
+           2010 Dopamine reveals neural circuit mechanisms of fly memory Trends in neurosciences 33 457 464 20701984 
+29 
+            Waddell S  
+           2013 Reinforcement signalling in Drosophila; dopamine does it all after all Current opinion in neurobiology 23 324 329 23391527 
+30 
+            Liu C  
+            Placais PY  
+            Yamagata N  
+            Pfeiffer BD  
+            Aso Y  
+            Friedrich AB  
+            Siwanowicz I  
+            Rubin GM  
+            Preat T  
+            Tanimoto H  
+           2012 A subset of dopamine neurons signals reward for odour memory in Drosophila Nature 488 512 516 22810589 
+31 
+            Burke CJ  
+            Huetteroth W  
+            Owald D  
+            Perisse E  
+            Krashes MJ  
+            Das G  
+            Gohl D  
+            Silies M  
+            Certel S  
+            Waddell S  
+           2012 Layered reward signalling through octopamine and dopamine in Drosophila Nature 492 433 437 23103875 
+32 
+            Heisenberg M  
+           2003 Mushroom body memoir: from maps to models Nat Rev Neurosci 4 266 275 12671643 
+33 
+            Shohat-Ophir G  
+            Kaun KR  
+            Azanchi R  
+            Mohammed H  
+            Heberlein U  
+           2012 Sexual deprivation increases ethanol intake in Drosophila Science 335 1351 1355 22422983 
+34 
+            Kaun KR  
+            Azanchi R  
+            Maung Z  
+            Hirsh J  
+            Heberlein U  
+           2011 A Drosophila model for alcohol reward Nat Neurosci 14 612 619 21499254 
+35 
+            Yang Z  
+            Bertolucci F  
+            Wolf R  
+            Heisenberg M  
+           2013 Flies cope with uncontrollable stress by learned helplessness Curr Biol 23 799 803 23602474 
+36 
+            Maier SF  
+            Watkins LR  
+           2005 Stressor controllability and learned helplessness: the roles of the dorsal raphe nucleus, serotonin, and corticotropin-releasing factor Neurosci Biobehav Rev 29 829 841 15893820 
+37 
+            Card G  
+            Dickinson MH  
+           2008 Visually mediated motor planning in the escape response of Drosophila Curr Biol 18 1300 1307 18760606 
+38 
+            Hammond S  
+            O'Shea M  
+           2007 Escape flight initiation in the fly. Journal of comparative physiology A, Neuroethology, sensory, neural, and behavioral physiology 193 471 476 
+39 
+            de Vries SE  
+            Clandinin T  
+           2013 Optogenetic stimulation of escape behavior in Drosophila melanogaster Journal of visualized experiments : JoVE 
+40 
+            Kaplan WD  
+            Trout WE  
+           1974 Genetic manipulation of an abnormal jump response in Drosophila Genetics 77 721 739 4371648 
+41 
+            Anderson DJ  
+            Perona P  
+           2014 Toward a science of computational ethology Neuron 84 18 31 25277452 
+42 
+            Dankert H  
+            Wang L  
+            Hoopfer ED  
+            Anderson DJ  
+            Perona P  
+           2009 Automated monitoring and analysis of social behavior in Drosophila Nat Methods 6 297 303 19270697 
+43 
+            Kunwar P  
+            Zelikowsky M  
+            Remedios R  
+            Cai H  
+            Yilmaz M  
+            Meister M  
+            Anderson DJ  
+           2015 Ventromedial hypothalamic neurons control a defensive emotion state eLife doi:10.77554,eLife.06633 
+44 
+            Wang L  
+            Chen IZ  
+            Lin D  
+           2015 Collateral pathways from the ventromedial hypothalamus mediate defensive behaviors Neuron 85 1344 1358 25754823 
+45 
+            Allen MJ  
+            Godenschwege TA  
+            Tanouye MA  
+            Phelan P  
+           2006 Making an escape: development and function of the Drosophila giant fibre system Semin Cell Dev Biol 17 31 41 16378740 
+46 
+            Yilmaz M  
+            Meister M  
+           2013 Rapid innate defensive responses of mice to looming visual stimuli Curr Biol 23 2011 2015 24120636 
+47 
+            Card G  
+            Dickinson M  
+           2008 Performance trade-offs in the flight initiation of Drosophila J Exp Biol 211 341 353 18203989 
+48 
+            Fink M  
+            Callol-Massot C  
+            Chu A  
+            Ruiz-Lozano P  
+            Izpisua Belmonte JC  
+            Giles W  
+            Bodmer R  
+            Ocorr K  
+           2009 A new method for detection and quantification of heartbeat parameters in Drosophila, zebrafish, and embryonic mouse hearts BioTechniques 46 101 113 19317655 
+49 
+            Blanchard DC  
+            Griebel G  
+            Blanchard RJ  
+           2001 Mouse defensive behaviors: pharmacological and behavioral assays for anxiety and panic Neurosci Biobehav R 25 205 218 
+50 
+            Valentinuzzi VS  
+            Kolker DE  
+            Vitaterna MH  
+            Shimomura K  
+            Whiteley A  
+            Low-Zeddies S  
+            Turek FW  
+            Ferrari EAM  
+            Paylor R  
+            Takahashi JS  
+           1998 Automated measurement of mouse freezing behavior and its use for quantitative trait locus analysis of contextual fear conditioning in (BALB/cJ × C57BL/6J)F-2 mice Learn Memory 5 391 403 
+51 
+            Zabala F  
+            Polidoro P  
+            Robie A  
+            Branson K  
+            Perona P  
+            Dickinson MH  
+           2012 A simple strategy for detecting moving objects during locomotion revealed by animal-robot interactions Curr Biol 22 1344 1350 22727703 
+52 
+            Wolf FW  
+            Rodan AR  
+            Tsai LT  
+            Heberlein U  
+           2002 High-resolution analysis of ethanol-induced locomotor stimulation in Drosophila J Neurosci 22 11035 11044 12486199 
+53 
+            Lima SL  
+            Bednekoff PA  
+           1999 Temporal variation in danger drives antipredator behavior: The predation risk allocation hypothesis Am Nat 153 649 659 
+54 
+            Houston AI  
+            Mcnamara JM  
+            Hutchinson JMC  
+           1993 General Results Concerning the Trade-Off between Gaining Energy and Avoiding Predation Philos T Roy Soc B 341 375 397 
+55 
+            Berger J  
+           1978 Group-Size, Foraging, and Antipredator Ploys - Analysis of Bighorn Sheep Decisions Behav Ecol Sociobiol 4 91 99 
+56 
+            Gluck E  
+           1987 An Experimental-Study of Feeding, Vigilance and Predator Avoidance in a Single Bird Oecologia 71 268 272 
+57 
+            Gordon JA  
+            Hen R  
+           2004 Genetic approaches to the study of anxiety Annu Rev Neurosci 27 193 222 15217331 
+58 
+            von Reyn CR  
+            Breads P  
+            Peek MY  
+            Zheng GZ  
+            Williamson WR  
+            Yee AL  
+            Leonardo A  
+            Card GM  
+           2014 A spike-timing mechanism for action selection Nat Neurosci 17 962 970 24908103 
+59 
+            Major G  
+            Tank D  
+           2004 Persistent neural activity: prevalence and mechanisms Current opinion in neurobiology 14 675 684 15582368 
+60 
+            Lorenz KZ  
+           1950 The Comparative Method in Studying Innate Behaviour Patterns Sym Soc Exp Biol 4 221 268 
+61 
+            Lorenz K  
+            Leyhausen P  
+           1973 Motivation of human and animal behavior; an ethological view xix New York Van Nostrand-Reinhold 
+62 
+            Alaux C  
+            Robinson GE  
+           2007 Alarm pheromone induces immediate-early gene expression and slow behavioral response in honey bees J Chem Ecol 33 1346 1350 17505874 
+63 
+            Goldman M  
+            Compte A  
+            Wang XJ  
+           2007 Neural integrators: recurrent mechanisms and models New Encyclopedia of Neuroscience 1 26 
+64 
+            Bargmann CI  
+           2012 Beyond the connectome: How neuromodulators shape neural circuits Bioessays 34 458 465 22396302 
+65 
+            Andretic R  
+            van Swinderen B  
+            Greenspan RJ  
+           2005 Dopaminergic modulation of arousal in Drosophila Curr Biol 15 1165 1175 16005288 
+66 
+            Inagaki HK  
+            Ben-Tabou de-Leon S  
+            Wong AM  
+            Jagadish S  
+            Ishimoto H  
+            Barnea G  
+            Kitamoto T  
+            Axel R  
+            Anderson DJ  
+           2012 Visualizing neuromodulation in vivo: TANGO-mapping of dopamine signaling reveals appetite control of sugar sensing Cell 148 583 595 22304923 
+67 
+            Thran J  
+            Poeck B  
+            Strauss R  
+           2013 Serum Response Factor-Mediated Gene Regulation in a Drosophila Visual Working Memory Curr Biol 23 1756 1763 24012317 
+

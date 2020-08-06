@@ -1,0 +1,564 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   87047731656Am J Prev MedAm J Prev MedAmerican journal of preventive medicine0749-37971873-260725049217414211010.1016/j.amepre.2014.05.007NIHMS580686ArticleAre food and beverage purchases in households with preschoolers changing? A longitudinal analysis from 2000–2011 Ford Christopher N. MPHNg Shu Wen PhDPopkin Barry M. PhDDepartment of Nutrition, University of North Carolina at Chapel HillCorresponding Author: Barry M. Popkin, PhD, Department of Nutrition, School of Public Health, CB # 8120 University Square, University of North Carolina at Chapel Hill, Chapel Hill, NC 27516-3997, Phone: (919) 966-1732, Fax: 919-966-9159 (backup: 6638), popkin@unc.edu7 5 2014 18 7 2014 9 2014 01 9 2015 47 3 275 282 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+US dietary studies from 2003–2010 show decreases in children’s caloric intake. We examine purchases of consumer-packaged foods/beverages in the US between 2000- and 2011 among households with children ages 2–5y.
+
+Objectives
+Describe changes in consumer-packaged goods purchases between 2000 and 2011 after adjusting for economic indicators, and explore differences by race, education, and household income level.
+
+Methods
+Consumer-packaged goods purchases data were obtained for 42,753 US households with ≥1 child aged 2–5y using the Nielsen Homescan Panel. Top sources of calories purchased were grouped, and random effects regression was used to model the relationship between calories purchased from each food/beverage group and race, female head of household education, and household income. Models adjusted for household composition, market-level unemployment rate, prices, and quarter. Bonferroni correction was used to adjust for multiple comparisons (α=0.05).
+
+Results
+Between 2000 and 2011, adjusted total calories purchased from foods (−182 kcal/d) and beverages (−100 kcal/d) declined significantly. Decreases in purchases of milk (−40 kcal), soft drinks (−27 kcal/d), juice and juice drinks (−24 kcal/d), grain-based desserts (−24 kcal/d), savory snacks (−17 kcal/d), and sweet snacks and candy (−13 kcal/d) were among the major changes observed. There were significant differences by race, female head of household education, and household income for changes in consumer-packaged food and beverage purchases between 2000 and 2011.
+
+Conclusions
+Trends in consumer-packaged goods purchases suggest that solid fats and added sugars are decreasing in the food ply of US preschool children. Yet, pronounced differences by race, education, and household income persist.
+
+PreschooldietSoFAShousehold purchasesconsumer-packaged foods and beverages
+   Introduction
+In recent years, the overall prevalence of obesity may have leveled off among U.S. preschool (ages 2–5y) children (1), and some have reported decreases in obesity among low-income preschool children from 2003 to 2010 (2). Similarly, findings from What We Eat In America’s, National Health and Nutrition Examination Survey (NHANES) show significant decreases in caloric intake among US children aged 2–18 years between 2003 and 2010 (3), which appear to track with child obesity trends. While the evidence suggests that the diets of all US children have changed in meaningful ways since 2000, changes in the diets of young children may be particularly useful for understanding obesity-related dietary changes among children in the US. The preschool period is critical for influencing long-term food preferences and eating behaviors (4–8). Therefore, exploring trends in the diets of preschoolers may yield both important insights into how the diets of US children have changed amidst plateauing child obesity rates. Despite its significance, and notwithstanding the apparent leveling off of child obesity in the US, little is known about how the diets of US preschool children have changed since 2000. Though several studies have noted overall decreases in caloric intake among US preschool children during the last decade (9–11), particularly in caloric beverages and milk, only a handful of studies have examined trends in intakes of key foods and beverages in US preschoolers (10, 11). It’s equally important to explore dietary differences by race-ethnicity and socioeconomic status (SES) between 2000 and 2011, as there may be important disparities between socioeconomic groups (12–16).
+
+In addition to encompassing significant dietary and obesity changes, the period from 2000 to 2011 was also marked by major economic (the Great Recession) and food price changes (17, 18). Thus, longitudinal research that takes into account the effect of economic and price changes is needed, in order to characterize underlying behavioral shifts among US preschool children during this period. In an effort to address these gaps in the literature, this study examines trends in household purchases of consumer-packaged goods (CPG) among US households with children ages 2–5 years between 2000 and 2011 while controlling for economic climate and food/beverage prices.
+
+Methods
+Data
+Data were obtained for years 2000 to 2011 from the Nielsen Homescan panel (19). Briefly, Nielsen Homescan comprises a representative sample of US households. Participating households are issued equipment to scan and track all consumer packaged goods purchases with Universal Product Codes (UPC). UPC-level information is used to provide detail regarding the types and amounts of products purchased, price, market, and retailer type (20–22). Households included in the analyses had at least one child between the ages of 2–5 years with complete data for one or more years. Nielsen data are categorized into 51 mutually exclusive commercial food and 11 beverage categories. From these categories, we identified the top 20 foods/beverages purchased per capita among households with any child ages 2–5 years from 2000 to 2011, and combined them into nine food groups, which were used in all subsequent analyses: 1) grain-based desserts; 2) savory snacks; 3) ready-to-eat cereals; 4) sweet snacks and candy; 5) processed meats; 6) soft drinks; 7) juice and juice drinks; 8) plain milk; and 9) sweetened milk.
+
+Statistical analyses
+Descriptive statistics were computed using survey weights corresponding to a U.S. nationally representative sample. Random effects regression models were used, to account for the within-household correlation in repeated measures (nested random effects with household as the grouping variable), to model the relationship between calories purchased per capita from each food group and race/ethnicity (race/ethnicity of male head of household, where available, and race/ethnicity of female head of household otherwise), female head of household education, and household income. Time was modeled using disjoint indicator variables for quarter and year, and interaction terms were included for time and race/ethnicity, household income, and female head of household education. Separate models were run for each food group of interest, and models adjusted for household composition, quarter, and CPG food and beverage prices (market-level) specific to each of the 76 metropolitan and non-metropolitan markets in which Homescan respondents resided at the time of study participation. In addition, we included market-quarter level unemployment rate data from the US Bureau of Labor Statistics’ Local Area Unemployment Statistics (23) to adjust for economic climate, following past work by economists (24). Post-estimation commands (-margins-), with Bonferroni adjustment for multiple comparisons (25), were used to obtain estimates by year, race/ethnicity, female head of household education, and household income. P-values &lt;0.001 (after correction) were considered significant, and all analyses were conducted in Stata (26).
+
+Results
+Sample characteristics for selected years are shown in Table 1 for households with preschool children (see Appendix Table 1 for data on all years). As shown, unadjusted calories purchased per capita from consumer packaged foods/beverages decreased over time (−184 kcal/d between 2000 and 2011). Unemployment rate more than doubled between 2000 and 2011, and differences between 2000 and 2003, 2003 and 2007, and 2007 and 2011, were significant. The proportion of female heads of household with less than a high school diploma decreased over time (from 64% to 52%), whereas the proportion of those with a college degree increased (from 31% to 43%) between 2000 and 2011. The distributions of race, and household income did not change appreciably across the years.
+
+Overall trends in foods and beverages
+Results from our longitudinal models are summarized in Figure 1, which shows adjusted calories purchased per capita from consumer packaged foods, and beverages among households with preschool children. Changes in calories purchased over time are represented as a percent of their respective 2000 values in Figure 1A, and in absolute terms in Figure 1B. Food calories purchased decreased by 21% (−182 kcal/d), whereas beverage calories purchased decreased by 51% (−100 kcal/d) between 2000 and 2011.
+
+When we examined selected food groups (n=5) and beverage groups (n=4) differences between 2000 and 2011 (Figures 2A and 2B), we found that milk purchases decreased by 40 kcal/d, soft drink purchases decreased by 27 kcal/d and juice and juice drinks decreased by 24 kcal/d. Among foods, calories purchased per capita from ‘other foods’ (all other food purchases not represented by main analytic groups) decreased by 118 kcal/d, grain-based desserts decreased by 24 kcal/d, savory snacks decreased by 17 kcal/d, and sweet snacks and candy decreased by 13 kcal/d. Detailed trends in adjusted calories purchased per capita from selected consumer packaged foods and beverages among households with preschool children are presented in Appendix Table 2.
+
+Trends in foods and beverages purchased by race
+Trends in adjusted per capita purchases of selected foods and beverages between 2000 and 2011 by race, female head of household education, and household income are presented in Table 2. Between 2000 and 2011, the decrease in total calories per capita among households with preschool was smallest for Hispanics (−233 kcal vs. −299 to −296 kcal/d for non-Hispanic Whites and non-Hispanic Blacks). Our results were similar for total calories purchased from foods (−134 kcal/d vs. −204 to −198 kcal/d), and purchases of ‘other foods’ (−82 kcal/d vs. −127 to −126 kcal/d), for which the decreases between 2000 and 2011 were smallest for Hispanics households.
+
+Trends in foods and beverages purchased by female head of household education
+Our results by female head of household education showed that between 2000 and 2011, calories purchased from soft drinks by households with preschool children decreased most among those with less than a high school diploma (−42 kcal/d vs. −31 to −23 kcal/d).
+
+Trends in foods and beverages purchased by household income
+In looking at household income level (3 categories: &lt;130% FPL; 130–185% FPL; and &gt;185% FPL) between 2000 and 2011, households earning &lt;130% FPL had the smallest decrease in total beverage purchases (−78 kcal/d vs. −105 to −103 kcal/d for higher income households). The same trend was observed for grain-based dessert purchases, for which the decrease between 2000 and 2011 was smallest among those earning &lt;130% FPL (−15 kcal/d vs. −26 to −22 kcal/d).
+
+Discussion
+Our results, controlling for unemployment rates and food/beverage prices where households reside, indicate that the behavior of households with preschoolers may have reached a major turning point. Between 2000 and 2011, adjusted calories purchased from commercially packaged foods and beverages decreased by 182 kcal and 100 kcal respectively, and purchases of milk (−40 kcal/d), soft drinks (−27 kcal/d), juice and juice drinks (−24 kcal/d), and grain-based desserts (−17 kcal/d), were among the food and beverage groups to decline during this period. By race, total calories purchased fell similarly for non-Hispanic Whites (−299 kcal/d) and non-Hispanic Blacks (−296 kcal/d), but to a significantly lesser extent among Hispanic households (−233 kcal/d). Hispanic households also had the smallest decrease in total calories purchased from food (−134 kcal/d vs. −204 to −198 kcal/d), and calories purchased from ‘other foods’ (−82 kcal/d vs. −127 to −126 kcal/d). By female head of household education, those with less than a high school diploma had the greatest decreases in calories purchased from soft drinks (−42 vs. −31 to −24 kcal/d). Our findings by household income showed that the decrease in total beverage calories purchased between 2000 and 2011 was smallest for households earning &lt;130% FPL (−78 kcal/d vs. −105 to −103 kcal/d).
+
+Previous work using nationally representative dietary intake data from the US found that mean daily caloric intake decreased by 178 kcal/d between 2003 and 2010 among children ages 2–5 years (10). This is consistent with our finding that calories purchased per capita among households with preschool children decreased by 182 kcal/d between 2000 and 2011. Welsh et al., who examined changes in dietary intake among US residents ages two and older, found significant decreases in total energy from added sugars between 1999 and 2008 (11). The decreases we observed in soft drinks, juice and juice drinks, and grain-based desserts purchases, support this finding, as these foods have been identified as key sources of added sugar in the diets of US children (10). High-fat milk has also been identified as a key source of solid fats for children in the US (10, 27), and we found a substantial decrease in milk purchases among US households with preschool children between 2000 and 2011, which is consistent with previous works (10, 11).
+
+Others have noted differences by race in food store availability and food purchasing behaviors (28, 29). We found that Hispanic households had the smallest decrease in total calories purchased, total calories purchased from foods, and calories purchased from ‘other foods’ between 2000 and 2011. Lower access to food stores with barcoded products, such as chain super-markets (29), and greater proportional spending on fruits and vegetables among Hispanics (28), are a possible explanations for our finding, as foods without barcodes are not captured in the Homescan data. We also found that Hispanics purchased fewer total calories than non-Hispanic Whites and non-Hispanic Blacks for all years, which lends further support to this notion.
+
+Maternal education has been shown to be an important determinant of child diet in a number of studies (30–32). Similarly, we found significant relationships between our analogous measure of maternal education, female head of household education level, and total caloric purchases and purchases of soft drinks between 2000 and 2011. By education group, those with less than a high school diploma had a greater the decrease in total calories purchased (−311 kcal/d vs. −291 to −282 kcal/d), although the differences between groups were not significant. This is consistent with historical US dietary trends, which showed preschool children whose mothers had less than a high school diploma had a greater decrease in total caloric intake than those with more educated mothers between 1988–1994 and 2003–2008 (33).
+
+Our main findings by household income showed that low-income households (&lt;130% FPL) had the smallest decrease in calories purchased from beverages (−78 kcal/d vs. −105 to −103 kcal/d) between 2000 and 2011. By contrast, Slining and Popkin (2013), found that children from low-income households had a greater decrease in total energy between 2003 and 2010 than those from higher-income households (10). We observed that low-income households purchased fewer total calories than higher-income households for all years, whereas Slining and Popkin did not find a consistent hierarchical relationship between total energy intake and household income using US dietary studies from 2003 to 2010 (10). Our conflicting findings may be partly explained by differences in the current study and those cited. Whereas the current study examined household food/beverage purchases, those cited examined food/beverage intake. These studies also differed from the current study in sample age and years surveyed.
+
+Our study notably differs from many of those cited in that our analyses included household purchase data from the Nielsen Homescan panel. A limitation of these data is that individual intake data for household members, including foods consumed in and outside of the home, is not available, and thus we are limited to drawing inferences regarding only per capita purchases rather than intake. Moreover, measurement of food/beverage purchases doesn’t account for food not consumed due to spoilage or waste. However, estimates of consumer-level food waste across recent years have been relatively stable with only minor differences from 1997 to 2008 (34–36). Therefore, we believe that there is a strong correlation between changes in food/beverage purchases and changes in dietary intake in our analyses. Potentially, during the recession there might also have been less waste though there is no evidence of this. Lastly, while our analysis includes only consumer-packaged foods and beverages, these data may more representative for preschool children, who consume a larger proportion of total calories from store purchases (76%) than older children (65%) (37).
+
+Subject burden and lack of direct compensation for participants in the Homescan Panel may undermine the representativeness of the Homescan Panel sample, which is an additional limitation. Homescan participants must scan the barcodes of foods and beverages with Universal Product Codes, and provide additional details regarding the quantity, units, and pricing information (regular or promotional price) for all purchases throughout the participation period (20). Additionally, participants are not directly compensated for providing data, although participation points are awarded that can be redeemed for merchandise or enrollment in prize sweepstakes (20). Thus, the Homescan Panel may comprise highly motivated subjects with higher average educational attainment than a US nationally representative sample (38). Nonetheless, recent findings show that the demographic composition of Homescan households corresponds closely with that of the US population (38). Completeness of UPC scanning may pose an additional limitation. A comparison of reported expenditures among Homescan households and households in the Bureau of Labor Statistic’s Consumer Expenditure Survey found that while expenditures were generally similar, misreporting of scanner data increased as a function of household expenditures (21). Moreover, in order to minimize selection bias, our analyses controlled for key demographic variables, household composition, and market-level unemployment.
+
+Conclusion
+Our results, controlling for major economic and food/beverage price changes and other important variables (e.g., household income, demographics, household composition), show that kcal/d purchases from commercially packaged foods and beverages decreased significantly between 2000 and 2011 among US households with children ages 2–5 years. Relatively greater decreases occurred among beverages than foods. Decreases in calories purchased from milk, soft drinks, juice and juice drinks, and grain-based desserts were among the major changes, which points to fewer calories purchased from solid fats and added sugars. Differences by race, female head of household education, and household income were most pronounced for these foods, but trends were not consistent across SES subpopulation groups. Overall, households with preschoolers have shown major reductions in kcal/d/capita. Public health efforts in the past decade may have made contributed to this trend; further research is needed to determine the major reasons for this decline.
+
+We thank the Robert Wood Johnson Foundation and the National Institutes of Health for financial support. We also wish to thank Dr. Phil Bardsley for exceptional assistance with the data management and programming (or also Dr Donna Miles for assistance with data management and programming, Mr. Tom Swasey for graphics support.
+
+Funding sources: Funding for this study comes from the Robert Wood Johnson Foundation (Grant 67506, 68793 and 70017) and the National Institutes of Health (R01 HL104580 and CPC 5 R24 HD050924).
+
+Conflicts of Interest: All authors confirm that there are no conflicts of interest, real or perceived, with regard to sponsor(s), study design; data collection, data analysis, and interpretation of data; writing of the report; and the decision to submit the paper for publication.
+
+None of the authors have conflict of interests of any type with respect to this manuscript.
+
+Figure 1 Figure 1A. Adjusted calories purchased per capita from consumer packaged foods and beverages as a percent of 2000 value among households with children ages 2–5 years*
+
+Figure 1B. Adjusted calories purchased from consumer packaged foods and beverages for selected years among households with children ages 2–5 years*
+
+Figure 2 Figure 2A. Adjusted calories purchased per capita from selected consumer packaged beverages among households with children ages 2–5 years*
+
+Figure 2B. Adjusted calories purchased per capita from selected consumer packaged foods among households with children ages 2–5 years*
+
+Table 1 Distribution of head of household race/ethnicity, household income, and female head of household education, and mean caloric intake per capita by year among households with children ages 2–5 years for selected years
+
+Year	2000	2003	2007	2011	
+Number of households with children ages 2–5 Years	2,633	2,844	5,076	3,557	
+	&lt;-------------------mean ± standard error-----------------&gt;	
+Calories purchased per capita	1043 ± 7	1001 ± 7*	956 ± 5†	858 ± 5‡	
+	&lt;---------------------------------%------------------------------&gt;	
+Race/ethnicity, head of household					
+ Non-Hispanic White	72%	66%*	67%	68%	
+ Hispanic	16%	19%*	17%†	15%‡	
+ Non-Hispanic Black	11%	10%	10%	10%	
+ Other	1%	5%*	6%†	7%	
+Household income	
+ &lt;131% FPL	18%	18%	14%†	19%‡	
+ 131–185% FPL	15%	13%	15%	13%	
+ &gt;185% FPL	67%	68%	71%†	67%‡	
+Female head of household education					
+ Less than high school diploma	5%	6%	5%	5%	
+ High school graduate	64%	60%*	56%†	52%‡	
+ Bachelor’s degree or More	31%	34%*	39%†	43%‡	
+ Unemployment rate	4.0%	6.0%*	4.6%†	8.9%‡	
+* Value was significantly different from 2000 value, p&lt;0.001 (two-tailed Students t-test)
+
+† Value was significantly different from 2003 value, p&lt;0.001(two-tailed Students t-test)
+
+‡ Value was significantly different from 2007 value, p&lt;0.001 (two-tailed Students t-test)
+
+Table 2 Absolute and relative (as a percent of 2000 value, shown in parentheses) changes in calories purchased per capita between 2000 and 2011 for selected commercially packaged foods and beverages among households with children ages 2–5 years by head of household race/ethnicity, female head of household education, and household income as a percent of Federal Poverty Level (FPL)*
+
+	Race	Female
+head of household education	Household income, %FPL	
+
+	
+Non-Hispanic
+White	Non-Hispanic
+Black	Hispanic	&lt;High school
+diploma	High school
+graduate	College
+graduate	&lt;130% FPL	130–185% FPL	&gt;185% FPL	
+
+              Total beverage calories
+            	−102 (−51%)	−92 (−52%)	−100 (−51%)	−110 (−52%)	−95‡ (−48%)	−104 (−53%)	−78§ (−45%)	−105 (−52%)	−103 (−51%)	
+ Soft drinks	−28 (−62%)	−28 (−67%)	−24 (−60%)	−42‡ (−62%)	−31‡ (−61%)	−23 (−62%)	−20§ (−52%)	−30§ (−62%)	−28 (−63%)	
+ Juice and juice drinks	−24 (−51%)	−26 (−44%)	−22 (−45%)	−18‡ (−45%)	−21‡ (−46%)	−27 (−52%)	−18§ (−44%)	−21§ (−45%)	−26 (−51%)	
+ Milk	−41 (−52%)	−34† (−63%)	−41 (−54%)	−38 (−54%)	−36‡ (−50%)	−44 (−55%)	−36 (−50%)	−47§ (−56%)	−40 (−52%)	
+ Sweetened milk	1 (40%)	2 (361%)	1 (30%)	2 (106%)	1 (37%)	2 (63%)	2 (105%)	1 (31%)	2 (49%)	
+ Other beverage calories	−10 (−40%)	−6 (−29%)	−14 (−50%)	−14 (−47%)	−9 (−34%)	−11 (−45%)	−6§ (−31%)	−8 (−37%)	−11 (−42%)	
+
+              Total food calories
+            	−198 (−22%)	−204 (−25%)	−134† (−17%)	−201 (−22%)	−188 (−21%)	−189 (−22%)	−176 (−21%)	−193 (−22%)	−190 (−21%)	
+ Grain-based desserts	−24 (−26%)	−24 (−33%)	−19 (−24%)	−25 (−26%)	−23 (−25%)	−24 (−28%)	−15§ (−20%)	−22 (−26%)	−26 (−28%)	
+ Savory snacks	−18 (−19%)	−11 (−16%)	−14 (−18%)	−24 (−27%)	−17 (−19%)	−16 (−19%)	−15 (−19%)	19 (−22%)	17 (−19%)	
+ Ready-to-eat cereals	−2 (−5%)	−4 (−12%)	−4 (−11%)	0 (0%)	−5 (−12%)	−6 (−12%)	−5 (−12%)	−7 (−17%)	−5 (−11%)	
+ Sweet snacks &amp; candy	−14 (−27%)	−16 (−41%)	−6 (−16%)	−11 (−25%)	−11 (−23%)	−15 (−30%)	−13 (−29%)	−15 (−30%)	−13 (−26%)	
+ Processed meats	−4 (−12%)	−13† (−29%)	−5 (−16%)	−7 (−18%)	−6 (−16%)	−4 (−12%)	−4 (−12%)	−6 (−17%)	−5 (−14%)	
+ Other food calories	−126 (−21%)	−127 (−23%)	−82† (−15%)	−124 (−21%)	−120 (−20%)	−117 (−21%)	−20 (−52%)	−30 (−62%)	−28 (−63%)	
+
+              Total calories per day
+            	−299 (−27%)	−296 (−30%)	−233† (−24%)	−311 (−28%)	−282 (−26%)	−291 (−28%)	−256 (−26%)	−298 (−28%)	−291 (−27%)	
+* Models were adjusted for head of household race/ethnicity, household income, female head of household education, household composition, food prices, market, quarter and unemployment rate. Values shown were calculated using coefficients from the fitted model, which included the following interaction terms: 1) race/ethnicity * time; 2) household income * time; and 3) female head of household education * time. The post-estimation “margins” command and the “dydx” option in Stata (version 12) were used to obtain the change in calories purchased over the change in time (from 2000 to 2011).
+
+† Change from 2000 to 2011 was significant different from that of non-Hispanic Whites, p&lt;0.01
+
+‡ Change from 2000 to 2011 was significant different from that of households with female head of household education level less than a high school diploma, p&lt;0.01
+
+§ Change from 2000 to 2011 was significant different from that of households earning less than 130% FPL, p&lt;0.01
+
+Appendix Table 1 Distribution of head of household race/ethnicity, household income, and female head of household education, and mean caloric intake per capita by year among households with children ages 2–5 years
+
+Year	2000	2001	2002	2003	2004	2005	2006	2007	2008	2009	2010	2011	
+Number of households	2,633	2,702	3,021	2,844	2,584	3,436	4,922	5,076	4,397	3,892	3,689	3,557	
+	&lt;--------------------------------------------------------------------------mean ± standard error------------------------------------------------------------------------&gt;	
+Calories purchased per capita	1043±7	1023±7	1024±6	1001±7*	980±6	974±6	974±5	956±5†	915±5	919±6	896±6	858±5‡	
+	&lt;---------------------------------------------------------------------------------------%-------------------------------------------------------------------------------------&gt;	
+Race/ethnicity, head of household													
+ Non-Hispanic White	72%	68%	68%	66%*	65%	67%	66%	67%	67%	67%	67%	68%	
+ Hispanic	16%	18%	17%	19%*	18%	17%	17%	17%†	18%	17%	17%	15%	
+ Non-Hispanic Black	11%	11%	11%	10%	11%	10%	11%	10%	9%	9%	9%	10%	
+ Other	1%	3%	4%	5%*	6%	6%	6%	6%†	6%	7%	7%	7%	
+Household income													
+ &lt;131% FPL	18%	19%	20%	18%	17%	18%	15%	14%†	16%	18%	19%	19%‡	
+ 131–185% FPL	15%	16%	17%	13%*	13%	13%	14%	15%	13%	13%	12%	13%‡	
+ &gt;185% FPL	67%	65%	63%	68%	70%	70%	71%	71%†	70%	69%	69%	67%‡	
+Female head of household education													
+ Less than high school Diploma	5%	5%	5%	6%	4%	6%	6%	5%	4%	5%	4%	5%	
+ High school graduate	64%	62%	61%	60%*	61%	61%	60%	56%†	56%	55%	53%	52%‡	
+ Bachelor’s degree or more	31%	33%	33%	34%*	35%	34%	35%	39%†	40%	40%	43%	43%‡	
+Unemployment rate	4.0%	4.8%	5.8%	6.0%*	5.6%	5.1%	4.6%	4.6%†	5.8%	9.2%	9.6%	8.9%‡	
+* Value was significantly different from 2000 value, p&lt;0.01
+
+† Value was significantly different from 2003 value, p&lt;0.01
+
+‡ Value was significantly different from 2007 value, p&lt;0.01
+
+Appendix Table 2 Adjusted calories purchases per capita from selected commercially packaged foods and beverages among households with children ages 2–5 years*
+
+	2000	2001	2002	2003	2004	2005	2006	2007	2008	2009	2010	2011	
+	
+	
+Number of households	2,633	2,702	3,021	2,844	2,584	3,436	4,922	5,076	4,397	3,892	3,689	3,557	
+
+              Beverages
+            	
+ Soft drinks	44±1	43±1	41±0	41±0	37±1	35±1	32±1	27±1‡	25±0	21±1	19±1	17±1§	
+ Juice and juice drinks	49±1	46±1	44±0	43±0†	42±0	40±0	36±1	33±0‡	30±0	28±1	26±1	25±1§	
+ Milk	76±2	72±1	73±1	71±1	68±1	63±1	63±1	58±1‡	48±0	46±1	40±1	36±1§	
+ Sweetened milk	3±0	4±0	5±0	6±0†	6±0	6±0	5±0	5±0‡	4±0	4±0	5±0	4±0	
+ Other beverage calories	25±1	22±1	24±0	21±0†	20±0	18±0	19±1	19±1	19±0	18±1	18±1	15±1§	
+
+              Foods
+            	
+ Grain-based desserts	89±2	83±1	87±1	86±1	85±1	82±1	80±1	78±1‡	73±1	73±1	68±1	65±1§	
+ Savory snacks	87±2	98±1	97±1	92±1	85±1	80±1	78±1	78±1‡	75±1	72±1	72±1	70±1§	
+ Ready-to-eat cereals	42±1	42±1	42±0	42±0	41±0	41±1	41±1	40±1‡	40±0	39±1	39±1	37±1§	
+ Sweet snacks and Candy	49±2	44±2	50±1	47±1	48±1	45±1	40±1	41±1‡	39±1	36±1	37±1	36±1	
+ Processed meats	31±1	35±1	37±0	37±0	37±0	36±0	34±0	33±0‡	31±0	29±1	29±1	27±1§	
+ Other food calories	579±9	584±6	588±3	573±3	574±4	560±4	553±5	536±4‡	513±3	495±5	485±6	460±5§	
+* Models adjusted for head of household race/ethnicity, household income, female head of household education, household composition, food prices, market, quarter and unemployment rate
+
+† Value was significantly different from 2000 value, p&lt;0.01
+
+‡ Value was significantly different from 2003 value, p&lt;0.01
+
+§ Value was significantly different from 2007 value, p&lt;0.01
+
+Appendix Table 3 Adjusted per capita caloric intake from selected consumer-packaged foods and beverages by head of household race/ethnicity among households with children ages 2–5 years*
+
+Year	2000	2003	2007	2011	
+
+	
+Race	Non-
+Hispanic
+White	Non-
+Hispanic
+Black	Hispanic	Non-
+Hispanic
+White	Non-
+Hispanic
+Black	Hispanic	Non-
+Hispanic
+White	Non-
+Hispanic
+Black	Hispanic	Non-
+Hispanic
+White	Non-
+Hispanic
+Black	Hispanic	
+Number of households	1,999	244	309	2,002	303	399	3,867	405	472	2,615	313	352	
+
+              Beverages
+            	
+ Soft drinks	46±1	41±2	39±2	43±1	39±1	35±1	29±1‡	22±1‡	22±1‡	17±1‡	13±2§	16±2	
+ Juice and juice drinks	47±1	60±2	48±1	41±0†	58±1	45±1	31±1‡	45±1‡	33±1‡	23±1§	34±1‡	27±1§	
+ Milk	79±2	54±2	76±2	74±1	44±2	71±1	61±1‡	38±2	51±1‡	38±1§	20±2§	35±2§	
+Sweetened milk	3±0	0±1	3±1	6±0†	3±0	5±0	5±0	4±0	4±0	5±0	2±1	4±0	
+ Other beverage Calories	25±1	21±2	29±1	21±0	19±1	24±1	19±1	17±1	21±1	15±1	15±1	15±1§	
+
+              Foods
+            	
+ Grain-based desserts	93±2	75±3	76±3	91±1	73±2	72±2	82±1‡	67±2	64±2	69±1§	51±3§	58±2	
+ Savory snacks	91±2	70±3	78±3	95±1	76±2	85±2	82±1‡	64±2‡	66±2‡	73±1	59±2	64±2	
+ Ready-to-eat cereals	44±1	33±2	38±2	44±0	35±1	41±1	42±1	31±1	36±1	39±1	29±1	34±1	
+ Sweet snacks and candy	52±2	39±3	40±3	48±1	44±2	39±2	44±1	31±2‡	33±2	38±1	23±3	33±3	
+ Processed Meats	31±1	43±1	29±1	37±0†	45±1	34±1†	33±0	38±1‡	29±1‡	27±1§	30±1§	24±1	
+ Other food calories	594±10	549±14	529±12	585±4	535±9	537±8	548±4	503±9	483±8‡	468±5§	422±11§	447±11	
+* Models were adjusted for household income, female head of household education, household composition, food prices, market, quarter and unemployment rate
+
+† Value was significantly different from 2000 value, p&lt;0.01
+
+‡ Value was significantly different from 2003 value, p&lt;0.01
+
+§ Value was significantly different from 2007 value, p&lt;0.01
+
+Appendix Table 4 Adjusted per capita caloric intake from selected consumer packaged foods and beverages by female head of household education among households with children ages 2–5 years*
+
+
+              Year
+            	2000	2003	2007	2011	
+
+	
+
+              Female head of
+              
+
+              household
+              
+
+              education
+            	&lt;High
+school
+diploma	High
+school
+graduate	College
+graduate	&lt;High
+school
+diploma	High
+school
+graduate	College
+graduate	&lt;High
+school
+diploma	High
+school
+graduate	College
+graduate	&lt;High
+school
+diploma	High
+school
+graduate	College
+graduate	
+Number of households	82	1,344	1,207	100	1,378	1,366	123	2,287	2,666	86	1,415	2,056	
+
+              Beverages
+            	
+ Soft drinks	67±3	50±1	38±1	53±2†	49±1	34±1	37±2‡	32±1‡	23±1‡	26±3	19±1§	14±1§	
+ Juice and juice drinks	40±2	45±1	52±1	42±2	40±0	45±0†	38±2	32±1‡	33±1‡	22±2§	24±1§	25±1§	
+ Milk	70±4	72±2	80±2	74±3	69±1	74±1	65±3	56±1‡	59±1‡	32±3§	36±1§	36±1§	
+ Sweetened milk	2±1	3±0	3±0	5±1	6±0†	6±0†	5±1	5±0	5±0	5±1	4±0	5±0	
+ Other beverage Calories	30±3	26±1	24±1	24±2	22±1	20±1	23±2	20±1	18±1	16±2	17±1	13±1§	
+
+              Foods
+            	
+ Grain-based desserts	94±5	90±2	87±2	86±4	88±1	85±1	84±3	81±1	74±1	69±4	67±1§	63±1§	
+ Savory snacks	91±4	88±2	85±2	89±3	94±1	90±1	82±3	78±1‡	77±1‡	67±4	71±1	69±1	
+ Ready-to-eat cereals	37±3	41±1	44±1	39±2	40±1	44±1	41±2	39±1	41±1	37±2	36±1	39±1	
+ Sweet snacks and candy	47±5	48±2	50±2	47±4	47±1	46±1	45±4	42±1	41±1	35±5	37±2	35±1	
+ Processed Meats	39±2	35±1	28±1	46±2	40±0†	34±0†	40±2	35±1‡	30±1‡	32±2	29±1§	25±1§	
+ Other food calories	601±21	590±10	567±10	610±16	580±4	564±4	582±15	541±5‡	528±5‡	477±19§	470±7§	450±6‡	
+* Models were adjusted for head of household race/ethnicity, household income, household composition, food prices, market, quarter and unemployment rate
+
+† Value was significantly different from 2000 value, p&lt;0.01
+
+‡ Value was significantly different from 2003 value, p&lt;0.01
+
+§ Value was significantly different from 2007 value, p&lt;0.01
+
+Appendix Table 5 Adjusted per capita calories purchased from selected consumer-packaged foods and beverages by household income as a percent of Federal Poverty Level (FPL) among households with children ages 2–5 years*
+
+Year	2000	2003	2007	2011	
+
+	
+Household income, %FPL	&lt;130%	130–185%	&gt;185%	&lt;130%	130–185%	&gt;185%	&lt;130%	130–185%	&gt;185%	&lt;130%	130–185%	&gt;185%	
+Number of households	248	311	2,074	405	379	2,060	557	736	3,783	571	466	2,520	
+
+              Beverages
+            	
+ Soft drinks	38 ± 2	48 ± 2	44 ± 1	41 ± 1	41 ± 1	41 ± 1	29 ± 1‡	28 ± 1‡	27 ± 1‡	18 ± 1§	18 ± 1§	16 ± 1§	
+ Juice and juice drinks	41 ± 2	47 ± 1	51 ± 1	39 ± 1	42 ± 1	44 ± 0†	29 ± 1‡	31 ± 1‡	34 ± 1‡	23 ± 1§	25 ± 1§	25 ± 1§	
+ Milk	73 ± 2	83 ± 2	75 ± 2	68 ± 1	69 ± 1†	72 ± 1	54 ± 1‡	58 ± 1‡	59 ± 1‡	37 ± 1§	36 ± 2§	36 ± 1§	
+ Sweetened milk	2 ± 1	2 ± 1	3 ± 0	4 ± 0	5 ± 0†	6 ± 0†	3 ± 0	4 ± 0	5 ± 0	3 ± 0	3 ± 0	5 ± 0	
+ Other beverage calories	21 ± 2	23 ± 2	26 ± 1	20 ± 1	21 ± 1	21 ± 0	17 ± 1	19 ± 1	20 ± 1	14 ± 1	14 ± 1	15 ± 1§	
+
+              Foods
+            	
+ Grain-based desserts	78 ± 3	86 ± 3	91 ± 2	79 ± 2	83 ± 2	88 ± 1	71 ± 2	77 ± 1	79 ± 1‡	62 ± 2	64 ± 2§	66 ± 1§	
+ Savory snacks	77 ± 3	85 ± 3	88 ± 2	83 ± 2	90 ± 2	93 ± 1	71 ± 2‡	72 ± 1‡	80 ± 1‡	62 ± 2	66 ± 2	72 ± 1§	
+ Ready-to-eat cereals	40 ± 2	43 ± 2	43 ± 2	39 ± 1	42 ± 1	42 ± 1	37 ± 1	39 ± 1	39 ± 1	35 ± 1	36 ± 1	36 ± 1	
+ Sweet snacks and candy	47 ± 3	49 ± 3	50 ± 2	42 ± 2	44 ± 2	48 ± 1	34 ± 2	40 ± 2	43 ± 1	33 ± 2	34 ± 2	36 ± 1	
+ Processed meats	31 ± 1	33 ± 1	31 ± 1	40 ± 1†	38 ± 1	37 ± 0†	32 ± 1‡	33 ± 1‡	33 ± 0‡	28 ± 1§	28 ± 1§	27 ± 1§	
+ Other food calories	552 ± 14	581 ± 12	583 ± 9	561 ± 8	570 ± 7	575 ± 3	517 ± 7‡	525 ± 7‡	541 ± 4‡	438 ± 9§	463 ± 9§	464 ± 6§	
+* Models were adjusted for head of household race/ethnicity, female head of household education, household composition, food prices, market, quarter and unemployment rate
+
+† Value was significantly different from 2000 value, p&lt;0.01
+
+‡ Value was significantly different from 2003 value, p&lt;0.01
+
+§ Value was significantly different from 2007 value, p&lt;0.01
+
+Appendix Table 6 Mean change in calories purchased per capita between 2000 and 2011 (± standard error) for selected commercially packaged foods and beverages among households with children ages 2–5 years by head of household race/ethnicity, female head of household education, and household income as a percent of Federal Poverty Level (FPL)*
+
+	Race	Female
+head of household education	Household income, %FPL	
+
+	
+Non-Hispanic
+White	Non-Hispanic
+Black	Hispanic	&lt;High school
+diploma	High school
+graduate	College
+graduate	&lt;130% FPL	130–185%FPL	&gt;185% FPL	
+
+              Total beverage calories
+            	−102 ± −1	−92 ± −1	−100 ± 0	−110 ± 0	−95 ± −1‡	−104 ± −1	−78 ± −2§	−105 ± −1	−103 ± −1	
+ Soft drinks	−28 ± −1	−28 ± 0	−24 ± 0	−42 ± 0‡	−31 ± 0‡	−23 ± −1	−20 ± −1§	−30 ± −1§	−28 ± −1	
+ Juice and juice drinks	−24 ± 0	−26 ± 0	−22 ± 0	−18 ± 0‡	−21 ± 0‡	−27 ± 0	−18 ± −1§	−21 ± 0§	−26 ± 0	
+ Milk	−41 ± −1	−34 ± 0†	−41 ± 0	−38 ± 0	−36 ± −1‡	−44 ± −1	−36 ± −1	−47 ± −1§	−40 ± −1	
+ Sweetened milk	1 ± 0	2 ± 0	1 ± 0	2 ± 0	1 ± 0	2 ± 0	2 ± 0	1 ± 0	2 ± 0	
+ Other beverage calories	−10 ± −1	−6 ± 0	−14 ± 0	−14 ± 0	−9 ± 0	−11 ± 0	−6 ± −1§	−8 ± 0	−11 ± 0	
+
+              Total food calories
+            	−198 ± −6	−204 ± −4	−134 ± −2†	−201 ± −2	−188 ± −4	−189 ± −6	−176 ± −7	−193 ± −5	−190 ± −5	
+ Grain-based desserts	−24 ± −1	−24 ± −1	−19 ± 0	−25 ± 0	−23 ± −1	−24 ± −1	−15 ± −1§	−22 ± −1	−26 ± −1	
+ Savory snacks	−18 ± −1	−11 ± −1	−14 ± 0	−24 ± 0	−17 ± −1	−16 ± −1	−15 ± −1	−19 ± −1	−17 ± −1	
+ Ready-to-eat cereals	−2 ± 0	−4 ± 0	−4 ± 0	0 ± 0	−5 ± 0	−6 ± −1	−5 ± −1	−7 ± 0	−5 ± 0	
+ Sweet snacks &amp; candy	−14 ± −1	−16 ± −1	−6 ± 0	−11 ± 0	−11 ± −1	−15 ± −1	−13 ± −1	−15 ± −1	−13 ± −1	
+ Processed meats	−4 ± 0	−13 ± 0†	−5 ± 0	−7 ± 0	−6 ± 0	−4 ± 0	−4 ± −1	−6 ± 0	−5 ± 0	
+ Other food calories	−126 ± −4	−127 ± −3	−82 ± −2†	−124 ± −1	−120 ± −3	−117 ± −4	−20 ± −1	−30 ± −1	−28 ± −1	
+
+              Total calories per day
+            	−299 ± −7	−296 ± −4	−233 ± −2†	−311 ± −2	−282 ± −5	−291 ± −6	−256 ± −8	−298 ± −6	−291 ± −6	
+* Models were adjusted for head of household race/ethnicity, household income, female head of household education, household composition, food prices, market, quarter and unemployment rate. Values shown were calculated using coefficients from the fitted model, which included the following interaction terms: 1) race/ethnicity * time; 2) household income * time; and 3) female head of household education * time. The post-estimation “margins” command and the “dydx” option in Stata (version 12) were used to obtain the change in calories purchased over the change in time (from 2000 to 2011).
+
+† Change from 2000 to 2011 was significant different from that of non-Hispanic Whites, p&lt;0.01
+
+‡ Change from 2000 to 2011 was significant different from that of households with female head of household education level less than a high school diploma, p&lt;0.01
+
+§ Change from 2000 to 2011 was significant different from that of households earning less than 130% FPL, p&lt;0.01
+
+
+   1 
+            Ogden C  
+            Carroll M  
+            Kit B  
+            Flegal K  
+           Prevalence of obesity and trends in body mass index among us children and adolescents, 1999–2010 JAMA 2012 307 5 483 90 22253364 
+2 
+            Pan L  
+            Blanck HM  
+            Sherry B  
+            Dalenius K  
+            Grummer-Strawn LM  
+           Trends in the prevalence of extreme obesity among US preschool-aged children living in low-income families, 1998–2010 JAMA [Journal] 2012 308 24 2563 5 
+3 
+            Slining MM  
+            Popkin BM  
+           Trends in intakes and sources of solid fats and added sugars among U.S. children and adolescents: 1994–2010 Pediatr Obes 2013 Apr 2 
+4 
+            Birch L  
+            Savage JS  
+            Ventura A  
+           Influences on the Development of Children’s Eating Behaviours: From Infancy to Adolescence Canadian journal of dietetic practice and research: a publication of Dietitians of Canada = Revue canadienne de la pratique et de la recherche en dietetique: une publication des Dietetistes du Canada 2007 68 1 s1 s56 
+5 
+            Birch LL  
+           Development of food acceptance patterns in the first years of life The Proceedings of the Nutrition Society 1998 11 57 4 617 24 10096125 
+6 
+            Birch LL  
+           Development of food preferences Annual review of nutrition 1999 19 41 62 
+7 
+            Birch LL  
+            Fisher JO  
+           Development of eating behaviors among children and adolescents Pediatrics 1998 3 101 3 Pt 2 539 49 12224660 
+8 
+            Birch LL  
+            Johnson SL  
+            Fisher JA  
+           Research in Review. Children’s Eating: The Development of Food-Acceptance Patterns Young Children 1995 50 2 71 8 
+9 
+            Ford CN  
+            Slining MM  
+            Popkin BM  
+           Trends in Dietary Intake among US 2- to 6-Year-Old Children, 1989–2008 Journal of the Academy of Nutrition and Dietetics 2013 113 1 35 42 e6 23260722 
+10 
+            Slining M  
+            Popkin B  
+           Trends in intakes and sources of solid fats and added sugars among US children and adolescents: 1994–2010 Pediatric obesity 2013 
+11 
+            Welsh JA  
+            Sharma AJ  
+            Grellinger L  
+            Vos MB  
+           Consumption of added sugars is decreasing in the United States The American journal of clinical nutrition 2011 9 94 3 726 34 21753067 
+12 
+            Kit BK  
+            Carroll MD  
+            Ogden CL  
+           Low-fat milk consumption among children and adolescents in the United States, 2007–2008 NCHS data brief 2011 9 75 1 8 
+13 
+            Hiza HA  
+            Casavale KO  
+            Guenther PM  
+            Davis CA  
+           Diet quality of Americans differs by age, sex, race/ethnicity, income, and education level J Acad Nutr Diet 2013 2 113 2 297 306 23168270 
+14 
+            Johnson RKPCVWMQ  
+           Associations Between the Milk Mothers Drink and the Milk Consumed by Their School-Aged Children Family Economics &amp; Nutrition Review [Article] 2001 3 13 1 27 
+15 
+            Dennison BA  
+            Erb TA  
+            Jenkins PL  
+           Predictors of Dietary Milk Fat Intake by Preschool Children Preventive medicine 2001 12 33 6 536 42 11716648 
+16 
+            Popkin BM  
+            Siega-Riz AM  
+            Haines PS  
+           A Comparison of Dietary Trends among Racial and Socioeconomic Groups in the United States New England Journal of Medicine 1996 335 10 716 20 8703172 
+17 
+            Andrews M  
+           USDA Economic Research Service-More Americans Relied on Food Assistance During Recession 2013 
+18 
+            Bagliano FC  
+            Morana C  
+           The Great Recession: US dynamics and spillovers to the world economy Journal of Banking &amp; Finance 2012 36 1 1 13 
+19 The Nielsen Co Nielsen retail measures 2013 7 19 2013 Available from: http://en-us.nielsen.com/  
+20 
+            Einav L  
+            Leibtag E  
+            Nevo A  
+           On the accuracy of Nielsen Homescan data USDA: Economic Research Service 2008 
+21 
+            Zhen C  
+            Taylor JL  
+            Muth MK  
+            Leibtag E  
+           Understanding differences in self-reported expenditures between household scanner data and diary survey data: a comparison of Homescan and consumer expenditure survey Applied Economic Perspectives and Policy 2009 31 3 470 92 
+22 
+            Slining MM  
+            Ng SW  
+            Popkin BM  
+           Food Companies’ Calorie-Reduction Pledges to Improve U.S. Diet American journal of preventive medicine 2013 44 2 174 84 23332336 
+23 Local Area Unemployment Statistics [database on the Internet] Bureau of Labor Statistics 2012 [cited June 1, 2012]. Available from: http://www.bls.gov/lau/  
+24 
+            Dave DM  
+            Kelly IR  
+           How does the business cycle affect eating habits? Social Science &amp; Medicine 2012 74 2 254 62 22137244 
+25 
+            Miller RG  
+           Simultaneous statistical inference 1966 
+26 StataCorp Stata Statistical Software: Release 12 College Station, TX StataCorp LP 2011 
+27 
+            Reedy J  
+            Krebs-Smith SM  
+           Dietary Sources of Energy, Solid Fats, and Added Sugars among Children and Adolescents in the United States Journal of the American Dietetic Association 2010 10 110 10 1477 84 20869486 
+28 
+            Cullen K  
+            Baranowski T  
+            Watson K  
+            Nicklas T  
+            Fisher J  
+            O’Donnell S  
+             
+           Food Category Purchases Vary by Household Education and Race/Ethnicity: Results from Grocery Receipts Journal of the American Dietetic Association 2007 10 107 10 1747 52 17904935 
+29 
+            Powell LM  
+            Slater S  
+            Mirtcheva D  
+            Bao Y  
+            Chaloupka FJ  
+           Food store availability and neighborhood characteristics in the United States Preventive medicine 2007 3 44 3 189 95 16997358 
+30 
+            Crawford PB  
+            Obarzanek E  
+            Schreiber GB  
+            Barrier P  
+            Goldman S  
+            Frederick MM  
+             
+           The effects of race, household income, and parental education on nutrient intakes of 9- and 10-year-old girls NHLBI Growth and Health Study Annals of epidemiology 1995 9 5 5 360 8 8653208 
+31 
+            Northstone K  
+            Emmett P  
+           Multivariate analysis of diet in children at four and seven years of age and associations with socio-demographic characteristics European journal of clinical nutrition 2005 4 20 online 59 6 751 60 15841093 
+32 
+            Hendricks K  
+            Briefel R  
+            Novak T  
+            Ziegler P  
+           Maternal and Child Characteristics Associated with Infant and Toddler Feeding Practices Journal of the American Dietetic Association 2006 1 106 1, Supplement 135 48 
+33 
+            Kant AK  
+            Graubard BI  
+           Family Income and Education Were Related with 30-Year Time Trends in Dietary and Meal Behaviors of American Children and Adolescents Journal of Nutrition [Article] 2013 143 5 690 700 
+34 
+            Kantor LS  
+            Lipton K  
+            Manchester A  
+            Oliveira V  
+           Estimating and addressing America’s food losses Food Review 1997 20 1 2 12 
+35 
+            Buzby JC  
+            Hyman J  
+           Total and per capita value of food loss in the United States Food Policy 2012 10 37 5 561 70 
+36 
+            Muth MK  
+           Consumer-level food loss estimates and their use in the ERS loss-adjusted food availability data DIANE Publishing 2011 
+37 
+            Poti JM  
+            Popkin BM  
+           Trends in energy intake among US children by eating location and food source, 1977–2006 Journal of the American Dietetic Association 2011 111 8 1156 64 21802561 
+38 
+            Lusk JL  
+            Brooks K  
+           Who Participates in Household Scanning Panels? American Journal of Agricultural Economics 2011 93 1 226 40 
+

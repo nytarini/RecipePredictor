@@ -1,0 +1,545 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   780727022115Environ IntEnviron IntEnvironment international0160-41201873-675030553202636952810.1016/j.envint.2018.12.004NIHMS1009841ArticleOne-Carbon Metabolism Nutrient Intake and the Association between Body Mass Index and Urinary Arsenic Metabolites in Adults in the Chihuahua Cohort Bommarito Paige A. 1Xu Xiaofan 2González-Horta Carmen 3Sánchez-Ramirez Blanca 3Ballinas-Casarrubias Lourdes 3Luna René Santos 4Román Pérez Susana 4Eugenio Hernández Ávila Juan 4García-Vargas Gonzalo G. 5Del Razo Luz M. 6Stýblo Mirek 27Mendez Michelle A. 28Fry Rebecca C. 17*1 Environmental Science and Engineering, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.2 Department of Nutrition, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.3 Facultad de Ciencias Químicas, Universidad Autónoma de Chihuahua, Chihuahua, MX.4 Instituto Nacional de Salud Pública, Morelos, MX5 Facultad de Medicina, Universidad Juárez del Estado de Durango, Gómez Palacio, Durango, MX.6 Departamento de Toxicología, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional, Ciudad de México, MX.7 Curriculum in Toxicology, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA8 Department of Environmental and Occupational Health, University of Pittsburgh, Pittsburgh, PA, USA.* Corresponding Author: Ph: 919-843-6864, Mail: Rosenau Hall, 135 Dauer Drive, Chapel Hill, NC 275994 2 2019 13 12 2018 2 2019 01 2 2020 123 292 300 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background:
+Exposure to inorganic arsenic (iAs) via drinking water is a serious global health threat. Various factors influence susceptibility to iAs-associated health outcomes, including differences in iAs metabolism. Previous studies have shown that obesity is associated with iAs metabolism. It has been hypothesized that this association can be explained by confounding from nutritional factors involved in one-carbon metabolism, such as folate or other B vitamins, whose intake may differ across BMI categories and is known be associated with iAs metabolism. However, no studies have explored whether this association is confounded by nutritional factors.
+
+Methods:
+We investigated the relationship between body mass index (BMI) and the distribution of urinary arsenic species in a cross-sectional cohort of 1,166 adults living in Chihuahua, Mexico from 2008 – 2013. Nutrient intake related to one-carbon metabolism, including folate, vitamin B2, and vitamin B12, was assessed using a food frequency questionnaire developed for Mexican populations. Multivariable linear regression was used to estimate the association between BMI and the distribution of urinary arsenic metabolites. Effect modification by drinking water iAs level and sex was also examined.
+
+Results:
+After adjusting for potential confounders, including age, educational attainment, smoking, alcohol consumption, seafood consumption, water iAs, and sex, BMI was negatively associated with the proportion of urinary inorganic arsenic (%U-iAs) and urinary monomethylated arsenic (%U-MMAs) and positively associated with urinary dimethylated arsenic (%U-DMAs). This relationship was not influenced by additional adjustment for folate, vitamin B2, or vitamin B12 intake. Additionally, there was significant effect modification by both drinking water iAs level and sex.
+
+Conclusions:
+This study provides further evidence for an association between BMI and arsenic metabolism. However, contrary to previous hypotheses, these results suggest that this association is not confounded by the intake of micronutrients involved in one-carbon metabolism.
+
+Inorganic ArsenicArsenic MetabolismBody Mass IndexOne-Carbon Metabolism
+   1. Introduction
+Exposure to inorganic arsenic (iAs) remains a persistent public health problem in communities around the world [1]. While iAs causes cancers of the skin, bladder, liver, and lung, it has also been linked to a range of other adverse health outcomes [2]. Specifically, chronic iAs exposure has been associated with cardiometabolic outcomes, such as diabetes, dyslipidemia and hypertension, immunotoxic effects, and adverse birth outcomes [3–7].
+
+Recent research has focused on the role of iAs metabolism in determining individual susceptibility to iAs-associated outcomes [8, 9]. iAs is metabolized in a series of alternating methylation and reduction steps, carried out by the enzyme arsenic (+3 oxidation state) methyltransferase (AS3MT) and using S-adenosyl-methionine (SAM) as a methyl donor [10]. The availability of SAM depends, in part, on nutritional factors, including folate and other B vitamins that are involved in one-carbon metabolism, the biochemical pathway responsible for synthesizing SAM [11]. In population studies, three major arsenicals are measured in the urine as indicators of iAs metabolism, namely, iAs and its methylated metabolites, monomethylated arsenic (MMAs) and dimethylated arsenic (DMAs). Interestingly, the distributions of these metabolites in urine have been associated with risk of adverse outcomes. There is a wealth of evidence demonstrating that higher proportions of urinary MMAs (%MMAs) and lower proportions of urinary DMAs (%DMAs), which is believed to indicate less efficient iAs metabolism, are associated with an increased risk of skin lesions [12–15], cancers [16–21], and cardiovascular disease [22, 23]. However, in contrast to most iAs-associated health outcomes, lower %MMAs and higher %DMAs, believed to indicate more efficient iAs metabolism, are associated with increased risk of cardiometabolic disorders, including diabetes [24–27]. Given these observations, understanding how factors influence iAs metabolism is critical to our understanding of individual susceptibility to iAs-associated diseases.
+
+There are various factors that are known to affect iAs metabolism. These include genetic factors, such as AS3MT polymorphisms, along with sociodemographic factors, including sex, tobacco use, and age [28]. Studies from cohorts originating in Bangladesh, Mexico, and the United States have also reported a relationship between body mass index (BMI) and the distribution of urinary arsenic metabolites [29–32]. Specifically, these studies have found a positive association of BMI with %DMAs and a negative association with %MMAs [29–32].
+
+While these relationships are consistent across cohorts, the mechanisms underlying the association between BMI and the excretion of urinary arsenic metabolites are unknown. One potential explanation is that dietary differences associated with BMI may result in differential nutrient intake, where individuals with lower BMI may have deficiencies in nutrients involved in one-carbon metabolism and individuals with higher BMI may have greater intake of these nutrients [29]. We evaluated this hypothesis using the Chihuahua cohort, where we investigated (1) the consistency of the relationship between BMI and the distribution of urinary arsenic metabolites and (2) whether this relationship may be confounded by differences in the intake of one-carbon metabolism nutrients. In addition, we examined modification by both sex and level of iAs in drinking water. To our knowledge, this study is the first to examine the role of one-carbon metabolism nutrients in the relationship between BMI and the profile of urinary arsenic metabolites.
+
+2. Methods
+2.1 Study Population
+Individuals in this study were enrolled in the Chihuahua cohort, a cross-sectional study of adults (≥ 18 years) living in Chihuahua, Mexico, an area of endemic iAs exposure via drinking water. This cohort has been described in depth, elsewhere [25, 33]. Briefly, between 2008 – 2013, 1,166 adults were enrolled into the cohort to study the relationship between iAs exposure and metabolic disease. Adults were eligible to participate in the study if they (1) lived in the study area for at least 5 uninterrupted years, (2) were not pregnant, (3) did not self-report kidney or urinary tract infections, and (4) did not have the potential for occupational exposure to iAs. All participants provided signed informed consent and all study procedures involving human subjects were approved by institutional review boards at the University of North Carolina at Chapel Hill (UNC) and Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional, Mexico (Cinvestav-IPN). The participation rate among those who were invited to participate in the study was 67%.
+
+Information on residency, occupation, drinking water sources, smoking, seafood consumption, alcohol consumption, and medical history were collected at enrollment using an interviewer-administered questionnaire. Household drinking water samples were also collected at this time. Participants were then transported to the Universidad Autónoma de Chihuahua to undergo a medical examination. During the medical examination, participant height and weight was measured to the nearest 0.1 cm and 0.1 kg, respectively. This information was used to calculate BMI. Spot urine samples were also collected at the medical exam and stored at −80° C until analysis.
+
+2.2 Diabetes Diagnosis
+During the medical exam, participants were given an oral glucose tolerance test. Participants were asked to fast overnight prior to attending the medical exam and a fasting venous blood draw was collected before administering the oral glucose tolerance test. A second blood draw was collected two hours after a 75-g glucose dose. Plasma from both the fasting and 2-hour blood samples was stored at −80°C until analysis. A Prestige 24i Chemistry Analyzer (Tokyo Boeki Medisys Inc., Tokyo, Japan) was used to determine fasting plasma glucose (FPG) and two-hour plasma glucose (2HPG) concentrations. Individuals were classified as having type II diabetes (T2DM) if they had FPG ≥ 126 mg/dL, 2HPG ≥ 200 mg/dL, or if they self-reported diabetes diagnosis and/or diabetes medication use [34].
+
+Drinking Water and Urinary Arsenic Measurements
+Both spot urine and drinking water iAs was analyzed using hydride generation-atomic absorption spectrometry coupled with a cryotrap (HG-CT-AAS) in order to quantify and speciate arsenic. HG-CT-AAS is capable of measuring iAs and its metabolites, namely MMAs and DMAs [33, 35]. However, this method cannot detect complex organic arsenic species (e.g., arsenocholine, arsenobetaine or arsenosugars) that are commonly found in seafood, but are not metabolites of iAs in humans. A certified standard reference material, Arsenic Species in Frozen Human Urine (SRM 2669; National Institute of Standards and Technology) was used to ensure accuracy. The limit of detection (LOD) for drinking water iAs and urinary arsenic species was 0.01 µg As/L. Concentrations of water and urinary arsenic species below the LOD (1.9% for water iAs, and 1.6% for urinary iAs) were imputed as LOD/2. Total urinary arsenic (U-tAs) was defined as the sum of iAs, MMAs, and DMAs. Distribution of urinary arsenic metabolites was characterized using the proportions of U-tAs represented by iAs (%U-iAs), MMAs (%U-MMAs), and DMAs (%U-DMAs).
+
+2.3 Dietary Nutrient Intake Estimates
+A food frequency questionnaire (FFQ) was administered by trained personnel during the subject interviews. The Sistema de Evaluación de Habitos Nutricionales y Consumo de Nutrimentos (SNUT) is a FFQ developed in Instituto Nacional de Salud Pública [36–38]. This semi-quantitative questionnaire surveys the intake of 116 food items during the past 12 months and includes a variety of common/local foods that account for the greatest inter-individual variation in nutrient intake. An extensive food composition table, recently updated to capture changes such as fortification of wheat flour with folate, was applied to estimate energy and a wide array of nutrient intakes. The use of vitamin supplements was also recorded. Total folate intake in dietary folate equivalents (DFE) was estimated based on the food composition table, taking fortification of wheat and corn flour into account. SNUT has been validated using 24-hour recall and biomarker measurements and used in population studies carried out by scientists from Instituto Nacional De Salud Pública in Mexico [36–41].
+
+2.4 Statistical Analysis
+All statistical analyses were performed in SAS 9. (Cary, NC), unless otherwise noted. Linear regression models were used to estimate the association between BMI and the distribution of urinary arsenic species and bootstrapping, with 500 replicates, was used to estimate the 95% confidence intervals (95% CI). The crude relationship between BMI and the distribution of urinary arsenic metabolites was assessed using BMI as both a categorical and continuous measure. In categorical analyses, BMI was categorized according to World Health Organization (WHO) recommendations (underweight/normal &lt; 25, overweight 25 – 29.9, obese 30 – 34.9, and severely obese ≥ 35) [42]. Underweight and normal BMI categories were combined due to a small number of participants in the underweight category (N = 14). In continuous analyses, mean differences (95% CI) were produced for an interquartile range (IQR) increase in BMI to examine the change in arsenic metabolism associated with an increase from the 25th percentile to the 75th percentile of BMI.
+
+In order to examine whether the association between BMI and the distribution of urinary arsenic species was confounded by dietary nutrients, two sets of models were run. The first set of models adjusted for sex (male/female), age (years), smoking status (yes/no), drinking water iAs level (above vs. below 50 ppb), alcohol consumption (yes/no), recent seafood consumption (yes/no), educational attainment (illiterate/elementary/middle school/high school+). The second set of models additionally adjusted for folate intake, vitamin B2 intake, and vitamin B12 intake. For this second set of models, total caloric intake was also included as a potential confounder. Folate intake was measured as dietary folate equivalents (DFE) in order to account for differences in bioavailability between food folate and food supplemented with folic acid [43]. Folate intake, vitamin B2 intake, and vitamin B12 intake measurements were log-transformed to approximate a normal distribution. Based on a functional form assessment, age was represented with a quadratic term. Log-transformed folate intake, log-transformed vitamin B2 intake and log-transformed vitamin B12 intake were represented with linear terms. Given the high degree of correlation between vitamin intake (rs = 0.5 – 0.9), models were assessed for issues related to collinearity and none were observed (data not shown). Several sensitivity analyses were performed, where these models were reproduced excluding (1) people with T2DM and (2) people reporting recent seafood consumption to determine whether individuals with T2DM or who recently consumed seafood influenced the association between BMI and the distribution of urinary arsenic metabolites.
+
+Modification by drinking water iAs and sex were examined because both factors have previously been shown to modify a range of other iAs-associated health effects [44–47]. For each variable, modification was assessed by using a likelihood ratio test (LRT) to test whether an interaction model fit the data better than a main effects model. Modification was considered significant if LRT p &lt; 0.1. To aid with interpretability, interaction models were only produced using BMI as a continuous measure.
+
+Given that the distributions of %U-iAs, %U-MMAs, and %U-DMAs are skewed and do not log-normalize (Supplemental Figure 1), linear regression may poorly estimate these outcomes. As a sensitivity analysis, we used Dirichlet regression, which estimates multiple dependent variables that all sum to one, to model all metabolites as a function of BMI [48]. Dirichlet regression was carried out in Stata/SE 15 with the &lt;dirifit&gt; package.
+
+3. Results
+This study is composed of 1,166 adults (18 – 90 years) enrolled in the Chihuahua cohort. The median BMI was 28.4 kg/m2 and ranged from 16.0 – 56.8 kg/m2. Participants were mostly females (67.4%) and had less than a middle school education (69.3%). Only 28.1%, 39.6% and 24.2% of the participants were smokers, consumed alcohol, or had consumed seafood in the week before urine collection (Table 1). The median drinking water iAs level was 48.3 ppb and ranged from LOD to 419.8 ppb. The median (range) levels of %U-iAs, %U-MMAs, and %U-DMAs were 8.9% (0.04 – 66.4), 14.1% (1.1 – 78.4), and 76.6% (20.3 – 98.0), respectively (Table 1). Sufficient folate, vitamin B2, and vitamin B12 intake was defined according to guidelines from the National Institutes of Health Office of Dietary Supplements [49–51]. Interestingly, many individuals did not have sufficient intake of folate (≥ 400 μg/day; 19.9%), vitamin B2 (≥ 1.3/1.1 mg/day in men/women; 41.7%), or vitamin B12 (≥ 2.4 μg/day; 43.9%) (Table 2).
+
+Median %U-iAs and %U-MMAs levels were higher among participants who had a lower BMI, were younger, males, smokers, and those who consume alcohol (Table 2). Median %U-iAs levels were also higher among those with higher educational attainment. On the other hand, levels of %U-DMAs were higher among participants that had a higher BMI, were older, females, non-smokers, and those who did not consume alcohol (Table 2). There were no differences in the distribution of %U-iAs, %U-MMAs, or %U-DMAs based on drinking water iAs levels, recent seafood consumption, total folate intake, vitamin B2 intake, or vitamin B12 intake.
+
+Due to missing data on covariates, there are 1149 individuals included in crude models and 1051 individuals in our fully-adjusted models (Model 2). In crude analyses, BMI categories were associated with the distribution of urinary arsenic metabolites (Figure 1). Specifically, higher BMI categories were associated with higher %U-DMAs and lower %U-iAs and %U-MMAs. Likewise, an IQR-change in BMI was associated with lower %U-iAs (Mean Difference: −1.43, 95% CI: −1.82, −0.−1.03) and %U-MMAs (Mean Difference: −1.99, 95% CI: −2.44, −1.52), and higher %U-DMAs (Mean Difference: 3.42, 95% CI: 2.80, 4.09) (Table 3).
+
+After adjusting for age, educational attainment, smoking status, alcohol consumption, seafood consumption, drinking water iAs level, and sex, there was some attenuation in the association between BMI and the distribution of urinary arsenic metabolites. Higher BMI categories remained associated with lower %U-iAs and %U-MMAs and higher %U-DMAs (Table 4). An IQR-increase in BMI was also associated with lower %U-iAs (Mean Difference: −1.10, 95% CI: −1.59, −0.69) and %U-MMAs (Mean Difference: −1.41, 95% CI: −1.86, −0.98) and higher %U-DMAs (Mean Difference: 2.51, 95% CI: 1.84, 3.20). Adding folate intake, vitamin B2 intake, and vitamin B12 intake into the model did not substantially change the estimates for either categorical or continuous analyses (Table 4). Similar results were obtained when the analysis was restricted to study participants without T2DM or participants without recent seafood consumption (Supplemental Tables 1–2). Importantly, estimates produced using Dirichlet regression to simultaneously model the proportions of urinary arsenic metabolites were consistent with results obtained from our linear regression models (Supplemental Table 3).
+
+There was significant effect modification on the additive scale by both drinking water iAs level and sex (Table 5). Among those with high drinking water iAs (&gt; 50 ppb), an IQR-change in BMI was associated with differences in %U-iAs, %U-MMAs, and %U-DMAs that were larger in magnitude than those with low drinking water iAs (≤ 50 ppb). For instance, an IQR-change in BMI was associated with an average %U-DMAs that was 1.80 (0.84, 2.73) percentage points higher among those with low drinking water iAs, and an average %U-DMAs that was 3.55 (2.66, 4.53) percentage points higher among those with high drinking water iAs. Similarly, sex significantly modified the association between BMI and urinary arsenic metabolites, where the association appeared stronger among males compared to females.
+
+4. Discussion
+Using a cohort of adults living in Chihuahua, Mexico, we examined the relationship between BMI and the distribution of urinary arsenic metabolites. Specifically, higher BMI was associated with lower %U-iAs and %U-MMAs and higher %U-DMAs. We did not find evidence that this association is confounded by dietary intake of micronutrients involved in SAM synthesis, namely folate, vitamin B2, and vitamin B12. In addition, we found that the relationship between BMI and the distribution of urinary arsenic metabolites was modified by both drinking water iAs levels and sex.
+
+Results of this study are consistent with findings of previous studies, which have reported associations between BMI and higher %U-DMAs and lower %U-MMAs [29–32]. The mechanisms underlying the association between BMI and the distribution of urinary arsenic metabolites are still unknown. Previous studies have suggested that individuals with lower BMI are more likely to be malnourished, and therefore, are more likely to have vitamin deficiencies [30], including folate and vitamin B12 deficiencies. Dietary intakes of folate and vitamins B2 and B12 have also been shown to impact the profiles of iAs and/or its metabolites in urine and blood [52–57], probably by affecting the availability of SAM for iAs metabolism [10]. Therefore, it is possible that the association between BMI and the excretion of urinary iAs metabolites is confounded by dietary intake of these nutrients [58]. Thus, the association between BMI and urinary iAs metabolism may be driven by differential nutrient intake across BMI categories [29]. In our crude assessment of the distribution of urinary arsenic species across demographic characteristics, we did not observe any differences according the intake of folate, vitamin B2, or vitamin B12. Likewise, additional adjustment of our models for folate intake, vitamin B2 intake, and vitamin B12 intake did not change our estimates for the association between BMI and arsenic metabolites, suggesting that these nutrients do not confound the association between BMI and urinary measures of arsenic metabolism. Given that we did not observe the expected association between folate, vitamin B2 and B12 intake and the distribution of urinary arsenic species, we may be limited in our ability to detect confounding by these variables. However, our findings are consistent with results of other studies that have examined whether nutrient intake can explain the relationship between iAs metabolism and other iAs-associated outcomes, such as metabolic syndrome and incident diabetes [24, 59, 60].
+
+There are several other possible explanations for the association between BMI and the excretion of urinary arsenic metabolites. Obesity could affect iAs metabolism through various mechanisms, including (1) altering the expression of AS3MT or (2) by increasing oxidative stress in the liver. However, neither of these mechanisms are likely to explain the results found in this study. For instance, there is evidence that high fat diets can change the expression of As3mt in mice [61]. However, it was reported that a high fat diet reduced expression of As3mt, which would be expected to reduce the efficiency of iAs metabolism and, therefore, would not explain the results in the present study. Similarly, obesity is known to increase oxidative stress in the liver, but the resulting tissue damage may be expected to reduce the capacity of the liver to effectively metabolize iAs [62]. Another possible explanation for this association is that obesity is related to reductions in kidney function that impact the excretion of metabolites into the urine. For instance, obesity is known to be related to reductions of the estimated glomerular filtration rate (eGFR) [63], which has also been associated with increases in %U-DMAs and decreases in %U-iAs in several human populations [64, 65]. Thus, kidney function could be a potential mediator of the association between BMI and urinary indicators of iAs metabolism. Lastly, given the cross-sectional nature of this study, reverse causality cannot be ruled out. Findings from epidemiologic studies provide evidence of a prospective association between higher %U-DMAs and other metabolic outcomes, including diabetes, metabolic syndrome, and waist circumference [24, 59, 60]. Further, a recent study comparing metabolic phenotypes of wild-type and As3mt-knockout (KO) C57BL/6 mice showed that accumulation of iAs in tissues of KO mice is associated with increased adiposity, providing evidence that iAs metabolism may also influence obesity [66]. However, these results are contrary to our study, which links higher BMI to lower %U-iAs.
+
+The association between BMI and iAs metabolism was modified by both sex and drinking water iAs exposure [44–47]. These factors have been routinely shown to be modifiers within the context of iAs-associated health outcomes. Previous research on this cohort has demonstrated interactions between AS3MT variants and the level of iAs in drinking water with respect to iAs metabolism [46]. In this study, we observed greater differences in the mean %U-iAs, %U-MMAs, and %U-DMAs by BMI among individuals with higher levels of iAs in their drinking water. This interaction may take place at a molecular level, where it has been shown that the concentration of iAs in drinking water is associated with hypomethylation of the AS3MT promoter region, suggesting that iAs exposure may stimulate AS3MT expression and, ultimately, iAs metabolism [67]. On the other hand, the mean difference in %U-MMAs and %U-DMAs associated with BMI was smaller among women, who have typically been shown to have more efficient iAs metabolism [68]. The observed interaction between BMI and sex may be related to differences in how well BMI reflects body fat between the sexes [69]. However, it has also been shown that males are often more susceptible to iAs-associated health outcomes – the same may be true of factors that influence iAs metabolism [70].
+
+One limitation of the present study is the use of dietary intake measures that were based on SNUT, a FFQ designed for Mexican populations [36–38]. While these measures are validated indicators of nutrient intake, there are potentially important sources of measurement error that may impact these results. For example, seasonal differences in dietary consumption may contribute to inter-individual differences in blood folate and other B vitamins at the time of study recruitment that would not be accounted for in SNUT [71]. In addition, because SNUT measures the intake of individual food items, rather than dishes, we may be underestimating micronutrient intake because the consumption of seasonings and cooking oils is not captured [71]. However, the most important sources of folate and other B vitamins are meat-based products, rather than spices and cooking oils [49–51]. Lastly, BMI is known to affect the metabolism and bioavailability of folate and other vitamins [72]. Therefore, the accuracy with which micronutrient intake approximates internal levels of folate, vitamin B2 and vitamin B12 may depend, in part, on BMI. The role that folate, vitamin B2, and vitamin B12 play in the association between BMI and the distribution of arsenic metabolites should be further investigated using biomarkers of folate and vitamins B2 and 12.
+
+While the wide range of BMI present in this study is a strength, the Chihuahua cohort has very few individuals in the underweight BMI category. It is possible that, in populations with lower BMI and higher rates of malnourishment, micronutrient intake could play a larger role in the association between BMI and urinary iAs metabolism. Given that we combined the underweight and normal categories due to the small number of individuals in the underweight category, we may be underpowered to detect this effect. In addition, iAs and its metabolites in urine were analyzed by HG-CT-AAS, a method that cannot detect arsenobetaine and other complex organic arsenicals [35]. Thus, measures of arsenobetaine were not available to validate self-reported seafood consumption. Lastly, this study has a cross-sectional design and reverse causality cannot be ruled out [24, 59, 60]. Future studies should be conducted to examine how changes in BMI and nutritional intake over time relate to changes in the distribution of arsenic metabolites.
+
+5. Conclusions
+In summary, we identified a significant association between BMI and distribution of urinary arsenic metabolites in adults exposed to iAs via drinking water. These findings are consistent with those reported previously in cohorts located in the U.S., Mexico, and Bangladesh [29, 30, 32]. However, our study was the first to investigate potential confounding by intake of micronutrients involved in one-carbon metabolism, namely folate and vitamins B2 and B12. Differences in iAs metabolism are known to be associated with a range of adverse outcomes in iAs-exposed populations, such as skin lesions [12–15], atherosclerosis [22, 23], cancers [16–21], and diabetes [24–27]. Thus, understanding factors that contribute to differences in iAs metabolism is critical for risk assessment of iAs-associated diseases. Because some iAs-associated diseases, such as diabetes, are also associated with obesity, this relationship warrants further investigation. Additionally, we recommend that BMI should be carefully considered and/or adjusted for in future studies of iAs metabolism or iAs-associated disease as a potential confounder or modifier.
+
+Supplementary Material
+Supplemental Tables  Acknowledgements
+This work was supported by grants from the National Institutes of Health (R01ES015326, 3R01ES015326-03S1, P30ES010126, R01ES019315 and T32ES007018) and the UNC Superfund Research Program (P42E5005948).
+
+The authors declare no conflicts of interest.
+
+Figure 1. Distribution of urinary arsenic metabolites by BMI category.
+(a) Triplot indicates that an increase in BMI is associated with a shift in urinary arsenic species, (b) a closer view on the distribution of urinary arsenic metabolites in the Chihuahua Cohort, and (c) compositional means of urinary arsenic species according to BMI category. Specifically, there is an increase in %U-DMAs and a decrease in %U-iAs and %U-MMAs with increasing BMI category. BMI categories are defined according to WHO recommendations (underweight/normal &lt; 25, overweight &lt; 30, obese &lt; 35, and severely obese ≥ 35) [42].
+
+Table 1. Demographics and urinary arsenic species in adults living Chihuahua, Mexico (N=1,166)
+
+Variable	Range	Median (IQR) or N (%)*	Missing values n (%)**	
+Body Mass Index, kg/m2	16.0 – 56.8	28.4 (7.4)	9 (0.8)	
+Age, years	18.0 – 90.0	45.0 (25.0)	6 (0.5)	
+Sex			6 (0.5)	
+Male		377 (32.5)		
+Female		783 (67.4)		
+Education Level			24 (2.1)	
+Illiterate		312 (27.3)		
+Elementary School		480 (42.0)		
+Middle School		291 (25.5)		
+High School+		59 (5.2)		
+Current Smoker			27 (2.3)	
+Yes		320 (28.1)		
+No		819 (71.9)		
+Alcohol Consumption			4 (0.3)	
+Yes		460 (39.6)		
+No		702 (60.4)		
+Recent Seafood Consumption			15 (1.3)	
+Yes		278 (24.2)		
+No		873 (75.9)		
+Drinking Water iAs, ppb	LOD (&lt;0.01) – 419.8	48.3 (54.3)	60 (5.1)	
+%U-iAs	0.04 – 66.4	8.9 (5.8)	12 (1.0)	
+%U-MMAs	1.1 – 78.4	14.1 (6.8)	12 (1.0)	
+%U-DMAs	20.3 – 98.0	76.6 (10.8)	12 (1.0)	
+Folate Intake (DFE), μg/day	11.8 – 2830.8	596.1 (504.7)	13 (1.1)	
+Vitamin B2 Intake, mg/day	0.1 – 8.8	1.3 (0.8)	13 (1.1)	
+Vitamin B12 Intake, ug/day	0.1 – 21.5	2.7 (2.2)	13 (1.1)	
+* Percent of non-missing observations;
+
+** Percent of all observations.
+
+Table 2. Distribution of urinary arsenic metabolites species by demographic characteristic.
+
+	N (%)^	%iAs
+Median (IQR)	p*	%MMAs
+Median (IQR)	p*	%DMAs
+Median (IQR)	p*	
+Overall Cohort	1051 (100)	8.9 (5.9)		14.0 (6.8)		76.8 (10.9)		
+BMI, kg/m2								
+Underweight/Normal (&lt; 25)	263 (25.0)	10.3 (7.0)		16.8 (6.8)		72.8 (11.4)		
+Overweight (25 – 29.9)	372 (35.4)	8.7 (6.1)		14.4 (6.1)		77.0 (11.2)		
+Obese (30 – 34.9)	272 (25.9)	8.5 (5.4)		12.6 (5.6)		78.5 (8.9)		
+Severely Obese (≥ 35)	144 (13.7)	8.0 (4.6)	&lt;0.01	11.4 (4.6)	&lt;0.01	80.2 (10.1)	&lt;0.01	
+Age, years								
+ &lt; 35	295 (28.0)	10.7 (7.4)		14.6 (6.8)		74.2 (11.7)		
+ 35 – 64	611 (58.1)	8.5 (5.3)		13.1 (6.4)		78.4 (10.2)		
+≥ 65	145 (13.8)	8.2 (5.4)	&lt;0.01	15.7 (6.6)	&lt;0.01	75.7 (9.7)	&lt;0.01	
+Gender								
+Male	333 (31.7)	10.0 (6.1)		16.4 (6.9)		73.4 (10.9)		
+Female	718 (68.3)	8.4 (5.6)	&lt;0.01	12.9 (6.0)	&lt;0.01	78.3 (9.9)	&lt;0.01	
+Smoking Status								
+No	755 (71.8)	8.5 (5.8)		13.5 (6.4)		77.8 (10.9)		
+Yes	296 (28.2)	10.1 (6.8)	&lt;0.01	15.2 (6.8)	&lt;0.01	74.2 (11.4)	&lt;0.01	
+Alcohol Consumption								
+No	624 (59.4)	8.5 (5.8)		13.6 (6.5)		77.6 (10.0)		
+Yes	427 (40.6)	9.7 (6.1)	&lt;0.01	14.6 (6.7)	0.002	75.5 (11.7)	&lt;0.01	
+Education								
+Illiterate	280 (26.7)	8.2 (5.7)		14.2 (7.2)		77.0 (11.3)		
+Elementary School	446 (42.4)	8.8 (5.9)		13.8 (6.4)		77.1 (10.2)		
+Middle School	272 (25.9)	9.5 (6.0)		13.6 (6.4)		76.5 (10.9)		
+High School or Greater	53 (5.0)	10.4 (5.7)	0.02	15.4 (7.1)	0.4	74.8 (11.1)	0.4	
+Drinking water iAs, ppb								
+≤ 50	565 (53.8)	9.0 (6.5)		13.8 (6.6)		76.7 (10.4)		
+&gt; 50	486 (46.2)	8.7 (5.2)	0.5	14.2 (6.9)	0.1	77.0 (11.4)	0.9	
+Recent Seafood Consumption								
+No	791 (75.3)	8.9 (5.8)		14.0 (6.7)		76.6 (10.8)		
+Yes	260 (24.7)	8.8 (6.1)	0.6	13.8 (6.3)	0.4	77.2 (10.8)	0.7	
+Folate Intake (DFE), mg/day								
+Sufficient Intake (≥ 400)	842 (80.1)	8.8 (5.9)		13.9 (6.5)		77.0 (10.9)		
+Insufficient Intake (&lt; 400)	209 (19.9)	9.3 (5.5)	0.4	14.4 (7.1)	0.3	76.2 (10.7)	0.2	
+Total Vitamin B2 Intake, mg/day								
+Sufficient Intake (≥1.3/1.1 in men/women)	613 (58.3)	8.9 (5.9)		13.9 (6.3)		77.3 (10.7)		
+Insufficient Intake (&lt;1.3/1.1 in men/women)	438 (41.7)	8.9 (5.9)	0.4	14.1 (7.1)	0.5	76.2 (11.1)	0.3	
+Total Vitamin B12 Intake, μg/day								
+Sufficient Intake (≥ 2.4)	590 (56.1)	9.0 (6.0)		14.1 (6.5)		76.8 (11.1)		
+Insufficient Intake (&lt; 2.4)	461 (43.9)	8.6 (5.7)	0.5	13.8 (6.8)	0.3	76.8 (10.8)	0.3	
+* P-values for Kruskal-Wallis Test;
+
+^ Includes N = 1051 participants that have no missing data on key covariates of interest
+
+Table 3. Crude mean difference (95% CI) for the relationship between BMI categories or an IQR-increase in BMI and urinary arsenic metabolites.
+
+Mean Difference (95% CI) in Urinary Arsenic Species	
+ 	 	%U-iAs	 	%U-MMAs	 	%U-DMAs	
+ 	N	Mean 
+(95% CI)	Mean
+ Difference 
+(95% CI)	 	Mean 
+(95% CI)	Mean
+ Difference 
+(95% CI)	 	Mean 
+(95% CI)	Mean
+ Difference
+ (95% CI)	
+Underweight/
+Normal BMI
+	285	11.5
+(10.7, 12.3)	0.0 (ref)	 	16.8
+(16.1, 17.4)	0.0 (ref)	 	71.7
+(70.6, 72.8)	0.0 (ref)	
+Overweight 
+BMI
+
+	412	9.94
+(9.36, 10.6)	−1.61
+(−2.55, −0.59)	 	14.9
+(14.4, 15.4)	−1.91
+(−2.77, −1.05)	 	75.2
+(74.3, 76.0)	3.52
+(2.22, 4.90)	
+Obese BMI
+	294	8.98
+(8.49, 9.47)	−2.57
+(−3.48, −1.63)	 	13.3
+(12.9, 13.8)	−3.43
+(−4.21, −2.64)	 	77.7
+(76.9, 78.5)	6.00 
+(4.72, 7.27)	
+Severely 
+Obese BMI
+	158	8.36
+(7.67, 9.01)	−3.19
+(−4.23, −2.15)	 	12.6
+(11.6, 13.8)	−4.21
+(−5.33, −2.94)	 	79.1
+(77.8, 80.2)	7.40
+(5.68, 9.09)	
+
+              
+            	
+IQR* Δ in BMI	1149	 	−1.43
+(−1.82, −1.03)	 	 	−1.99
+(−2.44, −1.52)	 	 	3.42
+(2,80, 4.09)	
+* IQR = 7.4 kg/m2
+
+Table 4. Adjusted mean difference for the relationship between BMI categories or an IQR- increase in BMI and urinary arsenic metabolites.
+
+ 	 	 	Mean difference (95% CI) in urinary arsenic species	
+ 	N	 	%U-iAs	 	%U-MMAs	 	%U-DMAs	
+
+              ^
+              Model 1
+            	 	 	 	 	 	 	 	
+
+              Underweight/
+              
+
+              Normal BMI
+            	264	 	0.0 (ref)	 	0.0 (ref)	 	0.0 (ref)	
+Overweight
+
+BMI	375	 	−0.73 (−1.78, 0.33)	 	−1.29 (−2.17, −0.48)	 	2.02 (0.64, 3.40)	
+
+              Obese BMI
+            	276	 	−1.57 (−2.52, −0.65)	 	−2.39 (−3.52, −1.66)	 	3.96 (2.64, 5.32)	
+Severely
+
+Obese BMI	144	 	−2.48 (−3.67, −1.46)	 	−2.88 (−4.18, −1.53)	 	5.37 (3.63, 7.24)	
+
+              
+            	
+IQR* Δ in BMI	1059	 	−1.10 (−1.59, −0.69)	 	−1.41 (−1.86, −0.98)	 	2.51 (1.84, 3.20)	
+
+              
+            	
+
+              
+                #
+              
+              Model 2
+            	 	 	 	 	 	 	 	
+
+              Underweight/
+              
+
+              Normal BMI
+            	263	 	Ref (0.0)	 	Ref (0.0)	 	Ref (0.0)	
+Overweight
+
+BMI	372	 	−0.76 (−1.80, 0.32)	 	−1.36 (−2.24, −0.54)	 	2.12 (0.75, 3.44)	
+
+              Obese BMI
+            	272	 	−1.66 (−2.71, −0.67)	 	−2.53 (−3.41, −1.75)	 	4.19 (2.84, 5.60)	
+Severely
+
+Obese BMI	144	 	−2.48 (−3.65, −1.45)	 	−2.95 (−4.24, −1.57)	 	5.43 (3.60, 7.25)	
+IQR* Δ in BMI	1051	 	−1.12 (−1.60, −0.67)	 	−1.45 (−1.90, −1.00)	 	2.57 (1.87, 3.30)	
+* IQR = 7.4 kg/m2
+
+^ Model 1 adjusts for age, educational attainment, smoking, alcohol consumption, seafood consumption, water iAs, and sex.
+
+# Model 2 adjusts for age, educational attainment, smoking, alcohol consumption, seafood consumption, water iAs, sex, total calorie intake, folate intake, vitamin B2 intake, and vitamin B12 intake.
+
+Table 5. Modification of association between an IQR* increase in BMI and iAs metabolism by water iAs and sex.
+
+ 	 	Mean difference (95% CI) in urinary arsenic species	
+
+              
+            	
+Modifier	N	%U-iAs	pa	%U-MMAs	pa	%U-DMAs	pa	
+
+              ^
+              Water iAs
+            	 	 	 	 	 	 	 	
+Low Water iAs 
+(≤ 50 ppb)	565	−0.71 (−1.24, −0.15),	0.01	−1.09 (−1.73, −0.33)	0.05	1.80 (0.84, 2.73)	&lt;0.01	
+ 	 	 	 	 	
+High Water iAs
+ (&gt; 50 ppb)	486	−1.64 (−2.41, −1.03)	−1.90 (−2.48, −1.36)	3.55 (2.66, 4.53)	
+ 	 	 	 	 	 	 	 	
+
+              
+                #
+              
+              Sex
+            	 	 	 	 	 	 	 	
+Male	333	−1.25 (−1.98, −0.50)	0.14	−2.33 (−3.08, −1.75)	0.02	3.58 (2.54, 4.82)	0.03	
+ 	 	 	 	 	
+Female	718	−1.08 (−1.58, −0.53)	−1.16 (−1.69, −0.62)	2.24 (1.39, 3.06)	
+* IQR = 7.4 kg/m2
+
+a p-values correspond to a likelihood ratio test against a main effects model. P-values are rounded up to the nearest significant digit.
+
+^ Mean difference adjusted for age, educational attainment, smoking, alcohol consumption, seafood consumption, total calorie intake, folate intake, vitamin B2 intake, vitamin B12 intake and sex.
+
+# Mean difference adjusted for age, educational attainment, smoking, alcohol consumption, seafood consumption, total calorie intake, folate intake, vitamin B2 intake, vitamin B12 intake and water iAs.
+
+
+   References
+1. Naujokas MF , Anderson B , Ahsan H , Aposhian HV , Graziano JH , Thompson C , Suk WA : The Broad Scope of Health Effects from Chronic Arsenic Exposure: Update on a Worldwide Public Health Problem. 
+Environmental health perspectives 
+2013 , 121 (3 ):295 –302 .23458756 
+2. IARC : Some drinking-water disinfectants and contaminants, including arsenic. 
+IARC monographs on the evaluation of carcinogenic risks to humans 
+2004 , 84 :1 –477 .15645577 
+3. Gomez-Caminero A , Howe PD , Hughes M , Kenyon E , Lewis D , Moore M , Aitio A , Becking GC , Ng J : Arsenic and arsenic compounds 
+2001 .
+4. Quansah R , Armah FA , Essumang DK , Luginaah I , Clarke E , Marfoh K , Cobbina SJ , Nketiah-Amponsah E , Namujju PB , Obiri S 
+: Association of arsenic with adverse pregnancy outcomes/infant mortality: a systematic review and meta-analysis. 
+Environ Health Perspect 
+2015 , 123 (5 ):412 –421 .25626053 
+5. Kuo CC , Moon KA , Wang SL , Silbergeld E , Navas-Acien A : The Association of Arsenic Metabolism with Cancer, Cardiovascular Disease, and Diabetes: A Systematic Review of the Epidemiological Evidence. 
+Environ Health Perspect 
+2017 , 125 (8 ):087001 .28796632 
+6. Farzan SF , Li Z , Korrick SA , Spiegelman D , Enelow R , Nadeau K , Baker E , Karagas MR : Infant Infections and Respiratory Symptoms in Relation to in Utero Arsenic Exposure in a U.S. Cohort. 
+Environ Health Perspect 
+2016 , 124 (6 ):840 –847 .26359651 
+7. Farzan SF , Korrick S , Li Z , Enelow R , Gandolfi AJ , Madan J , Nadeau K , Karagas MR : In utero arsenic exposure and infant infection in a United States cohort: a prospective study. 
+Environmental research 
+2013 , 126 :24 –30 .23769261 
+8. Tseng CH : Arsenic methylation, urinary arsenic metabolites and human diseases: current perspective. 
+Journal of environmental science and health Part C, Environmental carcinogenesis &amp; ecotoxicology reviews 
+2007 , 25 (1 ):1 –22 .
+9. Pierce BL , Tong L , Argos M , Gao J , Farzana J , Roy S , Paul-Brutus R , Rahaman R , Rakibuz-Zaman M , Parvez F 
+: Arsenic metabolism efficiency has a causal role in arsenic toxicity: Mendelian randomization and gene-environment interaction. 
+International journal of epidemiology 
+2013 , 42 (6 ):1862 –1871 .24536095 
+10. Thomas DJ , Li J , Waters SB , Xing W , Adair BM , Drobna Z , Devesa V , Styblo M : Arsenic (+3 oxidation state) methyltransferase and the methylation of arsenicals. 
+Experimental biology and medicine (Maywood, NJ) 
+2007 , 232 (1 ):3 –13 .
+11. Hall MN , Gamble MV : Nutritional Manipulation of One-Carbon Metabolism: Effects on Arsenic Methylation and Toxicity. 
+Journal of Toxicology 
+2012 , 2012 :595307 .22523489 
+12. Zhang Q , Li Y , Liu J , Wang D , Zheng Q , Sun G : Differences of urinary arsenic metabolites and methylation capacity between individuals with and without skin lesions in Inner Mongolia, Northern China. 
+International journal of environmental research and public health 
+2014 , 11 (7 ):7319 –7332 .25046631 
+13. Ahsan H , Chen Y , Kibriya MG , Slavkovich V , Parvez F , Jasmine F , Gamble MV , Graziano JH : Arsenic metabolism, genetic susceptibility, and risk of premalignant skin lesions in Bangladesh. 
+Cancer epidemiology, biomarkers &amp; prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology 
+2007 , 16 (6 ):1270 –1278 .
+14. Lindberg AL , Rahman M , Persson LA , Vahter M : The risk of arsenic induced skin lesions in Bangladeshi men and women is affected by arsenic metabolism and the age at first exposure. 
+Toxicol Appl Pharmacol 
+2008 , 230 (1 ):9 –16 .18336856 
+15. Wen J , Wen W , Li L , Liu H : Methylation capacity of arsenic and skin lesions in smelter plant workers. 
+Environmental toxicology and pharmacology 
+2012 , 34 (2 ):624 –630 .22885843 
+16. Steinmaus C , Yuan Y , Kalman D , Rey OA , Skibola CF , Dauphine D , Basu A , Porter KE , Hubbard A , Bates MN 
+: Individual differences in arsenic metabolism and lung cancer in a case-control study in Cordoba, Argentina. 
+Toxicol Appl Pharmacol 
+2010 , 247 (2 ):138 –145 .20600216 
+17. Melak D , Ferreccio C , Kalman D , Parra R , Acevedo J , Perez L , Cortes S , Smith AH , Yuan Y , Liaw J 
+: Arsenic methylation and lung and bladder cancer in a case-control study in northern Chile. 
+Toxicol Appl Pharmacol 
+2014 , 274 (2 ):225 –231 .24296302 
+18. Steinmaus C , Bates MN , Yuan Y , Kalman D , Atallah R , Rey OA , Biggs ML , Hopenhayn C , Moore LE , Hoang BK 
+: Arsenic methylation and bladder cancer risk in case-control studies in Argentina and the United States. 
+Journal of occupational and environmental medicine 
+2006 , 48 (5 ):478 –488 .16688004 
+19. Chen YC , Guo YL , Su HJ , Hsueh YM , Smith TJ , Ryan LM , Lee MS , Chao SC , Lee JY , Christiani DC : Arsenic methylation and skin cancer risk in southwestern Taiwan. 
+Journal of occupational and environmental medicine 
+2003 , 45 (3 ):241 –248 .12661181 
+20. Chen YC , Su HJ , Guo YL , Hsueh YM , Smith TJ , Ryan LM , Lee MS , Christiani DC : Arsenic methylation and bladder cancer risk in Taiwan. 
+Cancer causes &amp; control : CCC 
+2003 , 14 (4 ):303 –310 .12846360 
+21. Yu RC , Hsu KH , Chen CJ , Froines JR : Arsenic methylation capacity and skin cancer. 
+Cancer epidemiology, biomarkers &amp; prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology 
+2000 , 9 (11 ):1259 –1262 .
+22. Chen Y , Wu F , Graziano JH , Parvez F , Liu M , Paul RR , Shaheen I , Sarwar G , Ahmed A , Islam T 
+: Arsenic exposure from drinking water, arsenic methylation capacity, and carotid intima-media thickness in Bangladesh. 
+Am J Epidemiol 
+2013 , 178 (3 ):372 –381 .23788675 
+23. Huang YL , Hsueh YM , Huang YK , Yip PK , Yang MH , Chen CJ : Urinary arsenic methylation capability and carotid atherosclerosis risk in subjects living in arsenicosis-hyperendemic areas in southwestern Taiwan. 
+The Science of the total environment 
+2009 , 407 (8 ):2608 –2614 .19187952 
+24. Kuo CC , Howard BV , Umans JG , Gribble MO , Best LG , Francesconi KA , Goessler W , Lee E , Guallar E , Navas-Acien A : Arsenic Exposure, Arsenic Metabolism, and Incident Diabetes in the Strong Heart Study. 
+Diabetes care 
+2015 , 38 (4 ):620 –627 .25583752 
+25. Mendez MA , Gonzalez-Horta C , Sanchez-Ramirez B , Ballinas-Casarrubias L , Ceron RH , Morales DV , Terrazas FA , Ishida MC , Gutierrez-Torres DS , Saunders RJ 
+: Chronic Exposure to Arsenic and Markers of Cardiometabolic Risk: A Cross-Sectional Study in Chihuahua, Mexico. 
+Environ Health Perspect 
+2016 , 124 (1 ):104 –111 .26068977 
+26. Grau-Perez M , Kuo CC , Spratlen M , Thayer KA , Mendez MA , Hamman RF , Dabelea D , Adgate JL , Knowler WC , Bell RA 
+: The Association of Arsenic Exposure and Metabolism With Type 1 and Type 2 Diabetes in Youth: The SEARCH Case-Control Study. 
+Diabetes care 
+2017 , 40 (1 ):46 –53 .27810988 
+27. Nizam S , Kato M , Yatsuya H , Khalequzzaman M , Ohnuma S , Naito H , Nakajima T : Differences in urinary arsenic metabolites between diabetic and non-diabetic subjects in Bangladesh. 
+International journal of environmental research and public health 
+2013 , 10 (3 ):1006 –1019 .23481591 
+28. Shen H , Niu Q , Xu M , Rui D , Xu S , Feng G , Ding Y , Li S , Jing M : Factors Affecting Arsenic Methylation in Arsenic-Exposed Humans: A Systematic Review and Meta-Analysis. 
+International journal of environmental research and public health 
+2016 , 13 (2 ):205 .26861378 
+29. Gomez-Rubio P , Roberge J , Arendell L , Harris RB , O’Rourke MK , Chen Z , Cantu-Soto E , Meza-Montenegro MM , Billheimer D , Lu Z 
+: Association between body mass index and arsenic methylation efficiency in adult women from southwest U.S. and northwest Mexico. 
+Toxicol Appl Pharmacol 
+2011 , 252 (2 ):176 –182 .21320519 
+30. Gribble MO , Crainiceanu CM , Howard BV , Umans JG , Francesconi KA , Goessler W , Zhang Y , Silbergeld EK , Guallar E , Navas-Acien A : Body composition and arsenic metabolism: a cross-sectional analysis in the Strong Heart Study. 
+Environmental health : a global access science source 
+2013 , 12 :107 .24321145 
+31. Hudgens EE , Drobna Z , He B , Le XC , Styblo M , Rogers J , Thomas DJ : Biological and behavioral factors modify urinary arsenic metabolic profiles in a U.S. population. 
+Environmental Health 
+2016 , 15 :62 .27230915 
+32. Jansen RJ , Argos M , Tong L , Li J , Rakibuz-Zaman M , Islam MT , Slavkovich V , Ahmed A , Navas-Acien A , Parvez F 
+: Determinants and Consequences of Arsenic Metabolism Efficiency among 4,794 Individuals: Demographics, Lifestyle, Genetics, and Toxicity. 
+Cancer epidemiology, biomarkers &amp; prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology 
+2016 , 25 (2 ):381 –390 .
+33. Currier JM , Ishida MC , Gonzalez-Horta C , Sanchez-Ramirez B , Ballinas-Casarrubias L , Gutierrez-Torres DS , Ceron RH , Morales DV , Terrazas FA , Del Razo LM 
+: Associations between arsenic species in exfoliated urothelial cells and prevalence of diabetes among residents of Chihuahua, Mexico. 
+Environ Health Perspect 
+2014 , 122 (10 ):1088 –1094 .25000461 
+34. Federation WID : Definition and Diagnosis of Diabetes Mellitus and Intermediate Hyperglycaemia: Report of a WHO/IDF Consultation  In. Geneva : World Health Organization ; 2006 .
+35. Hernandez-Zavala A , Matousek T , Drobna Z , Paul DS , Walton F , Adair BM , Jiri D , Thomas DJ , Styblo M : Speciation analysis of arsenic in biological matrices by automated hydride generation-cryotrapping-atomic absorption spectrometry with multiple microflame quartz tube atomizer (multiatomizer). 
+J Anal At Spectrom 
+2008 , 23 :342 –351 .18677417 
+36. Hernandez-Avila M , Romieu I , Parra S , Hernandez-Avila J , Madrigal H , Willett W : Validity and reproducibility of a food frequency questionnaire to assess dietary intake of women living in Mexico City. 
+Salud publica de Mexico 
+1998 , 40 (2 ):133 –140 .9617194 
+37. Romieu I , Hernandez-Avila M , Rivera JA , Ruel MT , Parra S : Dietary studies in countries experiencing a health transition: Mexico and Central America. 
+The American journal of clinical nutrition 
+1997 , 65 (4 Suppl ):1159S –1165S .9094914 
+38. Salazar-Martinez E , Lazcano-Ponce E , Sanchez-Zamorano LM , Gonzalez-Lira G , Escudero DELRP , Hernandez-Avila M : Dietary factors and endometrial cancer risk. Results of a case-control study in Mexico. 
+International journal of gynecological cancer : official journal of the International Gynecological Cancer Society 
+2005 , 15 (5 ):938 –945 .16174249 
+39. Mier-Cabrera J , Aburto-Soto T , Burrola-Mendez S , Jimenez-Zamudio L , Tolentino MC , Casanueva E , Hernandez-Guerrero C : Women with endometriosis improved their peripheral antioxidant markers after the application of a high antioxidant diet. 
+Reproductive biology and endocrinology : RB&amp;E 
+2009 , 7 :54 .
+40. Denova-Gutierrez E , Huitron-Bravo G , Talavera JO , Castanon S , Gallegos-Carrillo K , Flores Y , Salmeron J : Dietary glycemic index, dietary glycemic load, blood lipids, and coronary heart disease. 
+Journal of nutrition and metabolism 
+2010 , 2010 .
+41. Chen C-Y , Kao C-C , Hsu H-Y , Wang R-H , Hsu S-H : The efficacy of a family-based intervention program on childhood obesity: A quasi-experimental design. 
+Biological research for nursing 
+2015 , 17 (5 ):510 –520 .25589085 
+42. WHO : Physical Status: The Use and Interpretation of Anthropometry. In: Technical reort series No 854 
+Geneva : World Health Organization ; 1995 .
+43. Board IoMFaN : Dietary Reference Intakes: Thiamin, Riboflain, Niacin, Vitamin B6, Folate, Vitamin B12, Pantothenic Acid, Biotin, and Choline  In. Washington, DC : National Academy Press ; 1998 .
+44. Calderon RL , Hudgens EE , Carty C , He B , Le XC , Rogers J , Thomas DJ : Biological and behavioral factors modify biomarkers of arsenic exposure in a U.S. population. 
+Environmental research 
+2013 , 126 :134 –144 .23777639 
+45. Torres-Sanchez L , Lopez-Carrillo L , Rosado JL , Rodriguez VM , Vera-Aguilar E , Kordas K , Garcia-Vargas GG , Cebrian ME : Sex differences in the reduction of arsenic methylation capacity as a function of urinary total and inorganic arsenic in Mexican children. 
+Environmental research 
+2016 , 151 :38 –43 .27450997 
+46. Xu X , Drobna Z , Voruganti VS , Barron K , Gonzalez-Horta C , Sanchez-Ramirez B , Ballinas-Casarrubias L , Ceron RH , Morales DV , Terrazas FA 
+: Association Between Variants in Arsenic (+3 Oxidation State) Methyltranserase (AS3MT) and Urinary Metabolites of Inorganic Arsenic: Role of Exposure Level. 
+Toxicological sciences : an official journal of the Society of Toxicology 
+2016 , 153 (1 ):112 –123 .27370415 
+47. Rahman M , Vahter M , Sohel N , Yunus M , Wahed MA , Streatfield PK , Ekstrom EC , Persson LA : Arsenic exposure and age and sex-specific risk for skin lesions: a population-based case-referent study in Bangladesh. 
+Environ Health Perspect 
+2006 , 114 (12 ):1847 –1852 .17185274 
+48. Hijazi RH , Jernigan RW : Modelling compositional data using Dirichlet regression models. 
+Journal of Applied Probability &amp; Statistics 
+2009 , 4 (1 ):77 –91 .
+49. NIH : Folate Dietary Supplement Fact Sheet  In. Edited by Supplements 
+NIoHOoD ; 2018 .
+50. NIH : Vitamin B12 Fact Sheet for Health Professionals  In. Edited by Supplements 
+NIoHOoD ; 2018 .
+51. NIH : Riboflavin Fact Sheet for Health Professionals  In. Edited by Supplements 
+NIoHOoD ; 2018 .
+52. Gamble MV , Liu X , Ahsan H , Pilsner R , Ilievski V , Slavkovich V , Parvez F , Levy D , Factor-Litvak P , Graziano JH : Folate, homocysteine, and arsenic metabolism in arsenic-exposed individuals in Bangladesh. 
+Environ Health Perspect 
+2005 , 113 (12 ):1683 –1688 .16330347 
+53. Gamble MV , Liu X , Ahsan H , Pilsner JR , Ilievski V , Slavkovich V , Parvez F , Chen Y , Levy D , Factor-Litvak P 
+: Folate and arsenic metabolism: a double-blind, placebo-controlled folic acid-supplementation trial in Bangladesh. 
+The American journal of clinical nutrition 
+2006 , 84 (5 ):1093 –1101 .17093162 
+54. Peters BA , Hall MN , Liu X , Parvez F , Sanchez TR , van Geen A , Mey JL , Siddique AB , Shahriar H , Uddin MN 
+: Folic Acid and Creatine as Therapeutic Approaches to Lower Blood Arsenic: A Randomized Controlled Trial. 
+Environ Health Perspect 
+2015 , 123 (12 ):1294 –1301 .25978852 
+55. Hall MN , Gamble MV : Nutritional manipulation of one-carbon metabolism: effects on arsenic methylation and toxicity. 
+Journal of toxicology 
+2012 , 2012 :595307 .22523489 
+56. Heck JE , Gamble MV , Chen Y , Graziano JH , Slavkovich V , Parvez F , Baron JA , Howe GR , Ahsan H : Consumption of folate-related nutrients and metabolism of arsenic in Bangladesh. 
+The American journal of clinical nutrition 
+2007 , 85 (5 ):1367 –1374 .17490975 
+57. Spratlen MJ , Gamble MV , Grau-Perez M , Kuo CC , Best LG , Yracheta J , Francesconi K , Goessler W , Mossavar-Rahmani Y , Hall M 
+: Arsenic metabolism and one-carbon metabolism at low-moderate arsenic exposure: Evidence from the Strong Heart Study. 
+Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association 
+2017 , 105 :387 –397 .28479390 
+58. Gamble MV , Liu X , Ahsan H , Pilsner JR , Ilievski V , Slavkovich V , Parvez F , Levy D , Factor-Litvak P , Graziano JH : Folate, Homocysteine, and Arsenic Metabolism in Arsenic-Exposed Individuals in Bangladesh. 
+Environmental Health Perspectives 
+2005 , 113 (12 ):1683 –1688 .16330347 
+59. Grau-Perez M , Kuo CC , Gribble MO , Balakrishnan P , Jones Spratlen M , Vaidya D , Francesconi KA , Goessler W , Guallar E , Silbergeld EK 
+: Association of Low-Moderate Arsenic Exposure and Arsenic Metabolism with Incident Diabetes and Insulin Resistance in the Strong Heart Family Study. 
+Environ Health Perspect 
+2017 , 125 (12 ):127004 .29373862 
+60. Spratlen MJ , Grau-Perez M , Best LG , Yracheta J , Lazo M , Vaidya D , Balakrishnan P , Gamble MV , Francesconi KA , Goessler W 
+: The Association of Arsenic Exposure and Arsenic Metabolism with the Metabolic Syndrome and its Individual Components: Prospective Evidence from the Strong Heart Family Study. 
+Am J Epidemiol 
+2018 .
+61. Shockley KR , Witmer D , Burgess-Herbert SL , Paigen B , Churchill GA : Effects of atherogenic diet on hepatic gene expression across mouse strains. 
+Physiol Genomics 
+2009 , 39 (3 ):172 –182 .19671657 
+62. Marseglia L , Manti S , D’Angelo G , Nicotera A , Parisi E , Di Rosa G , Gitto E , Arrigo T : Oxidative Stress in Obesity: A Critical Component in Human Diseases. 
+International journal of molecular sciences 
+2015 , 16 (1 ):378 –400 .
+63. Lu JL , Molnar MZ , Naseer A , Mikkelsen MK , Kalantar-Zadeh K , Kovesdy CP : Association of age and BMI with kidney function and mortality: a cohort study. 
+The lancet Diabetes &amp; endocrinology 
+2015 , 3 (9 ):704 –714 .26235959 
+64. Peters BA , Hall MN , Liu X , Neugut YD , Pilsner JR , Levy D , Ilievski V , Slavkovich V , Islam T , Factor-Litvak P 
+: Creatinine, arsenic metabolism, and renal function in an arsenic-exposed population in Bangladesh. 
+PLoS One 
+2014 , 9 (12 ):e113760 .25438247 
+65. Peters BA , Hall MN , Liu X , Slavkovich V , Ilievski V , Alam S , Siddique AB , Islam T , Graziano JH , Gamble MV : Renal function is associated with indicators of arsenic methylation capacity in Bangladeshi adults. 
+Environmental research 
+2015 , 143 (Pt A ):123 –130 .
+66. Douillet C , Huang MC , Saunders RJ , Dover EN , Zhang C , Styblo M : Knockout of arsenic (+3 oxidation state) methyltransferase is associated with adverse metabolic phenotype in mice: the role of sex and arsenic exposure. 
+Archives of toxicology 
+2017 , 91 (7 ):2617 –2627 .27847981 
+67. Gribble MO , Tang WY , Shang Y , Pollak J , Umans JG , Francesconi KA , Goessler W , Silbergeld EK , Guallar E , Cole SA 
+: Differential methylation of the arsenic (III) methyltransferase promoter according to arsenic exposure. 
+Archives of toxicology 
+2014 , 88 (2 ):275 –282 .24154821 
+68. Shen H , Niu Q , Xu M , Rui D , Xu S , Feng G , Ding Y , Li S , Jing M : Factors Affecting Arsenic Methylation in Arsenic-Exposed Humans: A Systematic Review and Meta-Analysis. 
+International journal of environmental research and public health 
+2016 , 13 (2 ):205 .26861378 
+69. Rothman KJ : BMI-related errors in the measurement of obesity. 
+International journal of obesity (2005) 
+2008 , 32 
+Suppl 3 :S56 –59 .18695655 
+70. Sanchez TR , Perzanowski M , Graziano JH : Inorganic arsenic and respiratory health, from early life exposure to sex-specific effects: A systematic review. 
+Environmental research 
+2016 , 147 :537 –555 .26891939 
+71. Shim J-S , Oh K , Kim HC : Dietary assessment methods in epidemiologic studies. 
+Epidemiology and health 
+2014 , 36 :e2014009 –e2014009 .25078382 
+72. Da Silva V , Hausman D , Kauwell G , Sokolow A , Tackett R , Rathbun S , Bailey L : Obesity affects short-term folate pharmacokinetics in women of childbearing age. 
+International journal of obesity 
+2013 , 37 (12 ):1608 .23567925 
+

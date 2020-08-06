@@ -1,0 +1,509 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   980846321444Public Health NutrPublic Health NutrPublic health nutrition1368-98001475-272720105388410389810.1017/S1368980009993028NIHMS592172ArticleAre the lowest-cost healthful food plans culturally and socially acceptable? Maillot Matthieu 123Darmon Nicole 123Drewnowski Adam 41 INSERM U476, UMR1260, Nutriments Lipidiques et Prévention des Maladies Métaboliques, Marseille, France2 INRA, 1260, Marseille, France3 Faculté de Médecine, Université Aix-Marseille, IPHMFR 125, Marseille, France:4 Nutritional Sciences Program University of Washington, Seattle, WACorresponding author: Adam Drewnowski, 330 Raitt Hall, University of Washington, Seattle, WA 98195. adamdrew@u.washington.edu18 6 2014 28 1 2010 8 2010 18 7 2014 13 8 1178 1185 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objective
+Nutritious yet inexpensive foods do exist. However, many such foods are rejected by the low-income consumer. Is it because their use violates unspoken social norms? The present study was designed to assess the variety and cost of the lowest-cost market basket of foods that simultaneously met required dietary standards and progressively stricter consumption constraints.
+
+Design
+A mathematical optimisation model was used to develop the lowest-cost food plans to meet three levels of nutritional requirements and seven levels of consumption constraints. Subjects: The nationally representative INCA (National Individual Survey of Food Consumption) dietary survey study of 1332 adults provided population estimates of food consumption patterns in France. Food plan costs were based on retail food prices.
+
+Results
+The lowest-cost food plans that provided 9204 kJ/d (2200 kcal/d) for men and 7531 kJ/d (1800 kcal/d) for women and met specified dietary standards could be obtained for ,1?50 h/d. The progressive imposition of consumption constraints designed to create more mainstream French diets sharply increased food plan costs, without improving nutritional value.
+
+Conclusions
+Minimising diet costs, while meeting nutrition standards only, led to food plans that provided little variety and deviated substantially from social norms. Aligning the food plan with mainstream consumption led to higher costs. Food plans designed for low-income groups need to be socially acceptable as well as affordable and nutritious.
+
+
+   Introduction
+“By necessaries I understand, not only the commodities which are indispensably necessary for the support of life, but whatever the custom of the country renders it indecent for creditable people, even of the lowest order, to be without.”
+
+Adam Smith, 1776, The Wealth of Nations, Book V, Chapter II, Part II1
+
+Lower-income groups have poor diets2 and suffer from higher rates of obesity and chronic disease3. Food, health, and incomes may be linked through food prices and diet costs4. Refined grains, fats, and sweets are affordable, accessible, and convenient5. By contrast, many nutrient-rich foods cost more and are consumed by more affluent persons2. One barrier to the adoption of healthful diets by lower income groups may be diet cost6;7.
+
+Arguably, not all healthful foods cost more8. Some nutrient-rich foods can be obtained at very low cost. Recipes and tips for healthy thrifty meals have featured ground turkey, chickpeas, and condensed or powdered milk9. Home-cooked lentil soup and inexpensive rice and beans have been proposed as suitable staple diets for the US poor10. Nuts, seeds, legumes, cereals, carrots, potatoes and cabbage offer good nutrition at an affordable cost11. The search for affordable nutrient rich foods is being aided further by the new techniques of nutrient profiling12 and by the new metrics of nutrients per calorie and nutrients per unit cost11.
+
+However, many low-cost yet nutritious foods are rejected by the consumer. The present hypothesis is that such foods deviate from the current consumption standards; fail to meet cultural requirements, and may be socially or culturally inappropriate. The custom of the country - to borrow a phrase from Adam Smith – may place such foods or diets outside the accepted social norms. In striving to meet nutrient requirements at minimum cost, the search for lowest cost healthful diets may have ignored the current eating habits of the population.
+
+Mathematical optimization models have shown from a long time that nutritious diets could be obtained at very low cost13;14. The USDA Thrifty Food Plan (TFP) model creates a diet that is as similar as possible to the current diet of low income Americans, while simultaneously meeting a fixed set of nutritional and cost constraints15;16. Upper and lower bounds on food energy are based on the Institute of Medicine energy requirements, whereas nutrient and food group constraints are based on the Dietary Guidelines for Americans and on MyPyramid, respectively. The cost constraint keeps computer-generated diets below the target cost. To arrive at the optimization solution, the TFP tolerates up to 10-fold deviations from the current eating habits.
+
+The present study reversed the situation in that the model minimized cost, while meeting different sets of nutritional and social acceptability constraints. Instead of meeting a single set of nutrition constraints, the model created food plans that met 3 sets of nutritional constraints of progressive severity. The intent was to determine whether healthier diets cost more. Furthermore, significant deviations from the mainstream French diet were progressively disallowed. Seven levels of increasingly stringent social acceptability constraints ensured that the final model had little tolerance for any deviation from the French mainstream eating habits. The intent was to estimate the cost of healthful diets that were also consistent with French cultural expectations and societal norms.
+
+Methods
+Dietary data, food composition database and food prices
+The input data used in this analysis were based on data collected in a cross-sectional dietary survey of a nationally representative sample of 1,985 French adults (INCA survey), aged 15-92 y, conducted in 1999 by the French National Agency for Food Safety17. Usual food intakes were estimated using a 7-day food record completed by all participants, aided by a photographic manual of portion sizes18. Subjects who under- or over- reported their energy intake (284 men and 312 women) according to the method of Black19 were removed from the sample. The physical activity level assumed in the calculation of the threshold was 1.55, corresponding to seated work with low walking and leisure activity. The final sample15 of 1,332 participants aged between 15 y and 92 y old included 596 men and 736 women.
+
+After excluding diet beverages, tea, coffee, dietary supplements and drinking water, a total of 614 different foods were declared as consumed by the participants. Their nutritional composition, expressed per 100 g of edible portion, and their edible conversion factors, were computed from the INCA food composition database20, the Suvimax food composition database21 or from other databases22-25. A column of French mean national 1997 retail prices primarily obtained from marketing research (SECODIP) was added to this table. The prices were those paid by a representative panel of French consumers (SECODIP), therefore the mean price reflected the most frequently purchased forms of each food. The prices were obtained for the foods “as purchased” whereas the nutrient contents were based on the food “as consumed”. To adjust for preparation and waste and to have a common mode of expression for price and for nutrients, retail prices were converted into prices per 100 g of edible food, based on the edible conversion factors of each food.
+
+The foods were aggregated into 7 major food groups (meat, fruit and vegetables, mixed dishes and snacks, dairy, starches and grains, sweets and salted snacks and added fats), 20 subgroups (for example, subgroups in the fruit and vegetable group were: fruits, vegetables and dried fruits) and 36 families (for example, families in the fruit subgroup were: fresh fruits, fruit juices and other processed fruits). The recipes used to calculate the nutrient composition of mixed dishes were derived from the SUVIMAX food composition database21.
+
+Mathematical diet optimization model
+The principle of diet modelling with linear programming has been explained before26 and the characteristics of the optimization models specifically used in the present study were also published12.
+
+All linear programming models and statistical analyses were done using the Operational Research Package of SAS software (release version 9.2, SAS Institute Inc.).
+
+Creation of 21 food plans per gender
+Linear programming models were used to create 21 different food plans for men and women, meeting 3 sets of nutritional and 7 sets of social acceptability constraints. All diets were iso-caloric as the model fixed dietary energy at 9,196 kJ/d (i.e. 2,200 kcal/d) for men and 7,524 kJ/d (i.e. 1,800 kcal/d) for women. The optimization process yielded a suggested food plan that consisted of quantities of different foods selected into the market basket from a pool of 614 foods (i.e. the number of foods in the food database). Total diet cost was minimized to obtain the lowest cost food plans that fulfilled all the constraints introduced in each linear programming models were presently developed to select 21 isocaloric diets for each gender at minimal cost which differed in the nutritional (3 sets) and social acceptability (7 sets) constraints.
+
+Objective function
+The chosen ‘objective function’ of the model ensured that the food plan basket was at minimal cost. Variables in the objective function were represented by the quantity of the 614 foods. Each food was linked to the nutrient composition and cost database.
+
+The objective function Z was minimized:  Z=∑j=1j=614cj⋅Qj  With:
+
+Qj was the quantity of food j in the modeled food basket plan
+
+cj was the cost of 1g of food j
+
+Nutritional constraints
+Table 1 shows 3 levels of progressively more stringent nutritional constraints. Level A ensured that the food plans were consistent with guidelines for macronutrients. Level B ensured that the food plans were consistent with guidelines for macronutrients and with the French estimated average requirements (EAR) for 25 additional nutrients27. Level C ensured that the food plans were consistent with the macronutrient guidelines and with the recommended dietary allowances (RDA) for each of 25 nutrients. Levels B and C introduced additional limits on the consumption of saturated fats, added sugars, and sodium, and set safe upper limits on the consumption of 9 additional nutrients.
+
+Social acceptability constraints
+Table 2 shows 7 levels of progressively more stringent social acceptability constraints, based on the observed distribution of food intakes in the referent INCA population, calculated for men and for women separately. These constraints were progressively applied to the 7 major food groups, 20 food subgroups, and 36 food categories.
+
+Level 1 imposed no constraints on food choice. Level 2 constraint was that the amount of energy provided by each of the 7 major food groups fit between the 5th and the 95th percentiles of intake for that food group by the reference population. Levels 3 and 4 cumulatively extended that constraint to the 20 food subgroups and to the 36 food categories, respectively. Level 5 placed the upper bound on consumption, such that the amount of food in the optimized food plan could not exceed the 95th percentile limit for that food in the referent population. Level 6 introduced the additional constraint that foods consumed by only a small minority of the French population and therefore, by definition, not a part of mainstream eating habits, could not be a part of the optimized food plans. Assuming that the percentage of consumers is a good estimation of the popularity and accessibility of a given food, foods consumed by less than 2.5% of the referent French population were removed. This led to the removal of 314 of the original 614 foods. Level 7 imposed the final and most stringent constraint that foods consumed by less than 5% of the referent French population were removed from consideration by the optimization model. That led to the removal of 429 of the 614 foods. All the constraints, cumulatively imposed at each higher level, ensured that the resulting computer-optimized food plan would closely resemble the mainstream French diet, with progressively less tolerance for any deviation from the current patterns of consumption.
+
+Results
+Figure 1 shows, separately for women and men, that the progressive application of nutritional recommendations increased the lowest achievable food plan costs. Plans that met the more rigorous nutritional constraints did cost more. Although food plans fulfilling all the RDA requirements (level C diets) could be obtained for as little as 1.50 €/d, that low cost was achieved only if social acceptability constraints were ignored altogether (Consumption Level 1).
+
+Entering the increasingly stringent social acceptability constraints into the model led to dramatic changes in the resulting cost and variety of the optimized food plans. Not only did the food plans become more costly, but the cost of a market basket of foods that was consistent with the mainstream French diet far outweighed the cost of meeting the nutritional constraints alone. The cost of food plans meeting social acceptability level 7 constraints (C7) was several times that of plans that tolerated more substantial deviations from current consumption patterns. The lowest achievable cost of level C7 food plans was 3.40 €/d for men and 3.20 €/d for women, almost 10 times the amount calculated for the lowest cost level A1.
+
+Furthermore, as indicated in Figure 1, there was an interaction between nutritional and social acceptability constraints. As long as the model imposed no social acceptability constraints or tolerated a high degree of deviation, the difference in cost between the less nutritious and more nutritious food plans did not exceed 100%. Once more stringent social acceptability constraints were imposed and the diet resembled more what people actually eat, the cost of healthier diets more than doubled relative to less healthy ones.
+
+The variety of foods in the market basket was also affected by the two sets of constraints (Figure 1). The number of foods always increased from A to C, at each level of social acceptability constraints so that the higher-quality food plans were always associated with greater variety. For each level of nutritional constraint, the imposition of social acceptability constraints led to a greater variety of foods until level 5 with a drop observed at levels 6 and 7. It was then that the foods consumed by less than 2.5% and 5% of the total population were excluded, respectively. In most lowest-cost food plans, whole grains, lean meats, seafood, whole fruit and salad greens were missing altogether.
+
+Table 3 shows the market baskets for women at different levels of nutrition and social acceptability constraints. In general, food plans that deviated most from the usual eating habits were composed of a small number of foods, provided in large amounts. Typically those plans were based on grains, cereals, vegetable oils, and sweets. Thus, the minimal cost level A1 plan for women was composed of only 3 foods: porridge, sugar, and vegetable oil (Table 3). The minimal cost level C1 plan was composed of 12 foods (porridge, pasta, semolina, mashed potatoes, wheat germ, carrots, radishes, chicken livers, grilled herring, low-fat milk and vegetable oil). In other plans, nutritional adequacy was assured through large quantities of inexpensive carrots and low-fat milk, as well as organ meats (liver, brains) and herring, except when those foods were excluded from the food variables because the percentage of consumers was lower than specified by social acceptability constraints.
+
+Discussion
+Diet optimization programs are mathematical tools that are used to create healthful food plans at an affordable cost13;28;29. In the US, such programs have been used to set the official estimates of the lowest cost of a nutritious diet. For example, the official USDA food plans are generated by an optimization program that selects a diet that closely resembles the observed consumption patterns of the low income population, while simultaneously meeting cost targets as well as nutrition and other constraints15;16. The lowest cost USDA Thrifty Food Plan, most recently updated in 2007, is then used to set the benefit levels for the Supplemental Nutrition Assistance Program (SNAP), previously known as food stamps. In 2007, the TFP cost per week was estimated at $32.20 for women and $35.80 for men30.
+
+Mathematical models, faced with multiple constraints, do not always achieve a perfect fit. The new TFP market baskets are no exception: the USDA documentation acknowledges that they did not meet the vitamin E and potassium recommendations for some age-gender groups and did not meet the sodium recommendation for many age-gender groups16. In order to do so, the low cost market baskets would have had to deviate very substantially from typical consumption patterns (in the case of vitamin E and potassium) or would have required changes in food manufacturing practices (in the case of sodium)16. According to the USDA documentation, it was practically impossible to develop low cost TFP market baskets that met the sodium recommendation.
+
+While nutrition and cost constraints of optimization models have received most research attention, social acceptability constraints have not. In the TFP, the lower bound for consumption was set close to zero for most good groups, whereas the upper bound varied by food category, depending on average consumption16. Generally, the upper bounds were three to 10 times average consumption. This was done, in part, to accommodate policy goals. For example, although the population average consumption for whole grains was near zero, the 2005 Dietary Guidelines for Americans specified that half of all grain consumption should be from whole grains. As a result, the TFP had to tolerate high deviance from the usual eating patterns. According to the USDA documentation, the TFP basket for the family of four contained more vegetables (137 percent), milk products (125 percent), fruits (115 percent), and grains (16 percent) and less fats, oils, and sweets (-83 percent) than the observed consumption patterns of the referent group.
+
+The present study set out to determine the cost of market baskets that were not only nutritious but were also consistent with mainstream French diet. The present innovation was to let social acceptability constraints vary over a wide domain (7 levels), coming closer each time to the average French population diet. The upper bounds were not permitted a 10-fold increase from average consumption; instead the upper bound was the 95th percentile limit for the population intakes. These limits were progressively applied to food groups, food subgroups, and food families for a much tighter fit between the optimized food plan and the typical French diet. At the strictest level, foods consumed by less than 5% of the population were excluded from the model.
+
+Systematically reducing the distance between current consumption and the optimized food plans led to higher monetary costs. What is more, those higher costs far exceeded those of a more nutritious diet. Nutritious market baskets that corresponded to the population eating habits cost several times more than market baskets that provided nutrition but ignored cultural requirements and social norms. It turns out that maintaining cultural norms was just as, if not more, expensive than improving the nutritional quality of the diet. The question arises whether other lowest cost market baskets achieve their cost targets by ignoring or tolerating large differences from social norms?
+
+Some similarities and differences with the official USDA food plans must be noted. Similar to the USDA food plans31, the study was based on retail food prices and not expenditures. Unlike the TFP, the objective function minimized diet cost instead of minimizing the difference between the modelled diet and existing food habits. Unlike the TFP, the present model used only nutrient-based constraints and did not employ MyPyramid food category standards. Unlike the TFP's use of 58 food categories, the present market basket was based on &gt;600 individual foods. In reality, each participant in the INCA survey consumed &lt;50 different foods per week17. Tailoring the food plan to the eating habits of each individual is an alternative and more sophisticated approach32 that could yield different results. In the present study social acceptability constraints were introduced and progressively reinforced whereas in the TFP consumption constraints were fixed and it was the cost constraint that was introduced at different levels of severity.
+
+The present data shed new light on the argument whether nutritious diets cost more than less nutritious ones. Food choices are a part of social identity and the ability to adhere to a socially acceptable diet is one of the necessities of life33. All too often, the low cost of powdered milk, ground pork, organ meats, beans, lentils, carrots and cabbage is cited as proof that low-income groups have full access to inexpensive yet nourishing foods. Persistent failures by low-income households to construct staple diets based around such foods have been explained in the past by a lack of motivation34;35, lack of nutrition knowledge36, lack of education or time, or simply bad lifestyle choices by the poor10. The present data suggest that the low cost of such diets is achievable only by tolerating a departure from social norms.
+
+Studies on dietary change ought to take such norms into account. For example, intervention studies have persistently claimed that more healthful diets need not cost more and might even cost less37-40. On the other hand, observational studies of populations have associated freely-chosen healthful diets with higher energy adjusted diet costs41-48. It would be good to see if the low cost healthy diets that are introduced by researchers into schools and workplaces are sustainable in the long term.
+
+Other factors, not covered in this study, may involve time poverty and food preference. Studies have noted that many of the USDA recipes were time consuming when cooked from scratch, a situation remedied in the 2006 TFP that included more convenience foods16. Interestingly, the premise underlying the official USDA food plans is that all foods are purchased at stores and cooked and prepared at home. Arguably, using lowest cost food plans to calculate food assistance for the poor does not take into account time constraints and the need (or right) to eat away from home, consistent with broader societal trends.
+
+Food budgets of the poor are often insufficient to obtain a balanced diet49-51. Even with efficient purchasing strategies52-55, the food budget may not suffice for a diet that is both socially acceptable and nutritious. Indeed, both in France29 and in the US56, the lowest cost required to achieve a nutritionally adequate diet is higher that the actual spending on food at home by low income households. Although good nutrition can be obtained at a minimum cost, those wishing to remain within the same cultural sphere must be prepared to pay more. Exclusion from mainstream society should not be the price paid for affordable nutrition.
+
+Financial Support
+
+The present study was carried out with the financial support of the French National Research Agency under the projects ANR-07-PNRA-018, ALIMINFO and ANR-05-PNRA, 012, POLNUTRITION and with support from USDA CSREES Grant 2004-35215-14441 and NIH grant R01 DK076608.
+
+Conflicts of interest
+
+There are no conflicts of interest.
+
+Author contributions
+
+MM and ND conceived the study. MM conducted data modeling and statistical analyses. All authors participated in the interpretation of the results and AD took the lead in writing the report.
+
+Figure 1 Minimal cost of 21 modelled diets fulfilling increasing levels of nutritional constraints (A,B,C) and consumption constraints (1, 2,...7). The number of foods selected for each diet at each set of constraints is indicated as well. Data are presented separately for men (Panel A) and women (Panel B)
+
+Table 1 Description of nutritional constraints introduced in linear programming models, separately for men and women.
+
+Nutrients			Constraints	
+		Men			Women		
+Energy, kJ/d		= 9196abc			= 7524ab		
+Proteins, g/d		≥ 70abc			≥ 50abc		
+Carbohydrates, g/d		≥ 275abc			≥ 250abc		
+Lipids, g/d		≤ 85.6abc			≤ 70abc		
+SFA, g/d		≤25bc			≤20bc		
+Added sugars, g/d		≤55bc			≤ 45bc		
+Sodium, mg/d		≤ 2365bc			≤ 2365b		
+	EARbc	RDAc	Safety limitsbc	EARbc	RDAc	Safety limitsbc	
+Fiber, g/d	≥ 19	≥ 25		≥ 19	≥ 25		
+Linoleic acid, g/d	≥ 7.7	≥ 10		≥ 6.2	≥ 8.0		
+Linolenic acid, g/d	≥ 1.5	≥ 2.0		≥ 1.2	≥ 1.6		
+DHA, g/d	≥ 0.09	≥ 0.12		≥ 0.08	≥ 0.1		
+Vitamin A, μg/d	-	-	≤ 1800	-	-	≤ 1800	
+Retinol, μg/d	308	≥ 400		≥ 231	≥ 300		
+b-carotene/6, μg/d	≥ 308	≥ 400		≥ 231	≥ 300		
+Thiamin, mg/d	≥ 1	≥ 1.3		≥ 0.85	≥ 1.1		
+Riboflavin, mg/d	≥ 1.2	≥ 1.6		≥ 1.2	≥ 1.5		
+Niacin, mg/d	≥ 11	≥ 14	&lt; 47	≥ 8.5	≥ 11	&lt; 47	
+Vitamin B5, mg/d	≥ 3.9	≥ 5		≥ 3.9	≥ 5		
+Vitamin B6, mg/d	≥ 1.4	≥ 1.8	≤ 6.8	≥ 1.2	≥ 1.5	≤ 6.8	
+Folates, μg/d	≥ 254	≥ 330	≤ 1500	≥ 231	≥ 300	≤ 1500	
+Vitamin B12, μg/d	≥ 1.8	≥ 2.4		≥ 1.8	≥ 2.4		
+Ascorbic acid, mg/d	≥ 85	≥ 110	≤ 1110	≥ 85	≥ 110	≤ 1110	
+Vitamin E, mg/d	≥ 9.2	≥ 12	≤ 52	≥ 9.2	≥ 12.0	≤ 52	
+Vitamin D, μg/d	≥ 2.3	≥ 5.0	≤ 30	≥ 2.3	≥ 5.0	≤ 30	
+Calcium, mg/d	≥ 693	≥ 900		≥ 693	≥ 900		
+Potassium, mg/d	≥ 2387	≥ 3100		≥ 2387	≥ 3100		
+Iron, mg/d	≥ 6.9	≥ 9.0		≥ 12	≥ 16.0		
+Magnesium, mg/d	≥ 323	≥ 420		≥ 277	≥ 360		
+Zinc, mg/d	≥ 9.2	≥ 12	≤ 50	≥ 7.7	≥ 10	≤ 50	
+Copper, mg/d	≥ 1.5	≥ 2.0		≥ 1.2	≥ 1.5		
+Iodine, mg/d	≥ 116	≥ 150		≥ 116	≥ 150		
+Selenium, μg/d	≥ 46	≥ 60	≤ 350	≥ 39	≥ 50	≤ 350	
+a constraint included in level A (achievement of macronutrient recommendations)
+
+b constraint included in level B (achievement of macronutrient recommendations plus estimated average requirements)
+
+c constraint included in level C (achievement of macronutrient recommendations plus recommended dietary allowance).
+
+Table 2 Seven levels of consumption constraints introduced1 into the linear programming models.
+
+Levels	Added constraints	
+1	None	
+2	The energy contributed by each food group was limited to between the 5th and 95th percentiles of the population distribution.	
+3	The energy contributed by each food sub-groups were limited to between the 5th and 95th percentiles of the population distribution.	
+4	The energy contributed by each food families were limited to between the 5th and 95th percentiles of the population distribution.	
+5	The amount of each food does not exceed the 95th percentile of quantities consumed by adults (men or women) who consumed the food.	
+6	Exclusion of foods consumed by less than 2.5% of the population (i.e. 326 foods among 614)	
+7	Exclusion of foods consumed by less than 5% of the population (i.e. 409 foods among 614)	
+1 For a given level i of social acceptability (with i varying from 1 to 7), the constraints included the level i-1 are retained, and the constraint specific to level i is added
+
+Table 3 Market baskets for food plans at different levels of nutritional and consumption constraints in women
+
+First level of required nutritional constraints (A)	Third level of required nutritional constraints (C)	
+Social acceptability constraints 1, 5, 7	Social acceptability constraints 1, 5, 7	
+
+Food groups
+	
+A1
+	
+A5
+	
+A7
+	
+C1
+	
+C5
+	
+C7
+	
+
+Added fats
+	Oil	Oil (2), butter, margarine, mayonnaise, salad dressing	Oil, butter, margarine, mayonnaise, salad dressing	Oil (2)	Oil (2), butter, margarine, salad dressing	Butter, margarine, salad dressing	
+
+Refined grains
+	Porridge	Porridge, toast, rusk, pasta, semolina	Toast, rusk, pasta, semolina	Porridge, pasta, semolina	Porridge, toast, rusk, pasta, semolina	Toast, rusk, pasta, semolina	
+
+Starches and whole grains
+		Peas (dry), potatoes (2)	Potatoes (2)	Potatoes, wheat germ	Peas (dry), potatoes (2), wheat germ, brown rice, haricot bean (canned)	Potatoes (2), beans (haricot, flageolet), bread (whole grain)	
+
+Vegetable
+		Peanuts, avocado, coconut (dry)	Peanuts, avocado	Carrot, radish	Radish, chard, spinach, mixed vegetables (canned), tomato sauce (canned)	Avocado, carrot, spinach, cucumber, broccoli, zucchini, mixed vegetables (canned), tomato sauce (canned)	
+
+Fruits and nuts
+	-	-	-	-	Banana, orange juice, walnuts	Banana, walnuts, kiwi fruit	
+
+Meats, eggs, fish
+		Eggs, fish cake, pork liver pate, beef heart, sausage	Eggs (2), pork, sausage	Chicken livers, herring	Herring, mackerel (canned), sardine (canned), lamb liver, pork liver pate, meat pate, beef stew, shellfish (frozen)	Eggs, salmon, meat pate, ground beef 15% fat	
+
+Dairy
+	-	Low fat powdered milk, low fat milk	Low fat milk	Low fat milk	Low fat milk, skim milk, powdered skim milk	Low fat milk, plain yogurt	
+
+Sweets
+	Sugar, white	Sugar (2), cookie, pancake, chocolate spread	Sugar, cookie, pancake	-	Sugar (2), pancake, chocolate (2), sweetened condensed milk, cashews	Pancake, chocolate (3)	
+
+Mixed dishes
+	-	Pasta w/cheese	-	-	Pasta w/cheese, cassoulet	Paella, cassoulet	
+
+   References
+1 
+            Smith A  
+           The Wealth of Nations. Book 1776 
+2 
+            Darmon N  
+            Drewnowski A  
+           Does social class predict diet quality? Am J Clin Nutr 2008 87 1107 1117 18469226 
+3 
+            Mackenbach JP  
+            Stirbu I  
+            Roskam AJ  
+            Schaap MM  
+            Menvielle G  
+            Leinsalu M  
+            Kunst AE  
+           Socioeconomic inequalities in health in 22 European countries. N Engl J Med 2008 358 2468 2481 18525043 
+4 
+            Drewnowski A  
+            Specter SE  
+           Poverty and obesity: the role of energy density and energy costs. Am J Clin Nutr 2004 79 6 16 14684391 
+5 
+            Maillot M  
+            Darmon N  
+            Darmon M  
+            Lafay L  
+            Drewnowski A  
+           Nutrient-Dense Food Groups Have High Energy Costs: An Econometric Approach to Nutrient Profiling. J Nutr 2007 137 1815 1820 17585036 
+6 
+            Reicks M  
+            Randall JL  
+            Haynes BJ  
+           Factors affecting consumption of fruits and vegetables by low-income families. J Am Diet Assoc 1994 94 1309 1311 7963177 
+7 
+            Cox DN  
+            Anderson AS  
+            McKellar S  
+            Reynolds J  
+            Lean MEJ  
+            Mela DJ  
+           Vegetables and fruits: barriers and opportunities for greater consumption. Nutrition and Food Science 1996 5 44 47 
+8 
+            Center for Nutrition Policy and Promotion U 
+           American food: Still the best deal in the world 2008 http://wwwcnppusdagov/Publications/FoodPlans/MiscPubs/AmericanFood-01-30-08pdf  . 
+9 
+            Center for Nutrition Policy and Promotion U 
+           Recipes and tips for healthy thrifty meals 2000 http://wwwcnppusdagov/Publications/FoodPlans/MiscPubs/FoodPlansRecipeBookpdf  . 
+10 
+            Parker-Pope T  
+           A high price for healthy food [Weblog with reader comments]. The New York Times 5 12 2007 2007 http://wwwnytimescom/  . 
+11 
+            Darmon N  
+            Darmon M  
+            Maillot M  
+            Drewnowski A  
+           A nutrient density standard for vegetables and fruits: nutrients per calorie and nutrients per unit cost. J Am Diet Assoc 2005 105 1881 1887 16321593 
+12 
+            Maillot M  
+            Ferguson EL  
+            Drewnowski A  
+            Darmon N  
+           Nutrient profiling can help identify foods of good nutritional quality for their price: a validation study with linear programming. J Nutr 2008 138 1107 1113 18492842 
+13 
+            Stigler GJ  
+           The cost of subsistence. J Farm Econ 1945 303 314 
+14 
+            Smith VE  
+           Linear programming models for the determination of palatable human diets. J Farm Econ 1959 31 272 283 
+15 
+            Staff at the Center for Nutrition Policy and Promotion 
+            Lino M  
+           The Thrifty Food Plan, 1999: revisions of the market baskets. Family Economics and Nutrition Review 2001 13 50 63 
+16 
+            Carlson A  
+            Lino M  
+            Fungwe T  
+           The Low-Cost, Moderate-Cost, and Liberal Food Plans (CNPP-20). U S Department of Agriculture, Center forNutrition Policy and Promotion  2007 
+17 
+            Volatier J-L  
+           Enquête INCA (Individuelle et Nationale sur les Consommations Alimentaires).AFSSA, Agence Française de Sécurité Sanitaire des Aliments, Editor 2000 Lavoisier Paris 
+18 
+            Le Moullec N  
+            Deheeger M  
+            Preziosi P  
+            Hercberg S  
+           Validation du manuel photographique utilisé pour l'enquête alimentaire de l'étude SU.VI.MAX. Cah Nutr Diét 1996 31 158 164 
+19 
+            Black AE  
+           Critical evaluation of energy intake using the Goldberg cut-off for energy intake:basal metabolic rate. A practical guide to its calculation, use and limitations. Int J Obes Relat Metab Disord 2000 24 1119 1130 11033980 
+20 
+            Favier J  
+            Ireland-Ripert J  
+            Toque C  
+            Feinberg M  
+           CIQUAL. Répertoire Général des Aliments. Table de composition 1995 Lavoisier, Tec&amp;Doc Paris 
+21 
+            Ouvrage collectif 
+           Table de composition des aliments SU.VI.MAX. INSERM 2006 Economica Editions Paris 
+22 
+            Lamand M  
+            Tressol J  
+            Ireland-Ripert J  
+            Favier J  
+            Feinberg M  
+           CIQUAL. Répertoire Général des Aliments. Tome 4. Table de composition minérale 1996 Lavoisier, Tec&amp;Doc Paris 
+23 
+            Souci SW  
+            Fachmann W  
+            Kraut H  
+           Food composition and nutrition tables 2000 CRC Press Medpharm, Scientific Publishers Stuttgart 6th revised edition 
+24 
+            Food Standard Agency  
+            McCance and Widdowson's 
+           The composition of foods. Cambridge: Royal Society of Chemistry, Editor 2002 Sixth Summary Edition 
+25 
+            USDA, Agricultural Research Service 
+           USDA National Nutrient Database for Standard Reference 2006 http://wwwnalusdagov/fnic/foodcomp/search/  . 
+26 
+            Briend A  
+            Darmon N  
+            Ferguson E  
+            Erhardt JG  
+           Linear programming: a mathematical tool for analyzing and optimizing children's diets during the complementary feeding period. J Pediatr Gastroenterol Nutr 2003 36 12 22 12499991 
+27 
+            Martin A  
+           
+            Martin A  
+           Apports nutritionnels conseillés pour la population française 2001 Lavoisier Paris 
+28 
+            Foytik J  
+           Very low-cost nutritious diet plans designed by linear programming. J Nutr Educ 1981 13 63 66 
+29 
+            Darmon N  
+            Ferguson EL  
+            Briend A  
+           Impact of a cost constraint on nutritionally adequate food choices for French women: an analysis by linear programming. J Nutr Educ Behav 2006 38 82 90 16595286 
+30 
+            Center for Nutrition Policy and Promotion U 
+           Official USDA Food Plans: Cost of Food at Home at Four Levels, U.S. Average 6 2007 2007 http://wwwcnppusdagov/Publications/FoodPlans/2007/CostofFoodJun07pdf  . 
+31 
+            Bowman SA  
+           A methodology to price food consumed: development of a food price database. Family Economics and Nutrition Review 1997 10 Apendix 1-10. 
+32 
+            Maillot M  
+            Vieux F  
+            Ferguson E  
+            Amiot-Carlin MJ  
+            Volatier JL  
+            Darmon N  
+           Modelling the feasibility of nutritional recommendations at the individual level. Proc Nutr Soc 2008 67 E168 
+33 
+            Chilton M  
+            Rose D  
+           A rights-based approach to food insecurity in the United States. Am J Public Health 2009 99 1203 1211 19443834 
+34 
+            Dibsdall LA  
+            Lambert N  
+            Bobbin RF  
+            Frewer LJ  
+           Low-income consumers’ attitudes and behaviour towards access, availability and motivation to eat fruit and vegetables. Publ Health Nutr 2003 6 159 168 
+35 
+            Henry H  
+            Reimer K  
+            Smith C  
+            Reicks M  
+           Associations of decisional balance, processes of change, and self-efficacy with stages of change for increased fruit and vegetable intake among low-income, African-American mothers. J Am Diet Assoc 2006 106 841 849 16720125 
+36 
+            Variyam JN  
+            Blaylock J  
+            Smallwood DM  
+           Modelling nutrition knowledge, attitudes, and diet-disease awareness: the case of dietary fibre. Statistics and Medicine 1996 15 23 35 
+37 
+            Raynor HA  
+            Kilanowski CK  
+            Esterlis I  
+            Epstein LH  
+           A cost-analysis of adopting a healthful diet in a family-based obesity treatment program. J Am Diet Assoc 2002 102 645 656 12008989 
+38 
+            Burney J  
+            Haughton B  
+           EFNEP: a nutrition education program that demonstrates cost-benefit. J Am Diet Assoc 2002 102 39 45 11794500 
+39 
+            Mitchell DC  
+            Shannon BM  
+            McKenzie J  
+            Smiciklas-Wright H  
+            Miller BM  
+            Tershakovec AM  
+           Lower fat diets for children did not increase food costs. Journal of Nutrition Education 2000 32 100 103 
+40 
+            Ottelin AM  
+            Lindstrom J  
+            Peltonen M  
+            Martikainen J  
+            Uusitupa M  
+            Gylling H  
+            Poutanen K  
+            Louheranta A  
+            Mannelin M  
+            Paturi M  
+            Salminen V  
+            Tuomilehto J  
+           Costs of a self-selected, health-promoting diet among the participants of the Finnish Diabetes Prevention Study. Diabetes Care 2007 30 1275 1277 17325262 
+41 
+            Cade J  
+            Upmeier H  
+            Calvert C  
+            Greenwood D  
+           Costs of a healthy diet: analysis from the UK Women's Cohort Study. Public Health Nutr 1999 2 505 512 10656469 
+42 
+            Darmon N  
+            Briend A  
+            Drewnowski A  
+           Energy-dense diets are associated with lower diet costs: A community study of French adults. Publ Health Nutr 2004 7 21 27 
+43 
+            Andrieu E  
+            Darmon N  
+            Drewnowski A  
+           Low-cost diets: more energy, fewer nutrients. Eur J Clin Nutr 2006 60 434 436 16306928 
+44 
+            Maillot M  
+            Darmon N  
+            Vieux F  
+            Drewnowski A  
+           Low energy density and high nutritional quality are each associated with higher diet costs in French adults. Am J Clin Nutr 2007 86 690 696 17823434 
+45 
+            Schroder H  
+            Marrugat J  
+            Covas MI  
+           High monetary costs of dietary patterns associated with lower body mass index: a population-based study. Int J Obes (Lond) 2006 30 1574 1579 16552405 
+46 
+            Lopez CN  
+            Martinez-Gonzalez MA  
+            Alonso A  
+            Sanchez-Villegas A  
+            de la FC  
+            Bes-Rastrollo M  
+           Cost of compliance with daily recommended values of micronutrients among a cohort of Spanish university graduates: the SUN (Seguimiento Universidad de Navarra) Study. Public Health Nutr 2009 1 5 19087373 
+47 
+            Monsivais P  
+            Drewnowski A  
+           Lower-energy-density diets are associated with higher monetary costs per kilocalorie and are consumed by women of higher socioeconomic status. J Am Diet Assoc 2009 109 814 822 19394467 
+48 
+            Townsend MS  
+            Aaron GJ  
+            Monsivais P  
+            Keim NL  
+            Drewnowski A  
+           Less-energy-dense diets of low-income women in California are associated with higher energy-adjusted diet costs. Am J Clin Nutr 2009 89 1220 1226 19225114 
+49 
+            Vozoris N  
+            Davis B  
+            Tarasuk V  
+           The affordability of a nutritious diet for households on welfare in Toronto. Can J Public Health 2002 93 36 40 11925698 
+50 
+            Morris JN  
+            Donkin AJ  
+            Wonderling D  
+            Wilkinson P  
+            Dowler EA  
+           A minimum income for healthy living. J Epidemiol Commun Health 2000 54 885 889 
+51 
+            Nelson M  
+            Dick K  
+            Holmes B  
+           Food budget standards and dietary adequacy in low-income families. Proc Nutr Soc 2002 61 569 577 12691187 
+52 
+            McLaughlin C  
+            Tarasuk V  
+            Kreiger N  
+           An examination of at-home food preparation activity among low-income, food-insecure women. J Am Diet Assoc 2003 103 1506 1512 14576717 
+53 
+            Crotty PA  
+            Rutishauser IH  
+            Cahill M  
+           Food in low-income families. Aust J Public Health 1992 16 168 174 1391159 
+54 
+            Hersey J  
+            Anliker J  
+            Miller C  
+            Mullis RM  
+            Daugherty S  
+            Das S  
+            Bray CR  
+            Dennee P  
+            Sigman-Grant M  
+            Olivia AH  
+           Food Shopping Practices Are Associated with Dietary Quality in Low-Income Households. J Nutr Educ Behav 2001 33 S016 S025 
+55 
+            Grant DK  
+            Maxwell S  
+           Food coping strategies: a century on from Rowntree. Nutrition and Health 1999 13 45 60 10453450 
+56 
+            Stewart H  
+            Blisard N  
+           The Thrifty Food Plan and low-income households in the United States: What food groups are being neglected? Food Policy 2006 31 482 
+

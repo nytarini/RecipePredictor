@@ -1,0 +1,631 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10116077531839Clin Gastroenterol HepatolClin. Gastroenterol. Hepatol.Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association1542-35651542-771427940272544020610.1016/j.cgh.2016.11.032NIHMS834869ArticleCost Utility Analysis of Topical Steroids Compared to Dietary Elimination for Treatment of Eosinophilic Esophagitis Cotton Cary C. MPH1Erim Daniel MD, MSc2Eluri Swathi MD1Palmer Sarah H. MPH2Green Daniel J. MD, MPH1Wolf W Asher MD, MPH1Runge Thomas M. MD, MPH1Wheeler Stephanie PhD, MPH2Shaheen Nicholas J. MD, MPH1Dellon Evan S. MD, MPH11 University of North Carolina at Chapel Hill, Department of Medicine, Division of Gastroenterology and Hepatology, Center for Esophageal Diseases and Swallowing, Chapel Hill, NC, USA2 University of North Carolina at Chapel Hill, Gillings School of Public Heath, Department of Health Policy and Management, Chapel Hill, NC, USACorrespondence: Evan S. Dellon, MD MPH, CB # 7080, Bioinformatics Bldg, 130 Mason Farm Rd, Chapel Hill, NC, 27599-7080, edellon@med.unc.edu; P: 919-966-2513; F: 919-843-25088 12 2016 07 12 2016 6 2017 01 6 2018 15 6 841 849.e1 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background &amp; Aims
+Topical corticosteroids or dietary elimination are recommended as first-line therapies for eosinophilic esophagitis (EoE), but data to directly compare these therapies are scant. We performed a cost utility comparison of topical corticosteroids and the 6 food elimination diet (SFED) in treatment of EoE, from the payer perspective.
+
+Methods
+We used a modified Markov model based on current clinical guidelines, in which transition between states depended on histologic response simulated at the individual cohort-member level. Simulation parameters were defined by systematic review and meta-analysis to determine the base case estimates and bounds of uncertainty for sensitivity analysis. Meta-regression models included adjustment for differences in study and cohort characteristics.
+
+Results
+In the base case scenario, topical fluticasone was about as effective as SFED but more expensive at a 5-year time horizon ($9261.58 vs $5719.72 per person). SFED was more effective and less expensive than topical fluticasone and topical budesonide in the base case scenario. Probabilistic sensitivity analysis revealed little uncertainty in relative treatment effectiveness. There was somewhat greater uncertainty in the relative cost of treatments—most simulations found SFED to be less expensive.
+
+Conclusion
+In a cost utility analysis comparing topical corticosteroids and SFED for first-line treatment of EoE, the therapies were similar in effectiveness. SFED was on average less expensive, and more cost effective in most simulations, than topical budesonide and topical fluticasone, from a payer perspective and not accounting for patient-level costs or quality of life.
+
+cost-utilitycost-effectivenesseosinophilic esophagitistreatmentdietsteroids
+   Introduction
+Eosinophilic esophagitis (EoE) is an emerging clinicopathologic disease.1 It is clinically characterized by chronic esophageal dysfunction commonly manifesting as dysphagia in adults and adolescents, but with a different spectrum of symptoms in children and infants.2 The defining pathologic feature of EoE is esophageal eosinophilia, with at least 15 eosinophils per high-power field after an adequate acid-suppression trial and in the absence of other causes of esophageal eosinophilia.
+
+While there are a number of therapeutic strategies that have been evaluated for EoE, the strength of evidence supporting the safety and efficacy of these varies widely.2 However, the two medical therapies supported by a broad base of evidence are topical corticosteroids (tCS)3–27 and six-food elimination diet (SFED).18, 23, 28–33 Esophageal dilation is also used for treatment of strictures or narrowing,34–40 but because it does not impact mucosal inflammation39 it has not been recommended as monotherapy in societal guidelines.1
+
+Current guidance recommends that either tCS or dietary elimination be used as first line therapy for EoE. However, because there have been no trials directly comparing these two modalities, the comparative effectiveness of tCS and SFED is unknown. In this setting, simulation studies can provide valuable insights regarding the effectiveness and cost of therapeutic strategies as well as bounds of uncertainty in key parameters. Our aims were 1) to perform a systematic review and meta-analysis of tCS and SFED as therapies for eosinophilic esophagitis to define simulation model parameters, 2) to perform a simulation comparing tCS and SFED as therapies for initial treatment of eosinophilic esophagitis, and 3) to estimate bounds of incremental cost and effectiveness of the simulated treatments.
+
+Methods
+Model Structure and Assumptions
+We performed a cost-utility analysis of tCS compared with SFED in patients with EoE. Cohorts of 300 EoE patients were chosen to simulate the population. Cohort members were assigned random age and gender proportional to the estimated United States prevalence of EoE.41 Age was limited to 65 because analysis was from a United States private insurance payer perspective. The clinical treatment algorithm was derived from current management guidelines. Topical steroids were compared to diet elimination therapy as the initial treatment for newly diagnosed EoE cases. Proton pump inhibitor (PPI) therapy was not included because patients were assumed to have failed PPI therapy to establish a diagnosis of EoE. Patients were offered rescue treatment with the alternative therapy if it failed to elicit histologic response.1 Patients with histologic response but not symptom response were offered dilation as an additional therapy to simulate patients with persistent fibrostenosis after treatment; patients without histologic response to either treatment were offered dilation alone.1 The cycle length was three months and the time horizon was set at five years. The health outcome of value was symptom response (extracted as the proportion of full or partial response among all treated study participants, based on the individual study’s definition of response).
+
+We used a microsimulation approach with a Markov model structure (Figure 1A, Appendix 2) in which transition probabilities depended on histologic response (defined as an eosinophil count less than 15 eos/hpf). The distribution of initial eos/hpf was modeled as gamma by fitting initial maximum eosinophil counts from the University of North Carolina EoE Clinicopathologic Database (Appendix 3). In addition to eosinophil count, symptom response and duration of response to dilation were simulated at the individual cohort-member level. We based the model on current clinical practice and management guidelines, with diagnostic endoscopies at baseline and after initial treatment.1, 42 If a patient achieved histologic response with tCS, they were maintained on tCS until the time horizon because long-term remission of EoE without continued tCS treatment is uncommon.43, 44 Maintenance steroids were given at half dose, though a sensitivity analysis was performed for full dose therapy in maintenance. If a patient achieved histologic response with SFED, they began a food reintroduction protocol that required an additional six endoscopies for trigger identification, and then they were maintained on dietary treatment (Figure 1B).23, 29 If a patient failed to achieve histologic response after initial therapy with either tCS or SFED, secondary therapies were tried, though a sensitivity analysis was performed without secondary therapies. Patients who failed tCS received secondary therapy with SFED, and patients who failed SFED received rescue therapy with tCS. If they responded, then they went in to the maintenance pathways as noted above. If they did not respond then the proportion without prior symptom response underwent endoscopy with dilation for symptomatic treatment. Other second line or experimental treatments were not included in this model.45
+
+Measurement of Effectiveness and Costs
+To determine estimates of the effectiveness of therapies for this analysis, we performed a systematic review under the direction of a dedicated library scientist of published manuscripts in peer-reviewed journals describing tCS, SFED, and dilation therapies (Appendix 5).46 Included studies were required to report at least one outcome measure of interest and to enroll two or more subjects, but the treatment data did not have to be the primary focus of the study. We abstracted multiple measures of the effectiveness and composition of cohorts for these studies. The proportion of patients with prior exposure to therapies was recorded such that meta-regression estimates for both treatment-naïve users and patients who failed prior therapy could be generated. We performed random effects meta-regression to estimate the point estimate and standard error for each outcome given a common set of covariates (Appendix 1).
+
+Because utilities have not been established for EoE, we estimated that the base-case utility for EoE responding to treatment was equal to utility of treated GERD.47, 48 To construct a proxy for utility values, the effect of symptomatic control on health-related quality of life was abstracted from adult eosinophilic esophagitis quality of life questionnaire and PedsQL eosinophilic esophagitis module validation scores.49, 50 The difference in utility for symptomatic and nonsymptomatic EoE for the present study was calculated by applying the ratio of scores of patients “in remission” and “not in remission” to the utility for treated gastroesophageal reflux disease (GERD).
+
+Full dose topical steroids were assigned base case costs for fluticasone 440 mcg twice daily for adults (18 years of age or older) and 220 mcg twice daily for children. We also performed the base-case analysis for budesonide 1 mg twice daily for adults and 0.5 mg twice daily for children. Endoscopy costs were assigned from estimates specific to EoE patients that were stratified between adults and children.51 Additional costs for endoscopies with dilation were taken as the difference of estimates for esophagogastroduodenoscopy with and without dilation.52 Costs were in 2015 US dollars based on the November 15 Consumer Price Index category for medical care.53 Due to the payer perspective of this analysis, costs related to diet changes and missed work for procedures were not included. Discounting of future costs and quality adjusted life years (QALYs) was performed at 3% per year.
+
+Sensitivity Analysis
+Costs, incremental costs, five-year effectiveness in quality adjusted life years, incremental effectiveness, and incremental cost effectiveness ratio (ICER) per QALY gained were reported for each simulation on a per-cohort-member basis. The willingness-to-pay threshold was set to $50,000/QALY. Probabilistic sensitivity analysis (PSA) was performed for the following model parameters: the probability of symptom response, the mean change in eosinophils for each therapy, the utility of response and non-response, and all costs. Model parameters for PSA iterations were derived from the standard error of meta-regression model estimates such that 95% of simulated values fell within the 95% confidence limit of the estimate (Appendix 4). Sensitivity analysis ranges included estimates previously published in other meta-analyses.54–60 Simulations of 300-member cohorts were performed with 10,000 PSA iterations. The results of probabilistic sensitivity analysis were plotted as a density of incremental cost and incremental effectiveness.
+
+We examined the impact of multiple changes to the model structure. We performed simulations that did not allow dose reduction of steroids following histologic response. We examined scenarios without crossover to the alternate treatment and without crossover or dilation. We performed the base-case simulation stratified by age.
+
+The 95% prediction ellipse, a summary measure expected to contain 95% of simulations within its bounds, as well as the $50,000 willingness-to-pay threshold, were plotted. The cost-effectiveness acceptability curve was plotted. Simulation and statistical analyses were performed in R 3.2.3 and TreeAge Pro 2016.
+
+Results
+Study Parameters
+Systematic review yielded eight studies with data regarding the effectiveness of SFED18, 23, 28–33 and twenty-five studies3–27 regarding the effectiveness of tCS from which model parameters for symptom response and change in eosinophil count were derived by meta-regression. Seven studies described dilation in patients with EoE.34–40 The mean proportion of patients with symptom response in meta-analysis was 87.3% for SFED, 87.9% for topical budesonide and 82.3% for topical fluticasone, while the proportion with response in eosinophil count below 15 eosinophils per hpf was 69.0% for SFED, 76.8% for budesonide, and 70.9% for topical fluticasone. Estimates varied by age and gender, and wide uncertainty around parameter estimates led to wide distributions for sensitivity analysis, with lower response rates than for the overall estimate of meta-analysis (Table 1).
+
+Incremental Costs and Outcomes
+In the base case scenario, topical fluticasone was slightly less effective than SFED (Incremental effectiveness −0.05 QALYs/person) and more expensive ($9,262 vs. $5,720) such that SFED dominated other therapeutic strategies (Table 2). Both treatment arms resulted in a high rate of symptom control with 90.1 per 100 person-years in symptom control among SFED, 81.4 per hundred person-years among topical budesonide and 0.64 per 100 person-years among topical fluticasone. Mucosal eosinophilia was decreased below a 15 eos/hpf threshold at least one cycle among 62.1% in the topical fluticasone arm, 75.1% in the topical budesonide arm, and 78.2% in the SFED arm. The arms with topical fluticasone and budesonide first resulted in fewer total endoscopies (mean 3.34 and 3.18 per person) than SFED (mean 5.09 per person), but more total simulation cycles on topical steroids (77.0% and 63.7% versus 22.1%).
+
+Sensitivity Analyses
+In probabilistic sensitivity analysis, there was little uncertainty regarding relative treatment effectiveness; 95% of simulations varied within a single quality adjusted life year (QALY) per patient over five years (Figure 2). Greater uncertainty was observed for cost, and the majority of scenarios suggested that starting with either steroid was more expensive than starting with SFED. The prediction ellipse for topical budesonide as first-line treatment for EoE was above the willingness-to-pay line but crossed zero in incremental effectiveness (Figure 3). Sensitivity analysis that increased the discounting rate for future costs and utilities favored steroids with their cost spread over time versus dietary elimination with a higher initial cost for endoscopies. A higher willingness-to-pay also favored tCS (Figure 4).
+
+In a scenario in which the dose of steroids could not be reduced 50% after induction, effectiveness was unchanged and the incremental cost for tCS over SFED was increased from $3,657 to $8,094. In a scenario without crossover to the alternate treatment, SFED was more effective and less expensive than other strategies. In a scenario without crossover treatment or dilation, topical fluticasone and topical budesonide were more effective than SFED but their incremental cost effectiveness ratios (fluticasone $180,838 and budesonide $428,428) were well above the willingness to pay. Increased discounting of future costs favored steroids, which spread costs compared to the seven initial endoscopies required in SFED.
+
+Discussion
+In current treatment algorithms for EoE, either tCS or dietary elimination is considered an acceptable first line treatment. Because there are no data directly examining the comparative effectiveness of these two therapies, we performed a cost utility analysis. We found that in the base case scenario SFED was similarly effective and less expensive than tCS. The majority of PSA simulations supported this conclusion. The majority of simulations favored SFED over topical fluticasone, and a still larger majority favored SFED over topical budesonide as a first-line agent.
+
+Incremental effectiveness was minimally sensitive to the modelling assumptions examined. The 95% prediction ellipse for simulations in the base case scenario spanned only 2 days in incremental effectiveness on a per-person basis. Though this results in a very large ICER in some scenarios, the therapies are similarly effective in sensitivity analysis with their differences primarily being in cost. With regard to effectiveness as defined by the diverse scenarios presented, mean effectiveness varied only narrowly between treatments with broad overlap in uncertainty. The literature describing tCS and SFED as treatments for EoE is essentially in equipoise without a randomized comparative study.
+
+This study should be interpreted within the context of limited data on cost-utility research in EoE. While the economic burden of EoE in the United States health system is substantial,51 there have been no prior cost-utility analyses on first line therapies for EoE, so we are unable to directly compare our results to other studies. Two other studies have examined costs and effectiveness related to EoE, however. In one trial, initial treatment with esophageal dilation was compared to esophageal dilation plus tCS, and in sub-analyses dilation was felt to be more cost effective.61 These findings may not generalize to a scenario such as is modeled here, where mucosal therapies alone may obviate the need for dilation in some patients. The other study examined the cost effectiveness of biopsy to diagnose EoE in patients with refractory gastroesophageal reflux disease, finding it was cost effective if the prevalence of EoE was over 8%.48
+
+Our study has several limitations. The results are dependent on our parameter estimates and the methodology of the studies that were reviewed. Patients in the model accrue value based on symptom response and this has an incompletely characterized relationship with mucosal response.62 Because studies reported symptom improvement in the absence of validated instruments, bias and measurement error may limit interpretation of this analysis. The absence of a disease specific utility value for EoE also limits this study, though the utility values for response and non-response were non-differential between groups. Though this study suggests SFED could be a cost effective alternative to tCS, it should not be offered as the only first-line therapy. SFED has been studied only among patients who desire to pursue such therapy.18, 23, 28–33 SFED can be expensive and difficult for some patients to undertake.63
+
+In addition, our study examined costs from a payer perspective and does not take into account costs to the patient, which can be important. For example, dietary elimination is not free to the patient, and costs for specialized foods can be significant. Moreover, implementing a SFED can have a substantial impact on patient quality of life and social behaviors of patients. The payer perspective of this analysis dictates that only costs to an insurer are considered, such that the results of this analysis are not directly applicable to cost-effectiveness for an individual patient. Importantly, the analysis also cannot account for direct and indirect costs, such as time lost from work and travel-related expenditures, incurred by the patient and their caretaker during the serial endoscopies required for food reintroduction. Cost-effectiveness from a patient perspective should be the subject of further research. This analysis focuses on patients with EoE defined as peak esophageal eosinophilia following a trial of PPI and this prevents PPI from being studied as a therapy.
+
+This study also has several strengths. The study was performed and reported in accordance with applicable guidelines.64 Model parameters were estimated through systematic review and meta-analysis of all published manuscripts, mitigating bias in study selection. Use of meta-regression coefficients or moderators for studies’ baseline patient characteristics and design features allowed adjustment for differences in study features between treatment types. These are particularly important given the absence of randomized clinical trials of SFED. The simulation incorporates heterogeneity of effects by age in addition to a conservative accounting for probabilistic uncertainty by performing probabilistic sensitivity analysis for all model parameters.
+
+In conclusion, this cost utility analysis comparing tCS and SFED for first-line treatment of EoE showed that the therapies were similar in effectiveness, but tCS were more expensive, especially if topical budesonide rather than fluticasone was used. Substantial uncertainty remains and the comparative effectiveness of tCS and SFED for EoE can only be resolved by a randomized clinical trial. However, our data suggest that, on average, when compared to tCS as first-line therapy for EoE, SFED should be about as effective and substantially less expensive from a payer perspective over five-years.
+
+Supplementary Material
+01  This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Disclosures: CCC, DE, SE, SH, DG, WAW, TMR, SW, NJS – has no relevant financial disclosure
+
+Author Contributions: CCC: reading for inclusion of systematic review articles, planning and interpretations of modeling, direct analysis and interpretation of the simulation data, drafting of the article, critical revision of the article for important intellectual content, final approval of the article; DE: planning and interpretations of modeling, direct analysis and interpretation of the simulation data, critical revision of the article for important intellectual content, final approval of the article; SE: reading for inclusion of systematic review articles, critical revision of the article for important intellectual content, final approval of the article; SH: planning and interpretations of modeling, direct analysis and interpretation of the simulation data, drafting of the article, critical revision of the article for important intellectual content, final approval of the article; DG: critical revision of the article for important intellectual content, final approval of the article; WAW: critical revision of the article for important intellectual content, final approval of the article; TMR: critical revision of the article for important intellectual content, final approval of the article; SW, planning and interpretations of modeling, drafting of the article, critical revision of the article for important intellectual content, final approval of the article; NJS, planning and interpretations of modeling, drafting of the article, critical revision of the article for important intellectual content, final approval of the article; ESD, reading for inclusion of systematic review articles, planning and interpretations of modeling, drafting of the article, critical revision of the article for important intellectual content, final approval of the article.
+
+Grant Support: This research was funded by NIH Awards T32 DK07634 (CCC, SE, WAW, TMR), K24DK100548 (NJS), K23DK090073 (ESD), and R01DK101856 (ESD)
+
+ESD – consultant for Adare, Banner Life Sciences, Receptos, Regeneron, Roche, Shire; Research funding: Meritage, Miraca, Nutricia, Receptos, Regeneron, Shire
+
+Abbreviations
+tCStopical corticosteroids
+
+EoEeosinophilic esophagitis
+
+SFEDsix-food elimination diet
+
+QALYquality-adjusted life year
+
+GERDgastroesophageal reflux disease
+
+ICERincremental cost-effectiveness ratio
+
+PSAprobabilistic sensitivity analysis.
+
+Figure 1 A: Simplified Markov Structure.
+
+B: Dietary Elimination Process.
+
+Figure 2 Incremental Costs and Quality Adjusted Life Years per Cohort in 10,000 Probabilistic Sensitivity Analysis Iterations Comparing Initial Topical Fluticasone to Initial Six Food Elimination Diet.
+
+Figure 3 Incremental Costs and Quality Adjusted Life Years per Cohort in 10,000 Probabilistic Sensitivity Analysis Iterations Comparing Initial Topical Budesonide to Initial Six Food Elimination Diet.
+
+Figure 4 Cost Effectiveness Acceptability Curve of Two Topical Steroids Compared to Six Food Elimination Diet
+
+Table 1 Distribution of Simulation Parameters as the Distribution of Mean Values of Cohorts of 300 Patients Each among 10,000 Simulations Performed for the Base Case Scenario Comparing Topical Fluticasone, Topical Budesonide, and Six-Food Elimination Diet as First-line Therapy and their Sources.
+
+Parameter	Distribution	Median	Std	Min	Max	Source	
+
+              Individual Characteristics
+              *
+            	
+Age among women	Table	35.5	17.7	1	65	
+              
+                41
+              
+            	
+Age among men	Table	32.8	16.6	1	65	
+Male sex	Binomial	0.65	0.03	0.54	0.77	
+
+              Proportion Symptom Response
+            	
+Fluticasone	Binomial model	0.75	0.24	0.04	1.00	
+              7–14
+            	
+Budesonide	Binomial model	0.67	0.23	0.00	1.00	
+              3–6
+            	
+SFED	Binomial model	0.72	0.32	0.00	1.00	
+              23, 28–32
+            	
+Dilation	Binomial model	0.81	0.24	0.01	1.00	
+              34–40
+            	
+
+              Proportion Histologic Response
+            	
+First-line fluticasone	Binomial model	0.64	0.28	0.01	1.00	
+              7, 13, 14, 20–27
+            	
+Second-line fluticasone	Binomial model	0.46	0.31	0.00	1.00	
+First-line budesonide	Binomial model	0.67	0.23	0.00	1.00	
+              3–6, 15–19
+            	
+Second-line budesonide	Binomial model	0.59	0.25	0.00	1.00	
+First-line SFED	Binomial model	0.63	0.36	0.00	1.00	
+              18, 23, 29–33, 65
+            	
+Second-line SFED	Binomial model	0.46	0.36	0.00	1.00	
+
+              Proportion with Candidiasis
+            	
+Fluticasone candidiasis	Binomial model	0.18	0.05	0.06	0.50	
+              8, 12–14, 21
+            	
+Budesonide candidiasis	Binomial model	0.18	0.05	0.06	0.43	
+              3, 4, 6, 16
+            	
+
+              Utility Values
+            	
+Symptom nonresponse	Triangular	0.89	0.05	0.75	0.97	
+              47–50
+            	
+Symptom response	Triangular	0.93	0.03	0.85	0.98	
+
+              Costs in 2015 US Dollars
+            	
+Topical fluticasone (Quarterly)	Gamma	$691	$1,002	$0	$10,281	
+              
+                66
+              
+            	
+Topical budesonide (Quarterly)	Gamma	$2,316	$3,249	$1	$26,480	
+Diagnostic EGD	Gamma	$481	$698	$0	$6,323	
+              3, 4, 6, 16, 51, 52
+            	
+EGD with dilation	Gamma	$511	$729	$0	$8,504	
+Anti-candida medication	Gamma	$17	$25	$0	$219	
+              
+                66
+              
+            	
+SFED, six-food elimination diet; EGD, esophagogastroduodenoscopy; US, United States.
+
+* Individual characteristics are reported as the sampling distribution, whereas other simulation parameters are reported as the distribution of means among 300 member cohorts across sensitivity analyses.
+
+Table 2 Mean Incremental Cost and Effectiveness of Six-Food Elimination Diet and Topical Fluticasone per Cohort Member in the Base Case Scenario and Sensitivity Analyses as Mean per Individual Cohort Member over 10,000 Probabilistic Sensitivity Analysis Iterations per Scenario.
+
+Strategy	Cost (2015
+USD)*	Incremental
+Cost	Effectiveness
+(QALYs)*	Incremental
+Effectiveness	Incremental
+Cost
+Effectiveness
+Ratio†	
+
+              
+                Base case scenario with crossover for histologic failure of first treatment
+              
+            	
+SFED rescue fluticasone	$5,720		4.29			
+SFED rescue budesonide	$7,276	$1,557	4.26	−0.03	−$49,861	
+Fluticasone rescue SFED	$9,262	$3,542	4.24	−0.05	−$71,522	
+Budesonide rescue SFED	$21,609	$15,889	4.17	−0.12	−$137,826	
+
+              
+                Sensitivity analysis without 50% dose reduction in steroid remission
+              
+            	
+SFED rescue fluticasone	$7,422		4.29			
+SFED rescue budesonide	$9,055	$1,633	4.26	−0.03	−$52,325	
+Fluticasone rescue SFED	$15,334	$7,912	4.24	−0.05	−$159,772	
+Budesonide rescue SFED	$38,071	$30,649	4.17	−0.12	−$265,858	
+
+              
+                Sensitivity analysis without crossover to alternate treatment
+              
+            	
+SFED	$3,392		4.29			
+Fluticasone	$7,279	$3,888	4.26	−0.03	−$127,403	
+Budesonide	$22,057	$18,666	4.27	−0.02	−$954,173	
+
+              
+                Sensitivity analysis without crossover to alternate treatment or dilation
+              
+            	
+SFED rescue fluticasone	$2,178.00		4.18			
+Fluticasone rescue SFED	$5,108.00	$2,930.00	4.20	0.02	$171,597	
+Budesonide rescue SFED	$17,969.00	$15,791.00	4.21	0.03	$515,291	
+
+              
+                Sensitivity analysis among patients 17 years of age or under
+              
+              †
+            	
+SFED rescue fluticasone	$4,615		4.29			
+Fluticasone rescue SFED	$5,531	$916	4.26	−0.03	−$27,031	
+SFED rescue budesonide	$5,830	$1,215	4.27	−0.03	−$46,417	
+Budesonide rescue SFED	$11,511	$6,897	4.2	−0.09	−$75,347	
+
+              
+                Sensitivity analysis among patients over 17 years of age
+              
+            	
+SFED rescue fluticasone	$5,944		4.29			
+SFED rescue budesonide	$7,505	$1,562	4.26	−0.03	−$47,347	
+Fluticasone rescue SFED	$10,091	$4,148	4.23	−0.05	−$76,736	
+Budesonide rescue SFED	$24,775	$18,832	4.17	−0.12	−$155,742	
+USD, United States Dollars; QALYs, quality adjusted life years.
+
+* Per person per five-year horizon discounted at 3% per year after the first.
+
+† The incremental cost effectiveness ratio should be interpreted with caution in the setting of near-equal utility.
+
+
+   References
+1 
+            Dellon ES  
+            Gonsalves N  
+            Hirano I  
+             
+           ACG clinical guideline: Evidenced based approach to the diagnosis and management of esophageal eosinophilia and eosinophilic esophagitis (EoE) Am J Gastroenterol 2013 108 679 692 quiz 693 23567357 
+2 
+            Dellon ES  
+            Liacouras CA  
+           Advances in Clinical Management of Eosinophilic Esophagitis Gastroenterology 2014 147 1238 1254 25109885 
+3 
+            Aceves SS  
+            Bastian JF  
+            Newbury RO  
+             
+           Oral viscous budesonide: a potential new therapy for eosinophilic esophagitis in children Am J Gastroenterol 2007 102 2271 2279 quiz 2280 17581266 
+4 
+            Dohil R  
+            Newbury R  
+            Fox L  
+             
+           Oral viscous budesonide is effective in children with eosinophilic esophagitis in a randomized, placebo-controlled trial Gastroenterology 2010 139 418 429 20457157 
+5 
+            Gupta SK  
+            Vitanza JM  
+            Collins MH  
+           Efficacy and safety of oral budesonide suspension in pediatric patients with eosinophilic esophagitis Clin Gastroenterol Hepatol 2015 13 66 e3 76 e3 24907502 
+6 
+            Straumann A  
+            Conus S  
+            Degen L  
+             
+           Budesonide is effective in adolescent and adult patients with active eosinophilic esophagitis Gastroenterology 2010 139 1526 1537 1537 e1 20682320 
+7 
+            Abu-Sultaneh SM  
+            Durst P  
+            Maynard V  
+             
+           Fluticasone and food allergen elimination reverse sub-epithelial fibrosis in children with eosinophilic esophagitis Dig Dis Sci 2011 56 97 102 20458625 
+8 
+            Alexander JA  
+            Jung KW  
+            Arora AS  
+             
+           Swallowed fluticasone improves histologic but not symptomatic response of adults with eosinophilic esophagitis Clin Gastroenterol Hepatol 2012 10 742 e1 749 e1 22475741 
+9 
+            Arora AS  
+            Perrault J  
+            Smyrk TC  
+           Topical corticosteroid treatment of dysphagia due to eosinophilic esophagitis in adults Mayo Clin Proc 2003 78 830 835 12839078 
+10 
+            Enns R  
+            Kazemi P  
+            Chung W  
+             
+           Eosinophilic esophagitis: clinical features, endoscopic findings and response to treatment Can J Gastroenterol 2010 24 547 551 21152459 
+11 
+            Lucendo Villarin AJ  
+            Carrion Alonso G  
+            Navarro Sanchez M  
+             
+           Eosinophilic esophagitis in adults, an emerging cause of dysphagia. Description of 9 cases Rev Esp Enferm Dig 2005 97 229 239 15982178 
+12 
+            Noel RJ  
+            Putnam PE  
+            Collins MH  
+             
+           Clinical and immunopathologic effects of swallowed fluticasone for eosinophilic esophagitis Clin Gastroenterol Hepatol 2004 2 568 575 15224281 
+13 
+            Remedios M  
+            Campbell C  
+            Jones DM  
+             
+           Eosinophilic esophagitis in adults: clinical, endoscopic, histologic findings, and response to treatment with fluticasone propionate Gastrointest Endosc 2006 63 3 12 16377308 
+14 
+            Schaefer ET  
+            Fitzgerald JF  
+            Molleston JP  
+             
+           Comparison of oral prednisone and topical fluticasone in the treatment of eosinophilic esophagitis: a randomized trial in children Clin Gastroenterol Hepatol 2008 6 165 173 18237866 
+15 
+            Aceves SS  
+            Newbury RO  
+            Chen D  
+             
+           Resolution of remodeling in eosinophilic esophagitis correlates with epithelial response to topical corticosteroids Allergy 2010 65 109 116 19796194 
+16 
+            Dellon ES  
+            Sheikh A  
+            Speck O  
+             
+           Viscous topical is more effective than nebulized steroid therapy for patients with eosinophilic esophagitis Gastroenterology 2012 143 321 e1 324 e1 22561055 
+17 
+            Miehlke S  
+            Hruz P  
+            Vieth M  
+             
+           A randomised, double-blind trial comparing budesonide formulations and dosages for short-term treatment of eosinophilic oesophagitis Gut 2016 65 390 399 25792708 
+18 
+            Philpott H  
+            Nandurkar S  
+            Royce SG  
+             
+           A prospective open clinical trial of a proton pump inhibitor, elimination diet and/or budesonide for eosinophilic oesophagitis Aliment Pharmacol Ther 2016 43 985 993 26939578 
+19 
+            Rubinstein E  
+            Lee JJ  
+            Fried A  
+             
+           Comparison of 2 delivery vehicles for viscous budesonide to treat eosinophilic esophagitis in children J Pediatr Gastroenterol Nutr 2014 59 317 320 24821535 
+20 
+            Butz BK  
+            Wen T  
+            Gleich GJ  
+             
+           Efficacy, dose reduction, and resistance to high-dose fluticasone in patients with eosinophilic esophagitis Gastroenterology 2014 147 324 e5 333 e5 24768678 
+21 
+            Konikoff MR  
+            Noel RJ  
+            Blanchard C  
+             
+           A randomized, double-blind, placebo-controlled trial of fluticasone propionate for pediatric eosinophilic esophagitis Gastroenterology 2006 131 1381 1391 17101314 
+22 
+            Kruszewski PG  
+            Russo JM  
+            Franciosi JP  
+             
+           Prospective, comparative effectiveness trial of cow's milk elimination and swallowed fluticasone for pediatric eosinophilic esophagitis Dis Esophagus 2016 29 377 384 25721813 
+23 
+            Lucendo AJ  
+            Arias A  
+            Gonzalez-Cervera J  
+             
+           Empiric 6-food elimination diet induced and maintained prolonged remission in patients with adult eosinophilic esophagitis: a prospective study on the food cause of the disease J Allergy Clin Immunol 2013 131 797 804 23375693 
+24 
+            Peterson KA  
+            Thomas KL  
+            Hilden K  
+             
+           Comparison of esomeprazole to aerosolized, swallowed fluticasone for eosinophilic esophagitis Dig Dis Sci 2010 55 1313 1319 19533356 
+25 
+            Sayej WN  
+            Patel R  
+            Baker RD  
+             
+           Treatment with high-dose proton pump inhibitors helps distinguish eosinophilic esophagitis from noneosinophilic esophagitis Journal of Pediatric Gastroenterology and Nutrition 2009 49 393 399 19633574 
+26 
+            Schlag C  
+            Pfefferkorn S  
+            Brockow K  
+             
+           Serum eosinophil cationic protein is superior to mast cell Tryptase as marker for response to topical corticosteroid therapy in Eosinophilic Esophagitis Journal of Clinical Gastroenterology 2014 48 600 606 24177377 
+27 
+            van Rhijn BD  
+            Verheij J  
+            van den Bergh Weerman MA  
+             
+           Histological Response to Fluticasone Propionate in Patients With Eosinophilic Esophagitis Is Associated With Improved Functional Esophageal Mucosal Integrity Am J Gastroenterol 2015 110 1289 1297 26303134 
+28 
+            Arias A  
+            Lucendo AJ  
+            Martinez-Fernandez P  
+             
+           Dietary Treatment Modulates Mast Cell Phenotype, Density, and Activity in Adult Eosinophilic Esophagitis Clin Exp Allergy 2015 
+29 
+            Gonsalves N  
+            Yang GY  
+            Doerfler B  
+             
+           Elimination diet effectively treats eosinophilic esophagitis in adults; food reintroduction identifies causative factors Gastroenterology 2012 142 1451 e1 1459 e1 quiz e14-5 22391333 
+30 
+            Henderson CJ  
+            Abonia JP  
+            King EC  
+             
+           Comparative dietary therapy effectiveness in remission of pediatric eosinophilic esophagitis J Allergy Clin Immunol 2012 129 1570 1578 22541246 
+31 
+            Kagalwalla AF  
+            Sentongo TA  
+            Ritz S  
+             
+           Effect of six-food elimination diet on clinical and histologic outcomes in eosinophilic esophagitis Clin Gastroenterol Hepatol 2006 4 1097 1102 16860614 
+32 
+            Wolf WA  
+            Jerath MR  
+            Sperry SL  
+             
+           Dietary elimination therapy is an effective option for adults with eosinophilic esophagitis Clin Gastroenterol Hepatol 2014 12 1272 1279 24440337 
+33 
+            Rodriguez-Sanchez J  
+            Gomez Torrijos E  
+            Lopez Viedma B  
+             
+           Efficacy of IgE-targeted vs empiric six-food elimination diets for adult eosinophilic oesophagitis Allergy 2014 69 936 942 24816218 
+34 
+            Straumann A  
+            Spichtin HP  
+            Grize L  
+             
+           Natural history of primary eosinophilic esophagitis: a follow-up of 30 adult patients for up to 11.5 years Gastroenterology 2003 125 1660 1669 14724818 
+35 
+            Schoepfer AM  
+            Gschossmann J  
+            Scheurer U  
+             
+           Esophageal strictures in adult eosinophilic esophagitis: dilation is an effective and safe alternative after failure of topical corticosteroids Endoscopy 2008 40 161 164 18253909 
+36 
+            Bohm M  
+            Richter JE  
+            Kelsen S  
+             
+           Esophageal dilation: simple and effective treatment for adults with eosinophilic esophagitis and esophageal rings and narrowing Dis Esophagus 2010 23 377 385 20353444 
+37 
+            Dellon ES  
+            Gibbs WB  
+            Rubinas TC  
+             
+           Esophageal dilation in eosinophilic esophagitis: safety and predictors of clinical response and complications Gastrointest Endosc 2010 71 706 712 20170913 
+38 
+            Robles-Medranda C  
+            Villard F  
+            le Gall C  
+             
+           Severe dysphagia in children with eosinophilic esophagitis and esophageal stricture: an indication for balloon dilation? J Pediatr Gastroenterol Nutr 2010 50 516 520 19934772 
+39 
+            Schoepfer AM  
+            Gonsalves N  
+            Bussmann C  
+             
+           Esophageal dilation in eosinophilic esophagitis: effectiveness, safety, and impact on the underlying inflammation Am J Gastroenterol 2010 105 1062 1070 19935783 
+40 
+            Madanick RD  
+            Shaheen NJ  
+            Dellon ES  
+           A novel balloon pull-through technique for esophageal dilation in eosinophilic esophagitis (with video) Gastrointest Endosc 2011 73 138 142 21184880 
+41 
+            Dellon ES  
+            Jensen ET  
+            Martin CF  
+             
+           Prevalence of eosinophilic esophagitis in the United States Clin Gastroenterol Hepatol 2014 12 589 e1 596 e1 24035773 
+42 
+            Spergel JM  
+            Brown-Whitehorn TF  
+            Cianferoni A  
+             
+           Identification of causative foods in children with eosinophilic esophagitis treated with an elimination diet J Allergy Clin Immunol 2012 130 461 e5 467 e5 22743304 
+43 
+            Helou EF  
+            Simonson J  
+            Arora AS  
+           3-yr-follow-up of topical corticosteroid treatment for eosinophilic esophagitis in adults Am J Gastroenterol 2008 103 2194 2199 18637093 
+44 
+            Straumann A  
+            Conus S  
+            Degen L  
+             
+           Long-term budesonide maintenance treatment is partially effective for patients with eosinophilic esophagitis Clin Gastroenterol Hepatol 2011 9 400.e1 409.e1 21277394 
+45 
+            Wolf WA  
+            Cotton CC  
+            Green DJ  
+             
+           Predictors of response to steroid therapy for eosinophilic esophagitis and treatment of steroid-refractory patients Clin Gastroenterol Hepatol 2015 13 452 458 25086190 
+46 
+            Cotton CC  
+            Eluri S  
+            Wolf WA  
+             
+           Topical corticosteroids and six-food elimination diet for treatment of eosinophilic esophagitis: A systematic review and meta-regression Gastroenterology 2016 150 S670 S671 
+47 
+            Gerson LB  
+            Ullah N  
+            Hastie T  
+             
+           Patient-derived health state utilities for gastroesophageal reflux disease Am J Gastroenterol 2005 100 524 533 15743346 
+48 
+            Miller SM  
+            Goldstein JL  
+            Gerson LB  
+           Cost-effectiveness model of endoscopic biopsy for eosinophilic esophagitis in patients with refractory GERD Am J Gastroenterol 2011 106 1439 1445 21448144 
+49 
+            Taft TH  
+            Kern E  
+            Kwiatek MA  
+             
+           The adult eosinophilic oesophagitis quality of life questionnaire: a new measure of health-related quality of life Aliment Pharmacol Ther 2011 34 790 798 21806649 
+50 
+            Franciosi JP  
+            Hommel KA  
+            Bendo CB  
+             
+           PedsQL eosinophilic esophagitis module: feasibility, reliability, and validity J Pediatr Gastroenterol Nutr 2013 57 57 66 23478422 
+51 
+            Jensen ET  
+            Kappelman MD  
+            Martin CF  
+             
+           Health-care utilization, costs, and the burden of disease related to eosinophilic esophagitis in the United States Am J Gastroenterol 2015 110 626 632 25267327 
+52 Healthcare Cost and Utilization Project (HCUP) 2012 
+53 United States Bureau of Labor Statistics Consumer price index Washington, D.C 
+54 
+            Arias A  
+            Gonzalez-Cervera J  
+            Tenias JM  
+             
+           Efficacy of dietary interventions for inducing histologic remission in patients with eosinophilic esophagitis: a systematic review and meta-analysis Gastroenterology 2014 146 1639 1648 24534634 
+55 
+            Chuang MY  
+            Chinnaratha MA  
+            Hancock DG  
+             
+           Topical Steroid Therapy for the Treatment of Eosinophilic Esophagitis (EoE): A Systematic Review and Meta-Analysis Clin Transl Gastroenterol 2015 6 e82 25809314 
+56 
+            Lipka S  
+            Kumar A  
+            Miladinovic B  
+             
+           Systematic review with network meta-analysis: comparative effectiveness of topical steroids vs. PPIs for the treatment of the spectrum of eosinophilic oesophagitis Aliment Pharmacol Ther 2016 43 663 673 26834077 
+57 
+            Lucendo AJ  
+           Meta-Analysis-Based Guidance for Dietary Management in Eosinophilic Esophagitis Curr Gastroenterol Rep 2015 17 464 26292666 
+58 
+            Murali AR  
+            Gupta A  
+            Attar BM  
+             
+           Topical steroids in Eosinophilic Esophagitis: Systematic Review and Meta-analysis of Placebo Controlled Randomized Clinical Trials J Gastroenterol Hepatol 2015 
+59 
+            Sawas T  
+            Dhalla S  
+            Sayyar M  
+             
+           Systematic review with meta-analysis: pharmacological interventions for eosinophilic oesophagitis Aliment Pharmacol Ther 2015 41 797 806 25728929 
+60 
+            Tan ND  
+            Xiao YL  
+            Chen MH  
+           Steroids therapy for eosinophilic esophagitis: Systematic review and meta-analysis J Dig Dis 2015 16 431 442 26058809 
+61 
+            Kavitt RT  
+            Penson DF  
+            Vaezi MF  
+           Eosinophilic esophagitis: dilate or medicate? A cost analysis model of the choice of initial therapy Dis Esophagus 2014 27 418 423 22947137 
+62 
+            Safroneeva E  
+            Straumann A  
+            Coslovsky M  
+             
+           Symptoms Have Modest Accuracy in Detecting Endoscopic and Histologic Remission in Adults With Eosinophilic Esophagitis Gastroenterology 2016 150 581 e4 590 e4 26584601 
+63 
+            Asher Wolf W  
+            Huang KZ  
+            Durban R  
+             
+           The Six-Food Elimination Diet for Eosinophilic Esophagitis Increases Grocery Shopping Cost and Complexity Dysphagia 2016 
+64 
+            Husereau D  
+            Drummond M  
+            Petrou S  
+             
+           Consolidated Health Economic Evaluation Reporting Standards (CHEERS) statement Value Health 2013 16 e1 e5 23538200 
+65 
+            Arias A  
+            Lucendo AJ  
+            Martinez-Fernandez P  
+             
+           Dietary treatment modulates mast cell phenotype, density, and activity in adult eosinophilic oesophagitis Clin Exp Allergy 2016 46 78 91 25640519 
+66 
+            Thomson C  
+           Red book: pharmacy's fundamental reference 2013 Montvale, NJ Thomson PDR 
+

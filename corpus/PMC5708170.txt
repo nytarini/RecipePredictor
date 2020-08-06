@@ -1,0 +1,494 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   2985080R4833J Insect PhysiolJ. Insect Physiol.Journal of insect physiology0022-19101879-161129107658570817010.1016/j.jinsphys.2017.10.012NIHMS918539ArticlePhysiological characterization and regulation of the contractile properties of the mosquito ventral diverticulum (crop) Calkins Travis L. 1DeLaat Andrew 1Piermarini Peter M. 1*
+1 Department of Entomology, The Ohio State University, Ohio Agricultural Research and Development Center, Wooster, OH, USA* Corresponding Author: Peter M. Piermarini, Ph.D., Ohio Agricultural Research and Development Center, The Ohio State University, Department of Entomology, 224 Thorne Hall, Wooster, OH 44691 USA, Piermarini.1@osu.edu15 11 2017 28 10 2017 11 2017 01 11 2018 103 98 106 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.In adult dipteran insects (flies), the crop is a diverticulum of the esophagus that serves as a food storage organ. The crop pumps stored contents into the alimentary canal for digestion and absorption. The pumping is mediated by peristaltic contractions of the crop musculature. In adult female mosquitoes, the crop (ventral diverticulum) selectively stores sugar solutions (e.g., nectar); proteinaceous blood meals by-pass the crop and are transferred directly to the midgut for digestion. The mechanisms that regulate crop contractions have never been investigated in mosquitoes. Here we provide the first physiological characterization of the contractile properties of the mosquito crop and explore the mechanisms that regulate crop contractions. Using an in vitro bioassay we found that the isolated crop spontaneously contracts in Ringer solution for at least 1 hour and its contractions are dependent on extracellular Ca2+. Adding serotonin (5- hydroxytryptamine, 5-HT) or a membrane-permeable analog of cyclic adenosine monophosphate (cAMP) to the extracellular bath increased the frequency of crop contractions. On the other hand, adding benzethonium chloride (BzCl; a chemical that mimics the effects of myosuppressins), H-89 or Rp-cAMPS (inhibitors of protein kinase A, PKA), or carbenoxolone (an inhibitor of gap junctions) reduced the frequency of the unstimulated, spontaneous and/or 5-HT-stimulated crop contractions. Adding aedeskinin III did not detectably alter crop contraction rates. In addition to pharmacological evidence of gap junctions, we demonstrated that the crop expressed several mRNAs encoding gap junctional proteins (i.e. innexins). Furthermore, we localized immunoreactivity for innexin 2 and innexin 3 to muscle and epithelial cells of the crop, respectively. Our results 1) suggest that 5-HT and myosupressins oppositely regulate contractile activity of the mosquito crop, and 2) provide the first evidence for putative roles of cAMP, PKA, and gap junctions in modulating contractile activity of the dipteran crop.
+
+cropmosquitoserotonincAMPprotein kinase Ainnexingap junctions
+   Introduction
+The alimentary canal of adult dipteran insects possesses a diverticulum of the foregut referred to as the crop or ventral diverticulum. The crop consists of 4 main structures: 1) luminal cuticle, 2) a simple epithelium, 3) an anastomosed network of visceral muscle, and 4) nerves that derive from the corpus cardiacum (Stoffolano and Haselton 2013). Food storage is the quintessential physiological function of the crop; it receives imbibed liquid meals and stores them for later digestion and absorption by the midgut. The release of food from the crop to the midgut is mediated by peristaltic contractions of the crop musculature. In mosquitoes, the crop is the primary storage organ for imbibed sugar (e.g., nectar) before it is pumped into the midgut for digestion. In contrast, blood, which is only ingested by adult females, by-passes the crop and is received directly by the midgut for immediate digestion (Day, 1954).
+
+Previous studies in blow flies (Phormia regina), house flies (Musca domestica), and fruit flies (Drosophila melanogaster) have shown that contractions of the crop are influenced by an array of physiological, neuroendocrine, and genetic factors. In P. regina, extracellular Ca2+ is essential for crop muscle contraction, and hemolymph osmolality modulates the rate of contraction (Gelperin, 1966; Liscia et al. 2012; Solari et al. 2013). Moreover, the volume of liquid within the crop influences the contraction rates in both P. regina and M. domestica (Holling, 1976; Stoffolano et al. 2014b). Neuropeptides, such as adipokinetic hormone (AKH), dromyosuppressin (DMS), drosulfakinin, and FMRFamide, and biogenic amines, such as serotonin (5-hydroxytryptamine, 5-HT) and octopamine, modulate crop contraction rates in P. regina and/or D. melanogaster (Duttlinger et al. 2002; Liscia et al. 2012; Palmer et al. 2007; Solari et al. 2017; Stoffolano et al. 2013; Stoffolano et al. 2014a). Notably, nerves associated with the crop contain DMS, FMRFamide, insulin-like peptide, 5-HT, and AKH, suggesting the potential for direct neural control of crop contractions (Cao and Brown, 2001; Duttlinger et al. 2002; Haselton et al. 2004; Lee and Park, 2004; Liu et al. 2011; McCormick and Nichols, 1993). In D. melanogaster, mutation of the drop-dead (drd) gene elevates the spontaneous rates of crop contractions, but the mechanism behind this stimulation is unclear (Peller et al. 2009).
+
+In contrast to the aforementioned flies, the contractile activity of the mosquito crop has not been previously investigated. Although a previous study has shown that the crop of Aedes aegypti is innervated with neurons containing FMRFamide, small cardioactive peptide b, and 5-HT immunoreactivities (Moffett and Moffett, 2005), the basic contractile properties of the mosquito crop and its regulation by physiological and neuroendocrine factors are unknown. Here our goal was to characterize the physiology and regulation of crop contractions in adult female A. aegypti, an important vector of arboviruses that cause Zika, dengue, chikungunya, and yellow fevers in humans. Utilizing an in vitro assay we show that the isolated mosquito crop spontaneously contracts in Ringer solution for at least one hour and its contractions are dependent upon the presence of extracellular Ca2+. Moreover, we show that crop contraction rates are stimulated by 5-HT and a membrane-permeable analog of cAMP (8-Bromo-cAMP), inhibited by benzethonium chloride (BzCl; a chemical that mimics the effects of myosupressins) and inhibitors of protein kinase A (PKA), and unaffected by aedeskinin III (AKIII; a myoactive and diuretic neuropeptide). Furthermore, we provide the first pharmacological, molecular, and immunochemical evidence for gap junctions in the dipteran crop, suggesting that they contribute to the propagation of the contractile signal in the crop visceral musculature.
+
+Materials and Methods
+Mosquito rearing
+A. aegypti mosquitoes were obtained as eggs through the Malaria Research and Reference Reagent Resource Center (MR4) as part of the BEI Resources Repository (Liverpool strain; LVP-IB12 F19, deposited by M.Q. Benedict). In brief, mosquitoes were reared in an environmental chamber set to 28°C and 80% relative humidity with a 12 h:12 h light:dark cycle, as described previously (Piermarini et al. 2011). Larvae were fed daily with pulverized Tetramin flakes (Melle, Germany) and adults were fed 10% sucrose ad libitum.
+
+Crop dissection
+At 3–10 days post-emergence, adult female mosquitoes were removed from rearing cages and immobilized on ice. Only females with visibly distended abdomens (i.e., obvious signs of recent sugar feeding) were used. After removing the legs, the body was submerged in mosquito Ringer solution (150 mM NaCl, 3.4 mM KCl, 1.7 mM CaCl2, 1.8 mM NaHCO3, 1 mM MgCl2, 5 mM Glucose, and 25 mM HEPES; pH 7.1; 330 mOsmol/kg) at room temperature. The head was removed with forceps (Dumont #5; Fine Science Tools, Inc., Foster City, CA) under Ringer solution and the thorax was gently teased away from the abdomen, exposing the crop and its attachment to the foregut of the alimentary canal. The foregut and anterior midgut were then compressed with forceps (anterior and posterior to the crop, respectively), allowing for the crop to be isolated from the alimentary canal with minimal leakage of crop contents. Crops that visibly lost volume and/or expelled contents to the bath were discarded.
+
+Chemicals
+The pharmacological agents tested (listed as final assay concentrations) included: 1) 1 nM, 10 nM, or 100 nM serotonin (5-HT; Thermo Fisher Scientific, Waltham, MA); 2) 1 mM 8-Bromo-cAMP (Tocris, Minneapolis, MN); 3) 25 µM benzethonium chloride (BzCl; Thermo Fisher Scientific); 4) 10 µM aedeskinin III (AKIII; synthesized by the Nachman laboratory; Zubrzak et al. 2007); 5) various concentrations (1–1000 µM) of carbenoxolone (CBX; Sigma-Aldrich, St. Louis, MO); 6) 10 µM H-89 (Tocris); and 7) 250 µM Rp-cAMPS (Enzo Life Sciences, East Farmingdale, New York). 5-HT is a biogenic amine that stimulates crop contractions in P. regina and D. melanogaster (Liscia et al., 2012; Solari et al., 2017). 8-Bromo-cAMP is a membrane-permeable analog of cAMP used to elevate intracellular concentrations of cAMP (e.g., Goino et al. 2014). BzCl is a chemical that mimics the actions of myosupressins (Lange et al. 1995; Nachman et al. 1996). AKIII is a myoactive neuropeptide that stimulates contractions of mosquito hindgut visceral muscle (Veenstra et al., 1997). CBX is an inhibitor of gap junctions (Rozental et al. 2001). H-89 inhibits the phosphorylation mechanisms of activated PKA and several other kinases (Lochner and Moolman, 2006); it has been widely used in insect studies to inhibit PKA (e.g., Beyenbach et al., 2009; Bhattacharya et al., 1999; Fechner et al., 2013; P. Gioino et al., 2014; Paluzzi et al., 2013; Tiburcy et al., 2013). Rp-cAMPS is an analog of cAMP that occupies the cAMP-binding sites of PKA, thereby preventing its activation (Lochner and Moolman, 2006). Stock solutions of the chemicals were prepared at 100-times the final assay concentrations in dH2O (5-HT, BzCl, CBX, and AKIII) or dimethylsulfoxide (8-Bromo-cAMP, H-89, and Rp-cAMPS).
+
+In vitro crop contraction assays
+To measure crop contraction rates, we used an in vitro assay similar to that of Haselton et al. (2006) for the blow fly. In brief, immediately after isolation, crops were transferred by glass pipette directly into a single well of a 96-well microtiter plate (USA Scientific, Ocala, FL) containing 100 µl of mosquito Ringer solution, and the contraction rate (contractions per minute) was determined by eye under a stereoscope as described below. Our initial observations demonstrated that the contraction rates of crops were stable between 5 and 20 minutes post-transfer (red box in Figure 1A). Thus, all measurements and experiments were performed within this 15 minute window.
+
+To test putative inhibitors and agonists of crop contraction rates, each crop served as its own control. After transferring a crop to a well, the number of contractions per minute was counted by eye at 5, 7, and 9 mins post-transfer. These contraction rates were averaged together and referred to as the ‘control’ contraction rate. At 10 min post-transfer, 1 µl of Ringer solution was removed from the well and replaced with 1 µl of a stock treatment solution (see Chemicals above). After gentle mixing via pipetting, the number of contractions per minute was counted by eye at 2, 4, and 6 min after adding the treatment solution (i.e., 12, 14, and 16 min post-transfer). These rates were averaged together and referred to as the ‘treatment’ contraction rate. The addition of dH2O or dimethylsulfoxide (DMSO) at a 1% final assay concentration did not significantly affect contraction rates (Supplemental Figure 1).
+
+In some experiments, we tested the effects of 10 nM 5-HT on crops that were pre-treated with 250 µM CBX, 10 µM H-89, or 250 µM Rp-cAMPS. For these experiments, 1) contractions per minute were counted at 5 and 7 min post-transfer for the control period, 2) CBX, H-89, or Rp-cAMPS was added at 8 min post-transfer and contractions per minute were counted at 10 and 12 min post-transfer for the treatment period, and 3) 5-HT was added at 13 min post-transfer and contractions per minute were counted at 15 and 17 min post-transfer for the ‘treatment + 5-HT’ period. As with the single treatment assays, each time a new compound was added, 1 µL of Ringer solution was removed from the well and replaced with 1 µL of treatment solution.
+
+To determine the effects of extracellular Ca2+ on contraction rates, the crops were dissected—and the control contraction rates were measured—in a nominal Ca2+ Ringer solution. For the ‘treatment’, the Ca2+ concentration was increased to 1.7 mM (the normal concentration in Ringer solution) by adding 1 µL of 170 mM CaCl2 dissolved in dH2O..
+
+RNA isolation and qPCR
+Following dissection, crops (50 per replicate) for RNA isolation and gene expression analysis were transferred with forceps directly into TRIzol® reagent (Life Technologies, Carlsbad, CA) on ice. RNA isolation and qPCR were performed as described in Calkins et al. (2015). In brief, RNA was isolated using the method of Chomczynski and Sacchi (1987). cDNA was synthesized using 1 µg of total RNA in the GoScript® Reverse Transcriptase kit (Promega, Madison, WI). Primers for qPCR to measure innexin and reference gene (RPS7) mRNA expression were from Calkins and Piermarini (2015). For a given sample, each reaction consisted of 10 µl: 5 µl of GoTaq Master Mix, 40 ng of cDNA (0.2 µl of 200 ng/µl cDNA), 1 µl of 4 µM primers, and 3.8 µl of nuclease free water. Three technical replicates were performed for each sample. The reactions took place in 96-well unskirted, low profile plates (Bio-Rad Laboratories, Hercules, CA), sealed with TempPlate RT optical film (USA Scientific). The qPCR utilized a Bio-Rad C1000 thermocycler and CFX96 real time system (Bio-Rad Laboratories) with the following protocol: initial denaturation of 95°C (3 min), followed by 40 cycles of 95°C (10 sec) and 58°C (30 sec), and ending with a melt curve analysis.
+
+Antibodies
+To localize immunoreactivity of innexin 2 (inx2), we used an affinity-purified rabbit antibody raised to a peptide within the first extracellular loop of inx2 in Bombyx mori (VGPHVEGQDEVKYHK; Fushiki et al. 2010). The amino-acid sequence of the peptide is 73% identical to that for inx2 (AAEL014847) in A. aegypti, and does not share significant homology to any other A. aegypti proteins as determined by BLAST. This antibody was a gift from Dr. Ryoichi Yoshimura (Kyoto Institute of Technology, Department of Applied Biology). To localize immunoreactivity of innexin 3 (inx3), we used an affinity-purified rabbit antibody raised to a COOH-terminal peptide of A. aegypti inx3 (LEMAPIYPEIGKYGKDTA; Calkins et al. 2015).
+
+Immunohistochemistry (IHC)
+IHC was performed as described in Calkins et al. (2015). In brief, crops were fixed for 45 min at room temperature in a phosphate-buffered saline (PBS) containing 4% paraformaldehyde, and then washed 3 times for 5 min each in PBS; the PBS consisted of 11.9 mM phosphates, 137 mM sodium chloride, and 2.7 mM potassium chloride (pH 7.5). The fixed crops were permeabilized with 0.1% Triton X-100 (Thermo Fisher Scientific) for 20 min, washed 3 times in PBS with 0.1% Tween 20 (Thermo Fisher Scientific; PBT) for 5 min each, and then blocked in 10% normal goat serum (Thermo Fisher Scientific) supplemented with 20% casein (Vector Laboratories, Burlingame, CA) for 2 hours (all at room temperature). The crops were then incubated with one of the following primary antibodies overnight at 4 °C: rabbit anti-inx3 (1:400 in PBT) or rabbit anti-inx2 (1:100 in PBT). After the overnight incubation, the crops were washed 3 times in PBT for 5 min each, and incubated with a DyLight 488-conjugated goat-anti-rabbit secondary antibody (Thermo Fisher Scientific; 1:600) for 2 h, before washing again 3 times with PBT for 5 min each (all at room temperature). Nuclei and actin (muscle) were counterstained respectively with DAPI (Thermo Fisher Scientific) and DyLight 633-conjugated phalloidin (Thermo Fisher Scientific). Labeled crops were imaged using a Leica S5 confocal microscope at the Molecular Cellular Imaging Center (MCIC) of the Ohio Agricultural Research and Development Center (OARDC) in Wooster, OH.
+
+Statistical analysis
+GraphPad Prism 6 software (GraphPad Software Inc., La Jolla, CA) was used for all statistical analyses. Specific tests performed are described accordingly in the figure legends.
+
+Results
+Temporal stability and Ca2+-dependence of crop contractions
+When isolated from the mosquito and placed in Ringer solution, the crop spontaneously underwent rhythmic peristaltic contractions that began at the distal end and propagated towards the proximal end (Supplemental Video 1). As shown in Figure 1A, on average, the crops spontaneously contracted in vitro at a rate of ~6 contractions/min for the first 20 min. By 30 min, the contraction rate was significantly reduced to ~3 contractions/min and remained stable until at least 60 min. Notably, if the crops were isolated in a nominal Ca2+ Ringer solution, the contraction rates were nominal (~1 contraction/min) (Figure 1B). However, when Ca2+ in the bath was increased to 1.7 mM, the normal concentration in Ringer solution, the frequency significantly increased to ~6 contractions per min (Figure 1B).
+
+Effects of BzCl, AKIII, 5-HT, and 8-Br-cAMP on spontaneous crop contraction rates
+To shed light on the physiological regulation of crop contraction rates, we examined the effects of a variety of potential modulators. As shown in Figure 2, adding 25 µM BzCl to the bath significantly inhibited contraction rates by ~87%, whereas adding 10 µM AKIII did not significantly affect contraction rates, compared to mock-treated controls. Adding 1 nM, 10 nM, or 100 nM 5-HT to the bath significantly stimulated the frequency of crop contractions by ~150%, ~250%, or ~500%, respectively (Figure 2). Likewise, adding 1 mM 8-Bromo-cAMP to the bath significantly increased crop contraction rates by ~100% (Figure 2).
+
+Effects of PKA inhibitors on spontaneous crop contraction rates and 5-HT-stimulation
+Given the stimulatory effects of 8-Bromo-cAMP, we next examined whether inhibitors of PKA influence crop contractions. Adding 10 µM H-89 to the bath significantly decreased the spontaneous contraction rates and also prevented their 5-HT-mediated increase (Figure 3A). In separate experiments, adding 250 µM Rp-cAMPS to the bath did not affect the spontaneous crop contraction rates, but significantly blunted the stimulation by 5-HT compared to crops that were treated in parallel with DMSO, the vehicle of Rp-cAMPS (Figure 3B).
+
+Pharmacological, molecular, and immunochemical evidence for gap junctions
+A recent study in the cockroach Periplaneta americana suggested that gap junctions functionally-couple visceral muscle cells of the proventriculus (Yoshimura et al. 2017). Thus, we also explored whether gap junctions contribute to crop contractions in A. aegypti. As shown in Figure 4A, adding a pharmacological inhibitor of gap junctions (CBX) to the bath inhibited crop contraction rates in a concentration-dependent manner with an IC50 of 115.6 µM. Moreover, in crops that were pre-incubated with 250 µM CBX, the addition of 10 nM 5-HT did not significantly increase the contraction rates (Figure 4B).
+
+To determine the molecular expression of gap junctions, we quantified mRNA expression in the crop for the six innexin (inx) genes in A. aegypti: inx1, inx2, inx3, inx4, inx7, and inx8 (Calkins et al. 2015; Weng et al. 2008). As shown in Figure 5, inx2 and inx7 were among the most highly expressed innexins in the crop. The expression of inx1, inx3, inx4, and inx8 were also detectable, but at statistically lower levels compared to inx2 and inx7. Although not statistically different, the expression levels of inx4 were on average ~240-, ~300-, and ~50-times lower than inx1, inx3, and inx8, respectively.
+
+Lastly, we localized immunoreactivity for inx2 and inx3 in the crop using existing antibodies to Bombyx mori (Bm) inx2 and A. aegypti (Ae) inx3. Bminx2-like immunoreactivity localized primarily to muscle fibers of the crop as indicated by its colocalization with actin (Figure 6A–C). The immunolabeling of inx2 appeared to occur throughout the muscle cells (Figure 6A). In contrast, Aeinx3 immunoreactivity localized primarily to epithelial cells of the crop as indicated by its non-overlapping labeling with actin (Figure 6D–F). Notably, the labeling of inx3 was punctate or plaque-like near the lateral membranes of the epithelial cells (Figure 6D).
+
+Discussion
+The crop is a food storage organ found in adult dipteran insects. We utilized an in vitro assay to investigate the physiological regulation of crop contractions in mosquitoes, which has not been previously studied. As discussed below, our results demonstrate that the basic physiological and neuroendocrine mechanisms that regulate crop contractions are conserved among dipterans, and provide the first evidence for physiological roles of cAMP, PKA, and gap junctions in the dipteran crop.
+
+Physiological mechanisms and regulation of crop contraction
+The present study demonstrated that the crop of adult female A. aegypti spontaneously contracts in vitro at a rate of ~6 contractions per min; which is noticeably lower than corresponding rates (15–90 contractions per min) in P. regina, M. domestica, and D. melanogaster (Haselton et al. 2006; Kaminski et al. 2002; Liscia et al. 2012; Solari et al. 2017, 2013; Stoffolano et al. 2014b; Stoffolano et al. 2013). Whether the lower spontaneous contraction rate in female mosquitoes is adaptive to their hematophagous life style remains to be determined. Parallel experiments on the crops of male mosquitoes, which never consume blood, would help determine whether there is a correlation between spontaneous contraction rates and hematophagy.
+
+The present study also demonstrated that extracellular Ca2+ is necessary for crop contractions in A. aegypti. Similar results have been found in the crop of P. regina (Liscia et al. 2012; Solari et al. 2013), and in visceral muscle preparations of other insects; e.g., the oviduct of Locusta migratoria (Lange et al. 1995), hyperneural muscle of P. americana (Penzlin, 1994), and hindgut of P. americana (Cook and Holman, 1985). The contraction of the crop musculature is presumably dependent upon the entry of extracellular Ca2+ into the cytosol via voltage-gated and/or store-operated Ca2+ channels. This entry may be required to replenish intracellular Ca2+ stores that are necessary for muscle contraction. Moreover, entry of Ca2+ may modulate a Ca2+-activated K+-conductance, which has been shown to contribute to crop contractions in P. regina (Solari et al. 2013).
+
+Similar to studies on the isolated crops of P. regina and M. domestica (Richer et al. 2000; Stoffolano et al. 2013), we found that BzCl inhibits contractions of the mosquito crop. BzCl is a chemical that mimics the actions of myosupressins (Lange et al. 1995; Nachman et al. 1996), which are neuropeptides that inhibit muscular contractions; they were first identified in the cockroach Leucophaea maderae, and later in the fruit fly D. melanogaster (Holman et al. 1986; Nichols, 1991). Crops of P. regina, D. melanogaster, and M. domestica are innervated with myosupressin-immunoreactive neurons, and mRNAs encoding two myosupressin receptors (DMSR-1 and DMSR-2) are highly-enriched in the crop of D. melanogaster (Chintapalli et al. 2007; McCormick and Nichols, 1993; Richer et al. 2000; Robinson et al. 2013; Stoffolano and Haselton, 2013). Moreover, the myosupressin of D. melanogaster (dromyosupressin, DMS) inhibits crop contraction rates in P. regina and D. melanogaster (Richer et al. 2000). It is unclear how BzCl elicits its suppressive effects, but studies in D. melanogaster suggest that DMS receptors are G protein-coupled receptors that lead to a reduction of intracellular cAMP levels upon agonist binding (Egerod et al. 2003; Johnson et al. 2003). Whether BzCl elicits a similar reduction in intracellular cAMP remains to be determined. Nevertheless, our results indicate the presence of a BzCl-sensitive pathway in the mosquito crop, suggesting that myosupressins likely modulate its activity as occurs in the crops of other dipterans.
+
+To our knowledge, the present study is the first to examine a potential role of kinins in dipteran crop contractions. Kinins in A. aegypti are known to stimulate fluid secretion in Malpighian tubules and contractions of visceral muscle in the hindgut (Schepel et al. 2010; Veenstra et al. 1997). We found that AKIII did not detectably modulate contractions of the crop. Consistent with this negative data, mRNAs encoding the kinin receptor are weakly expressed in the crop of D. melanogaster, and kinin or kinin-receptor immunoreactivities have not been reported in the crop of D. melanogaster or A. aegypti (Al-Anzi et al. 2010; Chintapalli et al. 2007; Kersch and Pietrantonio, 2011).
+
+In contrast to BzCl, 5-HT stimulated contraction rates of the mosquito crop, suggesting the presence of 5-HT receptors. Similarly, 5-HT stimulates crop contractions in P. reginia and D. melanogaster (Liscia et al. 2012; Solari et al. 2017). The effects of 5-HT on the isolated mosquito crop in vitro suggest that in vivo the contractile activity of the crop can potentially be regulated by changes in hemolymph 5-HT levels and/or the release of 5-HT from 5-HT-immunoreactive neurons that innervate the crop of A. aegypti (Moffett and Moffett, 2005). In A. aegypti, 5-HT has also been shown to modulate the spontaneous contractile activity of visceral muscle in the anterior midgut of larvae and in the oviduct and hindgut of adult females (Messer and Brown, 1995; Onken et al. 2004).
+
+The molecular identities of the 5-HT receptors in the mosquito crop are unknown. In larvae of A. aegypti, a 5-HT7-like receptor has been cloned and functionally characterized (Lee and Pietrantonio, 2003; Pietrantonio et al., 2001); immunoreactivity for the receptor is found in axonal projections of the hindgut, but its molecular expression in the crop was not determined (Pietrantonio et al., 2001). Similar to the D. melanogaster 5-HT7-like receptor, the A. aegypti ortholog elicits an increase of intracellular cAMP upon 5-HT stimulation (Lee and Pietrantonio, 2003; Saudou et al., 1992; Witz, P. et al. 1990). Notably, we found that a membrane-permeable analog of cAMP (8-Bromo-cAMP) stimulated contraction rates. Thus, in the mosquito crop, 5-HT may in part stimulate crop contractions by binding to a 5-HT7-like receptor that signals to an increase of intracellular cAMP. Similar signaling of 5-HT occurs in other insect tissues, including various tissues of Rhodnius prolixus and salivary glands of Calliphora species (Barrett et al. 1993; Barrett and Orchard, 1990). Moreover, in D. melanogaster, mRNAs encoding 5-HT7-like receptors are enriched in the crop (Chintapalli et al. 2007; Robinson et al. 2013). We cannot rule out that 5-HT also binds to a 5-HT2-like receptor in the mosquito crop that would signal via inositol triphosphate (IP3) and diacylglycerol. In the crop of D. melanogaster, transcriptomic and pharmacological evidence supports the presence of a 5-HT2-like receptor (Chintapalli et al. 2007; Robinson et al. 2013; Solari et al. 2017), but in the crop of P. regina physiological evidence for a 5-HT-activated IP3 pathway is lacking (Liscia et al. 2012). Additional molecular and pharmacological studies of the mosquito crop will be necessary to further elucidate the 5-HT signaling pathway.
+
+To our knowledge, the present study is the first to show a direct effect of increasing intracellular cAMP (via addition of 8-Bromo-cAMP) on contractions of the dipteran crop. How an elevation of intracellular cAMP stimulates crop contractions remains to be determined, but it would be expected to have downstream effects on the activity of PKA and thereby the phosphorylation of proteins that influence muscle activity, such as voltage-gated Ca2+-channels (Bhattacharya et al. 1999). It is also possible that intracellular cAMP directly affects the activity of ion channels that influence muscle activity, such as a hyperpolarization-activated cyclic nucleotide-gated (HCN) channel (Biel et al. 2009). Consistent with the former notion, we found that the PKA inhibitor H-89 completely blocked the spontaneous crop contractions and their stimulation by 5-HT. Moreover, Rp-cAMPS, another PKA inhibitor, significantly dampened the stimulation of crop contractions by 5-HT. However, it should be noted that H-89, which inhibits the phosphorylation mechanism of activated PKA, can also inhibit S6 ribosomal, mitogen and stress-activated, and rho-associated protein kinases (Lochner and Moolman, 2006). On the other hand, Rp-cAMPS is considered more specific, as it binds to the cAMP-binding site of PKA, preventing its activation (Lochner and Moolman, 2006). Thus, our data suggest that active PKA is important for at least mediating part of the 5-HT-stimulated contractions, and contributions of other kinases to the spontaneous and 5-HT-stimulated contractions cannot be ruled out. To our knowledge, the present results are the first evidence for a physiological role of PKA in the dipteran crop.
+
+Roles for PKA mediating the physiological effects of 5-HT in other insects have been well described (Gioino et al. 2014; Paluzzi et al. 2013; Rein et al. 2008). Notably, 5-HT mediates its effects on the Malpighian tubules of R. prolixus and salivary glands of Calliphora vicina by stimulating cAMP and PKA-dependent changes to intracellular Ca2+ concentrations (Fechner et al. 2013; Gioino et al. 2014). Thus, it is possible in the mosquito crop that a 5-HT-mediated stimulation of PKA leads to changes in intracellular Ca2+ that affect muscle contractility.
+
+Gap junctions in the crop
+The present study provides the first evidence of gap junctions in the dipteran crop. In particular, we demonstrated that CBX inhibited spontaneous crop contractions in a concentration-dependent fashion. The IC50 of CBX (115.6 µM) in the crop was similar to concentrations commonly used to inhibit gap junctions in C. elegans and mice (Sangaletti et al. 2014; Xia and Nawy, 2003). Moreover, the addition of 5-HT did not stimulate crop contractions in the presence of CBX. Consistent with these pharmacological results, two innexin mRNAs, inx2 and inx7, were abundantly expressed in the crop. Notably, immunoreactivity for inx2 localized to muscle, suggesting a specialized role in connecting the visceral muscle cells. A similar localization of inx2 immunoreactivity has been reported in visceral muscle cells of the proventriculus in the cockroach P. americana, where inx2 has been proposed to contribute to propagating motile signals from the surface to inner layers of visceral muscle (Fushiki et al. 2010; Yoshimura et al. 2017). Thus, it is plausible that gap junctions play a similar role in the mosquito crop by mediating propagation of the contractile signal through the network of visceral muscles, from the distal to proximal ends where the peristaltic contraction begins and concludes, respectively.
+
+Intriguingly, although inx3 mRNA levels were expressed at relatively low levels compared to inx2 and inx7, we found prominent inx3 immunoreactivity in the crop epithelium where it localized to intercellular membranes, suggesting it is involved in communication between epithelial cells. We have observed a similar localization pattern of inx3 in epithelial cells of the hindgut, Malpighian tubules, and tracheal tubes of A. aegypti (Calkins et al. 2015). Thus, in ectodermally-derived tissues, inx3 may be important in intercellular communication. To date, the function of the crop epithelium is unknown, but it is presumably involved with secretion of cuticle that lines the lumen of the crop (Stoffolano and Haselton, 2013). Additional studies will be necessary to determine the functional significance of the crop epithelium and how inx3 may contribute to its functions.
+
+Summary and synthesis
+The present study is the first to characterize the physiological regulation of crop contractions in a mosquito and shows that in general the mechanisms of control are similar to those found in other dipterans. As summarized in Figure 7, we have shown that mosquito crop contractions require extracellular Ca2+, are inhibited by BzCl, and are stimulated by 5-HT. The stimulation of contractions by 8-Bromo-cAMP, and common inhibition of 5-HT-stimulated contractions by H-89 and Rp-cAMPS suggest that 5-HT binds to a putative 5-HT receptor that elevates intracellular cAMP and activates PKA. The inhibition of crop contractions by BzCl suggests that a myosupressin receptor is present, but additional studies are required to elucidate its signaling pathway. The inhibition of crop contractions by CBX suggests that gap junctions propagate the contraction signal through visceral muscle cells of the crop, where inx2 immunoreactivity localizes. In contrast, inx3 immunoreactivity localizes to intercellular membranes of the crop epithelial cells where its functional role remains to be determined.
+
+Supplementary Material
+1  2   This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+
+          Competing interests
+        
+
+No competing interests declared.
+
+We thank Dr. Ryoichi Yoshimura of the Kyoto Institute of Technology, Department of Applied Biology, for his generous contribution of the inx2 antibody. We also thank Ms. Nuris Acosta (OSU) and Ms. Edna Alfaro (OSU) for their assistance in mosquito rearing.
+
+
+        Funding
+      
+
+Funding for this study was provided by grants to 1) PMP from the NIH (R03DK090186) and Mosquito Research Foundation (2014–03), and 2) TLC from the OARDC SEEDS program (Grant# 2014–078; oardc.osu.edu/seeds), Ohio Mosquito Control Association Grant-In-Aid, and Sigma Xi Grants in Aid of Research. State and Federal funds appropriated to the OARDC of the Ohio State University also supported the study.
+
+Figure 1 Effects of time and extracellular calcium on the spontaneous contraction rates of isolated crops in vitro
+A) Temporal stability of spontaneous crop contraction rates. Values are means ± SEM (n = 10). The red box indicates the time range when experimental assays were performed (i.e., 5–20 minutes). Lower-case letters indicate statistical categorization of the crop contraction rates as determined by a repeated measures one-way ANOVA with Newman-Keuls post hoc analysis (P &lt; 0.05). B) Effects of extracellular Ca2+ on spontaneous crop contraction rates. Initial contraction rates were measured in a Ringer solution without Ca2+ (0 mM Ca2+). Contraction rates were measured again after adding Ca2+ (1.7 mM) to the bath. Values are means ± SEM (n = 7). ‘***’ indicates statistical difference (P &lt; 0.001) from ‘0 mM Ca2+’ as determined by a paired t-test.
+
+Figure 2 Effects of BzCl, AKIII, 5-HT, and 8-Bromo-cAMP on spontaneous contraction rates of isolated crops
+Concentrations of compounds are in parentheses. Values are means ± SEM. The % change is relative to paired controls. ‘****’ and ‘n.s.’ indicate significantly different (P &lt; 0.0001) and not significantly different (P &gt; 0.05), respectively, from ‘mock’ as determined by an unpaired t-test. N = 7 for all except for mock (n = 13) and AKIII (n = 3).
+
+Figure 3 Effects of PKA inhibitors on the spontaneous crop contractions and stimulation by 5-HT
+A) Effects of adding 10 µM H-89 to the bath followed by 10 nM 5-HT on crop contraction rates. Values are means ± SEM (n = 7). Lower-case letters indicate statistical categorization of the means as determined by a repeated-measures one-way ANOVA and Newman-Keuls post hoc analysis (p &lt; 0.05). B) Effects of adding 1% DMSO (the vehicle of Rp-cAMPS) or 1% DMSO and 250 µM Rp-cAMPS to the bath followed by 10 nM 5-HT on crop contraction rates. ‘Treat.’ = ‘Treatment’. Values are means ± SEM (n = 5). Lower-case letters indicate statistical categorization of the means as determined by a two-way ANOVA and Sidak’s post hoc analysis (p &lt; 0.05).
+
+Figure 4 Effects of the gap junction inhibitor CBX on the spontaneous crop contractions and stimulation by 5-HT
+A) Concentration-response curve for CBX on spontaneous crop contraction rates. Values are means ± SEM (n = 7 replicates per concentration). The % change is relative to paired controls. The IC50 of CBX is 115.6 µM (95% C.I. = 82.0–163) as determined by a non-linear curve fit (log [CBX] vs. normalized response – variable slope). B) Effects of adding 250 µM CBX to the bath followed by 10 nM 5-HT on crop contraction rates. Values are means ± SEM (n = 7). Lower-case letters indicate statistical categorization of the means as determined by a repeated measures one-way ANOVA and Newman-Keuls post hoc analysis (p &lt; 0.05).
+
+Figure 5 Relative expression levels of innexin mRNAs in the crop
+Each gene is normalized to the reference gene, ribosomal protein S7 (RPS7). Values are means ± SEM (n = 3). Lower-case letters indicate statistical significance as determined by one way ANOVA and Newman-Keuls post hoc analysis (P &lt; 0.05).
+
+Figure 6 Localization of inx2 and inx3 immunoreactivities in the crop
+In all panels, green indicates inx2 or inx3 immunolabeling, blue indicates DAPI nuclear staining, and red indicates phalloidin actin staining. In panel C, yellow indicates colocalization of inx2 and actin. The crop in panels A–C possessed a larger volume of sucrose upon isolation compared to the one in panels D–F. Thus, the muscle fibers and nuclei are more diffuse due to stretching of the crop. Parallel experiments were also performed in the dorsal diverticula, which produced similar results (Supplemental Figure 2).
+
+Figure 7 Hypothetical model of the mosquito crop function based on results of the present study
+‘(+)’ indicates a pharmacological agent or factor that promotes and/or enhances crop contractions. ‘(−)’ indicates a pharmacological agent or factor that inhibits crop contractions. White or black solid arrows indicate presumed target or mechanism of the pharmacological agent or factor. Green arrows indicate a signaling pathway. Yellow arrows indicate a contractile signal. ‘??’ indicates unknown or hypothesized. See text for details.
+
+
+   
+            Al-Anzi B  
+            Armand E  
+            Nagamei P  
+            Olszewski M  
+            Sapin V  
+            Waters C  
+            Zinn K  
+            Wyman RJ  
+            Benzer S  
+           2010 The leucokinin pathway and its neurons regulate meal size in Drosophila  Curr. Biol 20 969 978 10.1016/j.cub.2010.04.039 20493701 
+
+            Barrett FM  
+            Orchard I  
+            Tebrugge V  
+           1993 Characteristics of serotonin-induced cyclic AMP elevation in the integument and anterior midgut of the blood-feeding bug, Rhodnius prolixus  J. Insect Physiol 39 581 587 10.1016/0022-1910(93)90040-X 
+
+            Barrett M  
+            Orchard I  
+           1990 Serotonin-induced elevation of cAMP levels in the epidermis of the blood-sucking bug, Rhodnius prolixus  J. Insect Physiol 36 10.1016/0022-1910(90)90066-O 
+
+            Beyenbach KW  
+            Baumgart S  
+            Lau K  
+            Piermarini PM  
+            Zhang S  
+           2009 Signaling to the apical membrane and to the paracellular pathway: changes in the cytosolic proteome of Aedes  Malpighian tubules J. Exp. Biol 212 329 340 10.1242/jeb.024646 19151207 
+
+            Bhattacharya A  
+            Gu G-G  
+            Singh S  
+           1999 Modulation of the dihydropyridine-sensitive calcium channels in Drosophila  by a phospholipase C-mediated pathway J. Neurobiol 39 491 500 10380071 
+
+            Biel M  
+            Wahl-schott C  
+            Michalakis S  
+            Zong X  
+           2009 Hyperpolarization-activated cation channels : From Genes to Function Physiol. Rev 89 847 885 10.1152/physrev.00029.2008 19584315 
+
+            Calkins TL  
+            Woods-Acevedo MA  
+            Hildebrandt O  
+            Piermarini PM  
+           2015 The molecular and immunochemical expression of innexins in the yellow fever mosquito, Aedes aegypti : Insights into putative life stage- and tissue-specific functions of gap junctions Comp. Biochem. Physiol. Part B Biochem. Mol. Biol 183 11 21 10.1016/j.cbpb.2014.11.013 
+
+            Cao C  
+            Brown MR  
+           2001 Localization of an insulin-like peptide in brains of two flies Cell Tissue Res 304 317 321 10.1007/s004410100367 11396725 
+
+            Chintapalli VR  
+            Wang J  
+            Dow JAT  
+           2007 Using FlyAtlas to identify better Drosophila melanogaster  models of human disease Nat. Genet 39 715 20 10.1038/ng2049 17534367 
+
+            Chomczynski P  
+            Sacchi N  
+           1987 Single-step method of RNA isolation by acid guanidinium extraction Anal. Biochem 159 156 159 
+
+            Cook BJ  
+            Holman GM  
+           1985 The role of proctolin and glutamate in the excitation-contraction coupling of insect visceral muscle Comp. Biochem. Physiol. Part C, Comp 80 65 73 10.1016/0742-8413(85)90133-1 
+
+            Day MF  
+           1954 The mechanism of food distribution to midgut or diverticula in the mosquito Aust. J. Biol. Sci 7 515 524 13229847 
+
+            Duttlinger A  
+            Berry K  
+            Nichols R  
+           2002 The different effects of three Drosophila melanogaster  dFMRFamide-containing peptides on crop contractions suggest these structurally related peptides do not play redundant functions in gut Peptides 23 1953 1957 10.1016/S0196-9781(02)00179-1 12431733 
+
+            Egerod K  
+            Reynisson E  
+            Hauser F  
+            Cazzamali G  
+            Williamson M  
+            Grimmelikhuijzen CJ  
+           2003 Molecular cloning and functional expression of the first two specific insect myosuppressin receptors Proc. Natl. Acad. Sci. USA 100 9808 9813 10.1073/pnas.192442799 12907701 
+
+            Fechner L  
+            Baumann O  
+            Walz B  
+           2013 Activation of the cyclic AMP pathway promotes serotonin-induced Ca2+  oscillations in salivary glands of the blowfly Calliphora vicina  Cell Calcium 53 94 101 10.1016/j.ceca.2012.10.004 23131569 
+
+            Fushiki D  
+            Yoshimura R  
+            Endo Y  
+           2010 Immunocytochemical study of gap junction-related protein, innexin 2, in Periplaneta americana  (Blattodea: Blattidae) Appl. Entomol. Zool 45 245 251 10.1303/aez.2010.245 
+
+            Gelperin A  
+           1966 Control of crop emptying in the blowfly J. Insect Physiol 12 331 345 
+
+            Gioino P  
+            Murray BG  
+            Ianowski JP  
+           2014 Serotonin triggers cAMP and PKA-mediated intracellular calcium waves in Malpighian tubules of Rhodnius prolixus  Am. J. Physiol. Regul. Integr. Comp. Physiol 307 R828 R836 10.1152/ajpregu.00561.2013 25009218 
+
+            Gioino P  
+            Murray BG  
+            Ianowski JP  
+           2014 Serotonin triggers cAMP and PKA-mediated intracellular calcium waves in Malpighian tubules of Rhodnius prolixus  Am. J. Physiol. Regul. Integr. Comp. Physiol 307 R828 36 10.1152/ajpregu.00561.2013 25009218 
+
+            Haselton AT  
+            Stoffolano JG  
+            Nichols R  
+            Yin C-M  
+           2004 Peptidergic innervation of the crop and the effects of an ingested nonpeptidal agonist on longevity in female Musca domestica  (Diptera: Muscidae) J. Med. Entomol 41 684 90 15311461 
+
+            Haselton AT  
+            Yin C  
+            Stoffolano JG  
+           2006 The effects of Calliphora vomitoria  Tachykinin-I and the FMRFamide-related peptide Perisulfakinin on female Phormia regina  crop contractions, in vitro J. Insect Physiol 52 436 441 10.1016/j.jinsphys.2005.12.003 16445936 
+
+            Holling CS  
+           1976 A model of foregut activity in the blowfly Can. J. Zool 53 1039 1046 
+
+            Holman GM  
+            Cook BJ  
+            Nachman RJ  
+           1986 Isolation, primary structure and synthesis of leucomyosuppressin, an insect neuropeptide that inhibits spontaneous contractions of the cockroach hindgut Comp. Biochem. Physiol. Part C, Comp 85 329 333 10.1016/0742-8413(86)90202-1 
+
+            Johnson EC  
+            Bohn LM  
+            Barak LS  
+            Birse RT  
+            Nässel DR  
+            Caron MG  
+            Taghert PH  
+           2003 Identification of Drosophila  neuropeptide receptors by g protein-coupled receptors-β-arrestin2 interactions J. Biol. Chem 278 52172 52178 10.1074/jbc.M306756200 14555656 
+
+            Kaminski S  
+            Orlowski E  
+            Berry K  
+            Nichols R  
+           2002 The effects of three Drosophila melanogaster  myotropins on the frequency of foregut contractions differ J. Neurogenet 16 125 134 10.1080/01677060290024619 12479379 
+
+            Kersch CN  
+            Pietrantonio PV  
+           2011 Mosquito Aedes aegypti  (L.) leucokinin receptor is critical for in vivo fluid excretion post blood feeding FEBS Lett 585 3507 12 10.1016/j.febslet.2011.10.001 22019456 
+
+            Lange aB  
+            Orchard I  
+            Wang Z  
+            Nachman RJ  
+           1995 A nonpeptide agonist of the invertebrate receptor for SchistoFLRFamide (PDVDHVFLRFamide), a member of a subfamily of insect FMRFamide-related peptides Proc. Natl. Acad. Sci. USA 92 9250 3 10.1073/pnas.92.20.9250 7568111 
+
+            Lee DW  
+            Pietrantonio PV  
+           2003 In vitro expression and pharmacology of the 5-HT7-like receptor present in the mosquito Aedes aegypti  tracheolar cells and hindgut-associated nerves Insect Mol. Biol 12 561 569 10.1046/j.1365-2583.2003.00441.x 14986917 
+
+            Lee G  
+            Park JH  
+           2004 Hemolymph sugar homeostasis and starvation-induced hyperactivity affected by genetic manipulations of the adipokinetic hormone-encoding gene in Drosophila melanogaster  Genetics 167 311 323 10.1534/genetics.167.1.311 15166157 
+
+            Liscia A  
+            Solari P  
+            Gibbons ST  
+            Gelperin A Jr  
+            J GS  
+           2012 Effect of serotonin and calcium on the supercontractile muscles of the adult blowfly crop J. Insect Physiol 58 356 366 10.1016/j.jinsphys.2011.12.010 22223038 
+
+            Liu SS  
+            Li AY  
+            Witt CM  
+            Pérez de León AA  
+           2011 Immunohistological localization of serotonin in the CNS and feeding system of the stable fly Stomoxys calcitrans  (Diptera: Muscidae) Arch. Insect Biochem. Physiol 77 199 219 10.1002/arch.20434 21678485 
+
+            Lochner A  
+            Moolman JA  
+           2006 The many faces of H89: A review Cardiovasc. Drug Rev 24 261 274 10.1111/j.1527-3466.2006.00261.x 17214602 
+
+            McCormick J  
+            Nichols R  
+           1993 Spatial and temporal expression identify dromyosuppressin as a brain-gut peptide in Drosophila melanogaster  J. Comp. Neurol 338 279 288 10.1002/cne.903380210 
+
+            Messer AC  
+            Brown MR  
+           1995 Non-linear dynamics of neurochemical modulation of mosquito oviduct and hindgut contractions J. Exp. Biol 193 2325 2336 
+
+            Moffett SB  
+            Moffett DF  
+           2005 Comparison of immunoreactivity to serotonin, FMRFamide and SCPb in the gut and visceral nervous system of larvae, pupae and adults of the yellow fever mosquito Aedes aegypti  J. Insect Sci 5 1 12 10.1093/jis/5.1.20 16299591 
+
+            Nachman RJ  
+            Olender EH  
+            Roberts VA  
+            Holman GM  
+            Yamamoto D  
+           1996 A nonpeptidal peptidomimetic agonist of the insect FLRFamide myosuppressin family Peptides 17 313 320 10.1016/0196-9781(95)02097-7 8801539 
+
+            Nichols R  
+           1991 Isolation and structural characterization of Drosophila  TDVDHVFLRFamide and FMRFamide-containing neural peptides J. Mol. Neurosci 3 213 218 
+
+            Onken H  
+            Moffett SB  
+            Moffett DF  
+           2004 The anterior stomach of larval mosquitoes (Aedes aegypti ): effects of neuropeptides on transepithelial ion transport and muscular motility J. Exp. Biol 207 3731 3739 10.1242/jeb.01208 15371480 
+
+            Palmer GC  
+            Tran T  
+            Duttlinger A  
+            Nichols R  
+           2007 The drosulfakinin 0 (DSK 0) peptide encoded in the conserved Dsk gene affects adult Drosophila melanogaster  crop contractions J. Insect Physiol 53 1125 1133 10.1016/j.jinsphys.2007.06.001 17632121 
+
+            Paluzzi JP  
+            Yeung C  
+            O’Donnell MJ  
+           2013 Investigations of the signaling cascade involved in diuretic hormone stimulation of Malpighian tubule fluid secretion in Rhodnius prolixus  J. Insect Physiol 59 1179 1185 10.1016/j.jinsphys.2013.09.005 24080126 
+
+            Peller CR  
+            Bacon EM  
+            Bucheger JA  
+            Blumenthal EM  
+           2009 Defective gut function in drop-dead mutant Drosophila  J. Insect Physiol 55 834 839 10.1016/j.jinsphys.2009.05.011 19500585 
+
+            Penzlin H  
+           1994 Antagonistic control of the hyperneural muscle in Periplaneta americana  (L.) (Insecta, Blattaria) J. Insect Physiol 40 39 51 10.1016/0022-1910(94)90110-4 
+
+            Piermarini PM  
+            Hine RM  
+            Schepel M  
+            Miyauchi J  
+            Beyenbach KW  
+           2011 Role of an apical K,Cl cotransporter in urine formation by renal tubules of the yellow fever mosquito (Aedes aegypti ) Am. J. Physiol. Regul. Integr. Comp. Physiol 301 R1318 37 10.1152/ajpregu.00223.2011 21813871 
+
+            Pietrantonio PV  
+            Jagge C  
+            McDowell C  
+           2001 Cloning and expression analysis of a 5HT7-like serotonin receptor cDNA from mosquito Aedes aegypti  female excretory and respiratory systems Insect Mol. Biol 10 357 369 10.1046/j.0962-1075.2001.00274.x 11520359 
+
+            Rein J  
+            Voss M  
+            Blenau W  
+            Walz B  
+            Baumann O  
+           2008 Hormone-induced assembly and activation of V-ATPase in blowfly salivary glands is mediated by protein kinase A Am. J. Physiol. Cell Physiol 294 C56 65 10.1152/ajpcell.00041.2007 17977948 
+
+            Richer S  
+            Stoffolano JG  
+            Yin C  
+            Nichols R  
+           2000 Innervation of dromyosuppressin (DMS) immunoreactive processes and effect of DMS and benzethonium chloride on the Phormia regina  (Meigen) Crop J. Comp. Neurol 142 136 142 
+
+            Robinson SW  
+            Herzyk P  
+            Dow JAT  
+            Leader DP  
+           2013 FlyAtlas: Database of gene expression in the tissues of Drosophila melanogaster  Nucleic Acids Res 41 744 750 10.1093/nar/gks1141 
+
+            Rozental R  
+            Srinivas M  
+            Spray DC  
+           2001 How to close a gap junction channel Methods Mol Biol 154 447 476 11218664 
+
+            Sangaletti R  
+            Dahl G  
+            Bianchi L  
+           2014 Mechanosensitive unpaired innexin channels in C. elegans  touch neurons Am. J. Physiol. Cell Physiol 10.1152/ajpcell.00246.2014 
+
+            Saudou F  
+            Boschert U  
+            Amlaiky N  
+            Plassat JL  
+            Hen R  
+           1992 A family of Drosophila  serotonin receptors with distinct intracellular signalling properties and expression patterns EMBO J 11 7 17 1310937 
+
+            Schepel SA  
+            Fox AJ  
+            Miyauchi JT  
+            Sou T  
+            Yang JD  
+            Lau K  
+            Blum AW  
+            Nicholson LK  
+            Tiburcy F  
+            Nachman RJ  
+            Piermarini PM  
+            Beyenbach KW  
+           2010 The single kinin receptor signals to separate and independent physiological pathways in Malpighian tubules of the yellow fever mosquito Am. J. Physiol. Regul. Integr. Comp. Physiol 299 R612 R622 10.1152/ajpregu.00068.2010 20538895 
+
+            Solari P  
+            Rivelli N  
+            Rose FDe  
+            Picciau L  
+            Murru L  
+            Stoffolano JG  
+            Liscia A  
+           2017 Opposite effects of 5-HT / AKH and octopamine on the crop contractions in adult Drosophila melanogaster  : Evidence of a double brain-gut serotonergic circuitry PLoS One 12 e0174172 28334024 
+
+            Solari P  
+            Stoffolano JG  
+            Fitzpatrick J  
+            Gelperin A  
+            Thomson A  
+            Talani G  
+            Sanna E  
+            Liscia A  
+           2013 Regulatory mechanisms and the role of calcium and potassium channels controlling supercontractile crop muscles in adult Phormia regina  J. Insect Physiol 59 942 952 10.1016/j.jinsphys.2013.06.010 23834826 
+
+            Stoffolano JG  
+            Croke K  
+            Chambers J  
+            Gäde G  
+            Solari P  
+            Liscia A  
+           2014a Role of Phote-HrTH (Phormia terraenovae  hypertrehalosemic hormone) in modulating the supercontractile muscles of the crop of adult Phormia regina  Meigen. J. Insect Physiol 71 147 155 10.1016/j.jinsphys.2014.10.014 25450427 
+
+            Stoffolano JG  
+            Danai L  
+            Chambers J  
+           2013 Effect of channel blockers on the smooth muscle of the adult crop of the queen blowfly, Phormia regina  J. Insect Sci 13 1 10 23879856 
+
+            Stoffolano JG  
+            Haselton AT  
+           2013 The adult dipteran crop: a unique and overlooked organ Annu. Rev. Entomol 58 205 25 10.1146/annurev-ento-120811-153653 23317042 
+
+            Stoffolano JG  
+            Patel B  
+            Tran L  
+           2014b Effect of crop volume on contraction rate in adult house fly Ann. Entomol. Soc. Am 107 848 852 10.1603/AN13127 
+
+            Tiburcy F  
+            Beyenbach KW  
+            Wieczorek H  
+           2013 Protein kinase A-dependent and -independent activation of the V-ATPase in Malpighian tubules of Aedes aegypti  J. Exp. Biol 216 881 91 10.1242/jeb.078360 23197085 
+
+            Veenstra JA  
+            Pattillo JM  
+            Petzel DH  
+           1997 A single cDNA encodes all three Aedes  leucokinins, which stimulate both fluid secretion by the Malpighian tubules and hindgut contractions J. Biol. Chem 272 10402 10407 10.1074/jbc.272.16.10402 9099680 
+
+            Weng X-H  
+            Piermarini PM  
+            Yamahiro A  
+            Yu M-J  
+            Aneshansley DJ  
+            Beyenbach KW  
+           2008 Gap junctions in Malpighian tubules of Aedes aegypti  J. Exp. Biol 211 409 22 10.1242/jeb.011213 18203997 
+
+            Witz P  
+            Amlaiky N  
+            Plassat JL  
+            Maroteaux L  
+            Borrelli E  
+            Hen R  
+           1990 Cloning and characterization of a Drosophila  serotonin receptor that activates adenylate cyclase Proc. Natl. Acad. Sci. USA 87 8940 8944 2174167 
+
+            Xia Y  
+            Nawy S  
+           2003 The gap junction blockers carbenoxolone and 18beta-glycyrrhetinic acid antagonize cone-driven light responses in the mouse retina Vis. Neurosci 20 429 435 10.1017/S0952523803204089 14658771 
+
+            Yoshimura R  
+            Suetsugu T  
+            Endo Y  
+           2017 Serotonergic transmission and gap junctional coupling in proventricular muscle cells in the American cockroach, Periplaneta americana  J. Insect Physiol 99 122 129 10.1016/j.jinsphys.2017.04.006 28433752 
+
+            Zubrzak P  
+            Williams H  
+            Coast GM  
+            Isaac RE  
+            Reyes-Rangel G  
+            Juaristi E  
+            Zabrocki J  
+            Nachman RJ  
+           2007 Beta-amino acid analogs of an insect neuropeptide feature potent bioactivity and resistance to peptidase hydrolysis Biopolymers 88 76 82 17117460 
+

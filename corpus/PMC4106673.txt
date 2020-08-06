@@ -1,0 +1,82 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10127811133707Nanomedicine (Lond)Nanomedicine (Lond)Nanomedicine (London, England)1743-58891748-696322026373410667310.2217/nnm.11.129NIHMS599998ArticleNanoparticles for Rapid Detection of Microbial Threats Li Xiaoning Rotello Vincent M. *rotello@chem.umass.edu* Department of Chemistry, University of Massachusetts, 710 North Pleasant Street, Amherst, Massachusetts 0100313 6 2014 10 2011 22 7 2014 6 8 1295 1296 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.nanoparticlesmicrobial detectionbiosensors
+   The E. coli outbreak in Germany and the NDM-expressing “super bugs” in Asia remind us that microorganisms are one of the biggest threats to the public health on the global scale. As a result, rapid and sensitive detection of microbes is a key requirement in food safety, environmental monitoring, and clinical diagnosis and treatment. Conventional techniques for pathogenic bacteria identification and detection include the culture and colony counts,1 polymerase chain reaction (PCR),2 and immunological approaches.3 These classic methods, though powerful and reliable, are slow (usually taking more than 24 hours), generating a critical delay for environmental monitoring and diagnoses. Additionally, these methods are expensive to implement and require trained personnel, a particularly severe limitation for developing nations.
+
+Advances in nanotechnology provide new tools for the rapid and sensitive microbial detection. Nanoparticles (NPs), for example, feature unique size-dependent properties such as enhanced surface reactivity, surface plasmon resonance, quantum confinement, and superparamagnetism, making them excellent materials for the creation of next generation biosensors.
+
+There are two primary ways to identify bacteria, genotyping and phenotyping. Nanoparticles have been incorporated quartz crystal microbalance (QCM) DNA sensors.4 For example, a single-strand DNA probe complementary to the target bacterial DNA was immobilized onto the QCM sensor surface. Upon exposure to the target DNA, hybridization was induced and streptavidin conjugated Fe3O4 nanoparticles were then used to bind with biotinylated target DNA as “mass enhancers” to amplify the frequency change. This method could identify 3× 102
+Escherichia coli (E.coli) O157:H7 cells/ml.
+
+Phenotypic identification of bacteria focuses on morphological or biomarker differences between bacteria. Biomarkers on bacterial cell surfaces are more accessible and sensing based on recognition of surface biomarkers eliminates the need of analyte pre-treatment, offering rapid detection. NPs functionalized with bacteria-specific antibodies can specifically bind to one type of bacteria, and various properties of NPs provide different sensing principles. Ravindranath and co-workers used magnetic NPs conjugated with anti-E. coli O157:H7 or anti-Salmonella typhimurium antibodies that can specifically bind to their target organisms to isolate E. coli O157:H7 and S. typhimurium separately from a cocktail of bacteria.5 The labeled pathogens were detected later by a portable mid-IR spectrometer that enabled the approach as a point-of-care detection technology with a limit of detection (LOD) 104–105 cells/mL. In an alternate strategy, Lee et al. reported a novel, miniaturized diagnostic magnetic resonance (DMR) system using magnetic particles as a proximity sensor to amplify molecular interactions.6 Magnetic NPs functionalized with vancomycin bind to D-alanyl-D-alanine moieties in the bacterial cell wall, causing relaxation time decreases in a concentration-dependant fashion. This highly sensitive system was able to detect 103 cells/mL of Staphylococcus aureus as a model organism. Electrostatic interaction with bacterial cells has also been utilized for bacterial detection. Positively charged hydroxyl-terminated polyamidoamine (PAMAM) dendrimers were demonstrated to capture bacterial cells via electrostatic interactions during bacteria sensing process. A real time sensor for waterborne bacteria used a film of amine-terminated G4 PAMAM dendrimers with embedded reporter fluorophores, giving the limit of detection (LOD) of 104 cells/mL.7
+
+Strategies relying on specific recognition of bacterial surfaces require pre-knowledge of target analytes, with the resulting sensors limited to specific strains of bacteria. Selective interactions with bacteria provide a more general pathway in microbial detection. AuNPs functionalized with quaternary amine ligands provide an excellent system for array-based “chemical nose” sensing approaches.8 In one example by Rotello, an array of gold nanoparticle–conjugated fluorescent polymer constructs achieved rapid detection and identification of 9 different species of bacteria as well as 3 strains of E. coli. 9 In this system, cationic gold nanoparticles were bound to poly (paraphenyleneethynylene) (PPE) in solution to afford fluorescence-quenched complexes, with signal generation occurring upon displacement of the polymer from the NP surface by bacteria.
+
+Two major challenges for widespread implementation of bacterial sensors are limits of detection and ease/expense of implementation. To address these issues, Rotello has developed a colorimetric nanocomposite biosensor using an enzymatic amplification process to provide high sensitivity for detection of bacteria.10 β-Galactosidase (β-Gal) was reversibly bound to cationic AuNPs , inhibiting enzymatic activity. Binding of bacteria to the cationic particle surface displaced the β-Gal with concomitant restoration of activity that was transduced using a chromogenic substrate. This system detected E. coli at 102 cells/mL. This strategy was applied to a test-strip-based format, providing rapid detection with limits of 104 cells/mL.
+
+Taken together, the size and properties of nanoparticles make them excellent platforms for detection and identification of pathogens. Recent studies have incorporated these particles in both devices and “low tech” test strip formats, providing a glimpse of the potential versatility of these systems in microbial sensing. Clearly, there are many directions that can be pursued in the area of pathogen detection, with the genuine potential to save lives and improve the world in myriad other ways.
+
+Support of the NIH (GM077173-05) is gratefully acknowledged.
+
+
+   1 
+            Allen MJ  
+            Edberg SC  
+            Reasoner DJ  
+           Heterotrophic plate count bacteria - what is their significance in drinking water? Int J Food Microbiol 92 265 274 2004 15145585 
+2 
+            Burtscher C  
+            Wuertz S  
+           Evaluation of the use of PCR and reverse transcriptase PCR for detection of pathogenic bacteria in biosolids from anaerobic digestors and aerobic composters Appl Environ Microbiol 69 4618 4627 2003 12902250 
+3 
+            Van Dyck E  
+            Ieven M  
+            Pattyn S  
+            Van Damme L  
+            Laga M  
+           Detection of Chlamydia trachomatis  and Neisseria gonorrhoeae  by enzyme immunoassay, culture, and three nucleic acid amplification tests J Clin Microbiol 39 1751 1756 2001 11325985 
+4 
+            Mao XL  
+            Yang LJ  
+            Su XL  
+            Li YB  
+           A nanoparticle amplification based quartz crystal microbalance DNA sensor for detection of Escherichia coli  O157 : H7 Biosens Bioelectron 21 1178 1185 2006 15951163 
+5 
+            Ravindranath SP  
+            Mauer LJ  
+            Deb-Roy C  
+            Irudayaraj J  
+           Biofunctionalized magnetic nanoparticle integrated mid-infrared pathogen sensor for food matrixes Anal Chem 81 2840 2846 2009 19281189 
+6 
+            Lee H  
+            Sun E  
+            Ham D  
+            Weissleder R  
+           Chip-NMR biosensor for detection and molecular analysis of cells Nat Med 14 869 874 2008 18607350 
+7 
+            Ji J  
+            Schanzle A  
+            Tabacco MB  
+           Real-time detection of bacterial contamination in dynamic aqueous environments using optical sensors Anal Chem 76 1411 1418 2004 14987098 
+8 
+            You CC  
+            Miranda OR  
+            Rotello VM  
+             
+           Detection and identification of proteins using nanoparticle-fluorescent polymer 'chemical nose' sensors Nat Nanotech 2 318 323 2007 
+9 
+            Phillips RL  
+            Miranda OR  
+            You CC  
+            Rotello VM  
+            Bunz UHF  
+           Rapid and efficient identification of bacteria using gold-nanoparticle - Poly(para-phenyleneethynylene) constructs Angew Chem Int Ed 47 2590 2594 2008 
+10 
+            Miranda OR  
+            Li X  
+            Rotello VM  
+            Bunz UHF  
+             
+           Colorimetric bacteria sensing using a supramolecular enzyme-nanoparticle biosensor J Am Chem Soc 133 9650 9653 2011 21627131 
+

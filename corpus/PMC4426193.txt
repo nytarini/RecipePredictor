@@ -1,0 +1,360 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   01476213548Environ ResEnviron. Res.Environmental research0013-93511096-095325460659442619310.1016/j.envres.2014.10.037NIHMS645895ArticleUrinary bisphenol A and age at menarche among adolescent girls: Evidence from NHANES 2003–2010 McGuinn Laura A. aGhazarian Armen A. bSu L. Joseph bEllison Gary L. ba Department of Epidemiology, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USAb National Cancer Institute, National Institutes of Health, Bethesda, Maryland, USACorresponding Author: Laura A. McGuinn, Department of Epidemiology, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, CB # 7435, Chapel Hill, North Carolina, 27599. USA. Telephone: +1 919 966 0675. lmcguinn@live.unc.edu4 12 2014 25 11 2014 1 2015 01 1 2016 136 381 386 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+Bisphenol A (BPA) is an environmental estrogen used in the manufacture of polycarbonate plastics and epoxy resins used to make food and beverage packaging. Increasing evidence suggests that BPA mimics estrogens in the body and may be associated with putative markers of breast cancer risk.
+
+Objectives
+We analyzed the National Health and Nutrition Examination Survey (NHANES) 2003–2010 data to investigate the association of BPA with age at menarche in adolescent girls. We hypothesized that urinary BPA, as a surrogate biomarker for BPA exposure, is associated with earlier age at menarche, and that body mass index (BMI) may modulate this association.
+
+Methods
+We conducted cross-sectional analyses of urinary BPA, BMI and age of menarche in a subsample of 987 adolescent girls aged 12–19, using pooled data from the 2003–2010 NHANES. Unconditional logistic regression was used to estimate odds ratios (ORs) and 95% confidence intervals (CI) for the association between urinary BPA and early onset of menarche, with adjustment for sampling design. We additionally assessed interaction of BPA with BMI.
+
+Results
+Adolescent girls with moderate BPA levels appeared to be less likely to have early onset of menarche than those with the lowest levels (OR=0.57; 95% CI=0.30, 1.08) after adjusting for age, race/ethnicity, parental education, country of birth, NHANES cycle, BMI and creatinine. BMI appeared to modify the BPA-menarche association.
+
+Conclusions
+Although a non-significant trend suggests increasing urinary BPA may be associated with delayed menarche in adolescent girls, these results are based on cross-sectional data. Results should be clarified in carefully designed longitudinal cohort studies.
+
+pubertyBisphenol Aendocrine disruptorsbreast cancermenarche
+   1. Introduction
+Bisphenol A (BPA) is an estrogen-like endocrine disrupting chemical (EDC) of phenolic nature that has been used for over 50 years in the manufacture of polycarbonate plastics and epoxy resins (Centers for Disease Control and Prevention, 2012). Polycarbonate plastics are used in food and drink packaging, while epoxy resins are used to coat the inside of metal cans. BPA can leach into food sources, particularly at high temperatures, thus dietary intake is suggested to be the main source of BPA exposure for the majority of the population (von Goetz et al., 2010). The Environmental Protection Agency (EPA) considers BPA a high production chemical, with the United States (US) volume of BPA totaling 2.4 billion pounds in 2007 (U.S. Environmental Protection Agency, 2010). Thus, due to its high volume production and ubiquitous application, human exposure to BPA is widespread. Data from the 2003–2004 National Health and Nutrition Examination Survey (NHANES) revealed detectable levels of BPA in 92.6% of individuals 6 years of age and older (Calafat et al., 2008).
+
+There is little conclusive evidence of the health effects from BPA exposure in humans at low environmental doses. In animal studies, high dose BPA exposure has been shown to disrupt reproductive development including preputial separation (Ema et al., 2001; Tyl et al., 2002), delayed vaginal opening (Ashby and Tinwell, 1998) and delayed testicular descent (Nagao et al., 1999). Additionally, BPA exposure has demonstrated neurological effects including stimulation of neuronal differentiation and possible disruption of neonatal brain development (Kim et al., 2009). Animal studies conducted in rats suggest possible effects such as disruption to the hypothalamic-pituitary-gonadal axis (Rasier et al., 2006), changes to fetal mammary gland morphology (Moral et al., 2008), and carcinogenesis (Betancourt et al., 2010; Jenkins et al., 2009).
+
+The adverse effects of EDCs such as BPA are especially prominent during puberty, with evidence from both animal and human studies (Parent et al., 2005). It has been suggested that at the onset of puberty, the neuroendocrine processes become highly vulnerable to environmental factors that can permanently affect the development and functionality of reproductive organs, growth spurt, and maturation of the brain (Roy et al., 2009). Epidemiological studies have shown associations with EDCs such as phthalates, dichlorodiphenyldichloroethylene (DDE), polybrominated biphenyls (PBB) and early onset of pubertal development in girls (Ozen and Darcan, 2011). BPA specifically has been shown to act as a hormonal agonist in animal models of reproductive development, thus accelerating pubertal development (Honma et al., 2002).
+
+The average age of pubertal onset in girls has fallen over the years (Biro et al., 2010). Studies also suggest a decline in the age of onset of menarche in girls (Herman-Giddens, 2006; Kaplowitz, 2008). Early age of menarche in girls is associated with many adverse psychosocial and health outcomes later in life including obesity, depression, and breast cancer (Black and Klein, 2012). Specifically, research supports about a 30% increase in the risk of breast cancer for early age of menarche (Biro and Wolff, 2011). Of increasing concern is the association between environmental exposures and early menarche, particularly for EDCs such as BPA (Biro et al., 2009).
+
+There is very limited epidemiologic data on BPA exposure in children as it relates to pubertal development. The current study analyzed data from the 2003–2010 NHANES to investigate the association of urinary BPA with age at menarche in adolescent girls. We hypothesized that urinary BPA concentration is associated with earlier age at menarche. Additionally, obesity is a strong endogenous hormonal risk factor for pubertal development (Kaplowitz, 2008). We hypothesized that obesity, as measured by body mass index (BMI), may modify the association between urinary BPA concentrations and age at menarche.
+
+2. Methods
+2.1. Study population
+Pooled data from the 2003–2004, 2005–2006, 2007–2008, and 2009–2010 NHANES was used to investigate the association between urinary BPA concentrations and age at menarche in adolescent girls. NHANES utilizes a complex, multistage, probability cluster design of the civilian, non-institutionalized US population. Four sets of NHANES data were selected (2003–2010) and merged in order to create more precise survey estimates. The sample was restricted to female adolescents (aged 12–19 years) in order to assess BPA exposure near the age of menarche (n=3,493). Female adolescents were included if they had completed the reproductive health questionnaire and had complete data on age at menarche (n=3,114). Urinary BPA concentrations were measured in a random, one-third subsample of all participants aged 6 years and up. The study sample was further restricted to those that had measurements of BPA. The final sample size consisted of 987 adolescent girls.
+
+2.2. Urinary BPA concentrations
+One spot urine samples were collected from participants in the 2003–2010 continuous NHANES. Urinary BPA concentrations were measured using online solid phase extraction (SPE) coupled with high performance liquid chromatography (HPLC) isotope dilution-tandem mass spectrometry (MS/MS). Analysis was conducted at the Division of Environmental Health Laboratory Sciences, National Center for Environmental Health, Centers for Disease Control and Prevention (CDC) (National Center for Health Statistics, 2010). Coefficients of variation for low and high-concentrations were 18.6% and 12.1% in 2003–2004, 12.6% and 11.2% in 2005–2006, 8.1% and 5.7% in 2007–2008, and 8.1% and 5.7% in 2009–2010, respectively. The lower limit of detection (LLOD) was uniform across all years of data collection: 0.36 in 2003–2004, 0.4 in 2005–2006, 0.4 in 2007–2008, and 0.4 in 2009–2010. We categorized urinary BPA concentrations into tertiles based on the distribution of BPA in girls who achieved menarche at or above age 12.
+
+2.3. Age at menarche
+Age at menarche was assessed using the reproductive health questionnaire by asking girls aged ≥16 years “How old were you when you had your first menstrual period?” For girls aged 12–15, their parent or guardian was used as a proxy and completed the questionnaire for them.
+
+Of the 987 adolescent girls, 59 had not reached menarche prior to urinary analysis. Of the 59 girls who had not reached menarche, 58 (98%) of them were aged 12–15. Age of menarche was categorized as &lt;12 and ≥12 years of age based on the mean age among girls who attained menarche. Menarche was considered “early” if it was achieved before 12 years of age.
+
+2.4. Potential confounders
+Potential confounders were identified from the literature and include: age (continuous in years), race/ethnicity (non-Hispanic white, non-Hispanic black, Mexican American, other/multi-racial), poverty income ratio (PIR: ratio of income to the family’s appropriate poverty threshold, categorized as &lt;1, 1–2, 2–3, and ≥3), country of birth (assessed by asking “In what country were you born”, categorized as U.S. born or not), level of guardian education (&lt;high school, high school or equivalent, and college graduate), annual household income (&lt;$20,000, $20,000 to $35,000, $35,000 to $65,000, and ≥$65,000), and body mass index (BMI). Centers for Disease Control and Prevention (CDC) 2000 growth charts were used to convert NHANES BMI values into age- and gender-specific BMI percentile levels (&lt;50th, 50–85th, and ≥85th percentile).
+
+2.5. Statistical analysis
+In order to account for the complex sampling design used in NHANES, all analyses were adjusted for sampling strata and clusters. Corresponding weights for each round of the sample were used. Weighted estimates were computed in accordance with the NHANES Analytic and Reporting Guidelines, and the smallest subsample weights were used (urinary BPA subsamples B and C) (National Center for Health Statistics, 2006). Taylor series linearization was used to take into account clustering using the masked variance pseudo-psu and pseudo-stratum variables.
+
+Logistic regression was used to estimate odds ratios (ORs) and 95% confidence intervals (CIs) for the association between urinary BPA and menarche before 12 years of age. We further examined if this association was modified by BMI by including an interaction term between urinary BPA and BMI and by using the Wald test. BMI was categorized as overweight (≥85th percentile) and not overweight (&lt;85th percentile) for the interaction analyses. Chi-square tests were used to assess associations between urinary BPA tertiles and potential cofounders. If a covariate from the list of potential confounders changed the OR between tertiles of urinary BPA and age of menarche by 10 percent or more in a logistic regression model, then it was included in the final model as a confounder. Urinary BPA concentrations were positively skewed, thus, log-transformation was applied to the measurements to achieve a normal distribution. Linear trend of BPA exposure and age at menarche was assessed by using the log-transformed values of urinary BPA. The values presented in the tables were reverse-log-transformed. Statistical significance was defined by p-values &lt;0.05. All statistical analyses were performed using Stata 11.0 (Stata Corp, LP, College Station, TX). Finally, all models were adjusted for urinary creatinine to correct for urinary dilution (Barr et al., 2005).
+
+3. Results
+The study sample comprised of 987 adolescent girls aged 12–19 years in the 2003–2010 NHANES. The weighted study sample was primarily non-Hispanic white (62.5%), from a household that had an annual income greater than $65,000 (40.3%), and had parents with more than a high school degree (54.1%). There was a higher percentage of girls in the 50–85th (37.3%) and ≥85th (35.3%) BMI age- and sex-specific percentiles (Table 1). Higher urinary BPA concentrations were observed for non-Hispanic Whites, African Americans, and those in the ≥85th BMI percentile. Girls in the 12–15 year old age category had similar BPA concentrations compared to those in the 16–19 age category. PIR, annual household income, and level of guardian education were not associated with urinary BPA concentrations (Table 1).
+
+The overall geometric mean of urinary BPA concentration was 2.64 ng/mL (95% CI 2.41, 2.89). The geometric means of urinary BPA were 3.49 ng/mL (95% CI 2.86, 4.26) in the 2003–2004 NHANES cycle, 2.39 ng/mL (95% CI 2.15, 2.66) in the 2005–2006 cycle, 2.78 ng/mL (95% CI 2.19, 3.52) in the 2007–2008 cycle, and 2.08 ng/mL (95% CI 1.75, 2.47) in the 2009–2010 cycle (data not shown).
+
+Table 2 shows the mean age at menarche and percentage of menarche before 12 years of age. The mean age of menarche was 12.14 years and ranged from 8 to 17 years among girls who had already attained menarche. Overall, 27.8% of girls had obtained menarche before 12 years of age. Among girls who experienced menarche, mean age of menarche differed by age group at time of survey, race/ethnicity, and BMI. Considering all girls in the sample, the percentage of girls who experienced menarche before age 12 also differed by age at time of survey, race/ethnicity and BMI. No other differences were observed between potential confounders and age of menarche.
+
+Table 3 presents odds ratios and 95% confidence intervals for the association between urinary BPA and age at menarche. In the model adjusted for creatinine, age, and NHANES cycle, adolescent girls with moderate BPA levels were 45 percent less likely to have early onset of menarche compared to those with the lowest levels (OR=0.55; 95% CI=0.31, 0.99). This association was no longer statistically significant after adjusting for race/ethnicity, parental education, country of birth, and BMI (OR=0.57; 95% CI=0.30, 1.08). In adjusted models, a 1-unit (ng/mL) increase in log-transformed continuous BPA was associated with a 15% decrease in the relative odds of early onset of menarche (OR=0.85; 95% CI=0.61, 1.18). Body size was significantly associated with early onset of menarche in adjusted analyses. Overweight girls were 52 percent more likely to have early onset of menarche compared to normal weight girls (OR=1.52; 95% CI=1.07, 2.16).
+
+Overweight status additionally modified the association between BPA and age of menarche (p=0.08). Table 4 presents the odds ratios and 95% confidence intervals for the effect modification assessment with overweight status. Overweight girls in the lowest BPA tertile appear to be more likely to have early onset of menarche compared to normal weight girls in the lowest BPA tertile, though there is considerable variation in the estimate of the odds ratio (OR=1.65; 95% CI=0.84, 3.23).
+
+4. Discussion
+We examined the association between exposure to BPA, a known EDC, and age of menarche, an endpoint in pubertal maturation. In this cross-sectional analysis of pooled NHANES 2003–2010 data, urinary BPA appears to be associated with overall delayed menarche, particularly for moderate levels of BPA exposure. However, while the magnitude of association remained virtually unchanged when likely confounders were considered, the result was no longer statistically significant. Further, the BPA-menarche association varied by levels of body size with overweight girls showing earlier development on average.
+
+Epidemiologic studies have suggested that exposure to EDCs may be associated with earlier breast development and age of onset of menarche, though much of the literature is inconsistent (Ozen and Darcan, 2011). More specifically, studies in humans have shown exposure to dioxin (Warner et al., 2004) and PBBs (Blanck et al., 2000) to be associated with earlier onset of menarche. In a recent study using NHANES data, researchers found that high polybrominated diphenyl ether (PBDE) concentrations were associated with earlier age of menarche (Chen et al., 2011). However, other studies have shown delayed pubertal maturation with exposure to these chemicals. Particularly, one study showed that exposure to polychlorinated biphenyls (PCBs) may delay breast development (Wolff et al., 2008). In another study, researchers found exposure to dioxin to be associated with delayed breast development (Den Hond et al., 2002).
+
+No significant associations in human studies have been found with exposure to BPA and pubertal outcomes (Wolff et al., 2008; Wolff et al., 2010). A recent study assessed the association between EDCs, including BPA, and age of menarche using NHANES 2003–2008 (Buttke et al., 2012). This study found an inverse relationship between age of menarche and urinary phenols. When the authors assessed BPA specifically, however, they found no significant associations. Differences between this particular study and the current analysis include sample size (due to the addition of the NHANES 2009–2010 cycle in the current analysis), as well as different statistical techniques.
+
+The findings of the association of BMI with earlier menarche are consistent with previous studies. Research has shown that those girls with a higher BMI are at an increased risk for earlier pubertal maturation (Biro et al., 2006). However, our study showed the association between urinary BPA and age at menarche may be even stronger among overweight/obese girls with lower levels of BPA. We evaluated potential effect modification of the BPA-menarche association by overweight status. The results from the modification analysis showed that the BPA-menarche association differed by body size. Since BPA has been shown to be an obesogen (Wang et al., 2012), it is hypothesized that exposure to BPA could lead to a higher BMI in some girls, which could contribute to early menarche. Consequently, a recent study in Shanghai found BPA to be associated with more than a 2-fold risk of obesity in girls aged 9–12 (Li et al., 2013). Consequently, our model adjusting for body size may have been over-adjusted if body size truly mediates the effect of BPA. Obesogens are chemicals that can interfere with lipid metabolism and can potentially lead to obesity. The obesogen hypothesis supports that early life exposures to endocrine disrupting chemicals can predispose individuals to obesity (Janesick and Blumberg, 2011).
+
+There are a few potential limitations in this analysis. The cross-sectional nature of this design limits the potential to examine causal associations. Further, a single, one-spot urine sample was collected for urinary BPA exposure. BPA is believed to have a short half-life in the human body, most of which is eliminated within 24 hours of exposure (Volkel et al., 2002). However, studies have shown that single spot urine samples of BPA may be representative of long-term averages and that spot samples can be used to characterize population distribution of intakes (Christensen et al., 2012; Teitelbaum et al., 2008; Vandenberg et al., 2007). It is not likely that this limitation contributed to our observed findings.
+
+It is possible that there are other markers of pubertal maturation that may be related to BPA exposure. Breast development and presence of pubic hair are known to be the first markers of pubertal maturation. Pubertal maturation ends with the onset of menarche, which occurs approximately two years after breast development. In addition, earlier breast development may not lead to an earlier age of menarche (Biro et al., 2013). Thus, assessing onset of menarche does not allow one to examine changes in breast and pubic hair development. Earlier markers of pubertal maturation, such as thelarche and pubarche, may be more closely related with exposure to BPA. Additionally, age of menarche was assessed by recall, which may have introduced bias. Recall bias of age of onset of menarche may have been present, yet unlikely due to the short interval in recall (Koo and Rohan, 1997). There may have also been uncontrolled or residual confounding of other factors associated with the BPA exposure and menarche. We used post-pubertal BMI as a proxy for pre-pubertal BMI in our analysis. Although there is potential that some girls may have changed their overweight status based on categories of BMI, we do not believe this introduced significant bias. Finally, the current analysis was unable to adjust for genetic components of menarche, or mother’s age of menarche.
+
+5. Conclusions
+The current study takes advantage of a rich population based dataset with national biomonitoring data to examine the hypothesis that BPA, measured as urinary BPA, is associated with early onset of menarche in adolescent girls and the association is modulated by obesity status, measured as increased BMI. This study found urinary BPA was associated with overall delayed menarche in this sample of 987 adolescent girls from NHANES 2003–2010. Although a non-significant trend suggests increasing urinary BPA may be associated with delayed menarche in adolescent girls, these results are based on cross-sectional data. Results should be verified in carefully designed longitudinal cohort studies.
+
+This paper was supported in part by a training grant from the National Institutes of Health (T32ES007018).
+
+
+          Competing Financial Interests
+        
+
+All authors declare they have no actual or potential competing financial interests.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Table 1 Sample characteristics across urinary BPA tertiles in 2003–2010 NHANES
+
+	Total
+N (%)a	Urinary BPA concentrations (ng/mL)
+	
+              p-value
+              b
+            	
+Low (&lt;1.9) (%)	Moderate (1.9–4.1) (%)	High (&gt;4.1) (%)	
+Total	987	336 (34.0)	324 (32.8)	327 (33.1)		
+Age (years)	
+ 12–15	482 (49.0)	164 (33.8)	169 (35.7)	149 (30.5)	0.77	
+ 16–19	505 (51.0)	172 (35.4)	155 (32.9)	178 (31.7)		
+Race/ethnicity	
+ Non-Hispanic Whites	293 (62.5)	95 (33.8)	96 (35.0)	102 (31.2)	0.03	
+ African Americans	296 (14.7)	69 (25.6)	95 (34.3)	132 (40.1)		
+ Mexican Americans	278 (11.2)	125 (43.4)	94 (36.6)	59 (20.1)		
+ Other	120 (11.6)	47 (41.9)	39 (27.7)	34 (30.4)		
+Annual household income	
+ &lt;$20,000	229 (15.6)	77 (33.1)	65 (28.7)	87 (38.3)	0.74	
+ $20,000–$35,000	225 (18.2)	76 (34.2)	74 (35.2)	75 (30.6)		
+ $35,000–$65,000	234 (21.3)	77 (33.1)	86 (36.4)	71 (30.5)		
+ ≥ $65,000	259 (40.3)	88 (35.1)	88 (36.0)	83 (29.0)		
+ Missing	40 (4.6)	18 (44.5)	11 (24.5)	11 (31.0)		
+Poverty income ratio	
+ &lt;1.0	299 (21.8)	96 (33.0)	99 (35.3)	104 (31.8)	0.24	
+ 1.0–1.9	258 (20.0)	92 (34.8)	80 (34.8)	86 (30.5)		
+ 2.0–2.9	134 (15.1)	36 (23.9)	52 (37.1)	46 (39.1)		
+ ≥3	246 (37.7)	93 (39.2)	78 (33.9)	75 (26.8)		
+ Missing	50 (5.5)	19 (38.2)	15 (23.0)	16 (38.8)		
+U.S. born	
+ Yes	862 (91.4)	277 (33.1)	293 (35.3)	292 (31.6)	0.01	
+ No	125 (8.6)	59 (50.5)	31 (23,2)	35 (26.3)		
+Level of guardian education						
+ &lt;High school	311 (20.2)	101 (35.1)	102 (28.3)	108 (36.6)	0.39	
+ High school or equivalent	215 (20.6)	76 (33.2)	64 (32.0)	75 (34.8)		
+ &gt;High school	415 (54.1)	139 (33.6)	142 (37.2)	134 (29.3)		
+ Missing	46 (5.1)	20 (49.4)	16 (35.9)	10 (14.8)		
+BMI age- and sex-specific percentile						
+ &lt;50th	238 (27.4)	91 (35.8)	73 (35.5)	74 (28.7)	0.78	
+ 50–85th	349 (37.3)	132 (36.6)	107 (32.7)	110 (30.7)		
+ ≥85th	400 (35.3)	113 (31.6)	144 (34.9)	143 (33.5)		
+Abbreviations: BPA, bisphenol A; BMI, body mass index (kg/m2).
+
+a Percentages are weighted using population weights for the BPA subsample.
+
+b Calculated using a Chi-square test.
+
+Table 2 Mean age at menarche and percentage of menarche &lt;12 years of age, NHANES, 2003–2010
+
+	N	Mean menarche age (95% CI)a	N	Menarche &lt;12 years (%)b	
+Total	928	12.14 (12.04, 12.24)	987	301 (27.8)	
+Urinary BPA concentrations (ng/mL)	
+ Low (&lt;1.9)	319	12.06 (11.85, 12.26)	336	111 (32.5)	
+ Moderate (1.9–4.1)	316	12.34 (12.20, 12.47)	324	97 (23.1)	
+ High (&gt;4.1)	293	12.02 (11.82, 12.22)	327	93 (27.8)	
+Age (years) #	
+ 12–15	424	11.75 (11.63, 11.87)	482	166 (32.1)	
+ 16–19	504	12.47 (12.33, 12.61)	505	135 (23.7)	
+Race/ethnicity#	
+ Non-Hispanic Whites	272	12.28 (12.12, 12.44)	293	68 (23.3)	
+ African Americans	280	11.95 (11.75, 12.16)	296	110 (38.6)	
+ Mexican Americans	262	11.91 (11.75, 12.07)	278	85 (34.6)	
+ Other	114	11.88 (11.60, 12.17)	120	38 (32.2)	
+Annual household income	
+ &lt;$20,000	223	12.24 (11.99, 12.49)	229	64 (26.4)	
+ $20,000–$35,000	212	12.12 (11.91, 12.33)	225	73 (30.7)	
+ $35,000–$65,000	214	12.03 (11.84, 12.21)	234	67 (24.6)	
+ ≥ $65,000	240	12.21 (12.04, 12.38)	259	83 (27.7)	
+ Missing	39		40		
+Poverty income ratio	
+ &lt;1	289	12.13 (11.90, 12.35)	299	90 (29.5)	
+ 1-	237	12.20 (11.99, 12.41)	258	71 (24.1)	
+ 2-	123	11.89 (11.59, 12.19)	134	42 (32.0)	
+ ≥3	230	12.27 (12.09, 12.45)	246	79 (25.5)	
+ Missing	49		50		
+U.S. born	
+ Yes	807	12.14 (12.04, 12.25)	862	269 (27.5)	
+ No	121	12.12 (11.83, 12.40)	125	32 (31.5)	
+Level of guardian education	
+ &lt;High school	294	11.96 (11.77, 12.16)	311	88 (31.8)	
+ High school or equivalent	198	12.23 (11.99, 12.47)	215	61 (23.3)	
+ &gt;High school	390	12.19 (12.05, 12.33)	415	132 (27.4)	
+ Missing	46		46		
+BMI age- and sex-specific percentile#	
+ &lt;50th	217	12.52 (12.35, 12.69)	238	47 (16.5)	
+ 50–85th	330	12.04 (11.91, 12.17)	349	113 (29.1)	
+ ≥85th	381	11.97 (11.75, 12.19)	400	141 (35.2)	
+Abbreviations: BPA, bisphenol A; BMI, body mass index (kg/m).
+
+a Excluding girls who had not experienced menarche (n=59).
+
+b Percentages are weighted using population weights for the BPA subsample.
+
+# P &lt;0.05 for difference in percentage of menarche below 12 years of age.
+
+Table 3 Association of urinary BPA concentrations and age at menarche &lt;12 years, NHANES, 2003–2010
+
+	Menarche &lt;12/≥12	Model 1a	Model 2b	
+
+	
+Urinary BPA concentrations (ng/mL)		OR (95% CI)	OR (95% CI)	
+		
+	
+ Low (&lt;1.9)	111/225	1.00 (ref)	1.00 (ref)	
+ Moderate (1.9–4.1)	97/227	0.55 (0.31, 0.99)	0.57 (0.30, 1.08)	
+ High (&gt;4.1)	93/234	0.73 (0.39, 1.37)	0.77 (0.38, 1.55)	
+Log urinary BPA (ng/mL)	301/686	0.84 (0.62, 1.15)	0.85 (0.61, 1.18)	
+p for trend		0.27	0.32	
+Body size	
+ Under/normal weight		1.00 (ref)	1.00 (ref)	
+ Overweight/obese		1.71 (1.20, 2.45)	1.52 (1.07, 2.16)	
+Abbreviations: BPA, bisphenol A; OR, odds ratio; CI, confidence interval.
+
+a Model 1 is a logistic regression model adjusted for urinary creatinine (log-transformed mg/dL), age, and NHANES cycle.
+
+b Model 2 is a logistic regression model adjusted for race/ethnicity (non-Hispanic white, African American, Mexican American, other), parental education, country of birth, and body size in addition to model 1 covariates.
+
+Table 4 Association of urinary BPA concentrations and age at menarche in relation to body size, NHANES, 2003–2010
+
+	Not overweight	Overweight/obese	
+
+	
+	
+Urinary BPA concentrations (ng/mL)	OR	95% CI	OR	95% CI	
+Low (&lt;1.9)	1.00	(ref)	1.65	0.84, 3.23	
+Moderate (1.9–4.1)	0.68	0.30, 1.53	0.74	0.41, 1.33	
+High (&gt;4.1)	0.72	0.33, 1.58	1.36	0.60, 3.08	
+Abbreviations: BPA, bisphenol A; OR, odds ratio; CI, confidence interval.
+
+ORs computed from model with interaction term (tertiles of BPA times body size), adjusted for age, urinary creatinine, race/ethnicity, parental education, NHANES cycle, and country of birth. p-interaction = 0.08
+
+Highlights
+Bisphenol A (BPA) may be associated with putative markers of breast cancer risk.
+
+Girls with moderate BPA levels were less likely to have early onset of menarche.
+
+Body mass index appeared to modify the BPA-menarche association.
+
+Results should be clarified in carefully designed longitudinal cohort studies.
+
+
+   
+            Ashby J  
+            Tinwell H  
+           1998 Uterotrophic activity of bisphenol A in the immature rat Environ Health Perspect 106 719 20 9799186 
+
+            Barr DB  
+           2005 Urinary creatinine concentrations in the U.S. population: implications for urinary biologic monitoring measurements Environmental health perspectives 113 192 200 15687057 
+
+            Betancourt AM  
+           2010 In utero exposure to bisphenol A shifts the window of susceptibility for mammary carcinogenesis in the rat Environmental health perspectives 118 1614 9 20675265 
+
+            Biro F  
+            Wolff M  
+           
+            Russo J  
+           Puberty as a Window of Susceptibility Environment and Breast Cancer Springer New York 2011 31 
+
+            Biro FM  
+           2010 Pubertal assessment method and baseline characteristics in a mixed longitudinal study of girls Pediatrics 126 e583 90 20696727 
+
+            Biro FM  
+           2013 Onset of breast development in a longitudinal cohort Pediatrics 132 1019 27 24190685 
+
+            Biro FM  
+           2006 Influence of obesity on timing of puberty International journal of andrology 29 272 7 discussion 286–90 16371114 
+
+            Biro FM  
+           2009 Impact of yesterday’s genes and today’s diet and chemicals on tomorrow’s women J Pediatr Adolesc Gynecol 22 3 6 19232295 
+
+            Black SR  
+            Klein DN  
+           2012 Early menarcheal age and risk for later depressive symptomatology: the role of childhood depressive symptoms J Youth Adolesc 41 1142 50 22447395 
+
+            Blanck HM  
+           2000 Age at menarche and tanner stage in girls exposed in utero and postnatally to polybrominated biphenyl Epidemiology 11 641 7 11055623 
+
+            Buttke DE  
+           2012 Exposures to endocrine-disrupting chemicals and age of menarche in adolescent girls in NHANES (2003–2008) Environ Health Perspect 120 1613 8 23124194 
+
+            Calafat AM  
+           2008 Exposure of the U.S. population to bisphenol A and 4-tertiary-octylphenol: 2003–2004 Environ Health Perspect 116 39 44 18197297 
+Centers for Disease Control and Prevention Biomonitoring Summary: Bisphenol A 2012 
+
+            Chen A  
+           2011 Serum PBDEs and age at menarche in adolescent girls: analysis of the National Health and Nutrition Examination Survey 2003–2004 Environmental research 111 831 7 21663902 
+
+            Christensen KL  
+           2012 Population variability of phthalate metabolites and bisphenol A concentrations in spot urine samples versus 24- or 48-h collections Journal of exposure science &amp; environmental epidemiology 
+
+            Den Hond E  
+           2002 Sexual maturation in relation to polychlorinated aromatic hydrocarbons: Sharpe and Skakkebaek’s hypothesis revisited Environmental health perspectives 110 771 6 12153757 
+
+            Ema M  
+           2001 Rat two-generation reproductive toxicity study of bisphenol A Reproductive toxicology 15 505 23 11780958 
+
+            Herman-Giddens ME  
+           2006 Recent data on pubertal milestones in United States children: the secular trend toward earlier development International journal of andrology 29 241 6 discussion 286–90 16466545 
+
+            Honma S  
+           2002 Low dose effect of in utero exposure to bisphenol A and diethylstilbestrol on female mouse reproduction Reproductive toxicology 16 117 22 11955942 
+
+            Janesick A  
+            Blumberg B  
+           2011 Endocrine disrupting chemicals and the developmental programming of adipogenesis and obesity Birth Defects Res C Embryo Today 93 34 50 21425440 
+
+            Jenkins S  
+           2009 Oral exposure to bisphenol a increases dimethylbenzanthracene-induced mammary cancer in rats Environ Health Perspect 117 910 5 19590682 
+
+            Kaplowitz PB  
+           2008 Link between body fat and the timing of puberty Pediatrics 121 Suppl 3 S208 17 18245513 
+
+            Kim K  
+           2009 Potencies of bisphenol A on the neuronal differentiation and hippocampal neurogenesis J Toxicol Environ Health A 72 1343 51 20077206 
+
+            Koo MM  
+            Rohan TE  
+           1997 Accuracy of short-term recall of age at menarche Annals of human biology 24 61 4 9022907 
+
+            Li DK  
+           2013 Urine bisphenol-A level in relation to obesity and overweight in school-age children PloS one 8 e65399 23776476 
+
+            Moral R  
+           2008 Effect of prenatal exposure to the endocrine disruptor bisphenol A on mammary gland morphology and gene expression signature J Endocrinol 196 101 12 18180321 
+
+            Nagao T  
+           1999 Reproductive function in rats exposed neonatally to bisphenol A and estradiol benzoate Reproductive toxicology 13 303 11 10453915 
+National Center for Health Statistics NHANES Analytic and Reporting Guidlines 2006 
+National Center for Health Statistics 2003–2004 National Health and Nutrition Examination Survey: Laboratory procedures 2010 
+
+            Ozen S  
+            Darcan S  
+           2011 Effects of environmental endocrine disruptors on pubertal development Journal of clinical research in pediatric endocrinology 3 1 6 21448326 
+
+            Parent AS  
+             
+           2005 Early onset of puberty: tracking genetic and environmental factors Hormone research 64 Suppl 2 41 7 16286770 
+
+            Rasier G  
+           2006 Female sexual maturation and reproduction after prepubertal exposure to estrogens and endocrine disrupting chemicals: a review of rodent and human data Mol Cell Endocrinol 254–255 187 201 
+
+            Roy JR  
+           2009 Estrogen-like endocrine disrupting chemicals affecting puberty in humans--a review Med Sci Monit 15 RA137 45 19478717 
+
+            Teitelbaum SL  
+           2008 Temporal variability in urinary concentrations of phthalate metabolites, phytoestrogens and phenols among minority children in the United States Environmental research 106 257 69 17976571 
+
+            Tyl RW  
+           2002 Three-generation reproductive toxicity study of dietary bisphenol A in CD Sprague-Dawley rats Toxicol Sci 68 121 46 12075117 
+U.S. Environmental Protection Agency Bisphenol A Action Plan 2010 
+
+            Vandenberg LN  
+           2007 Human exposure to bisphenol A (BPA) Reproductive toxicology 24 139 77 17825522 
+
+            Volkel W  
+           2002 Metabolism and kinetics of bisphenol a in humans at low doses following oral administration Chemical research in toxicology 15 1281 7 12387626 
+
+            von Goetz N  
+           2010 Bisphenol a: how the most relevant exposure sources contribute to total consumer exposure Risk Anal 30 473 87 20136739 
+
+            Wang J  
+           2012 The environmental obesogen bisphenol A promotes adipogenesis by increasing the amount of 11beta-hydroxysteroid dehydrogenase type 1 in the adipose tissue of children Int J Obes (Lond) 
+
+            Warner M  
+           2004 Serum dioxin concentrations and age at menarche Environmental health perspectives 112 1289 92 15345341 
+
+            Wolff MS  
+           2008 Environmental exposures and puberty in inner-city girls Environmental research 107 393 400 18479682 
+
+            Wolff MS  
+           2010 Investigation of relationships between urinary biomarkers of phytoestrogens, phthalates, and phenols and pubertal stages in girls Environmental health perspectives 118 1039 46 20308033 
+

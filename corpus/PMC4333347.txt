@@ -1,0 +1,124 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   91077828548Curr BiolCurr. Biol.Current biology : CB0960-98221879-044525689905433334710.1016/j.cub.2015.01.026NIHMS656488ArticleMolecular evidence for the loss of three basic tastes in penguins Zhao Huabin 12Li Jianwen 3Zhang Jianzhi 2*1 Department of Zoology, College of Life Sciences, Wuhan University, Wuhan 430072, China2 Department of Ecology and Evolutionary Biology, University of Michigan, Ann Arbor, Michigan 48109, USA3 China National GeneBank, BGI-Shenzhen, Shenzhen, 518083, China* Correspondence to: Jianzhi Zhang, Department of Ecology and Evolutionary Biology, University of Michigan, 1075 Natural Science Building, 830 North University Avenue, Ann Arbor, MI 48109, Phone: 734-763-0527, Fax: 734-763-0544, jianzhi@umich.edu5 2 2015 16 2 2015 16 2 2016 25 4 R141 R142 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+   Sensing its biotic and abiotic environmental cues is critical to the survival and reproduction of any organism. Of the five traditionally recognized senses of vertebrate animals, taste is dedicated to the differentiation between nutritious and harmful foods that triggers either appetitive or rejective behaviors [1]. Vertebrates typically possess five basic tastes: sweet, umami, bitter, sour, and salty. Remarkable progress in understanding the molecular basis of taste [1] has opened the door to inferring taste abilities from genetic data. Based on genome and relevant gene sequences, we infer that the sweet, umami, and bitter tastes have been lost in all penguins, an order of aquatic flightless birds originating and still occupying the coldest niche on Earth, the Antarctic [2].
+
+Vertebrate tastes are mediated by taste receptors. The candidate receptors for sour and salty tastes are transient receptor potential ion channel PKD2L1 and sodium channel ENaC, respectively [1]. Umami and sweet tastes are sensed by the Tas1r family of G protein-coupled receptors (GPCRs), with the Tas1r1-Tas1r3 heterodimer functioning as the umami receptor and the Tas1r2-Tas1r3 heterodimer being the sweet receptor [1]. Bitter tastants are detected by the Tas2r family of GPCRs [1].
+
+We started by analyzing high-coverage genome sequences of Adelie penguin, emperor penguin, and little egret, and publically available genome sequences of 13 non-penguin birds (Figure1). Both Adelie and emperor penguins inhabit the Antarctica, while the little egret, belonging to Ciconiiformes, represents a relatively close outgroup of penguins. We failed to identify the sweet taste-specific gene Tas1r2 in any of the 16 bird genomes (Figure1), although Tas1r2 was identified in the genomes of mammals, reptiles, and other vertebrates by the same approach.
+
+We similarly searched for the umami taste-specific gene Tas1r1. In all non-penguin bird genomes examined, Tas1r1 has an intact open reading frame (ORF) (Figure1), but in the two penguins, Tas1r1 is a pseudogene characterized by a common 2-bp deletion that results in premature stop codons (FigureS1). We examined three additional penguin species, one species in Gaviiformes, and seven species in Procellariiformes (tubenose seabirds); the latter order is the closest outgroup of penguins. The additional sequences (FigureS1) confirmed that Tas1r was pseudogenized in the common ancestor of all penguins since its separation from tubenose seabirds.
+
+We next examined Tas1r3, encoding the shared component of the sweet and umami receptors. We found an intact Tas1r3 in each non-penguin bird genome examined, but failed to detect Tas1r3 in the two penguin genomes despite the presence of their neighboring genes. Examining the 11 additional birds aforementioned confirmed that Tas1r3 was lost in the most recent common ancestor of all extant penguins (Figure1; FigureS1).
+
+We detected 1 to 7 intact Tas2r bitter taste genes from each of the 14 non-penguin bird genomes (FigureS1). Of note, the little egret has two intact Tas2rs and one pseudogene. Strikingly, in each penguin genome, all we could find were three Tas2r pseudogenes that are the respective orthologs of the three little egret Tas2rs (FigureS1). This finding, combined with additional Tas2r data collected from some of the aforementioned 11 birds (FigureS1) demonstrates that the entire Tasr2r repertoire was pseudogenized in the common ancestor of penguins (Figure1).
+
+Trpm5 (transient receptor potential cation channel subfamily M member 5) and Calhm1 (calcium homeostasis modulator 1) are indispensable for umami, sweet, and bitter taste transductions [3, 4]. Our evolutionary analysis of Trpm5 and Calhm1 sequences revealed relaxations of purifying selection in penguins (Table S1). Furthermore, ORF-disrupting mutations were found in three penguins (FigureS1).
+
+By contrast, the putative receptor gene for the sour taste, Pkd2l1, was identified in each of the 16 bird genomes (Figure1). Evolutionary analysis suggests that Pkd2l1 is under purifying selection in all birds. A similar result was found for Scnn1aScnn1b, and Scnn1g that encode the three subunits of the putative salty taste receptor ENaC (Figure1). These results suggest that penguins perceive salty and sour tastes, but because these receptors may have other functions and because not all receptors for these two tastes are known, a behavioral test will be needed to validate this prediction.
+
+Taken together, our results strongly suggest that the umami and bitter tastes were lost in the common ancestor of all penguins whereas the sweet taste was lost earlier. Although behavioral tests of penguin tastes are lacking, an anatomical study showed no taste buds in the tongues from four penguin species [5]. Because taste buds are the primary locations of taste receptor cells, the lack of taste buds strongly suggests a reduction in taste function. Furthermore, penguin tongues possess only a single type of lingual papillae that are stiff, sharp, and caudally-directed, and the numerous papillae are all covered by a thick cornified layer, suggesting that penguin tongues are used primarily for catching and holding slippery fishes or other prey [5].
+
+Why are the sweet, umami, and bitter tastes, especially the latter two, dispensable in penguins? Given that penguins are carnivorous, it seems unlikely that they need no umami taste. But their behavior of swallowing food whole and their tongue structure and function suggest that penguins need no taste perception, although it is unclear whether these traits are a cause or consequence of their major taste loss. It is intriguing to note that Trpm5, required for transducing the sweet, umami, and bitter tastes but not sour or salty taste [4], is temperature-sensitive, with lower activities at lower temperatures [6]. Trpm5 may be effectively nonfunctional in ancestral penguins' taste buds (likely ~0°C), rendering the tastes that rely on this channel unusable and gradually lost. Furthermore, adaptation of Trpm5 to a low temperature might have been prohibited because Trpm5 also performs non-taste functions [7, 8] in the body (e.g., 39°C in emperor penguins). In the future, it would be interesting to test the hypothesis that failure to resolve Trpm5's antagonistic pleiotropy [9] in the face of an extremely cold environment caused the major taste loss in penguins.
+
+Supplementary Material
+01  This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+ACKNOWLEDGEMENTS
+We thank BGI-Shenzhen for sharing the penguin and egret genome sequences before publication, University of Michigan Museum of Zoology for tissue samples of 11 bird species, Wei Hong and Ping Feng for technical assistance, and Haoxing Xu for discussion. This work was supported by U.S. National Institutes of Health grant GM080285 (to J.Z.), National Natural Science Foundation of China grant 31300313 (to H.Z.), and a start-up fund from Wuhan University (to H.Z.).
+
+Figure 1 Taste loss in penguins
+Species tree of 27 birds and human showing presence (check marks) and absence (crosses) of sweet, umami, bitter, sour, and salty tastes in penguins (shaded) and outgroups, inferred from genes for taste receptors (shown at the top of the figure). Neither check mark nor cross is given to a species when there is no genetic/genomic data for such an inference. Species with available genome sequences are shown in black, whereas those without available genome sequences are shown in grey. The red-throated loon Gavia stellata is considered a putative bitter non-taster due to the pseudogenizations of Tas2r1 and Tas2r2 that are independent from the penguin-specific pseudogenizations. Note that the umami taste receptor has been repurposed to detect sweet in the hummingbird Calypte anna [10]. As a result, C. anna possesses the sweet taste, in addition to a weak umami taste. See also FigureS1 and Tables S1.
+
+
+   REFERENCES
+1 
+            Yarmolinsky DA  
+            Zuker CS  
+            Ryba NJP  
+           Common sense about taste: from mammals to insects Cell 2009 139 234 244 19837029 
+2 
+            Baker AJ  
+            Pereira SL  
+            Haddrath OP  
+            Edge KA  
+           Multiple gene evidence for expansion of extant penguins out of Antarctica due to global cooling Proc Biol Sci 2006 273 11 17 16519228 
+3 
+            Taruno A  
+            Vingtdeux V  
+            Ohmoto M  
+            Ma Z  
+            Dvoryanchikov G  
+            Li A  
+            Adrien L  
+            Zhao H  
+            Leung S  
+            Abernethy M  
+             
+           CALHM1 ion channel mediates purinergic neurotransmission of sweet, bitter and umami tastes Nature 2013 495 223 226 23467090 
+4 
+            Zhang Y  
+            Hoon Ma  
+            Chandrashekar J  
+            Mueller KL  
+            Cook B  
+            Wu D  
+            Zuker CS  
+            Ryba NJP  
+           Coding of sweet, bitter, and umami tastes: different receptor cells sharing similar signaling pathways Cell 2003 112 293 301 12581520 
+5 
+            Kobayashi K  
+            Kumakura M  
+            Yoshimura K  
+            Inatomi M  
+            Asami T  
+           Fine structure of the tongue and lingual papillae of the penguin Arch Histol Cytol 1998 3 61 37 46 9557966 
+6 
+            Talavera K  
+            Yasumatsu K  
+            Voets T  
+            Droogmans G  
+            Shigemura N  
+            Ninomiya Y  
+            Margolskee RF  
+            Nilius B  
+           Heat activation of TRPM5 underlies thermal sensitivity of sweet taste Nature 2005 438 1022 1025 16355226 
+7 
+            Colsoul B  
+            Schraenen A  
+            Lemaire K  
+            Quintens R  
+            Van Lommel L  
+            Segal A  
+            Owsianik G  
+            Talavera K  
+            Voets T  
+            Margolskee RF  
+             
+           Loss of high-frequency glucose-induced Ca2+ oscillations in pancreatic islets correlates with impaired glucose tolerance in Trpm5−/− mice Proc Natl Acad Sci U S A 2010 107 5208 5213 20194741 
+8 
+            Lopez F  
+            Delgado R  
+            Lopez R  
+            Bacigalupo J  
+            Restrepo D  
+           Transduction for pheromones in the main olfactory epithelium is mediated by the Ca2+ -activated channel TRPM5 J Neurosci 2014 34 3268 3278 24573286 
+9 
+            Qian W  
+            Ma D  
+            Xiao C  
+            Wang Z  
+            Zhang J  
+           The genomic landscape and evolutionary resolution of antagonistic pleiotropy in yeast Cell Rep 2012 2 1399 1410 23103169 
+10 
+            Baldwin MW  
+            Toda Y  
+            Nakagita T  
+            O'Connell MJ  
+            Klasing KC  
+            Misaka T  
+            Edwards SV  
+            Liberles SD  
+           Evolution of sweet taste perception in hummingbirds by transformation of the ancestral umami receptor Science 2014 345 929 933 25146290 
+

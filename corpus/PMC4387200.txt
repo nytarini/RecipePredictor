@@ -1,0 +1,897 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   04165757769Toxicol Appl PharmacolToxicol. Appl. Pharmacol.Toxicology and applied pharmacology0041-008X1096-033325680588438720010.1016/j.taap.2015.02.001NIHMS666589ArticleEnvironmental contaminants activate human and polar bear (Ursus maritimus) pregnane X receptors (PXR, NR1I2) differently Roger Lille-Langøy 1*V Goldstone Jared 4Marte Rusten 2R Milnes Matthew 3Rune Male 2J Stegeman John 4Bruce Blumberg 5Anders Goksøyr 11 University of Bergen, Department of Biology, P.O. Box 7803, N- 5020 Bergen, Norway2 University of Bergen, Department of Molecular Biology, P.O. Box 7803, N-5020 Bergen, Norway3 Mars Hill University, P.O. Box 370, Mars Hills, NC28754, North Carolina, U. S. A.4 Woods Hole Oceanographic Institution, 266 Woods hole Road, MA 02543-1050, Woods Hole, Massachusetts, U. S. A.5 University of California, Irvine, CA 92697, California, U. S. A.* Corresponding author Corresponding author contact info: Roger Lille-Langøy University of Bergen, Dept. of biology P.O box 7803 N-5020 Bergen Norway Roger.lille-langoy@bio.uib.no Phone: +47 55 58 43 79/+47 480 39 18215 3 2015 10 2 2015 1 4 2015 01 4 2016 284 1 54 64 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.BACKGROUND
+Many persistent organic pollutants (POPs) accumulate readily in polar bears because of their position as apex predators in Arctic food webs. The pregnane X receptor (PXR, formally NR1I2, here proposed to be named promiscuous xenobiotic receptor) is a xenobiotic sensor that is directly involved in metabolizing pathways of a wide range of environmental contaminants.
+
+OBJECTIVES
+In the present study, we comparably assess the ability of 51 selected pharmaceuticals, pesticides and emerging contaminants to activate PXRs from polar bears and humans using an in vitro luciferase reporter gene assay.
+
+RESULTS
+We found that polar bear PXR is activated by a wide range of our test compounds (68%) but has a slightly more narrow ligand specificity than human PXR that was activated by 86% of the 51 test compounds. The majority of the agonists identified (70%) produces a stronger induction of the reporter gene via human PXR than via polar bear PXR, however with some notable and environmentally relevant exceptions.
+
+CONCLUSIONS
+Due to the observed differences in activation of polar bear and human PXRs, exposure of each species to environmental agents is likely to induce biotransformation differently in the two species. Bioinformatics analyses and structural modelling studies suggests that amino acids that are not part of the ligand-binding domain and do not interact with the ligand can modulate receptor activation.
+
+In vitro ligand activationpregnane X receptorpolar bearhumanenvironmental pollutants
+   Introduction
+As a top predator in the Arctic, polar bears (Ursus maritimus) accumulate environmental pollutants efficiently through their diet, and carry some of the highest concentrations of manmade chemicals seen in mammals (Norén et al. 1999; Sonne et al. 2012; Verreault et al. 2006). The populations of polar bears in Russia, East Greenland and Svalbard bear the highest burdens of persistent organic pollutants (POPs) compared to polar bear from other areas (Norstrom et al. 1998; Verreault et al. 2005) and the concentrations are significantly higher in polar bears than in humans (Kim et al. 2011; Verreault et al. 2006). In both species, the most prevalent POPs in blood are polychlorinated biphenyls (PCBs) (Bytingsvik et al. 2012; Kim et al. 2011; Salihovic et al. 2012; Skaare et al. 2000), while brominated flame retardants (BFRs) and pesticides (except chlordanes) appears to be less prevalent in both species (Bentzen et al. 2008; Goncharov et al. 2011; Lind et al. 2012; Salihovic et al. 2012; Verreault et al. 2008). Multiple studies have observed correlations between concentrations of organohalogen compounds (OHCs) and adverse effects, including repression of humoral and cellular immunity (Bernhoft et al. 2000; Lie et al. 2004; Lie et al. 2005), disruption of endocrine function (Braathen et al. 2004; Haave et al. 2003; Verreault et al. 2009), and tissue pathology [reviewed in (Sonne 2010)] in polar bears. Polar bears possess the capacity to metabolize OHCs, such as certain PCBs and organochlorine pesticides (OCPs) like chlordane and dichlorodiphenyltrichloriethane (DDT). Evidence for this capacity is the low bioaccumulation factors from seal to bear seen for some OHCs, differences in PCB chlorination pattern observed in bears and prey, relatively high liver cytochrome P450 monooxygenase (CYP) activities and the depletion of hexabromocyclododecane (HBCD) in polar bear hepatic microsomes (Kannan et al. 2005; Letcher et al. 2009; Muir et al. 1988). In contrast, other studies have reported that polar bears appear to be limited in their capacity to metabolize polybrominated diphenylethers (PBDEs) (Letcher et al. 2009; McKinney et al. 2011).
+
+Although xenobiotic metabolism is generally protective, some chemicals that undergo biotransformation are converted into more toxic compounds. Relevant examples of this are hydroxylated and methyl sulfone metabolies of PCBs (OH- and Me-PCBs) that have been shown to have anti-estrogenic effects in vitro (Letcher et al. 2002) and to affect thyroid hormone homeostasis in polar bears (Brouwer 1990; Sandau et al. 2000). Positive correlation between the concentration of PCBs and the expression and activity of CYP1A- and CYP2B-like proteins in polar bear liver suggest that exposure to xenobiotics induces biotransformation in polar bears (Bandiera et al. 1997; Letcher et al. 1996).
+
+The induction of biotransformation enzymes is largely mediated by three transcription factors, all of which act as xenosensors: the aryl hydrocarbon receptor (AHR), the pregnane X receptor (aka steroid and xenobiotic receptor: PXR/SXR, formally NR1I2) and the constitutive androstane receptor (CAR, formally NR1I3) [reviewed in (Kohle and Bock 2009)]. Of these, PXR has the highest number of ligands and the greatest number of target genes, including numerous genes involved in the initial redox-reactions, conjugations and eventually excretion (Orans et al. 2005; Rosenfeld et al. 2003). Changes in the composition of endogenous ligands such as bile acids and/or differing exposure to exogenous compounds have been suggested as driving forces for the unusually large divergence among PXR orthologs, especially in the ligand binding domain (Krasowski et al. 2005b). This large sequence divergence has been linked to species-specific ligand-dependent activation that is evident among PXR orthologs (as reported by e.g (Ekins et al. 2008; Krasowski et al. 2005a; Milnes et al. 2008)).
+
+The ability to extrapolate toxicological responses in model species to other species is highly desirable; however, most data are of limited value for this purpose without a better understanding of species-specific nuances in the response of interest. The identification of molecular response pathways (or adverse effect pathways) and detailed understanding of similarity and differences in protein function have been emphasized (Celander et al. 2011). Knowledge about how divergence in PXR amino acid composition may affect ligand preference and activation, and possibly molecular response pathways, is needed to perform meaningful extrapolations. Several different classes of environmental pollutants bind and activate human PXR (Al-Salman and Plant 2012; Kojima et al. 2011; Milnes et al. 2008). To link this knowledge to the activation of polar bear PXR, we compared the ligand activation of the PXR orthologs from humans and polar bears by selected environmental pollutants, and assessed functional differences on the basis of sequence and structural homology of human and polar bear PXRs.
+
+Methods
+Pharmaceuticals and environmental pollutants as PXR agonists
+Fifty-one compounds were surveyed for their ability to activate human and polar bear PXRs, including pharmaceutical drugs, PCBs, BFRs, siloxanes, OCPs and other environmentally relevant compounds (TABLE 1). With exception of two coplanar congeners (CB118 and CB190), all of the 15 polychlorinated biphenyls used were non-dioxin-like (NDL, CB28, −47, −52, −60, −97, −99, −101, −138, −151, −153, −170, −180, −183 and −184). Nine of the PCBs used (CB28, −47, −52, −101, −118, −138, −170, −180 and −190) had been highly purified as previously described (Danielsson et al. 2008) and were kindly provided by Krister Halldin and Helen Håkansson (ATHON project, Karolinska Institute, Stockholm, Sweden). Five NDL-PCBs, CB60, −97, −151, −183 and −184, were purchased from AccuStandard Inc. (≥99% purity, New Haven, USA) and CB153 from ChemService Inc. (98,3% purity, West Chester, USA). Individual PBDEs (BDE28, −47, −99, −100, −153), a DE-71 pentaBDE mixture and a technical mixture of HBCD, all purified to &gt;99% purity (Hamers et al. 2006), were gifts from Åke Bergman (FIRE project, Stockholm University, Sweden). The main constituents and composition of the purified DE-71 pentaBDE mixture was BDE47 (42%), −99 (34%), −100 (9%), −153 (2%) and −154(2%) (van der Ven et al. 2008), somewhat different than reported for the commercial DE-71 (BDE47 (28%), −99 (43%), −100 (8%), −153 (6%) and −154(4%) (Hana R. Pohl 2004; van der Ven et al. 2008). BDE209 was purchased from Chiron AS (&gt;99,5% purity, Trondheim, Norway). All other compounds were purchased from Sigma Aldrich Inc. (St. Luis, USA). The endosulfan tested contained α- and β-endosulfan in the ratio 2:1. All chemicals were dissolved in dimethyl sulfoxide (DMSO) supplied by Sigma Aldrich Inc. (Cat. No D2650).
+
+Cloning of polar bear PXR
+The polar bear PXR was cloned from liver total RNA kindly provided by Dr Robert J. Letcher (National Wildlife Research Center, Carleton University, Canada). Complementary DNA (cDNA) was synthesized from 0.5 μg RNA (Superscript II RT, Invitrogen) and used as template in degenerate PCR to amplify a part of the polar bear PXR flanked by regions highly conserved between mammalian PXR orthologs. The 5’- and 3’-sequences missing in the partially amplified cDNA were obtained by rapid amplification of cDNA ends (RACE)(SMART RACE cDNA amplification kit, Clontech Laboratories, Mountain View, CA).
+
+Sequence homology and similarity analysis
+To assess evolutionary conservation of the cloned cDNA from polar bear, known full-length NR1I2 amino acid sequences and the predicted polar bear PXR (pbPXR) candidate were aligned using ClustalW2 (Larkin et al. 2007) and a phylogenetic tree was constructed by maximum likelihood using RAxML (v7.2.6) with the PROTWAGCAT model of amino acid substitution (Stamatakis 2006). The accession numbers of the nuclear receptor LBD-sequences used in the phylogenetic analysis are listed in Supplemental Table S1. Alignments were edited and visualized in Jalview (Waterhouse et al. 2009) and Bioedit (Hall 1999). Similarity and identity analyses were performed using the Sequence identity and similarity (SIAS) resource utilizing a BLOSUM62 matrix (Reche 2008).
+
+Luciferase reporter transactivation assays
+In vitro transactivation assays were performed in COS-7 cells co-transfected with a luciferase reporter plasmid regulated by a thymidine kinase promoter with a Gal4 upstream activation sequence (Gal4-UAS) (tk(MH100)x4 luc; (Forman et al. 1995)), a CMV-promoter based plasmid constitutively expressing β-galactosidase to monitor toxicity and transfection efficiencies (pCMV-β-galactosidase; (Blumberg et al. 1998)) and an effector plasmid expressing a chimeric protein of yeast Gal4-DNA-binding domain (DBD; AA1-147; NM_001184062) and PXR ligand-binding domain (LBD), also driven by a CMV-promoter. While an effector plasmid expressing Gal4-DBD and human PXR-LBD was available to us (Blumberg et al. 1998), a plasmid encoding the yeast Gal4-DBD and polar bear PXR LBD was constructed by replacing the human PXR(AA107-434; NP_003880.3) reading frame with a polar bear PXR(AA107-434; GenBank: KM067117) reading frame using existing EcoRI and BamHI sites in the effector plasmid.
+
+COS-7 simian kidney cells were maintained in phenol red Dulbeccos modified Eagle medium (DMEM), supplemented with 10% fetal bovine serum (FBS), 4 mM L-glutamate, 1 mM sodium pyruvate at 37°C with 5% carbon dioxide (CO2). Microbial contamination in the growth media was prevented by adding penicillin and streptomycin to the medium to concentrations of 100 U/mL.
+
+Transactivation assays for each compound were performed in triplicates for each concentration in at least three independent experiments. Cells were harvested at approximately 70-80% confluence, seeded in 96-well plates at a density of 5*103 cells/well and cultivated for 24 hours prior to transfection. The cells were then co-transfected with 500 ng of the effector plasmid encoding the PXR-LBD-Gal4-DBD chimeric fusion protein (pCMX_Gal4_humPXR or pCMX_Gal4_pbPXR) and 5 μg each of the luciferase reporter and the β-galactosidase plasmids using calcium phosphate (CaPO4) methodology as previously described (Grun et al. 2002). Twenty-four hours post-transfection, the cells were exposed to the test compounds diluted in DMSO ranging in final concentration from 10−7 to 10−4 M in phenol red-free DMEM supplemented 10% heat-inactivated, charcoal-resin stripped FBS. Twenty-four hours after treatments, enzyme activities of luciferase and β-galactosidase were assayed in cell lysates as previously described (Grun et al. 2002). Luciferase activities were measured as luminescence and reflect the level of transactivation induced by the test compounds via the different PXR orthologs in the transfected cells. The enzyme activity of β-galactosidase resulting from the constitutive expression of the control plasmid was used to correct for differences in transfection efficiencies between wells. Activation of the PXRs was expressed as fold induction of luciferase activity in cells exposed to test compound relative to cells exposed to solvent (DMSO). Dose-response curves were fitted by non-linear regression using Prism (GraphPad Software, LaJolla, CA). In addition to reporting the maximum responses with ±95% confidence intervals, responses induced by test compounds were also reported as a percentage relative to the maximum luciferase response induced by rifampicin, a known PXR agonist, via hPXR or pbPXR. The concentrations that resulted in luciferase activity corresponding to 20% of the maximum hPXR response to rifampicin (RECh20) were determined from the fitted dose-response curves.
+
+Modelling
+Homology models of the ligand binding domain of polar bear PXR were created using Modeller (v9.11) (Sali and Blundell 1993), based on multiple crystal structures of human PXR co-crystalized with a variety of ligands, or unligated (PDB: 1M13, 1ILG, 1SKX, 4J5W, 3CTB, 2O9I). Multiple models were generated based on these templates. Homology modeling was carried out by satisfaction of spatial restraints using the automodel function of Modeller, with very thorough variable target function method (VTFM), thorough molecular dynamics (MD), and two repeat cycles of minimization. The best model from the generated structures was selected based on the Discrete Optimized Protein Energy (DOPE) score (Eramian et al. 2006; Shen and Sali 2006), and further assesed using Procheck (Laskowski et al 1993). Computational solvent mapping was performed using FTMAP (Brenke et al. 2009; Kozakov et al. 2011). Multiple human PXR crystal structures were mapped, and overlapping and novel clusters were retained.
+
+Pharmacophore generation was performed using PharmaGist (Inbar et al. 2007; Schneidman-Duhovny et al. 2008). Initial ligand models were minimized using the PM6 method in MOPAC2009 (Steward 2008).
+
+Results
+Cloning of polar bear PXR and evolutionary conservation
+The polar bear PXR amplified from polar bear liver cDNA (Supplement figure S2) predicts a 434 AA protein translated from a non-AUG translation initiation codon (CUG) in accordance to hPXR1A (NM_003889). The phylogenetic association of the predicted polar bear PXR was as expected, based on the evolutionary relationships among the species represented in the analyses (Supplement figure S3). The inferred amino acid sequence similarity of the polar bear and human PXR (97% identity in the DNA binding domain, 87% identity in the ligand binding domain) was comparable to the sequence similarity between human and the other caniforms, giant panda and dog (Supplement figure S4).
+
+Qualitative and quantitative differences in the activation of polar bear and human PXRs
+To evaluate the ligand selectivity of polar bear PXR, we tested a panel consisting of 51 compound that were examined for their ability to activate human and polar bear PXRs (Table 1). We defined agonistic activity as significant change in luciferase activity in cells treated with test compounds compared to DMSO-treated cells (Students T-test &lt;0.05). Monitoring of β-galactosidase activities during exposures was used to assess the cytotoxicity of the test compounds, and the ranges of concentrations were adjusted to avoid toxicity. Members of all the six classes of compounds tested activated both hPXR and pbPXR, indicating that both orthologs have a broad ligand affinity (TABLE 2). However, qualitative and quantitative differences in the activation of hPXR and pbPXR were observed. Qualitatively, hPXR appear to be more susceptible to activation than pbPXR as 86% of the test compounds activated hPXR compared to 68% for pbPXR (Table 2, Figure 1, Supplement figure S6).
+
+Quantitatively, exposure to equivalent concentrations of ligand typically resulted in greater luciferase activity in cells expressing hPXR compared to cells expressing pbPXR (Figure 2, Supplement figure S6). Five structurally diverse compounds, hexabromocyclododecane, SR12813, toxaphene, 4-nonylphenol and tetrabromobisphenol A, induced stronger responses via pbPXR than via hPXR (Figure 2, Supplement figure S6).
+
+Sequential and structural differences between hPXR and pbPXR
+To explain the qualitative and quantitative differences in ligand activation of hPXR and pbPXR, we compared primary, secondary and tertiary protein structures of the orthologs. We found the degree of conservation of the ligand binding domains (AA205-434) of hPXR and pbPXR to be comparable to that of the LBDs from other caniforms (appr. 90%), including dogs and giant panda (Supplement figures S4 and S5). None of the 25 amino acids substitutions between hPXR and pbPXR, correspond to residues known to participate in ligand binding, in interaction with co-activators or the formation of internal salt-bridges (Figure 3, Supplement figure S7). Almost three quarters of the substitutions involved amino acids participating in secondary structures (72%) and about half of these secondary structure substitutions could be classified as radical in terms of change in charge, polarity and volume (Supplement table S8). However, the secondary structure properties of replacement amino acids were comparable to those of the replaced amino acids.
+
+Homology modelling of the pbPXR based on multiple human PXR crystal structures shows that no steric conflicts have emerged because of amino acid replacements between the orthologs. Thus, radical changes in the pbPXR model compared to hPXR structure were not found (Figures 4A and 4B). No polar bear amino acid substitutions (highlighted in orange) were found in the regions known to bind the steroid coactivator SRC1 in human PXR (red helix, Figures 4A and 4B), nor in the helix interacting with the heterodimeric receptor partner, RXR (cyan). Computational solvent mapping (Brenke et al. 2009; Kozakov et al. 2011), in which small molecule probe fragments are mapped onto structures to identify molecular binding ‘hot spots,’ reveal that the bulk of the binding sites are in the ligand binding domain (Figure 4C). However, some binding sites outside the LBD (possible allosteric sites) differ between human and polar bear, perhaps contributing to some of the observed activation differences.
+
+Pharmacophores generated for the most potent binding compounds (activation &gt; 5-fold) suggest that there may be some subtle alterations to the ligand binding site that are not captured in the homology models. The polar bear pharmacophore generated from 5 compounds (Supplemental figure S9) is approximately tripodal, with a hydrophobic end and a tripod of hydrophilic donor/acceptor sites. In contrast, the best human pharmacophore, while still roughly pyramidal, has one corner that is aromatic, rather than hydrophilic (Figure 5).
+
+Discussion
+Human and polar bear PXRs are promiscuous xenosensors
+The role of human PXR as a xenobiotic sensor has been supported by the structurally diverse compounds shown to bind and activate human PXR, including pharmaceuticals and several classes of persistent organic pollutants (e.g. (Al-Salman and Plant 2012; Kojima et al. 2011; Milnes et al. 2008; Moore et al. 2002). This role is further supported by the abundant expression of hPXR's in metabolically active tissues (Bertilsson et al. 1998; Blumberg et al. 1998; Kliewer et al. 1998). The cloning of polar bear PXR demonstrates that it also in polar bears is transcribed in metabolically active tissue, namely the liver. We show that the polar bear PXR is a ligand-dependent transcription factor that can be activated by pharmaceuticals and several different classes of persistent organic pollutants, suggesting that PXR also serves as a xenosensor in polar bears. To resolve the issue of different and non-consistent naming of PXR across species, we propose the novel naming “promiscuous xenobiotic receptor” for NR1I2 receptors in all species.
+
+Qualitative and quantitative differences in the activation of human and polar bear PXRs by environmental pollutants
+Although human and polar bear PXRs both appear to be promiscuous nuclear receptors, the activation profiles of the two orthologs were markedly different. Qualitatively, a broad range of compounds in our test panel activated both orthologs. This panel consisted of 51 compounds, including pharmaceuticals, pesticides, polychlorinated biphenyls, brominated flame-retardants, and siloxanes. Approximately 86% of the test compounds had the ability to induce transcription via hPXR, while approximately 68% of the compounds had agonistic activity on pbPXR, These results confirm that hPXR is highly promiscuous, as is pbPXR.
+
+Quantitative differences in the activation of PXR orthologs from multiple species have been described in several studies (Al-Salman and Plant 2012; Kojima et al. 2011; Milnes et al. 2008; Moore et al. 2002; Tabb et al. 2004), and here we show that quantitative differences exist in the activation of the human and polar bear PXR orthologs. Less than a fifth of the agonists among our test compounds (18%) produced similar responses via hPXR as via pbPXR. The majority of the compounds were stronger agonists of hPXR than of pbPXR (70%), while only five compounds induced a stronger response via pbPXR than via hPXR (appr. 10%), indicating that hPXR is more susceptible to activation by this panel of test compounds than pbPXR is. Among the test compounds that induced relatively strong activation of hPXR (&gt;4-fold) we found representatives of all classes of compounds included in this study, indicating that the relationship between chemical structure and the inductive potential of the ligands is complex. Likewise, the five test compounds that induced quantitatively greater responses via pbPXR than via hPXR represent four different classes of compounds, indicating that the ability of a ligand to exert strong agonistic activity on pbPXR is similarly difficult to predict without a functional characterisation such as the LBD-luciferase reporter assay reported here.
+
+Responses measured with different systems for measuring ligand activation often differ quantitatively. Rifampicin-induced responses in the range of 8- to 100-fold have been reported in previous studies and this complicated direct comparison of results (Al-Salman and Plant 2012; Jacobs et al. 2005; Kojima et al. 2011; Tabb et al. 2004). However, in general relative activation of PXR in our study and other studies correlates well, including with the several pesticides in this study (Coumoul et al. 2002; Kojima et al. 2011; Milnes et al. 2008). While several studies have addressed PCBs as ligands for PXR (Al-Salman and Plant 2012; Jacobs et al. 2005; Tabb et al. 2004), their reports are inconsistent. Thus, while Al-Salman and Plant found PCB-153 to induce a strong response that exceeded the response from rifampicin, others (i.e., this study and Jacobs et al., 2005) found a weak response (relative activation 25-30%) and others again no response (relative activation appr. 10%, Tabb et al., 2004).
+
+Structural determinants for qualitative and quantitative differences in ligand activation
+Compared to the hPXR ligand-binding domain, pbPXR has 25 variable sites, a degree of divergence consistent with findings for other related species, e.g dog and pigs (Milnes et al. 2008; Moore et al. 2002). To investigate whether the LBD-sequence variations could explain observed differences in ligand activity, we examined primary, secondary and tertiary protein structures. We constructed structural models of pbPXR based on the known structures of hPXR. Mapping the substituted amino acids in the polar bear PXR model on human PXR showed that the substituted amino acids in general were located on the surface of the protein structure, consistent with studies showing that residues in the core of PXR are better conserved (Chrencik et al. 2005). While the analyses revealed that substitutions occurred in several secondary structures, disruption of tertiary structures seem unlikely due to the chemical nature of the substitutions and the orientation of the side-chains of the amino acids involved, a conclusion borne out by the robustness of the pbPXR homology models.
+
+Structures of hPXR co-crystallized with various ligands have identified amino acids that contribute to ligand binding (Chrencik et al. 2005; Teotico et al. 2008; Watkins et al. 2001; Watkins et al. 2003; Xue et al. 2007a; Xue et al. 2007b). The LBD of human, pig, dog, mouse and rat PXR all differ in multiple positions and only 71% of the amino acids are conserved in these species (Chrencik et al. 2005). This variation has been suggested to explain qualitative and quantitative differences in the activation of PXR orthologs from distantly related species. In eleven non-human primate PXRs, only two LBD substitutions were found, of which one was a conservative substitution while the other substitution was found in only two of the eleven species (data not shown). Thus, similar binding and activation properties of hPXR and non-human primate PXRs could be expected. And indeed, the activation of human PXR has been shown to qualitatively represent PXR-activation in non-human primates (Milnes et al. 2008). All LBD-residues in pbPXR are conserved compared to hPXR, including residues shown to participate in the binding of ligands. Consequently, differences in amino acids within the ligand binding pocket cannot readily explain the observed qualitative and quantitative differences in ligand activation between hPXR and pbPXR. Thus the differences in activation of hPXR and pbPXR indicate that amino acids that are not part of the binding pocket or those that do not interact directly with ligand could modulate binding of ligand and/or receptor activation. Solvent mapping of the homology model highlighted some potential region of allosteric binding that differ between human and polar bear, but do not provide an obvious answer.
+
+The toxicological relevance of data from in vitro PXR activation
+Interpreting the toxicological relevance of PXR activation measured in vitro is complicated. Any in vitro method is likely to represent a simplification of the biological processes of interest, thus caution must be taken in the interpretation of the results. The Gal4-LBD method used here indicates binding of ligand to the transcription factor LBD, but it cannot reflect gene, tissue or species-specific differences in promoters, or the function of transcriptional repressors, dimerization partners or other proteins involved in the transcription factor action in vivo. Cell based assays also do not necessarily relate exposure concentrations to those relevant in the environment.
+
+Despite the role of PXR in regulation of the xenobiotic biotransformation system, the toxicological effects of PXR activation are not fully understood. Depending on the products of biotransformation, PXR can contribute to both detoxification (Staudinger et al. 2001; Xie et al. 2000), or to enhancement of toxicity of certain compounds (Cheng et al. 2009), and chemicals can perturb physiological functions by interfering with the homeostasis of endogenous compounds such as steroid hormones (Mikamo et al. 2003; Xie et al. 2003; Zhai et al. 2007; Zhou et al. 2009). That CAR and PXR have partially overlapping target genes and common ligands (Kliewer et al. 2002; Xie et al. 2000), gives the biotransformation system a redundancy that complicates the prediction of toxicological effects of PXR activation. Moreover, while ortho-PCBs activate both CAR and PXR, it was recently shown that CAR contributes much more to the expression of CYP3A1 in mice than PXR (Gahrs et al. 2013). Thus, the toxic effects of a compound may be difficult to evaluate from the activation of PXR alone. However, the observed differences in activation of PXR in polar bear and humans suggests that biotransformation is less inducible in polar bears than in humans, and that PXR-mediated enhancement of toxicity and disruption of the homeostasis of endogenous compounds might be less likely to occur in polar bears than in humans at similar exposure levels.
+
+Importantly, although these data indicate activation of both hPXR and pbPXR by high concentrations of some ligands, like PCBs and PBDEs, other studies have shown several of these compounds to be antagonistic at lower concentrations (Tabb et al. 2004). The biological significance of such non-monotonic effects, and whether such compounds might be competitive inhibitors or partial agonists, should not be overlooked. Future studies should investigate such possibilities. It will be informative to determine whether compounds that do not activate PXR in our studies might bind to the receptor, and act as antagonists. Molecular docking studies might provide such information, and will be undertaken in the future.
+
+Our data shows that despite similarities in activation profiles, predictions of activation of polar bear PXR based on a hPXR model, will likely lead to over-estimation of activation both qualitatively and quantitatively. However, the validity of this assumption may depend on determining the contribution of polar bear CAR to responses to the chemicals in question, particularly as in humans CAR has been reported to mediate the majority of the ortho-PCB effects on gene regulation (Gahrs et al. 2013)
+
+Conclusions
+This study demonstrates that the polar bear PXR is a promiscuous nuclear receptor capable of being activated by structurally diverse compounds. Both qualitative and quantitative differences in ligand activation of pbPXR and hPXR were observed. The polar bear PXR is less promiscuous than its human counterpart and with a few but environmentally relevant exceptions, our test compounds generally induced quantitatively lower responses via pbPXR than via hPXR. Among these exceptions were the environmental pollutants HBCD, toxaphene, 4-nonylphenol and TBBPA, that all induced greater agonistic response via pbPXR than via hPXR, indicating that these compounds may have different toxic effects in polar bear than in humans.
+
+Supplementary Material
+  Acknowledgements
+This study has been funded by The Norwegian Research Council, Program for Norwegian Environmental Research towards 2015 (MILJØ2015, 181888), Superfund Research Program 5P42ES007381 to JJS, and NIH grant R21HD073805 to JVG. The funding partners had no involvement in performing or publication of this study. The authors would like to thank Krister Halldin and Helen Håkansson (Karolinska Institute, Stockholm, Sweden) for their contribution of purified PCBs and Åke Bergman (Stockholm University, Sweden) for the gift of purified BFRs. We also thank Robert J. Letcher (National Wildlife Research Center, Carleton University, Canada) for donating polar bear liver RNA.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Conflict of interest
+
+B.B. is a named inventor on U.S. patents 6,756,491, 6,809,178, 7,214,482 and 6,984,773 related to human PXR. The authors declare they have no actual or potential conflicts of interest.
+
+Abbreviations
+CMVCytomegalovirus
+
+DBDDNA-binding domain
+
+GAL4Yeast regulatory protein GAL4
+
+hPXRHuman PXR
+
+LBDLigand-binding domain
+
+NR1I2Nuclear receptor subfamily 1 group I member 2, a. k. a pregnane X receptor
+
+pbPXRPolar bear PXR
+
+PXRPregnane X receptor
+
+RECh20The concentration of agonist that produces a response equal to 20% of the maximum hPXR induced luciferase response to rifampicin
+
+SXRSteroid and xenobiotic receptor
+
+UASUp-stream activation sequence
+
+Highlights
+Environmental contaminants activate human and polar bear (Ursus maritimus) pregnane X receptors (PXR, NR1I2) differently
+Comparative study of ligand activation of human and polar bear PXRs
+
+Polar bear PXR is a promiscuous ligand-activated nuclear receptor but less so than human PXR.
+
+Environmental contaminants activate human and polar bear PXRs differently
+
+Expression and ligand promiscuity indicate that PXR is a xenosensor in polar bears
+
+
+
+Figure 1 Ligand activation dose-response curves of human and polar bear PXR by a 51-compound test panel
+Ligand activation of PXRs by selected test compounds was reported as fold increase in luciferase activity in cells exposed to the test compound over cells exposed to solvent. Dose-response-curves were fitted by non-linear regression (GraphPad Prism). Dotted curves with hollow circles and solid lines with solid circles represent human and polar bear PXRs respectively. Students T-test was used to test for statistically significant differences in luciferase activities in exposed and DMSO-treated cells (p&lt;0.05, * and # represent hPXR and pbPXR, respectively). Horizontal dotted line represents 20% of maximum luciferase activity induced by rifampicin in COS-7 cells expressing hPXR (RECh20).
+
+Figure 2 Comparison of agonistic potential of PXR ligands via hPXR or pbPXR presented as a Venn diagram
+Fourty-two agonists were grouped according to their potential for transactivation via hPXR and/or pbPXR. The 29 compounds grouped within the solid box had higher potential for transactivation via hPXR (Students T-test p&lt;0.05), while the compounds in the dashed box induced strongly via pbPXR. Compounds enclosed by both boxes exerted comparative transactivation potential via hPXR and pbPXR. Compound in italic activate hPXR but not pbPXR.
+
+Figure 3 Alignment of hPXR and pbPXR supplemented with known secondary structure and ligand-binding residues
+Human PXR structures (Chrencik et al. 2005; Teotico et al. 2008; Watkins et al. 2001; Watkins et al. 2003; Xue et al. 2007a; Xue et al. 2007b) was used to supplement a hPRX and pbPXR amino acid sequence comparison with information of residues known to be involved in ligand binding, secondary structures, salt bridge and SRC-1 interaction. Rectangular boxes indicate α-helices (α) and arrows anti β-strands that form an antiparallel (AP) sheet. Stars indicate ligand-binding residues, squares residues involved in salt-bridges and triangles residues interacting with co-activator (SRC-1).
+
+Figure 4 Homology model for pbPXR based on multiple hPXR structures showing residue substitutions between human and polar bear
+(A and B) Positions of residues differing between hPXR and pbPXR are shown in orange. Also shown is the relative position of the heterodimerization partner, RXR, from PDB 4J5W in cyan, and the position of the coactivator protein SRC1 from PDB 2O9I in red. (C) Positions of solvent-mapped small molecule clusters from FTMAP are shown in red (pbPXR) and green (hPXR). Note that most clusters fall into the known ligand binding pocket, but there are significant clusters found outside the pocket, which differ between hPXR and pbPXR.
+
+Figure 5 Pharmacophores generated from the best-binding ligands for hPXR (A) and pbPXR (B)
+Aromatic overlaps are shown in blue, hydrophobic regions in white, and hydrophilic donor/acceptors are shown in green. Note the pyramidal shape for both pharmacophores, fitting the shape of the known PXR binding pocket. However, the human pharmacophore differs in the positioning of aromatic residues at one pyramid apex, in constrast to the pbPXR. Direct residue substitutions are not observed in the binding pocket, suggesting that longer range differences in the tertiary structure e.g. via A281T may play a role in the different agonist profiles between human and polar bear PXR.
+
+Table 1 Overview of test panel Overview of the 51-compound panel used to test for agonistic activity on human and polar bear PXRs in an in vitro ligand activation assay.
+
+Compound name	Supplier	Product number	Cas No	Mol. mass (g/mol)	Formula	
+
+Pharmaceuticals
+						
+Rifampicin	Sigma Aldrich	R3501	13292-46-1	822.94	C43H58N4O12	
+SR12813(1)	Sigma Aldrich	S4194	126411-39-0	504.53	C24H42O7P2	
+Carbamazepine	Sigma Aldrich	C4024	298-46-4	236.27	C15H12N2O	
+Clotrimazole	Sigma Aldrich	C6014	23593-75-1	344.84	C22H17ClN2	
+Ketoconazole	Sigma Aldrich	K1003	65277-42-1	531.43	C26H28Cl2N4O4	
+Omeprazole	Sigma Aldrich	O104	73590-58-6	345.42	C17H19N3O3S	
+
+Pesticides
+						
+Methoxychlor	Sigma Aldrich	M1501	72-43-5	345.65	C16H15Cl3O2	
+Dieldrin	Sigma Aldrich	33491	60-57-1	380.91	C12H8Cl6O	
+Chlordane	Sigma Aldrich	45378	12789-03-6	409.78	C10H6Cl8	
+Pentachlorophenol	Sigma Aldrich	P2604	87-86-5	266.34	C6HCl5O	
+Toxaphene	Sigma Aldrich	PS79	8001-35-2	411.79	C10H8Cl8	
+Endosulfan (α+β ~ 2:1)	Sigma Aldrich	32015	115-29-7	406.93	C9H6Cl6O3S	
+α-hexachlorocyclohexane (α-HCH)	Sigma Aldrich	33856	319-84-6	290.83	C6H6Cl6	
+Lindane (γ-HCH)	Sigma Aldrich	45548	58-89-9	290.83	C6H6Cl6	
+Vinclozolin	Sigma Aldrich	45705	50471-44-8	286.11	C12H9Cl2NO3	
+4,4′-DDT(2)	Sigma Aldrich	31041	50-29-3	354.49	C14H9Cl5	
+4,4′-DDE(3)	Sigma Aldrich	35487	72-55-9	318.03	C14H8Cl4	
+1,2,3-trichlorobenzene (1,2,3-TCB)	Sigma Aldrich	36742	87-61-6	181.45	C6H3Cl3	
+1,2,4-trichlorobenzene (1,2,4-TCB)	Sigma Aldrich	36627	120-82-1	181.45	C6H3Cl3	
+
+Polychlorinated biphenyls
+						
+PCB 28	ATHON project		7012-37-5	257.54	C12H7Cl3	
+PCB 47	ATHON project		2437-79-8	291.99	C12H6Cl4	
+PCB 52	ATHON project		35693-99-3	291.99	C12H6Cl4	
+PCB 60	AccuStandard	C060N	33025-41-1	291.10	C12H6Cl4	
+PCB 97	AccuStandard	C097N	41464-51-1	326.43	C12H5Cl5	
+PCB 101	ATHON project		37680-73-2	326.43	C12H5Cl5	
+PCB 118	ATHON project		57465-28-8	326.43	C12H5Cl5	
+PCB 138	ATHON project		35065-28-2	360.88	C12H4Cl6	
+PCB 151	AccuStandard	C151N	52663-63-5	360.88	C12H4Cl6	
+PCB 153	ChemService	5019C	35065-27-1	360.88	C12H4Cl6	
+PCB 170	ATHON project		35065-30-6	395.32	C12H3Cl7	
+PCB 180	ATHON project		35065-29-3	395.32	C12H3Cl7	
+PCB 183	AccuStandard	C183N	52663-69-1	395.32	C12H3Cl7	
+PCB 184	AccuStandard	C184N	74472-48-3	395.32	C12H3Cl7	
+PCB 190	ATHON project		41411-64-7	395.32	C12H3Cl7	
+
+Brominated flame retardants
+						
+BDE 28	FIRE project		2050-47-7	328.00	C12H8Br2O	
+BDE 47	FIRE project		5436-43-1	485.79	C12H6Br4O	
+BDE 99	FIRE project		60348-60-9	564.69	C12H5Br5O	
+BDE 100	FIRE project		189084-64-8	564.69	C12H5Br5O	
+BDE 153	FIRE project		68631-49-2	643.58	C12H4Br6O	
+BDE 209	Chiron AS	1811.12	68631-49-2	959.17	C12Br10O	
+PentaBDE mix	FIRE project					
+BDE47 (42%)			5436-43-1	485.79	C12H6Br4O	
+BDE99 (34%)			60348-60-9	564.69	C12H5Br5O	
+BDE100 (9%)			189084-64-8	564.69	C12H5Br5O	
+BDE153 (2%)			68631-49-2	643.58	C12H4Br6O	
+BDE154 (2%)			207122-15-4	643.58	C12H4Br6O	
+HBCD(4) technical mixture	FIRE project					
+α-HBCD (10%)			134237-50-6	641.70	C12H18Br6	
+β-HBCD (9%)			134237-51-7	641.70	C12H18Br6	
+γ-HBCD (81%)			134237-52-8	641.70	C12H18Br6	
+Tetrabromobisphenol A (TBBPA)	Sigma Aldrich	330396	79-94-7	543.87	C15H12Br4O2	
+
+Siloxanes
+						
+Hexamethylcyclotrisiloxane (D3)	Sigma Aldrich	235687	541-05-9	222.46	C6H18O3Si3	
+Octamethylcyclotetrasiloxane (D4)	Sigma Aldrich	235695	556-67-2	296.62	C8H24O4Si4	
+Decamethylcyclopentasiloxane (D5)	Sigma Aldrich	444278	541-02-6	370.77	C10H30O5Si5	
+
+Miscellaneous
+						
+β-naphtoflavone (BNF)	Sigma Aldrich	N3633	6051-87-2	272.30	C19H12O2	
+4-nonylphenol	Fluka	74430	104-40-5	220.35	C15H24O	
+4-octylphenol	Sigma Aldrich	384445	1806-26-4	206.32	C14H22O	
+Bisphenol A (BPA)	Sigma Aldrich	239658	80-05-7	228.29	C15H16O2	
+Perfluorononanoic acid (PFNA)	Sigma Aldrich	77282	375-95-1	464.08	C9HF17O2	
+(1) 4-[2,2-bis(diethoxyphosphoryl)ethenyl]-2,6-ditert-butylphenol
+
+(2) Dichlorodiphenyltrichloroethane
+
+(3) Dichlorodiphenyldichloroethylene
+
+(4) Hexabromocyclododecane
+
+Table 2 Summary of in vitro ligand activation of human and polar bear PXR by 51 pharmaceuticals and environmental pollutants. In vitro ligand activations in a COS-7-based luciferase reporter gene assay were expressed as maximum fold change of luciferase activity in lysates from exposed cells compared to the activity in DMSO control cells. Relative activation represents maximum responses as percentage of the maximum response resulting from activation of hPXR or pbPXR by rifampicin, while RECh20 represent the concentration required to induce a response equal to 20% of the maximum hPXR-mediated response induced by rifampicin. Students T-test was used to test for statistically significant differences in luciferase activities in exposed and DMSO-treated cells (*, p&lt;0.05).
+
+	Human PXR	Polar bear PXR	Relative max induction (polar bear vs human)	
+Compound name	Fold induction	Relative activation (%)	RECh20 (M)	Fold induction	Relative activation (%)	RECh20 (M)	
+
+Pharmaceuticals
+								
+Rifampicin	9.8±0.9*	100 %	4.6E-7	7.4±1.5*	76 %	1.1E-6	0.8	
+SR12813(1)	7.0±1.1*	72 %	3.8E-8	9.4±0.9*	96 %	3.2E-7	1.3	
+Carbamazepine	2.3±0.3*	23 %	1.3E-5	1.4±0.3*	14 %	N/D	0.6	
+Clotrimazole	8.3±1.3*	84 %	3.4E-7	5.9±2.0*	61 %	6.3E-7	0.7	
+Ketoconazole	2.7±0.5*	28 %	1.3E-5	0.9±0.1	9 %	N/D	0.3	
+Omeprazole	4.3±0.3*	44 %	9.1E-6	1.3±0.3	13 %	N/D	0.3	
+
+Pesticides
+								
+Methoxychlor	7.3±0.7*	75 %	2.7E-6	3.9±0.5*	40 %	1.7E-5	0.5	
+Dieldrin	4.8±0.4*	49 %	1.7E-6	2.2±0.4*	22 %	2.5E-5	0.5	
+Chlordane	6.9±1.5*	70 %	1.7E-6	2.5±0.5*	25 %	1.6E-5	0.4	
+Pentachlorophenol	1.0±0.2	11 %	N/D	0.9±0.3	9 %	N/D	0.9	
+Toxaphene	4.6±0.3*	47 %	7.8E-7	7.0±0.8*	71 %	1.9E-6	1.5	
+Endosulfan (α+β ~ 2:1)	4.1±1.1*	42 %	7.8E-6	4.6±0.3*	47 %	4.5E-6	1.1	
+α-hexachlorocyclohexane (α-HCH)	5.6±1.5*	57 %	3.8E-6	1.3±0.8	13 %	N/D	0.2	
+Lindane (γ-HCH)	9.3±0.6*	94 %	7.9E-7	9.0±2.9*	92 %	6.0E-6	1.0	
+Vinclozolin	3.7±0.2*	38 %	4.4E-5	1.1±0.2	11 %	N/D	0.3	
+4,4′-DDT(2)	5.2±0.6*	53 %	9.3E-6	4.1±0.6*	42 %	1.1E-5	0.8	
+4,4′-DDE(3)	4.2±0.4*	43 %	9.1E-6	2.2±0.4*	22 %	3.6E-5	0.5	
+1,2,3-trichlorobenzene (1,2,3-TCB)	0.9±0.1	9 %	N/D	0.9±0.3	9 %	N/D	0.9	
+1,2,4-trichlorobenzene (1,2,4-TCB)	1.0±0.1	10 %	N/D	0.9±0.3	9 %	N/D	0.9	
+
+Polychlorinated biphenyls
+								
+PCB 28	1.9±0.2*	19 %	N/D	1.1±0.1	12 %	N/D	0.6	
+PCB 47	2.6±0.1*	27 %	3.0E-5	1.4±0.4	14 %	N/D	0.5	
+PCB 52	1.1±0.2	11 %	N/D	1.0±0.2	10 %	N/D	0.9	
+PCB 60	1.0±0.2	10 %	N/D	0.8±0.1	8 %	N/D	0.7	
+PCB 97	2.4±0.4*	25 %	2.8E-5	2.7±0.6*	28 %	2.5E-5	1.1	
+PCB 101	3.3±05*	34 %	2.0E-5	1.8±0.4*	19 %	N/D	0.6	
+PCB 118	2.4±0.2*	25 %	3.4E-5	1.4±0.1*	14 %	N/D	0.6	
+PCB 138	1.1±0.1	12 %	N/D	1.1±0.1	11 %	N/D	0.9	
+PCB 151	7.1±1.0*	72 %	8.1E-6	1.5±0.2*	15 %	N/D	0.2	
+PCB 153	3.2±0.3*	33 %	2.2E-5	3.0±0.2*	31 %	2.5E-5	0.9	
+PCB 170	2.3±0.3*	24 %	3.5E-5	1.5±0.3*	15 %	N/D	0.6	
+PCB 180	1.3±0.1*	14 %	N/D	1.6±0.3*	16 %	N/D	1.2	
+PCB 183	2.9±0.5*	28 %	2.3E-5	3.0±0.6*	31 %	1.3E-5	1.1	
+PCB 184	3.2±0.5*	33 %	5.4E-6	1.8±0.6*	19 %	N/D	0.6	
+PCB 190	4.5±0.5*	46 %	9.8E-6	1.8±0.3*	18 %	N/D	0.4	
+
+Brominated flame retardants
+								
+BDE 28	3.1±0.5*	31 %	1.1E-5	0.9±0.2	9 %	N/D	0.3	
+BDE 47	5.8±0.6*	59 %	5.0E-6	1.5±0.5*	16 %	N/D	0.3	
+BDE 99	5.1±0.7*	52 %	4.8E-6	1.6±0.3*	16 %	N/D	0.3	
+BDE 100	3.8±0.3*	39 %	6.6E-6	1.3±0.2*	14 %	N/D	0.4	
+BDE 153	4.4±0.2*	45 %	3.9E-6	1.7±0.1*	17 %	N/D	0.4	
+BDE 209	2.5±0.2*	26 %	1.6E-5	1.9±0.3*	19 %	N/D	0.7	
+PentaBDE mix	5.7±0.2*	58 %	5.1E-6	1.8±0.3*	18 %	N/D	0.3	
+BDE47 (42%)								
+BDE99 (34%)								
+BDE100 (9%)								
+BDE153 (2%)								
+BDE154 (2%)								
+HBCD(4) technical mixture	4.9±0.3*	41 %	2.6E-6	9.4±1.6*	96 %	1.7E-6	2.3	
+α-HBCD (10%)								
+β-HBCD (9%)								
+γ-HBCD (81%)								
+Tetrabromobisphenol A (TBBPA)	3.1±1.1*	32 %	2.9E-5	3.8±0.5*	39 %	3.5E-5	1.2	
+
+Siloxanes
+								
+Hexamethylcyclotrisiloxane (D3)	1.7±0.2*	17 %	N/D	1.1±0.2	11 %	N/D	0.6	
+Octamethylcyclotetrasiloxane (D4)	4.3±0.3*	44 %	1.4E-5	1.1±0.4	11 %	N/D	0.3	
+Decamethylcyclopentasiloxane (D5)	2.2±0.2*	22 %	3.5E-5	1.6±0.2*	16 %	N/D	0.7	
+
+Miscellaneous
+								
+β-naphtoflavone (BNF)	2.8±0.4*	28 %	6.9E-8	2.1±0.4*	21 %	6.9E-7	0.8	
+4-nonylphenol	4.9±0.5*	50 %	1.9E-6	7.0±0.8*	71 %	4.8E-6	1.4	
+4-octylphenol	1.7±0.2*	17 %	N/D	1.2±0.3	12 %	N/D	0.7	
+Bisphenol A (BPA)	5.7±0.4*	58 %	6.6E-6	5.6±0.9*	57 %	2.1E-5	1.0	
+Perfluorononanoic acid (PFNA)	1.1±0.2	11 %	N/D	0.9±0.3	10 %	N/D	0.9	
+(1) 4-[2,2-bis(diethoxyphosphoryl)ethenyl]-2,6-ditert-butylphenol
+
+(2) Dichlorodiphenyltrichloroethane
+
+(3) Dichlorodiphenyldichloroethylene
+
+(4) Hexabromocyclododecane
+
+* statistically significant difference between maximum luciferase activity induced via hPXR and pbPXR (T-test &lt; 0.05)
+
+
+   References
+
+            Al-Salman F  
+            Plant N  
+           Non-coplanar polychlorinated biphenyls (pcbs) are direct agonists for the human pregnane-x receptor and constitutive androstane receptor, and activate target gene expression in a tissue-specific manner. Toxicology and applied pharmacology 2012 263 7 13 22664347 
+
+            Bandiera S  
+            Torok S  
+            Letcher R  
+            Norstrom R  
+           Immunoquantitation of cytochromes p450 1a and p450 2b and comparison with chlorinated hydrocarbon levels in archived polar bear liver samples. Chemosphere 1997 34 1469 1479 9134680 
+
+            Bentzen T  
+            Muir D  
+            Amstrup S  
+            O'Hara T  
+           Organohalogen concentrations in blood and adipose tissue of southern beaufort sea polar bears. The Science of the total environment 2008 406 352 367 18775556 
+
+            Bernhoft A  
+            Skaare J  
+            Wiig O  
+            Derocher A  
+            Larsen H  
+           Possible immunotoxic effects of organochlorines in polar bears (ursus maritimus) at svalbard. Journal of toxicology and environmental health Part A 2000 59 561 574 10777247 
+
+            Bertilsson G  
+            Heidrich J  
+            Svensson K  
+            Asman M  
+            Jendeberg L  
+            Sydow-Backman M  
+             
+           Identification of a human nuclear receptor defines a new signaling pathway for cyp3a induction. Proc Natl Acad Sci U S A 1998 95 12208 12213 9770465 
+
+            Blumberg B  
+            Sabbagh W Jr.  
+            Juguilon H  
+            Bolado J Jr.  
+            van Meter CM  
+            Ong ES  
+             
+           Sxr, a novel steroid and xenobiotic-sensing nuclear receptor. Genes Dev 1998 12 3195 3205 9784494 
+
+            Brenke R  
+            Kozakov D  
+            Chuang GY  
+            Beglov D  
+            Hall D  
+            Landon MR  
+             
+           Fragment- based identification of druggable 'hot spots' of proteins using fourier domain correlation techniques. Bioinformatics 2009 25 621 627 19176554 
+
+            Brouwer AK-W,E  
+            Bokdam M  
+            Morse DC  
+            Traag WA  
+           Competitive inhibition of thyroxin binding of transthyretin by monohydroxy metabolites of 3,4,3′,4′- tetrachlorobiphenyl. Chemosphere 1990 20 1257 1262 
+
+            Braathen M  
+            Derocher A  
+            Wiig 
+Ø
+  
+            Sørmo E  
+            Lie E  
+            Skaare J  
+             
+           Relationships between pcbs and thyroid hormones and retinol in female and male polar bears. Environmental health perspectives 2004 112 826 833 15175168 
+
+            Bytingsvik J  
+            Lie E  
+            Aars J  
+            Derocher A  
+            Wiig 
+Ø
+  
+            Jenssen B  
+           Pcbs and oh-pcbs in polar bear mother-cub pairs: A comparative study based on plasma levels in 1998 and 2008. The Science of the total environment 2012 417-418 117 128 22264925 
+
+            Celander M  
+            Goldstone J  
+            Denslow N  
+            Iguchi T  
+            Kille P  
+            Meyerhoff R  
+             
+           Species extrapolation for the 21st century. Environmental toxicology and chemistry / SETAC 2011 30 52 63 20963850 
+
+            Cheng J  
+            Ma X  
+            Krausz KW  
+            Idle JR  
+            Gonzalez FJ  
+           Rifampicin-activated human pregnane x receptor and cyp3a4 induction enhance acetaminophen-induced toxicity. Drug Metab Dispos 2009 37 1611 1621 19460945 
+
+            Chrencik JE  
+            Orans J  
+            Moore LB  
+            Xue Y  
+            Peng L  
+            Collins JL  
+             
+           Structural disorder in the complex of human pregnane x receptor and the macrolide antibiotic rifampicin. Mol Endocrinol 2005 19 1125 1134 15705662 
+
+            Danielsson C  
+            Harju M  
+            Halldin K  
+            Tysklind M  
+            Andersson P  
+           Comparison of levels of pcdd/fs and non-ortho pcbs in pcb 153 from seven different suppliers. Organohalogen Compounds 2008 70 1201 1204 
+
+            Ekins S  
+            Reschly E  
+            Hagey L  
+            Krasowski M  
+           Evolution of pharmacologic specificity in the pregnane x receptor. BMC evolutionary biology 2008 8 103 18384689 
+
+            Eramian D  
+            Shen MY  
+            Devos D  
+            Melo F  
+            Sali A  
+            Marti-Renom MA  
+           A composite score for predicting errors in protein structure models. Protein science : a publication of the Protein Society 2006 15 1653 1666 16751606 
+
+            Forman BM  
+            Umesono K  
+            Chen J  
+            Evans RM  
+           Unique response pathways are established by allosteric interactions among nuclear hormone receptors. Cell 1995 81 541 550 7758108 
+
+            Gahrs M  
+            Roos R  
+            Andersson PL  
+            Schrenk D  
+           Role of the nuclear xenobiotic receptors car and pxr in induction of cytochromes p450 by non-dioxinlike polychlorinated biphenyls in cultured rat hepatocytes. Toxicol Appl Pharmacol 2013 272 77 85 23770461 
+
+            Goncharov A  
+            Pavuk M  
+            Foushee H  
+            Carpenter D  
+           Blood pressure in relation to concentrations of pcb congeners and chlorinated pesticides. Environmental health perspectives 2011 119 319 325 21362590 
+
+            Grun F  
+            Venkatesan RN  
+            Tabb MM  
+            Zhou C  
+            Cao J  
+            Hemmati D  
+             
+           Benzoate x receptors alpha and beta are pharmacologically distinct and do not function as xenobiotic receptors. J Biol Chem 2002 277 43691 43697 12198127 
+
+            Hall T  
+           Bioedit: A user-friendly biological sequence alignment editor and analysis program for windows 95/98/nt. Nucleic Acid Symposium Series 1999 95 98 
+
+            Hamers T  
+            Kamstra J  
+            Sonneveld E  
+            Murk A  
+            Kester M  
+            Andersson P  
+             
+           In vitro profiling of the endocrine-disrupting potency of brominated flame retardants. Toxicological sciences : an official journal of the Society of Toxicology 2006 92 157 230 16601080 
+
+            Hana R  
+            Pohl SB  
+            Richard J  
+            Amata &amp; Carol J  
+            Eisenmann  
+           Toxicological profile for polybrominated biphenyls and polybrominated diphenyl ethers 2004 United States:Agency for Toxic Substances and Disease Registry (ATSDR) Atlanta, GA 
+
+            Haave M  
+            Ropstad E  
+            Derocher A  
+            Lie E  
+            Dahl E  
+            Wiig 
+Ø
+  
+             
+           Polychlorinated biphenyls and reproductive hormones in female polar bears at svalbard. Environmental health perspectives 2003 111 431 436 12676595 
+
+            Inbar Y  
+            Schneidman-Duhovny D  
+            Dror O  
+            Nussinov R  
+            Wolfson HJ  
+           Deterministic pharmacophore detection via multiple flexible alignment of drug-like molecules. Lect Notes Comput Sc 2007 4453 412 429 
+
+            Kannan K  
+            Yun S  
+            Evans T  
+           Chlorinated, brominated, and perfluorinated contaminants in livers of polar bears from alaska. Environmental science &amp; technology 2005 39 9057 9063 16382925 
+
+            Kim M-J  
+            Marchand P  
+            Henegar C  
+            Antignac J-P  
+            Alili R  
+            Poitou C  
+             
+           Fate and complex pathogenic effects of dioxins and polychlorinated biphenyls in obese subjects before and after drastic weight loss. Environmental health perspectives 2011 119 377 383 21156398 
+
+            Kliewer SA  
+            Moore JT  
+            Wade L  
+            Staudinger JL  
+            Watson MA  
+            Jones SA  
+             
+           An orphan nuclear receptor activated by pregnanes defines a novel steroid signaling pathway. Cell 1998 92 73 82 9489701 
+
+            Kliewer SA  
+            Goodwin B  
+            Willson TM  
+           The nuclear pregnane x receptor: A key regulator of xenobiotic metabolism. Endocr Rev 2002 23 687 702 12372848 
+
+            Kohle C  
+            Bock KW  
+           Coordinate regulation of human drug-metabolizing enzymes, and conjugate transporters by the ah receptor, pregnane x receptor and constitutive androstane receptor. Biochem Pharmacol 2009 77 689 699 18606396 
+
+            Kojima H  
+            Sata F  
+            Takeuchi S  
+            Sueyoshi T  
+            Nagai T  
+           Comparative study of human and mouse pregnane x receptor agonistic activity in 200 pesticides using in vitro reporter gene assays. Toxicology 2011 280 77 87 21115097 
+
+            Kozakov D  
+            Hall DR  
+            Chuang GY  
+            Cencic R  
+            Brenke R  
+            Grove LE  
+             
+           Structural conservation of druggable hot spots in protein-protein interfaces. P Natl Acad Sci USA 2011 108 13528 13533 
+
+            Krasowski M  
+            Yasuda K  
+            Hagey L  
+            Schuetz E  
+           Evolution of the pregnane x receptor: Adaptation to cross-species differences in biliary bile salts. Molecular endocrinology (Baltimore, Md) 2005a 19 1720 1739 
+
+            Krasowski M  
+            Yasuda K  
+            Hagey L  
+            Schuetz E  
+           Evolutionary selection across the nuclear hormone receptor superfamily with a focus on the nr1i subfamily (vitamin d, pregnane x, and constitutive androstane receptors). Nuclear receptor 2005b 3 2 16197547 
+
+            Larkin MA  
+            Blackshields G  
+            Brown NP  
+            Chenna R  
+            McGettigan PA  
+            McWilliam H  
+             
+           Clustal w and clustal x version 2.0. Bioinformatics 2007 23 2947 2948 17846036 
+
+            Letcher R  
+            Norstrom R  
+            Lin S  
+            Ramsay M  
+            Bandiera S  
+           Immunoquantitation and microsomal monooxygenase activities of hepatic cytochromes p4501a and p4502b and chlorinated hydrocarbon contaminant levels in polar bear (ursus maritimus). Toxicology and applied pharmacology 1996 137 127 140 8661337 
+
+            Letcher R  
+            Lemmen J  
+            van der Burg B  
+            Brouwer A  
+            Bergman A  
+            Giesy J  
+             
+           In vitro antiestrogenic effects of aryl methyl sulfone metabolites of polychlorinated biphenyls and 2,2-bis(4-chlorophenyl)-1,1-dichloroethene on 17beta-estradiol-induced gene expression in several bioassay systems. Toxicological sciences : an official journal of the Society of Toxicology 2002 69 362 372 12377985 
+
+            Letcher RJ  
+            Gebbink WA  
+            Sonne C  
+            Born EW  
+            McKinney MA  
+            Dietz R  
+           Bioaccumulation and biotransformation of brominated and chlorinated contaminants and their metabolites in ringed seals (pusa hispida) and polar bears (ursus maritimus) from east greenland. Environ Int 2009 35 1118 1124 19683343 
+
+            Lie E  
+            Larsen HJ  
+            Larsen S  
+            Johansen GM  
+            Derocher AE  
+            Lunn NJ  
+             
+           Does high organochlorine (oc) exposure impair the resistance to infection in polar bears (ursus maritimus)? Part i: Effect of ocs on the humoral immunity. J Toxicol Environ Health A 2004 67 555 582 15129552 
+
+            Lie E  
+            Larsen H  
+            Larsen S  
+            Johansen G  
+            Derocher A  
+            Lunn N  
+             
+           Does high organochlorine (oc) exposure impair the resistance to infection in polar bears (ursus maritimus)? Part ii: Possible effect of ocs on mitogen- and antigen-induced lymphocyte proliferation. Journal of toxicology and environmental health Part A 2005 68 457 484 15799246 
+
+            Lind P  
+            van Bavel B  
+            Salihovic S  
+            Lind L  
+           Circulating levels of persistent organic pollutants (pops) and carotid atherosclerosis in the elderly. Environmental health perspectives 2012 120 38 43 22222676 
+
+            McKinney MA  
+            Dietz R  
+            Sonne C  
+            De Guise S  
+            Skirnisson K  
+            Karlsson K  
+             
+           Comparative hepatic microsomal biotransformation of selected pbdes, including decabromodiphenyl ether, and decabromodiphenyl ethane flame retardants in arctic marine- feeding mammals. Environ Toxicol Chem 2011 30 1506 1514 21437940 
+
+            Mikamo E  
+            Harada S  
+            Nishikawa J  
+            Nishihara T  
+           Endocrine disruptors induce cytochrome p450 by affecting transcriptional regulation via pregnane x receptor. Toxicol Appl Pharmacol 2003 193 66 72 14613717 
+
+            Milnes MR  
+            Garcia A  
+            Grossman E  
+            Grun F  
+            Shiotsugu J  
+            Tabb MM  
+             
+           Activation of steroid and xenobiotic receptor (sxr, nr1i2) and its orthologs in laboratory, toxicologic, and genome model species. Environ Health Perspect 2008 116 880 885 18629309 
+
+            Moore LB  
+            Maglich JM  
+            McKee DD  
+            Wisely B  
+            Willson TM  
+            Kliewer SA  
+             
+           Pregnane x receptor (pxr), constitutive androstane receptor (car), and benzoate x receptor (bxr) define three pharmacologically distinct classes of nuclear receptors. Mol Endocrinol 2002 16 977 986 11981033 
+
+            Muir D  
+            Norstrom R  
+            Simon M  
+           Organochlorine contaminants in arctic marine food chains: Accumulation of specific polychlorinated biphenyls and chlordane-related compounds. Environmental science &amp; technology 1988 22 1071 1079 22148662 
+
+            Norén K  
+            Weistrand C  
+            Karpe F  
+           Distribution of pcb congeners, dde, hexachlorobenzene, and methylsulfonyl metabolites of pcb and dde among various fractions of human blood plasma. Archives of environmental contamination and toxicology 1999 37 408 414 10473799 
+
+            Norstrom R  
+            Belikov S  
+            Born E  
+            Garner G  
+            Malone B  
+            Olpinski S  
+             
+           Chlorinated hydrocarbon contaminants in polar bears from eastern russia, north america, greenland, and svalbard: Biomonitoring of arctic pollution. Archives of environmental contamination and toxicology 1998 35 354 367 9680529 
+
+            Orans J  
+            Teotico D  
+            Redinbo M  
+           The nuclear xenobiotic receptor pregnane x receptor: Recent insights and new challenges. Molecular endocrinology (Baltimore, Md) 2005 19 2891 2900 
+
+            Reche P  
+           Sequence identity and similarity tool 2008 Available: http://imed.med.ucm.es/Tools/sias.html  
+
+            Rosenfeld J  
+            Vargas R  
+            Xie W  
+            Evans R  
+           Genetic profiling defines the xenobiotic gene network controlled by the nuclear receptor pregnane x receptor. Molecular endocrinology (Baltimore, Md) 2003 17 1268 1282 
+
+            Sali A  
+            Blundell TL  
+           Comparative protein modeling by satisfaction of spatial restraints. Journal of Molecular Biology 1993 234 779 815 8254673 
+
+            Salihovic S  
+            Lampa E  
+            Lindström G  
+            Lind L  
+            Lind P  
+            van Bavel B  
+           Circulating levels of persistent organic pollutants (pops) among elderly men and women from sweden: Results from the prospective investigation of the vasculature in uppsala seniors (pivus). Environment international 2012 44 59 67 22361238 
+
+            Sandau C  
+            Ayotte P  
+            Dewailly E  
+            Duffe J  
+            Norstrom R  
+           Analysis of hydroxylated metabolites of pcbs (oh-pcbs) and other chlorinated phenolic compounds in whole blood from canadian inuit. Environmental health perspectives 2000 108 611 616 10903613 
+
+            Schneidman-Duhovny D  
+            Dror O  
+            Inbar Y  
+            Nussinov R  
+            Wolfson HJ  
+           Pharmagist: A webserver for ligand-based pharmacophore detection. Nucleic Acids Research 2008 36 W223 W228 18424800 
+
+            Shen MY  
+            Sali A  
+           Statistical potential for assessment and prediction of protein structures. Protein science : a publication of the Protein Society 2006 15 2507 2524 17075131 
+
+            Skaare J  
+            Bernhoft A  
+            Derocher A  
+            Gabrielsen G  
+            Goksøyr A  
+            Henriksen E  
+             
+           Organochlorines in top predators at svalbard--occurrence, levels and effects. Toxicology letters 2000 112-113 103 109 10720718 
+
+            Sonne C  
+           Health effects from long-range transported contaminants in arctic top predators: An integrated review based on studies of polar bears and relevant model species. Environment international 2010 36 461 491 20398940 
+
+            Sonne C  
+            Letcher RJ  
+            Bechshøft T  
+            Rigét FF  
+            Muir DCG  
+            Leifsson PS  
+             
+           Two decades of biomonitoring polar bear health in greenland: A review. Acta Veterinaria Scandinavica 2012 54 1 7 22240071 
+
+            Stamatakis A  
+           Raxml-vi-hpc: Maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models. Bioinformatics 2006 22 2688 2690 16928733 
+
+            Staudinger JL  
+            Goodwin B  
+            Jones SA  
+            Hawkins-Brown D  
+            MacKenzie KI  
+            LaTour A  
+             
+           The nuclear receptor pxr is a lithocholic acid sensor that protects against liver toxicity. Proc Natl Acad Sci U S A 2001 98 3369 3374 11248085 
+
+            Steward J  
+           Mopac2009 2008 Available: http://openmopac.net  
+
+            Tabb MM  
+            Kholodovych V  
+            Grun F  
+            Zhou C  
+            Welsh WJ  
+            Blumberg B  
+           Highly chlorinated pcbs inhibit the human xenobiotic response mediated by the steroid and xenobiotic receptor (sxr). Environ Health Perspect 2004 112 163 169 14754570 
+
+            Teotico DG  
+            Bischof JJ  
+            Peng L  
+            Kliewer SA  
+            Redinbo MR  
+           Structural basis of human pregnane x receptor activation by the hops constituent colupulone. Mol Pharmacol 2008 74 1512 1520 18768384 
+
+            van der Ven L  
+            van de Kuil T  
+            Verhoef A  
+            Leonards P  
+            Slob W  
+            Cant√≥n Ro  
+             
+           A 28-day oral dose toxicity study enhanced to detect endocrine effects of a purified technical pentabromodiphenyl ether (pentabde) mixture in wistar rats. Toxicology 2008 245 109 131 18243468 
+
+            Verreault J  
+            Muir D  
+            Norstrom R  
+            Stirling I  
+            Fisk A  
+            Gabrielsen G  
+             
+           Chlorinated hydrocarbon contaminants and metabolites in polar bears (ursus maritimus) from alaska, canada, east greenland, and svalbard: 1996-2002. The Science of the total environment 2005 351- 352 369 390 16115663 
+
+            Verreault J  
+            Norstrom RJ  
+            Ramsay MA  
+            Mulvihill M  
+            Letcher RJ  
+           Composition of chlorinated hydrocarbon contaminants among major adipose tissue depots of polar bears (ursus maritimus) from the canadian high arctic. Sci Total Environ 2006 370 580 587 16978684 
+
+            Verreault J  
+            Dietz R  
+            Sonne C  
+            Gebbink W  
+            Shahmiri S  
+            Letcher R  
+           Comparative fate of organohalogen contaminants in two top carnivores in greenland: Captive sledge dogs and wild polar bears. Comparative biochemistry and physiology Toxicology &amp; pharmacology : CBP 2008 147 306 315 18248775 
+
+            Verreault J  
+            Maisonneuve F  
+            Dietz R  
+            Sonne C  
+            Letcher RJ  
+           Comparative hepatic activity of xenobiotic-metabolizing enzymes and concentrations of organohalogens and their hydroxylated analogues in captive greenland sledge dogs (canis familiaris). Environ Toxicol Chem 2009 28 162 172 18788898 
+
+            Waterhouse A  
+            Procter J  
+            Martin D  
+            Clamp Ml  
+            Barton G  
+           Jalview version 2--a multiple sequence alignment editor and analysis workbench. Bioinformatics (Oxford, England) 2009 25 1189 1191 
+
+            Watkins RE  
+            Wisely GB  
+            Moore LB  
+            Collins JL  
+            Lambert MH  
+            Williams SP  
+             
+           The human nuclear xenobiotic receptor pxr: Structural determinants of directed promiscuity. Science 2001 292 2329 2333 11408620 
+
+            Watkins RE  
+            Maglich JM  
+            Moore LB  
+            Wisely GB  
+            Noble SM  
+            Davis-Searles PR  
+             
+           2.1 a crystal structure of human pxr in complex with the st. John's wort compound hyperforin. Biochemistry 2003 42 1430 1438 12578355 
+
+            Xie W  
+            Barwick JL  
+            Simon CM  
+            Pierce AM  
+            Safe S  
+            Blumberg B  
+             
+           Reciprocal activation of xenobiotic response genes by nuclear receptors sxr/pxr and car. Genes Dev 2000 14 3014 3023 11114890 
+
+            Xie W  
+            Yeuh M-F  
+            Radominska-Pandya A  
+            Saini S  
+            Negishi Y  
+            Bottroff B  
+             
+           Control of steroid, heme, and carcinogen metabolism by nuclear pregnane x receptor and constitutive androstane receptor. P Natl Acad Sci USA 2003 100 4150 4155 
+
+            Xue Y  
+            Chao E  
+            Zuercher WJ  
+            Willson TM  
+            Collins JL  
+            Redinbo MR  
+           Crystal structure of the pxr-t1317 complex provides a scaffold to examine the potential for receptor antagonism. Bioorg Med Chem 2007a 15 2156 2166 17215127 
+
+            Xue Y  
+            Moore LB  
+            Orans J  
+            Peng L  
+            Bencharit S  
+            Kliewer SA  
+             
+           Crystal structure of the pregnane x receptor-estradiol complex provides insights into endobiotic recognition. Mol Endocrinol 2007b 21 1028 1038 17327420 
+
+            Zhai Y  
+            Pai HV  
+            Zhou J  
+            Amico JA  
+            Vollmer RR  
+            Xie W  
+           Activation of pregnane x receptor disrupts glucocorticoid and mineralocorticoid homeostasis. Mol Endocrinol 2007 21 138 147 16973756 
+
+            Zhou C  
+            Verma S  
+            Blumberg B  
+           The steroid and xenobiotic receptor (sxr), beyond xenobiotic metabolism. Nucl Recept Signal 2009 7 e001 19240808 
+

@@ -1,0 +1,210 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   79109185452J Inherit Metab DisJ. Inherit. Metab. Dis.Journal of inherited metabolic disease0141-89551573-266526260782471329010.1007/s10545-015-9882-0NIHMS714737ArticleComputational modeling to predict nitrogen balance during acute metabolic decompensation in patients with urea cycle disorders MacLeod Erin L. 1Hall Kevin D. 2McGuire Peter J. 31 Division of Genetics and Metabolism, Children’s National Health System, Washington, DC2 National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, MD3 National Human Genome Research Institute, National Institutes of Health, Bethesda, MDCorresponding author: Peter J. McGuire MS, MD, National Human Genome Research Institute, National Institutes of Health, 49 Convent Drive, 4A62, Bethesda, MD 20892, Phone: 301-451-7716, peter.mcguire@nih.gov12 8 2015 11 8 2015 1 2016 01 1 2017 39 1 17 24 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.SUMMARY
+Nutritional management of acute metabolic decompensation in amino acid inborn errors of metabolism (AA IEM) aims to restore nitrogen balance. While nutritional recommendations have been published, they have never been rigorously evaluated. Furthermore, despite these recommendations, there is a wide variation in the nutritional strategies employed amongst providers, particularly regarding the inclusion of parenteral lipids for protein-free caloric support. Since randomized clinical trials during acute metabolic decompensation are difficult and potentially dangerous, mathematical modeling of metabolism can serve as a surrogate for the preclinical evaluation of nutritional interventions aimed at restoring nitrogen balance during acute decompensation in AA IEM. A validated computational model of human macronutrient metabolism was adapted to predict nitrogen balance in response to various nutritional interventions in a simulated patient with a urea cycle disorder (UCD) during acute metabolic decompensation due to dietary non-adherence or infection. The nutritional interventions were constructed from published recommendations as well as clinical anecdotes. Overall, dextrose alone (DEX) was predicted to be better at restoring nitrogen balance and limiting nitrogen excretion during dietary non-adherence and infection scenarios, suggesting that the published recommended nutritional strategy involving dextrose and parenteral lipids (ISO) may be suboptimal. The implications for patients with AA IEM are that the medical course during acute metabolic decompensation may be influenced by the choice of protein-free caloric support. These results are also applicable to intensive care patients undergoing catabolism (postoperative phase or sepsis), where parenteral nutritional support aimed at restoring nitrogen balance may be more tailored regarding metabolic fuel selection.
+
+
+   INTRODUCTION
+Although individually rare, inborn errors of metabolism (IEM) are increasingly recognized due to expanded newborn screening (Sun, Lam et al. 2012). The pathophysiology of these disorders may derive from intoxication secondary to the accumulation of noxious metabolites, deficiency of essential intermediary metabolites, and overall energy deficiency (Levy 2009). Untreated patients with IEM commonly may suffer permanent neurologic injury including mental retardation or even death. IEM have been traditionally classified as disorders of carbohydrate metabolism, fatty acid oxidation, mitochondrial energy metabolism, amino acid metabolism and vitamin/cofactor deficiencies.
+
+AA IEM are a class of disorders where a monogenic enzyme deficiency may affect: 1) single amino acids (e.g. tyrosine in tyrosinemia type I); 2) groups of amino acids (e.g. branched chain amino acids in maple syrup urine disease), or 3) all amino acids (e.g. nitrogenous waste in UCD). Patients with AA IEM may undergo a rapid deterioration in their metabolic status, termed acute metabolic decompensation. In UCD, acute metabolic decompensation is characterized by potentially life-threatening episodes of hyperammonemia (HA) that may progress to encephalopathy, coma and death. Patients with UCD prevent HA episodes by consuming a diet at or slightly above the daily recommended intake (DRI) for protein. Acute HA in UCD may be precipitated by factors that affect nitrogen balance such as: dietary nonadherence and enhanced protein catabolism due to infection (McGuire, Lee et al. 2013). Intercurrent infection is the most common cause of acute HA and may lead to increased patient morbidity with encephalopathy and extended hospital stays (McGuire, Lee et al. 2013). The pathophysiology of this increased morbidity may be related to increased catabolism during infectious illnesses (Wilson, Bressani et al. 1961), as well as direct effects of immune activation on the hepatic urea cycle (McGuire, Tarasenko et al. 2014), both contributing to acute HA.
+
+Several groups have formulated recommendations regarding the management of acute metabolic decompensation in AA IEM (Singh, Rhead et al. 2005; Chapman, Gropman et al. 2012). These recommendations include minimizing nitrogen intake temporarily, providing sufficient energy via protein-free calories with dextrose (6–8 mg/kg/min) and parenteral lipids (2–3 g/kg/day), and facilitating alternate routes of toxin elimination with medications and/or dialysis. However, in practice, nutritional management varies widely amongst providers, particularly regarding the inclusion of parenteral lipids for protein-free nutritional support (McGuire, Lee et al. 2013). Rigorous evaluation of these discrepancies in dietary interventions during acute metabolic decompensation in patients with AA IEM is difficult due to patient fragility during these episodes, highlighting the need for the development of alternative methods of investigation.
+
+Complex interactions occur between carbohydrate, fat and protein metabolism during episodes of acute metabolic decompensation. Imbalances between rates of fuel intake and utilization result in perturbations in metabolic homeostasis. Based on a published computational model of human macronutrient metabolism (Hall 2010), herein, we describe the simulation of whole body nitrogen metabolism in response to recommended and anecdotal dietary interventions used in the treatment of acute metabolic decompensation in AA IEM. The model provides the first realistic predictions of how the interventions applied during acute metabolic decompensation results in adaptations of whole body energy expenditure and intake, and nitrogen balance.
+
+METHODS
+We adapted a previously validated computational model of adult human macronutrient metabolism (Hall 2010) to simulate differences in whole-body nitrogen balance as a result of various feeding regiments in the treatment of acute metabolic decompensation in patients with IEM. The computational model quantitatively tracks the metabolism of all three dietary macronutrients and simulates how diet changes result in adaptations of whole-body energy expenditure, metabolic fuel selection, and alterations in the major whole-body fluxes contributing to macronutrient balance. The macronutrient balance model is mathematically represented by the following equations describing changes in the body’s energy stores of glycogen (G), fat (F), and protein (P):
+ ρCdGdt=CI−DNL+GNGp+GNGf−G3P−CarbOx 
+ ρFdFdt=FI+εdDNL−KUexcr−1−εkKTG−FatOx 
+ ρPdPdt=PI−GNGp−ProtOx  where ρC, ρF, and ρP are the energy densities of carbohydrate, fat, and protein, respectively. The macronutrient intake rates, CI, FI, and PI refer to the intake rates of dietary carbohydrate, fat and protein, respectively. The rates of gluconeogenesis from amino acids and glycerol are indicated by GNGp and GNGf, respectively. The efficiencies of de novo lipogenesis, DNL, and ketogenesis, KTG, were represented by the parameters εd and εk , respectively. When the ketogenic rate increases, ketones are excreted in the urine at the rate KUexcr. Some flux of carbohydrates are provided for the production glycerol 3-phosphate, G3P, that is used in the synthesis of triglyceride. The oxidation rates CarbOx, FatOx, and ProtOx, sum to the energy expenditure rate, EE, less the small amount heat produced via flux through ketogenic and de novo lipogenic pathways. Turnover of glycogen, fat, and protein and the corresponding energy costs are also included in the model.
+
+The main model assumptions are that changes of the body’s energy stores are given by the sum of metabolic fluxes entering the pools minus the fluxes exiting the pools. Hence, the macronutrient metabolism model obeys the first law of thermodynamics and the most recent version was developed using published human data from over 50 experimental studies and was validated by comparing model predictions with the results from several controlled feeding studies not used for model development (Hall 2010). Of particular importance for the present study, the mathematical model was calibrated using nitrogen balance data collected from various studies in healthy subjects in response to changes in diet composition and energy content. While the model parameters were altered as described below to simulate metabolic decompensation in AA IEM, the normal macronutrient hierarchy of nitrogen sparing achieved by dietary intake (or exogenous delivery) of protein &gt; carbohydrate &gt; fat was maintained.
+
+RESULTS
+The two main causes of acute metabolic decompensation in AA IEM, such as UCD, are overconsumption of protein due to dietary non-adherence, and catabolism secondary to febrile illness with anorexia (McGuire, Lee et al. 2013). When acute metabolic decompensation occurs, various treatment modalities are employed to prevent further nitrogen imbalance and abrogate HA. To examine the effects of recommended and anecdotal nutritional interventions used in the management of acute metabolic decompensation in AA IEM, we simulated the dynamics of nitrogen metabolism using a computational model representing a prototypical 80kg 170 cm adult male with UCD.
+
+At baseline, a typical UCD diet for the simulated patient consisted of 2580 kcal, with a macronutrient composition of 10% protein, 30% fat and 60% carbohydrate to meet the DRI for protein and his RMR for calories (Table). To simulate acute decompensation due to dietary non-adherence with increased protein intake, total caloric intake was increased by 500 kcal/day, with a 50% increase in protein intake, starting at Day 0 (Table, Figure 1A-C). Consistent with nutritional strategies employed in the management of acute decompensation in UCD, protein was cut to 0 g/day on Day 2 for 2 days (Figure 1, gray shading) by oral restriction. Three UCD treatment modalities providing protein-free calories, were instituted and continued through Day 7: dextrose (DEX, red, Figure 1A) providing 2800 Kcal (20% dextrose at 1.5X maintenance), hypocaloric dextrose (HYPO, green, Figure 1B) providing 1400 Kcal (i.e. 10% dextrose at 1.5X maintenance), and isocaloric dextrose (10% dextrose at 1.5X maintenance) and intralipid (2g/kg/day, (ISO), blue, Figure 1C) to provide 2800 kcal. ISO represents the published recommended nutritional strategy for AA IEM (Singh, Rhead et al. 2005; Chapman, Gropman et al. 2012), while DEX and HYPO represent the anecdotal nutritional strategies. Starting on Day 4, normal oral dietary intake was reintroduced in a stepwise fashion (Table, Figure 1): Step 1 (S1) 50% at 4–5 days, Step 2 (S2) 75% at 5–6 days, and Step 3 (S3) 100% at 6–7 days.
+
+Under these conditions, the model predicted an initial positive nitrogen balance (+5.4 g/day, Figure 1D) at Day 0 with a concomitant increase in nitrogen excretion, which peaked 1.5 days later (+14.6 g/day, Figure 1E). Since patients with UCD have reduced nitrogen excretion, clinically this would coincide with HA. With protein restriction at Day 2, energy intake (EI) varied with the protein-free interventions: DEX and ISO decreased 279 kcal/day (Figure 1A and 1C respectively), and HYPO decreased by 1678 kcal/day (Figure 1B). With a large decrease in EI, the changes in total energy expenditure (TEE) and resting metabolic rate (RMR) were less pronounced (Figure 1A-C). The model predicted the nadir of negative nitrogen balance at 2 days (Figure 1D). Interestingly, protein-free caloric support provided as DEX (−4.9 g/day) was better at attenuating negative nitrogen balance when compared to ISO (−9.3 g/day) and HYPO (−10.3 g/day). Nitrogen excretion mirrored nitrogen balance (Figure 1E), with DEX (+4.9 g/day) resulting in less nitrogen excretion, versus ISO (+9.3 g/day) and HYPO (+10.3 g/day). From this nadir, nitrogen balance and excretion trended similarly for all conditions with protein-free caloric support. Positive nitrogen balance was achieved with the introduction of 50% oral intake (S1) for DEX, while ISO and HYPO required 75% oral intake (S2). Peak nitrogen balance was reached at 6.5 days for all conditions, and was greater for DEX (+9.2 g/day) versus ISO (+5.9 g/day) and HYPO (+4.7 g/day). The nadir of nitrogen excretion was reached at 6.5 days with DEX (+0.39 g/day) outperforming ISO (+3.7 g/day) and HYPO (+4.9 g/day). Overall, dextrose alone, prior to, and through the reintroduction of, oral diet resulted in improved nitrogen balance and excretion throughout the simulation.
+
+Metabolic decompensation resulting from infection with associated anorexia was also modeled using the same treatment modalities employed in the dietary nonadherence example. In the infection/anorexia model, EI was reduced by 50%, simulating anorexia, and to represent a fever of 40°C starting at Day 0, RMR was increased by 400 kcal/day and proteolysis was increased by 30% (Figure 2A-C) (Beisel 1975). Similar to the dietary model, protein intake was cut at Day 2 to 0 g/day for 2 days (Figure 2, gray shading). The treatment modalities outlined above (DEX, ISO, HYPO) were then employed. Under these conditions, the model predicted a negative nitrogen balance of (−9.0 g/day) with a concomitant increase in nitrogen excretion (+13.8 g/day) at Day 0 (Figure 2D-E). From Day 0 – 2, nitrogen excretion remained high (&gt; +13 g/day, Figure 2E), highlighting the combined effects of increased RMR and anorexia (Figure 2A-C). At Day 2, DEX showed a significant improvement in nitrogen balance (−8.3 to −4.6 g/day&lt; Figure 2D) and excretion (+8.3 to +4.6 g/day, Figure 2E). HYPO and ISO started showing positive gains in nitrogen balance and a reduction in nitrogen excretion (Figure 2D-E) at Day 4 with the cessation of fever (decrease in RMR, Figure 2B-C). Positive nitrogen balance was achieved for DEX and ISO with the reintroduction of 50% oral intake (Figure 2D). HYPO required 75% oral intake to achieve positive nitrogen balance (Figure 2D). Peak nitrogen balance was reached at 6.5 days for all conditions, and was greater for DEX (+9.4 g/day) versus ISO (+6.1 g/day) and HYPO (+4.9 g/day). The nadir of nitrogen excretion (Figure 2E) was reached at 6.5 days with DEX (+0.17 g/day), outperforming ISO (+5.2 g/day) and HYPO (+4.0 g/day). Similar to the dietary non-adherence model above, dextrose alone enhanced gains in nitrogen balance and excretion throughout the simulation.
+
+DISCUSSION
+Mathematical models can provide a framework for capturing relevant physiology such as the dynamics of energy and macronutrient imbalances and can be used to integrate quantitative experimental data in humans and predict the results of nutritional interventions (Hall 2012). We fully recognize that the current mathematical modeling study has not been validated in patients with AA IEM. Rather, it represents a quantitative “thought experiment” where the most relevant aspects of whole-body macronutrient metabolism have been simulated and extended to represent nitrogen balance dynamics following metabolic decompensation and its treatment. These in silico experiments may then be used to guide experimental research. To that end, we have employed mathematical modeling to predict changes in nitrogen homeostasis due to recommended and anecdotal nutritional interventions employed during acute metabolic decompensation in an adult patient with AA IEM. Although we do recognize the limitations of the study in modeling adults specifically, very little data regarding children are available to build such a model. However, the number of UCD adults with metabolic decompensation is not insignificant. Up to 21% of metabolic decompensation episodes with HA occur in individuals over the age of 18 years (McGuire, Lee et al. 2013). If the age is extended to &gt;15 years due to similar protein RDA (~50g/day) as adults, the number of patients experiencing HA increases to ~30%. Overall, since acute metabolic decompensation can be life-threatening, preclinical evaluation of various nutritional interventions can be explored safely with mathematical modeling, and therefore provide evidence for more targeted clinical evaluation.
+
+The pathophysiology of acute metabolic decompensation in AA IEM due to stressors such as infection and dietary nonadherence involves an expanded nitrogen pool. This expanded nitrogen pool can lead to the accumulation of metabolic toxins. For example, in UCD, this expanded nitrogen pool is fed to a dysfunctional urea cycle leading to HA. The management goals during acute metabolic decompensation in AA IEM are to restore nitrogen balance by: 1) minimizing protein intake temporarily; 2) shifting catabolism to anabolism by providing protein-free calories, and 3) facilitating alternate routes of toxin elimination with medications and/or dialysis (Singh, Rhead et al. 2005). Protein-free calories used to dampen catabolism include intravenous dextrose (D10 or higher). At times, parenteral lipids (2–3g/kg/day) are also used as they supply more calories than dextrose (10 kcal/g versus 3.4 kcal/g). While the principles of management are straightforward, the strategies used by metabolic physicians to restore nitrogen balance vary. In a cohort of patients with UCD with acute metabolic decompensation (i.e. HA), parenteral lipids were used only 33% of the time (McGuire, Lee et al. 2013). This discrepancy in medical management possibly suggests a lack of treatment consensus. Alternatively, parenteral lipids may not be widely available in the populations studied. Regardless of the root cause, these discrepancies prompted us to ask which nutritional regimen would produce the most benefit with regards to nitrogen balance.
+
+The genesis of the nutritional strategy employed in the management of acute metabolic decompensation comes from the field of postoperative surgical care. In the postoperative period of catabolism, nitrogen balance can be achieved using various combinations of carbohydrate, amino acid and lipid sources (Gazzaniga, Bartlett et al. 1975; Bark, Holm et al. 1976). However, carbohydrate alone results in greater incremental restoration of nitrogen balance when compared to carbohydrate/fat and amino acids alone (Tulikoura and Huikuri 1981). Moreover, glucose/amino acid supplementation displays a better nitrogen sparing effect when compared to lipid/amino acid supplementation (Freund, Yoshimura et al. 1980). These findings are consistent with our mathematical model. The anecdotal approach using DEX was more effective during dietary nonadherence and infection/anorexia scenarios in reducing nitrogen loss during the oral restriction phase, while resulting in more positive nitrogen balance and greatly reduced nitrogen excretion during the reintroduction of oral intake (Figures 1–2). The benefits in nitrogen homeostasis seen with DEX are likely due to the stimulation of insulin secretion secondary to increased blood glucose. In addition to leading to the increased deposition of glycogen in muscle, insulin is highly anabolic, increasing nitrogen deposition in muscle in catabolic patients (Valarini, Sousa et al. 1994). Insulin achieves muscle protein anabolism by inhibition of proteolysis rather than increasing protein synthesis (Chow, Albright et al. 2006). At times, metabolic practitioners add insulin to nutrition regimens during acute metabolic decompensation when hyperglycemia develops (Haberle, Boddaert et al. 2012; McGuire, Lee et al. 2013). This raises the question of whether the earlier introduction of insulin, while maintaining normoglycemia by dextrose infusion, may augment the restoration of nitrogen balance. The physiologic mechanisms surrounding this question can be explored in spf-ash, an animal model of ornithine transcarbamylase deficiency, the most common UCD. Previously, we established a model system of metabolic decompensation due to influenza infection in spf-ash (McGuire, Tarasenko et al. 2014). This model could certainly serve as a platform for the preclinical evaluation of the nutritional strategies employed in our mathematical model.
+
+It is worth noting that positive nitrogen balance was achieved in all three models only when protein was added back, with DEX and ISO starting at day 4. This suggests that the nutritional strategies employed were only sufficient for sparing amino acid utilization. Although glucose may generate amino acids through transamination reactions, our model suggests that exogenous sources of amino acids are needed. We hypothesize that this may be related to branched chain amino acids (BCAAs). As important regulators of the mTOR signaling pathway, BCAAs regulate protein synthesis and turnover (Blomstrand, Eliasson et al. 2006). In response to increased amino acid availability, human skeletal muscle will increase its transport of amino acids for anabolism by an mTOR dependent mechanism (Drummond, Glynn et al. 2010). During cachexia, a scenario similar to metabolic decompensation due to infection (i.e. catabolism), BCAAs promote protein synthesis and reduce skeletal muscle breakdown (Drummond and Rasmussen 2008). Overall, these findings suggest that the reintroduction of protein (BCAAs) in the diet is critical to mediate anabolism for the restoration of nitrogen balance.
+
+In a cohort of UCD patients, when compared to dietary non-adherence, infection tends to result in higher rates of hospitalization, with longer hospital stays and a greater need for aggressive nitrogen scavenger therapy (McGuire, Lee et al. 2013). The pathophysiology of these markers of increased morbidity may be due in part to immune activation and the actions of inflammatory cytokines (Beisel 1975). Dietary non-adherence is nitrogen-sparing, while infection results in continued loss of nitrogen, despite protein status, leading to increased catabolism (Beisel 1975). In severe illness up to 20% of body protein stores can be lost, most of which occurs in the first 10 days (Wolfe 2005). This loss of body protein resulting in negative nitrogen balance is explained by increases in metabolic rate (Dubois 1937) and the continued urinary loss of nitrogenous compounds (Beisel 1975). With the increased metabolic rate (RMR) during infection, our model predicted a large nitrogen deficit (−9.0 g/day, Figure 2D) with increased nitrogen excretion (+13.8 g/day, Figure 2E). For patients with UCD, this large increase in nitrogen excretion probably represents HA due to their reduced capacity for ureagenesis. In patients with other amino acid IEM, such as organic acidemias, this increase in nitrogen excretion may be coupled with acidosis.
+
+In conclusion, the published recommendations (ISO) for the nutritional management of acute metabolic decompensation in IEM may not be the most effective in restoring nitrogen balance, as demonstrated by the metabolic model proposed herein. Dextrose alone (DEX) was better at minimizing nitrogen loss and restoring nitrogen balance in our dietary nonadherence and infection/anorexia scenarios. For the representative patient herein, results of the computational model suggest the best practical treatment to maximize parenteral dextrose to meet TEE with the reintroduction of protein as soon as HA is controlled. These nutritional strategies could be further explored using UCD decompensation models previously published by our group (McGuire, Tarasenko et al. 2014). Overall, our model is a novel approach to studying nitrogen metabolism in patients with AA IEM, as well as postoperative, septic or traumatic injury patients undergoing enhanced catabolism. Published evidence in patients undergoing catabolism is consistent with our findings, supporting the utility of our model. Computational modeling of metabolism is an important tool for understanding the effects of the various treatment modalities used in IEM, and may be useful for the preclinical evaluation of directed interventions aimed at restoring nitrogen homeostasis in AA IEM, thus minimizing patient risk.
+
+
+          COMPLIANCE WITH ETHICS GUIDELINES
+        
+
+Drs. Erin Macleod (EM), Kevin D. Hall and Peter J. McGuire declare no conflict of interest. This article does not contain any studies with human or animal subjects performed by any of the authors. EM was involved in the experimental conception and design, interpretation of data, preparation of article drafts and revision of said article for intellectual content. KDH was involved in the experimental conception and design, data analysis, interpretation of data, and revision of said article for intellectual content. PJM was involved in the experimental conception and design, interpretation of data, preparation of article drafts and revision of said article for intellectual content.
+
+ACKNOWLEDGEMENTS
+The views expressed in written materials or publications do not necessarily reflect the official policies of the Department of Health and Human Services; nor does mention by trade names, commercial practices, or organizations imply endorsement by the U.S. Government. Thanks to Drs. Les Biesecker, Pamela Schwartzberg and Charles P. Venditti for their guidance and the support of the Physician Scientist Development Program at NHGRI.
+
+
+        GRANTS
+      
+
+PJM and KDH are supported by the Intramural Research Program of the National Institutes of Health.
+
+Figure 1 Energy and nitrogen balance during acute metabolic decompensation due to dietary nonadherence. Total caloric intake was increased by 500 kcal/day, with a 50% increase in protein intake, starting at Day 0. Resting metabolic rate (RMR, circle), Total Energy Expenditure (TEE, square) and Energy Intake (EI, triangle) for A) dextrose alone (DEX, red), B) hypocaloric dextrose (HYPO, green) or C) isocaloric dextrose/lipid (ISO, blue). D) Nitrogen balance and E) nitrogen excretion for DEX (red), HYPO (green), ISO (blue). Dietary descriptions are included in the text. Kcal/d – kilocalories per day.
+
+Figure 2 Energy and nitrogen balance during acute metabolic decompensation due to infection/anorexia. Energy intake was reduced by 500 kcal/day, simulating anorexia, and RMR was increased by 500 kcal/day to account for proteolysis (temperature of 40°C) starting at Day 0. Resting metabolic rate (RMR, circle), Total Energy Expenditure (TEE, square) and Energy Intake (EI, triangle) for A) dextrose alone (DEX, red), B) hypocaloric dextrose (HYPO, green) or C) isocaloric dextrose/lipid (ISO, blue). D) Nitrogen balance and E) nitrogen excretion for DEX (red), HYPO (green), ISO (blue). Dietary descriptions are included in the text. Kcal/d – kilocalories per day.
+
+Table Caloric and macronutrient composition of dietary interventions modeled during acute metabolic decompensation due to dietary nonadherence or infection/anorexia. S1 – Step 1, S2 – Step 2, S3 – Step 3.
+
+Condition	kcal	protein	fat	carbohydrate	
+		%kcal	g/kg	%kcal	g(g/kg/d)	% kcal	g (mg/kg/min)	
+Prior to acute metabolic decompensation	
+
+              
+            	
+
+              Baseline
+            	2580	10	0.8	30	86	60	387	
+
+              
+            	
+Acute metabolic decompensation	
+
+              
+            	
+
+              Overeating (2 days)
+            	3080	15	1.4	30	102	55	423	
+
+              Infection/anorexia (2 days)
+            	1290	10	0.4	30	43	60	194	
+
+              
+            	
+Reintroduction of oral calories following acute metabolic decompensation	
+
+              
+            	
+
+              50% Diet (SI)
+            	1290	10	0.4	30	43	60	193	
+
+              75% Diet S2
+            	1934	10	0.6	30	64	60	290	
+
+              100% Diet (S3)
+            	2578	10	0.8	30	86	60	387	
+
+              
+            	
+Parenteral nutrition scenarios	
+
+              
+            	
+
+              DEX
+            	2800					100	824 (7)	
+
+              HYPO
+            	1400					100	412 (3.6)	
+
+              ISO
+            	2800			50	140 (1.75)	50	412 (3.6)	
+
+   REFERENCES
+
+            Bark S  
+            Holm I  
+            Hakansson I  
+            Wretlind A  
+           Nitrogen-sparing effect of fat emulsion compared with glucose in the postoperative period Acta Chir Scand 1976 142 6 423 427 827173 
+
+            Beisel WR  
+           Metabolic response to infection Annu Rev Med 1975 26 9 20 1096783 
+
+            Chapman KA  
+            Gropman A  
+            MacLeod E  
+             
+           Acute management of propionic acidemia Mol Genet Metab 2012 105 1 16 25 22000903 
+
+            Dubois EF  
+           The Mechanism of Heat Loss and Temperature Regulation 1937 Stanford, CA Stanford University Press 
+
+            Freund H  
+            Yoshimura N  
+            Fischer JE  
+           Does intravenous fat spare nitrogen in the injured rat? Am J Surg 1980 140 3 377 383 6775547 
+
+            Gazzaniga AB  
+            Bartlett RH  
+            Shobe JB  
+           Nitrogen balance in patients receiving either fat or carbohydrate for total intravenous nutrition Ann Surg 1975 182 2 163 168 813585 
+
+            Haberle J  
+            Boddaert N  
+            Burlina A  
+             
+           Suggested guidelines for the diagnosis and management of urea cycle disorders Orphanet J Rare Dis 2012 7 32 22642880 
+
+            Hall KD  
+           Predicting metabolic adaptation, body weight change, and energy intake in humans Am J Physiol Endocrinol Metab 2010 298 3 E449 E466 19934407 
+
+            Hall KD  
+           Modeling metabolic adaptations and energy regulation in humans Annual Rev Nutr 2012 32 35 54 22540251 
+
+            Levy PA  
+           Inborn errors of metabolism: part 1: overview Pediatr Rev 2009 30 4 131 137 quiz 137-138 19339386 
+
+            McGuire PJ  
+            Lee HS  
+            Summar ML  
+           Infectious precipitants of acute hyperammonemia are associated with indicators of increased morbidity in patients with urea cycle disorders J Pediatr 2013 163 6 1705 1710 e1701 24084106 
+
+            McGuire PJ  
+            Tarasenko TN  
+            Wang T  
+             
+           Acute metabolic decompensation due to influenza in a mouse model of ornithine transcarbamylase deficiency Dis Model Mech 2014 7 2 205 213 24271778 
+
+            Singh RH  
+            Rhead WJ  
+            Smith W  
+            Lee B  
+            Sniderman King L  
+            Summar M  
+           Nutritional management of urea cycle disorders Crit Care Clin 2005 21 4 Suppl S27 S35 16227113 
+
+            Sun A  
+            Lam C  
+            Wong DA  
+           Expanded newborn screening for inborn errors of metabolism: overview and outcomes Adv Pediatr 2012 59 1 209 245 22789580 
+
+            Tulikoura I  
+            Huikuri K  
+           Changes in nitrogen metabolism in catabolic patients given three different parenteral nutrition regimens Acta Chir Scand 1981 147 7 519 524 6808798 
+
+            Valarini R  
+            Sousa MF  
+            Kalil R  
+            Abumrad NN  
+            Riella MC  
+           Anabolic effects of insulin and amino acids in promoting nitrogen accretion in postoperative patients JPEN 1994 18 3 214 218 
+
+            Wilson D  
+            Bressani R  
+            Scrimshaw NS  
+           Infection and nutritional status. I. The effect of chicken pox on nitrogen metabolism in children Am J Clin Nutr 1961 9 154 158 13785641 
+
+            Wolfe RR  
+           Regulation of skeletal muscle protein metabolism in catabolic states Curr Opin Clin Nutr Metab Care 2005 8 1 61 65 15586001 
+

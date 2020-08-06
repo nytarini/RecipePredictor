@@ -1,0 +1,363 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0372355640Ann Rheum DisAnn. Rheum. Dis.Annals of the rheumatic diseases0003-49671468-206025362043441708210.1136/annrheumdis-2014-206074NIHMS640981ArticleAMP-activated protein kinase suppresses urate crystal-induced inflammation and transduces colchicine effects in macrophages Wang Yun 1Viollet Benoit 234Terkeltaub Robert 15Liu-Bryan Ru 151 Depatment of Medicine, UCSD, San Diego, California, USA2 INSERM, U1016, Institut Cochin, Paris, France3 CNRS, UMR8104, Paris, France4 Université Paris Descartes, Sorbonne Paris Cité, Paris, France5 VA San Diego Medical Center, San Diego, California, USACorrespondence to Dr Ru Liu-Bryan, VA San Diego Medical Center, 3350 La Jolla Village Drive, San Diego, CA 92161, USA; ruliu@ucsd.edu7 11 2014 31 10 2014 1 2016 01 1 2016 75 1 286 294 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objective
+AMP-activated protein kinase (AMPK) is metabolic biosensor with anti-inflammatory activities. Gout is commonly associated with excesses in soluble urate and in nutrition, both of which suppress tissue AMPK activity. Gout is driven by macrophage-mediated inflammation transduced partly by NLRP3 inflammasome activation and interleukin (IL)-1β release. Hence, we tested the hypothesis that AMPK activation limits monosodium urate (MSU) crystal-induced inflammation.
+
+Methods
+We studied bone marrow-derived macrophages (BMDMs) from AMPKα1 knockout and wild-type mice, and assessed the selective AMPK pharmacological activator A-769662 and a low concentration (10 nM) of colchicine. We examined phosphorylation (activation) of AMPKα Thr172, NLRP3 mRNA expression, and caspase-1 cleavage and IL-1β maturation using western blot and quantitative RT-PCR approaches. We also assessed subcutaneous murine air pouch inflammatory responses to MSU crystals in vivo.
+
+Results
+MSU crystals suppressed phosphorylation of AMPKα in BMDMs. Knockout of AMPKα1 enhanced, and, conversely, A-769662-inhibited MSU crystal-induced inflammatory responses including IL-1β and CXCL1 release in vitro and in vivo. A-769662 promoted AMPK-dependent macrophage anti-inflammatory M2 polarisation and inhibited NLRP3 gene expression, activation of caspase-1 and IL-1β. Colchicine, at low concentration (10 nM) achieved in gout flare prophylaxis dosing, promoted phosphorylation of AMPKα and macrophage M2 polarisation, and reduced activation of caspase-1 and release of IL-1β and CXCL1 by MSU crystals in BMDMs in vitro.
+
+Conclusions
+AMPK activity limits MSU crystal inflammation in vitro and in vivo, and transduces multiple anti-inflammatory effects of colchicine in macrophages. Targeting increased and sustained AMPK activation in inflammatory cells merits further investigation for enhancing efficacy of prophylaxis and treatment of gouty inflammation.
+
+
+   INTRODUCTION
+Gout is a common inflammatory arthritis that can develop as a response to articular and soft tissue deposition of monosodium urate (MSU) crystals promoted by increased body urate burden and reflected by hyperuricaemia.12 Increased body urate burden is driven by comorbidities such as obesity, metabolic syndrome and diabetes, hypertension and chronic kidney disease.12 Nutritional excesses through consumption of alcohol, high purine meats and seafood, and fructose-sweetened sodas can promote increased body uric acid burden and trigger acute flares of arthritis in established gout.3–6 Clearly, not all subjects with increased body uric acid burden develop tissue urate crystal deposition, and there is marked variability in the frequency and severity of inflammatory arthritis in patients with established tissue urate crystal deposition and symptomatic gout.2 Some variability in the ability of urate crystals to cause inflammation in the host may be due to the capacity of diet-modulated free fatty acids to prime TLR2-mediated signalling in macrophages.78 Moreover, changes in cellular bioenergetics, regulated by nutritional factors and comorbidities, can reprogram inflammatory responses.910
+
+The serine/threonine protein kinase AMP-activated protein kinase (AMPK) is a cellular energy biosensor,1112 which is activated by stressors that increase AMP:ATP ratio (eg, nutrient deprivation, hypoxia, exercise).1112 Conversely, soluble urate itself,1314 and alcohol, fructose intake and other nutritional stressors inhibit tissue AMPK activity.15–17 Moreover, tissue AMPK activity is diminished in obesity, type 2 diabetes, metabolic syndrome and these linked metabolic disorders associated with both low-grade adipose tissue inflammation and increased prevalence of gout.1819
+
+MSU crystal interaction with complement and resident cells induces acute inflammation in large part through expression of nuclear factor (NF)-κB-dependent pro-inflammatory cytokines (eg, pro-interleukin (IL)-1β, neutrophil chemotactic chemokines CXCL8 (IL-8), CXCL1) and macrophage lineage cell IL-1β maturation and release via the activated NLRP3 inflammasome.20–22 Unfortunately, many patients with gout have contraindications or intolerance to, or failure of conventional anti-inflammatory agents (non-steroidal anti-inflammatory drugs, corticosteroids, colchicine) for the prevention and treatment of gouty arthritis.23 Understanding and increasing options to prevent and treat gouty arthritis could advance care. In this context, activated AMPK is anti-inflammatory partly through inhibition of NF-κB.24 Moreover, activation of AMPK is induced by certain drugs already in the clinic for arthritis and other diseases (eg, methotrexate, high-dose aspirin, metformin),1025 and by other agents, including the selective and direct activator A-769662.1025
+
+In this study, we performed translational studies on effects of pharmacological activation of AMPK on MSU crystal-induced inflammatory responses in bone marrow-derived macrophages (BMDMs) in vitro and in the synovium-like mouse subcutaneous air pouch model in vivo. Since inhibition of AMPK impairs microtubule stabilisation,26 we also tested the specific hypothesis that the microtubule-stabilising agent colchicine could limit inflamma-tory responses of macrophages to MSU crystals by regulating AMPK activity. Our results suggest a novel mechanism by which AMPK activity regulation contributes to the development and intensity of tissue inflammation in gout and transduces many of the anti-inflammatory prophylaxis and therapeutic effects of colchicine for gouty inflammation.
+
+METHODS
+Reagents
+All chemical reagents were from Sigma-Aldrich (St. Louis, Missouri, USA), unless otherwise stated. MSU crystals were prepared as described,27 suspended at 25 mg/mL in sterile, endotoxin-free phosphate buffered saline (PBS) and verified to be free of detectable lipopolysaccharide contamination by Limulus lysate assay (Lonza, Walkersville, Maryland, USA). A-769662 was from LC laboratories (Woburn, Massachusetts, USA). Antibodies to phospho-p65 (Ser536) and total p65 NF-κB subunit, phospho-AMPKα (Thr172) and total AMPKα (recognising both AMPKα isoforms) were from Cell Signaling Technology (Danvers, Massachusetts, USA). AMPKα1 antibody was from Abcam (Cambridge, Massachusetts, USA). IL-1β antibody was from BioVision (Milpitas, California, USA). Antibodies to caspase-1 (p20) and cleaved caspase-1 (p10) were from AdipoGen International (San Diego, California, USA) and Santa Cruz Biotechnology (Santa Cruz, California, USA), respectively.
+
+Mice
+We studied AMPKα1 knockout (KO) mice generated in Dr Benoit Viollet's lab and congenic wild-type (WT) mice on C57BL/6/129 background. All animal procedures were humanely performed with institutionally peer reviewed, approved protocols at San Diego, Virginia, USA.
+
+Cell culture
+Bone marrows from 7-week-old to 8-week-old AMPKα1 KO and congenic WT mice were obtained by flushing femurs. BMDMs were then generated by culturing the cells from bone marrows in complete Roswell Park Memorial Institute (RPMI) media containing 10% fetal bovine serum (FBS), penicillin (100 U/mL) and streptomycin (100 μg/mL) in the presence of macrophage colony-stimulating factor (M-CSF) (5 ng/mL) (R&amp;D Systems). After 5–7 days, the M-CSF-derived macrophages were replated onto 24-well (5×105/well) or 6-well plates (2×106/well) and primed with 5 ng/mL granulocyte macrophage colony-stimulating factor (GM-CSF) (R&amp;D Systems)28–30 for 24 h in complete RPMI media before treatment with indicated reagents in fresh RPMI containing only 1% FBS. Human monocytic THP-1 cells were maintained in complete RPMI supplemented with 2-mercaptoethanol (0.05 mM), 4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid (10 mM) and sodium pyruvate (1 mM). Cells (1×106 cells/mL) were stimulated with 20 ng/mL phorbol 12-myristate 13-acetate (PMA) for 24 h, and then cultured in fresh complete media for another 24 h before treated with indicated reagents in fresh medium containing only 1% FBS. Cell viability was determined using the CellTiter 96 AQueous One Solution Cell Proliferation Assay (Promega, Madison, Wisconsin, USA).
+
+Western blot
+Cells were lysed in RIPA buffer with 2 mM sodium vanadate and protease inhibitor cocktails (Roche, Mannheim, Germany). Cell lysates (10–15 μg) were separated by gradient 4%–20% sodium dodecyl sulfate-polyacrylamide gel electrophoresis and transferred onto nitrocellulose membranes (Bio-Rad, Hercules, California, USA) probed with antibodies, exposed to SuperSignal West Pico Chemiluminescent Substrate (Thermo Scientific, Waltham, Massachusetts, USA) and visualised by radiography.
+
+Cytokine analyses
+Mouse IL-1β and CXCL1 (KC) and human IL-1β were measured using DuoSet ELISA (R&amp;D Systems, Minneapolis, Minnesota, USA).
+
+Quantitative RT-PCR (qPCR)
+Total RNA was extracted and purified from cells using RNeasy Mini Kits (Qiagen, Hilden, Germany), with first strand cDNA generated via Transcriptor First Strand cDNA Synthesis Kit (Roche, Mannheim, Germany). Quantitative RT-PCR analysis of mRNA expression of NLRP3, IL-1β, NOS2 and arginase-1 was performed using LightCycler 480 (Roche) for 35 cycles. Fold changes were calculated by 2-ΔΔct methods, relative to the housekeeping GAPDH mRNA expression. Sequences of all primers are listed in online supplementary table.
+
+Subcutaneous air pouch model
+Subcutaneous pouches were generated by repeated injection of sterile air in 6-week-old to 8-week-old mice.27 After 7 days, MSU crystals (3 mg) in 1 mL of sterile endotoxin-free PBS were injected into the air pouch.27 Where indicated, A-769662 (10 μL of 100 mM stock in dimethyl sulfoxide (DMSO) diluted in 200 μL PBS) was injected into the pouch 1 h before crystal injection. Mice were euthanized 6 h after MSU crystal injection. Pouch fluids were harvested, and cells in pouch fluid were then characterised by staining with HEMA 3 (Fisher, Kalamazoo, Michigan, USA). Pouch fluid supernatants were subjected to ELISA analysis for cytokines, which were expressed as total amount of each cytokine per pouch by multiplying concentration of each cytokine with the total volume of pouch fluid. Air pouch tissues were fixed in 10% formalin, embedded in paraffin and sectioned for histological analysis of infiltrating inflammatory cells by H&amp;E staining.
+
+Statistical analyses
+Data are presented as either mean values±SD or mean±SEM as indicated. Statistical analyses were performed by two-way analysis of variance with Bonferroni post hoc test using GraphPad Prism software, V.5, or by Student t test. p Values &lt;0.05 were considered significant.
+
+RESULTS
+Pharmacological AMPK activation suppressed MSU crystal-induced inflammatory responses in macrophages in vitro.
+
+MSU crystals decreased AMPKα activity in macrophages (figure 1A), consistent with prior evidence that some inflammatory stimuli, including IL-1β, inhibit phosphorylation (at Thr172 of the catalytic domain) of the α subunit of heterotrimeric AMPK critical for AMPK activity.31 Pretreatment of BMDMs with the selective AMPK activator A-769662 (0.125 mM) increased basal phosphorylation of AMPKα and prevented de-phosphorylation of AMPKα in response to MSU crystals (figure 1A). In parallel, A-769662 (0.125 mM) inhibited MSU crystal-induced release of IL-1β and CXCL1 (figure 1B, C). Similar effects were also observed with the indirect AMPK activator metformin (see online supplementary figure S1).
+
+AMPKα1 deficiency significantly enhanced inflammatory responses to MSU crystals both in vitro and in vivo
+
+In macrophages, of the two AMPKα isoforms expressed, AMPKα1 is the predominant activated one.32 Here, we observed that expression of total AMPKα was largely decreased and phosphorylation of AMPKα was diminished in AMPKα1 KO compared with WT BMDMs (figure 2A). AMPKα1 KO BMDMs demonstrated increased release of IL-1β and CXCL1 by MSU crystals in vitro (figure 2B, C).
+
+MSU crystal-induced leucocyte infiltration was significantly increased in AMPKα1 KO air pouch cavities (figure 3A and top panel of 3B), as were oedema and associated leucocyte-rich inflammatory thickening in the lining of the AMPKα1 KO air pouch tissues compared with congenic WT mice (bottom panel of figure 3B). These changes were associated with increased pouch fluid IL-1β and CXCL1 in AMPKα1 KO mice (figure 3C,D).
+
+Pharmacological activation of AMPK by A-769662 inhibited MSU crystal-induced inflammation in vivo
+
+Western blot analysis of protein lysates of the air pouch lining tissues confirmed increased AMPKα phosphorylation by A-769662 (figure 4A). A-769662 pretreatment in vivo decreased MSU crystal-induced leucocyte ingress into air pouch fluid (figure 4B, top panel of figure 4C), as well as swelling and associated inflammation of air pouch lining tissues (bottom panel of figure 4C). Moreover, induction of IL-1β and CXCL1 by MSU crystals was significantly inhibited by A-769662 (figure 4D, E).
+
+A-769662 inhibited multiple MSU crystal-induced inflammatory responses and stimulated anti-inflammatory M2 macrophage polarisation in vitro.
+
+MSU crystal-induced phosphorylation of NF-κB p65 subunit (Ser536) was inhibited by A-769662 (0.125 mM) in BMDMs (figure 5A). Moreover, qRT-PCR analysis demonstrated that A-769662 significantly inhibited MSU crystal-induced mRNA expression of IL-1β and NLRP3 (figure 5B), transcriptional events known to be NF-κB-mediated.33 IL-1β is generated as an inactive precursor pro-IL-1β, cleaved by activated caspase-1 to form mature and bioactive IL-1β.20–22 A-769662 did not significantly affect pro-caspase-1 protein expression in the presence or absence of MSU crystals, but attenuated expression of cleaved caspase-1 (p10 or p20 active forms) in response to MSU crystals (figure 5C). A-769662 also inhibited MSU crystal-induced protein expression of both pro-IL-1β and cleaved IL-1β (figure 5C). In contrast, MSU crystal-induced expression of cleaved caspase-1 and cleaved IL-1β were further enhanced in AMPKα1 deficient BMDMs compared with congenic WT BMDMs (data not shown). Finally, qRT-PCR analysis of gene expression of arginase-1, a marker for anti-inflammatory M2 macrophages, and NOS2, a marker for inflammatory M1 macrophages,34 demonstrated that priming mouse macrophages (M-CSF-derived) with GM-CSF shifted macrophages towards M1 phenotype, evidenced by the markedly decrease in the ratio of arginase-1/NOS2 in GM-CSF-primed macrophages compared with naive M-CSF-derived macrophages (see online supplementary figure S2). Moreover, A-769662 (0.125 mM) increased the ratio of arginase-1/NOS2 in WT but not AMPKα1 KO GM-CSF-primed macrophages (figure 5D). In contrast, IL-4, a known cytokine to induce M2 phenotype, increased the ratio of arginase-1/NOS2 in both WT and AMPKα1 KO GM-CSF-primed macrophages to similar levels (data not shown). These results suggested that A-769662 promoted AMPK-dependent macrophage polarisation to M2 phenotype.
+
+Colchicine inhibited MSU crystal-induced inflammatory responses and promoted macrophage M2 polarisation mediated by induction of AMPK activation in vitro.
+
+Colchicine increased AMPKα phosphorylation in cultured mouse BMDMs (figure 6A), and did so at 10 nM concentration comparable with peak plasma concentrations clinically achieved in low-dose colchicine gout prophylaxis and treatment.3536 No significant alteration in cell viability was observed under this condition (data not shown). To determine how colchicine activates AMPK, we examined the effect of colchicine on phosphorylation of LKB1, the major upstream activating kinase for AMPK,12 and protein expression of phosphatase 2A and 2C, two negative regulators of AMPKα phosphorylation.12 Colchicine (10 nM) increased phosphorylation of LKB1 (figure 6A), but did not affect PP2A and PP2C expression (online supplementary figure S3), which suggested involvement of LKB1 in AMPK activation. Colchicine (10 nM) also increased protein expression of total AMPKα (figure 6A), but did not significantly alter mRNA levels of AMPKα1 or AMPKα2, assessed by qRT-PCR (see online supplementary figure S4). Colchicine appeared to regulate AMPKα expression at the translational level as it did not increase AMPKα protein expression in the presence of protein synthesis inhibitor cycloheximide (see online supplementary figure S5).
+
+Colchicine promoted the potential for AMPK-dependent M2 macrophage polarisation by increasing the ratio of arginase-1 to NOS2 mRNA expression significantly in WT but not AMPKα1 KO BMDMs (figure 6B). Unlike A-769662, colchicine (10 nM) did not inhibit NF-κB-dependent mRNA expression of IL-1β and NLRP3 (data not shown) and protein expression of pro-caspase-1 and pro-IL-1β (figure 6C). However, colchicine (10 nM) partially inhibited caspase-1 cleavage and pro-IL-1β to IL-1β maturation, and release of IL-1β and CXCL1 in response to MSU crystals in mouse BMDMs (figure 6C, D). These inhibitory effects were at least partly mediated through AMPK since colchicine failed to inhibit release of IL-1β and CXCL1 in AMPKα1 KO BMDMs (figure 6D).
+
+DISCUSSION
+Our study revealed that AMPK activity regulated development of tissue inflammatory responses to MSU crystals. Specifically, we observed that decreased mouse macrophage AMPK activity promoted a state of increased inflammatory responsiveness to MSU crystals, demonstrated by induction of NF-κB activation, IL-1β and NLRP3 mRNA expression at transcriptional level, as well as caspase-1 activation and IL-1β maturation at post-translational level. Significantly, pharmacological activation of AMPK by A-769662 inhibited NLRP3 inflammasome activation at both transcriptional and post-translational levels in mouse macrophages in response to MSU crystals. We also demonstrated that A-769662 inhibited MSU-induced caspase-1 activation and IL-1β maturation, and IL-1β release in PMA-differentiated human monocytic THP-1 cells (see online supplementary figure S6).
+
+We discovered AMPK activation to be a molecular target of colchicine in macrophages. Translational relevance was supported by our observation that colchicine upregulated activation of AMPK in macrophages at 10 nM, comparable with peak plasma concentration clinically achieved, and effective, in gout prophylaxis and treatment.3536 Colchicine (10 nM) inhibited MSU crystal-induced release of both IL-1β and CXCL1 in an AMPK-dependent manner. Unlike A-769662, colchicine appeared to inhibit MSU crystal-induced IL-1β generation only at the post-translational level as it did not affect pro-caspase-1 and pro-IL-1β protein expression. Colchicine (10 nM) also increased the expression of the antioxidant thioredoxin-1 (see online supplementary figure S7), which was pertinent because dysregulation of redox balance between thioredoxin and thioredoxin-interacting protein promotes oxidative stress in processes activating the NLRP3 inflammasome.3738 Mechanistically, colchicine may promote macrophage AMPK activity by effects including increased phosphorylation (activation) of LKB1, the major upstream kinase of AMPK, and elevated of total AMPKα protein expression. How colchicine regulates LKB1 activation in macrophages remains to be determined. Nevertheless, colchicine effects on the AMPK activation process were at least partially selective since colchicine did not modulate the PP2A and PP2Cα phosphatases that dephosphorylate AMPKα and thereby deactivate AMPK.
+
+This study identified shared effects of AMPK activity and colchicine on macrophage anti-inflammatory M2 polarisation in vitro. In gout, such differentiation changes appear consequential since some M2 macrophage subsets promote resolution of inflammation induced by MSU crystals by mechanisms including ingestion of MSU crystals and apoptotic neutrophils,39 with associated increases in transforming growth factor β and other mediators that dampen acute inflammation.40 We observed that both A-769662 and colchicine were able to increase ratio of arginase-1 (M2 marker) to NOS2 (M1 marker), which required AMPK. This result reinforced the previous finding that AMPK activation promotes M1–M2 macrophage polarisation.4142
+
+Colchicine is now added to the list of indirect AMPK activation-promoting drugs already in the clinic for arthritis and other diseases including methotrexate, high-dose aspirin (acetylsalicylic acid) and metformin.1025 Our studies showed that metformin was able to inhibit MSU crystal-induced release inflammatory cytokines in mouse macrophages in vitro. This is clinically pertinent since metformin is used in the clinic as an insulin-sensitiser for metabolic syndrome and type II diabetes. As such, the potential for integrating metformin into management of both gout and insulin resistance merits further investigation. Furthermore, we found that aspirin and sodium salicylate, at high doses (≥3 mM) achievable in human anti-inflammatory therapy4344), enhanced phosphorylation of AMPKα and significantly inhibited MSU crystal-induced IL-1β release in mouse BMDMs in vitro (see online supplementary figure S8).
+
+Limitations of this study included our focus on cultured macrophages and murine model gout. It remains to be determined whether activation of AMPK inhibits initiation of acute arthritis and promotes the resolution phase in gout-like inflammation. Also beyond the scope of this study was examination whether the basis for reported priming effects of high ambient levels of uric acid on phagocyte activation responses are mediated by the capacity of high concentration of soluble urate to decrease tissue AMPK activity.14 Finally, it is likely that not all models of nutritional excesses, obesity and gout-like inflammation in body cavities may give as consistent results for AMPK effects as those in the current study. For example, in a recent study of effects of 12 weeks of high-fat diet-induced obesity on the inflammatory phenotype of resident C57BL/6 mice peritoneal macrophages, there was increased pro-inflammatory background function of peritoneal macrophages.45 However, intraperitoneal MSU crystal injection unexpectedly decreased the high background levels of IL-6, MCP-1, KC and GM-CSF levels in the obese mice and failed to increase phagocyte recruitment into the peritoneal cavity.45
+
+In conclusion, activated AMPK suppresses inflammatory responses induced by MSU crystals both in vitro and in vivo, and transduces multiple anti-inflammatory effects of colchicine in macrophages. Since soluble urate itself,1314 and alcohol consumption, and multiple nutritional stressors and obesity and metabolic syndrome decrease tissue AMPK activity,15–17 our results implicate that decreased AMPK activity may promote in vivo inflammatory responses to MSU crystal deposits in humans with specific comorbidities and nutritional stressors. It will be of interest to determine whether variability in tissue AMPK activity in humans contributes to the observations that gout only develops in a minority, and over variable periods of time, in subjects with increased body uric acid burden, and that there is marked variability in the frequency and severity of inflammatory arthritis in patients with established MSU crystal deposition and symptomatic gout.2 Many patients with gout have limited safe and effective anti-inflammatory treatment options.23 Targeting increased and sustained activation of AMPK in inflammatory cells, and potentially in resident joint tissues, via diet and lifestyle measures and pharmacological agents, merits further investigation for potential capacity to enhance efficacy of prophylaxis and treatment of gouty inflammation.
+
+Supplementary Material
+supplemental data  Funding This work was financially supported by the VA Research Service and grants from the Arthritis Foundation and NIH (PAG07996, T32 AR06419).
+
+Contributors RT and RL-B contributed to study conception and design. YW and RL-B contributed to data acquisition and analysis. BV generated the AMPKα1 KO mice. All authors contributed to data interpretation. YW, RT and RL-B contributed to drafting and revising the article.
+
+Competing interests None.
+
+Provenance and peer review Not commissioned; externally peer reviewed.
+
+Data sharing statement All data can be requested from the corresponding author.
+
+Figure 1 Inhibition of de-phosphorylation of AMP-activated protein kinase (AMPKα) and inflammatory cytokine production by A-769662 in mouse bone marrow-derived macrophages (BMDMs) stimulated with monosodium urate (MSU) crystals in vitro. Mouse BMDMs primed with GM-CSF, as described in the Methods section, were pretreated with A-769662 (0.125 mM) for 1 h before stimulation with MSU crystals (0.2 mg/mL) for 16 h. Cell lysates were subjected to sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE)/western blot analysis for phosphorylated and total AMPKα. β-Actin was used as a loading control (A). Densitometry analysis of phosphorylated AMPK relative to total AMPK presented as mean of three individual experiments. p Values are indicated in (A). The conditioned media was subjected to ELISA analysis for cytokines interleukin-1β and CXCL1 (knockout (KC)) (B and C). Data shown as mean ±SD of at least three individual experiments. p Values shown in (B) and (C) as comparisons of MSU crystal-stimulated macrophages with and without A-769662 pretreatment.
+
+Figure 2 Enhanced monosodium urate (MSU) crystal-induced release of interleukin (IL)-1β and CXCL1 in AMP-activated protein kinase (AMPKα1)-deficient bone marrow-derived macrophages (BMDMs) in vitro. We stimulated GM-CSF-primed AMPKα1 knockout (KO) and wild-type (WT) mouse BMDMs with MSU crystals (0.2 mg/mL) for 16 h. Cell lysates were analysed for phosphorylation of AMPKα1, protein expression of AMPKα1, total AMPKα (including both AMPKα1 and AMPKα2) and β-actin (loading control) by western blot (A). Release of IL-1β and CXCL1 was analysed as described in figure 1 (B and C). Data shown as mean±SD of at least three individual experiments. p Values shown in (B) and (C) as comparisons of AMPKα1 KO and WT macrophages treated with MSU crystals.
+
+Figure 3 Enhanced inflammatory responses to monosodium urate (MSU) crystals in AMPKα1 knockout mice in vivo. MSU crystals α (3 mg in 1 mL sterile phosphate buffered saline (PBS)) were injected into subcutaneous air pouches of AMP-activated protein kinase (AMPKα1) knockout (KO) and wild-type (WT) mice. After 6 h, exudate leucocytes were counted (A) and synovial-like lining inflammatory responses assessed. Smears of cells from pouch exudates were stained with HEMA 3 (B, top panels). Paraffin sections of air pouch tissues were stained with H&amp;E (B, bottom panels). Release of interleukin (IL)-1β and CXCL1 was measured by ELISA from supernatants of air pouch exudates and expressed as total amount of each cytokine per pouch (ng/pouch) (C and D). Data shown in (A) as mean±SEM of 15 mice in each group. Data shown in (B) as representative of three different experiments from 15 mice in each group. p Values shown in (A), (C) and (D) as comparisons of MSU crystal-treated WT and AMPKα1 KO mice.
+
+Figure 4 Inhibition of monosodium urate (MSU) crystal-induced inflammatory responses by A-769662 in vivo. Air pouches were created in wild-type (WT) mice. One group of mice received A-769662 (10 μL of 100 mM stock in dimethyl sulfoxide (DMSO) diluted in 200 μL phosphate buffered saline (PBS)) injected directly into pouches 1 h before injection of MSU crystals (3 mg in 1 mL PBS). Another group of mice received DMSO diluted to 200 μL PBS alone, used as controls. Six hours after injection of MSU crystals, exudates were collected and inflammatory responses analysed (B–E) as described in figure 3. Protein lysates of air pouch lining tissues were subjected to sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE)/western blot analysis for phosphorylated and total AMP-activated protein kinase (AMPKα). β-Actin was used as a loading control (A). Data shown in (A) as representative of three different experiments. Data shown in (C) as representative of three different experiments from 18 mice in each group. Data shown in (B), (D) and (E) as mean±SEM of 18 mice in each group. p Values shown in (B), (D) and (E) as comparisons of MSU crystal-treated mice with and without A-769662.
+
+Figure 5 Inhibition of nuclear factor (NF)-κB-dependent interleukin (IL)-1β and NLRP3 mRNA expression, caspase-1 activation and IL-1β maturation in mouse bone marrow-derived macrophages (BMDMs) stimulated with monosodium urate (MSU) crystals, and promotion of anti-inflammatory M2 macrophage polarisation by A-769662 in vitro. Granulocyte macrophage colony-stimulating factor (GM-CSF)-primed mouse BMDMs (wild-type (WT)) were pretreated with A-769662 (0.125 mM) for 1 h before stimulation with MSU crystals (0.2 mg/mL) for 6 and 16 h. Phosphorylation of p65 NF-κB subunit, IL-1β and NLRP3 mRNA expression were determined from the 6 h-treatment group by western blot and quantitative RT-PCR analysis, respectively (A and B). Protein expression of pro-caspase-1, cleaved caspase-1, pro-IL-1β and cleaved IL-1β were examined after 16 h of treatment, via western blot (C). Expression of arginase-1 (M2-like) and NOS2 (M1-like) mRNA was determined by qRT-PCR, comparing GM-CSF-primed WT and AMPKα1 knockout (KO) BMDMs with or without A-769662 for 6 h, and the ratios of arginase-1 and NOS2 mRNA were presented (D). Data in (A) and (C) as representative of three different experiments. Data in (B) and (D) as the mean±SD from at least three individual experiments. p Values shown in (B) as comparisons of MSU crystal-stimulated macrophages with and without A-769662. p Value shown in (D) as comparison of WT macrophages with and without A-769662.
+
+Figure 6 Promotion of AMP-activated protein kinase (AMPK) phosphorylation and M2 polarisation and suppression of caspase-1 activation, interleukin (IL)-1β maturation and release of IL-1β and CXCL1 by low-dose colchicine in mouse bone marrow-derived macrophages (BMDMs) stimulated with monosodium urate (MSU) crystals in vitro. Granulocyte macrophage colony-stimulating factor (GM-CSF)-primed mouse BMDMs were stimulated with colchicine (10 nM) with and without MSU crystals (0.2 mg/mL) for 16 h. Cell lysates were analysed for both phosphorylated and total AMPKα and LKB1 (A), expression of pro-caspase-1, cleaved caspase-1, pro-IL-1β and cleaved IL-1β (C), and β-actin (loading control) by western blot. Densitometry analysis of phosphorylated AMPK and LKB1 relative to total AMPK and LKB1, respectively, was presented as mean of three individual experiments (A). Arginase-1 (M2) and NOS2 (M1) mRNAs were examined from GM-CSF- primed wild-type (WT) and AMPKα1 knockout (KO) BMDMs in the presence or absence of 10 nM colchicine for 16 h, and using qRT-PCR, as above (B). Release of IL-1β and CXCL1 was determined by ELISA of conditioned media from GM-CSF-primed WT and AMPKα1 KO BMDMs treated with and without colchicine (10 nM) and MSU crystals (0.2 mg/mL) for 16 h (D). Data in (C) representative of three different experiments. Data in (B) and (D) shown as the mean±SD from at least three individual experiments. p Values shown in (A) and (B) as comparisons of macrophages in the presence or absence of colchicine. p Values shown in (D) as comparisons of MSU crystal-stimulated WT macrophages in the presence or absence of colchicine.
+
+
+   REFERENCES
+1 
+            Zhu Y  
+            Pandya BJ  
+            Choi HK  
+           Comorbidities of gout and hyperuricemia in the US general population: NHANES 2007–2008 Am J Med 2012 125 679 87 e1 22626509 
+2 
+            Liu-Bryan R  
+            Terkeltaub R  
+           
+            Gout TR, other crystal arthropathies 
+           Tophus biology and pathogenesis of monosodium urate crystal-induced inflammation Elsevier health sciences Elsevier 2011 59 71 
+3 
+            Zhang Y  
+            Chen C  
+            Choi H  
+             
+           Purine-rich foods intake and recurrent gout attacks Ann Rheum Dis 2012 71 1448 53 22648933 
+4 
+            Choi HK  
+            Atkinson K  
+            Karlson EW  
+             
+           Alcohol intake and risk of incident gout in men: a prospective study Lancet 2004 363 1277 81 15094272 
+5 
+            Neogi T  
+            Chen C  
+            Niu J  
+             
+           Alcohol quantity and type on risk of recurrent gout attacks: an internet-based case-crossover study Am J Med 2014 127 311 18 24440541 
+6 
+            Choi HK  
+            Curhan G  
+           Soft drinks, fructose consumption, and the risk of gout in men: prospective cohort study BMJ 2008 336 309 12 18244959 
+7 
+            Joosten LA  
+            Netea MG  
+            Mylona E  
+             
+           Engagement of fatty acids with Toll-like receptor 2 drives interleukin-1β production via the ASC/caspase 1 pathway in monosodium urate monohydrate crystal-induced gouty arthritis Arthritis Rheum 2010 62 3237 48 20662061 
+8 
+            Mylona EE  
+            Mouktaroudi M  
+            Crisan TO  
+             
+           Enhanced interleukin-1β production of PBMCs from patients with gout after stimulation with Toll-like receptor-2 ligands and urate crystals Arthritis Res Ther 2012 14 R158 22762240 
+9 
+            Liu TF  
+            Brown CM  
+            El Gazzar M  
+             
+           Fueling the flame: bioenergy couples metabolism and inflammation J Leukoc Biol 2012 92 499 507 22571857 
+10 
+            O'Neill LA  
+            Hardie DG  
+           Metabolism of inflammation limited by AMPK and pseudo-starvation Nature 2013 493 346 55 23325217 
+11 
+            Steinberg GR  
+            Kemp BE  
+           AMPK in Health and Disease Physiol Rev 2009 89 1025 78 19584320 
+12 
+            Witczak CA  
+            Sharoff CG  
+            Goodyear LJ  
+           AMP-activated protein kinase in skeletal muscle: from structure and localization to its role as a master regulator of cellular metabolism Cell Mol Life Sci 2008 65 3737 55 18810325 
+13 
+            Lanaspa MA  
+            Cicerchi C  
+            Garcia G  
+             
+           Counteracting roles of AMP deaminase and AMP kinase in the development of fatty liver PLoS ONE 2012 7 e48801 23152807 
+14 
+            Cicerchi C  
+            Li N  
+            Kratzer J  
+             
+           Uric acid-dependent inhibition of AMP kinase induces hepatic glucose production in diabetes and starvation: evolutionary implications of the uricase loss in hominids FASEB J 2014 28 3339 50 24755741 
+15 
+            Shearn CT  
+            Backos DS  
+            Orlicky DJ  
+             
+           Identification of 5' AMP-activated Kinase as a Target of Reactive Aldehydes during Chronic Ingestion of High Concentrations of Ethanol J Biol Chem 2014 289 15449 62 24722988 
+16 
+            Axelsen LN  
+            Lademann JB  
+            Petersen JS  
+             
+           Cardiac and metabolic changes in long-term high fructose-fat fed rats with severe obesity and extensive intramyocardial lipid accumulation Am J Physiol Regul Integr Comp Physiol 2010 298 R1560 70 20357025 
+17 
+            Saha AK  
+            Xu XJ  
+            Balon TW  
+             
+           Insulin resistance due to nutrient excess: is it a consequence of AMPK downregulation? Cell Cycle 2011 10 3447 51 22067655 
+18 
+            Ruderman NB  
+            Carling D  
+            Prentki M  
+             
+           AMPK, insulin resistance, and the metabolic syndrome J Clin Invest 2013 123 2764 72 23863634 
+19 
+            Viollet B  
+            Mounier R  
+            Leclerc J  
+             
+           Targeting AMP-activated protein kinase as a novel therapeutic approach for the treatment of metabolic disorders Diabetes Metab 2007 33 395 402 17997341 
+20 
+            Busso N  
+            So A  
+           Mechanisms of inflammation in gout Arthritis Res Ther 2010 12 206 20441605 
+21 
+            Joosten LA  
+            Ea HK  
+            Netea MG  
+             
+           Interleukin-1β activation during Acute joint inflammation: a limited role for the NLRP3 inflammasome in vivo Joint Bone Spine 2011 78 107 10 21183380 
+22 
+            Cronstein BN  
+            Sunkureddi P  
+           Mechanistic aspects of inflammation and clinical management of inflammation in acute gouty arthritis J Clin Rheumatol 2013 19 19 29 23319019 
+23 
+            Keenan RT  
+            O'Brien WR  
+            Lee KH  
+             
+           Prevalence of contraindications and prescription of pharmacologic therapies for gout Am J Med 2011 124 155 63 21295195 
+24 
+            Salminen A  
+            Hyttinen JM  
+            Kaarniranta K  
+           AMP-activated protein kinase inhibits NF-kappaB signaling and inflammation: impact on health span and lifespan J Mol Med 2011 89 667 76 21431325 
+25 
+            Hardie DG  
+            Ross FA  
+            Hawley SA  
+           AMPK: a nutrient and energy sensor that maintains energy homeostasis Nat Rev Mol Cell Biol 2012 13 251 62 22436748 
+26 
+            Nakano A  
+            Kato H  
+            Watanabe T  
+             
+           AMPK controls the speed of microtubule polymerization and directional cell migration through CLIP-170 phosphorylation Nat Cell Biol 2010 12 583 90 20495555 
+27 
+            Liu-Bryan R  
+            Scott P  
+            Sydlaske A  
+             
+           Innate immunity conferred by Toll-like receptors 2 and 4 and myeloid differentiation factor expression is pivotal to monosodium urate monohydrate crystal-induced inflammation Arthritis Rheum 2005 52 2936 46 16142712 
+28 
+            Fleetwood AJ  
+            Lawrence T  
+            Hamilton JA  
+             
+           Granulocyte-macrophage colony-stimulating factor (CSF) and macrophage CSF-dependent macrophage phenotypes display differences in cytokine profiles and transcription factor activities: implications for CSF blockade in inflammation J Immunol 2007 178 5245 52 17404308 
+29 
+            Sorgi CA  
+            Rose S  
+            Court N  
+             
+           GM-CSF priming drives bone marrow-derived macrophages to a pro-inflammatory pattern and downmodulates PGE2 in response to TLR2 ligands PLoS One 2012 7 e40523 22808181 
+30 
+            Shaw OM  
+            Steiger S  
+            Liu X  
+             
+           GM-CSF drives MSU crystal-induced inflammatory macrophage differentiation and NLRP3 inflammasome upregulation in vivo Arthritis Rheumatol 2014 66 2423 8 24910235 
+31 
+            Terkeltaub R  
+            Yang B  
+            Lotz M  
+             
+           Chondrocyte AMP-activated protein kinase activity suppresses matrix degradation responses to proinflammatory cytokines interleukin-1β and tumor necrosis factor α Arthritis Rheum 2011 63 1928 37 21400477 
+32 
+            Yang Z  
+            Kahn BB  
+            Shi H  
+             
+           Macrophage alpha1 AMP-activated protein kinase (alpha1AMPK) antagonizes fatty acid-induced inflammation through SIRT1 J Biol Chem 2010 285 19051 9 20421294 
+33 
+            Qiao Y  
+            Wang P  
+            Qi J  
+             
+           TLR-induced NF-κB activation regulates NLRP3 expression in murine macrophages FEBS Lett 2012 586 10226 
+34 
+            Classen A  
+            Lloberas J  
+            Celada A  
+           Macrophage activation: classical versus alternative Methods Mol Biol 2009 531 29 43 19347309 
+35 
+            Terkeltaub RA  
+            Furst DE  
+            Bennett K  
+             
+           High versus low dosing of oral colchicine for early acute gout flare: Twenty-four-hour outcome of the first multicenter, randomized, double-blind, placebo-controlled, parallel-group, dose-comparison colchicine study Arthritis Rheum 2010 62 1060 8 20131255 
+36 
+            Latourte A  
+            Bardin T  
+            Richette P  
+           Prophylaxis for acute gout flares after initiation of urate-lowering therapy Rheumatology (Oxford) 2014 53 1920 26 24758886 
+37 
+            Wen H  
+            Ting JP  
+            O'Neill LA  
+           A role for the NLRP3 inflammasome in metabolic diseases—did Warburg miss inflammation? Nat Immunol 2012 13 352 7 22430788 
+38 
+            Haneklaus M  
+            O'Neill LA  
+            Coll RC  
+           Modulatory mechanisms controlling the NLRP3 inflammasome in inflammation: recent developments Curr Opin Immunol 2013 25 40 5 23305783 
+39 
+            Rose DM  
+            Sydlaske AD  
+            Agha-Babakhani A  
+             
+           Transglutaminase 2 limits murine peritoneal acute gout-like inflammation by regulating macrophage clearance of apoptotic neutrophils Arthritis Rheum 2006 54 3363 71 17009310 
+40 
+            Yagnik DR  
+            Evans BJ  
+            Florey O  
+             
+           Macrophage release of transforming growth factor beta1 during resolution of monosodium urate monohydrate crystal-induced inflammation Arthritis Rheum 2004 50 2273 80 15248227 
+41 
+            Sag D  
+            Carling D  
+            Stout RD  
+             
+           Adenosine 5'-monophosphate-activated protein kinase promotes macrophage polarization to an anti-inflammatory functional phenotype J Immunol 2008 181 8633 41 19050283 
+42 
+            Weng SY  
+            Schuppan D  
+           AMPK regulates macrophage polarization in adipose tissue inflammation and NASH J Hepatol 2013 58 619 21 23046670 
+43 
+            Hawley SA  
+            Fullerton MD  
+            Ross FA  
+             
+           The ancient drug salicylate directly activates AMP-activated protein kinase Science 2012 336 918 22 22517326 
+44 
+            Steinberg GR  
+            Dandapani M  
+            Hardie DG  
+           AMPK: mediating the metabolic effects of salicylate-based drugs? Trends Endocrinol Metab 2013 24 481 7 23871515 
+45 
+            Chollet-Janin A  
+            Finckh A  
+            Dudler J  
+             
+           Methotrexate as an alternative therapy for chronic calcium pyrophosphate deposition disease: an exploratory analysis Arthritis Rheum 2007 56 688 92 17265505 
+

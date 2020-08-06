@@ -1,0 +1,571 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   83077162429World J UrolWorld J UrolWorld journal of urology0724-49831433-872625240535501544110.1007/s00345-014-1409-zNIHMS813338ArticleNutritional Predictors of Complications Following Radical Cystectomy Johnson David C. MD, MPH1Riggs Stephen B. MD2Nielsen Matthew E. MD, MS134Matthews Jonathan E. MPH14Woods Michael E. MD13Wallen Eric M. MD13Pruthi Raj S. MD13Smith Angela B. MD, MS131 Department of Urology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina2 Levine Cancer Institute and McKay Department of Urology, Carolinas Healthcare System, Charlotte, North Carolina3 Lineberger Comprehensive Cancer Center, Cancer Outcomes Research Group, Multidisciplinary Genitourinary Oncology, Chapel Hill, North Carolina4 Department of Epidemiology, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, Chapel Hill, North CarolinaCorresponding Author &amp; Address: Angela B. Smith, MD, University of North Carolina, Department of Urology, 170 Manning Drive, 2113 Physicians Office Building, CB#7235, Chapel Hill, NC 27599-723531 8 2016 21 9 2014 8 2015 08 9 2016 33 8 1129 1137 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Purpose
+To determine the impact of preoperative nutritional status on the development of surgical complications following cystectomy using the American College of Surgeons National Surgical Quality Improvement Program (ACS-NSQIP).
+
+Methods
+We performed a retrospective review of the NSQIP 2005–2012 Participant Use Data Files. ACS-NSQIP collects data on 135 variables, including pre- and intraoperative data and 30-day post-operative complications and mortality on all major surgical procedures at participating institutions. Preoperative albumin (&lt;3.5 or &gt;3.5 g/dl), weight loss 6 months before surgery (&gt;10%), and BMI were identified as nutritional variables within the database. The overall complication rate was calculated and predictors of complications were identified using multivariable logistic regression models.
+
+Results
+1,213 patients underwent cystectomy for bladder cancer between 2005–2012. The overall 30-day complication rate was 55.1% (n=668). While 14.7% (n=102) had a preoperative albumin &lt;3.5 g/dL, 3.4% had &gt;10% weight loss in the 6 months prior to surgery, and the mean BMI was 28 kg/m2. After controlling for age, sex, medical comorbidities, medical resident involvement, operation year, operative time and prior operation, only albumin &lt;3.5g/dl was a significant predictor of experiencing a postoperative complication (p=0.03). This remained significant when albumin was evaluated as a continuous variable (p=0.02)
+
+Conclusions
+Poor nutritional status measured by serum albumin is predictive of an increased rate of surgical complications following radical cystectomy. This finding supports the importance of preoperative nutritional status in this population and highlights the need for the development of effective nutritional interventions in the preoperative setting.
+
+nutritionalbumincystectomyoutcomes assessmenturinary bladder neoplasms
+   Introduction
+Radical cystectomy (RC) with pelvic lymph node dissection is the standard of care for muscle invasive bladder cancer (MIBC). Despite improvements in surgical technique and improved post-operative recovery pathways, RC remains highly morbid, with a 28–64% 90-day complication rate1,2, 27% 90-day re-admission rate3, and 3–7% 90-day mortality rate.2–4
+
+Pre-operative malnutrition is one potentially significant contributor to the high morbidity and mortality of RC. The association between malnutrition and poor surgical outcomes is well established in the general surgery literature.5–7 However, only a small number of studies examine nutritional predictors of surgical outcomes after urologic procedures.4,8–12 While nutritional deficiency lacks a universal definition, researchers and clinicians often define malnutrition using a combination of unintentional weight loss, suboptimal body mass index (BMI), and poor appetite/anorexia.13 Additionally, serum markers such as albumin and prealbumin, in combination with C-reactive protein, are often used to evaluate nutritional status; however, they appear to be more correlative as surrogate markers for disease severity and predictors of operative morbidity and mortality.14
+
+The objective of this study was to investigate which indicators of pre-operative malnutrition were associated with increased perioperative complications after RC for bladder cancer using a large, national database. We hypothesized that serum albumin &lt; 3.5 gm/dL, excessive pre-operative weight loss, and suboptimal body mass index (BMI) were independent predictors of complications within 30 days after RC.
+
+Materials and Methods
+We performed a retrospective review of the American College of Surgeons National Quality Improvement Program (NSQIP) database from 2005–2012. This nationally validated, risk-adjusted, prospectively maintained database includes 135 variables including 30-day morbidity and mortality outcomes for major surgical procedures at over 450 participating institutions across the United States and is specifically designed to evaluate post-surgical outcomes.15 Cases of RC performed for bladder cancer were extracted from the database using ICD-9 codes for bladder neoplasm (188 and 188.x) including carcinoma in situ (233.7) and Current Procedural Terminology codes for radical cystectomy (51570, 51575, 51580, 51585, 51590, 51595, 51596, and 51597). Patients who underwent RC for diagnoses other than bladder cancer were excluded. Nutritional factors including pre-operative albumin, weight loss &gt;10% within 6 months prior to surgery, and BMI were extracted using the corresponding preoperative codes.
+
+Statistical analyses
+Univariable analyses were performed to describe the patient population in terms of demographic, prognostic, and treatment factors. These factors included age, sex, race, medical comorbidities, smoking and alcohol history, history of pre-operative surgery or blood transfusion, year of operation, presence and training level of resident in operating room, prior radiation therapy, pre-operative acute renal failure (defined as a rising Cr &gt; 3 mg/dL within 24 hours prior to surgery), chronic steroid use, and American Society of Anesthesia (ASA) classification. Missing data were excluded. Bivariable analyses were performed to evaluate 30-day complication rates based on pre-operative nutrition factors. Chi-square analyses were used to compare complications between groups of patients with pre-operative serum albumin above and below a threshold of 3.5 g/dL, and between patients who did and did not experience &gt;10% weight loss in the 6 months prior to surgery. A serum albumin cut point of 3.5 g/dL was examined based on prior studies demonstrating the predictive utility of this threshold.4,10,11 The Mann-Whitney U-test was used to evaluate complication rates based on BMI as a non-normal continuous variable. Albumin was also reexamined as a continuous variable as a sensitivity analysis.
+
+Multivariable logistic regression analyses were performed to determine which pre-operative nutritional parameters were independent predictors of at least one post-operative complication within 30 days. Initial models included the influential predictors from bivariable analysis (defined as those with a p-value less than 0.2). The final models were selected using backwards elimination of non-significant variables (at the 5% level of significance) so that final models included only the necessary variables affecting the relationship between nutritional parameters and complication rate. SAS 9.3 (SAS Institute, Cary NC, USA) software was used for all statistical analyses. The University of North Carolina Institutional Review Board exempted this study from review.
+
+Results
+A total of 1,431 patients underwent RC at participating NSQIP centers from 2005–2012. Of these, 218 (15.2%) were excluded based on diagnoses other than bladder cancer. Overall, 1,213 patients underwent RC for bladder cancer from 2005–2012. Of these patients, 691 (57.0%) had recorded pre-operative serum albumin levels, 1,201 (99.0%) had BMI data, and all patients had data with regard to pre-operative weight loss.
+
+Patients characteristics were different between those with albumin &lt;3.5 g/dL and those with normal albumin in several categories. (Table Ia) Patients with low serum albumin were more likely to be female (36 vs 21%, p&lt;0.01), African American (14 vs 4%, p&lt;0.01), and partially dependent for activities of daily living (9 vs 1%, p&lt;0.01). Patients with low serum albumin were also more likely to have pre-operative acute renal failure (6 vs 0.7%, p&lt;0.01), received radiotherapy for malignancy in the 90 days prior to surgery (3 vs 0.2%, p&lt;0.01), received pre-operative blood transfusion (8 vs 1%, p&lt;0.01), a higher ASA classification (3–5 vs 1–2, p=0.01) and a lower BMI (mean 26.0 vs 27.9 kg/m2, p&lt;0.01). Patients with low albumin were less likely to have had a resident in the operating room during surgery (p=0.02). Lower BMI (mean 24.0 vs 28.0 kg/m2, p&lt;0.01) and increased pre-operative transfusion requirement (13 vs 2%, p&lt;0.01) were the only significant differences between patients who lost greater than 10% of body weight prior to surgery and those who did not. (Table Ib) BMI was significantly associated with several patient characteristics. Patients with lower BMI were more likely to be older (p&lt;0.01), female (p=0.01), have a smoking (p&lt;0.01) and alcohol history (p=0.02), a lower ASA classification (1–2 vs 3–5, p=0.01), and have had excessive pre-operative weight loss (p&lt;0.01). Patients with increased BMI were more likely to have hypertension (p&lt;0.01), diabetes (p&lt;0.01) and a resident present in the OR (p=0.01). Increased age was associated with lower BMI while longer operative time was associated with increased BMI. (Table Ic).
+
+At least one complication occurred in 668 out of 1,213 patients (55.1%) patients within 30 days of RC for bladder cancer. On bivariable analysis, patients with albumin &lt;3.5 g/dL had a significantly higher overall complication rate than those with pre-operative albumin &gt;3.5 g/dL (67 vs 55%, p=0.03). Conversely, neither excessive pre-operative weight loss (65 vs 55% p=0.20) nor BMI (p=0.43) were associated with significantly increased complications. (Appendix Table I)
+
+Examining specific types of complications, those patients with pre-operative albumin &lt;3.5 g/dL were significantly more likely to have a respiratory complication (19 vs 6%, p&lt;0.01) than patients with normal albumin. These patients were also more likely to have a cardiovascular complication; however, this difference did not reach statistical significance (5 vs 2%, p=0.56) (Appendix Table IIa). No specific complications were significantly associated with excessive weight loss prior to surgery. (Appendix Table IIb) Increased BMI was significantly associated with superficial wound infection (p&lt;0.01), wound dehiscence (p=0.01), renal insufficiency (p=0.01), and reoperation (p=0.05). Bleeding requiring transfusion was more common in patients with lower BMI (p=0.02). (Appendix Table IIc)
+
+On multivariable logistic regression, only pre-operative serum albumin was a significant predictor of complications when adjusting for all other confounding variables (p=0.03) (Table IIa) These potentially influential variables (on bivariable analysis with p&lt;0.2) included age (p=0.01), sex (p=0.02), resident presence in OR (p&lt;0.01), year of operation (p&lt;0.01), pre-operative smoking history (p=0.19), pre-operative pulmonary (p=0.10) or cardiac comorbidity (p=0.04), pre-operative acute renal failure (p=0.16), prior operation within 30 days (p=0.03), operative time (&lt;0.01), ASA classification (p&lt;0.01), and pre-operative blood transfusion (p=0.04). After adjusting for these variables, patients with albumin &lt; 3.5 g/dL had almost twice the odds of having at least one complication compared to patients with serum albumin ≥3.5 g/dL prior to surgery (OR 1.79; 95% CI 1.06, 3.03. p=0.03) (Table IIa). As a continuous variable, pre-operative serum albumin remained a significant predictor, with a 0.5 g/dL decrease resulting in 1.2 times the odds of least one complication (OR 1.20; 95% CI 1.02, 1.40. p=0.02 per 0.5 g/dL decrease). (Table IIb) Neither pre-operative weight loss of &gt;10% of body weight (OR 1.05; 95% CI 0.44, 2.52, p=0.92) nor BMI (OR 1.01; 95% CI 0.98, 1.04, p=0.73) was significantly associated with increased post-operative complications after adjusting for confounding variables. (Table IIa)
+
+Discussion
+Our analysis of the NSQIP database demonstrates that patients with pre-operative albumin &lt; 3.5 g/dL have nearly twice the risk of a complication within 30 days of RC for bladder cancer compared to patients with a normal albumin level. The predictive value of albumin remains significant on our sensitivity analysis as a continuous variable. Conversely, complications were not associated with BMI or weight loss &gt;10% in 6 months prior to surgery. Lack of association for BMI and weight loss may be secondary to a homogeneous BMI range and small sample size, respectively.
+
+With regard to albumin, our findings support two single institution retrospective reports that low pre-operative serum albumin predicts increased post-operative complications after RC.11,12 Lambert et al reported that patients with a serum albumin &lt; 3.5 g/dL had a 22% greater overall complication rate compared to patients with a normal albumin (&gt;3.5 g/dL), even when controlling for multiple covariates.11 However, their sample size was small (n = 187), and the study was not specifically designed to evaluate complications, which were therefore neither systematically nor prospectively ascertained. Garg et al also demonstrated that hypoalbuminemia significantly increased the risk of complications within 90 days of RC.12 Specifically, neurologic and wound complications occurred more frequently in patients with decreased pre-operative serum albumin, while other major complications, including cardiac, gastrointestinal, genitourinary, infectious, bleeding, pulmonary, and thromboembolic were not significantly associated. Despite a larger cohort (N=1097), this series included only patients from a single tertiary specialty oncology hospital.12
+
+In contrast to these single institution studies, our study population is drawn from over 450 academic and community hospitals across the United States, expanding the external validity of the findings. Furthermore, neither study examined additional nutritional predictors of complications not addressed in previous reports.
+
+Prior studies have also suggested the importance of serum albumin on mortality after RC. Gregg et al10, Lambert et al11, and Garg et al12 reported that pre-operative hypoalbuminemia significantly increased 90-day mortality after RC in their respective single institution, retrospective studies. Hollenbeck et al4 used a prior iteration of the Veterans Administration NSQIP dataset to demonstrate that patients undergoing RC with a pre-operative serum albumin &lt; 3.5 gm/dL had 12 times the odds of 90 day mortality compared to those patients with a normal serum albumin.4
+
+Malnutrition increases the risk of adverse surgical outcomes by impairing immune function16, contributing to sarcopenia and impaired muscle function16, delaying mobilization and impairing cardiopulmonary function.17,18 Interventions that ameliorate these pathophysiologic effects of malnutrition may reduce the risk of complications, readmissions and deaths after RC. Uncertainty remains whether delaying RC for pre-operative nutritional interventions may undermine the patient’s chance for cure from RC. Although the optimal timeframe from diagnosis of MIBC to RC is debated19–21, some may be better served with pre-surgical optimization.
+
+The premise for this recommendation is the assumption that pre-operative malnutrition is potentially modifiable, and improving nutrition status will improve outcomes after surgery. This notion is supported by the results of a large randomized clinical trial evaluating an individualized nutritional intervention during and after discharge from an acute hospitalization among a cohort of medical inpatients.22 The nutritional support intervention increased serum albumin levels and decreased mortality compared to the control group. Less optimistically however, Burden et al concluded that whether the benefits of pre-operative nutrition in patients undergoing gastrointestinal surgery outweigh the risks remains unclear.7 Further research is essential to determine the optimal patient population, route, and timing of pre-operative nutrition interventions.
+
+Identifying RC candidates at risk for malnutrition who may benefit from perioperative nutrition support is required in order to improve surgical outcomes. This population is potentially substantial, as patients undergoing RC have several risk factors for malnutrition. The association between advanced age and risk of malnutrition is well established.23 The mean age of patients diagnosed with bladder cancer is 73 years24 and the mean age at the time of RC in two contemporary cohorts is 68 years.10,11 Greater than 40% of 2,538 patients undergoing RC in a nationwide Veterans Administration database between 1991 and 2002 were older than 70 years of age.4 Karl et al. demonstrated that age and malignant disease are independent risk factors for malnutrition among urologic inpatients in Germany.25 Two recent cohorts reported that 17–19% of bladder cancer patients undergoing radical cystectomy were nutritionally deficient as defined by serum albumin &lt; 3.5 g/dL, BMI &lt; 18.5, and/or unintentional pre-operative weight loss &gt;5%.10,11 Importantly, using the validated Nutritional Risk Score screening tool13 to define patients at risk for malnutrition, up to 55% of patients undergoing RC are at high risk.26,27
+
+Pre-operative screening has little benefit unless accompanied by a formal, systematic nutritional assessment to clearly define an intervention plan and subsequent follow up and reevaluation.28 At our institution, a registered dietician formally consults on all patients scheduled to undergo RC pre-operatively. Laboratory values, including albumin, pre-albumin, and C-reactive protein are obtained at the pre-operative visit. The goal of the nutrition consult is to assess risk and formulate an individualized plan for pre-operative nutrition supplementation, which may include carbohydrate loading and/or immunonutrition, if appropriate. On post-operative day 3, a follow up inpatient nutrition consult is obtained to reassess nutritional needs and create a personalized nutrition plan upon discharge. Follow up nutrition assessments occur on an outpatient basis (e.g. determining ongoing weight loss after discharge or impairment in wound healing) in coordination with post-operative visits and cancer surveillance appointments at an interval deemed appropriate by the nutritionist. Prospective collection of nutritional parameters, complications, readmission, and mortality is ongoing and will hopefully demonstrate an area for reproducible quality improvement.
+
+Limitations of our study include the retrospective design, although the well validated, standardized, prospective nature by which perioperative outcomes are ascertained mitigate some of the measurement and recording bias inherent to retrospective studies. The NSQIP data file does not yet include clinicopathologic data, making it impossible to adjust for extent of disease in our multivariable analysis. Additionally, a large proportion of patients were missing pre-operative albumin data. Finally, gastrointestinal complications including ileus and small bowel obstruction, which are particularly relevant after RC are absent from the data file at the current time.
+
+Our study demonstrates that decreased pre-operative serum albumin is an independent risk factor for complications after RC for bladder cancer. Though imperfect as a marker for malnutrition, serum albumin may be useful in pre-operative counseling and risk-stratification prior to RC. Additionally, serum albumin may be helpful in identifying patients who may benefit from pre-operative nutrition counseling and optimization.
+
+Supplementary Material
+1  2  no additional acknowledgements exist for this paper.
+
+Details of all funding sources for work in question: The project described was supported by the University Cancer Research Fund and the National Center for Research Resources and the National Center for Advancing Translational Sciences, National Institutes of Health, through Grants KL2TR001109 and UL1TR001111.
+
+Ethical standards: the manuscript does not contain clinical studies or patient data. NSQIP data is completely de-identified.
+
+Conflict of interest: No additional funding sources or conflicts of interest related to this publication are reported by any of the authors.
+
+
+          Authors’ contribution:
+        
+
+DC Johnson: Data analysis, manuscript writing/editing
+
+SB Riggs: Manuscript writing/editing, project development
+
+ME Nielsen: Manuscript editing, project development
+
+JE Matthews: Data collection, management and analysis
+
+ME Woods: Project development, Manuscript writing/editing
+
+EM Wallen: Project development, Manuscript writing/editing
+
+RS Pruthi: Project development, Manuscript writing/editing
+
+AB Smith: Data collection and analysis, manuscript writing/editing, project development
+
+Table 1a Distribution of demographic and prognostic characteristics among bladder cancer patients who underwent cystectomy, by measured level of preoperative albumin
+
+		Preoperative albumin &lt; 3.5
+n (%)	Preoperative albumin &gt;= 3.5
+n (%)	p-value	
+Sexa	Male	65 (64)	465 (79)	
+              &lt;0.01
+            	
+	Female	37 (36)	122 (21)		
+Raceb	African American	13 (14)	24 (4)	
+              &lt;0.01
+            	
+	Hispanic	1 (1)	14 (3)		
+	Other	0 (0)	5 (0.9)		
+	White	78 (85)	506 (92)		
+Resident presence in ORc	Yes	65 (71)	390 (74)	0.57	
+	No	26 (29)	135 (26)		
+Level of resident surgeon in ORd	No resident	22 (27)	92 (21)	
+              0.02
+            	
+	PGY 1	3 (4)	5 (1)		
+	PGY 2	3 (4)	10 (2)		
+	PGY 3	5 (6)	27 (6)		
+	PGY 4	13 (16)	55 (12)		
+	PGY 5	20 (24)	88 (20)		
+	PGY 6+	17 (20)	171 (38)		
+Year of operatione	2005, 2006, 2007, 2008, or 2009	34 (33)	151 (26)	0.11	
+	2010, 2011, or 2012	68 (67)	438 (74)		
+Diabetes mellitus treated with oral agents or insuline	Diabetic treated with insulin	7 (7)	27 (5)	0.60	
+	Diabetic treated with oral agents	13 (13)	84 (14)		
+	Not diabetic	82 (80)	478 (81)		
+Smoker in past yeare	Yes	32 (31)	145 (25)	0.15	
+	No	70 (69)	444 (75)		
+More than 2 alcoholic drinks in 2 weeks prior to admissione	Yes	5 (5)	26 (4)	0.83	
+	No	97 (95)	563 (96)		
+Functional statuse	At least partially dependent	9 (9)	7 (1)	
+              &lt;0.01
+            	
+	Independent	93 (91)	582 (99)		
+One or more pulmonary comorbidities (dyspnea, ventilator dependence, COPD, and/or pneumonia)e	Yes	23 (23)	91 (15)	0.07	
+	No	79 (77)	498 (85)		
+One or more cardiac comorbidities (CHF, MI, angina, PCI, and/or previous cardiac surgery)e	Yes	16 (16)	98 (17)	0.81	
+	No	86 (84)	491 (83)		
+Hypertension requiring medicatione	Yes	61 (60)	346 (59)	0.84	
+	No	41 (40)	243 (41)		
+Preoperative acute renal failuree	Yes	6 (6)	4 (0.7)	
+              &lt;0.01
+            	
+	No	96 (94)	585 (99)		
+Preoperative dialysise	Yes	0 (0)	2 (0.3)	0.56	
+	No	102 (100)	587 (100)		
+One or more vascular comorbidities (revascularization and/or rest pain)e	Yes	1 (1)	8 (1)	0.76	
+	No	101 (99)	581 (99)		
+One or more neurological comorbidities (coma, hemiplegia, TIA, CVA with neurological deficit, CVA without neurological deficit, tumor involving CNS, paraplegia, and/or quadriplegia)e	Yes	8 (8)	29 (5)	0.23	
+	No	94 (92)	560 (95)		
+Steroid use for chronic conditione	Yes	2 (2)	20 (3)	0.45	
+	No	100 (98)	569 (97)		
+Greater than 10% loss in body weight in the last 6 monthse	Yes	5 (5)	21 (4)	0.51	
+	No	97 (95)	568 (96)		
+Bleeding disordere	Yes	5 (5)	22 (4)	0.57	
+	No	97 (95)	567 (96)		
+Radiotherapy for malignancy in last 90 dayse	Yes	3 (3)	1 (0.2)	
+              &lt;0.01
+            	
+	No	99 (97)	588 (100)		
+Prior operation within 30 daysf	Yes	9 (9)	37 (6)	0.33	
+	No	92 (91)	550 (94)		
+ASA classificatione	ASA 1 and 2	13 (13)	139 (24)	
+              0.01
+            	
+	ASA 3, 4 and 5	89 (87)	450 (76)		
+Transfused more than 4 units pRBCs in 72 hours prior to surgerye	Yes	8 (8)	8 (1)	
+              &lt;0.01
+            	
+	No	94 (92)	581 (99)		
+		Preoperative albumin &lt; 3.0
+(median [IQR])	Preoperative albumin &gt;= 3.0
+(median [IQR])		
+Age (years)g		70 (61–78)	68 (61–76)	0.31	
+Operative time (min)		312 (247–426)	329 (258–423)	0.32	
+BMIh		26.0 (23.0–30.2)	27.9 (24.5–31.6)	
+              &lt;0.01
+            	
+a Missing=524
+
+b Missing=572
+
+c Missing=597
+
+d Missing=682
+
+e Missing=522
+
+f Missing=525
+
+g Missing 4 from Preoperative albumin &gt;= 3.5 category
+
+h Missing 2 from Preoperative albumin &lt; 3.5 category and 4 from Preoperative albumin &gt;= 3.5 category
+
+Table 1b Distribution of selected demographic and prognostic characteristics among bladder cancer patients who underwent cystectomy, with and without (excessive) preoperative weight loss
+
+		Greater than 10% loss in body weight in the last 6 months
+[n (%)]	Less than 10% loss in body weight in the last 6 months
+[n (%)]	p-value	
+Sexa	Male	30 (75)	899 (77)	0.80	
+	Female	10 (25)	272 (23)		
+Raceb	African American	3 (9)	49 (5)	0.65	
+	Hispanic	0 (0)	26 (3)		
+	Other	0 (0)	7 (0.7)		
+	White	32 (91)	910 (92)		
+Resident presence in ORc	Yes	30 (77)	751 (71)	0.45	
+	No	9 (23)	302 (29)		
+Level of resident surgeon in ORd	No resident	4 (15)	210 (23)	0.90	
+	PGY 1	0 (0)	12 (1)		
+	PGY 2	0 (0)	23 (3)		
+	PGY 3	2 (7)	65 (7)		
+	PGY 4	5 (19)	146 (16)		
+	PGY 5	6 (22)	199 (22)		
+	PGY 6+	10 (37)	251 (28)		
+Year of operation	2005, 2006, 2007, 2008, or 2009	10 (25)	277 (24)	0.84	
+	2010, 2011 or 2012	30 (75)	896 (76)		
+Diabetes mellitus treated with oral agents or insulin	Diabetic treated with insulin	2 (5)	61 (5)	0.26	
+	Diabetic treated with oral agents	2 (5)	167 (14)		
+	Not diabetic	36 (90)	945 (81)		
+Smoker in past year	Yes	13 (33)	285 (24)	0.24	
+	No	27 (67)	888 (76)		
+More than 2 alcoholic drinks in 2 weeks prior to admission	Yes	0 (0)	54 (5)	0.25	
+	No	40 (100)	1119 (95)		
+Functional status	At least partially dependent	2 (5)	20 (2)	0.16	
+	Independent	38 (95)	1153 (98)		
+One or more pulmonary comorbidities (dyspnea, ventilator dependence, COPD, and/or pneumonia)	Yes	11 (28)	192 (16)	0.06	
+	No	29 (73)	981 (84)		
+One or more cardiac comorbidities (CHF, MI, angina, PCI, and/or previous cardiac surgery)	Yes	9 (23)	188 (16)	0.28	
+	No	31 (78)	985 (84)		
+Hypertension requiring medication	Yes	23 (58)	681 (58)	0.94	
+	No	17 (43)	492 (42)		
+Preoperative acute renal failure	Yes	1 (3)	11 (0.9)	0.33	
+	No	39 (98)	1162 (99)		
+Preoperative dialysis	Yes	0 (0)	2 (0.2)	1.00	
+	No	40 (100)	1171 (100)		
+One or more vascular comorbidities (revascularization and/or rest pain)	Yes	0 (0)	19 (2)	1.00	
+	No	40 (100)	1154 (98)		
+One or more neurological comorbidities (coma, hemiplegia, TIA, CVA with neurological deficit, CVA without neurological deficit, tumor involving CNS, paraplegia, and/or quadriplegia)e	Yes	1 (3)	63 (5)	0.72	
+	No	39 (98)	1109 (95)		
+Steroid use for chronic condition	Yes	0 (0)	36 (3)	0.63	
+	No	40 (100)	1137 (97)		
+Bleeding disorder	Yes	0 (0)	41 (4)	0.64	
+	No	40 (100)	1132 (97)		
+Radiotherapy for malignancy in last 90 days	Yes	0 (0)	6 (0.5)	1.00	
+	No	40 (100)	1167 (99)		
+Prior operation within 30 daysf	Yes	5 (13)	63 (5)	0.07	
+	No	35 (88)	1106 (95)		
+ASA classification	ASA 1 and 2	11 (28)	319 (27)	1.00	
+	ASA 3, 4, and 5	29 (73)	854 (73)		
+Transfused more than 4 units pRBCs in 72 hours prior to surgery	Yes	5 (13)	25 (2)	
+              &lt;0.01
+            	
+	No	35 (88)	1148 (98)		
+		Greater than 10% loss in body weight in the last 6 months (median [IQR])	Less than 10% loss in body weight in the last 6 months (median [IQR])		
+Age (years)g		73 (66–78)	69 (61–76)	0.09	
+Operative time (min)		300 (219–371)	320 (252–412)	0.14	
+BMIh		24.0 (21.3–28.8)	28.0 (24.5–31.6)	
+              &lt;0.01
+            	
+a Missing=2
+
+b Missing=186
+
+c Missing=121
+
+d Missing=280
+
+e Missing=1
+
+f Missing=4
+
+g Missing 8 from Less than 10% loss in body weight in the last 6 months category
+
+i Missing 12 from Less than 10% loss in body weight in the last 6 months category
+
+Table 1c Distribution of body mass index among bladder cancer patients who underwent cystectomy, with and without selected demographic and prognostic characteristics
+
+		BMI
+(median [IQR])	p-value	
+Sex	Malea	28.0 (24.7–31.2)	
+              &lt;0.01
+            	
+	Femaleb	26.5 (22.8–32.2)		
+Race	African Americanc	29.7 (23.8–33.7)	0.57	
+	Hispanic	28.2 (24.5–31.6)		
+	Other	26.4 (24.4–28.6)		
+	Whitea	27.8 (24.4–31.5)		
+Resident present in OR	Yesd	28.2 (24.7–31.7)	
+              0.01
+            	
+	Noe	27.0 (23.6–31.1)		
+Level of resident surgeon in OR	No residentc	26.8 (23.6–31.0)	0.07	
+	PGY 1	29.2 (26.4–31.7)		
+	PGY 2	29.0 (25.7–35.4)		
+	PGY 3	28.2 (25.2–30.8)		
+	PGY 4c	28.2 (24.9–32.6)		
+	PGY 5e	27.8 (24.1–31.0)		
+	PGY 6+c	28.1 (24.7–32.0)		
+Year of operation	2005, 2006, 2007, 2008, or 2009f	28.0 (24.3–32.1)	0.93	
+	2010, 2011 or 2012g	27.8 (24.4–31.3)		
+Diabetes mellitus treated with oral agents or insulin	Diabetic treated with insulin	28.7 (25.8–34.5)	
+              &lt;0.01
+            	
+	Diabetic treated with oral agentsb	29.8 (26.4–33.6)		
+	Not diabetica	27.4 (24.1–30.8)		
+Smoker in past year	Yesf	26.2 (23.0–30.3)	
+              &lt;0.01
+            	
+	Nog	28.2 (24.8–31.9)		
+More than 2 alcoholic drinks in 2 weeks prior to admission	Yes	25.6 (23.7–29.3)	
+              0.02
+            	
+	Noh	28.0 (24.4–31.6)		
+Functional status	At least partially dependentc	25.8 (21.3–30.1)	0.10	
+	Independenti	27.8 (24.4–31.5)		
+One or more pulmonary comorbidities (dyspnea, ventilator dependence, COPD, and/or pneumonia)	Yesc	28.0 (23.7–31.9)	0.94	
+	Noi	27.8 (24.4–31.4)		
+One or more cardiac comorbidities (CHF, MI, angina, PCI, and/or previous cardiac surgery)	Yesf	28.2 (24.7–31.9)	0.18	
+	Nog	27.6 (24.3–31.4)		
+Hypertension requiring medication	Yesj	28.6 (25.0–32.3)	
+              &lt;0.01
+            	
+	Nok	26.6 (23.6–30.1)		
+Preoperative acute renal failure	Yes	26.8 (23.4–33.7)	0.84	
+	Noh	27.8 (24.4–31.5)		
+Preoperative dialysis	Yes	33.9 (32.2–35.5)	0.09	
+	Noh	27.8 (24.4–31.5)		
+One or more vascular comorbidities (revascularization and/or rest pain)	Yes	28.6 (25.8–32.8)	0.33	
+	Noh	27.8 (24.4–31.5)		
+One or more neurological comorbidities (coma, hemiplegia, TIA, CVA with neurological deficit, CVA without neurological deficit, tumor involving CNS, paraplegia, and/or quadriplegia)	Yesc	28.1 (24.1–32.2)	0.96	
+	Noi	27.8 (24.4–31.5)		
+Steroid use for chronic condition	Yesc	28.9 (26.1–31.9)	0.20	
+	Noi	27.8 (24.4–31.5)		
+Greater than 10% loss in body weight in the last 6 months	Yes	24.0 (21.3–28.8)	
+              &lt;0.01
+            	
+	Noh	28.0 (24.5–31.6)		
+Bleeding disorder	Yes	27.5 (24.6–30.4)	0.89	
+	Noh	27.8 (24.4–31.5)		
+Radiotherapy for malignancy in last 90 days	Yes	30.2 (23.7–32.2)	0.76	
+	Noh	27.8 (24.4–31.5)		
+Prior operation within 30 days	Yesc	26.8 (24.1–30.1)	0.19	
+	Noi	27.9 (24.4–31.6)		
+ASA classification	ASA 1 and 2f	27.3 (24.0–30.3)	
+              0.01
+            	
+	ASA 3, 4 and 5g	28.1 (24.5–32.1)		
+Transfused more than 4 units pRBCs in 72 hours prior to surgery	Yes	27.6 (22.2–30.4)	0.23	
+	Noh	27.8 (24.4–31.5)		
+		BMI (Unadjusted OR)		
+Age (per 10 year change in age)l		−0.8	
+              &lt;0.01
+            	
+Operative time (per min increaseh		3.8	
+              &lt;0.01
+            	
+a Missing=9
+
+b Missing=3
+
+c Missing=1
+
+d Missing=6
+
+e Missing=4
+
+f Missing=2
+
+g Missing=10
+
+h Missing=12
+
+i Missing=11
+
+j Missing=5
+
+k Missing=7
+
+l Missing=8
+
+Table 2a Predictors of overall complications following cystectomy for treating bladder cancer, with special emphasis on selected nutritional-dependent prognostic factors [albumin distribution dichotomized at 3.5]
+
+		Adjusted odds ratio (95% CI)	p-value*	
+Preoperative albumin &lt; 3.5	Yes	1.79 (1.06, 3.03)	0.03	
+	No	Reference		
+Greater than 10% loss in body weight in the last 6 months	Yes	1.05 (0.44, 2.52)	0.92	
+	No	Reference		
+BMI	Per 1 unit increase	1.01 (0.98, 1.04)	0.73	
+* After adjusting for significant variables on bivariable analysis (BMI, age, sex, resident presence in OR, year of operation, smoking history, pre-operative pulmonary and cardiac comorbidity, pre-operative acute renal failure, prior operation within 30 days, operative time, ASA classification, pre-operative blood transfusion). Remaining nutritional parameters were included in the multivariable model regardless of bivariable significance.
+
+Table 2b Predictors of overall complications following cystectomy for treating bladder cancer, with special emphasis on selected nutritional-dependent prognostic factors [continuous albumin distribution]
+
+		Adjusted odds ratio (95% CI)	p-value*	
+Preoperative albumin	Per 0.5 mg/dL decrease	1.20 (1.02, 1.40)	0.02	
+Greater than 10% loss in body weight in the last 6 months	Yes	1.03 (0.43, 2.49)	0.94	
+	No	Reference		
+BMI	Per 1 unit increase	1.00 (0.97, 1.03)	0.84	
+* After adjusting for significant variables on bivariable analysis (BMI, age, sex, resident presence in OR, year of operation, smoking history, pre-operative pulmonary and cardiac comorbidity, pre-operative acute renal failure, prior operation within 30 days, operative time, ASA classification, pre-operative blood transfusion). Remaining nutritional parameters were included in the multivariable model regardless of bivariable significance.
+
+
+   1 
+            Shabsigh A  
+            Korets R  
+            Vora KC  
+             
+           Defining early morbidity of radical cystectomy for patients with bladder cancer using a standardized reporting methodology Eur Urol 2009 55 1 164 174 18675501 
+2 
+            Stein JP  
+            Lieskovsky G  
+            Cote R  
+             
+           Radical cystectomy in the treatment of invasive bladder cancer: Long-term results in 1,054 patients J Clin Oncol 2001 19 3 666 675 11157016 
+3 
+            Stimson CJ  
+            Chang SS  
+            Barocas DA  
+             
+           Early and late perioperative outcomes following radical cystectomy: 90-day readmissions, morbidity and mortality in a contemporary series J Urol 2010 184 4 1296 1300 20723939 
+4 
+            Hollenbeck BK  
+            Miller DC  
+            Taub DA  
+             
+           The effects of adjusting for case mix on mortality and length of stay following radical cystectomy J Urol 2006 176 4 Pt 1 1363 1368 16952633 
+5 
+            Buzby GP  
+            Mullen JL  
+            Matthews DC  
+            Hobbs CL  
+            Rosato EF  
+           Prognostic nutritional index in gastrointestinal surgery Am J Surg 1980 139 1 160 167 7350839 
+6 
+            Gibbs J  
+            Cull W  
+            Henderson W  
+            Daley J  
+            Hur K  
+            Khuri SF  
+           Preoperative serum albumin level as a predictor of operative mortality and morbidity: Results from the national VA surgical risk study Arch Surg 1999 134 1 36 42 9927128 
+7 
+            Burden S  
+            Todd C  
+            Hill J  
+            Lal S  
+           Pre-operative nutrition support in patients undergoing gastrointestinal surgery Cochrane Database Syst Rev 2012 11 CD008879 23152265 
+8 
+            Terry WJ  
+            Bueschen AJ  
+           Complications of radical cystectomy and correlation with nutritional assessment Urology 1986 27 3 229 232 3952912 
+9 
+            Svatek RS  
+            Fisher MB  
+            Williams MB  
+             
+           Age and body mass index are independent risk factors for the development of postoperative paralytic ileus after radical cystectomy Urology 2010 76 6 1419 1424 20472264 
+10 
+            Gregg JR  
+            Cookson MS  
+            Phillips S  
+             
+           Effect of preoperative nutritional deficiency on mortality after radical cystectomy for bladder cancer J Urol 2011 185 1 90 96 21074802 
+11 
+            Lambert JW  
+            Ingham M  
+            Gibbs BB  
+            Given RW  
+            Lance RS  
+            Riggs SB  
+           Using preoperative albumin levels as a surrogate marker for outcomes after radical cystectomy for bladder cancer Urology 2013 81 3 587 592 23352372 
+12 
+            Garg T  
+            Chen LY  
+            Kim PH  
+            Zhao PT  
+            Herr HW  
+            Donat SM  
+           Preoperative serum albumin is associated with mortality and complications after radical cystectomy BJU Int 2013 
+13 
+            Mueller C  
+            Compher C  
+            Ellen DM  
+            American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) Board of Directors 
+           A.S.P.E.N. clinical guidelines: Nutrition screening, assessment, and intervention in adults JPEN J Parenter Enteral Nutr 2011 35 1 16 24 21224430 
+14 
+            Slattery E  
+            Patchett S  
+           Albumin as a marker of nutrition: A common pitfall Ann Surg 2011 254 4 667 8 author reply 668 21946221 
+15 
+            Ingraham AM  
+            Richards KE  
+            Hall BL  
+            Ko CY  
+           Quality improvement in surgery: The american college of surgeons national surgical quality improvement program approach Adv Surg 2010 44 251 267 20919525 
+16 
+            Tsai S  
+           Importance of lean body mass in the oncologic patient Nutr Clin Pract 2012 27 5 593 598 22898746 
+17 
+            Arora NS  
+            Rochester DF  
+           Respiratory muscle strength and maximal voluntary ventilation in undernourished patients Am Rev Respir Dis 1982 126 1 5 8 7091909 
+18 
+            Heymsfield SB  
+            Bethel RA  
+            Ansley JD  
+            Gibbs DM  
+            Felner JM  
+            Nutter DO  
+           Cardiac abnormalities in cachectic patients before and during nutritional repletion Am Heart J 1978 95 5 584 594 416704 
+19 
+            Nielsen ME  
+            Palapattu GS  
+            Karakiewicz PI  
+             
+           A delay in radical cystectomy of &gt;3 months is not associated with a worse clinical outcome BJU Int 2007 100 5 1015 1020 17784888 
+20 
+            Kulkarni GS  
+            Urbach DR  
+            Austin PC  
+            Fleshner NE  
+            Laupacis A  
+           Longer wait times increase overall mortality in patients with bladder cancer J Urol 2009 182 4 1318 1324 19683272 
+21 
+            Gore JL  
+            Lai J  
+            Setodji CM  
+            Litwin MS  
+            Saigal CS  
+            Urologic Diseases in America Project 
+           Mortality increases when radical cystectomy is delayed more than 12 weeks: Results from a surveillance, epidemiology, and end results-medicare analysis Cancer 2009 115 5 988 996 19142878 
+22 
+            Feldblum I  
+            German L  
+            Castel H  
+            Harman-Boehm I  
+            Shahar DR  
+           Individualized nutritional intervention during and after hospitalization: The nutrition intervention study clinical trial J Am Geriatr Soc 2011 59 1 10 17 21087222 
+23 
+            van Bokhorst-de van der Schueren MA  
+            Lonterman-Monasch S  
+            de Vries OJ  
+            Danner SA  
+            Kramer MH  
+            Muller M  
+           Prevalence and determinants for malnutrition in geriatric outpatients Clin Nutr 2013 32 6 1007 1011 23755842 
+24 
+            Howlader Noone A  
+            Krapcho M  
+             
+           SEER cancer statistics review, 1975–2010 http://seer.cancer.gov/csr/1975_2010 . Updated based on November 2012 SEER data submission 
+25 
+            Karl A  
+            Rittler P  
+            Buchner A  
+             
+           Prospective assessment of malnutrition in urologic patients Urology 2009 73 5 1072 1076 19232689 
+26 
+            Roth B  
+            Birkhauser FD  
+            Zehnder P  
+             
+           Parenteral nutrition does not improve postoperative recovery from radical cystectomy: Results of a prospective randomised trial Eur Urol 2013 63 3 475 482 22695241 
+27 
+            Cerantola Y  
+            Valerio M  
+            Hubner M  
+            Iglesias K  
+            Vaucher L  
+            Jichlinski P  
+           Are patients at nutritional risk more prone to complications after major urological surgery? J Urol 2013 190 6 2126 2132 23820054 
+28 
+            Huhmann MB  
+            August DA  
+           Perioperative nutrition support in cancer patients Nutr Clin Pract 2012 27 5 586 592 22875752 
+

@@ -1,0 +1,230 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   03765076800Public HealthPublic HealthPublic health0033-35061476-561630639804641950510.1016/j.puhe.2018.11.011NIHMS1014860ArticleFood insufficiency and children with special healthcare needs Balistreri K.S. *218 Williams Hall, Bowling Green State University, USA* Tel.: +419 372 9523. kellyba@bgsu.edu.4 3 2019 09 1 2019 2 2019 01 2 2020 167 55 61 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objectives:
+The purpose of this study was to examine the prevalence of food insufficiency, a more severe form of food insecurity, across levels of special healthcare needs among a nationally representative sample of children in the United States. The study also investigates whether medical home access serves as a possible protective mechanism against food hardship.
+
+Study design:
+The study involves analysis of nationally representative cross-sectional data.
+
+Methods:
+The data used are the 2016 National Survey of Children’s Health, a cross-sectional nationally representative sample of the US children (N = 48,709). Descriptive analyses and logistic regression analysis are used to estimate food insufficiency and its correlates by complexity of children’s special healthcare needs.
+
+Results:
+Analysis showed that children with more complex special healthcare needs experienced roughly twice the rate of food insufficiency compared with children with no special healthcare needs or children with less complex healthcare needs. Multivariate analysis indicated that children with more complex healthcare needs face an increased risk of food insufficiency net of demographic and economic characteristics. Interaction models revealed that medical home access protects children with medical complexity from food insufficiency.
+
+Conclusions:
+These findings document significantly elevated risk of food insufficiency among families with a child facing more complex special healthcare needs. Interventions in healthcare settings could include referrals to resources already in place to combat hunger such as food bank agencies and other resources that might help at-risk families obtain assistance through programs such as the Supplemental Nutrition Assistance Program and Women, Infants, and Children.
+
+Food insufficiencyFood insecuritySpecial healthcare needsMedical complexity
+   Introduction
+Food insecurity continues to be a problem faced by many American families. In 2016, 16.5% of the US households with children lacked consistent access to adequate amounts of food.1 Extensive prior research has established an association between food scarcity and poor child health outcomes and diminished well-being,2 but less research has examined the patterns of food hardship among children with special healthcare needs (CSHCN). This is an important oversight, given that recent estimates show that nearly 20% (14.2 million) of the US children aged 0 to 17 years were classified as having a special healthcare need in 2016.3
+
+Children are considered to have a special healthcare need if they ‘have or are at increased risk for a chronic physical, developmental, behavioral, or emotional condition and who also require health and related service of a type or amount beyond that required by children generally’.4 These children often require more health services such as emergency room visits, medical procedures, or hospital stays than non-CSHCN children.5 This concentrated need for health services may create added financial strain for many families raising CSHCN, putting them at increased risk of food hardship. Indeed, studies have shown that caring for children across the spectrum of CSHCN is associated with increased family financial hardship often due to a reduction in parental employment as they stay home to care for their children and incur higher out of-pocket medical expenses.6 Furthermore, the likelihood of these hardships are proportionate to the complexity of their child’s healthcare needs.7
+
+The population of CSHCN is heterogeneous in the severity and complexity of their healthcare needs.8 Health conditions for CSHCN run along a spectrum marked by increasing complexities, characterized by the presence or absence of functional limitations, the need for prescription medication, and the need for a host of special therapies or other services.8 In 2016, 30.9% of CSHCN had a less complex condition that was managed solely with prescription medication (e.g., asthma or allergies), while the remaining CSHCN had more complex healthcare needs (e.g., autism, developmental delays, depression, or anxiety), which require a range of additional services. Children identified as having more complex health-care needs often have several chronic conditions, as well as functional limitations.7 For example, more than 43.5% of CSHCN had conditions that required additional services (i.e., medical, mental health, speech therapy) alone or along with the need for prescription medication, while over a quarter of CSHCN (25.6%) had a functional limitation.3 These challenges may have an impact on the ability of families to remain food sufficient, yet few studies have examined this question.
+
+This is an important omission because research has shown that financial hardships often occur among families raising CSHCN.9 This may be due to factors such as increased out-of-pocket expenses for special foods,10–12 equipment,9 or medications.13 A recent study by Rose-Jacobs et al. examined the relationship between food insecurity and the presence or absence of CSHCN among an urban-based sample of young children (aged 2 years and younger) from low-income households. Results from this study found that CSHCN were at an increased risk of food insecurity net of sociodemographic characteristics and participation in the social safety net.14 Another study, which examined young children in Oregon, found that families of CSHCN were at higher risk of food insecurity compared with families with no CSHCN.15 While valuable, these studies are unable to provide national estimates of food hardship among children with and without special healthcare needs or estimates by the complexity of those needs nor are they able to identify possible factors beyond income that might serve to protect children from food hardship.
+
+One such factor, particularly for families of CSHCN, may be access to health care. Prior studies have shown that parents of CSHCN are more likely to report problems accessing the healthcare services their children need such as physician referrals or effective care coordination compared with parents of children without those needs.16 The American Academy of Pediatrics (AAP) supports the concept of the medical home to address such challenges. Indeed, the AAP along with the Maternal and Child Health Bureau (MCHB) of the US Department of Health and Human Services supports the position that every child should have a medical home. The medical home is a system of primary health care that was developed for all children but has been especially promoted as a system to help families of CSHCN,17 in short, a core component of the medical home centers on the importance of providing continuous and comprehensive care from the child’s birth to young adulthood. An important feature of the medical home is cooperation and communication between the family and the healthcare provider to help them effectively coordinate care with specialists and community agencies.18 While most research on medical homes centers on CSHCN, studies find that medical homes are associated with many positive outcomes among all children such as a reduction in unmet need for health care19–improved family functioning20 and among families of CSHCN, a reduction in financial hardship.21 Recent research suggests that over the last decade, the healthcare experiences of all children in the United States have become more aligned with the concept of a medical home model and that this is true for both children with and without special healthcare needs.22 Yet, no study has considered whether the medical home may have added protective value against the risk of food hardship among families with children.
+
+This is an important omission, given that two key goals of Healthy People 2020, the national health objectives issued by the US federal government, that targets not only reducing food insecurity among children but also increasing the proportion of children who have access to a medical home.23 To fill the gaps in the literature, this study uses recent nationally representative data on children in the US to address three research questions: (1) How do rates of food insufficiency for children vary by the CSHCN status?; (2) Among CSHCN, do rates of food insufficiency vary by the complexity of their special healthcare needs?; and (3) Do medical homes serve as a form of protection from food hardship for families with children?
+
+Methods
+The data used in this study are from the 2016 National Survey of Children’s Health (NSCH) conducted by the US Census Bureau and the MCHB. The US Department of Agriculture provided additional support in efforts to measure food sufficiency among children. The 2016 NSCH surveyed a representative sample of children aged 0 to 17 years living in the United States (50,212 children). Participants were selected from households with children in each of the 50 states and the District of Columbia who lives in housing units. The survey was self-administered and completed (via web or by paper) by a parent or caregiver knowledgeable about the health and health care of one randomly selected child. Each record contains information on the child and the household in which the child resides. The data are weighted to represent the population of non-institutionalized children aged 0–17 years in the United States. More information on the 2016 NSCH design is provided in its methodology report.24
+
+All analyses were performed with Stata 14.1 statistical software to obtain variance estimates that account for the impact of complex survey design. The analytic sample is restricted to those children with valid information on dependent and independent variables. The resulting sample size is N = 48,709. The data are publically available so this research is considered exempt from the university institutional review board.
+
+Food insufficiency
+The dependent variable is a dichotomous measure indicating food insufficiency. Respondents were asked whether, during the past year, they were able to afford the food that they needed. Responses included the following: (1) We could always afford to eat good nutritious meals; (2) We could always afford enough to eat but not always the food we should eat; (3) Sometimes, we could not afford enough to eat; and (4) Often we could not afford enough to eat. After prior research,25 a child is considered food insufficient if the respondent indicated that the family either ‘sometimes’ or ‘often’ did not get enough food to eat. Prior research has shown that this indicator captures food hardship25,26 and reduced nutrient intake.27,28,29 Food insufficiency is closely related to a similar measure of food hardship known as food insecurity, a commonly used measure based on the 18-item Core Food Insecurity Module developed by the United States Department of Agriculture (USDA). While both conditions are primarily due to a lack of economic resources, food insecurity suggests a limited availability or the uncertain availability of food, whereas food insufficiency refers to limited access of food in the household or an insufficient intake of food.30 In other words, food insecurity covers a broader aspect of food scarcity, while food insufficiency is more severe and has sometimes been used as a synonym for hunger.31
+
+Children with special healthcare needs
+To identify CSHCN, the NSCH uses a validated 5-item screening tool. To meet the criteria as having a special healthcare need, the respondent must indicate that the child has experienced at least one of the five health consequences due to some type of ongoing health condition for which the child (1) needs prescription medication; (2) needs special services or therapies; (3) has a routine use of medical services; (4) needs mental or behavioral counseling or treatment; and (5) has a functional limitation.
+
+To understand if food insufficiency varies across the range of special healthcare needs, a three-category variable is created that incorporates a measure of complexity: (1) the child has no special healthcare need; (2) the child has a less complex healthcare need; and (3) the child has a more complex healthcare need. Although there is no consensus on defining a more or less complex healthcare need among CSHCN with secondary survey-based data, a variety of approaches have been used.8 Some studies use categorical methodologies based on diagnostic codes of disease and administrative data, while others use diagnosis-independent approaches based on the CSHCN screener.32 It is the latter classification that is used here. More specifically, a child with a need that is not a functional limitation but is managed with prescription medication only is classified as having a less complex need, whereas all remaining CSHCN are classified as having a more complex need.
+
+Additional sensitivity analyses further divide CSHCN with more complex needs into categories based on the type of need and the existence of a functional limitation: (1) children with no functional limitations requiring service use only; (2) children with no functional limitations requiring service use with prescription medication; and (3) children with a functional limitation alone or in combination with service use and/or prescription medication.
+
+Medicαl home model of Health care
+The NSCH includes a composite measure of the medical home status based on five components that were derived from 14 survey items. These five items include the following: (1) having a personal doctor or nurse; (2) having a usual source of sick care; (3) having family-centered care; (4) experiencing problems in getting needed referrals; and (5) having effective care coordination when needed. After prior research, a child is considered to have a medical home if the survey respondent reports that the child has adequate care on components 1 through 3 and adequate referrals or care coordination (components 4 and 5) for children who need it. Medical home access is indicated by a dichotomous variable.
+
+The regression models control for the child characteristics of race/ethnicity, gender, age, and insurance coverage. Race/ethnicity of the child is measured as non-Hispanic white, non-Hispanic black, non-Hispanic other race, and Hispanic (any race). Insurance coverage is measured as a three-category variable indicating that the child has (1) private insurance; (2) public insurance only or a combination of public and private insurance; and (3) the child is uninsured. The economic status of the household is measured by federal poverty level (FPL) represented by four categories: &lt;100%, 100%−199%, 200%−399%, and ≥ 400%. Also included are the total number of adults in the households and a measure of parent/caregiver employment (employed at least 50 weeks in the last year).
+
+Statistical analysis
+Weighted descriptive statistics for sociodemographic characteristics, medical home access, and food insufficiency across the three levels of the health need status; no need, CSHCN with less complex need, and CSHCN with more complex needs are presented. Logistic regression analyses were used to examine the joint effects of special healthcare needs and medical home access on food insufficiency, adjusting for children’s race/ethnicity, age, gender, FPL, parental employment, and child insurance.
+
+Results
+Among the US children aged 0 to 17 years, 19.5% may be classified as having a special healthcare need. Roughly one in 16 (6%) US children have less complex special healthcare needs that are managed solely with prescription medication, while almost one in seven (13.5%) have more complex special healthcare needs. Descriptive characteristics for the US children are presented in Table 1, by three categories of CSHCN: no needs, less complex needs, and more complex needs. Clear differences in the prevalence of food insufficiency are found across the CSHCN status. More than 13% (13.3%) of the US children with more complex needs were living in households considered food insufficient compared with roughly 6% of children with no special healthcare needs or children with less complex needs. Furthermore, children with more complex needs were less likely to have health care consistent with a medical home (38.5%) and more likely to use public health insurance (52.5%) than either children with no special healthcare need or children with less complex healthcare needs.
+
+The results from both the unadjusted and adjusted logistic regression models of food insufficiency on the CSHCN status are presented in Table 2. The regression results are displayed as odds ratios (ORs) and 95% confidence intervals. Several findings are notable. First, children with more complex healthcare needs are at significantly higher risk of experiencing food insufficiency than either children with no special healthcare needs or children with less complex needs. This was found in both the unadjusted (model 1) and adjusted models (model 2). For example, after controlling for a host of sociodemographic characteristics, the odds of food insufficiency among children with more complex healthcare needs are 1.92 times those of children with no special healthcare needs and 2.01 times (OR = 1.92/.95, P &lt; .001) that of children with less complex special healthcare needs. No statistically significant difference in the odds of food insufficiency was found between children with less complex needs and children with no special healthcare needs.
+
+Second, the presence of a medical home is associated with a 25% reduction in the likelihood of food insufficiency and net of child and family characteristics (model 2). To understand whether there may be a moderating effect of medical home access on the association between the CSHCN status and food insufficiency, model 3 includes an interaction term between medical home access and the CSHCN status. The coefficient for the interaction term represents the additional protective effect of a medical home against food insufficiency for each category of the special healthcare need status. An adjusted Wald test showed that the overall interaction between the CSHCN status and medical home access was statistically significant (F = 3.79, P &lt; .023). To understand whether the impact of medical home access is significant at each level of the CSHCN status, the effect of the medical home status at each level of the CSHCN status was tested using Stata’s contrast command. The results show that while there is no statistically significant effect of medical home access on food insufficiency among children without special healthcare needs (OR = .87, P &lt; .236), the medical home status serves as a protective factor among some CSHCN. More specifically, among children with less complex healthcare needs, the impact of having a medical home versus not is OR = .55 and is only marginally statistically significant (.87 × .63 = .55, P &lt; .072). However, among children with more complex healthcare needs, the impact of having a medical home versus not is OR = .49 (.87 × .55 = .48, P &lt; .000), demonstrating that medical home access serves to protect children with more complex special healthcare needs from food insufficiency net of other individual and household characteristics.
+
+Additional analyses were conducted to determine if a particular type of more complex special healthcare need (i.e., functional limitations, service use with or without medication use) or the number of affirmative answers to the CSHCN screener was associated with an elevated risk of food insufficiency among a reduced sample containing only children with more complex special healthcare needs. No statistically significant differences in the likelihood of food hardship were found between types of more complex healthcare needs nor in the number of needs after adjusting for demographic and economic characteristics.
+
+Discussion
+Access to quality food is essential for the growth and development of all children, and yet nearly one in 14 children (6.9%) live in families that often or sometimes cannot afford enough to eat. The results of this study show that the burden of food insufficiency is not distributed evenly; children with complex special healthcare needs face an increased risk. More than 13% (13.3%) of the US children with a more complex special healthcare need live in families struggling with food hardship compared with roughly six percent of children who have no special healthcare needs or a less complex healthcare need that is managed by prescription medication only. The results suggest that net of sociodemographic characteristics, children with medical complexity face twice the odds of food insufficiency compared with children with no special healthcare needs or those with less complex needs.
+
+Findings also suggest a protective effect of medical home access for children with more complex special healthcare needs. Indeed, the risk of food insufficiency is cut in half for children with more complex special healthcare needs if they have access to a medical home model of care. Given that fewer than 40% of children with more complex special healthcare needs have access to a medical home, this is cause for concern. This vulnerable population of children with more complex healthcare needs may be hardest hit, given the evolving healthcare landscape in the US. It is important that systems of care continue to adapt and change to accommodate a medical home model of care for children both with and without special healthcare needs.
+
+This study has some limitations. First, the data are cross-sectional and do not demonstrate causality between the complexity of children’s healthcare needs and the food insufficiency of the child’s household. However, the goal of this study was to understand patterns of food hardship by the complexity of children’s special healthcare needs using national data. Longitudinal data measuring changes not only in food sufficiency but also in child’s health are needed. Second, the questions on food sufficiency are not person specific but rather apply to the whole household, It may be that food sufficiency varies across household members. Nonetheless, given that the food insufficiency measure used here is measuring the most severe forms of food hardship, the estimates are likely underestimating the challenges many families are facing. This study confirms the value of adding questions about food sufficiency to existing national surveys of children’s health.
+
+The results presented here support the expansion of the medical home, particularly for children dealing with medical complexities. If efforts are continued to support the implementation of the medical home for CSHCN, a stated objective Healthy People 2020, it may help reduce food insufficiency and promote better long-term outcomes particularly for children facing more complex special healthcare needs. Interventions in healthcare settings could include referrals to resources already in place to combat hunger such as food bank agencies and other resources that might help at-risk families obtain assistance through programs such as the Supplemental Nutrition Assistance Program and Women, Infants, and Children.
+
+Funding
+This research was supported in part by the Center for Family and Demographic Research, Bowling Green State University, which has core funding from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (P2CHD050959).
+
+Ethical approval
+
+The data are publicly available and are considered exempt from institutional review.
+
+Competing interests
+
+The author has no competing interests.
+
+Table 1 – Weighted descriptive statistics for study variables for the US children (ages birth to 17 years) by complexity of special healthcare needs: 2016 National Survey of Children’s Health.
+
+Variable	No SHCN (N = 38,008)	Less complexa SHCN (N = 3744)	More complexb SHCN (N = 7433)	
+% or mean, (95% CI)	% or mean, (95% CI)	% or mean, (95% CI)	
+Food insufficient	5.8c	(5.2–6.3)	6.2	(4.4–8.1)	13.3	(11.3–15.4)	
+Child has a medical home	50.7c	(49.7–51.7)	54.6	(50.8–58.1)	38.5	(36.1–40.9)	
+Child is male	49.3	(48.1–50.5)	55.2	(51.6–58.6)	59.0c	(56.4–61.5)	
+Children’s race/ethnicity	
+ Non-Hispanic white	52.4	(51.2–53.5)	55.4	(51.5–59.0)	52.1	(49.5–54.6)	
+ Non-Hispanic black	11.7	(10.9–2.5)	15.7	(12.8–18.8)	15.6	(13.6–17.8)	
+ Hispanic (any race)	24.7	(23.4–25.9)	19.9	(16.3–24.)	23.4	(20.7–26.2)	
+ Non-Hispanic Asian	5.1	(4.6–5.5)	3.1	(2.26–4.15)	2.2	(1.73–2.72)	
+ Non-Hispanic other	6.1	(5.7–6.6)	6.0	(4.86–7.48)	6.7	(5.62–8.02)	
+Child age (years)	8.2	(8.0–8.3)	10.5	(10.2–10.7)	10.1	(9.9–10.3)	
+Child insurance status	
+ Private health insurance	60.5	(59.3–61.7)	58.7	(54.9–62.3)	43.9	(41.5–46.2)	
+ Public health insurance	33.2	(32.3–34.4)	37.5	(33.8–41.2)	52.5	(50.0–54.9)	
+ Uninsured	6.3	(5.6–7.0)	3.9	(2.73–5.43)	3.6	(2.74–4.75)	
+Family poverty level	
+ &lt;100% FPL	19.6	(18.5–20.8)	23.4	(19.5–27.6)	26.2	(23.8–28.6)	
+ 100%–199% FPL	22.0	(20.9–23.0)	19.6	(16.9–22.5)	23.4	(21.0–25.9)	
+ 200%–399% FPL	27.6	(26.6–28.5)	25.7	(22.9–28.6)	25.1	(23.0–27.3)	
+ ≥400% FPL	30.8	(29.9–31.7)	31.3	(28.6–34.1)	25.3	(23.6–27.1)	
+Parent employed 50 weeks in the last yeard	91.2	(90.3–91.8)	88.2	(85.4–90.5)	80.5	(78.1–82.6)	
+Total number of adults in household (HH)	1.9	(1.9–1.9)	2.0	(1.9–2.0)	1.9	(1.8–1.9)	
+Distribution in the US	80.5	(79.7–81.2)	6.0	(5.6–6.5)	13.5	(12.9–14.2)	
+CI, confidence interval; FPL, federal poverty level; CSHCN, children with special healthcare needs; SHCN, special healthcare needs.
+
+All differences between CSHCN groups are statistically significant to the P &lt; .05 level unless otherwise indicated.
+
+a Less complex healthcare needs are managed by prescription medication only.
+
+b More complex healthcare needs involve functional limitations or are managed with special services or by prescription.
+
+c Not statistically different from ‘less complex healthcare needs’.
+
+d Defined as any primary caregiver employed 50 of the last 52 weeks.
+
+Table 2 – Multivariate logistic regression predicting food insufficiency by the CSHCN status (N = 48,709).
+
+Child Characteristics	Model 1	Model 2	Model 3	
+OR	95% CI	OR	95% CI	OR	95% CI	
+CSHCN status	
+ Less complex	1.05a	(.74–1.4)	0.95a	(.65–1.3)	1.11	(.65–1.8)	
+ More complex (ref = not CSHCN)	2.49	(2.0–3.0)***	1.92	(1.5–2.3)***	2.05	(1.5–2.7)***	
+Child has a medical home			.75	(.61–.90)**	.87	(.69–1.0)	
+ x Less complex					.63	(.31–1.2)	
+ x More complex					.56	(.35-.86)**	
+Child is male (ref = female)			1.04	(.86–1.2)	1.04	(.86–1.2)	
+Children’s race/ethnicity	
+ Non-Hispanic black			1.18	(.90–1.5)	1.19	(.90–1.5)	
+ Hispanic (any race)			.84	(.65–1.0)	.84	(.65–1.0)	
+ Non-Hispanic Asian			.69	(.37–1.2)	.70	(.38–1.3)	
+ Non-Hispanic other (ref = non-Hispanic white)			1.53	(1.0–2.1)*	1.54	(1.1–2.1)*	
+Child age (years)			.94	(.88–1.0)	.94	(.88–1.0)	
+ Child age (years) squared			1.00	(1.0–1.0)*	1.00	(1.0–1.0)*	
+Child insurance status	
+ Public health insurance			1.86	(1.3–2.4)***	1.87	(1.4–2.4)***	
+ Uninsured (ref = private insurance)			2.40	(1.5–3.6)***	2.46	(1.6–3.7)***	
+Family poverty level	
+ 100%–199% FPL			.66	(.52–.82)***	.66	(.53–.82)***	
+ 200%–399% FPL			.27	(.19-.36)***	.27	(.19-.36)***	
+ ≥400% FPL (ref=&lt; 100% FPL)			.07	(.04-.11)***	.07	(.04-.11)***	
+Parent employed 50 weeks in the last yearb			.72	(.57-.89)**	.72	(.57-.89)**	
+Total number of adults in household (HH)			.87	(.76-.99)*	.87	(.76-.99)*	
+CI, confidence interval; OR, odds ratio; CSHCN, children with special healthcare needs; FPL, federal poverty level.
+
+*** P &lt; .001;
+
+** P &lt; .01;
+
+* P &lt; 05.
+
+a Significantly different from more complex special healthcare needs.
+
+b Defined as any primary caregiver employed 50 of the last 52 weeks.
+
+
+   REFERENCES
+1. Jensen-Coleman A , Rabbitt MP , Gregory CA , Singh A . Household food security in the United States in 2016 . U.S. Department of Agriculture, Economic Research Service ; 2017 
+ERR-237. 
+2. Gundersen C , Ziliak JP . Childhood food insecurity in the US: trends, causes, and policy options . Future Child 
+2014 :1 –19 .
+3. Child and Adolescent Health Measurement Initiative . Data Resource Center for Child and Adolescent Health . 2016 
+National survey of children’s health (NSCH) data query . Retrieved [03/02/18] from www.childhealthdata.org. 
+CAHMI : www.cahmi.org .
+4. McPherson M , Arango P , Fox H , Lauver C , McManus M , Newacheck PW , 
+A new definition of children with special health care needs . Pediatrics 
+1998 ;102 :137 –9 .9714637 
+5. Newacheck PW , Kim SE . A national profile of health care utilization and expenditures for children with special health care needs . Arch Pediatr Adolesc Med 
+2005 ;159 :10 –7 .15630052 
+6. Sannicandro T , Parish SL , Son E , Powell RM . Health care changes for children with special health care needs, 2005–2011 . Matern Child Health J 
+2017 ;21 :524 –30 .27469109 
+7. Kuo DZ , Goudie A , Cohen E , Houtrow A , Agrawal R , Carle AC , 
+Inequities in health care needs for children with medical complexity . Health Aff 
+2014 ;33 :2190 –8 .
+8. Bramlett MD , Read D , Bethell C , Blumberg SJ . Differentiating subgroups of children with special health care needs by health status and complexity of health care needs . Matern Child Health J 
+2009 ;13 :151 –63 .18386168 
+9. Parish SL , Rose RA , Andrews ME . TANF’s impact on low-income mothers raising children with disabilities . Except Child 
+2010 ;76 :234 –53 .
+10. Hogan Dennis , Msall Michael E , Goldscheider Frances K , Shandra Carrie L , Avery Roger C . Family consequences of children’s disabilities . NewYork : Russell Sage Foundation ; 2012 .
+11. Lindley LC , Mark BA . Children with special health care needs: impact of health care expenditures on family financial burden . J Child Fam Stud 
+2010 ;19 :79 –89 .20495615 
+12. Lucas BL , Feucht SA , Grieger L . Children with special health care needs: Nutrition care handbook . American Dietetic Associati ; 2004 .
+13. Shenkman E , Knapp C , Sappington D , Vogel B , Schatz D . Persistence of high health care expenditures among children in Medicaid . Med Care Res Rev 
+2007 ;64 :304 –30 .17507460 
+14. Rose-Jacobs R , Fiore JG , de Cuba SE , Black M , Cutts DB , Coleman SM , 
+Children with special health care needs, Supplemental Security Income, and food insecurity . J Dev Behav Pediatr 
+2016 ;37 :140 –7 .26836641 
+15. Adams EJ , Hoffmann LM , Rosenberg KD , Peters D , Pennise M . Increased food insecurity among mothers of 2 year olds with special health care needs . Matern Child Health J 
+2015 ;19 :2206 –14 .25682114 
+16. Child and Adolescent Health Measurement Initiative, Who Are Children with Special Health Care Needs (CSHCN) . Data resource center, supported by cooperative agreement 1-U59-MC06980–01 from the U.S. Department of Health and Human Services . Health Resources and Services Administration (HRSA), Maternal and Child Health Bureau (MCHB) ; 2012 .
+17. Sia C , Tonniges TF , Osterhus E , Taba S . History of the medical home concept . Pediatrics 
+2004 ;113 :1473 –8 .15121914 
+18. Hadland SE , Long WE . A systematic review of the medical home for children without special health care needs . Mαtern Child Health J 
+2014 ;18 :891 –8 .
+19. Long WE , Bauchner H , Sege RD , Cabral HJ , Garg A . The value of the medical home for children without special health care needs . Pediatrics 
+2011 :1739 .
+20. Boudreau ADA , Van Cleave JM , Gnanasekaran SK , Kurowski DS , Kuhlthau KA . The medical home: relationships with family functioning for children with and without special health care needs . Acad Pediatr 
+2012 ;12 :391 –8 .22884797 
+21. Ghandour RM , Perry DF , Kogan MD , Strickland BB . The medical home as a mediator of the relation between mental health symptoms and family burden among children with special health care needs . Acad Pediatr 
+2011 ;ll :161 –9 .
+22. Stevens GD , Kim AY . National trends in indicators of a medical home for children . Matern Child Health J 
+2016 ;20 :730 –9 .26692379 
+23. Healthy People 
+2020 
+[Internet] , Washington, DC : U.S. Department of Health and Human Services, Office of Disease Prevention and Health Promotion 
+[cited [Nov. 16, 2018]]. Available from : [https://www.healthypeople.gov/2020/About-Healthy-People ].
+24. US Census Bureau . 2016 national survey of children’s Health . 2018  p. 1 –243 .
+25. Gundersen C , Oliveira V . The food stamp program and food insufficiency . Am J Agric Econ 
+2001 ;83 :875 –87 .
+26. Briefel RR , Woteki CE . Development of food sufficiency questions for the third national health and nutrition examination survey . J Nutr Educ 
+1992 ;24 :28S .
+27. Alaimo K , Briefel RR , Frongillo EA Jr, Olson CM . Food insufficiency exists in the United States: results from the third national health and nutrition examination survey (NHANES III) . Am J Public Health 
+1998 ;88 :419 –26 .9518974 
+28. Alaimo K , Olson CM , FrongiUo EA Jr, Briefel RR . Food insufficiency, family income, and health in US preschool and school-aged children . Am J Public Health 
+2001 ;91 :781 .11344887 
+29. Rose D , Oliveira V . Nutrient intakes of individuals from food-insufficient households in the United States . Am J Public Health 
+1997 ;87 :1956 –61 .9431283 
+30. Scott RI , Wehler CA . Food insecurity food insufficiency: an empirical examination of alternative measures of food problems in impoverished US households . University of Wisconsin–Madison, Institute for Research on Poverty ; 1998 .
+31. Jones AD , Ngure FM , Pelto G , Young SL . What are we assessing when we measure food security? A compendium and review of current metrics . Adv Nutr 
+2013 ;4 : 481 –505 .24038241 
+32. Lerner CF , Klitzner TS . The medical home at 50: are children with medical complexity the key to proving its value? 
+Acad Pediatr 
+2017 ;17 :581 –8 .28457939 
+

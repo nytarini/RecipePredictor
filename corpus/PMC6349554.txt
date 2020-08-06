@@ -1,0 +1,246 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   02300275590Med CareMed CareMedical care0025-70791537-194830001250634955410.1097/MLR.0000000000000951NIHMS993310ArticleA New Data Resource to Examine Meals on Wheels Clients’ Health Care Utilization and Costs Shan Mingyang BS*Gutman Roee MSc, PhD*Dosa David MD, MPH*†Gozalo Pedro L. MSc, PhD*†Ogarek Jessica A. MS*Kler Sarah BA*Thomas Kali S. MA, PhD*†* Brown University School of Public Health, Providence, RI† US Department of Veterans Affairs Medical Center, Providence, RIReprints: Kali S. Thomas, MA, PhD, Providence VA Medical Center, Providence, RI 02908. kali_thomas@brown.edu.19 10 2018 3 2019 01 3 2019 57 3 e15 e21 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background:
+Access to social services (eg, nutrition) can impact older adults’ health care utilization and health outcomes. However, data documenting the relationship between receiving services and objective measures of health care utilization remain limited.
+
+Objectives:
+To link Meals on Wheels (MOW) program data to Medicare claims to enable examination of clients’ health and health care utilization and to highlight the utility of this linked dataset.
+
+Research Design:
+Using probabilistic linking techniques, we matched MOW client data to Medicare enrollment and claims data. Descriptive information is presented on clients’ health and health care utilization before and after receiving services from MOW.
+
+Subjects:
+In total, 29,501 clients were from 13 MOW programs.
+
+Measures:
+Clients’ demographics, chronic conditions, and hospitalization, emergency department (ED), and nursing home (NH) utilization rates.
+
+Results:
+We obtained a one-to-one link for 25,279 clients. Among these, 14,019 were Medicare fee-for-service (FFS) beneficiaries and met inclusion criteria for additional analyses. MOW clients had high rates of chronic conditions (eg, almost 90% of FFS clients were diagnosed with hypertension, compared with 63% of FFS beneficiaries in their communities). In the 6 months before receiving MOW services, 31.6% of clients were hospitalized, 24.9% were admitted to the ED and 13% received care in a NH. In the 6 months after receiving meals, 24.2% were hospitalized, 19.3% were admitted to the ED, and 9.5% received care in a NH.
+
+Conclusions:
+Linking MOW data to Medicare claims has the potential to shed additional light on the relationships among social services, health status, health care use, and benefits to clients’ well-being.
+
+social determinantshome-delivered mealsprobabilistic linkingMedicare claims
+   Although it is widely understood that a person’s social support and access to social services have an impact on their health-related outcomes, data supporting the closer integration of social services with conventional medical care remains challenging to obtain. Numerous stakeholders, including health care payers, providers, and policymakers seek to better understand the benefits and costs of further integrating social services and medical care.1 One challenge to performing such research is that many community-based organizations, by nature of the services that they provide, are not required to obtain unique client identifiers (eg, social security numbers) that would enable the linkage of their program data to insurance claims. Furthermore, data from individual programs are rarely available at a national level, thereby precluding analyses that may be generalizable to a larger geographic region. As health systems begin to explore funding of improved connections to programs that address nonmedical needs, research that demonstrates the impact of such programs on patient utilization of health care will become increasingly important. One national community-based membership organization with information that can enable linkage of its members’ data to Medicare claims, thereby facilitating further investigation of the relationship between social services and health care, is Meals on Wheels (MOW) America.
+
+Home-delivered meals offered by MOW America member programs across the country provide critical support to community-dwelling, vulnerable older adults. Previous research has suggested that providing home-delivered meals to homebound older adults results in beneficial nutritional outcomes, as well as decreases in depression, loneliness, falls, and rates of hospitalization and nursing home (NH) utilization.2–11 Furthermore, recipients of home-delivered meals indicate that the service helps them to eat healthier foods, improves their health, and allows them to live independently and remain in their own home.12 Despite the mounting evidence that home-delivered meals are associated with improvements to older adults’ health and well-being,13 funding for these programs has not been able to keep pace with the growing need. This has resulted in millions of fewer meals provided, thousands of fewer seniors served, and swelling waiting lists.14,15
+
+Although home-delivered meals have been provided to older adults in the United States and partially funded through the Older Americans Act for over 40 years, we do not have a clear understanding of the health characteristics and health care utilization of clients who receive services from these programs. Furthermore, little is known about the ability of community-based organizations like MOW, and the vital services that they provide, to prevent costly health care utilization such as hospitalizations, emergency department (ED) visits, and NH placement. By linking MOW data with Medicare administrative data, there is the potential to shed important new light on all these areas of interest.
+
+NEW CONTRIBUTION
+Similar to other community-based organizations, a critical challenge to conducting retrospective outcomes analyses for MOW recipients is the lack of a unique identifier to merge client records with Medicare data to investigate clients’ health care utilization and costs. Therefore, the objective of this paper is to describe the application of probabilistic data-linkage techniques in which MOW program data are combined with Medicare data. Further, we will demonstrate the utility of these linked data to describe the sample of Medicare beneficiaries receiving services from MOW programs and present potential applications of these data to ask and answer important practice and policy-relevant questions.
+
+METHODS
+Data
+Data from MOW programs were compiled using a nonrandom sample of 13 of ~1025 MOW America members across the US. Participating programs were located in California, Georgia, North Carolina, Oklahoma, Rhode Island, and Texas. Individual MOW programs submitted a list of clients who received home-delivered meals between January 1, 2010 and December 31, 2013 to MOW America. Data included, at a minimum, information on the clients’ sex, race, dates of birth, start and end dates of service, and their 9-digit ZIP codes derived from their home address. Because this information is needed for routing, determination of eligibility, service planning, and Title III reporting requirements, it is readily available at the majority of MOW programs. Data were shared with the authors who compiled, cleaned, and checked for any out-of-range values.
+
+The 2009–2014 Medicare Master Beneficiary Summary File (MBSF) and Medicare claims data provided information about individuals’ Medicare eligibility, health, and health care utilization. The MBSF includes Medicare beneficiaries’ enrollment information as well as their 9-digit ZIP code, date of birth, date of death, sex, race, age, and monthly entitlement and managed care indicators. To capture clients’ health, we used the chronic condition data warehouse flags in the MBSF, which indicate the presence of treatment for specific chronic conditions using claims-based algorithms. In addition, we used data from Medicare Inpatient, Outpatient, Skilled Nursing Facility, Home Health, and Hospice claims between calendar years 2009 and 2014 to identify health care utilization.
+
+The NH Minimum Data Set was used to identify dates of NH entry and exit and to inform the Residential History File (RHF). The RHF is a per-person chronological data infrastructure created by investigators at Brown University and built with the aforementioned claims and patient assessments.16 With the RHF, we were able to identify Medicare beneficiaries’ residential setting and services received, as well as enrollment in Medicare and Medicaid, on every day of the study period (2009–2014).
+
+Use and linkage of the MBSF, Medicare claims, Minimum Data Set, and MOW data were approved by the Brown University Institutional Review Board and available through a Data Use Agreement from the Centers for Medicare and Medicaid Services.
+
+Developing an Analytic Sample of MOW Clients
+Information was provided for 51,439 MOW clients across the 13 MOW America member programs. To derive our analytic sample from the MOW data, clients must have met the following inclusion criteria: (1) age 66+ at the time that they began receiving MOW (12,026 clients excluded); (2) started receiving MOW services on or after January 1, 2010 (an additional 9676 clients excluded); and (3) valid sex and ZIP code values (an additional 236 clients excluded). After these exclusions, the final number of clients eligible for Medicare linkage was 29,501, representing 57% of the initial cohort.
+
+Linking MOW Data With the Medicare MBSF
+Because there are no unique identifiers available to directly link the MOW enrollees to the MBSF data, we linked the records using probabilistic matching17 based on the clients’ sex, date of birth, and 9-digit ZIP codes using SAS IML.18,19 Race was not used as a linking variable because the manner in which it was recorded at each MOW site varied and did not align with the coding scheme used in the MBSF. To reduce computational burden, blocks based on 5-digit ZIP code and sex20 were created because of the high accuracy of these identifying criteria. “Blocking” is a common file-linkage technique that reduces the number of possible matches by considering only units that agree on their 5-digit ZIP code and sex. The validity of the 5-digit ZIP codes was verified by comparing the ZIP codes with the geographic region that a MOW member site serviced. To account for potential discrepancies in how linking information may be recorded by MOW programs and Medicare claims, we allowed for different degrees of agreement between our remaining linking terms: the 6–9 ZIP code digits and date of birth (the year of the birthdate, the year and month, and the full date of birth). Multinomial mixture models were used to estimate the probability that the 6–9 ZIP code and date of birth terms agree across the 2 datasets. This model allows for close matches in ZIP code terms and date of birth terms.21 Thus, the resulting likelihood is composed of 5 ZIP code probabilities that represent the probability that a pair of records agree on the first 5 ZIP code digits or any of the first 6 to 9 digits. In addition, the likelihood includes 4 probability terms for each ZIP code agreement level that represent whether a pair of records agree on the full date of birth, on year and month of birth, only on year of birth, or no component of date of birth.
+
+The expectation-maximization algorithm22 was used to estimate each of the probabilities that the links were accurate (true links) versus not (nonlinks). Using these probabilities, linking weights were defined as the log of the ratio of the true link versus nonlink probabilities for each record. These probabilities and linking weights were estimated individually for each site. Figure 1 displays the distribution of linking weights for 1 MOW site. The dotted vertical line represents an optimal weight threshold that was calculated to simultaneously minimize the false negative rate and the false positive rate,21 thereby providing the greatest proportion of unique links while maintaining high precision. The list of linked records was derived from record pairs with the highest linking weights above the threshold. Record pairs not uniquely linked were omitted from the final sample because of the uncertainty in determining which pair was the true match. While the success of the linkage varied by site (ranging from 82.8% to 93.2%), 25,279 (85.7%) of the MOW clients were uniquely matched. Of these uniquely matched individuals, we excluded 389 linked MOW clients who did not appear in the MBSF on the date that they began MOW service and instead appeared in previous or subsequent years. The remaining 24,890 clients represented our final sample for further analysis.
+
+Examining Clients’ Health and Health Care Utilization
+To obtain information on clients’ health and health care utilization, we linked the Medicare-matched clients (heretofore referred to as MOW-Medicare) to the RHF. We excluded MOW-Medicare clients who had any Medicare Advantage (MA) coverage in the year before receiving MOW (n = 10,554), or those who were enrolled in MA during the month that they began MOW (n = 71). Because MA plans are not required to submit claims, it was not possible to observe these beneficiaries’ claims-derived chronic conditions or health care utilization before MOW enrollment. Thus, only MOW-Medicare clients that were fee-for-service (FFS) the entire year before receiving meals were examined.
+
+Using the RHF, we identified the site of care for the remaining 14,265 MOW-Medicare beneficiaries on the date that they began receiving services from MOW. Because MOW programs vary in their precision of reported start dates (eg, some record the start date as the date of referral, others as the date of the initial assessment, and others as the date of first delivery), we identified some clients whose reported MOW start date coincided with a day of inpatient covered services. For these individuals, we assigned their MOW start date as the date that they returned to the community if it was within 30 days from the MOW-reported start date. The remaining individuals who were still in an inpatient setting within 30 days after their MOW start date were excluded from the sample as they were believed to be potentially poor matches or have inaccurate MOW start dates (n = 246). This exclusion resulted in a final analytic sample of 14,019 MOW-Medicare clients.
+
+To highlight the utility of these data, preexisting medical conditions and Medicaid dual-eligibility for the linked sample are compared with the general Medicare population in the geographic areas that our sample of MOW sites service. In addition, we calculated the number of inpatient, ED (including observation), and NH events that occurred in the 6 months before and after enrollment in MOW for our final analytic sample of MOW-Medicare clients.
+
+RESULTS
+Descriptive Characteristics of Sample
+Demographic characteristics of the entire MOW sample are presented in Table 1. The age and sex proportions are similar for the sample of MOW clients excluded from linking and those eligible for linking. Because a large proportion (44.1%) of the group who was excluded from linking had a MOW service start date before 2010, their length of service is longer on average compared with those eligible for linking. Among those who were eligible for linking, the age distribution is similar between those in our final sample, those in MA plans, and those not linked. However, individuals who were not uniquely linked tended to be younger. The proportion of females in the linked group was 1.5% lower than the linked MA sample, 9.2% lower than those not uniquely linked, and 7.3% higher than the individuals that were not linked. Among our final analytic sample of linked MOW-Medicare clients, the majority were female (62.9%), between the ages of 80 and 84 years (21.1%), white (73.8%), and received MOW for &lt;6 months (41.1%).
+
+Table 2 displays the Medicaid dual-eligibility, chronic conditions, and race/ethnicity of the linked MOW-Medicare sample against the general Medicare population in the regions served by the 13 MOW programs. MOW clients in our sample have higher rates of Medicaid dual-eligibility and chronic conditions than the general population of FFS Medicare beneficiaries in the surrounding community. The sample of MOW clients are also more likely to be black and less likely to be Hispanic or Asian compared with their counterparts.
+
+Baseline Health Care Utilization Before MOW Enrollment
+Table 3 depicts the rates of inpatient hospitalizations, ED use (including observation stays), and NH utilization in the 6 months before receiving MOW. For the sample of MOW-Medicare clients with any utilization, we also present the average number of events in the 6 months before receiving MOW. Overall, 31.6% of MOW-Medicare clients had an inpatient hospitalization in the 6 months before receiving MOW. Of those who were hospitalized, they had an average of 1.49 separate hospitalizations in the 6 months before MOW enrollment. The rates of prior inpatient hospitalizations varied by program, from 18.4% to 38.6%. Approximately 25% of the MOW-Medicare clients in our sample were admitted to the ED in the 6 months before starting MOW, which varied from 14.3% to 30.5% across MOW sites. Approximately 13% of MOW-Medicare clients received care in a NH, averaging 1.71 NH admissions during the 6 months before enrollment in MOW. Site differences in NH utilization, ranging from 6% to 26% of clients in each program, were also observed. Altogether, 46% of MOW participants experienced some institutional event (hospital/ED/NH) in the 6 months before MOW enrollment, ranging from 27.7% to 57.6% across the programs.
+
+Health Care Utilization After MOW Enrollment
+In the 6 months after MOW enrollment, 996 individuals died and 1918 individuals converted to MA. Among MOW-Medicare enrollees who were alive and FFS for the entire follow-up period, Table 3 presents their rates of inpatient hospitalization, ED use, and NH utilization after enrollment in MOW. Overall, 24.2% of MOW-Medicare clients had an inpatient hospitalization during the follow-up period, ranging from 13% to 29.5% across the programs. A little over 19% of MOW-Medicare clients were admitted to the ED during the follow-up period. This also varied by site from 12.2% to 24.7% of clients. Approximately 9.5% of MOW-Medicare clients received care in a NH during the follow-up period, averaging 1.9 NH admissions. Differences in NH utilization by site ranged from 5.6% to 18.7% of clients. The rates of any institutionalization (hospital/ED/NH) showed that 35.8% experienced an event during the follow-up period, with site rates ranging from 18.9% to 42% of clients.
+
+DISCUSSION
+This paper demonstrates an approach to linking social service administrative data with health care claims when a unique identifier is not available, as well as the utility and analyses that the linked data facilitate. Specifically, we present an applied methodology to link MOW program data to Medicare claims, which can be replicated and expanded to include data from other community-based social service organizations. Ultimately, this unique dataset and others like it will enable further evaluation of the characteristics of clients and the impact that community-based social service programs have on clients’ health and health care utilization. Furthermore, the information afforded through analyses of this newly linked dataset can add to the growing body of literature documenting the relationship between services received from home-delivered meals programs and clients’ well-being.
+
+Much of what we knew previously about the health and health care utilization of MOW clients came from participants’ self-report.23–26 The linkage of MOW program data to Medicare claims enables research into clients’ health and health care utilization, as well as costs to the Medicare program associated with enrollment in these programs that is not limited by potential response bias. Using these linked data, we confirmed that the sample of Medicare beneficiaries receiving MOW represent a vulnerable group with many comorbidities compared with that of Medicare beneficiaries in the surrounding service areas. In addition, with these data we observed the rates of hospital, ED, and NH utilization in the 6 months after enrollment in MOW were lower for MOW clients compared with the rates before initiation of services. Further work is needed to understand if these changes can be attributable to the MOW program and is made possible with these linked data.
+
+This approach and these newly linked data hold value to MOW programs, policymakers, and health services researchers, alike. For example, the ability to compare the characteristics of MOW clients to the general older adult population in the same catchment area will be helpful in identifying any gaps in service fulfillment and improve targeting of this program to those most in need. In addition, these linked data will be useful in identifying characteristics of MOW clients who are at high risk of adverse health outcomes. This information can enable programs to recognize clients who could benefit from additional supportive services or additional monitoring and safety checks. Finally, these data allow for quasiexperimental analyses to examine the impact of MOW as an intervention. With access to health care claims for the full population of Medicare beneficiaries, it is possible to match a control group of Medicare beneficiaries with similar demographic and medical characteristics who do not receive services from MOW programs in the same geographic area. Identification of a matched control group will enable a comparison in the utilization trends of similar individuals receiving MOW.
+
+The linking technique that we present is a scalable method to examine the outcomes of Medicare beneficiaries receiving nutrition services from MOW. For example, we only required fundamental identifying information about the clients of a MOW program, which was readily provided by MOW America member programs. The amount of information that these programs record about their clients generally exceeds what we used as linking criteria, which indicates the possibility to replicate our techniques with client lists from other programs to create a significantly larger MOW-Medicare cohort to study.
+
+In addition, it is possible to link other data, such as the Medicaid Analytic Extract (MAX), to ask and answer additional questions about subgroups of individuals receiving MOW. For example, with MAX data linked to the MOW-Medicare dataset, researchers can investigate the characteristics and outcomes of individuals who receive home-delivered meals from MOW programs through 1115 or 1915c Home and Community-Based Service Waivers as well as what additional long-term services and supports these clients utilize. Additional work could examine the ability to link data about MOW clients who receive Medicaid and not yet of Medicare age (22.7% of the original sample) to MAX data to examine their health service utilization.
+
+Limitations
+There are some limitations of the data to note. Because the data consist of a nonrandom sample of 13 MOW programs and are limited to clients age 66+ years, they are neither geographically nor demographically representative of the entire population of MOW clients. Further, despite similar demographic characteristics between Medicare FFS and MA MOW clients, the reported health outcomes are only applicable to MOW clients with Medicare FFS coverage in the 6 months before and after receiving MOW. These factors limit the generalizability of the results generated from these data.
+
+There are also some limitations to the probabilistic linking of MOW clients to the MBSF. Although probabilistic linking increases the number of links identified by loosening the linking criteria, it may also increase the number of erroneously matched individuals. As we are unable to assess the validity of the linked MOW sample, it will be necessary to account for the possible error in the linkage when estimating health outcomes. There is also a portion of MOW clients that did not link with the MBSF; they were more likely to be male than those who successfully matched with a Medicare beneficiary. In addition, individuals who did not have a unique link and were excluded from the final sample were more likely to be younger and female than the uniquely linked MOW individuals. This might suggest that there are nonrandom factors contributing to differences in how identifying information is maintained. Therefore, the generalizability of the results may be limited only to individuals with a Medicare record link.
+
+CONCLUSIONS
+In conclusion, the linkage techniques presented here will be valuable to understanding the value of social service programs in improving the health and health care utilization of the clients that they serve. The newly linked MOW and Medicare data provide detailed, valuable information not previously available for Medicare beneficiaries who receive home-delivered meals from MOW programs. This new dataset holds great possibility for assessing associations and effects of receiving services from MOW on these programs’ clients.
+
+Supported by a grant from the Gary and Mary West Foundation and a Career Development Award from the Health Services Research and Development Service of the US Department of Veterans Affairs (CDA 14-422 to K.S.T.).
+
+The views expressed in this article are those of the authors and do not necessarily reflect the position or policy of the Department of Veterans Affairs or the United States government.
+
+The authors declare no conflict of interest.
+
+FIGURE 1. Probabilistic linkage weight distribution. The dotted line represents the weight cutoff threshold, above which the record pair with the highest linking weights are classified as links.
+
+TABLE 1. Demographic Characteristics of MOW Clients, by Linking Outcome (N = 51,439)
+
+	n (%)	
+	Excluded From Linking (N = 21,938)*	Not Linked (N = 2822)†	Not Uniquely Linked (N = 1400)‡	Uniquely Linked but not Medicare Fee-for-Service (N = 11,260)	Linked and Included in Final Sample (N = 14,019)	
+Age group (y)						
+ &lt; 66	12,026	—	—	—	—	
+ 66–69	1454 (14.7)	402 (14.2)	403 (28.8)	1512 (13.4)	1955 (13.9)	
+ 70–74	1691 (17.1)	410 (14.5)	261 (18.6)	1567 (13.9)	2044 (14.6)	
+ 75–79	1947 (19.6)	467 (16.5)	240 (17.1)	2019 (17.9)	2339 (16.7)	
+ 80–84	2259 (22.8)	565 (20.0)	224 (16.0)	2538 (22.5)	2959 (21.1)	
+ 85–89	1737 (17.5)	589 (20.9)	204 (14.6)	2286 (20.3)	2918 (20.8)	
+ 90+	824 (8.3)	389 (13.8)	68 (4.9)	1338 (11.9)	1804 (12.9)	
+Sex						
+ Male	8057 (36.7)	1252 (44.4)	390 (27.9)	4012 (35.6)	5199 (37.1)	
+ Female	13,645 (62.2)	1570 (55.6)	1010 (72.1)	7248 (64.4)	8820 (62.9)	
+ Missing/other	236 (1.1)	0 (0.0)	0 (0.0)	0 (0.0)	0 (0.0)	
+Length of MOW service						
+ 1–30 d	1248 (5.7)	445 (15.8)	187 (13.4)	2053 (18.2)	2053 (14.6)	
+ 31–90 d	1480 (6.7)	452 (16.0)	187 (13.4)	1911 (17.0)	2057 (14.7)	
+ 91–180 d	1422 (6.5)	380 (13.5)	170 (12.1)	1320 (11.7)	1655 (11.8)	
+ 181–365 d	2447 (11.2)	441 (15.6)	224 (16.0)	1617 (14.4)	1985 (14.2)	
+ 1–5 y	9292 (42.4)	832 (29.5)	457 (32.6)	3674 (32.6)	4361 (31.1)	
+ 5+ y	3909 (17.8)	34 (1.2)	26 (1.9)	133 (1.2)	180 (1.3)	
+ Missing§	2140 (9.8)	238 (8.4)	149 (10.6)	552 (4.9)	1728 (12.3)	
+* These individuals are excluded from linking because they are either age 65 years or younger or enrolled in MOW before January 1, 2010.
+
+† These individuals did not have linking weights with any observation in the Medicare data that exceeded the weight threshold and were therefore deemed not linked.
+
+‡ These were MOW individuals that linked with multiple Medicare beneficiaries or multiple MOW individuals linked to the same Medicare beneficiary, and dropped from the final sample.
+
+§ One MOW program did not provide service end dates, which is reflected in the number of missing values.
+
+MOW indicates Meals on Wheels.
+
+TABLE 2. Health Characteristics of Medicare FFS Beneficiaries and Linked MOW Clients in Geographic Regions Served by the Sample of MOW Programs
+
+	n (%)	
+	Linked MOW Sample (N = 14,019)	Medicare FFS Sample (N = 1,112,735)	
+Dual-eligibility			
+ Dually eligible for Medicare and Medicaid	3988 (28.5)	233,027 (21.2)	
+Conditions			
+ Hypertension	12,560 (89.6)	691,073 (62.9)	
+ Hyperlipidemia	11,041 (78.8)	635,148 (57.8)	
+ Anemia	9792 (69.9)	442,019 (40.2)	
+ Rheumatoid/osteoarthritis	9378 (66.9)	416,562 (37.9)	
+ Ischemic heart disease	8788 (62.7)	384,588 (34.6)	
+ Heart failure	6583 (47.0)	220,809 (20.1)	
+ Diabetes	6574 (46.9)	298,045 (27.1)	
+ Depression	6060 (43.2)	264,446 (24.1)	
+ COPD	5431 (38.7)	240,708 (21.9)	
+ Chronic kidney disease	5184 (37.0)	167,247 (15.2)	
+ Osteoporosis	4190 (29.9)	177,836 (16.2)	
+ Alzheimer’s/related or senile dementia	3995 (28.5)	119,244 (10.9)	
+ Stroke/TIA	3445 (24.6)	120,686 (11.0)	
+ Atrial fibrillation	3025 (21.6)	106,088 (9.7)	
+Race/ethnicity			
+ White	10,343 (73.8)	821,875 (73.9)	
+ Black	2622 (18.7)	149,427 (13.4)	
+ Hispanic	455 (3.3)	45,378 (4.1)	
+ Asian	354 (2.5)	59,772 (5.4)	
+ Other	185 (1.3)	30,662 (2.8)	
+ Native American	40 (0.3)	2513 (0.2)	
+ Unknown	20 (0.1)	3108 (0.3)	
+Data come from Medicare Master Beneficiary Summary File, including the chronic conditions segment.
+
+COPD indicates chronic obstructive pulmonary disease; FFS, fee-for-service; MOW, Meals on Wheels; TIA, transient ischemic attack.
+
+TABLE 3. Health Care Utilization in the 6 Months Before and 6 Months After MOW Enrollment Among the Sample of Medicare Beneficiaries Receiving MOW (N = 14,019)
+
+	180 d Before MOW Enrollment	180 d After MOW Enrollment	
+Inpatient hospitalization*			
+ At least 1 hospitalization [n (%)]	4425 (31.56)	2911 (24.15)	
+ No. hospitalizations [mean (SD)]†	1.49 (0.91)	1.77 (1.16)	
+ 10th percentile (N)	1	1	
+ 90th percentile (N)	2	3	
+Emergency department visit*			
+ At least 1 emergency department visit [n (%)]	3486 (24.87)	2326 (19.29)	
+ No. visits [mean (SD)]†	1.60 (1.32)	1.55 (1.31)	
+ 10th percentile (N)	1	1	
+ 90th percentile (N)	3	3	
+Nursing home admission‡			
+ At least 1 nursing home admission [n (%)]	1819 (12.98)	1236 (9.49)	
+ No. admissions [mean (SD)]†	1.71 (1.26)	1.90 (1.47)	
+ 10th percentile (N)	1	1	
+ 90th percentile (N)	3	4	
+Any event*			
+ At least 1 event [n (%)]	6455 (46.04)	4319 (35.83)	
+* Denominator for the follow-up period is the 12,055 individuals who neither died (n = 996) nor switched to Medicare Advantage (n = 1918) during the 6-month follow-up period.
+
+† Among those with at least 1 event.
+
+‡ Denominator for the follow-up period is the 13,023 individuals who remained alive during the 6-month follow-up period.
+
+MOW indicates Meals on Wheels.
+
+
+   REFERENCES
+1. Centers for Medicare and Medicaid Services . Accountable health communities model . 2017 
+Available at: https://innovation.cms.gov/initiatives/ahcm/. 
+Accessed February 23, 2018.
+2. Gollub EA , Weddle DO . Improvements in nutritional intake and quality of life among frail homebound older adults receiving home-delivered breakfast and lunch . J Am Diet Assoc . 2004 ;104 :1227 –1235 .15281039 
+3. Zhu H , An R . Impact of home-delivered meal programs on diet and nutrition among older adults: a review . Nutr Health . 2013 ;22 :89 –103 .24916974 
+4. Sahyoun NR , Vaudin A . Home-delivered meals and nutrition status among older adults . Nutr Clin Pract . 2014 ;29 :459 –465 .25030738 
+5. Thomas KS , Parikh RB , Zullo AR , 
+Home-delivered meals and risk of self-reported falls: results from a randomized trial . J Appl Gerontol . 2018 ;37 :41 –57 .27798291 
+6. Thomas KS , Mor V . Providing more home-delivered meals is one way to keep older adults with low care needs out of nursing homes . Health Aff (Millwood) . 2013 ;32 :1796 –1802 .24101071 
+7. Thomas KS , Mor V . The relationship between older Americans Act Title III state expenditures and prevalence of low-care nursing home residents . Health Serv Res . 2013 ;48 :1215 –1226 .23205536 
+8. Xu H , Weiner M , Paul S , 
+Volume of home- and community-based Medicaid waiver services and risk of hospital admissions . J Am Geriatr Soc . 2010 ;58 :109 –115 .20002513 
+9. Berkowitz SA , Terranova J , Hill C , 
+Meal delivery programs reduce the use of costly health care in dually eligible Medicare and Medicaid beneficiaries . Health Aff (Millwood) . 2018 ;37 :535 –542 .29608345 
+10. Thomas KS , Akobundu U , Dosa D . More than a meal? A randomized control trial comparing the effects of home-delivered meals programs on participants’ feelings of loneliness . J Gerontol B Psychol Sci Soc Sci . 2016 ;71 :1049 –1058 .26613620 
+11. Wright L , Vance L , Sudduth C , 
+The impact of a home-delivered meal program on nutritional risk, dietary intake, food security, loneliness, and social well-being . J Nutr Gerontol Geriatr . 2015 ;34 :218 –227 .26106989 
+12. Mabli J , Gearan E , Cohen R , 
+Evaluation of the Effect of the Older Americans Act Title III-C Nutrition Services Program on Participants’ Food Security, Socialization, and Diet Quality . Cambridge, MA : Mathematica Policy Research ; 2017 
+Available at: www.acl.gov/sites/default/files/programs/2017-07/AoA_outcomesevaluation_final.pdf. 
+Accessed February 23, 2018.
+13. Campbell AD , Godfryd A , Buys DR , 
+Does participation in home-delivered meals programs improve outcomes for older adults? Results of a systematic review . J Nutr Gerontol Geriatr . 2015 ;34 :124 –167 .26106985 
+14. Kamp BJ , Wellman NS , Russell C . Position of the American Dietetic Association, American Society for Nutrition, and Society for Nutrition Education: food and nutrition programs for community-residing older adults . J Nutr Educ Behav . 2010 ;42 :72 –82 .20219721 
+15. Meals on Wheels America New survey details impact of sequester on Meals On Wheels Programs . 2013 
+Available at: www.mealsonwheelsamerica.org/docs/default-source/News-Assets/june-2013-sequester-survey-announcement.pdf?sfvrsn=2. 
+Accessed December 1, 2016.
+16. Intrator O , Hiris J , Berg K , 
+The residential history file: studying nursing home residents’ long-term care histories . Health Serv Res . 2011 ;46 :120 –137 .21029090 
+17. Fellegi IP , Sunter AB . A theory for record linkage . J Am Stat Assoc . 1969 ;64 : 1183 –1210 .
+18. R Core Team . R: A language and environment for statistical computing . R Foundation for Statistical Computing 
+Vienna, Austria 
+2017 
+Available at: www.R-project.org/. 
+Accessed Febraury 23, 2018.
+19. SAS Institute Inc . SAS/IML 141 User’s Guide . Cary, NC : SAS Institute Inc. ; 2015 .
+20. Newcombe HB , Kennedy JM . Handbook of Record Linkage: Methods for Health and Statistical Studies, Administration, and Business 
+Oxford : Oxford University Press ; 1988 .
+21. Tromp M , Reitsma JB , Ravelli AC , 
+Record linkage: making the most out of errors in linking variables . AMIA Annu Symp Proc . 2006 ;2006 : 779 –783 .
+22. Winkler WE . Using the EM algorithm for weight computation in the Fellegi-Sunter model of record linkage. Proceedings of the section on survey research methods . Am Stat Assoc 
+1988 ;1988 :667 –671 .
+23. Thomas K , Dosa D . More than a meal: results from a pilot randomized control trial of home-delivered meal programs . Funded by AARP Foundation 
+2015 .
+24. Trebino JSBL . Results from the Administration on Agings Third National Survey of Older Americans Act Program Participants . Mathematica Policy Research 
+2008 .
+25. Cho J , Thorud JL , Marishak-Simon S , 
+A model home-delivered meals program to support transitions from hospital to home . J Nutr Gerontol Geriatr . 2015 ;34 :207 –217 .26106988 
+26. Buys DR , Campbell AD , Godfryd A , 
+Meals enhancing nutrition after discharge: findings from a pilot randomized controlled trial . J Acad Nutr Diet . 2017 ;117 :599 –608 .28065635 
+

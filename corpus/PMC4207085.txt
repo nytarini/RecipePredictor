@@ -1,0 +1,479 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10123317032527Cell MetabCell Metab.Cell metabolism1550-41311932-742024768298420708510.1016/j.cmet.2014.03.024NIHMS580405ArticleLeptin-Mediated Increases in Catecholamine Signaling Reduce Adipose Tissue Inflammation via Activation of Macrophage HDAC4 Luan Bing 1Goodarzi Mark O. 3Phillips Naomi G. 1Guo Xiuqing 4Chen Yii-Der I. 4Yao Jie 4Allison Matthew 5Rotter Jerome I. 4Shaw Reuben 2Montminy Marc 11 Peptide Biology Laboratories, Salk Institute, 10010 N. Torrey Pines Rd., La Jolla, CA 92037 USA2 Molecular and Cellular Biology Laboratories, Salk Institute, 10010 N. Torrey Pines Rd., La Jolla, CA 92037 USA3 Division of Endocrinology, Diabetes and Metabolism, Department of Medicine, Cedars-Sinai Medical Center, 8700 Beverly Blvd., Los Angeles, CA 90048 USA4 Institute for Translational Genomics and Population Sciences, Los Angeles BioMedical Research Institute at Harbor-UCLA Medical Center, 1124 W. Carson St., Torrance, CA 90502 USA5 Diabetes Research Center, University of California, San Diego, School of Medicine, 9500 Gilman Drive, La Jolla, CA 92093 USACorrespondence: Marc Montminy MD, PhD, Salk Institute, montminy@salk.edu, 858-453-4100 x139413 5 2014 24 4 2014 3 6 2014 03 6 2015 19 6 1058 1065 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.SUMMARY
+Obesity promotes systemic insulin resistance through inflammatory changes that lead to the release of cytokines from activated macrophages. Although the mechanism is unclear, the second messenger cAMP has been found to attenuate macrophage activity in response to a variety of hormonal signals. We show that, in the setting of acute over-nutrition, leptin triggers catecholamine-dependent increases in cAMP signaling that reduce inflammatory gene expression via the activation of the histone deacetylase HDAC4. cAMP stimulates HDAC4 activity through the PKA-dependent inhibition of the salt inducible kinases (SIKs), which otherwise phosphorylate and sequester HDAC4 in the cytoplasm. Following its dephosphorylation, HDAC4 shuttles to the nucleus where it inhibits NFkB activity over pro-inflammatory genes. As variants in the HDAC4 gene are associated with obesity in humans, our results indicate that the cAMP-HDAC4 pathway functions importantly in maintaining insulin sensitivity and energy balance via its effects on the innate immune system.
+
+
+   INTRODUCTION
+Obesity is associated with a chronic inflammatory state that contributes to the development of insulin resistance (Hotamisligil, 2006). Activation of the Inhibitor of Kappa B kinase β (IKKβ) in macrophages stimulates the release of inflammatory mediators that promote insulin resistance (Arkan et al., 2005; Yuan et al., 2001); indeed, disruption of NF-κB activity through deletion of IKKβ increases insulin sensitivity (Arkan et al., 2005).
+
+The second messenger cAMP has been found to exert potent anti-inflammatory effects on macrophage function through induction of the Ser/Thr kinase PKA (Aronoff et al., 2005). A number of bacteria including Mycobacterium tuberculosis (Agarwal et al., 2009) and Bacillus anthracis (Tang and Guo, 2009) have been shown to evade the immune system by stimulating cAMP production.
+
+cAMP regulates cellular gene expression via activation of the CREB/CRTC pathway and via induction of class II HDACs (Altarejos and Montminy, 2011; Mihaylova et al., 2011; Wang et al., 2011). In the basal state, CRTCs and class IIa HDACs are both sequestered in the cytoplasm through phosphorylation by salt-inducible kinases (SIKs). Exposure to cAMP agonist inhibits SIK activity through PKA-mediated phosphorylation, leading to their de-phosphorylation and nuclear entry. Here we explore the role of both pathways in mediating anti-inflammatory effects of catecholamines on cytokine gene expression. We found a dominant role for one of these in down-regulating NF-κB activity in macrophages, particularly in the setting of over-nutrition. Our results point to new potential approaches for the treatment of individuals with insulin resistance.
+
+RESULTS AND DISCUSSION
+We tested acute effects of cAMP on the inflammatory response to bacterial lipopolysaccharide (LPS). Administration of LPS (30mg/kg) into adult C57BL/6J mice increased circulating concentrations of the pro-inflammatory cytokines (TNFα, IL12β) and promoted lethality within 1–2 days (Figures 1A,B and S1A). Co-administration of the phospho-diesterase 4 (PDE4) inhibitor Rolipram (5mg/kg) blocked effects of LPS on cytokine release and survival (Figures 1 and S1) (Herve et al., 2008). Moreover, exposure of cultured bone marrow macrophages (BMMs) to prostaglandin E2 (PGE2), a paracrine hormone that stimulates cAMP production (Okonogi et al., 1991), reduced pro-inflammatory cytokine mRNA amounts and secretion from cultured cells exposed to LPS (Figures 1C,D and S1B). We observed similar effects using the β2 adrenergic receptor agonist isoproterenol or the cell permeable cAMP analog 8-Br-cAMP. In keeping with their stimulatory effects on the cAMP pathway, exposure of BMMs to bacterial toxins such as pertussis toxin, cholera toxin, or edema factor also lowered cytokine gene expression (Figure S1C).
+
+The TLR signaling pathway has been shown to stimulate a signaling cascade that culminates in the activation of NF-κB (Hayden and Ghosh, 2008; Takeda and Akira, 2004). Exposure to PGE2 did not interfere with the activation of P38 or JNK, or with the phosphorylation of either IκBα or the NF-κB subunit p65 in response to LPS (Figure 1E); but it blocked LPS-dependent increases in both p65 and histone H4K5 acetylation over cytokine promoters (Figure 1E,F). Consequently, p65 recruitment to the TNFα and IL12β promoters was reduced in cells co-treated with LPS plus PGE2 compared to LPS alone.
+
+Role of the CREB/CRTC Pathway in Macrophages
+Based on the ability for the CREB/CRTC pathway to stimulate the expression of the anti-inflammatory cytokine IL10 in macrophages (Clark et al., 2012; MacKenzie et al., 2013), we considered whether cAMP signals inhibit pro-inflammatory cytokine production via this mechanism. CRTC2 and CRTC3 were readily detected in cultured BMMs; they were confined to the cytoplasm under basal conditions and following exposure to LPS (Figure S2A,B). Co-treatment of LPS with PGE2 agonist triggered CRTC2/3 dephosphorylation and nuclear translocation. As a result, IL10 mRNA and protein secretion were upregulated in wild-type cells exposed to LPS plus PGE2 but less so in BMMs from CRTC2 knockout (KO) or CRTC3 KO mice (Figure S2C,D). In keeping with the reduction in IL10, TNFα and IL12β mRNA amounts were increased in CRTC2 and CRTC3 KO BMMs; we observed similar differences in IL10 KO cells (Figure S2F,G). Despite these changes, PGE2 was still effective in blocking p65 promoter recruitment and in down-regulating TNFα and IL12β production in CRTC2 KO and CRTC3 KO cells (Figure S2C–E). Taken together, these results suggest that the CREB/CRTC pathway exerts an anti-inflammatory role in BMMs via its effects on IL10, but that a second pathway also mediates effects of cAMP on NF-κB activity.
+
+Class IIa HDACs Mediate Effects of cAMP
+Having seen that exposure to cAMP promotes the deacetylation of p65 and histone H4K5, we evaluated the potential role of the cAMP/class IIa HDAC pathway in this setting. Of the three family members (HDAC 4, 5, 7), HDAC4 is the most highly expressed in macrophages (Figure S3A). Similar to the CRTCs, HDAC4 is phosphorylated at consensus SIK recognition sites and sequestered in the cytoplasm under basal conditions and following stimulation with LPS (Figure 2A,B). Exposure of wild-type BMMs to PGE2 in combination with LPS triggered HDAC4 dephosphorylation at Ser246 and nuclear translocation. As a result, HDAC4 recruitment to the TNFα and IL12β promoters increased in cells treated with PGE2+LPS compared to LPS alone (Figure 2C). Based on these effects, we tested whether HDAC4 associates with p65. Supporting this idea, we recovered endogenous p65 from IPs of endogenous HDAC4 that were prepared from BMMs exposed to LPS and PGE2 but not LPS alone (Figure S3C). We obtained similar results in co-IP studies using epitope-tagged p65 and HDAC4 expression vectors. Consistent with this association, over-expression of wild-type and to a greater extent phosphorylation-defective HDAC4 or HDAC5 decreased NF-κB reporter activity in cells co-expressing p65 (Figure S3B).
+
+To further evaluate the role of HDAC4 in modulating cytokine gene expression, we used BMMs from mice with a macrophage specific knockout of HDAC4 (HDAC4 MKO). Exposure of wild-type or HDAC4 MKO BMMs to LPS alone increased the acetylation and recruitment of p65 to cytokine promoters comparably (Figure 2A,D). By contrast with the inhibitory effects of PGE2 in control BMMs, however, exposure to PGE2 did not reduce amounts of acetylated p65 or down regulate p65 recruitment; and it did not diminish histone H4K5 acetylation over TNFα and IL12β promoters in HDAC4 MKO cells (Figure 2A,D,E). Consequently, TNFα and IL12β mRNA and protein secretion were nearly fully rescued in HDAC4 MKO BMMs co-stimulated with LPS and PGE2 relative to LPS alone (Figure S3D,E).
+
+We examined effects of HDAC4 MKO on the inflammatory response in vivo. LPS administration increased circulating concentrations of TNFα and IL12β and promoted lethality comparably in wild-type and HDAC4 MKO mice (Figure 2F). Although rolipram co-administration improved survival in LPS-treated control mice, it had modest effects in HDAC4 MKO littermates. These results demonstrate that HDAC4 associates with and inhibits NF-κB activity in response to cAMP.
+
+Role of SIKs in Regulating Class IIa HDACs
+cAMP has been shown to promote the dephosphorylation and nuclear shuttling of Class IIa HDACs through PKA-mediated inhibition of the SIKs (Berdeaux et al., 2007; Mihaylova et al., 2011; Wang et al., 2011). Based on the importance of the master kinase LKB1 in activating SIKs, we evaluated effects of LKB1 gene disruption on HDAC4 activity. Knockout of LKB1 in BMMs led to HDAC4 dephosphorylation and nuclear translocation (Figure 3A,B). Indeed, HDAC4 occupancy over the TNFα and IL12β promoters was constitutively elevated in LKB1 mutant cells (Figure 3C). As a consequence, p65 acetylation and promoter recruitment were reduced in LKB1 KO BMMs, leading to decreases in cytokine production (Figure 3). Indeed, reducing SIK activity, with a small molecule inhibitor (staurosporine), or by RNAi-mediated knockdown of SIK expression, decreased cytokine gene expression in BMMs exposed to LPS (Figure S4). These results support the idea that cAMP modulates cytokine gene expression through inactivation of the LKB1/SIK pathway and consequent induction of class IIa HDACs.
+
+Role of HDAC4 in Obesity
+Over-nutrition triggers leptin-mediated increases in sympathetic nerve activity that stimulate the mobilization of triglycerides from adipose. Leptin injection into ob/ob mice upregulated circulating concentrations of norepinephrine as well as cAMP content in epididymal fat pads (Figure 4A). The rise in cAMP appeared to be catecholamine dependent, because it was blocked by administration of β adrenergic antagonist. In keeping with these effects, leptin administration also promoted HDAC4 de-phosphorylation in WAT; these effects were propranolol-sensitive (Figure S3H). As a result, leptin stimulated the nuclear translocation of HDAC4 in adipose resident macrophages (Figure 4B).
+
+Short term HFD feeding (4weeks) also triggered increases in circulating norepinephrine that stimulated the cAMP-HDAC4 pathway in adipose tissue macrophages (Figure S3). But long-term (12weeks) HFD feeding had more modest effects on HDAC4 dephosphorylation, reflecting increases in leptin resistance that attenuate sympathetic nerve activity in WAT.
+
+Obesity has been shown to promote insulin resistance through increases in macrophage infiltration into white adipose tissue and liver (Arkan et al., 2005; Hotamisligil, 2006). Based on its inhibitory effects on NF-κB activity, we wondered whether the cAMP-HDAC4 pathway protects against insulin resistance. To test this notion, we evaluated effects of HFD feeding in HDAC4 MKO versus wild-type littermates. Although they were similar to controls on normal chow, HDAC4 MKO mice had higher circulating glucose and free fatty acid concentrations after 8 weeks on a HFD (Figure 4C). Insulin levels were also elevated in HDAC4 MKO mice; they became glucose intolerant and had reduced glucose clearance (Figure 4D). Consistent with these profiles, macrophage infiltrates in WAT and triglyceride accumulation in liver were more pronounced in HFD-fed HDAC4 MKO versus control mice (Figures 4E and S3).
+
+We tested whether induction of the cAMP pathway improves insulin sensitivity via an HDAC4-dependent mechanism. Rolipram administration for 7 days improved glucose tolerance and insulin sensitivity in wild-type but not HDAC4 MKO littermates under HFD conditions (Figure 4F). These results demonstrate that HDAC4 acts downstream of cAMP in macrophages.
+
+Superimposed on these metabolic changes, HDAC4 MKO mice gained more weight on a HFD, and they had increased adiposity (Figure 4G,H). Indeed, HDAC4 MKO mice had increased food intake with decreased oxygen consumption as well as physical activity (Figure S3J,K). Realizing that these increases in body weight could contribute to inflammatory changes in HDAC4 MKO mice, we evaluated these animals after 4 weeks of HFD feeding, when body weights and adiposity in HDAC4 mutants are comparable to controls (Figure S3L). Consistent with their increases in adipose tissue macrophages, HDAC4 MKO mice were more glucose intolerant and insulin resistant by GTT and ITT testing.
+
+Based on the effects of HDAC4 in mice, we sought evidence of a similar role for class IIa HDACs in humans, via a two-stage genetic association study of the HDAC4 (chromosome 2q37.3), HDAC5 (chromosome 17q21), and HDAC7A (chromosome 12q13.1) genes, conducted in the Multi-Ethnic Study of Atherosclerosis (MESA). In the first stage, we assessed association of variants in these three genes with body mass index and waist circumference in 2268 white subjects. Seventy HDAC4 SNPs were associated with BMI and 44 HDAC4 SNPs were associated with waist circumference; 30 of these SNPs were associated with both traits. The number of associations with BMI was well in excess of the number expected by chance (70 versus 25, χ2=19.5, P&lt;0.0001) as was the number of SNPs associated with waist circumference (44 versus 25, χ2=4.9, P=0.027). On the other hand, only a few (≤5) HDAC5 SNPs and no HDAC7A SNPs were associated with these traits. In the second stage (Tables S1 and S2), we found that a significant fraction of HDAC4 SNPs associated with BMI and waist circumference in whites were also associated with these traits in black and Chinese subjects. Most of these associations had the same direction of effect as those observed in whites. Remarkably, seven SNPs replicated in blacks were associated with both BMI and waist circumference; these SNPs were concentrated in the proximal end of the gene, particularly in intron 2, suggesting that this region of the gene harbors a functional variant that influences obesity in whites and blacks.
+
+Our results demonstrate that increases in sympathetic nerve activity in response to acute over-nutrition trigger the activation of two cAMP-responsive pathways-the CRTCs and class IIa HDACs. Both pathways inhibit the production of inflammatory mediators via induction of IL10 and repression of NF-κB, respectively. As IL10 has also been found to promote insulin sensitivity in the setting of diet-induced obesity (Hong et al., 2009), we imagine that the CRTC pathway may have salutary effects in this context. During the preparation of this manuscript, Abu-Farha et al reported that HDAC4 expression is down-regulated in adipose from obese subjects (Abu-Farha et al., 2013). Our results extend these studies by showing that disruption of HDAC4 in macrophages is sufficient to promote insulin resistance and obesity.
+
+In addition to HDAC4, a number of regulatory factors including SirT1 (Schug et al., 2010) and KLF4 (Liao et al., 2011) have been shown to modulate energy balance through their effects in macrophages. Alternatively activated M2 macrophages can modulate energy expenditure by secreting catecholamines and enhancing brown fat thermogenesis, for example (Nguyen et al., 2011). It is tempting to speculate that HDAC4 and other regulators may modulate energy expenditure through effects on a secreted factor.
+
+Experimental Procedures
+Cells
+Bone marrow macrophage cells (BMMs) were prepared from mouse bone marrow cells as described (Weischenfeldt and Porse, 2008).
+
+Mice
+C57BL/6J, ob/ob, LysMcre and Il10 Knockout (KO) mice were purchased from The Jackson Laboratory. CRTC2 and CRTC3 KO mice were described previously (Song et al., 2010; Wang et al., 2010). In studies with LKB1 KO macrophages, BMMs from floxed LKB1 mice (Bardeesy et al., 2002) were infected with cre-expressing or control GAL4-expressing lentivirus. HDAC4 fl/fl mice have been described (Vega et al., 2004). SIK3 KO mice (Uebi et al., 2012) were kindly provided by Hiroshi Takemori (Osaka). Floxed HDAC4 mice (Potthoff et al., 2007) were provided by Eric Olson (UTSW). Macrophage specific knockout of HDAC4 was obtained by a two-step cross of HDAC4 fl/fl mice with LysMcre mice.
+
+Cytokine and Metabolite Analysis
+Mice were injected with LPS (30 mg/kg) with or without Rolipram (5mg/kg) for 16 hours (h) and serum was obtained through cardiac puncture. BMMs were stimulated with LPS (10ng/ml) with or without PGE2 (100nM) for 16 hr and supernatant was collected.
+
+GTT, ITT
+For glucose tolerance testing, mice were fasted for 16 h and then injected i.p. with glucose (1.5 g/kg). For insulin tolerance testing, mice were fasted 2 h and injected i.p. with insulin (Humulin; 1 U/kg). Rolipram (5mg/kg/day) was injected i.p. for 7 days. Blood was collected from the tail vein and glucose levels were measured with a One Touch Ultra Glucometer (Johnson &amp; Johnson).
+
+Histology
+Tissues were fixed and paraffin embedded. Sections (5 µm) were used for haematoxylin and eosin staining or immunohistochemistry. For studies with adipose tissue macrophages, rehydrated antigen retrieved sections were incubated with F4/80 (Abcam) antiserum and visualized by the avidin–biotin-complex method using diaminobenzidine (Vector Labs).
+
+Chromatin Immunoprecipitation (ChIP)
+BMMs were plated in 150-mm plates and exposed to LPS (10ng/ml) with or without PGE2 (100nM) for 1 hr. ChIP assays were performed as described (Screaton et al., 2004). RNA was isolated by RNeasy kit (Qiagen). Primer sequences are shown in Table S3.
+
+Blotting and Immunostaining
+Immunoblot, immunoprecipitation, and immunostaining assays were performed as described (Altarejos et al., 2008). Anti-CRTC2 antibodies were described previously (Koo et al., 2005).
+
+Luciferase Reporter Assay
+HEK293T cells were transfected with NFκB-Luc reporter, RSV-βgal, and indicated plasmids for 48 h and luciferase assays were performed (Liu et al., 2008).
+
+Statistical analyses
+All studies were performed on at least three independent occasions. Results are reported as mean ± s.e.m. The comparison of different groups was carried out using two-tailed unpaired Student’s t-test or two-way Anova test. Differences were considered statistically significant at *P &lt; 0.05 and **P &lt; 0.01.
+
+Supplementary Material
+01  02  This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Acknowledgements
+We thank Eric Olson (UTSW) for floxed HDAC4 mice and Hiroshi Takemori (Osaka) for SIK3 KO mice. This work was supported by NIH grants R01-DK049777, R01-DK083834 and R01-DK091618, the Clayton Foundation for Medical Research, the Kieckhefer Foundation, and The Leona M. and Harry B. Helmsley Charitable Trust grant #2012-PG-MED002. The human study was supported by NIH grants R01-DK079888, R01-HL071205, and the Cedars-Sinai Winnick Clinical Scholars Award (to M.O.G). MESA and the MESA SHARe project are conducted and supported by the National Heart, Lung, and Blood Institute (NHLBI) in collaboration with MESA investigators. Support is provided by grants and contracts N01 HC-95159, N01-HC-95160, N01-HC-95161, N01-HC-95162, N01-HC-95163, N01-HC-95164, N01-HC-95165, N01-HC-95166, N01-HC-95167, N01-HC-95168, N01-HC-95169 and RR-024156.
+
+Funding for SHARe genotyping was provided by NHLBI Contract N02-HL-6-4278. The provision of genotyping data was supported in part by the National Center for Advancing Translational Sciences, CTSI grant UL1TR000124, and the National Institute of Diabetes and Digestive and Kidney Disease Diabetes Research Center (DRC) grant P30-DK063491 to the Southern California Diabetes Endocrinology Research Center.
+
+Figure 1 Anti-inflammatory effects of cAMP in macrophages. A. and B. Effect of LPS i.p. (30mg/kg) on survival (A) and circulating cytokine concentrations (B) in 12 week old C57Bl/6J mice. Co-injection of phospho-diesterase inhibitor rolipram (5mg/kg) indicated. (n = 8; for this and other figures *P&lt;0.05; **P&lt;0.01). C. and D. Effect of PGE2 on cytokine mRNA amounts (C) and protein secretion (D) from Bone Marrow Macrophages (BMMs) treated with LPS. E. Effect of PGE2 on LPS-induced increases in JNK or P38 activation, IκBα phosphorylation, and on p65 acetylation. Co-treatment with increasing concentrations of PGE2 indicated. F. Chromatin immunoprecipitation (ChIP) assay of p65 recruitment and histone H4K5 acetylation over TNFα and IL12β promoters in BMMs exposed to LPS and PGE2.
+
+Figure 2 Class IIa HDACs inhibit cytokine gene expression in response to cAMP. A. and B. Effect of LPS and PGE2 on HDAC4 de-phosphorylation (A) and cellular localization (B). A. Phospho (Ser246) HDAC4 amounts in control (HDAC4 fl/fl) and HDAC4 MKO cells exposed to LPS and PGE2. Amounts of acetylated and total p65 in wild-type and HDAC4MKO BMMs exposed to LPS plus PGE2 indicated. B. HDAC4 subcellular localization in BMMs exposed to LPS and PGE2. C. ChIP assay showing effects of PGE2 and LPS on HDAC4 recruitment to TNFα or IL12β promoters. D. and E. Effect of LPS and PGE2 on p65 occupancy (D) and histone H4K5 acetylation over TNFα and IL12β promoters (E) in BMMs from HDAC4 MKO or control littermates. F. Effect of LPS and rolipram administration on survival (left) and circulating cytokine concentrations (right) in control or HDAC4 MKO mice (n = 12).
+
+Figure 3 LKB1 regulates cytokine gene expression by modulating HDAC4 phosphorylation. A. and B. Effect of LPS and PGE2 on HDAC4 de-phosphorylation (A) and nuclear localization (B) in control (LKB1 fl/fl) and LKB1 KO BMMs. A. Phospho (S246) HDAC4 protein amounts in LKB1 KO cells. Amounts of acetylated and total p65 indicated. (C.) and (D.) ChIP assays showing HDAC4 (C) and p65 recruitment (D) to TNFα and IL12β promoters in control or LKB1 KO BMMs. E. and F. Cytokine mRNA amounts (E) and protein secretion (F) from BMMs exposed to LPS and PGE2 as indicated.
+
+Figure 4 Insulin resistance and obesity in HDAC4 MKO mice. A. Circulating norepinephine concentrations (left) and cAMP content in epididymal fat pads (right) of lean and ob/ob mice following intra-peritoneal (i.p.) injection with PBS or leptin (3ug/g) for 2hr (n = 3). Effect of propranolol (1ug/g) i.p. on cAMP content in leptin-treated mice (n = 3). B. HDAC4 localization in adipose tissue macrophages of lean and ob/ob mice. Mice were pre-injected with propranolol (1ug/g) or vehicle i.p. for 1hr followed by leptin (3ug/g) for 2hr (n = 3). Macrophages identified by co-staining with F4/80 antiserum. C. Circulating glucose, insulin, and free fatty acids in HDAC4 MKO compared to control littermates on a HFD for 8 weeks (n = 8). D. Glucose and Insulin tolerance testing of HDAC4 MKO and control (HDAC4 fl/fl) mice on a HFD for 8 weeks (n = 8). E. Macrophage infiltration in WAT by immunohistochemical (left) and Q-PCR (right) analyses. F. Effect of rolipram administration for 7 days on glucose and insulin tolerance in wild-type and HDAC4 MKO mice on a HFD for 12 weeks (n = 6). G. and H. Weight gain (G) (n = 8) as well as fat mass (n = 4) and circulating leptin levels (n = 8) (H) in HDAC4 MKO and control littermates.
+
+Research Highlights
+Leptin stimulates increases in cAMP signaling in adipose tissue macrophages.
+
+cAMP inhibits NFkB activity via activation of class IIa HDACs.
+
+Snps in the HDAC4 gene are associated with human obesity.
+
+Macrophage HDAC4 mediates anti-inflammatory effects of catecholamines in adipose.
+
+
+   References
+
+            Abu-Farha M  
+            Tiss A  
+            Abubaker J  
+            Khadir A  
+            Al-Ghimlas F  
+            Al-Khairi I  
+            Baturcam E  
+            Cherian P  
+            Elkum N  
+            Hammad M  
+            John J  
+            Kavalakatt S  
+            Warsame S  
+            Behbehani K  
+            Dermime S  
+            Dehbi M  
+           Proteomics Analysis of Human Obesity Reveals the Epigenetic Factor HDAC4 as a Potential Target for Obesity PLoS ONE 2013 8 e75342 24086512 
+
+            Agarwal N  
+            Lamichhane G  
+            Gupta R  
+            Nolan S  
+            Bishai WR  
+           Cyclic AMP intoxication of macrophages by a Mycobacterium tuberculosis adenylate cyclase Nature 2009 460 98 102 19516256 
+
+            Altarejos JY  
+            Goebel N  
+            Conkright MD  
+            Inoue H  
+            Xie J  
+            Arias CM  
+            Sawchenko PE  
+            Montminy M  
+           The Creb1 coactivator Crtc1 is required for energy balance and fertility Nat Med 2008 14 1112 1117 18758446 
+
+            Altarejos JY  
+            Montminy M  
+           CREB and the CRTC co-activators: sensors for hormonal and metabolic signals Nat Rev Mol Cell Biol 2011 12 141 151 21346730 
+
+            Arkan MC  
+            Hevener AL  
+            Greten FR  
+            Maeda S  
+            Li ZW  
+            Long JM  
+            Wynshaw-Boris A  
+            Poli G  
+            Olefsky J  
+            Karin M  
+           IKK-beta links inflammation to obesity-induced insulin resistance Nat Med 2005 11 191 198 15685170 
+
+            Aronoff DM  
+            Canetti C  
+            Serezani CH  
+            Luo M  
+            Peters-Golden M  
+           Cutting edge: macrophage inhibition by cyclic AMP (cAMP): differential roles of protein kinase A and exchange protein directly activated by cAMP-1 J Immunol 2005 174 595 599 15634874 
+
+            Bardeesy N  
+            Sinha M  
+            Hezel AF  
+            Signoretti S  
+            Hathaway NA  
+            Sharpless NE  
+            Loda M  
+            Carrasco DR  
+            DePinho RA  
+           Loss of the Lkb1 tumour suppressor provokes intestinal polyposis but resistance to transformation Nature 2002 419 162 167 12226664 
+
+            Berdeaux R  
+            Goebel N  
+            Banaszynski L  
+            Takemori H  
+            Wandless T  
+            Shelton GD  
+            Montminy M  
+           SIK1 is a class II HDAC kinase that promotes survival of skeletal myocytes Nat Med 2007 13 597 603 17468767 
+
+            Clark K  
+            MacKenzie KF  
+            Petkevicius K  
+            Kristariyanto Y  
+            Zhang J  
+            Choi HG  
+            Peggie M  
+            Plater L  
+            Pedrioli PG  
+            McIver E  
+            Gray NS  
+            Arthur JS  
+            Cohen P  
+           Phosphorylation of CRTC3 by the salt-inducible kinases controls the interconversion of classically activated and regulatory macrophages Proc Natl Acad Sci U S A 2012 109 16986 16991 23033494 
+
+            Hayden MS  
+            Ghosh S  
+           Shared principles in NF-kappaB signaling Cell 2008 132 344 362 18267068 
+
+            Herve R  
+            Schmitz T  
+            Evain-Brion D  
+            Cabrol D  
+            Leroy MJ  
+            Mehats C  
+           The PDE4 inhibitor rolipram prevents NF-kappaB binding activity and proinflammatory cytokine release in human chorionic cells J Immunol 2008 181 2196 2202 18641359 
+
+            Hong EG  
+            Ko HJ  
+            Cho YR  
+            Kim HJ  
+            Ma Z  
+            Yu TY  
+            Friedline RH  
+            Kurt-Jones E  
+            Finberg R  
+            Fischer MA  
+            Granger EL  
+            Norbury CC  
+            Hauschka SD  
+            Philbrick WM  
+            Lee CG  
+            Elias JA  
+            Kim JK  
+           Interleukin-10 prevents diet-induced insulin resistance by attenuating macrophage and cytokine response in skeletal muscle Diabetes 2009 58 2525 2535 19690064 
+
+            Hotamisligil GS  
+           Inflammation and metabolic disorders Nature 2006 444 860 867 17167474 
+
+            Koo SH  
+            Flechner L  
+            Qi L  
+            Zhang X  
+            Screaton RA  
+            Jeffries S  
+            Hedrick S  
+            Xu W  
+            Boussouar F  
+            Brindle P  
+            Takemori H  
+            Montminy M  
+           The CREB coactivator TORC2 is a key regulator of fasting glucose metabolism Nature 2005 437 1109 1111 16148943 
+
+            Liao X  
+            Sharma N  
+            Kapadia F  
+            Zhou G  
+            Lu Y  
+            Hong H  
+            Paruchuri K  
+            Mahabeleshwar GH  
+            Dalmas E  
+            Venteclef N  
+            Flask CA  
+            Kim J  
+            Doreian BW  
+            Lu KQ  
+            Kaestner KH  
+            Hamik A  
+            Clement K  
+            Jain MK  
+           Kruppel-like factor 4 regulates macrophage polarization J Clin Invest 2011 121 2736 2749 21670502 
+
+            Liu Y  
+            Dentin R  
+            Chen D  
+            Hedrick S  
+            Ravnskjaer K  
+            Schenk S  
+            Milne J  
+            Meyers DJ  
+            Cole P  
+            Yates J 3rd  
+            Olefsky J  
+            Guarente L  
+            Montminy M  
+           A fasting inducible switch modulates gluconeogenesis via activator/coactivator exchange Nature 2008 456 269 273 18849969 
+
+            MacKenzie KF  
+            Clark K  
+            Naqvi S  
+            McGuire VA  
+            Noehren G  
+            Kristariyanto Y  
+            van den Bosch M  
+            Mudaliar M  
+            McCarthy PC  
+            Pattison MJ  
+            Pedrioli PG  
+            Barton GJ  
+            Toth R  
+            Prescott A  
+            Arthur JS  
+           PGE(2) induces macrophage IL-10 production and a regulatory-like phenotype via a protein kinase A-SIK-CRTC3 pathway J Immunol 2013 190 565 577 23241891 
+
+            Mihaylova MM  
+            Vasquez DS  
+            Ravnskjaer K  
+            Denechaud PD  
+            Yu RT  
+            Alvarez JG  
+            Downes M  
+            Evans RM  
+            Montminy M  
+            Shaw RJ  
+           Class IIa histone deacetylases are hormone-activated regulators of FOXO and mammalian glucose homeostasis Cell 2011 145 607 621 21565617 
+
+            Nguyen KD  
+            Qiu Y  
+            Cui X  
+            Goh YP  
+            Mwangi J  
+            David T  
+            Mukundan L  
+            Brombacher F  
+            Locksley RM  
+            Chawla A  
+           Alternatively activated macrophages produce catecholamines to sustain adaptive thermogenesis Nature 2011 480 104 108 22101429 
+
+            Okonogi K  
+            Gettys TW  
+            Uhing RJ  
+            Tarry WC  
+            Adams DO  
+            Prpic V  
+           Inhibition of prostaglandin E2-stimulated cAMP accumulation by lipopolysaccharide in murine peritoneal macrophages J Biol Chem 1991 266 10305 10312 1645347 
+
+            Potthoff MJ  
+            Wu H  
+            Arnold MA  
+            Shelton JM  
+            Backs J  
+            McAnally J  
+            Richardson JA  
+            Bassel-Duby R  
+            Olson EN  
+           Histone deacetylase degradation and MEF2 activation promote the formation of slow-twitch myofibers J Clin Invest 2007 117 2459 2467 17786239 
+
+            Schug TT  
+            Xu Q  
+            Gao H  
+            Peres-da-Silva A  
+            Draper DW  
+            Fessler MB  
+            Purushotham A  
+            Li X  
+           Myeloid deletion of SIRT1 induces inflammatory signaling in response to environmental stress Mol Cell Biol 2010 30 4712 4721 20647536 
+
+            Screaton RA  
+            Conkright MD  
+            Katoh Y  
+            Best JL  
+            Canettieri G  
+            Jeffries S  
+            Guzman E  
+            Niessen S  
+            Yates JR 3rd  
+            Takemori H  
+            Okamoto M  
+            Montminy M  
+           The CREB coactivator TORC2 functions as a calcium- and cAMP-sensitive coincidence detector Cell 2004 119 61 74 15454081 
+
+            Song Y  
+            Altarejos J  
+            Goodarzi M  
+            Inoue H  
+            Guo X  
+            Berdeaux R  
+            Kim JH  
+            Goode J  
+            Igata M  
+            Paz J  
+            Hogan M  
+            Singh P  
+            Cui J  
+            Jones M  
+            consortium G  
+            consortium C  
+            Chen Y  
+            Taylor K  
+            Hsueh W  
+            Rotter J  
+            Montminy M  
+           CRTC3 Links Catecholamine Signaling to Energy Balance Nature 2010 468 933 939 21164481 
+
+            Takeda K  
+            Akira S  
+           TLR signaling pathways Seminars in immunology 2004 16 3 9 14751757 
+
+            Tang WJ  
+            Guo Q  
+           The adenylyl cyclase activity of anthrax edema factor Molecular aspects of medicine 2009 30 423 430 19560485 
+
+            Uebi T  
+            Itoh Y  
+            Hatano O  
+            Kumagai A  
+            Sanosaka M  
+            Sasaki T  
+            Sasagawa S  
+            Doi J  
+            Tatsumi K  
+            Mitamura K  
+            Morii E  
+            Aozasa K  
+            Kawamura T  
+            Okumura M  
+            Nakae J  
+            Takikawa H  
+            Fukusato T  
+            Koura M  
+            Nish M  
+            Hamsten A  
+            Silveira A  
+            Bertorello AM  
+            Kitagawa K  
+            Nagaoka Y  
+            Kawahara H  
+            Tomonaga T  
+            Naka T  
+            Ikegawa S  
+            Tsumaki N  
+            Matsuda J  
+            Takemori H  
+           Involvement of SIK3 in glucose and lipid homeostasis in mice PLoS ONE 2012 7 e37803 22662228 
+
+            Vega RB  
+            Matsuda K  
+            Oh J  
+            Barbosa AC  
+            Yang X  
+            Meadows E  
+            McAnally J  
+            Pomajzl C  
+            Shelton JM  
+            Richardson JA  
+            Karsenty G  
+            Olson EN  
+           Histone deacetylase 4 controls chondrocyte hypertrophy during skeletogenesis Cell 2004 119 555 566 15537544 
+
+            Wang B  
+            Moya N  
+            Niessen S  
+            Hoover H  
+            Mihaylova MM  
+            Shaw RJ  
+            Yates JR 3rd  
+            Fischer WH  
+            Thomas JB  
+            Montminy M  
+           A hormone-dependent module regulating energy balance Cell 2011 145 596 606 21565616 
+
+            Wang Y  
+            Inoue H  
+            Ravnskjaer K  
+            Viste K  
+            Miller N  
+            Liu Y  
+            Hedrick S  
+            Vera L  
+            Montminy M  
+           Targeted disruption of the CREB coactivator Crtc2 increases insulin sensitivity Proc Natl Acad Sci U S A 2010 107 3087 3092 20133702 
+
+            Weischenfeldt J  
+            Porse B  
+           Bone Marrow-Derived Macrophages (BMM): Isolation and Applications CSH protocols 2008 2008 pdb prot5080. 
+
+            Yuan M  
+            Konstantopoulos N  
+            Lee J  
+            Hansen L  
+            Li ZW  
+            Karin M  
+            Shoelson SE  
+           Reversal of obesity- and diet-induced insulin resistance with salicylates or targeted disruption of Ikkbeta Science 2001 293 1673 1677 11533494 
+

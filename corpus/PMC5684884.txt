@@ -1,0 +1,143 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   14810500R1890Am Econ RevAm Econ RevThe American economic review0002-828229147034568488410.1257/aer.p20171147NIHMS894810ArticleConsumption Smoothing and Frequency of Benefit Payments of Cash Transfer Programs† Aguila Emma Sol Price School of Public Policy, USC, 650 Childs Way, Los Angeles, CA 90089Kapteyn Arie Center for Economic and Social Research, USC, 635 Downey Way, Los Angeles, CA 90089Perez-Arce Francisco Center for Economic and Social Research, USC, 1909 K Street NW, Suite 530, Washington, DC 2000627 7 2017 5 2017 14 11 2017 107 5 430 435 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+   The life-cycle hypothesis (LCH) suggests that individuals smooth their marginal utility of consumption across periods, so that predictable changes in income should not affect consumption (e.g., Hall 1978). Yet previous research (e.g., Stephens 2003; Shapiro 2005; Stephens 2006; Mastrobuoni and Weinberg 2009) has found that low-income households do not smooth consumption between paychecks. Consumption, measured by expenditures or food-intake, tends to peak when a paycheck arrives then falls until the arrival of the next check. This suggests that changing the frequency at which paychecks arrive may better smooth household consumption and have beneficial effects on recipients.
+
+We examine the extent of consumption smoothing between the receipt of benefits by households after the introduction of two non-contributory pension programs in the State of Yucatan, Mexico. One program disbursed benefits monthly while the other did so every other month, that is, bimonthly. We also analyze the effects of the programs on food availability, health-care use, and purchases of durable goods. Our hypotheses are: (i) more frequent payments (monthly program) will be associated with more consistent spending on basic needs, such as food staples and doctor visits, and (ii) less frequent payments (bimonthly program) allow individuals to make larger purchases, such as for durable goods. We exploit rich panel data with information similar to the Health and Retirement Study (HRS) and the Mexican Health and Aging Study (MHAS).
+
+Before the introduction of the programs, we observed similar food expenditure patterns across the two groups of households assigned to the different programs. After the introduction of the programs, we observed more consumption smoothing in the monthly program than in the bimonthly program. We found monthly-program households had higher food availability and increased health-care use, but spent less on durable goods than the bimonthly-program households, consistent with our hypotheses.
+
+I. Background
+This paper exploits the introduction of two permanent noncontributory pension programs in the state of Yucatan, Mexico. These programs have a key difference between them, the frequency of payments: Reconocer Urbano (RU ) (MXN$550 or US$70.20 at 2013 PPP per month) and 70 y Más (MXN$1,000 or US$127.80 at 2013 PPP every two months).1 The state program RU was targeted at towns larger than 20,000 inhabitants to complement the federal program 70 y Más, which was targeted at towns up to 20,000 inhabitants. RU was rolled out experimentally: two towns with similar characteristics (percentage of households without sewer or toilet, electricity, piped water, and refrigerator; poverty level; education; and income) were matched, and one of them (Valladolid, with a population of 45,868) was randomly selected by the government to receive the monthly program in 2008. The other town (Motul, with a population of 21,508) was our comparison site.
+
+We conducted baseline surveys (W1) in Valladolid and Motul from August to November 2008, before the rollout of the monthly pension program in Valladolid in December 2008. During our first follow-up surveys (W2) in July and August 2009, the federal government began extending 70 y Más, which originally targeted towns with less than 20,000 inhabitants, to towns with less than 30,000 inhabitants. As a result, households in Motul, but not Valladolid, became eligible for the federal bimonthly pensions on July 28, 2009 (see Aguila, Kapteyn, and Smith 2015).2
+
+We conducted our second follow-up surveys (W3) from June to August 2010, approximately 18 months after Valladolid started receiving the monthly pension and 12 months after Motul started receiving the bimonthly pension. The monthly and bimonthly pension programs are universal and voluntary. The take-up rates of the programs were 94 percent in the monthly program at W2 and W3, and 38 percent at W2 and 89 percent at W3 for the bimonthly program.
+
+II. Data
+The surveys collected detailed community, household, and individual-level data. To obtain a sampling frame, we conducted a complete listing of all households in each town and screened them to identify households with age-eligible (70+) adults. The sample sizes at W1 were 1,346 in Valladolid and 1,073 in Motul. The survey response rates for Valladolid were 91.5 percent at W1, 87.9 percent in W2, and 80.6 percent in W3; those in Motul were 95.3 percent at W1, 81.9 percent at W2, 78.5 percent at W3. We find at baseline that the 70+ adults in both towns were similar in age, marital status, education, living alone, household size, paid employment, and monthly household income (see Aguila, Kapteyn, and Smith 2015). We estimated that 83.4 percent of the 70+ adults in Valladolid at baseline were living in poverty, as were 77.9 percent in Motul.3
+
+The surveys queried expenditures on food and beverages at home and outside the home during the week preceding the interview day.4 We use total food and beverages expenditures to analyze consumption smoothing patterns. To analyze the effects of the program and test our hypotheses on household and elderly recipients’ outcomes, we grouped survey outcomes as follows: (i) food availability; (ii) health-care use; and (iii) durable-goods ownership.
+
+III. Methods
+To test consumption smoothing, we examine whether expenditures depend on the number of days since the last benefit payment. We exploit the fact that the survey fieldwork took an extended period and hence responding households differed in time elapsed since their most recent benefit payment. We estimate the following equation separately for the monthly- and bimonthly-program households: 
+ (1) Yit=α+βDit+wt+δXit+εit,  where Yit is expenditures on food and beverages at home and outside the home for household i at waves t = W2 or W3, α is a constant, Dit is the number of days elapsed since the last disbursement, wt is a dummy variable for wave (W3 = 1, W2 = 0), Xit includes demographic and socioeconomic characteristics (age, age squared, gender, marital status, years of education, lives alone, and household size), and εit is a household error term. We estimate robust and clustered standard errors at the household level.
+
+We also analyze the effects of the programs between W1 and W3 on outcomes by conducting intention-to-treat (ITT) differences-indifference (DID) regression: 
+ (2) Yit=α0+wt+α1P+α2(w×P)+δXit+εit,  where Yit is the outcome of interest for individual i in wave t, wt is a dummy variable for wave (W3 = 1, W1 = 0), P is a program dummy (monthly = 1, bimonthly = 0), and Xit includes the same demographic and socioeconomic characteristics as above. The parameter α2 measures the difference in the treatment effects between W1 and W3 for the monthly and bimonthly programs. We estimate robust and clustered standard errors at the household level. Because we test multiple hypotheses, we apply a Holm- Bonferroni correction (Holm 1979).5
+
+IV. Results
+Table 1 shows the regression results for equation (1). Column 4 shows that in the bimonthly program each day elapsed since last pension payment is statistically significantly associated with about 3.26 fewer pesos spent on food and beverages. In the monthly program, column 3 does not show a statistically significant association between time since last payment and food-and-beverage expenditures. We also do not find an association between days since first day of month and food-and-beverage expenditures at baseline (columns 1 and 2) conducted as a placebo test.6 Conducting a one-sided test, we find the coefficients for the monthly and bimonthly programs are the same in W1 but differ in W2 and W3 ( p &lt; 0.002).
+
+We also checked whether households had savings. We found that close to 95 percent of households at W1 report no savings and this is consistent in both W2 and W3. Hence households had few alternative resources for smoothing consumption. A potential explanation for the observed pattern, mentioned in Stephens (2003), is that grocery stores may increase their prices in response to a higher demand in the days following disbursement. This would show up as higher expenditures early in the cycle, while the volume of purchased goods would not change. We estimated equation (1) for self-reported information about prices of items that are commonly consumed in the Yucatan area (e.g., tortilla, beans, and rice) and found no statistically significant changes in prices between disbursements (results not shown). Changes in prices do not appear to modify expenditure patterns.
+
+We next discuss the effects of the programs. In Table 2, columns 1 and 3 show the average values of the outcome variables in the monthly and bimonthly programs at W1. Column 2 shows the first differences (or pre- versus post- estimator) between W3 and W1 for the monthly program, and column 4 does so for the bimonthly program, separately. The solid bracket shapes in Figure 1 show the DID estimates of the impact of the monthly program relative to the bimonthly program between W3 and W1. We find larger improvements in food availability in the monthly than in the bimonthly program between W1 and W3. Similarly, we find an increase in health-care use in the monthly pension program between W1 and W3 but no statistically significant effects in the bimonthly program. The opposite pattern emerges for household ownership of durable items. We observe an increase in Motul, the site of the bimonthly program, in the percentage of older adults owning a cell phone from 14.0 percent in W1 to 24.0 percent in W3 ( p &lt; 0.05), while the cell-phone ownership rate decreased in the monthly program. Also, ownership of bicycles decreased in Valladolid, the monthly town, but did not change in Motul, the bimonthly town.7
+
+We also estimated equation (2) for differences between W1 and W2 to examine the short-run effects of the monthly pension program 6 months after its implementation, using Motul as the control, and between W2 and W3 to explore further the effects of the programs across time.8 W2–W1 DID, indicated by the light gray shapes in Figure 1, shows the positive impacts of the monthly program on food availability and health-care use. The W3–W2 DID, indicated by the empty shapes in Figure 1, shows a small improvement of the bimonthly program in food availability, but no effects on doctor visits or number of doctor visits, and increases the proportion with serious health problems. It also shows a decrease in durable-goods ownership in the monthly program town relative to the bimonthly town.
+
+The bimonthly program had a slightly lower initial pension amount (MX$50 or US$6.30 at 2013 PPP per month) than the monthly program and, as noted, the programs had been in place for different lengths of time by W3 (18 versus 12 months). However, these differences are unlikely to explain our results. The bimonthly program was slightly less generous but resulted in a larger effect on durable-goods ownership and no changes in health-care utilization between W1 and W3. The effects on food availability of the bimonthly program between W2 and W3 were also more modest than those of the monthly program six months after its implementation. Therefore, we attribute the differences in the impact of the programs to the difference in frequency at which benefits arrive.
+
+A. Robustness
+We found similar results in sign, magnitude, and statistical significance using DID of the means and DID with propensity-score matching controlling for the same characteristics (see the online Appendix). In this study, the potential sources of attrition are nonresponse or death of survey respondents. We compared W1 characteristics of attriters and panel respondents as well as those of deceased and panel respondents for the monthly and bimonthly programs and the differences between them. The overall results do not show differing attrition that could cause different patterns across towns. We also do not find evidence of changes on average household size.
+
+We did not find substitution of the noncontributory pension for other social programs. We also believe there to be negligible effects due to the announcement of the program because we designed the rollout schedule of the program and the timing of public information campaigns in close cooperation with the State government of Yucatan. Spillovers between programs are unlikely because Valladolid is 95 miles from Motul. Mexico had an economic recession in 2009; a community survey we conducted suggested similar aggregate effects of the recession on the two towns.
+
+One of the main underlying assumptions of the DID estimator is parallel trends between Valladolid and Motul. This assumption allows the confounded time trend of the pre- versus post-estimator to drop out when conducting DID analyses of W3–W1 and W3–W2. We found similar trends between Valladolid and Motul comparing the Gini index from 1990 to 2010 (CONEVAL), the marginalization index from 1990 to 2010 (Consejo Nacional de Poblacion [CONAPO]), and the human development index 2000 to 2010 (United Nations Development Programme [UNDP]). In addition, using the Mexican Income and Expenditure Survey (INEGI) from 2004 to 2010, we found common trends on food and beverages expenditure (see the online Appendix). Finally, we replicated the impact of the monthly and bimonthly program by adding control towns that had not received any pension program in the state of Yucatan using the 2010 census, and found results for the food-availability questions similar to those in our survey (results available upon request).
+
+V. Conclusions
+We show that frequency of disbursements may be important for the design of social programs. We find that the monthly program induces smoother consumption than the bimonthly program, resulting in larger improvements in food availability and health-care use. The bimonthly program had larger effects on ownership of durable goods such as cell phones and bicycles.
+
+Supplementary Material
+Online Appendix  We would like to thank Richard Blundell, Shoshana Grossbard, Cesar Martinelli, James P. Smith, and participants at NBER Summer Institute, DITE Summer Workshop, PAA, APPAM, and LACEA annual meetings for their valuable comments. The expert assistance of Joanna Carroll and Stephany Maqueda is gratefully acknowledged.
+
+† Go to https://doi.org/10.1257/aer.p20171147 to visit the article page for additional materials and author disclosure statement(s).
+
+1 We denote Mexican pesos as MXN$. The 2013 PPP exchange rate from Mexican pesos to US dollars is taken from the OECD (2015). The monthly benefit is equal to almost one-third of the monthly minimum wage in Yucatan (MXN$1,865.95 in January 2013 or US$238.2 at 2013 PPP).
+
+2 We compared W1 characteristics of Motul respondents interviewed before and after July 28, 2009 and found no statistically significant differences between groups. This was consistent with the random assignment of interview dates to households.
+
+3 The poverty line at the time of our baseline survey was MXN $1,954.55 per month or US$301.43 PPP (Consejo Nacional de Evaluación de la Política de Desarrollo Social [CONEVAL]).
+
+4 Expenditure variables are deflated with the Mexican National Consumer Price Index (Instituto Nacional de Estadistica y Geografia [INEGI]) and converted to December 2010 values.
+
+5 Multiple-hypothesis testing correction takes into account the full set of outcomes (see the online Appendix).
+
+6 For robustness, we compared W1 characteristics of respondents who were interviewed in the first and second weeks with those in the third and fourth weeks after receiving their benefit by wave and separately for the monthly and bimonthly programs. We did not find statistically significant differences within or across groups.
+
+7 We do not find an effect on business activities. Only 3 percent of respondents across surveys owned a business.
+
+8 We conducted robustness analysis by excluding individuals in Motul who received the bimonthly pension during W2. We did not find statistically significant differences between W2 Motul recipients who did and did not receive a pension, likely because the program in Motul was then too recent to have an impact.
+
+Figure 1 Effects of the Programs on Selected Outcomes
+
+Notes: Often run out of food: always–never (1–4); often hungry: always–never (1–4); often not eat for 1 day: always–never (1–4); visited a doctor: no–yes (0–1); dealt with health problem: no–yes (0–1); owning cell phone: no–yes (0–1); owning bicycle: no–yes (0–1).
+
+Table 1 Cyclicality of Expenditures in Monthly and Bimonthly Programs
+
+Variables	W1 (placebo)
+	W2 and W3
+	
+Monthly program (Valladolid) (1)	Bimonthly program (Motul) (2)	Monthly program (Valladolid) (3)	Bimonthly program (Motul) (4)	
+Number of days since last payment	−2.005 (2.547)	0.955 (1.740)	1.146 (1.155)	−3.263 (1.138)	
+Observations	1,290	972	2,344	1,356	
+Notes: Dependent variable is weekly expenditures on food and beverages in 2010 Mexican pesos. Standard errors are clustered at the household level. Standard errors in parentheses. All models are linear regressions. W1, columns 1 and 2, corresponds to number of days since the first day of the month (placebo payment date). Control variables not shown are age, age squared, gender (male = 1, female = 0), marital status (couple = 1, single = 0), years of education, lives alone (yes = 1, no = 0), household size, and for W2/W3 a time dummy (W3 = 1, W2 = 0).
+
+Table 2 Outcomes of the Monthly and Bimonthly Programs
+
+Variable	Monthly program (m)
+	Bimonthly program (b)
+	
+W1 (1)	W3–W1 (2)	W1 (3)	W3–W1 (4)	
+
+              Food availability
+            	
+Often run out of food
+ always–never (1–4)	3.491 (0.031)	0.341 (0.022)	3.555 (0.030)	0.239 (0.024)	
+Often hungry
+ always–never (1–4)	3.697 (0.024)	0.243 (0.017)	3.785 (0.022)	0.143 (0.017)	
+Often not eat for 1 day
+ always–never (1–4)	3.807 (0.018)	0.156 (0.013)	3.881 (0.016)	0.087 (0.013)	
+
+              Health-care utilization
+            	
+Visited a doctor
+ No–Yes (0–1)	0.420 (0.016)	0.111 (0.015)	0.462 (0.020)	0.014 (0.017)	
+Number of doctor visits	1.093 (0.058)	0.253 (0.062)	1.252 (0.100)	−0.020 (0.084)	
+Dealt with health problem
+ No–Yes (0–1)	0.823 (0.012)	0.104 (0.010)	0.873 (0.013)	0.011 (0.012)	
+
+              Durable goods
+            	
+Owning cell phone
+ No–Yes (0–1)	0.179 (0.013)	−0.043 (0.011)	0.137 (0.014)	0.107 (0.013)	
+Owning bicycle
+ No–Yes (0–1)	0.204 (0.013)	−0.070 (0.009)	0.333 (0.018)	−0.003 (0.012)	
+Note: Standard errors in parentheses.
+
+
+   
+            Aguila Emma  
+            Kapteyn Arie  
+            Smith James P  
+           2015 Effects of Income Supplementation on Health of the Poor Elderly: The Case of Mexico Proceedings of the National Academy of Sciences 112 1 70 75 
+
+            Hall Robert E  
+           1978 Stochastic Implications of the Life Cycle-Permanent Income Hypothesis: Theory and Evidence Journal of Political Economy 86 6 971 87 
+
+            Holm Sture  
+           1979 A Simple Sequentially Rejective Multiple Test Procedure Scandinavian Journal of Statistics 6 2 65 70 
+
+            Mastrobuoni Giovanni  
+            Weinberg Matthew  
+           2009 Heterogeneity in Intra-monthly Consumption Patterns, Self-Control, and Savings at Retirement American Economic Journal: Economic Policy 1 2 163 89 
+
+            Shapiro Jesse M  
+           2005 Is There a Daily Discount Rate? Evidence from the Food Stamp Nutrition Cycle Journal of Public Economics 89 2–3 303 25 
+
+            Stephens Melvin Jr  
+           2003 ‘3rd of tha Month’: Do Social Security Recipients Smooth Consumption between Checks? American Economic Review 93 1 406 22 
+
+            Stephens Melvin Jr  
+           2006 Paycheque Receipt and the Timing of Consumption Economic Journal 116 513 680 701 
+

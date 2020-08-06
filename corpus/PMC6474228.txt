@@ -1,0 +1,1645 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   101301086ISME JISME JThe ISME journal1751-73621751-737030647460647422810.1038/s41396-019-0346-7EMS80984ArticleFueled by methane: Deep-sea sponges from asphalt seeps gain their
+nutrition from methane-oxidizing symbionts Rubin-Blum Maxim 18*Antony Chakkiath Paul 1Sayavedra Lizbeth 19Martínez-Pérez Clara 1Birgel Daniel 2Peckmann Jörn 2Wu Yu-Chen 3Cardenas Paco 4MacDonald Ian 5Marcon Yann 6Sahling Heiko 7†Hentschel Ute 3Dubilier Nicole 17*
+1 Max-Planck Institute for Marine Microbiology, Celsiusstrasse 1,
+28359 Bremen, Germany
+2 Institute for Geology, Center for Earth System Research and
+Sustainability, University of Hamburg, 20146 Hamburg, Germany
+3 GEOMAR Helmholtz Centre for Ocean Research, RD3 Marine Microbiology
+and Christian-Albrechts University of Kiel, Düsternbrooker Weg 20, D-24105
+Kiel, Germany
+4 Department of Medicinal Chemistry, Pharmacognosy, BioMedical Centre,
+Husargatan 3, Uppsala University, 751 23 Uppsala, Sweden
+5 Florida State University, POB 3064326, Tallahassee, FL 32306,
+USA
+6 Wegener Institute Helmholtz Centre for Polar and Marine Research,
+HGF-MPG Group for Deep Sea Ecology and Technology, Am Handelshafen 12, 27570
+Bremerhaven, Germany
+7 MARUM, Center for Marine Environmental Sciences, University of
+Bremen, 28359 Bremen, Germany
+8 Israel Oceanographic and Limnological Research, Tel Shikmona,
+3108000, Haifa, Israel
+9 Quadram Institute Bioscience, Norwich Research Park, Norwich, United
+Kingdom* Corresponding authors† Deceased 23 April 2018
+
+15 1 2019 15 1 2019 5 2019 01 11 2019 13 5 1209 1225 This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Sponges host a remarkable diversity of microbial symbionts, however, the
+benefit their microbes provide is rarely understood. Here, we describe two new
+sponge species from deep-sea asphalt seeps and show that they live in a
+nutritional symbiosis with methane-oxidizing (MOX) bacteria. Metagenomics and
+imaging analyses revealed unusually high amounts of MOX symbionts in hosts from
+a group previously assumed to have low microbial abundances. These symbionts
+belonged to the Marine Methylotrophic Group 2 clade. They are host-specific and
+likely vertically transmitted, based on their presence in sponge embryos and
+streamlined genomes, which lacked genes typical of related free-living MOX.
+Moreover, genes known to play a role in host-symbiont interactions, such as
+those that encode eukaryote-like proteins, were abundant and expressed. Methane
+assimilation by the symbionts was one of the most highly expressed metabolic
+pathways in the sponges. Molecular and stable carbon isotope patterns of lipids
+confirmed that methane-derived carbon was incorporated into the hosts. Our
+results revealed that two species of sponges, although distantly related,
+independently established highly specific, nutritional symbioses with two
+closely related methanotrophs. This convergence in symbiont acquisition
+underscores the strong selective advantage for these sponges in harboring MOX
+bacteria in the food-limited deep sea.
+
+
+   Introduction
+Symbioses with microorganisms have played a central role in shaping the
+ecology and evolution of marine animals [1].
+Sponges are one of the oldest animal phyla and may have lived in symbiosis with
+microbial partners for hundreds of million years [2–4]. Most sponge species
+belong to one of two general categories: High microbial abundance (HMA) sponges such
+as those from the orders Agelasida and Verongida harbor dense microbial consortia
+with high phylogenetic diversity, while low microbial abundance (LMA) sponges such
+as those from the order Poecilosclerida have several orders of magnitude fewer
+symbionts with low phylogenetic diversity [5].
+In both HMA and LMA sponges, the microbial symbionts are hypothesized to increase
+their host's fitness, for example by recycling nutrients and producing
+secondary metabolites that can deter predators [4, 6–8]. To date, the functional diversity of microorganisms
+associated with sponges has been studied primarily in hosts from shallow-water
+habitats, using metagenomics [9–15], proteomics [16] and transcriptomics [17–21]. However, the
+remarkable diversity of the microbiota in most shallow-water sponges [3] has made it highly challenging to understand
+their functional and ecological role. Even less is known about the metabolism,
+ecology and evolutionary history of the microorganisms that live in symbiosis with
+deep-sea sponges.
+
+In the deep sea, light is insufficient to sustain photosynthetic primary
+production, the input of particulate organic carbon from the surface is low, and
+nutrition is often limited [22]. While
+shallow-water sponges primarily gain their nutrition by filter-feeding on planktonic
+microorganisms and organic matter [4], some
+sponges have adapted to the deep sea, where low amounts of particulate organic
+carbon make filter-feeding energetically unfavorable, by becoming carnivores [23–25]. Sponges from cold seeps and hydrothermal vents in the deep sea may
+have evolved an alternative nutritional strategy. In these environments, abundant
+chemosynthetic primary production is fueled by reduced energy sources. Analyses of
+microbial communities based on metagenomics and 16S rRNA gene amplicon sequencing,
+as well as carbon stable isotope values, indicated that sponges from seeps are
+associated with chemosynthetic and hydrocarbon-degrading bacteria [25–30]. Thus, in addition to filter-feeding or carnivory, these sponges
+could gain a considerable proportion of their nutrition from chemosynthetic
+symbionts.
+
+In contrast to the well-studied chemosynthetic symbioses of more highly
+evolved invertebrate groups such as bivalves and annelids [31], little is known about these associations in sponges. To
+gain a better understanding of chemosynthetic symbioses in deep-sea sponges, we used
+metagenomics, metatranscriptomics, fluorescence and electron microscopy, as well as
+lipid (fatty acids and sterols) and stable isotope analyses to study two sponge
+species from hydrocarbon seeps at Campeche Knolls at 2900-3100 m depth in the
+southern Gulf of Mexico. These sites are characterized by prolific asphalt flows,
+oil seepage, gas hydrates and gas venting [32]. Campeche sponges were previously shown to host hydrocarbon-degrading
+Cycloclasticus bacteria, but these make up only about 5% of
+their bacterial community [33]. The majority
+of the sponge microbiota (50-70%) was dominated by methane-oxidizing (MOX) bacteria
+(the abbreviation MOX is also used for methane oxidizer(s) in the following), [33]. In this study, we provide in-depth
+insights into the symbiosis between sponges from the Campeche seeps and their MOX
+bacteria, with the goal of better understanding the evolutionary history and
+physiology of the MOX symbionts, revealing the mechanisms that might determine the
+specificity of the sponge-MOX association, comparing the genomic potential of the
+symbiotic MOX with that of free-living MOX, and tracing the incorporation of
+methane-derived carbon into sponge biomass.
+
+Materials and Methods
+Sample collection
+Sponges were collected with the remotely-operated vehicle MARUM-QUEST
+during the RV Meteor M114-2 cruise to the Campeche Knolls in March 2015. The
+sponges were collected by placing asphalt pieces on which they grew in an
+insulated polypropylene "bio-box" to protect against temperature
+changes during the ascension of the ROV to warm surface waters (ascension time
+from seafloor to onboard ship approximately two hours). We sampled two
+encrusting sponge individuals, one from Chapopote Knoll (21°54' N;
+93°26' W, 2925 m water depth) and one from Mictlan Knoll
+(22°1' N; 93°14' W, 3106 m water depth), which are
+approximately 25 km apart from each other (Figure
+1). A third sponge individual with a branching morphology was
+collected from the same site at Chapopopote as the encrusting sponge. The
+sponges appeared healthy and intact before collection, with no evidence of
+tissue damage. A detailed description of the collection sites is available
+elsewhere [32]. Sponge distributions at
+Chapopote were estimated using mosaic mapping (see Supplementary Methods
+4).
+
+After ROV recovery, the asphalt pieces with the sponges were kept on
+board in the seawater from the "bio-box" at 4°C. For
+metagenomic and metatranscriptomic analyses, subsamples from each sponge
+individual were fixed on board approximately 1 hour after ROV recovery in
+RNAlater® (Sigma, Steinheim, Germany) according to the
+manufacturer’s instructions and stored at -80°C. Subsamples for
+microscopy were fixed in 2% paraformaldehyde in 1x phosphate-buffered saline
+(PBS) for at most 12 h at 4°C, rinsed three times in 1x PBS, and stored
+at 4°C in 0.5x PBS/50% ethanol. Subsamples for transmission electron
+microscopy were fixed in PHEM buffer (PIPES, HEPES, EGTA and MgCl2,
+see [34]). Samples for lipid biomarker
+analysis were flash-frozen in liquid nitrogen and stored at -80°C.
+
+Fluorescence in situ hybridization (FISH)
+The probe used in this study, MTC849 probe (5` –
+CGTTAGCTCCACCACTAAG – 3`), was designed with ARB [35] to target the 16S rRNA gene sequences
+of the symbiotic MOX of both Campeche sponge species. This probe is a
+modification of MTC850 probe, designed to target Marine Methylotrophic Group
+(MMG) 2 MOX [36]. Apart from the
+symbiotic and MMG2 MOX, the MTC849 probe targets the closely-related
+Methylomonas and Methylomarinum clades.
+The MTC849 oligonucleotide was double-labeled with Atto594 dye (Biomers, Ulm,
+Germany), and applied to 8 μm sections of sponge tissue using
+hybridization buffer with 20% formamide as described previously [37]. These hybridization conditions are
+assumed to ensure specificity, given the three mismatches that the MTC849 probe
+had to the 16S rRNA gene sequences of all other Campeche sponge bacteria [38].The general bacterial probe EUB338
+[39] was used as a positive control
+and the NON338 probe was used as a control for background autofluorescence
+[40]. Photomicrographs were acquired
+with a Zeiss Axioplan 2 epifluorescence microscope (Zeiss, Jena, Germany) or
+with a confocal laser-scanning microscope (LSM 780, Carl Zeiss, Germany).
+Brightness and contrast of the images were adjusted with Adobe Photoshop (Adobe
+Systems, Inc., USA).
+
+Transmission electron microscopy (TEM)
+Subsamples of the two encrusting and one branching sponge individuals
+were washed with 50 mM cacodylate buffer, post-fixed with 2% osmium tetroxide in
+the buffer for 1.5 h at 4°C, and then washed with Milli-Q water.
+Following overnight staining in 0.5% uranyl acetate (Merck, Germany), the
+samples were washed with Milli-Q water, dehydrated in a graded ethanol series,
+and then transferred into propylene oxide (Sigma-Aldrich, Germany). The samples
+were infiltrated with Epon-812 resin (1:1 resin to propylene oxide) overnight
+and rinsed in this resin twice for 2 h. They were then transferred into fresh
+resin for 1 h and polymerized in embedding capsules at 60°C for at least
+48 h. Ultra-thin (70 nm) sections were cut with an ultramicrotome (Leica EM UC7,
+Austria), mounted on pioloform coated grids, and contrasted with 2.5% uranyl
+acetate in ethanol for 20 min and subsequently, with Reynold’s lead
+citrate for 10 min. Ultrathin sections were imaged at 80 kV on a Tecnai G2
+Spirit BioTwin transmission electron microscope (FEI Company, USA). We were able
+to produce high-quality micrographs of the two encrusting sponge individuals,
+but not of the branching sponge individual.
+
+DNA and RNA extraction and sequencing
+We extracted DNA and RNA from the two encrusting sponge individuals and
+from two different branches of the same branching sponge individual. DNA and RNA
+were extracted in parallel with the AllPrep DNA/RNA Mini Kit (Qiagen, Hilden,
+Germany) according to the manufacturer’s recommendations, with an extra
+DNase I digestion step on RNA columns to eliminate contaminating DNA. DNA/RNA
+quality was assessed with the Agilent 2100 Bioanalyzer (Agilent, Santa Clara,
+USA). We were not able to extract RNA in sufficient amounts for transcriptomic
+analyses of the branching sponge individual. cDNA was synthesized with Ovation
+RNA-Seq System V2 (NuGen, San Carlos, CA, USA). Genomic DNA and cDNA libraries
+were generated with the DNA library prep kit for Illumina (BioLABS, Frankfurt am
+Main, Germany). All samples were sequenced on the Illumina HiSeq 2500 platform
+at the Max Planck Genome Centre (Cologne). For one subsample of the branching
+sponge, 41 million 150 bp paired-end metagenomic reads were generated. For the
+remaining three libraries, 12.5 million 250 bp paired-end metagenomic reads were
+generated, while the remaining 15.5-29.5 million were generated as 150 bp
+paired-end reads. 30 and 38 million 100 bp paired-end cDNA reads were generated
+from the Mictlan and Chapopote encrusting sponge RNA extracts, respectively.
+
+Genome analyses
+Individual metagenomes were assembled with IDBA-UD [41], following decontamination, quality
+filtering (QV=2) and adapter-trimming with the BBDuk tool from the BBMap suite
+(Bushnell B, http://sourceforge.net/projects/bbmap/). Individual symbiont
+genomes were binned based on genome coverage, GC content and taxonomic
+affiliation using gbtools, (Supplementary Figure S1), [42]. These bins were reassembled with Spades V3.10 [43, 44], using a maximum k-mer length of 127, following re-mapping of
+Illumina reads to the bins using BBMap with 0.98 minimum identity. Following the
+manual removal of contigs shorter than 800 bp and contamination screening,
+quality metrics were calculated with Quast [45] and CheckM [46]. Symbiont
+draft genomes and transcriptome reads were deposited in NCBI under accession
+numbers PRJNA475438 and PRJNA475442. Downstream genome analyses are summarized
+in Supplementary Methods
+S1.
+
+Transcriptome analyses
+Adapters and ribosomal RNA genes were removed from transcriptome reads
+with BBDuk. Transcriptome reads were mapped to the individual methanotroph
+genome assemblies with BBMap (minimum identity value of 0.98). Mapped reads were
+assigned to genomic features with featureCounts [47]. Relative RNA levels were estimated with transcripts per million
+(TPM) normalization [48]. The
+metatranscriptomes were assembled with Trinity [49] and the transcripts were quantified with an
+align_and_estimate_abundance.pl script from the Trinity package, using RSEM
+quantification method [50].
+
+Phylogenomics
+Phylogenomic reconstructions were performed with phylogenomics-tools
+scripts (DOI:10.5281/zenodo.46122). Marker proteins that are universally
+conserved across the bacterial domain were extracted from genomes using AMPHORA2
+[51]. Eighteen single copy markers
+that were present in all genomes analyzed in this study were used for alignment
+with MUSCLE [52]. The marker alignments
+were concatenated into a single partitioned alignment. Poorly aligned or
+misaligned regions were removed from the alignments. The maximum likelihood tree
+was calculated with MEGA7 [53] using the
+LG model [54].
+
+Lipid biomarker analysis
+Lipid biomarkers were extracted from one individual of branching and one
+individual of encrusting sponge (both collected at Chapopote). Phospholipid
+fatty acids were hydrolyzed by saponification with 6% KOH in methanol. Sterols
+were extracted with dichloromethane:methanol (3:1) three times. The resulting
+total lipid extract and the saponification extract were combined. The hydrolyzed
+free fatty acid salts were released from the aqueous phase by adding HCl until
+pH 2. Then, the combined extracts were separated by solid phase column
+chromatography into four fractions. The resulting fatty acids and the alcohols
+were analyzed on a Thermo Electron Trace DSQ II coupled gas-chromatograph-mass
+spectrometer (GC-MS) for quantification and identification. The GC-MS was
+equipped with a 30 m HP-5 MS UI fused silica capillary column (0.25 mm i.d.,
+0.25 µm film thickness). The carrier gas was helium. The GC temperature
+program used for both fractions was as follows: 60°C (1 min), from
+60°C to 150°C at 10°/min, from 150°C to 325°C
+at 4°C/min, 25 min isothermal. Identification of compounds was based on
+retention times and published mass spectral data. Double bond positions of
+unsaturated fatty acids were identified by the addition of a dimethyl disulfide
+(DMDS) adduct to an aliquot of the saponified fatty acid fraction [55]. Further, compound-specific carbon
+stable isotope compositions of fatty acids and sterols were measured on a gas
+chromatograph (Agilent 6890) coupled with a Thermo Finnigan Combustion III
+interface to a Finnigan Delta Plus XL isotope ratio mass spectrometer (GC-IRMS).
+The GC conditions were identical to those mentioned above for GC-MS
+analyses.
+
+Results and Discussion
+Novel sponge species are abundant at Chapopote
+Morphological analyses of both sponge morphotypes revealed that these
+have not yet been described. We name them here Hymedesmia
+(Stylopus) methanophila sp. nov. and
+Iophon methanophila sp. nov. (order Poecilosclerida). These
+belong to two different genera and are only distantly related to each other
+(based on 90% identity of their cytochrome c oxidase subunit I
+(COI) gene sequences). A full description of the morphology
+and phylogeny of these two sponge species is available in Supplementary File
+SF1.
+
+At Chapopote and Mictlan, H. (S.)
+methanophila and I. methanophila occurred
+on fragmented asphalt accumulations next to sites of active seepage,
+characterized by gas and oil effusions and darkly colored substrates (Supplementary Figure S2).
+I. methanophila individuals were often observed growing on
+the tubes of tubeworms. Based on our mosaic mapping of the Chapopote site, we
+estimate that the sponges colonized approximately 30% of the hard substrates in
+areas of active seepage (Supplementary Figure S2). We often observed grazers in association
+with the sponges, in particular, galatheid crabs (Figure 1). These observations, together with observations of similar
+sponge abundances during a 2005 cruise to Chapopote [56], suggest that these sponges have made up a considerable
+part of the biomass at Chapopote for over twelve years, and are thus likely to
+influence the composition of the seep community and contribute to its food
+web.
+
+Campeche sponges host high abundances of methane-oxidizing bacteria
+Analyses of the microbial communities hosted by H.
+(S.) methanophila and I.
+methanophila revealed that their dominant members were MOX
+(35.9-67.6% of the microbial community; these values and the following in this
+paragraph are based on relative 16S rRNA read frequencies in the metagenomes, as
+well as the frequencies of metagenomic reads that mapped to the MOX genomes, see
+Supplementary
+Methods and Table 1). In both
+host species, Proteobacteria made up the vast majority of the microbial
+community (94.8-99.9%), and included chemoautotrophic sulfur-oxidizing bacteria
+from the SUP05 clade (4.6-20.2%) and hydrocarbon-degrading
+Cycloclasticus symbionts (6.0-8.4%), which have been
+described elsewhere [33]. Such high
+abundances of Proteobacteria have not been commonly found in HMA sponges. Most
+HMA sponges harbor highly diverse microbial communities that are often dominated
+by the bacterial phyla Chloroflexi, Acidobacteria, and Actinobacteria [57].
+
+Although the low phylogenetic diversity of the microbial community in
+Campeche sponges is typical of LMA hosts, fluorescence in situ hybridization
+(FISH) revealed that the abundances of bacteria were more typical of HMA sponges
+[5] (Figure 2). FISH with a probe specific to the MOX 16S rRNA sequences
+in both host species revealed that these bacteria were present in high numbers
+in the sponge mesohyl (the gelatinous matrix within a sponge that fills the
+space between its external and internal cell layers). Although the Campeche
+sponges belong to an order (Poecilosclerida) previously described as consisting
+of only LMA species, they have traits typical of both LMA sponges (low
+phylogenetic diversity) and HMA sponges (high symbiont abundances). They thus
+represent an exception to the described dichotomy between HMA and LMA
+sponges.
+
+Transmission electron microscopy (TEM) of H.
+(S.) methanophila revealed that their
+mesohyl was colonized by a bacterial morphotype characterized by i) a coccoid
+shape and intracytoplasmic membrane stacks typical of MOX bacteria; ii) sizes of
+500 -1300 nm length and 500 - 900 nm width, and iii) electron-lucent granules
+typical of storage compounds, most likely glycogen (Figure 3a, Supplementary Note 1). The distribution pattern of these morphotypes
+was similar to that of the MOX bacteria identified with FISH, indicating that we
+could identify the MOX symbiont of H. (S.) methanophila with
+TEM based on its characteristic ultrastructure. We regularly observed MOX in
+stages of division, indicating that they were actively growing in the sponge
+matrix (Figure 3b). The MOX were generally
+extracellular, but we occasionally found them within host vacuoles in different
+stages of degradation (Figure 3c),
+indicating that the sponge cells engulf and digest these symbionts. Bacteria
+with a very different morphology than that of the MOX symbionts occurred in what
+looked like specialized bacteriocyte cells described from other sponge species
+[58, 59], but we never observed MOX in these host cells (Figure 3f). The symbiotic MOX were most
+abundant in mesohyl regions near the choanocyte chambers (Figure 3a). This indicates that the symbiotic MOX benefit
+from being close to the flagellated choanocytes, most likely because these host
+cells pump the methane- and oxygen-containing seawater from the seep environment
+into the sponge matrix, and thus provide the symbionts with the reductants and
+oxidants they need for their energy and carbon metabolism.
+
+Specificity of the sponge-MOX association
+The comparison of the MOX symbiont genomes from the two Campeche sponge
+species suggests that these are specific to their hosts. The two
+H. (S.) methanophila
+individuals that were collected 25 km apart at Chapopote and Mictlan, hosted
+nearly identical MOX genotypes (99.6±0.9% average nucleotide identity
+(ANI)). Only one I. methanophila individual could be collected
+from the Campeche seeps (at Chapopote), but ANI values of the MOX symbiont
+genomes from two different branches of this individual were nearly identical
+(100±0.6%). Comparison of the MOX symbiont genomes from the sympatric
+H. (S.) methanophila and
+I. methanophila individuals, which were collected from the
+same asphalt piece at Chapopote, revealed that these differed considerably from
+each other (93.6±2.5% ANI), and can be considered to belong to two
+different species (ANI&lt;95%, [59]).
+These results suggest that each sponge species hosts a specific MOX genotype,
+and imply the presence of recognition and selection mechanisms that underlie the
+potential specificity of this symbiosis.
+
+The symbiotic MOX belong to the Marine Methylotrophic Group 2 clade
+Phylogenomic reconstruction of eighteen marker proteins, as well as the
+phylogenies of 16S rRNA and pmoA (particulate methane
+monooxygenase) genes, revealed that the sponge-associated MOX belong to the
+Marine Methylotrophic Group (MMG) 2 clade (also known as deep-sea clade 2)
+within the family ‘Methylomonadaceae’, order Methylococcales
+(Figure 4, Supplementary Figures S3 and
+S4), [61]. To date, there are
+no pure cultures of bacteria from the MMG2 clade, but recently the genomes of
+two MMG2 MOX enriched from North Sea sandy sediments with methane as the sole
+carbon and energy source were sequenced [62]. Together with the Campeche MOX symbionts, these are currently
+the only genomes that have been sequenced from the MMG2 clade.
+
+Interestingly, MMG2 bacteria have been reported from other marine hosts
+based on16S rRNA and pmoA gene sequencing, although their
+abundances appear to generally be considerably lower than in the Campeche
+sponges (Supplementary Figures
+S3 and S4). MMG2-related sequences were described from ciliates
+collected at methane seeps along the eastern Pacific coast (1.7 – 9.7% of
+the ciliate bacterial community based on 16S rRNA tag sequencing), [63], and the squat lobster Shinkaia
+crosnieri from hydrothermal vents off Japan (1.7-12.0% of 16S rRNA
+clones), [64]. MMG2 sequences were also
+found in two sponge species: i) an unidentified poecilosclerid sponge from seeps
+in the Gulf of Mexico that is morphologically distinct from our samples [28], and ii) Cladorhiza
+methanophila from mud volcanoes off Barbados (16 – 25% based
+on 16S rRNA tag sequencing, [25]). MOX
+belonging to the MMG2 clade were also found in a Sibolginum cf.
+poseidoni tubeworm from a mud volcano in the Northeast
+Atlantic (the nine 16S rRNA clones sequenced from the tubeworm all belonged to
+MMG2, [65]).
+
+Common to all these hosts is that they occur in methane-rich
+environments, such as mud volcanoes, seeps and hydrothermal vents, where
+free-living MMG2 bacteria are known to be abundant in both the sediment and the
+water column [36]. Given the broad range
+of hosts associated with bacteria from the MMG2 clade, from protists to animals
+from different phyla, it is highly likely that these associations were
+established multiple times independently of each other. Moreover, the MOX
+bacterial partners in these associations are phylogenetically distinct from
+those of the deep-sea bathymodiolin mussels, which belong to the MMG1 clade
+(Figure 4 and Supplementary Figures S3 and
+S4), [66]. Our study thus
+contributes to revealing the previously unrecognized diversity of methanotrophic
+associations on both the bacterial and host side. This diversity suggests that
+there are strong selective advantages for both partners in establishing these
+beneficial associations in methane-rich environments. Revealing the factors that
+contribute to these selective advantages, and distinguishing these from the
+mechanisms behind the broad host promiscuity in MMG1 MOX and the apparent
+specificity of MMG2 MOX to bathymodiolin mussels, will contribute to
+understanding the ecological and evolutionary requirements for establishing
+these symbioses.
+
+The symbiotic MOX may be vertically transmitted
+We found evidence for vertical transmission of the symbiotic MOX from
+one generation to the next. Embryos in the matrix of both H.
+(S.) methanophila individuals contained
+MOX symbionts based on FISH and TEM analyses (Figures 2 and 3; Supplementary Figure S5).
+The symbiotic MOX were observed in the matrix between the embryo cells, but
+never inside of sponge cells (Figure 3e).
+MOX were also found between follicle-like cells surrounding the egg, as well as
+on the periphery of follicle-like cells (Supplementary Figure S5). In the seep sponge
+Cladorhiza methanophila, bacteria with features typical of
+methane-oxidizing bacteria were also observed in embryos with TEM, indicating
+that symbionts are transmitted vertically in this sponge species as well [67].
+
+Genome reduction in the symbiotic MOX
+Additional support for our conclusion that the Campeche sponge MOX
+symbionts are vertically transmitted is provided by the comparison of their
+genome sizes to those of free-living MOX bacteria. The estimated genome sizes of
+the Campeche MOX symbionts were between 2.0 and 2.2 Mbp, and thus considerably
+reduced in comparison to the 3.9 and 4.0 Mbp genomes of their close relatives
+from North Sea sediment enrichments (Figure
+5a, Supplementary
+Table S1). The genomes of the sponge MOX symbionts were also reduced
+in comparison to those of cultivated ‘Methylomonadaceae’ (4.5-5.2
+Mbp), although some free-living ‘Methylomonadaceae’ may have
+similarly small genomes, e.g. Methylococcales bacterium OPU3_GD_OMZ from a
+marine metagenome [68]. Given that the
+sponge-associated MOX genomes were highly complete (94.6-96.5%), it is unlikely
+that we underestimated their sizes due to incomplete binning (Supplementary Table S1).
+As genome reduction is typical for vertically transmitted symbionts, the small
+genome sizes of the Campeche sponge MOX symbionts may be a result of accelerated
+genome evolution through vertical transmission [69–71]. The very low
+guanine + cytosine (GC) content of the symbiont genomes (37.7±0.1% versus
+51±4% in cultivated ‘Methylomonadaceae’) may also be a
+result of vertical transmission, as known from many other vertically transmitted
+symbionts Figure 5a), [72]. However, the closest free-living
+relatives of the sponge symbionts, the North Sea bacteria from sediment
+enrichments (Figure 4), have similarly low
+GC contents of 37.7%, indicating that other factors, such as energetic
+constraints, may have played a role in the genome evolution of this clade [73, 74].
+
+Optimization of methane assimilation in sponge symbionts
+To better understand the functional adaptations of the sponge MOX to
+their symbiotic lifestyle, we compared their genomes to those of free-living MOX
+within the ‘Methylomonadaceae’ as well as the MOX symbionts of
+bathymodiolin mussels (Figures 4 and 5). We identified 1050 genes in the core
+genome of the free-living ‘Methylomonadaceae’, 163 of which were
+not found in the sponge MOX symbionts (Fig.
+5a, Supplementary
+Table 3a). Comparative genomics revealed that the functional
+repertoire of the sponge MOX symbionts for the assimilation of methane and other
+carbon compounds was reduced in comparison to free-living bacteria within the
+‘Methylomonadaceae’ (Figure
+4, 5b, Supplementary Figure
+S6).
+
+Similar to other ‘Methylomonadaceae’, the sponge MOX
+symbionts are type I methanotrophs: The ribulose monophosphate (RuMP) cycle
+appears to be their sole pathway for methane incorporation, as key enzymes for
+the assimilatory serine cycle, such as hydroxypyruvate reductase, were not found
+[75]. Genes not found in the sponge
+MOX included those encoding the Entner–Doudoroff (EDD) pathway enzymes,
+phosphogluconate dehydratase (Edd) and 2-dehydro-3-deoxy-phosphogluconate
+aldolase (Eda), which play a role in methane carbon assimilation via the RuMP
+pathway [76]. The sponge MOX symbionts
+appear to assimilate single carbon compounds only via the highly efficient
+Embden–Meyerhof–Parnas (EMP) variant of the RuMP cycle, based on
+the presence and substantial expression of the genes encoding
+fructose-bisphosphate aldolase (fba) and
+pyrophosphate-dependent phosphofructokinase (pfk), [76], (Figure
+6). The sponge MOX symbionts may, therefore, be more efficient in
+using single carbon compounds than the methane-oxidizing symbionts of
+bathymodiolin mussels, which only employ the less efficient EDD variant of the
+RuMP pathway [76, 77]. This suggests that the symbiotic MOX of sponges are
+able to provide nutrition to their hosts at lower methane concentrations than
+the mussel symbionts. This hypothesis is supported by our mapping analyses of
+the seafloor at Chapopote, as sponges were often situated further from hotspots
+of active gas and oil seepage than the mussels (Supplementary Figure
+S2).
+
+The symbiotic MOX appear to use a minimal suite of enzymes needed for
+methane assimilation. As opposed to most sequenced, free-living MOX, in which
+two variants of methanol dehydrogenase, the lanthanide-dependent (XoxF) and the
+calcium-dependent (MxaF) methanol dehydrogenase co-occur, only XoxF was found in
+the sponge symbionts (Figure 4).
+Furthermore, only one pmoCAB operon encoded the methane
+monooxygenase, while the pxmABC operon was not found (Figure 4). Despite this genetic minimalism in
+genes involved in methane oxidation, these genes, together with the RuMP
+pathway, were highly expressed by the symbionts (Figure 6). Moreover, these genes were among the top 1% of the most
+well-expressed transcripts in the metatranscriptomes, which included reads that
+mapped to both the host and the symbionts. This suggests that methane
+assimilation by the symbiotic MOX was among the most active metabolic processes
+in the sponge holobiont.
+
+The sponge MOX symbionts may be able to use other sources of carbon
+besides methane. Their genomes contained the genes for the TCA cycle, glycogen
+synthesis and degradation, as well as the import of multicarbon substrates via
+C4-dicarboxylate tripartite ATP-independent periplasmic (TRAP) transporters
+(Figure 6, Supplementary Note 1).
+Moreover, most of these genes were expressed (Figure 6). This suggests that similar to the mussel MOX symbionts,
+which also may use other carbon sources besides methane [77], the sponge MOX symbiont have evolved mechanisms to
+deal with fluctuations in methane availability. Indeed, our TEM observations of
+electron-lucent granules typical of carbon storage compounds in the MOX sponge
+symbionts supports our assumption that glycogen may be used to buffer against
+periods of methane deprivation.
+
+Reductive evolution and adaptation to the symbiosis
+Comparative analyses of clusters of orthologous groups (COGs) in the
+sponge MOX with those of free-living ‘Methylomonadaceae’, as well
+as the MOX symbionts of bathymodiolin mussels revealed that physical and biotic
+interactions with the environment appear to have shaped the pan-genome of
+free-living MOX. In these MOX, functions such as “cell motility”,
+“inorganic ion transport and metabolism”, “signal
+transduction mechanisms”, “membrane biogenesis”, and
+“function unknown” (this diverse group includes toxins, type VI
+secretion system, antibiotic resistance, phage and plasmid proteins) were
+enriched in comparison to the sponge and mussel symbionts (Figure 5b). The COGs “translation, ribosomal
+structure and biogenesis”, “coenzyme transport and
+metabolism” and “amino acid transport and metabolism” were
+enriched in the sponge MOX symbionts, suggesting that their metabolic repertoire
+beyond these housekeeping functions is limited. Large numbers of transposases
+and integrases resulted in the enrichment of the COG “replication,
+recombination and repair” in the MMG1 clade, which comprises symbionts of
+bathymodiolin mussels and a single free-living bacterium M.
+sedimenti. Expansion of transposable elements is more common in
+symbionts that have recently transitioned to an obligate, host-associated
+lifestyle, than in symbionts that have associated with their hosts over long
+evolutionary time periods [68, 69, 78, 79]. The sponge
+symbioses, therefore, may have pre-dated those of mussels. However, this is
+highly speculative, as the free-living MOX M. sedimenti also
+has high numbers of transposable elements. The only genes that were shared
+between the sponge and mussel symbionts, yet not present in most free-living
+‘Methylomonadaceae’, were the narGHIJ genes,
+encoding enzymes for nitrate respiration (Supplementary Note 2).
+Thus, there appears to be little convergence in the mechanisms the sponge and
+mussel symbionts have evolved to establish and maintain associations with their
+hosts.
+
+Analysis of the 163 core proteins that were unique to the free-living
+‘Methylomonadaceae’ revealed that the sponge symbionts appear to
+lack the following functions: i) nutrient uptake (nitrate ABC transporter
+NrtABC, the Pho regulon and phosphate transport system); ii) secondary
+metabolite production and secretion (Rml proteins that catalyze synthesis of
+nucleotide/polyketide sugars and Gsp building blocks of the type 2 secretion
+system); and iii) adaptation to hypoxia, based on the absence of the
+high-affinity ba3-type cytochrome oxidase [80]) (Figure 4, Supplementary Table 3a).
+Further indications that the sponge symbionts are not well adapted to hypoxia
+was the apparent lack of genes encoding the soluble NAD-reducing hydrogenase and
+acetate kinase, which catalyze fermentation of methane-derived products in many
+other MOX [76] (Figure 4). Some genes and pathways involved in nitrogen
+metabolism also appear to be lacking in the sponge symbionts. Unlike most
+free-living MOX, the sponge symbionts may be incapable of nitrogen fixation and
+dissimilatory nitrite reduction to nitrous oxide (Figure 4). As suggested previously for sulfur-oxidizing symbionts
+[81], a divergent respiratory nitrate
+reductase NarGHIJ, uncommon in most MOX, may play a role in non-canonical
+nitrate assimilation in the sponge MOX symbionts, which appear to lack the
+assimilatory nitrate reductase Nas (Supplementary Note 2). Altogether, these findings suggest a
+reduced functional repertoire of the sponge symbionts, which may have been
+shaped by i) adaptation of the sponge MOX to the chemical environment within the
+host milieu, ii) metabolic optimization via reduction of functional redundancy
+and iii) a very limited range of biotic interactions with free-living
+microorganisms. The reduction of such a wide array of functions that appear to
+be essential for a free-living lifestyle suggests that the sponge MOX may have
+entered the ‘rabbit hole’ of obligatory symbiosis, and are no
+longer able to actively grow outside of their host.
+
+Functional homogeneity between the symbiotic MOX from the two sponge
+species
+Comparative genomics revealed that the MOX symbionts from the two sponge
+species were similar in most of their core metabolic pathways. 1042 genes were
+common to their core genome, while 372 and 357 genes were unique to
+H. (S.) methanophila and
+I. methanophila symbionts, respectively
+(Supplementary Figure
+S6). The main fraction of the genomic content unique to each symbiont
+consisted of poorly-annotated open reading frames (ORFs), primarily including
+mobile elements and phage-derived sequences, often stabilized by toxin-antitoxin
+systems [82]. These toxin-antitoxin
+systems are abundant in the genomes of all sequenced aerobic methanotrophs and
+account for a significant part of their genomic variability (Figure 5a). Only three sets of genes with
+well-described metabolic functions were present in the genomes of the
+H. (S.) methanophila MOX,
+but appear to be absent in those of the I.
+methanophila MOX: i) genes encoding a urease and urea
+transporter, ii) a gene encoding a C4-dicarboxylate transporter and iii) a
+secondary metabolite synthesis cluster, most likely an aryl polyene of unknown
+function [83], (Supplementary Figure S7).
+No genes with a well-described metabolic function were found that were unique to
+the I. methanophila MOX in comparison to the
+H. (S.) methanophila MOX.
+
+Eukaryote-like proteins are encoded in the genomes of the sponge MOX
+The genomes of the sponge MOX symbionts contained 823 genes that were
+unique to the symbionts from both sponge species, and not present in free-living
+relatives (97 of which belong the sponge MOX symbiont core genome, see Supplementary Note 3 for
+more details). Some of these symbiont-specific sequences were ORFs as large as
+14.6 kb, and contained one or more eukaryotic-like domains (ELD), such as
+leucine-rich repeats, cadherin-like domains, and bacterial immunoglobulin-like
+domains (Supplementary Table
+S3, Supplementary Figure S8). ORFs with multiple ELDs are well known
+from intracellular bacterial pathogens and have also been regularly found in the
+bacterial metagenomes of other sponge species, where they encode eukaryote-like
+proteins (ELPs), which are likely involved in symbiotic interactions with their
+hosts (e.g. [84]). In the MOX symbionts
+of H. (S) methanophila, some of the ELPs
+contained autotransporter beta-domains. These are known from many gram-negative
+bacteria, and encode a protein involved in forming a pore through the outer
+membrane [85]. This suggests that the
+ELPs could be secreted, providing further evidence for their potential role in
+symbiont-host interactions. BLAST analysis of the sponge MOX symbiont ELPs
+against the NCBI database resulted in best hits to the ELPs in the
+Cycloclasticus symbionts of the Campeche sponges (e.g.
+ORU94421.1, 98% identity and 78% coverage compared to the 14.6 kb ORF from the
+H. (S.) methanophila
+MOX). The similarity of ELPs from symbionts that inhabit the same host but
+belong to very distant bacterial lineages suggests the convergent evolution of
+these putative symbiosis factors.
+
+The symbiotic MOX appear to be the primary source of sponge carbon
+Given the high abundances of MOX symbionts in both Campeche sponge
+species, we hypothesized that they play an important role in their nutrition. To
+test this hypothesis, we analyzed phospholipid fatty acids (PLFAs) and sterols
+in the sponges (see Supplementary Note 4 for more details). Monounsaturated fatty acids
+known to be specific to MOX [86],
+comprised 27% of all lipids of H. (S.)
+methanophila and 14% of all lipids in I.
+methanophila individuals, confirming high abundances of symbiotic
+MOX in both host species (Table 2).
+Carbon isotopic signatures of these fatty acids reflected those of Campeche
+methane (δ13Cmethane was between −50 and
+−45‰, [32],
+δ13CSpongeMOXfattyacids was between −51
+and −44‰, Supplementary Table S3). This suggests that in contrast to
+cultivated type I methanotrophs [87,
+88], the sponge MOX symbionts, as
+well as the mussel symbionts [86], do not
+fractionate methane carbon during the biosynthesis of their fatty acids,
+possibly due to periodic methane limitation.
+
+We were able to trace elongation of the MOX-specific fatty acids
+n-C16:1ω8 and
+n-C16:1ω7 to
+n-C18, n-C20,
+n-C22, n-C24,
+n-C26 with the same double bond positions and
+similar isotopic signatures in H. (S.)
+methanophila. This indicates that carbon compounds from the
+MOX symbionts were incorporated into their host's biomass (Table 2, Supplementary Table S3).
+I. methanophila also showed a similar chain-elongation
+pattern, however, the double bond positions were not exclusively ω8 and
+ω7, suggesting a lower degree of carbon incorporation from its MOX
+symbionts than in H. (S.)
+methanophila. Given the very low isotopic values of most
+sponge-derived lipid biomarkers, methane appears to be the main carbon source of
+the Campeche sponges, and we hypothesize that the majority of the
+methane-derived carbon in the sponges originates from their symbionts (Supplementary Note
+5).
+
+Conclusions
+Our study revealed that two, only distantly related, species of sponges
+independently established highly specific, nutritional symbioses with two very
+closely related MOX bacteria. This convergence in symbiont acquisition
+underscores the strong selective advantage for these sponges in harboring MOX
+bacteria in the food-limited deep sea: These animals gain access to a carbon and
+energy source, methane, that they cannot access on their own. For the symbionts,
+one of the main advantages is that the sponges provide them with simultaneous
+and continuous access to both methane and oxygen via active water pumping and
+high surface to volume ratios. In contrast, free-living methanotrophs are
+limited to a very narrow range of habitats in which methane and oxygen
+co-occur.
+
+Most research on symbioses between MOX bacteria and eukaryotes has
+focused on MOX from the MMG1 clade that have, so far, only been found in
+Bathymodiolus mussels. In contrast, only little is known
+about the symbioses between MOX from the MMG2 clade and their hosts. The
+diversity of hosts that these MMG2 MOX are associated with, ranging from
+ciliates to sponges, lobster and tubeworms, is only beginning to be recognized.
+Our study provides multifaceted insights into the genomic and metabolic
+potential of MMG2 MOX symbionts from deep-sea, seep sponges. Future studies of
+MMG2 MOX from other host groups will allow comparative analyses of the traits
+that have enabled these bacteria to independently colonize eukaryotic hosts
+multiple times in convergent evolution.
+
+Supplementary Material
+3  4  Suppl Figures  Supplementary Information  Acknowledgments
+The authors thank all individuals who helped during the R/V Meteor research cruise
+M114, including onboard technical and scientific personnel, the captain and crew,
+and the ROV MARUM-Quest team. We thank the Max Planck-Genome-Centre Cologne
+(http://mpgc.mpipz.mpg.de/home/) for generating the metagenomic and
+the metatranscriptomic data used in this study, the Imaging Core Facility at the
+University of Würzburg, Germany for embedding of the TEM samples, the Central
+Microscopy unit at the University of Kiel, Germany for access to their electron
+microscope facilities, and Ralf Lendt (University of Hamburg) for compound-specific
+carbon isotope measurements. We thank Bram Vekeman for providing the genomes from
+the MMG2 North Sea enrichments. The Campeche Knoll cruise was funded by the German
+Research Foundation (DFG – Deutsche Forschungsgemeinschaft). Additional
+support was provided through the MARUM DFG-Research Center / Excellence Cluster
+“The Ocean in the Earth System” at the University of Bremen. We are
+grateful to the Mexican authorities for granting permission to conduct this research
+in the southern Gulf of Mexico (permission of DGOPA: 02540/14 from 5 November 2014).
+This study was funded by the Max Planck Society, the MARUM DFG-Research Center /
+Excellence Cluster “The Ocean in the Earth System” at the University
+of Bremen, an ERC Advanced Grant (BathyBiome, 340535) and a Gordon and Betty Moore
+Foundation Marine Microbial Initiative Investigator Award to ND (Grant GBMF3811),
+the DFG Collaborative Research Center 1182 'Origin and Function of
+Metaorganisms to UH and ND, and the European Union’s Horizon 2020 research
+and innovation program to PC and UH under Grant Agreement No. 679849
+(‘SponGES’). CPA was supported by a postdoctoral fellowship from the
+Alexander von Humboldt Foundation.
+
+
+          Author Contributions
+        
+
+MRB, CPA, DB, JP, DB, HS, UH and ND conceived the study. HS provided the
+framework for deep-sea sample collections. YM and IMD provided in situ
+documentation. MRB, CPA, LS, YCW, CMP, DB, JP and PC analyzed the samples. MRB
+wrote the manuscript with contributions from all co-authors.
+
+
+          Conflict of interest
+        
+
+The authors declare no conflict of interest.
+
+Figure 1 The encrusting sponge Hymedesmia (Stylopus)
+methanophila sp. nov. and the branching sponge
+Iophon methanophila sp. nov. colonize asphalt seeps at
+Campeche Knolls. a, Geographic location of Campeche Knolls and the sponge
+collection sites, Chapopote and Mictlan. b, MARUM-QUEST ROV image of
+H. (S.) methanophila and
+I. methanophila at Chapopote. Galatheid crabs graze on the
+sponges.
+
+Figure 2 Fluorescence in situ hybridization (FISH) images of the symbiotic
+methane-oxidizing bacteria (MOX) in Campeche sponges. FISH was performed with a
+probe specific to the symbiotic MOX on 10 μm thick sections of I.
+methanophila and H. (S.)
+methanophila. Colors: MOX symbionts, magenta; DNA
+(DAPI-staining), blue; autofluorescence at ~520 nm with ~490 nm
+excitation (FITC filter), green. a, Overview of I.
+methanophila. The image is a mosaic of five aligned images (lines mark
+borders between the images). b, Overview of H.
+(S.) methanophila. The image is a mosaic
+of twenty aligned images (lines mark borders between the images,
+e: embryos in various developmental stages. c, MOX
+symbionts are abundant in the mesohyl of I. methanophila. d,
+Detail of embryos labeled e1 and e2 in panel
+b. e, FISH images of embryo labeled e2 in panel b using grey
+intensity representation to distinguish FISH signal of MOX symbionts (top panel)
+from DAPI staining (middle panel) and autofluorescence (bottom panel). Images
+from the mosaics, additional images of MOX in tissues of H.
+(S.) methanophila embryos and
+3-dimensional z-stack reconstructions are available at https://figshare.com/projects/Fueled_by_methane_Deep-sea_sponges_from_asphalt_seeps_gain_their_nutrition_from_methane-oxidizing_symbionts/23020.
+
+Figure 3 Transmission electron microscopy images of H.
+(S.) methanophila. a, Symbiotic
+methane-oxidizing bacteria (MOX) are abundant in the mesohyl, particularly in
+regions close to the choanocyte chambers (chambers not visible in image),
+sp=sponge cells, n=nucleus. b,
+High-resolution image of white box labeled b from panel a, showing intracellular
+membranes (arrows) typical for MOX. The MOX at the lower half of the image are
+dividing; bc = bacteria with a different morphology than the
+MOX symbionts. c, MOX symbiont in a lysosome of an amebocyte, l
+= lysosome. d, Mesohyl with an embryo surrounded by symbiotic MOX, and a
+bacteriocyte containing bacteria with a different morphology than the symbiotic
+MOX (bc). e, MOX symbionts within an embryo.
+he = heterogeneous yolk. f, A bacteriocyte containing
+bacteria with a different morphology than the MOX symbionts. bc
+= bacteria; n = nucleus.
+
+Figure 4 Phylogenomic tree and metabolic repertoire of the sponge MOX symbionts and
+related bacteria (45 sequences total). The sponge MOX symbionts and the two
+free-living MOX from North Sea sediment enrichments (provided by B. Vekeman) are
+currently the only genomes available for the MMG (Marine Methylotrophic Group)
+2, although 16S rRNA data indicates that they are widespread (see Supplementary Figure S3
+16S rRNA tree). Eighteen single-copy markers as defined in the AMPHORA core
+bacterial phylogenetic marker database were used in the analysis. The tree is
+drawn to scale, with branch lengths representing the number of substitutions per
+site. The percentage of trees in which the associated taxa clustered together
+was determined based on 100 bootstrap resamples. The analysis included 3,706
+positions. *These clades were formerly included in the family Methylococcaceae,
+and recently placed together with the MMG1 and MMG2 clades within the family
+‘Methylomonadaceae’ (order Methylococcales), based on the Genome
+Taxonomy Database.
+
+Figure 5 Comparison of genomes from the sponge symbionts and other gammaproteobacterial
+methane-oxidizing bacteria (MOX). a, Distribution of estimated
+genome sizes, guanine-cytosine (GC) content and the estimated number of
+toxin-antitoxin components in genomes of methane-oxidizing bacteria (MOX). The
+blue and red lines show pan genomes (blue) versus core genome (red) development
+plots (obtained by iteratively adding one genome at a time to the comparison in
+the defined order (starting with the first genome from the left). Comparative
+genomic analysis led to a pan-genome estimate of 16476 coding sequences, of
+which 1050 formed the core genome. The gradual change in the slope of the pan
+genome development curve for the MMG 2 symbionts suggests that this clade is
+sufficiently sampled. 163 genes were subtracted from the core genome of
+'Methylomonadaceae' after addition of the sponge symbionts. Mbp =
+million base pairs. b, Principal component analysis based on the
+relative abundance of clusters of orthologous groups (COGs) encoded by symbiotic
+and free-living MOX. The following COG abbreviations are shown: [D] cell cycle
+control, cell division, chromosome partitioning, [M] cell wall/membrane/envelope
+biogenesis, [N] cell motility, [O] post-translational modification, protein
+turnover, and chaperones, [T] signal transduction mechanisms, [U] intracellular
+trafficking, secretion, and vesicular transport, [V] defense mechanisms, [A] RNA
+processing and modification, [J] translation, ribosomal structure and
+biogenesis, [K] transcription, [L] replication, recombination and repair, [C]
+energy production and conversion, [E] amino acid transport and metabolism, [F]
+nucleotide transport and metabolism, [G] carbohydrate transport and metabolism,
+[H] coenzyme transport and metabolism, [I] lipid transport and metabolism, [P]
+inorganic ion transport and metabolism, [Q] secondary metabolites biosynthesis,
+transport, and catabolism, [S] function unknown.
+
+Figure 6 Central carbon and nitrogen metabolism in the sponge MOX symbionts. The
+reconstruction is based on the genomes of I. methanophila and
+H. (S.) methanophila
+symbionts and on the average expression in the two transcriptomes of
+H. (S.) methanophila
+symbionts. Boxes represent enzyme subunits and the abbreviations represent the
+genes that encode the respective subunit. Boxes are colored according to the
+expression value of the gene. The following genes are abbreviated:
+pmoABC, particulate methane monooxygenase subunits A, B and
+C; xoxF, methanol dehydrogenase; fae,
+formaldehyde activating enzyme; mtdB, methylene
+tetrahydromethanopterin dehydrogenase; mch,
+methenyltetrahydromethanopterin cyclohydrolase; fhcABCD,
+formyltransferase/hydrolase complex; fdhAB, formate
+dehydrogenase subunits alpha and beta; mtdA, methylene
+tetrahydrofolate/methylene tetrahydromethanopterin dehydrogenase;
+ftfL, formate--tetrahydrofolate ligase;
+hps, 3-hexulose-6-phosphate synthase; hpi,
+6-phospho-3-hexuloisomerase; pfk, pyrophosphate-dependent
+phosphofructokinase; fbp, fructose-1,6-bisphosphatase;
+fba, fructose-bisphosphate aldolase; tpi,
+triosephosphate isomerase; tkt, transketolase;
+talB, transaldolase; rpe,
+ribulose-phosphate 3-epimerase; rpiA, ribose-5-phosphate
+isomerase; gpi, glucose-6-phosphate isomerase;
+zwf, glucose-6-phosphate 1-dehydrogenase;
+pgl, 6-phosphogluconolactonase; gndA,
+6-phosphogluconate dehydrogenase; gapdh, glyceraldehyde
+3-phosphate dehydrogenase; pgk, phosphoglycerate kinase;
+gpml, 2,3-bisphosphoglycerate-independent phosphoglycerate
+mutase; eno, enolase; pyk, pyruvate kinase;
+por, pyruvate-flavodoxin oxidoreductase;
+dlat, acetyltransferase component of pyruvate dehydrogenase
+complex; dld; dihydrolipoamide dehydrogenase of pyruvate or
+2-oxoglutarate dehydrogenase complexes; pdhA1, pyruvate
+dehydrogenase E1 component subunit alpha; oadABG, oxaloacetate
+decarboxylase, alpha, beta and gamma chains; pgm,
+phosphoglucomutase; glgC, glucose-1-phosphate
+adenylyltransferase; glgA, glycogen synthase;
+glgB, 1,4-alpha-glucan branching enzyme;
+smht, serine hydroxymethyltransferase;
+agt/sgaA, serine-glyoxylate
+aminotransferase; mclA, malyl-CoA lyase;,
+mtkAB, malate thiokinase, alpha and beta subunits;
+mdh, malate dehydrogenase; gltA, citrate
+synthase; acn, aconitase; idh, isocitrate
+dehydrogenase; sucA, 2-oxoglutarate dehydrogenase E1 component;
+dlst, dihydrolipoyllysine-residue succinyltransferase
+component of 2-oxoglutarate dehydrogenase complex; sucCD,
+succinate-CoA ligase subunits beta and alpha; sdhABCD,
+succinate dehydrogenase complex subunits; fumC, fumarate
+hydratase; dctMPQ, C4-dicarboxylate TRAP transporter subunits;
+gltDB, glutamate synthase, large and small chains;
+glnA, glutamine synthetase; amt, ammonium
+transporter; nrt, nitrate transporter; nirBD,
+assimilatory nitrite reductase small and large subunits;
+narGHIJ, respiratory nitrate reductase, alpha-gamma
+subunits; urtABCDE, urea ABC transport system subunits;
+ureABCDEFG, urease subunits; atpABCDEFGH,
+subunits of the membrane-bound ATP synthase; cox123, cytochrome
+c oxidase subunit I-III; cytc1, cytochrome c-1, cytochrome b-c1
+complex; urc1, cytochrome b-c1 complex subunit 1;
+cytb, cytochrome b, cytochrome b-c1 complex.
+
+Table 1 Relative abundance and phylogenetic assignment of sponge-associated bacteria
+based on metagenomic and metatranscriptomic coverage of their 16S rRNA gene
+sequences and the coverage of metagenome assembled genomes (MAGs).
+Classifications at the Phylum level are mentioned in parentheses. The following
+names are abbreviated: H. (S.)
+methanophila from Mictlan (HmetMict) and Chapopote
+(HmetChap); I. methanophila from Chapopote
+subsamples 1 and 2 (ImetChap1 and ImetChap2); methane oxidizing bacteria (MOX);
+marine methylotrophic group 2 (MMG2). Numbers in parentheses within the column
+headers represent the ratio between the MOX 16S and the host’s 18S rRNA
+gene coverage. * E01-9C-26 marine group is a monophyletic
+‘sponge-enriched’ gammaproteobacterial clade. ** Aqs2 symbiont is
+a monophyletic ‘sponge-enriched’ clade of Proteobacteria, which
+includes symbionts of the low microbial abundance sponges Amphimedon
+queenslandica and Crambe crambe.
+
+	16S rRNA gene coverage		average MAG coverage	
+
+              
+            		
+              
+            	
+DNA		RNA						
+
+              
+            						
+HmetMict
+(2.7)	HmetChap
+(1.0)	ImetChap1
+(0.4)	ImetChap2
+(0.8)		HmetMict
+(1.6)	HmetChap
+(5.6)		HmetMict	HmetChap	ImetChap1	ImetChap2	
+MOX (MMG2, Proteobacteria)	58.8	50.4	58.1	52.5		42.8	37.6		67.6	52.1	45.3	35.9	
+Thioglobaceae - SUP05 (Proteobacteria)	5.7	6.9	12.4	14.8		6.8	7.3		4.6	5.2	17.0	20.2	
+Cycloclasticus (Proteobacteria)	10.8	6.2	6.5	5.1		8.9	1.8		7.9	8.4	6.7	6.0	
+E01-9C-26 marine group* (Proteobacteria)	6.3	14.8	0.6	0		10.0	10.0		14.8	21.6	0	0	
+JTB23 (Proteobacteria)	10.9	11.9	10.7	12.9		8.5	5.3		1.4	4.3	15.1	18.7	
+Nitrosopumilus (Thaumarchaeota)	0.1	3.2	0	0.6		8.1	28.7		0.4	6.2	0	0.9	
+Aqs2 Betaproteobacteria** (Proteobacteria)	0	0	6.8	7.5		0	0		0	0	8.6	9.0	
+Cytophagales (Bacteroidetes)	0	0	2.6	3.8		0	0		0	0	3.2	4.6	
+BD7-8 marine group (Proteobacteria)	3.4	2.9	0	0		7.6	3.0		2.1	1.4	0	0	
+Endozoicomonas (Proteobacteria)	2.1	1.2	3.2	2.1		3.2	2.1		0	0	0	0	
+KI89A clade ((Proteobacteria))	1.7	1.0	0.3	0.3		3.1	0.9		1.1	0.7	0.4	0.5	
+Azospirillum (Proteobacteria)	0.2	1.0	0	0		0.9	2.6		0	0	0	0	
+Nitrospina (Nitrospinae)	0	0.4	0	0		0.1	0.6		0	0	0	0	
+OCS116 (Proteobacteria))	0	0	1.5	1.3		0	0		0	0	2.0	2.1	
+SAR324 (Proteobacteria))	0	0	0.5	0.9		0	0		0	0	0.8	1.3	
+Spirochaetales (Spirochaetes)	0	0	0.3	0.2		0	0		0	0	0.4	0.5	
+
+              Bdellovibrio (Proteobacteria)
+            	0	0	0.3	0.2		0	0		0	0	0.3	0.2	
+													
+Color code (%)	≤0	≤10	≤30	≤60									
+Table 2 Relative composition of lipid biomarkers and their average δ13C
+values in sponge tissue. MOX, methane-oxidizing bacteria; SRB, sulfate-reducing
+bacteria; tb, terminally-branched; MUFAs, monounsaturated fatty acids; av.,
+average; NM, not measured.
+
+lipid biomarker sources	H. (S.)
+methanophila	
+              I. methanophila
+            	
+	
+              
+            	
+	% of all lipids	δ13C (‰) (av.)	% of all lipids	δ13C (‰) (av.)	
+	
+              
+            	
+MOX (MUFAs)	27	-46	14	-50	
+Sponge (demospongic acids, MUFAs)	28	-47	39	-43	
+Sponge (sterols)	29	-41	26	-43	
+Various sources (saturated n-fatty
+acids)	12	-36	16	-35	
+Bacteria, usually SRB (tb fatty acids)	1	NM	1	NM	
+Various bacteria (diplopterol)	3	-47	4	-43	
+
+   1 
+            Webster NS  
+           Cooperation, communication, and co-evolution: Grand challenges in
+microbial symbiosis research Front Microbiol 2014 5 164 
+2 
+            Schmitt S  
+            Tsai P  
+            Bell J  
+            Fromont J  
+            Ilan M  
+            Lindquist N  
+             
+           Assessing the complex sponge microbiota: core, variable and
+species-specific bacterial communities in marine sponges ISME J 2012 6 564 576 21993395 
+3 
+            Thomas T  
+            Moitinho-Silva L  
+            Lurgi M  
+            Björk JR  
+            Easson C  
+            Astudillo-García C  
+             
+           Diversity, structure and convergent evolution of the global
+sponge microbiome Nat Commun 2016 7 11870 
+4 
+            Taylor MW  
+            Radax R  
+            Steger D  
+            Wagner M  
+           Sponge-associated microorganisms: Evolution, ecology, and
+biotechnological potential Microbiol Mol Biol Rev 2007 71 295 347 17554047 
+5 
+            Gloeckner V  
+            Wehrl M  
+            Moitinho-silva L  
+            Schupp P  
+            Pawlik JR  
+            Lindquist NL  
+             
+           The HMA-LMA dichotomy revisited : an electron microscopical
+survey of 56 sponge species 2017 227 78 88 
+6 
+            Webster NS  
+            Thomas T  
+           The sponge hologenome MBio 2016 7 
+7 
+            Hentschel U  
+            Piel J  
+            Degnan SM  
+            Taylor MW  
+           Genomic insights into the marine sponge
+microbiome Nat Rev Microbiol 2012 10 641 654 22842661 
+8 
+            Wilson MC  
+            Mori T  
+            Rückert C  
+            Uria AR  
+            Helf MJ  
+            Takada K  
+             
+           An environmental bacterial taxon with a large and distinct
+metabolic repertoire Nature 2014 506 58 62 24476823 
+9 
+            Burgsdorf I  
+            Slaby BM  
+            Handley KM  
+            Haber M  
+            Blom J  
+            Marshall CW  
+             
+           Lifestyle evolution in cyanobacterial symbionts of
+sponges MBio 2015 6 e00391 15 26037118 
+10 
+            Gauthier M-EA  
+            Watson JR  
+            Degnan SM  
+           Draft genomes shed light on the dual bacterial symbiosis that
+dominates the microbiome of the coral reef sponge Amphimedon
+queenslandica  Front Mar Sci 2016 3 00196 
+11 
+            Slaby BM  
+            Hackl T  
+            Horn H  
+            Bayer K  
+            Hentschel U  
+           Metagenomic binning of a marine sponge microbiome reveals unity
+in defense but metabolic specialization ISME J 2017 11 2465 2478 28696422 
+12 
+            Ryu T  
+            Seridi L  
+            Moitinho-Silva L  
+            Oates M  
+            Liew YJ  
+            Mavromatis C  
+             
+           Hologenome analysis of two marine sponges with different
+microbiomes BMC Genomics 2016 17 158 26926518 
+13 
+            Fan L  
+            Reynolds D  
+            Liu M  
+            Stark M  
+            Kjelleberg S  
+            Webster NS  
+             
+           Functional equivalence and evolutionary convergence in complex
+communities of microbial sponge symbionts Proc Natl Acad Sci 2012 109 E1878 E1887 22699508 
+14 
+            Gao Z-M  
+            Wang Y  
+            Tian R-M  
+            Wong YH  
+            Batang ZB  
+            Al-Suwailem AM  
+             
+           Symbiotic adaptation drives genome streamlining of the
+cyanobacterial sponge symbiont “Candidatus 
+Synechococcus spongiarum.” MBio 2014 5 e00079 14 24692632 
+15 
+            Lackner G  
+            Peters EE  
+            Helfrich EJN  
+            Piel J  
+           Insights into the lifestyle of uncultured bacterial natural
+product factories associated with marine sponges Proc Natl Acad Sci 2017 114 E347 E356 28049838 
+16 
+            Liu M  
+            Fan L  
+            Zhong L  
+            Kjelleberg S  
+            Thomas T  
+           Metaproteogenomic analysis of a community of sponge
+symbionts ISME J 2012 6 1515 1525 22297557 
+17 
+            Moitinho-Silva L  
+            Díez-Vives C  
+            Batani G  
+            Esteves AI  
+            Jahn MT  
+            Thomas T  
+           Integrated metabolism in sponge–microbe symbiosis revealed
+by genome-centered metatranscriptomics ISME J 2017 1651 1666 28338677 
+18 
+            Fiore CL  
+            Labrie M  
+            Jarett JK  
+            Lesser MP  
+           Transcriptional activity of the giant barrel sponge,
+Xestospongia muta  holobiont: Molecular evidence for
+metabolic interchange Front Microbiol 2015 6 
+19 
+            Radax R  
+            Rattei T  
+            Lanzen A  
+            Bayer C  
+            Rapp HT  
+            Urich T  
+             
+           Metatranscriptomics of the marine sponge Geodia
+barretti : Tackling phylogeny and function of its microbial
+community Environ Microbiol 2012 14 1308 1324 22364353 
+20 
+            Moitinho-Silva L  
+            Seridi L  
+            Ryu T  
+            Voolstra CR  
+            Ravasi T  
+            Hentschel U  
+           Revealing microbial functional activities in the Red Sea sponge
+Stylissa carter i by metatranscriptomics Environ Microbiol 2014 16 3683 3698 24920529 
+21 
+            Mori T  
+            Cahn JKB  
+            Wilson MC  
+            Meoded RA  
+            Wiebach V  
+            Martinez AFC  
+             
+           Single-bacterial genomics validates rich and varied specialized
+metabolism of uncultivated Entotheonella  sponge
+symbionts Proc Natl Acad Sci 2018 115 201715496 
+22 
+            Jørgensen BB  
+            Boetius A  
+           Feast and famine—microbial life in the deep-sea
+bed Nat Rev Microbiol 2007 5 770 781 17828281 
+23 
+            Vacelet J  
+            Duport E  
+           Prey capture and digestion in the carnivorous sponge
+Asbestopluma hypogea  (Porifera:
+Demospongiae) Zoomorphology 2004 123 179 190 
+24 
+            Verhoeven JTP  
+            Kavanagh AN  
+            Dufour SC  
+           Microbiome analysis shows enrichment for specific bacteria in
+separate anatomical regions of the deep-sea carnivorous sponge
+Chondrocladia grandis  FEMS Microbiol Ecol 2017 93 fiw214 
+25 
+            Hestetun JT  
+            Dahle H  
+            Jørgensen SL  
+            Olsen BR  
+            Rapp HT  
+           The Microbiome and occurrence of methanotrophy in carnivorous
+sponges Front Microbiol 2016 7 1781 27881974 
+26 
+            Arellano SM  
+            Lee OO  
+            Lafi FF  
+            Yang J  
+            Wang Y  
+            Young CM  
+             
+           Deep sequencing of Myxilla 
+(Ectyomyxilla ) methanophila  an
+epibiotic sponge on cold-seep tubeworms, reveals methylotrophic,
+thiotrophic, and putative hydrocarbon-degrading microbial
+associations Microb Ecol 2013 65 450 461 23052927 
+27 
+            Tian R-M  
+            Zhang W  
+            Cai L  
+            Wong Y-H  
+            Ding W  
+            Qian P-Y  
+             
+           Genome reduction and microbe-host interactions drive adaptation
+of a sulfur-oxidizing bacterium associated with a cold seep
+sponge mSystems 2017 2 e00184 16 28345060 
+28 
+            Nishijima M  
+            Lindsay DJ  
+            Hata J  
+            Nakamura A  
+            Kasai H  
+            Ise Y  
+             
+           Association of thioautotrophic bacteria with deep-sea
+sponges Mar Biotechnol 2010 12 253 260 20221658 
+29 
+            Petersen JM  
+            Wentrup C  
+            Verna C  
+            Knittel K  
+            Dubilier N  
+           Origins and evolutionary flexibility of chemosynthetic symbionts
+from deep-sea animals Biol Bull 2012 223 123 137 22983038 
+30 
+            Vacelet J  
+            Boury-Esnault N  
+            Fiala-Medioni A  
+            Fisher CR  
+           A methanotrophic carnivorous sponge Nature 1995 377 296 
+31 
+            Dubilier N  
+            Bergin C  
+            Lott C  
+           Symbiotic diversity in marine animals: the art of harnessing
+chemosynthesis Nat Rev Microbiol 2008 6 725 740 18794911 
+32 
+            Sahling H  
+            Borowski C  
+            Escobar-Briones E  
+            Gaytán-Caballero A  
+            Hsu C-W  
+            Loher M  
+             
+           Massive asphalt deposits, oil seepage, and gas venting support
+abundant chemosynthetic communities at the Campeche Knolls, southern Gulf of
+Mexico Biogeosciences 2016 13 4491 4512 
+33 
+            Rubin-Blum M  
+            Antony CP  
+            Borowski C  
+            Sayavedra L  
+            Pape T  
+            Sahling H  
+             
+           Short-chain alkanes fuel mussel and sponge
+Cycloclasticus  symbionts from deep-sea gas and oil
+seeps Nat Microbiol 2017 17093 17093 
+34 
+            Montanaro J  
+            Gruber D  
+            Leisch N  
+           Improved ultrastructure of marine invertebrates using non-toxic
+buffers PeerJ 2016 4 e1860 27069800 
+35 
+            Kumar Y  
+            Westram R  
+            Kipfer P  
+            Meier H  
+            Ludwig W  
+           Evaluation of sequence alignments and oligonucleotide probes with
+respect to three-dimensional structure of ribosomal RNA using ARB software
+package BMC Bioinformatics 2006 7 240 16672074 
+36 
+            Ruff SE  
+            Arnds J  
+            Knittel K  
+            Amann R  
+            Wegener G  
+            Ramette A  
+             
+           Microbial communities of deep-sea methane seeps at Hikurangi
+continental margin (New Zealand) PLoS One 2013 8 e72627 24098632 
+37 
+            Duperron S  
+            Halary S  
+            Lorion J  
+            Sibuet M  
+            Gaill F  
+           Unexpected co-occurrence of six bacterial symbionts in the gills
+of the cold seep mussel Idas  sp. (Bivalvia:
+Mytilidae) Environ Microbiol 2008 10 433 445 18093159 
+38 
+            Yılmaz LŞ  
+            Noguera DR  
+           Development of thermodynamic models for simulating probe
+dissociation profiles in fluorescence in situ hybridization Biotechnol Bioeng 2007 96 349 363 16878331 
+39 
+            Amann RI  
+            Blinder BJ  
+            Olson RJ  
+            Chisholm SW  
+            Devereux R  
+            Stahl DA  
+           Combination of 16S rRNA-targeted oligonucleotide probes with flow
+cytometry for analyzing mixed microbial populations Appl Environ Microbiol 1990 56 1919 1925 2200342 
+40 
+            Wallner G  
+            Amann R  
+            Beisker W  
+           Optimizing fluorescent in situ hybridization with rRNA-targeted
+oligonucleotide probes for flow cytometric identification of
+microorganisms Cytometry 1993 14 136 143 7679962 
+41 
+            Peng Y  
+            Leung HCM  
+            Yiu SM  
+            Chin FYL  
+           IDBA-UD: a de novo assembler for single-cell and metagenomic
+sequencing data with highly uneven depth Bioinformatics 2012 28 1420 1428 22495754 
+42 
+            Seah BKB  
+            Gruber-Vodicka HR  
+           gbtools: Interactive visualization of metagenome bins in
+R Front Microbiol 2015 6 1451 26732662 
+43 
+            Nurk S  
+            Bankevich A  
+            Antipov D  
+           Assembling genomes and mini-metagenomes from highly chimeric
+reads Res Comput Mol Biol 2013 158 170 
+44 
+            Bankevich A  
+            Nurk S  
+            Antipov D  
+            Gurevich AA  
+            Dvorkin M  
+            Kulikov AS  
+             
+           SPAdes: A new genome assembly algorithm and its applications to
+single-cell sequencing J Comput Biol 2012 19 455 477 22506599 
+45 
+            Gurevich A  
+            Saveliev V  
+            Vyahhi N  
+            Tesler G  
+           QUAST: quality assessment tool for genome
+assemblies Bioinformatics 2013 29 1072 1075 23422339 
+46 
+            Parks DH  
+            Imelfort M  
+            Skennerton CT  
+            Hugenholtz P  
+            Tyson GW  
+           CheckM : assessing the quality of microbial genomes recovered
+from isolates, single cells, and metagenomes Genome Res 2015 25 1043 1055 25977477 
+47 
+            Liao Y  
+            Smyth GK  
+            Shi W  
+           FeatureCounts: An efficient general purpose program for assigning
+sequence reads to genomic features Bioinformatics 2014 30 923 930 24227677 
+48 
+            Wagner GP  
+            Kin K  
+            Lynch VJ  
+           Measurement of mRNA abundance using RNA-seq data: RPKM measure is
+inconsistent among samples Theory Biosci 2012 131 281 285 22872506 
+49 
+            Grabherr MG  
+            Haas BJ  
+            Yassour M  
+            Levin JZ  
+            Thompson DA  
+            Amit I  
+             
+           Full-length transcriptome assembly from RNA-Seq data without a
+reference genome Nat Biotechnol 2011 29 644 652 21572440 
+50 
+            Li B  
+            Dewey CN  
+           RSEM: accurate transcript quantification from RNA-Seq data with
+or without a reference genome BMC Bioinformatics 2011 12 323 21816040 
+51 
+            Wu M  
+            Scott AJ  
+           Phylogenomic analysis of bacterial and archaeal sequences with
+AMPHORA2 Bioinformatics 2012 28 1033 1034 22332237 
+52 
+            Edgar RC  
+           MUSCLE: Multiple sequence alignment with high accuracy and high
+throughput Nucleic Acids Res 2004 32 1792 1797 15034147 
+53 
+            Kumar S  
+            Stecher G  
+            Tamura K  
+           MEGA7: Molecular Evolutionary Genetics Analysis version 7.0 for
+bigger datasets Mol Biol Evol 2016 33 msw054 
+54 
+            Le SQ  
+            Gascuel O  
+           An Improved General Amino Acid Replacement Matrix Mol Biol Evol 2008 25 1307 1320 18367465 
+55 
+            Nichols PD  
+            Guckert JB  
+            White DC  
+           Determination of monosaturated fatty acid double-bond position
+and geometry for microbial monocultures and complex consortia by capillary
+GC-MS of their dimethyl disulphide adducts J Microbiol Methods 1986 5 49 55 
+56 
+            Brüning M  
+            Sahling H  
+            MacDonald IR  
+            Ding F  
+            Bohrmann G  
+           Origin, distribution, and alteration of asphalts at Chapopote
+Knoll, Southern Gulf of Mexico Mar Pet Geol 2010 27 1093 1106 
+57 
+            Moitinho-Silva L  
+            Steinert G  
+            Nielsen S  
+            Hardoim CCP  
+            Wu YC  
+            McCormack GP  
+             
+           Predicting the HMA-LMA status in marine sponges by machine
+learning Front Microbiol 2017 8 1 14 28197127 
+58 
+            Vacelet J  
+            Donadey C  
+           Electron microscope study of the association between some sponges
+and bacteria J Exp Mar Bio Ecol 1977 30 301 314 
+59 
+            Maldonado M  
+           Intergenerational transmission of symbiotic bacteria in oviparous
+and viviparous demosponges, with emphasis on
+intracytoplasmically-compartmented bacterial types J Mar Biol Assoc United Kingdom 2007 87 1701 1713 
+60 
+            Jain C  
+            Rodriguez-R LM  
+            Phillippy AM  
+            Konstantinidis KT  
+            Aluru S  
+           High-throughput ANI analysis of 90K prokaryotic genomes reveals
+clear species boundaries bioRxiv 2017 225342 
+61 
+            Parks DH  
+            Chuvochina M  
+            Waite DW  
+            Rinke C  
+            Skarshewski A  
+            Chaumeil P-A  
+             
+           A standardized bacterial taxonomy based on genome phylogeny
+substantially revises the tree of life Nat Biotechnol 2018 36 996 1004 30148503 
+62 
+            Vekeman B  
+            Speth D  
+            Wille J  
+            Cremers G  
+            De Vos P  
+            Op den Camp HJM  
+             
+           Genome characteristics of two novel type I methanotrophs enriched
+from North Sea sediments containing exclusively a lanthanide-dependent
+XoxF5-type methanol dehydrogenase Microb Ecol 2016 72 503 509 27457652 
+63 
+            Pasulka AL  
+            Goffredi SK  
+            Tavormina PL  
+            Dawson KS  
+            Levin LA  
+            Rouse GW  
+             
+           Colonial tube-dwelling ciliates influence methane cycling and
+microbial diversity within methane seep ecosystems Front Mar Sci 2017 3 276 
+64 
+            Watsuji T  
+            Nakagawa S  
+            Tsuchida S  
+            Toki T  
+            Hirota A  
+            Tsunogai U  
+             
+           Diversity and function of epibiotic microbial communities on the
+galatheid crab, Shinkaia crosnieri  Microbes Environ 2010 25 288 294 21576884 
+65 
+            Rodrigues CF  
+            Hilário A  
+            Cunha MR  
+            Weightman AJ  
+            Webster G  
+           Microbial diversity in Frenulata (Siboglinidae, Polychaeta)
+species from mud volcanoes in the Gulf of Cadiz (NE
+Atlantic) Antonie van Leeuwenhoek, Int J Gen Mol Microbiol 2011 100 83 98 
+66 
+            Petersen JM  
+            Dubilier N  
+           Methanotrophic symbioses in marine invertebrates Environ Microbiol Rep 2009 1 319 335 23765884 
+67 
+            Vacelet J  
+            Fiala-Médioni A  
+            Fisher CR  
+            Boury-Esnault N  
+           Symbiosis between methane-oxidizing bacteria and a deep-sea
+carnivorous cladorhizid sponge Mar Ecol Prog Ser 1996 145 77 85 
+68 
+            Padilla CC  
+            Bertagnolli AD  
+            Bristow LA  
+            Sarode N  
+            Glass JB  
+            Thamdrup B  
+             
+           Metagenomic binning recovers a transcriptionally active
+gammaproteobacterium linking methanotrophy to partial denitrification in an
+anoxic oxygen minimum zone Front Mar Sci 2017 4 23 
+69 
+            Moran NA  
+            Plague GR  
+           Genomic changes following host restriction in
+bacteria Curr Opin Genet Dev 2004 14 627 633 15531157 
+70 
+            Moran NA  
+            Bennett GM  
+           The tiniest tiny genomes Annu Rev Microbiol 2014 68 195 215 24995872 
+71 
+            Salem H  
+            Florez L  
+            Gerardo N  
+            Kaltenpoth M  
+           An out-of-body experience: the extracellular dimension for the
+transmission of mutualistic bacteria in insects Proc R Soc B Biol Sci 2015 282 20142957 20142957 
+72 
+            Wernegreen JJ  
+           Endosymbiont evolution: predictions from theory and surprises
+from genomes Ann N Y Acad Sci 2015 1360 16 35 25866055 
+73 
+            Batut B  
+            Knibbe C  
+            Marais G  
+            Daubin V  
+           Reductive genome evolution at both ends of the bacterial
+population size spectrum Nat Rev Microbiol 2014 12 841 850 25220308 
+74 
+            Mann S  
+            Chen YPP  
+           Bacterial genomic G + C composition-eliciting environmental
+adaptation Genomics 2010 95 7 15 19747541 
+75 
+            Anthony C  
+           The biochemistry of methylotrophs London, New York, NY Academic Press 1983 
+76 
+            Kalyuzhnaya MG  
+            Yang S  
+            Rozova ON  
+            Smalley NE  
+            Clubb J  
+            Lamb a  
+             
+           Highly efficient methane biocatalysis revealed in a
+methanotrophic bacterium Nat Commun 2013 4 2785 
+77 
+            Ponnudurai R  
+            Kleiner M  
+            Sayavedra L  
+            Petersen JM  
+            Moche M  
+            Otto A  
+             
+           Metabolic and physiological interdependencies in the
+Bathymodiolus azoricus  symbiosis ISME J 2017 11 463 477 27801908 
+78 
+            Hendry TA  
+            Freed LL  
+            Fader D  
+            Fenolio D  
+            Sutton TT  
+            Lopez JV  
+           Ongoing transposon-mediated genome reduction in the luminous
+bacterial symbionts of deep-sea ceratioid anglerfishes MBio 2018 9 e01033 18 29946051 
+79 
+            Oakeson KF  
+            Gil R  
+            Clayton AL  
+            Dunn DM  
+            Von Niederhausern AC  
+            Hamil C  
+             
+           Genome degeneration and adaptation in a nascent stage of
+symbiosis Genome Biol Evol 2014 6 76 93 24407854 
+80 
+            Kleiner M  
+            Young JC  
+            Shah M  
+            Verberkmoes NC  
+            Dubilier N  
+           Metaproteomics reveals abundant transposase expression in
+mutualistic endosymbionts MBio 2013 4 16 18 
+81 
+            Kleiner M  
+            Wentrup C  
+            Lott C  
+            Teeling H  
+            Wetzel S  
+            Young J  
+             
+           Metaproteomics of a gutless marine worm and its symbiotic
+microbial community reveal unusual pathways for carbon and energy
+use Proc Natl Acad Sci U S A 2012 109 1173 1182 
+82 
+            Van Melderen L  
+           Toxin-antitoxin systems: Why so many, what for? Curr Opin Microbiol 2010 13 781 785 21041110 
+83 
+            Cimermancic P  
+            Medema MH  
+            Claesen J  
+            Kurita K  
+            Wieland Brown LC  
+            Mavrommatis K  
+             
+           Insights into secondary metabolism from a global analysis of
+prokaryotic biosynthetic gene clusters Cell 2014 158 412 421 25036635 
+84 
+            Díez-Vives C  
+            Moitinho-Silva L  
+            Nielsen S  
+            Reynolds D  
+            Thomas T  
+           Expression of eukaryotic-like protein in the microbiome of
+sponges Mol Ecol 2017 26 1432 1451 28036141 
+85 
+            Desvaux M  
+            Parham NJ  
+            Henderson IR  
+           The autotransporter secretion system Res Microbiol 2004 155 53 60 14990256 
+86 
+            Kellermann MY  
+            Schubotz F  
+            Elvert M  
+            Lipp JS  
+            Birgel D  
+            Prieto-Mollar X  
+             
+           Symbiont–host relationships in chemosynthetic mussels: A
+comprehensive lipid biomarker study Org Geochem 2012 43 112 124 
+87 
+            Summons RE  
+            Jahnke LL  
+            Roksandic Z  
+           Carbon isotopic fractionation in lipids from methanotrophic
+bacteria: Relevance for interpretation of the geochemical record of
+biomarkers Geochim Cosmochim Acta 1994 58 2853 2863 11540111 
+88 
+            Jahnke LL  
+            Summons RE  
+            Hope JM  
+            Des Marais DJ  
+           Carbon isotopic fractionation in lipids from methanotrophic
+bacteria II: the effects of physiology and environmental parameters on the
+biosynthesis and isotopic signatures of biomarkers Geochim Cosmochim Acta 1999 63 79 93 11541777 
+

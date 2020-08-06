@@ -1,0 +1,537 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10148471136817EpidemicsEpidemicsEpidemics1755-43651878-006727821278520689110.1016/j.epidem.2016.10.006NIHMS828374ArticleTargeting pediatric versus elderly populations for norovirus vaccines: a model-based analysis of mass vaccination options Steele Molly K. ab*Remais Justin V. cGambhir Manoj dGlasser John W. aHandel Andreas eParashar Umesh D. aLopman Benjamin A. afa Epidemiology Branch, Division of Viral Diseases, National Center for Immunization and Respiratory Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia, 30333, United States of Americab Department of Environmental Health, Rollins School of Public Health, Emory University, Atlanta, Georgia, United States of Americac Environmental Health Sciences, School of Public Health, University of California, Berkeley, California, United States of Americad Epidemiological Modelling Unit, Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Australiae Department of Epidemiology and Biostatistics, College of Public Health, University of Georgia, Athens, Georgia, United States of Americaf Department of Epidemiology, Rollins School of Public Health, Emory University, Atlanta, Georgia, United States of America* Corresponding author: Molly Steele, Department of Environmental Health, Rollins School of Public Health, 1518 Clifton Road, Atlanta, Georgia, United States of America, molly.steele@emory.edu19 11 2016 24 10 2016 12 2016 01 12 2017 17 42 49 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+Noroviruses are the leading cause of acute gastroenteritis and foodborne diarrheal disease in the United States. Norovirus vaccine development has progressed in recent years, but critical questions remain regarding which age groups should be vaccinated to maximize population impact.
+
+Methods
+We developed a deterministic, age-structured compartmental model of norovirus transmission and immunity in the U.S. population. The model was fit to age-specific monthly U.S. hospitalizations between 1996 and 2007. We simulated mass immunization of both pediatric and elderly populations assuming realistic coverages of 90% and 65%, respectively. We considered two mechanism of vaccine action, resulting in lower vaccine efficacy (lVE) between 22% and 43% and higher VE (hVE) of 50%.
+
+Results
+Pediatric vaccination was predicted to avert 33% (95% CI: 27%, 40%) and 60% (95% CI: 49%, 71%) of norovirus episodes among children under five years for lVE and hVE, respectively. Vaccinating the elderly averted 17% (95% CI: 12%, 20%) and 38% (95% CI: 34%, 42%) of cases in 65+ year olds for lVE and hVE, respectively. At a population level, pediatric vaccination was predicted to avert 18–21 times more cases and twice as many deaths per vaccinee compared to elderly vaccination.
+
+Conclusions
+The potential benefits are likely greater for a pediatric program, both via direct protection of vaccinated children and indirect protection of unvaccinated individuals, including adults and the elderly. These findings argue for a clinical development plan that will deliver a vaccine with a safety and efficacy profile suitable for use in children.
+
+vaccinationnorovirustransmissionmathematical modelingherd immunity
+   INTRODUCTION
+Noroviruses are the leading cause of acute gastroenteritis in the United States,1–3 responsible for an average 570–800 deaths, 56,000–71,000 hospitalizations, 400,000 emergency department admissions, 1.7–1.9 million outpatient admissions, and 19–21 million illnesses annually.2 Severe norovirus outcomes occur among pediatric and elderly populations, with 90% of norovirus-associated deaths in the U.S. occurring among the elderly.4 Children under five years of age experience the highest incidence (five times the general population)5 and have the highest rates of outpatient, emergency department, and inpatient visits (233, 38, and 9.4 per 10,000 persons per year, respectively).6,7 Given this substantial burden and limited options for prevention and treatment,8 vaccines are considered an important means of providing protection from norovirus illness.3
+
+Safety, immunogenicity, and efficacy studies on norovirus vaccines have been encouraging, with at least one bivalent intramuscular product likely to progress to Phase III field efficacy trials.3 Current vaccine evaluations have been conducted among adults. However, as noroviruses affect all ages and are transmitted through multiple routes, an array of vaccination strategies warrants consideration. At the current stage of vaccine development, the time is ideal for examining the population impact that various norovirus vaccination programs could have on the dynamics of disease to guide vaccine development and inform policymakers on potential impacts.
+
+Here, we present an age-structured dynamic transmission model to project the effects of different vaccination strategies on the epidemiology and disease burden of norovirus in the U.S., including the incidence of five clinical outcomes (cases, outpatient visits, emergency department visits, inpatient visits, and deaths) for each of four age classes (0–4, 5–17, 18–64, and 65+ years). The model was used to compare vaccination strategies targeting pediatric versus elderly populations, both in terms of impact on disease burden and relative efficiency under various assumptions about vaccine efficacy.
+
+METHODS
+We adapted a previously-published, deterministic, age-structured compartmental model that simulates norovirus transmission and estimates disease incidence in the U.S.9 The model follows a Susceptible-Exposed-Infected-Recovered (SEIR-like) framework (Figure 1, S1 Text). We consider four age classes: 0–4, 5–17, 18–64, and 65+ years old, and applied realistic, age-specific population sizes, aging and death rates, and a heterogeneous contact structure (Table 1, S1 Text, Table S1). Lacking detailed mixing data specific to the U.S., we used average contact patterns from representative samples of eight European countries in the POLYMOD study.10
+
+We estimated age-specific susceptibilities (qi) to allow the four age classes (i; 0–4, 5–17, 18–64, and 65+ year olds) to exhibit heterogeneous probabilities of infection given exposure to an infectious contact. We also considered models with different numbers of estimated age-specific susceptibilities (qi) and where transmission was dependent on susceptible or infectious individuals (S1 Text, Table S2); the results of this paper focus on the best-fit model, where the probabilities of infection on contact for 5–17 and 18–64 year olds were equal (q2 = q3).
+
+We assume maternal immunity is short-lived and negligible.11 Therefore, absent vaccination, children are born into the susceptible class (S). Susceptible individuals are subjected to a force of infection (λi(t)), and progress through pre-symptomatic (E), symptomatic (I) and post-symptomatic (A) stages at rates inversely proportional to the duration of incubation (μ), symptomatic illness (φ), and asymptomatic shedding (ρ), respectively, before entering the recovered compartment (R). In this framework, individuals acquire natural immunity that protects against disease, but not against infection, until immunity wanes.5,12 From the recovered compartment, persons can become asymptomatically infected (A) or susceptible to disease as natural immunity wanes (θ). To simulate seasonality, we applied a seasonal forcing parameter (β1) that governs the peak-to-mean amplitude in transmissibility. To estimate clinical outcomes, we multiplied the projected disease incidence by age-specific probabilities (given norovirus illness) of outpatient (OP) admission, emergency department (ED) admission, hospitalization (IP), and death due to norovirus. These probabilities were determined from U.S. population estimates and described in more detail in previous work.13
+
+Model simulation, fitting, and analysis were conducted in R version 3.1.1.14 Specific R packages used for these analyses are detailed in the supplement. We fit the model to age-specific monthly counts of norovirus-associated hospitalizations by maximum likelihood to estimate the susceptibility (q1…4) and seasonality (β1,ω) parameters.6 We assumed the monthly numbers of hospitalizations in each age group were Poisson distributed with mean equal to the model-predicted age-specific incidence multiplied by the probability of hospitalization.15 Age-specific R0 values were calculated following procedures detailed in the supplement and Simmons et. al., 2013 (S1 Text).9
+
+Vaccine Scenarios
+We assumed vaccine response was “take-type”: either protection against disease was complete or vaccinated individuals remained fully susceptible.16 We assumed vaccines confer protection in the same manner as we conceptualize natural immunity: providing protection against disease, but not infection. Thus, vaccinated individuals can become asymptomatically infected or susceptible to disease as vaccine-induced immunity wanes (τ) (Figure 1).
+
+After model fitting, we simulated routine, age-targeted vaccination of infants around the time of birth with vaccine coverage of 90% (i.e. Pediatric immunization) and individuals turning age 65 and every five years thereafter with vaccine coverage of 65% (i.e. Elderly immunization). Vaccine coverage for these scenarios was based on recent age-specific uptake of measles and influenza vaccines.17,32,33 No vaccine efficacy (VE) estimates from field trails exist for norovirus vaccines, so we considered two different values, based on different interpretations of vaccine-challenge studies. These studies suggest monovalent or bivalent norovirus vaccination followed by a homotypic challenge reduces disease by approximately 50% among vaccinated individuals.19,20 In low-efficacy vaccine scenarios (lVE Pediatric and Elderly) we assume only those immunologically susceptible to norovirus at the time of vaccine administration gain additional protection from disease. About 44% and 55% of 0–4 year olds are susceptible and recovered, respectively, prior to vaccination, resulting in a VE around 22% for 0–4 year olds. In the elderly population, 85% are susceptible and 14% are recovered prior to vaccination, thus VE is approximately 43% for the elderly. Under a more optimistic high VE (hVE) scenario, we assume vaccination confers a 50% reduction in disease incidence over one year among vaccinated individuals.
+
+For these four vaccine scenarios—and for a scenario without vaccination—we estimated age-specific incidence of disease and clinical outcomes. Analyses of long-term impacts of vaccination were conducted after the system had reached equilibrium, approximately 40 years after vaccine introduction. We simulated a well-established vaccination program with coverage similar to other vaccines. More detailed analyses are required to model the scale-up of vaccine coverage in the first few years after implementation and the associated epidemiological impacts. We calculated population direct and indirect effects of vaccination by comparing vaccine to no-vaccine simulations. We also assessed the efficiency of vaccine simulations, defined as the number of clinical outcomes averted per vaccinee (S1 Text).
+
+Parameters and Simulations
+Parameter values (and ranges) for natural history, and clinical outcome probabilities were set to values identified in observational/challenge studies, and previous modeling studies (Table 1). We used Latin hypercube sampling to generate 1,100 random samples of parameter sets and then re-fit the transmission probabilities and seasonality parameters, in the absence of vaccination, for each parameter set. We then ranked the 1,100 sampled and fitted parameter sets by their negative log likelihood (NLL) value. The 100 parameter sets with the highest NLL values were discarded, and we ran each vaccine scenario with the remaining 1,000 parameter sets. For summary statistics, we report medians and 2.5/97.5 percentiles of the annual clinical outcomes averted. These annual data are four year averages. In order to quantify the sensitivity of model projections to uncertainty in each parameter’s value, we calculated partial rank correlation coefficients (PRCC) for natural history and vaccine parameters. PRCC values were calculated between model parameters and the percentage of cases averted in the total population and the age group targeted for vaccination in a given vaccination scenario.
+
+RESULTS
+Model Fitting
+The best fit model based on the minimum Akaike information criterion (Table S2) included three age-specific probabilities of infection on contact. The observed and predicted average annual norovirus hospitalizations were 71,461 and 71,906, respectively (Figure 2). A seasonal forcing of 3.4% (95% CI: 1.1%, 8.1%) of peak-to-mean amplitude provided the best fit to observed seasonal variation in monthly hospitalizations (Table 1, Figure S2, Table S2). In the best-fit model, 0–4 year olds contributed the most to transmission, with an age-specific basic reproduction number (R0) of 4.3 compared to 1.4, 1.2, and 0.4 from 5–17, 18–64, and 65+ years, respectively (S1 Text).
+
+Vaccine Impact
+The Pediatric programs rapidly reduced disease incidence in 0–4 year olds. Disease incidence exhibited inter-annual variability for the first several years before reaching lower equilibria (Figure 3A). In the first five years of the lVE Pediatric program, incidence among 0–4 year olds was reduced by 24%, 41%, 22%, 37%, and 30%. In the first five years of the hVE Pediatric program, incidence among 0–4 year olds was reduced by 42%, 78%, 59%, 46%, and 68%.
+
+Elderly vaccination led to gradual reductions in disease incidence, achieving a new equilibrium of lower incidence in approximately 15 years (Figure 3B). In the first five years of the lVE Elderly program, incidence among the elderly was reduced by 3%, 6%, 9%, 11%, and 12%. In the first five years of the hVE Elderly program, incidence among the elderly was reduced by 5%, 13%, 19%, 23%, and 26%.
+
+The lVE Pediatric program at equilibrium was predicted to avert 33% (95% CI: 27%, 40%) of all clinical outcomes in 0–4 year olds annually (Table 2, Figure4A, Figure 5A). Approximately 71% of the averted outcomes were achieved through direct effects and 29% through indirect effects (Figure 4A). In older age classes, 14–16% of cases were averted primarily through indirect effects (Figure 4A, Figure 5A, Table 2).
+
+The hVE Pediatric program at equilibrium was predicted to avert 60% (95% CI: 49%, 71%) of all clinical outcomes in the 0–4 year olds annually (75% through direct and 25% indirect protection; Table S3, Figure 4C, Figure 5C). In older age classes, 29–33% of cases were averted primarily through indirect protection (Table S3, Figure 4C, Figure 5C).
+
+A lVE Elderly program at equilibrium would avert approximately 17% (95% CI: 12%, 20%) of all clinical outcomes almost exclusively through direct effects in the elderly (Table 3, Figure 4B, Figure 5B). Minimal impacts were conferred on other age groups as less than 1% of outcomes in 0–64 year olds were averted through indirect effects (Table 3, Figure 4B, Figure 5B).
+
+The hVE Elderly program at equilibrium was predicted to avert 38% (95% CI: 34%, 42%) of all clinical outcomes almost exclusively through direct effects (Table S4, Figure 4D, Figure 5D). Minimal impacts were conferred on younger age groups, with approximately 1% or less of outcomes averted through indirect effects (Table S4, Figure 4D, Figure 5D).
+
+Pediatric programs were more efficient than Elderly programs. Per 100,000 vaccinees assuming lVE, the Pediatric program averted 21 times more cases; 26 times more OP visits; 15 times mores ED visits; 6 times more IP admissions; and twice as many deaths (Table 4) as Elderly programs. For hVE, the Pediatric programs averted 18 times more cases; 21 times more OP visits; 13 times more ED visits; 5 times more IP admissions; and twice as many deaths (Table 4) as Elderly programs. For every one case averted through direct effects, 3 and 5 cases in the total population were averted through indirect effects with lVE and hVE Pediatric programs, respectively. For every one case averted through direct effects, 0.5 and 1 cases in the total population were averted through indirect effects with lVE and hVE Elderly programs, respectively.
+
+Sensitivity Analysis
+For the Pediatric vaccine programs, the duration of natural immunity (θ), duration of vaccine induced immunity (α), and the probability of infection on contact for 5–64 year olds (q2,3) had the most influence on the percent of cases averted in the total population (Table 5). The most influential parameters on the percent of cases averted in the total population for the Elderly vaccine programs were the duration of natural immunity (θ), duration of vaccine induced immunity (α), and 65+ year olds (q4) (Table 5).
+
+When other parameters were fixed, the percentage of cases averted in the total population ranged from 15% (95% CI: 12%, 20%) to 23% (95% CI: 18%, 30%) and 28% (95% CI: 22%, 39%) to 45% (95% CI: 34%, 60%) across the tested range in duration of vaccine immunity (Table 1) for lVE and hVE Pediatric programs, respectively. The percentage of cases averted in the total population ranged from 1% (95% CI: 1%, 2%) to 2% (95% CI: 2%, 3%) and 4% (95% CI: 3%, 5%) to 5% (95% CI: 4%, 6%) across the tested range in duration of vaccine immunity for lVE and hVE Elderly programs, respectively.
+
+DISCUSSION
+Results from this transmission modeling study suggest the overall population impact of norovirus vaccination can vary substantially depending on the age group targeted. Pediatric programs offered the greatest reductions in all clinical outcomes, with 33% to 60% decreases among 0–4 year olds, and 14% to 33% reductions in older age groups achieved primarily through indirect protection. Pediatric programs were 18–21 times more efficient at preventing cases and 5–6 and two times more efficient at preventing IP admissions, and deaths, respectively, when compared to Elderly programs. Elderly programs averted between 17% and 38% of cases in the elderly, and provided protection almost exclusively through direct effects. This is a result of the minimal contribution that the elderly make to disease transmission. In fact, Pediatric programs were predicted to confer similar benefits to the elderly as Elderly programs. Taken together, these results indicate targeting pediatric populations for vaccination leads to greater direct and indirect benefits for the total population than vaccine programs that target the elderly. Children under five have higher disease, OP, and ED admission rates; thus vaccines can directly prevent these outcomes. The indirect benefits of Pediatric programs are a result of reductions in disease transmission, owing to the importance of young children in transmission. This finding is consistent with observational studies that identified contact with a young child with norovirus gastroenteritis as a risk factor for diarrhea for older children and adults.5,21 Large indirect benefits have been observed with the introduction of pediatric rotavirus and pneumococcal vaccines in the U.S., with unvaccinated populations protected through reductions in the overall force of infection.18,22
+
+A second important finding was the identification of key parameters that influence the impact of vaccine programs. For both Pediatric and Elderly vaccination programs, the duration of vaccine-induced immunity, and age-specific transmission parameters (q2,3 and q4 for Pediatric and Elderly programs, respectively) strongly determined the outcome of the analysis. These are parameters for which we have limited empirical data because transmission is largely unobservable,23 and no vaccine studies have included long-term follow-up for clinical outcomes.24 In order to better predict the impacts of norovirus vaccines in future work, this analysis highlights the high value of collecting information on transmission from observational studies and conducting clinical trials that can estimate the duration of protection for both children under five and the elderly.
+
+The predicted impacts of lVE scenarios were modest due to technical reasons related to our model construction. First, we assume vaccination only provides additional protection for those who are susceptible to disease (in the S class) at the time of immunization. Individuals who have acquired natural immunity will receive no added protection. This assumption strongly limits the impact of vaccination for adults as many will have acquired immunity, whereas we assume all children are susceptible at the time of infant immunization. A second explanation is that we assume exponential waning of both natural and vaccine immunity; thus while the average duration of protection 5.1 years, most individuals have a shorter-duration immunity while a few have longer-term protection. Compartmental models can be modified to assume other distributions for waning immunity; however no data are available to inform the functional form of waning immunity to norovirus. The hVE scenarios which were based on a 50% vaccine efficacy19,20 resulted in more optimistic impacts. The values and concepts of vaccine action that are most appropriate can be informed by future clinical trial data.
+
+There are several limitations to this study. First, there is uncertainty in the robustness of the epidemiological data used to fit the model. We used U.S. hospitalization data, which are model estimates, and community incidence rates were informed by a U.K. study. In that study, incidence in older age groups was low and may have been biased downwards.5 Fitting to such low incidence limited the potential impact of elderly immunization in our model and limited the role of elderly people in transmission. Second, there is considerable uncertainty in model parameters due to our limited understanding of natural history of norovirus disease and transmission, particularly the relative roles of pre- and post-symptomatic transmission. Third, our model construction assumes a single strain of norovirus; thus infection from, or vaccination against, one strain of norovirus provides protection against all other infections. This is a major simplification, as noroviruses are highly genetically diverse and natural immunity provides only limited cross-protection within genogroups.25 However, this simplification may be partially accounted for by the duration of immunity parameter, particularly in the low vaccine efficacy scenario. In addition, novel genogroup 2 type 4 (GII.4) strains emerge every two to four years, that may evade host population immunity. Current data are insufficient to establish the degree of cross-protection to norovirus, or to parameterize a multi-strain model as has been accomplished for influenza.26 For a more complete understanding of norovirus transmission and vaccination, these are important areas for further empirical studies and, subsequently, model development. Additionally, we did not consider a model that incorporated a class of individuals that are genetically resistant to norovirus infection. As more data become available on the effect of vaccination among genetically resistant individuals, future modeling studies should consider such a class. Another important limitation is that we assumed that VE was the same for all clinical outcomes and disease severity. This may not be the case. For rotavirus, VE is greater for severe outcomes.18 Finally, while we developed a model to predict the impact of infant and elderly vaccination, there have been no studies of VE in pediatric populations and only one immunogenicity study in the elderly.24 Human safety, immunogenicity and efficacy studies have all involved experimental challenge of adults (typically 18–49 years old).19,20,27 While these results are promising, clinical trials will be pivotal in determining VE among infants and the elderly. Though our study made several simplifying assumptions—as all models do—the dynamic transmission framework presented here offers a more comprehensive understanding of total population benefits of vaccination than previous studies that included only direct effects.13
+
+In summary, our results quantitatively demonstrate that the potential public health value of a norovirus vaccine is likely greatest with pediatric immunization. This finding argues for a clinical development plan for a vaccine with a safety and efficacy profile suitable for use in children. To improve models for future analyses, better data are needed on the duration of natural and vaccine immunity, the extent of cross-protection and process of norovirus infection. Future modeling studies should incorporate norovirus strain diversity to examine the implications of multiple, evolving strains for vaccination. As more data become available on the extent of cross-protection and the duration of vaccine immunity, this modeling framework can be adapted to more precisely estimate population-level impacts of norovirus vaccination. Models should also be adapted to developing world settings where the force of infection is higher28 and disease burden is greater.29
+
+Supplementary Material
+supplement  Funding: This work was supported by a NoroCORE Graduate Fellowship funded by the United States Department of Agriculture - National Institute of Food and Agriculture Food Virology Collaborative [to MKS]; a fellowship from the Oak Ridge Institute for Science and Education [to MKS]; the National Institutes of Health/National Institute of Allergy and Infectious Diseases [K01AI091864 to JVR]; the National Science Foundation Water Sustainability and Climate Program [1360330 to JVR]; and the National Institutes of Health/Fogarty International Center [R01TW010286 to JVR]. The funding sources for this study had no role in the study design, data collection, analysis, interpretation, or writing the report.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Disclaimer: The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention, or the US Department of Health and Human Services.
+
+Conflicts of Interest: none
+
+Fig 1 Model schematic of the movement between six states of norovirus infection
+In the absence of vaccination, persons are born directly into the susceptible pool (S), become exposed at the force of infection (λ(t)), and then progress through the exposed (E), symptomatic (I) and asymptomatic (A) stages at rates inversely proportional to the duration of these states (μ, φ, ρ) before entering the recovered compartment (R). From the recovered compartment, persons can become asymptomatically infected at the force of infection or can become susceptible to disease through the waning of natural immunity (θ). In the presence of a pediatric vaccination (panel A), a proportion of births entering the system will receive protection from vaccines (v) and enter the vaccinated compartment (V). In the presence of elderly vaccination (panel B), a proportion of the elderly will receive protection from vaccines (v) and enter the vaccinated compartment (V). Only children under five and the elderly can flow into vaccinated compartments. Under both pediatric and elderly vaccine scenarios, vaccinated individuals can become asymptomatically infected at the force of infection or can become susceptible to disease through the waning of vaccine immunity (α).
+
+Fig 2 Age-specific observed and predicted in best fitting model of hospitalizations per year in the United States
+The error bars in the observed data represent the range in annual hospitalizations over the 11 year data set. The error bars on the model data represent the range in annual hospitalizations based on the range in estimated and natural history parameter values identified in table 1.
+
+Fig 3 Predicted incidence of disease within the age-group targeted for vaccination over time
+(A) Impact of the Pediatric vaccine programs on incidence of disease in 0–4 year olds. (B) Impact of the Elderly vaccine programs on incidence of disease in 65 year olds and older.
+
+Fig 4 Direct (blue) and indirect effects (yellow) of each vaccine scenario
+(A) Low vaccine efficacy (lVE) Pediatric program (B) Low vaccine efficacy (lVE) Elderly program (C) High vaccine efficacy (hVE) Pediatric program (D) High vaccine efficacy (hVE) Elderly program.
+
+Fig 5 Boxplots representing the range of uncertainty in the percent of cases averted over a one year time period, given uncertainty in parameter input values
+(A) Low vaccine efficacy (lVE) Pediatric program (B) Low vaccine efficacy (lVE) Elderly program (C) High vaccine efficacy (hVE) Pediatric program (D) High vaccine efficacy (hVE) Elderly program.
+
+Table 1 Parameter input values, ranges tested in uncertainty analyses, and sources.
+
+Parameter	Symbol	Input value	Range (+/− standard deviation)	Distribution	Source	
+Duration of incubation period	
+              μ
+            	32.8 hours	(30.9 – 34.6)	Uniform	Devasia et al 201430	
+Duration of symptomatic infectiousness	
+              φ
+            	48 hours	(38.9 – 50.7)	Uniform	Devasia et al 201430	
+Duration of asymptomatic infectiousness	
+              ρ
+            	10 days	(1–20)	Uniform	Atmar et. al 200831	
+Duration of natural immunity	
+              θ
+            	5.1 years	(4.0–6.7)	Uniform	Simmons et. al 20139	
+Relative infectiousness during incubation and asymptomatic period	
+              ε
+            	0.05	(0.045, 0.055)	Uniform	Simmons et. al 20139	
+Duration of vaccine asymptomatic infectiousness	
+              τ
+            	10 days	(1–20)	Uniform	Assumed equal to duration of natural infection	
+Duration of vaccine immunity	
+              α
+            	5.1 years	(4.0–6.7)	Uniform	Assumed equal to duration of natural immunity	
+OP admission probability						
+  0–4 years		0.168	(0.100–0.235)	Uniform	Bartsch et al 201213	
+  5–17 years		0.168	(0.111–0.226)	Uniform	Bartsch et al 201213	
+  18–64 years		0.06	(0.019–0.106)	Uniform	Bartsch et al 201213	
+  65+ years		0.103	(0.063–0.143)	Uniform	Bartsch et al 201213	
+IP admission probability						
+  0–4 years		0.00428	+/− 0.000178	Normal	Bartsch et al 201213	
+  5–17 years		0.00182	+/− 0.000074	Normal	Bartsch et al 201213	
+  18–64 years		0.00228	+/− 0.000092	Normal	Bartsch et al 201213	
+  65+ years		0.01733	+/− 0.000709	Normal	Bartsch et al 201213	
+Death probability						
+  0–4 years		0.00000625	+/− 2.57×10−7	Normal	Bartsch et al 201213	
+  5–17 years		0.00000466	+/− 1.81×10−7	Normal	Bartsch et al 201213	
+  18–64 years		0.00000466	+/− 1.81×10−7	Normal	Bartsch et al 201213	
+  65+ years		0.000435	+/− 0.000018	Normal	Bartsch et al 201213	
+ED visit probability						
+  0–4 years		0.0179	(0.0112–0.0246)	Uniform	Bartsch et al 201213	
+  5–17 years		0.0199	(0.0114–0.0280)	Uniform	Bartsch et al 201213	
+  18–64 years		0.026	(0.0153–0.0368)	Uniform	Bartsch et al 201213	
+  65+ years		0.0325	(0.0199–0.0452)	Uniform	Bartsch et al 201213	
+
+	
+
+              Fitted Parameters
+            						
+
+	
+Susceptibility of 0–4 year olds	
+              q
+              1
+            	0.208	(0.141, 0.402)a	–	Estimated	
+Susceptibility of 5–17 and 18–64 year olds	
+              q
+              2,3
+            	0.032	(0.023, 0.057)a	–	Estimated	
+Susceptibility of 65+ year olds	
+              q
+              4
+            	0.020	(0.014, 0.035)a	–	Estimated	
+Seasonal amplitude	
+              β1
+            	0.034	(0.008, 0.089)a	–	Estimated	
+Seasonal offset	
+              ω
+            	2.147	(1.961, 2.266)a	–	Estimated	
+a Range in the fitted value based on 1,000 random samples of the fixed parameters
+
+Table 2 Outcomes averted (95% CI) annually with a pediatric vaccine program with vaccine coverage of 90% and vaccine efficacy of 22% (lVE Pediatric).
+
+Age Group	Cases Averted	Outpatients Averted	ED Visits Averted	Hospitalizations Averted	Deaths Averted	
+0–4 years	1,430,000
+(1,185,000, 1,724,000)	237,000
+(141,000, 356,000)	25,700
+(15,700, 37,500)	6,200
+(5,100, 7,400)	9
+(7, 11)	
+5–17 years	419,000
+(219,000, 705,000)	69,000
+(32,000, 132,000)	8,100
+(3,500, 16,400)	800
+(400, 1,300)	2
+(1, 3)	
+18–64 years	1,157,000
+(701,000, 1,876,000)	70,000
+(22,000, 160,000)	30,000
+(14,900, 58,400)	2,600
+(1,600, 4,300)	5
+(3, 9)	
+65+ years	266,000
+(173,000, 410,000)	27,000
+(14,000, 49,000)	8,500
+(4,600, 15,500)	4,600
+(3,000, 7,000)	115
+(75, 180)	
+Total (#)	3,282,000
+(2,295,000, 4,720,000)	407,000
+(259,000, 614,000)	72,400
+(45,900, 115,700)	14,200
+(10,100, 20,100)	132
+(87, 202)	
+Total (%)	19%
+(13%, 27%)	22%
+(15%, 30%)	18%
+(12%, 26%)	20%
+(14%, 28%)	16%
+(11%, 25%)	
+Table 3 Outcomes averted (95% CI) with routine elderly immunization with vaccine coverage of 65% and vaccine efficacy of 43% (lVE Elderly).
+
+Age Group	Cases Averted	Outpatients Averted	ED Visits Averted	Hospitalizations Averted	Deaths Averted	
+0–4 years	8,500
+(4,700, 14,800)	1,400
+(630, 2,800)	150
+(70, 290)	36
+(19, 65)	0.05
+(0.03, 0.09)	
+5–17 years	9,200
+(5,400, 15,400)	1,500
+(760, 2,900)	180
+(80, 370)	17
+(10, 28)	0.04
+(0.03, 0.07)	
+18–64 years	42,300
+(25,700, 65,900)	2,500
+(810, 5,600)	1,100
+(530, 2,100)	100
+(60, 150)	0.20
+(0.12, 0.31)	
+65+ years	276,900
+(204,700, 344,400)	28,100
+(16,100, 43,400)	8,800
+(5,100, 13,700)	4,800
+(3,600, 5,800)	120
+(88, 151)	
+Total (#)	336,900
+(240,300, 436,500)	33,800
+(20,100, 50,900)	10,200
+(6,100, 15,600)	4,900
+(3,700, 6,000)	120
+(88, 151)	
+Total (%)	1.9%
+(1.4%, 2.5%)	1.8%
+(1.1%, 2.9%)	2.5%
+(1.6%, 3.7%)	6.9%
+(5.1%, 8.5%)	15%
+(11%, 18%)	
+Table 4 Clinical outcomes averted per 100,000 vaccinees (95% CI) over 1 year.
+
+Vaccine strategy	Cases averted per 100,000 doses	Outpatient visits averted per 100,000 doses	ED visits averted per 100,000 doses	Hospitalizations averted per 100,000 doses	Deaths averted per 100,000 doses	
+
+              lVE Pediatric
+            						
+ 0–4 years	39,500
+(32,700, 47,600)	6,600
+(3,900, 9,800)	710
+(430, 1,040)	170
+(140, 200)	0
+(0, 0)	
+ Total	90,600
+(63,400, 130,300)	11,200
+(7,100, 16,900)	2,000
+(1,270, 3,200)	390
+(280, 560)	4
+(2, 6)	
+
+              lVE Elderly
+            						
+ 65+ years	3,500
+(2,600, 4,400)	360
+(210, 560)	110
+(66, 170)	61
+(46, 74)	2
+(1, 2)	
+ Total	4,300
+(3,100, 5,600)	430
+(260, 650)	130
+(80, 200)	63
+(50, 80)	2
+(1, 2)	
+
+              hVE Pediatric
+            						
+ 0–4 years	72,400
+(58,800, 7,000)	11,900
+(7,100, 18,000)	1,280
+(790, 1,920)	310
+(250, 370)	0
+(0, 1)	
+ Total	178,000
+(119,400, 256,200)	21,400
+(13,000, 33,400)	3,940
+(2,450, 6,340)	760
+(530, 1,070)	7
+(5, 11)	
+
+              hVE Elderly
+            						
+ 65+ years	8,100
+(7,100, 9,400)	840
+(510, 1,200)	270
+(160, 380)	141
+(120, 160)	4
+(3, 4)	
+ Total	9,900
+(8,400, 12,000)	1,010
+(600, 1,400)	310
+(200, 430)	145
+(130, 160)	4
+(3, 4)	
+Table 5 Partial rank correlation coefficients (PRCC) between selected model parameters and the percent of cases averted in the total population for each of four vaccination strategies.
+
+	Symbol	lVE Pediatric	lVE Elderly	hVE Pediatric	hVE Elderly	
+
+              Natural History Parameters
+            					
+
+	
+Duration of Incubation	
+              μ
+            	0.04	0.06	0.03	0.07	
+Duration of Symptomatic Infection	
+              φ
+            	−0.19	0.11	-0.15	0.21	
+Duration of Asymptomatic Infectiousness	
+              ρ
+            	0.19	0.11	0.19	0.14	
+Duration of Natural Immunity	
+              θ
+            	−0.84 (2)a	−0.66 (3)a	−0.81 (2)a	−0.57 (3)a	
+Pre/Post Symptomatic Infectiousness	
+              ε
+            	−0.09	−0.02	−0.06	0.03	
+Transmissibility of 0–4 year olds	
+              q1
+            	0.04	−0.35	0.10	−0.37	
+Transmissibility of 5–17 and 18–64 year olds	
+              q2,3
+            	−0.41 (3)a	−0.41	−0.37 (3)a	−0.44	
+Transmissibility of 65+ year olds	
+              q4
+            	0.35	0.82 (2)a	0.31	0.87 (2)a	
+
+	
+
+              Vaccine Parameters
+            						
+
+	
+Duration of Vaccine Immunity	
+              α
+            	0.94 (1)a	0.97 (1)a	0.94 (1)a	0.90 (1)a	
+Duration of Vaccine Asymptomatic Infectiousness	
+              τ
+            	−0.27	−0.11	−0.25	−0.11	
+a The top 3 most influential parameters for each vaccine program are indicated by ranks in parentheses
+
+Vaccines for norovirus are in development.
+
+We developed a dynamic model of norovirus disease and simulated vaccination.
+
+This approach captured direct and indirect population-level impacts of vaccination.
+
+We predicted greater population benefits of pediatric versus elderly vaccination.
+
+Duration of vaccine immunity and transmission strongly influence vaccine impact.
+
+
+   1 
+            Patel MM  
+             
+           Systematic literature review of role of noroviruses in sporadic gastroenteritis Emerg Infect Dis 14 1224 31 2008 18680645 
+2 
+            Hall AJ  
+             
+           Norovirus disease in the United States Emerg Infect Dis 19 1198 205 2013 23876403 
+3 
+            Ramani S  
+            Atmar RL  
+            Estes MK  
+           Epidemiology of human noroviruses and updates on vaccine development Curr Opin Gastroenterol 30 25 33 2014 24232370 
+4 
+            Hall AJ  
+            Curns AT  
+            McDonald L  
+            Parashar UD  
+            Lopman BA  
+           The roles of clostridium difficile and norovirus among gastroenteritis- associated deaths in the United States, 1999–2007 Clin Infect Dis 55 216 223 2012 22491338 
+5 
+            Phillips G  
+             
+           Community incidence of norovirus-associated infectious intestinal disease in England: improved estimates using viral load for norovirus diagnosis Am J Epidemiol 171 1014 1022 2010 20360244 
+6 
+            Lopman BA  
+            Hall AJ  
+            Curns AT  
+            Parashar UD  
+           Increasing rates of gastroenteritis hospital discharges in US adults and the contribution of norovirus, 1996–2007 Clin Infect Dis 52 466 74 2011 21258098 
+7 
+            Gastañaduy PA  
+            Hall AJ  
+            Curns AT  
+            Parashar UD  
+            Lopman BA  
+           Burden of norovirus gastroenteritis in the ambulatory setting - United States, 2001–2009 J Infect Dis 207 1058 1065 2013 23300161 
+8 The Centers for Disease Control and Prevention Updated norovirus outbreak management and disease prevention guidelines Morb Mortal Wkly Report, Recomm Reports 60 1 18 2011 
+9 
+            Simmons K  
+            Gambhir M  
+            Leon J  
+            Lopman B  
+           Duration of immunity to norovirus gastroenteritis Emerg Infect Dis 19 1260 7 2013 23876612 
+10 
+            Mossong J  
+             
+           Social contacts and mixing patterns relevant to the spread of infectious diseases PLoS Med 5 e74 2008 18366252 
+11 
+            Gray JJ  
+            Jiang X  
+            Morgan-Capner P  
+            Desselberger U  
+            Estes MK  
+           Prevalence of antibodies to Norwalk virus in England: detection by enzyme-linked immunosorbent assay using baculovirus-expressed Norwalk virus capsid antigen J Clin Microbiol 31 1022 1025 1993 8385148 
+12 
+            Lindesmith L  
+             
+           Human susceptibility and resistance to Norwalk virus infection Nat Med 9 2003 
+13 
+            Bartsch SM  
+            Lopman BA  
+            Hall AJ  
+            Parashar UD  
+            Lee BY  
+           The potential economic value of a human norovirus vaccine for the United States Vaccine 30 7097 104 2012 23026689 
+14 R Core Team R: A language and environment for statistical computing R Foundation for Statistical Computing Vienna, Austria at &lt;http://www.r-project.org/ &gt; 
+15 
+            White LJ  
+             
+           Understanding the transmission dynamics of respiratory syncytial virus using multiple time series and nested models Math Biosci 209 222 239 2007 17335858 
+16 
+            Smith PG  
+            Rodrigues LC  
+            Fine PEM  
+           Assessment of the Protective Efficacy of Vaccines against Common Diseases Using Case-Control and Cohort Studies Int J Epidemiol 13 1984 
+17 
+            Annunziata K  
+            Rak A  
+            Del Buono H  
+            DiBonaventura M  
+            Krishnarajah G  
+           Vaccination Rates among the General Adult Population and High-Risk Groups in the United States PLoS One 7 2012 
+18 
+            Tate JE  
+             
+           Uptake, impact, and effectiveness of rotavirus vaccination in the United States: review of the first 3 years of postlicensure data Pediatr Infect Dis J 30 S56 S60 2011 21183842 
+19 
+            Bernstein DI  
+             
+           Norovirus vaccine against experimental human GII.4 virus illness: a challenge study in healthy adults J Infect Dis 2014 
+20 
+            Atmar RL  
+             
+           Norovirus vaccine against experimental human Norwalk Virus illness N Engl J Med 365 2178 87 2011 22150036 
+21 
+            de Wit M  
+             
+           Sensor, a population-based cohort study on gastroenteritidis in the Netherlands: incidence and etiology Am J Epidemiol 154 666 6 2001 11581101 
+22 
+            Lexau CA  
+             
+           Changing epidemiology of invasive pneumococcal disease among older adults in the era of pediatric pneumococcal conjugate vaccine Jama 294 2043 2051 2005 16249418 
+23 
+            Sukhrie FH  
+             
+           Nosocomial transmission of norovirus is mainly caused by symptomatic cases Clin Infect Dis 54 931 7 2012 22291099 
+24 
+            Treanor JJ  
+             
+           A Novel Intramuscular Bivalent Norovirus Virus-Like Particle Vaccine Candidate–Reactogenicity, Safety, and Immunogenicity in a Phase 1 Trial in Healthy Adults J Infect Dis 210 1763 1771 2014 24951828 
+25 
+            Wyatt RG  
+             
+           Comparison of three agents of acute infectious nonbacterial gastroenteritis by cross-challenge in volunteers J Infect Dis 129 709 714 1974 4209723 
+26 
+            Arinaminpathy N  
+             
+           Impact of cross-protective vaccines on epidemiological and evolutionary dynamics of influenza Proc Natl Acad Sci 109 3173 3177 2012 22323589 
+27 
+            El-Kamary SS  
+             
+           Adjuvanted intranasal Norwalk virus-like particle vaccine elicits antibodies and antibody-secreting cells that express homing receptors for mucosal and peripheral lymphoid tissues J Infect Dis 202 1649 58 2010 20979455 
+28 
+            Shioda K  
+            Kambhampati A  
+            Hall AJ  
+            Lopman BA  
+           Global age distribution of pediatric norovirus cases Vaccine 3 6 2015 10.1016/j.vaccine.2015.05.051 25258100 
+29 
+            Ahmed SM  
+             
+           Global prevalence of norovirus in cases of gastroenteritis: a systematic review and meta-analysis Lancet Infect Dis 14 725 730 2014 24981041 
+30 
+            Devasia T  
+            Lopman B  
+            Leon J  
+            Handel A  
+           Association of host, agent and environment characteristics and the duration of incubation and symptomatic periods of norovirus gastroenteritis Epidemiol Infect FirstView 1 7 2014 
+31 
+            Atmar RL  
+             
+           Norwalk virus shedding after experimental human infection Emerg Infect Dis 14 1553 7 2008 18826818 
+32 Centers for Disease Control and Preventon (CDC) 2012 National, state, and local area vaccination coverage among children aged 19–35 months–United States Morb Mortal Wkly Rep 61 689 696 
+33 
+            Lu P  
+            Santibanez TA  
+            Williams WW  
+            Zhang J  
+            Ding H  
+            Bryan L  
+            O’Halloran A  
+            Greby SM  
+            Bridges CB  
+            Graitcer SB  
+            Kennedy ED  
+            Lindley MC  
+            Ahluwalia IB  
+            LaVail K  
+            Pabst LJ  
+            Harris L  
+            Vogt T  
+            Town M  
+            Singleton JA  
+           2013 Surveillance of influenza vaccination coverage’ United States, 2007–08 through 2011–12 influenza seasons MMWR Surveill Summ 62 1 28 doi:ss6204a1 [pii] 
+

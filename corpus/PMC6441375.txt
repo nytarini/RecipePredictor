@@ -1,0 +1,623 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   91000132576Ann EpidemiolAnn EpidemiolAnnals of epidemiology1047-27971873-258530799207644137510.1016/j.annepidem.2019.01.014NIHMS1520805ArticleAssessing the Relationship between Food Insecurity and Mortality among US Adults Walker RJ 12Chawla A 3Garacci E 2Williams JS 12Mendez C 14Ozieh MN 256Egede LE 121 Division of General Internal Medicine, Department of Medicine, Froedtert &amp; The Medical College of Wisconsin, Milwaukee, WI2 Center for Advancing Population Science, Medical College of Wisconsin, Milwaukee, WI3 University of Wisconsin – Milwaukee, Milwaukee, WI4 Division of Diabetes and Endocrinology, Clement J. Zablocki VA Medical Center, Milwaukee, WI5 Division of Nephrology, Department of Medicine, Froedtert &amp; The Medical College of Wisconsin, Milwaukee, WI6 Division of Nephrology, Clement J. Zablocki VA Medical Center, Milwaukee, WICorresponding Author: Leonard E. Egede MD, MS, Medical College of Wisconsin, Division of General Internal Medicine, 9200 West Wisconsin Avenue, Milwaukee, WI 53226-3596. Tel: 414-805-0840; Fax: 414-805-0855; legede@mcw.edu5 2 2019 05 2 2019 4 2019 01 4 2020 32 43 48 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background:
+Significant evidence supports a relationship between food insecurity and health, but little work has investigated its relationship on all-cause mortality within a high resource country, such as the United States.
+
+Objective:
+The aim of this study was to investigate the relationship between food insecurity and mortality in the US.
+
+Methods:
+Data from the 2003–2010 National Health and Nutrition Examination Survey (NHANES) was matched to National Death Index information for all adults (20 years and older) included in the NHANES database. Cox models were used to study the relationship between mortality and food insecurity, adjusting for relevant covariates in a sequential manner (demographics, comorbidities, lifestyle variables, body mass index (BMI)). Hazard ratios (HR) and 95% confidence interval (CI) were reported for analyses categorizing food insecurity as dichotomous and as four categories.
+
+Results:
+11.6% of the 20,918 participants (representing 208,789,244 US residents) were food insecure. When food insecurity was dichotomized, there was a 49% higher odds of mortality after adjusting for demographics (HR=1.49, 95%CI 1.19−1.87). After adjusting for comorbidities the HR remained significant, but lost significance with adjustment for lifestyle factors and BMI (HR=1.15, 95%CI 0.94−1.42). When food insecurity was analyzed in four categories, those reporting very low food security had two times the risk of mortality as those with full food security after adjustment for demographics (HR=2.05, 95%CI 1.44−2.91), and this significance remained after all adjustments (HR=1.46, 95%CI 1.04−2.04). However, marginal food security lost significance after adjustment for lifestyle variables.
+
+Conclusions:
+Food insecurity significantly impacts all-cause mortality in the United States, after accounting for demographics and comorbidities, however lifestyle may explain this relationship. Interventions should account for level of severity when creating targeted programs.
+
+food insecuritymortalitysocial determinants of healthNHANESlifestyle
+   Introduction
+There is a growing recognition that social determinants, defined as the social and economic conditions in which individuals live, learn, work, and play, have a wide and far reaching impact on health related outcomes. (1–4) One of the strongest social determinants of health is poverty, as it has been associated with specific disease outcomes, health behaviors, and access to care. (5–7) In addition, factors often associated with poverty, such as food insecurity, social assistance, and low education, have been linked to clinically important changes in health-related quality of life, and necessitate decisions between spending money on food, medications, housing, or other needs. (8–10) These factors, more directly related to health behaviors and health outcomes, have been focused on in an attempt to understand how poverty influences health. (2,4,6–7) In fact, food insecurity was shown to more strongly predict health outcomes than income in a recent investigation of working age adults in the United States (US). (11)
+
+Food insecurity is defined by the US Department of Agriculture as the “limited or uncertain availability of nutritionally adequate food or limited or uncertain ability to acquire acceptable foods”. (12) It is a cyclic and a dynamic condition, with those who reported food insecurity at any time in the prior year generally food insecure for 7 of the 12 months during that year. (13) Food insecurity in the US increased from an age-standardized rate of 9.06% in 2005 to 18.3% in 2012, and an even steeper increase for those with cardiovascular risk profiles. (14,15) Though more recent estimates have decreased to 11.8%, rates are still higher than pre-recession levels. (16) Significant evidence supports a relationship between food security and poorer overall health, more comorbid conditions, greater psychological distress, and poor health behaviors, including low physical activity and low consumption of fruits and vegetables. (9,17–20) In addition, evidence suggests food insecurity increases disease risk including an approximately 50% higher risk of diabetes, 21% higher risk of hypertension, worse glycemic control, poor lipid control, and increased likelihood of hypoglycemia. (21–25)
+
+Though research in developing countries indicates hunger and household food insecurity exert an impact on overall mortality through malnutrition, little exists on whether food insecurity impacts mortality in high income countries. (9,26–28) Differences in dietary quality and health behaviors for food insecure individuals in high resource settings may result in metabolic processes and cardiovascular risk that similarly influences mortality. (14, 29–32) A recent study by Gundersen et al. conducted in Canada found that food insecurity was associated with increased mortality after adjusting for age, gender, education, and income. (33) However, this analysis was based on data matched to health administrative data in Canada, and may not generalize to a population based national survey in the United States.
+
+Given the growing awareness of the impact of social determinants of health, and the prevalence of food insecurity in the United States, the aim of this project was to investigate the relationship between food insecurity and mortality, and understand factors that help explain the relationship.
+
+Methods
+Data Source and Study Population:
+The National Health and Nutrition Examination Survey (NHANES) is a part of the National Center for Health Statistics (NCHS) and is used to estimate the health and nutritional status of individuals in the United States. (34) This study used four cycles of continuous NHANES data between the years 2003–2010. 2010 is the latest survey available with linked mortality from the National Death Index (NDI), and therefore was chosen as the final year of data in this study. Participants who were age 20 years and older, completed both survey interview and physical examination, and had mortality follow-up information were selected for the analysis. Survey participants are defined as ineligible for mortality linkage if they had insufficient identifying data to create a NDI submission record. In total, 21,249 participants were eligible for inclusion. 331 participants were missing food insecurity responses and therefore were excluded from the final analysis to result in a final sample size of 20,918.
+
+Mortality Outcome
+NCHS has linked various surveys with death certificate records from NDI. (35) NCHS uses multiple sources of information to determine the final mortality status of a survey participant. Mortality sources include: National Death Index match; Social Security Administration information; Center for Medicare and Medicaid Services Information; death certification match. All survey participants were followed from interview date through December 31, 2011. Mortality outcome of interest in this analysis includes all-cause death.
+
+Food Insecurity Measures
+Eighteen questions regarding food insecurity were asked of households with children under age of 18, and ten questions were asked of households without children. (11) Four response levels result based on the number of affirmative responses for those questions:
+
+Household full food security: no affirmative response in any of these items.
+
+Household marginal food security: 1–2 affirmative responses.
+
+Household low food security: 3–5 affirmative responses for household without children under the age of 18; 3–7 affirmative responses for household with children
+
+Household very low food security: 6–10 affirmative responses for household without children under the age of 18; 8–18 affirmative responses for household with children
+
+Models were developed for food insecurity as a categorical variable with all four categories, as well as using a dichotomized variable where full food security and marginal food security were categorized into food security, whereas low food security and very low food security were dichotomized into food insecurity.
+
+Demographic Variables
+Demographic variables included gender, age (as a continuous variable), race/ethnicity (grouped as non-Hispanic White; non-Hispanic Black; Hispanic; and other Minority), education (dichotomized as high school or below and college or above), marital status (dichotomized as married or not married) and ratio of family income to poverty (dichotomized as 130% and less of poverty level and above 130% of poverty level based on levels that can qualify households for the Supplemental Nutrition Assistance Program).
+
+Lifestyle Variables
+Physical activity was based on the individual’s self-reported level of engagement in work and recreational activities. Respondents reported type of activity and intensity which was the categorized as vigorous, moderate, and none based on NHANES documentation. (36) Smoking was also based on self-reported history of smoking and grouped as never, former, or current smoker. Dietary intake was incorporated based on energy intake and total fat intake, as calculated by NHANES based on responses to the interviewer-administered 24-hour dietary recall survey. (34, 37) Overall energy intake and total fat intake were based on the daily aggregates from the first dietary recall interview, and were broken into quartiles with the lowest quartiles indicating low overall energy (kilocalories) and low total fat intake (grams), respectively. Body Mass Index(BMI) (kg/m**2) was calculated from physical examined weight and height and categorized as underweight (less than 18.5); normal weight (18.5−&lt;25); overweight (25&lt;30); obesity (&gt;=30).
+
+Comorbidities
+Survey participants were asked to self-report diagnosed medical conditions, including diabetes, cancer, hypertension, heart disease and stroke. Diabetes diagnosis was determined through two self-report questions: first whether the participant had diabetes diagnosed by a health professional and second whether the participant was taking insulin or antidiabetic oral medications. All other diagnoses were based on individual questions asking for self-report of diagnosis by a health professional.
+
+Statistical Analysis
+Statistical analysis was performed with SAS version 9.4 (SAS Institute), using SURVEYFREQ, SURVEYMEANS, and SURVEYPHREG procedures to account for the complex survey design. Survey Cox proportional hazards regression models were used to calculate all-cause mortality. We first ran a univariate Cox model for food insecurity, as a dichotomous, and then as categorical variable. Secondly, we ran a Cox model for the impact of food insecurity on mortality, accounting for diabetes, and an interaction between food insecurity and diabetes to investigate whether metabolic processes linking the two are related. The interaction was not significant in either the model ran with food insecurity as dichotomous (p=0.43), or food insecurity as a categorical variable (p=0.29), therefore, a series of adjusted models were run in hierarchical sequence. Cox models were: 1) adjusted with all demographic variables; 2) adjusted with demographic and comorbidity variables; 3) adjusted with demographic, comorbidity and lifestyle variables (physical activity, dietary intake, and smoking); and 4) adjusted with demographic, comorbidity, lifestyle, and BMI. Each set of models were run with food insecurity as a dichotomous and as a categorical variable. P&lt;0.05 was considered significant.
+
+Results
+A total of 20,918 participants (representing 208,789,244 US non-institutionalized residents) over the age of 20 answered food insecurity questions and had mortality data available through 2010. Averaged across all cycles, 81.2% reported full food security, 7.1% reporting marginal food security, 7.5% reporting low food security, and 4.2% reporting very low food security. Sample demographics are presented in Table 1 for the weighted population dichotomized by food secure and food insecure. Differences existed across all demographic, comorbidity, and lifestyle variables. 58.75% of those who were food secure earned below the poverty level based on 130% or less ratio of family income to the poverty line. Comparatively, 84.78% of individuals that were food secure were above the poverty line.
+
+Table 2 shows results of the Cox proportional hazard models for the relationship between food insecurity and mortality adjusted for demographic, comorbidity, and lifestyle, when food insecurity was dichotomized. When adjusted for demographics, individuals reporting food insecurity had a 49% higher mortality compared to food secure individuals (HR 1.49, 95% CI 1.19–1.87). After adjusting for comorbidities the hazard ratio decreased slightly to 1.40 (95% 1.13–1.74), and decreased further but remained at the p=0.05 level after adjustment for physical activity, dietary intake, and smoking (HR=1.24, 95% 1.00–1.53). Once BMI was accounted for the relationship was no longer significant (HR 1.15, 95% CI 0.94–1.42).
+
+Table 3 shows results of the Cox proportional hazard models for the relationship between food insecurity and mortality, when food security status was categorized as four categories. When adjusted for demographics the risk of death for those with marginal food security was 35% higher (HR=1.35, 95% CI 1.04–1.77), whereas the risk of death for those with very low food security was twice that of food secure individuals (HR=2.05, 95% CI 1.44–2.91). The relationship between low food insecurity and mortality compared to food secure individuals was not significant. The relationship between food insecurity and mortality lost significance for those with marginal food security after lifestyle variables were included in the model (HR=1.15, 95% CI 0.85–1.55); however, for those with very low food security, the relationship remained significant after adjustment for comorbidities, lifestyle variables, and BMI (HR=1.46, 95% CI 1.04–2.04).
+
+Discussion
+Using a nationally representative sample of adults in the US, this study found that food insecurity is associated with higher mortality after adjusting for demographic variables, comorbidities, smoking, dietary intake, and physical activity. The relationship was only marginally diminished by accounting for sociodemographics and comorbidities. When the measure of food insecurity was dichotomized, the relationship lost significance after adjustment for BMI. When food insecurity was categorized into full, marginal, low and very low food security levels, the relationship lost significance for marginal food security after adjustment for lifestyle variables and the relationship remained significant for those with very low food security even after adjustment for BMI. Therefore, the severity of food security may be an important factor in intervention development, and efforts to improve lifestyle decisions, such as increasing physical activity, decreasing smoking, and having a healthy BMI, may be important targets to address for individuals with marginal food security, but not those with very low food security.
+
+To our knowledge, this is the first study to investigate the influence of food insecurity on mortality in the United States. The findings indicate that food insecurity should be considered a strong predictor of health outcomes, and that lifestyle factors may be a modifiable aspect of the relationship amenable to interventions in populations with marginal food security. Studies outside the United States have shown the impact of food insecurity within the context of malnutrition and extreme poverty, and a recent study in Canada found a relationship between food insecurity and mortality in another high-income country. (26–27,33) Estimates of the increased odds were similar when comparing these results to Canada, with this analysis incorporating additional covariates to better understand possible areas for intervention. (33) While the relationship between very low food security and mortality remained after adjustment for comorbidities and lifestyle behaviors, the relationship between less severe categories of food insecurity and mortality were explained by lifestyle behaviors.
+
+The specific mechanisms linking food insecurity to an increased prevalence of morbidity and mortality are an important area for future research to inform clinical practice and policy development. (20) Seligman et al. found a significant relationship between food insecurity and higher prevalence of diabetes, independent from BMI and waist circumference. (12) Based on their findings, the authors suggested that in times of famine, peripheral insulin resistance may serve as a survival advantage in some individuals and that repeated episodes of inadequate access to food could exacerbate this tendency toward developing insulin resistance and diabetes. (12) Insulin resistance, even in the absence of diabetes, has been shown to be an independent predictor of cardiovascular mortality. (38). However, our results found that comorbidities, such as diabetes and cardiovascular disease, did not explain the relationship between food insecurity and mortality, and that no interaction existed between food insecurity and diabetes in its relationship on mortality. While a large body of literature exists highlighting the importance of food insecurity particularly in individuals with diabetes, this finding suggests attention should not be focused soley on those with chronic disease. Another possible explanation as to how food insecurity may lead to increased mortality is through health behaviors known to influence health outcomes, such as smoking and exercise. Using a modeling technique involving structural demand models, access for low-income households to similar nutritional availability as high-income households only accounted for 9% of the inequality, with the other 91% driven by differences in demand for food with poor nutritional content. (39) Particularly in moderately food insecure households, lifestyle factors explained some of the relationship between food insecurity and mortality. This suggests the need to address preferences and knowledge regarding lifestyle choices, particularly in moderately food secure households in an effort to address health impacts. Qualitative research focused on understanding decisions made by food insecure households is needed to offer insight on the lived experience and inform investigation into additional mechanisms to explain the relationship with mortality.
+
+Finally, as noted in a recent review of the literature, more work is needed to understand the possible influence of food assistance programs and coping mechanisms of food insecure households on the relationship between food insecurity and health. (20) The relationship between indivdiuals with an income to poverty ratio of less than 130% and mortality was significant in adjusted models until lifestyle variables were added. This may suggest the need to pair food assistance programs with training in lifestyle behaviors, or coping mechanisms. The Supplemental Nutrition Assistance Program has been shown to play a crucial role in reducing food insecurity levels and improving caloric intake (40–44), however, more evidence is needed to understand its influence on health outcomes and longer term consequences of food insecurity. (20)
+
+While this is the first analysis to link nationally representative data on food insecurity to mortality information in the United States, there are limitations of the analysis that should be noted. First, data is limited to those responding to the NHANES survey, which limits results to non-institutionalized adults, and those willing to complete the survey and physical examination. However, surveys conducted by the National Center for Health Statistics are designed as a population-based sample and have been used previously to influence policy, supporting the validity of the survey. Secondly, additional factors may exist that could explain the relationship between food insecurity and mortality, but are not available in the NHANES dataset. Details regarding food choices, health impacts of psychosocial factors such as stress, health behaviors such as medication adherence, and social influences such as access to safe housing may help explain the relationship. Additionally, though overall energy intake and total fat intake did not help explain the relationship, a detailed analysis of dietary intake may help further understand specific aspects of diet that could influence the relationship. More longitudinal work should be conducted to understand the trajectory of health for food insecure individuals, and explain the mechanisms to guide intervention and policy development. Lifestyle variables and BMI may have a mediating role rather than a confounding role on the relationships and therefore should be investigated using mediation and pathway analysis to better guide future policy and practice. Finally, while mortality data was longitudinal in nature, the remaining variables in the dataset are cross-sectional, and therefore, implications of a causal relationship are limited.
+
+Overall, results show an important association between food insecurity and mortality in the United States. Taken in combination with prior work in this area, clinicians, researchers, and policy makers should consider food insecurity an important social determinant of health for consideration in clinical care, and inclusion in the design of health interventions and health promotion efforts. Modifiable lifestyle factors and BMI may be important targets for intervention development in moderately food insecure populations, and the level of food insecurity experienced by individuals should be taken into account in intervention design to have the greatest impact attenuating the relationship with mortality.
+
+Acknowledgements:
+RJW, EG, and LEE designed the study, analyzed the data and interpreted the statistical analysis, RJW, AC, EG, JSW, CM, MNO wrote the manuscript. RJW and LEE have primary responsibility for final content. All authors have read and approved the manuscript.
+
+Sources of Financial Support: This study was supported by the National Institute of Diabetes and Digestive and Kidney Diseases (grant K24DK093699, Principal Investigator: Leonard Egede, MD).
+
+Conflict of Interest: The authors declare that they have no conflicts of interest.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Table 1: Weighted sample demographics by food security status (n=20,918, N=208,789,244)
+
+	Food Secure	Food Insecure	p-Value	
+
+              Unweighted Sample
+            	n=17,490	n=3,428		
+
+              Weighted Sample
+            	N=184,436,063	N=24,353,181		
+Demographics	
+
+              Gender
+            			0.04	
+Male	48.27%	46.48%		
+Female	51.73%	53.52%		
+
+              Age Group
+            			&lt;.0001	
+20–34	26.57%	38.81%		
+35–49	30.03%	35.27%		
+50–64	24.88%	18.38%		
+65+	18.51%	7.54%		
+
+              Race/Ethnicity
+            			&lt;.0001	
+Non-Hispanic White	73.65%	45.41%		
+Non-Hispanic Black	10.21%	19.97%		
+Hispanic	10.19%	28.48%		
+Other minorities	5.94%	6.14%		
+
+              Education Level
+            			&lt;.0001	
+High School or below	40.82%	67.46%		
+College or above	59.18%	32.54%		
+
+              Marital Status
+            			&lt;.0001	
+Married	59.15%	38.78%		
+Not Married	40.85%	61.22%		
+
+              Ratio of family income to poverty
+            			&lt;.0001	
+130% or less	15.22%	58.75%		
+Above 130%	84.78%	41.25%		
+Lifestyle and BMI	
+
+              Physical Activity
+            			&lt;.0001	
+None	30.57%	40.51%		
+Moderate	33.16%	27.62%		
+Vigorous	36.27%	31.87%		
+
+              Smoking Status
+            			&lt;.0001	
+Never	53.53%	42.65%		
+Former	25.69%	16.73%		
+Current	20.78%	40.61%		
+
+              Energy Intake (kcal)
+            			&lt;.0001	
+Lowest Quartile	21.3%	24.4%		
+Second Quartile	24.6%	21.0%		
+Third Quartile	26.0%	24.5%		
+Highest Quartile	28.1%	30.1%		
+
+              Total Fat Intake (g)
+            			&lt;.0001	
+Lowest Quartile	21.1%	25.9%		
+Second Quartile	23.8%	22.9%		
+Third Quartile	26.0%	24.9%		
+Highest Quartile	29.1%	26.3%		
+
+              Body Mass Index (BMI)
+            			&lt;.0001	
+Underweight	1.70%	2.30%		
+Normal Weight	30.89%	28.26%		
+Overweight	34.01%	30.85%		
+Obesity	33.41%	38.59%		
+Presence of Comorbidities	
+
+              Cancer
+            	9.53%	5.07%	&lt;0.001	
+
+              Hypertension
+            	30.35%	28.42%	0.13	
+
+              Heart Disease
+            	6.86%	7.54%	0.25	
+
+              Stroke
+            	2.77%	3.54%	0.06	
+
+              Diabetes
+            	8.34%	9.61%	0.06	
+Mortality (not adjusted for age)	
+
+              Mortality
+            			0.2528	
+Alive	95.38%	95.93%		
+Deceased	4.62%	4.07%		
+Table 2: Adjusted Cox proportional hazard models for relationship between dichotomous food insecurity variable and mortality
+
+	Model 1 HR (95% CI)	Model 2 HR (95% CI)	Model 3 HR (95% CI)	Model 4 HR (95% CI)	
+
+              Food Insecurity
+            	
+              1.49 (1.19–1.87)
+            	
+              1.40 (1.13–1.74)
+            	
+              1.24 (1.00–1.53)
+            	1.15 (0.94–1.42)	
+
+              Gender
+            					
+ Female	
+              0.51 (0.44–0.59)
+            	
+              0.54 (0.46–0.63)
+            	
+              0.53 (0.44–0.63)
+            	
+              0.51 (0.42–0.61)
+            	
+
+              Age
+            	
+              1.09 (1.08–1.10)
+            	
+              1.08 (1.07–1.09)
+            	
+              1.08 (1.07–1.09)
+            	
+              1.08 (1.07–1.09)
+            	
+
+              Race/Ethnicity
+            					
+ Non-Hispanic Black	1.12 (0.95–1.33)	1.14 (0.95–1.36)	1.10 (0.93–1.30)	1.08 (0.90–1.30)	
+ Hispanic	
+              0.76 (0.61–0.94)
+            	0.84 (0.68–1.03)	0.84 (0.67–1.06)	0.91 (0.72–1.15)	
+ Other minorities	0.98 (0.61–1.58)	0.89 (0.56–1.44)	0.78 (0.46–1.32)	0.82 (0.47–1.42)	
+
+              Education Level
+            					
+ College or above	
+              0.82 (0.71–0.94)
+            	
+              0.83 (0.72–0.95)
+            	0.97 (0.85–1.10)	0.92 (0.82–1.03)	
+
+              Marital Status
+            					
+ Not Married	
+              1.90 (1.57–2.28)
+            	
+              1.92 (1.61–2.30)
+            	
+              1.82 (1.52–2.19)
+            	
+              1.87 (1.54–2.26)
+            	
+
+              Family income to poverty ratio
+            					
+ Above 130%	
+              0.76 (0.63–0.90)
+            	
+              0.79 (0.66–0.94)
+            	
+              0.83 (0.70–1.00)
+            	0.85 (0.71–1.02)	
+
+              Diabetes
+            		
+              1.46 (1.24–1.71)
+            	
+              1.37 (1.16–1.61)
+            	
+              1.42 (1.21–1.67)
+            	
+
+              Cancer
+            		
+              1.36 (1.17–1.58)
+            	
+              1.37 (1.16–1.62)
+            	
+              1.41 (1.19–1.67)
+            	
+
+              Hypertension
+            		1.07 (0.90–1.26)	1.10 (0.93–1.31)	1.19 (0.99–1.42)	
+
+              Heart Disease
+            		
+              1.72 (1.48–1.99)
+            	
+              1.66 (1.43–1.94)
+            	
+              1.61 (1.39–1.86)
+            	
+
+              Stroke
+            		
+              1.83 (1.51–2.21)
+            	
+              1.73 (1.39–2.16)
+            	
+              1.69 (1.32–2.16)
+            	
+
+              Physical Activity
+            					
+ Vigorous			
+              0.50 (0.35–0.73)
+            	
+              0.54 (0.38–0.79)
+            	
+ Moderate			
+              0.60 (0.50–0.72)
+            	
+              0.64 (0.54–0.75)
+            	
+
+              Smoking status
+            					
+ Current Smoker			
+              1.99 (1.59–2.50)
+            	
+              2.00 (1.62–2.48)
+            	
+ Former Smoker			1.19 (0.94–1.50)	1.23 (0.98–1.55)	
+
+              Energy Intake
+            					
+ Second Quartile			1.02 (0.86–1.22)	0.94 (0.76–1.15)	
+ Third Quartile			0.82 (0.63–1.05)	0.77 (0.58–1.01)	
+ Highest Quartile			1.01 (0.70–1.47)	0.92 (0.59–1.41)	
+
+              Total Fat
+            					
+ Second Quartile			1.07 (0.91–1.26)	1.11 (0.92–1.33)	
+ Third Quartile			0.98 (0.77–1.24)	1.04 (0.80–1.36)	
+ Highest Quartile			0.81 (0.62–1.05)	0.90 (0.67–1.21)	
+
+              BMI Categories
+            					
+ Underweight				
+              2.41 (1.47–3.95)
+            	
+ Overweight				
+              0.78 (0.63–0.96)
+            	
+ Obese				0.86 (0.70–1.05)	
+* Model 1 adjusted for demographics, Model 2 adjusted for demographics and comorbidities, Model 3 adjusted for demographics, comorbidities, and lifestyle variables, Model 4 adjusted for all factors including BMI
+
+** Reference groups = food security, male, non-Hispanic white, high school or below education, married, 130% or less poverty level, no diabetes, cancer, hypertension, heart disease, or stroke, no physical activity, never smoked, lowest energy intake and total fat intake quartiles, and normal BMI.
+
+*** Bold type represents hazard ratios significant at p&lt;0.05 level
+
+Table 3: Cox proportional hazard model for relationship between relationship between categorical food insecurity variable and mortality
+
+	Model 1 HR (95% CI)	Model 2 HR (95% CI)	Model 3 HR (95% CI)	Model 4 HR (95% CI)	
+
+              Household Food Security
+            					
+ Marginal food security	
+              1.35 (1.04–1.77)
+            	
+              1.32 (1.00–1.74)
+            	1.15 (0.85–1.55)	1.22 (0.89–1.66)	
+ Low food security	1.29 (0.97–1.71)	1.22 (0.93–1.59)	1.09 (0.84–1.40)	1.03 (0.81–1.32)	
+ Very low food security	
+              2.05 (1.44–2.91)
+            	
+              1.92 (1.37–2.70)
+            	
+              1.56 (1.12–2.19)
+            	
+              1.46 (1.04–2.04)
+            	
+
+              Gender
+            					
+ Female	
+              0.51 (0.44–0.59)
+            	
+              0.53 (0.45–0.63)
+            	
+              0.52 (0.44–0.63)
+            	
+              0.51 (0.42–0.61)
+            	
+
+              Age
+            	
+              1.09 (1.08–1.10)
+            	
+              1.08 (1.07–1.09)
+            	
+              1.08 (1.07–1.09)
+            	
+              1.08 (1.07–1.09)
+            	
+
+              Race/Ethnicity
+            					
+ Non-Hispanic Black	1.10 (0.93–1.29)	1.12 (0.94–1.33)	1.09 (0.93–1.28)	1.07 (0.89–1.29)	
+ Hispanic	
+              0.74 (0.60–0.92)
+            	0.81 (0.66–1.01)	0.83 (0.66–1.04)	0.90 (0.71–1.13)	
+ Other minorities	0.97 (0.61–1.56)	0.89 (0.56–1.41)	0.77 (0.46–1.29)	0.81 (0.47–1.39)	
+
+              Education Level
+            					
+ College or above	
+              0.82 (0.72–0.94)
+            	
+              0.83 (0.72–0.96)
+            	0.97 (0.85–1.10)	0.93 (0.83–1.04)	
+
+              Marital Status
+            					
+ Not Married	
+              1.89 (1.56–2.27)
+            	
+              1.91 (1.59–2.28)
+            	
+              1.81 (1.51–2.17)
+            	
+              1.86 (1.54–2.24)
+            	
+
+              Family income to poverty ratio
+            					
+ Above 130%	
+              0.78 (0.65–0.94)
+            	
+              0.81 (0.68–0.97)
+            	0.84 (0.70–1.02)	0.86 (0.72–1.04)	
+
+              Diabetes
+            		
+              1.46 (1.24–1.71)
+            	
+              1.37 (1.17–1.62)
+            	
+              1.43 (1.21–1.67)
+            	
+
+              Cancer
+            		
+              1.36 (1.16–1.58)
+            	
+              1.37 (1.16–1.62)
+            	
+              1.40 (1.18–1.66)
+            	
+
+              Hypertension
+            		1.06 (0.89–1.26)	1.10 (1.93–1.30)	1.18 (0.99–1.41)	
+
+              Heart Disease
+            		
+              1.71 (1.48–1.99)
+            	
+              1.66 (1.42–1.93)
+            	
+              1.60 (1.39–1.85)
+            	
+
+              Stroke
+            		
+              1.83 (1.52–2.21)
+            	
+              1.74 (1.40–2.16)
+            	
+              1.69 (1.33–2.15)
+            	
+
+              Physical Activity
+            					
+ Vigorous			
+              0.50 (0.35–0.73)
+            	
+              0.55 (0.38–0.79)
+            	
+ Moderate			
+              0.60 (0.50–0.72)
+            	
+              0.64 (0.54–0.75)
+            	
+
+              Smoking status
+            					
+ Current Smoker			
+              1.97 (1.56–2.48)
+            	
+              1.98 (1.59–2.46)
+            	
+ Former Smoker			1.19 (0.94–1.50)	1.23 (0.98–1.55)	
+
+              Energy Intake
+            					
+ Second Quartile			1.02 (0.85–1.21)	0.93 (0.76–1.14)	
+ Third Quartile			0.81 (0.63–1.05)	0.76 (0.58–1.01)	
+ Highest Quartile			1.01 (0.70–1.46)	0.91 (0.59–1.41)	
+
+              Total Fat
+            					
+ Second Quartile			1.07 (0.91–1.26)	1.11 (0.93–1.33)	
+ Third Quartile			0.98 (0.77–1.24)	1.05 (0.81–1.37)	
+ Highest Quartile			0.81 (0.62–1.05)	0.91 (0.68–1.22)	
+
+              BMI Categories
+            					
+ Underweight				
+              2.46 (1.49–4.06)
+            	
+ Overweight				
+              0.78 (0.63–0.96)
+            	
+ Obese				0.86 (0.70–1.05)	
+* Model 1 adjusted for demographics, Model 2 adjusted for demographics and comorbidities, Model 3 adjusted for demographics, comorbidities, and lifestyle variables, Model 4 adjusted for all factors including BMI
+
+** Reference groups = full food security, male, non-Hispanic white, high school or below education, married, 130% or less poverty level, no diabetes, cancer, hypertension, heart disease, or stroke, no physical activity, never smoked, , lowest energy intake and total fat intake quartiles, and normal BMI.
+
+*** Bold type represents hazard ratios significant at p&lt;0.05 level
+
+
+   References
+1. Marmot M 
+Social determinants of health inequities . The Lancet 
+2005 ; 365 :1099 –1104 .
+2. Marmot M  and Wilkinson R , eds. Social Determinants of Health . Second  Edition. 2003 
+Oxford : Oxford University Press .
+3. Center for Disease Control . Social Determinants of Health: Know What Affects Health . Available at : https://www.cdc.gov/socialdeterminants/ 
+4. World Health Organization 
+A conceptual framework for action on the social determinants of health . Geneva 
+2007 
+World Health Organization .
+5. Adler NE , Ostrove JM . Socioeconomic status and health: what we know and what we don’t . Ann NY Acad Sci 
+1999 ; 896 :3 –15 .10681884 
+6. Adler NE , Stewart J . Health disparities across the lifespan: meaning, methods, and mechanisms . Ann NY Acad Sci 
+2010 ; 1186 :5 –23 .20201865 
+7. Brown AF , Ettner SL , Piette J , Weinberger M , Gregg E , Shapiro MF , Karter AJ , Safford M , Waitzfelder B , Prata PA , Beckles GL . Socioeconomic position and health among persons with diabetes mellitus: a conceptual framework and review of the literature . Epidemiologic Reviews 
+2004 ; 26 :63 –77 .15234948 
+8. Maddigan SL , Feeny DH , Majumdar SR , Farris KB , Johnson JA . (2006 ) Understanding the determinants of health for people with type 2 diabetes . Am J Public Health , 96 (9 ):1649 –1655 16873750 
+9. Gucciardi E , Vogt J , DeMelo M , Stewart D . Exploration of the Relationship Between Household Food Insecurity and Diabetes in Canada . Diabetes Care 
+2009 ;32 (12 ):2218 –2224 .19720843 
+10. Berkowitz SA , Seligman HK , Choudhry NK . Treat or eat: food insecurity, costrelated medication underuse, and unmet needs . Am J Med 
+2014 
+4 ;127 (4 ):303 –310 .e3. 24440543 
+11. Gregory CA  and Coleman-Jensen A . Food insecurity, chronic disease, and health among working-age adults . Economic Research Report Number 235, Economic Research Service, US Department of Agriculture . 2017 
+Available at : https://www.ers.usda.gov/publications/pub-details/?pubid=84466. 
+12. Bickel Gary , Nord Mark , Price Cristofer , Hamilton William , and Cook John  : Guide to Measuring Household Food Security, Revised 2000 . U.S. Department of Agriculture, Food and Nutrition Service , Alexandria VA .
+13. Nord M , Coleman-Jensen A , Andrews M , Carlson S . Household Food Security in the United States, 2009. ERR-108, US Dept of Agriculture , Econ. Res Serv. November 
+2010 .
+14. Berkowitz SA , Berkowitz TSZ , Meigs JB , Wexler DJ . Trends in food insecurity for adults with cardiometabolic disease in the United States: 2005–2012 . PLoS One . 2017 
+6 
+7 ;12 (6 ):e0179172 .28591225 
+15. Coleman-Jensen A , Rabbitt MP , Gregory CA , Singh A . Household Food Security in the United States in 2015 , ERR-215. US Dept of Agriculture, Economic Research Service , 9 
+2016 .
+16. Coleman-Jensen A , Rabbit MP , Gregory CA , Singh A . Household Food Security in the United States in 2017 . US Dept of Agriculture, Economic Research Service , 9 
+2018 .
+17. Barnard LS , Wexler DJ , DeWalt D , Berkowitz SA . Material need support interventions for diabetes prevention and control: a systematic review . Curr Diab Rep 
+2015 
+2 ;15 (2 ):574 .25620406 
+18. Ippolito MM , Lyles CR , Prendergast K , Marshall MB , Waxman E , Seligman HK . Food insecurity and diabetes self-management among food pantry clients . Public Health Nutr 
+2017 
+1 ;20 (1 ):183 –189 .27406399 
+19. Lyles C , Wolf M , Schillinger D 
+
+Food Insecurity in Relation to Changes in Hemoglobin A1c, Self-Efficacy, and Fruit/Vegetable Intake During a Diabetes Educational Intervention . Diabetes Care 
+2012 ;36 (6 ):1448 –1453 .23275354 
+20. Gundersen C  and Ziliak JP . Food insecurity research in the United States: where we have been and where we need to go . Applied Economic Perspectives and Policy 
+2018 ; 40 (1 ): 119 –135 .
+21. Seligman H , Laraia B , Kushel M . Food Insecurity Is Associated with Chronic Disease among Low-Income NHANES Participants . Journal of Nutrition 
+2009 ;140 (2 ):304 –310 .20032485 
+22. Seligman H , Schillinger D . Hunger and Socioeconomic Disparities in Chronic Disease . New England Journal of Medicine 
+2010 ;363 (1 ):6 –9 .20592297 
+23. Seligman HK , Jacobs EA , Lopez A , Tschann J , Fernandez A . Food insecurity and glycemic control among low-income patients with type 2 diabetes . Diabetes Care 
+2012 ;35 (2 ):233 –238 .22210570 
+24. Seligman HK , Davis TC , Schillinger D , Wolf MS . Food insecurity is associated with hypoglycemia and poor diabetes self-management in a low-income sample with diabetes . J Health Care Poor Underserved 
+2010 
+11 ;21 (4 ):1227 –33 .21099074 
+25. Berkowitz SA , Baggett TP , Wexler DJ , Huskey KW , Wee CC . Food insecurity and metabolic control among U.S. adults with diabetes . Diabetes Care 
+2013 
+10 ;36 (10 ):3093 –9 .23757436 
+26. Gubert M , Spaniol A , Segall-Corrêa A , Pérez-Escamilla R . Understanding the double burden of malnutrition in food insecure households in Brazil . Maternal &amp; Child Nutrition 
+2016 . doi:10.1111/mcn.12347 . 
+27. Khan Y  and Bhutta ZA . Nutritional deficiencies in the developing world: current status and opportunities for intervention . Pediatr Clin North Am 
+2010 ; 57 (6 ): 1409 –1441 .21111125 
+28. Essien UR , Shahid NN , Berkowitz SA . Food Insecurity and Diabetes in Developed Societies . Curr Diab Rep 
+2016 
+9 ;16 (9 ):79 .27421977 
+29. Rush E , Yan M . Evolution not Revolution : Nutrition and Obesity. Nutrients 
+2017 ;9 (6 ):519 .
+30. Walsh E , Jacka F , Butterworth P , Anstey K , Cherbuin N . The association between Western and Prudent dietary patterns and fasting blood glucose levels in type 2 diabetes and normal glucose metabolism in older Australian adults . Heliyon 
+2017 ;3 (6 ):e00315 . doi:10.1016/j.heliyon.2017.e00315 . 28626807 
+31. Mayer V , McDonough K , Seligman H , Mitra N , Long J . Food insecurity, coping strategies and glucose control in low-income patients with diabetes . Public Health Nutrition 
+2015 ;19 (06 ):1103 –1111 .26328922 
+32. Berkowitz S , Gao X , Tucker K . Food-Insecure Dietary Patterns Are Associated with Poor Longitudinal Glycemic Control in Diabetes: Results From the Boston Puerto Rican Health Study . Diabetes Care 
+2014 ;37 (9 ):2587 –2592 .24969578 
+33. Gundersen C , Tarasuk V , Cheng J , Oliveria C , Kurdyak P . Food insecurity status and mortality among adults in Ontario, Canada . PLOS One 
+2018 ; 13 (9 ): e0202642 .30138369 
+34. National Center for Health Statistics (NCHS) . National Health and Nutrition Examination Survey . Accessible at : https://www.cdc.gov/nchs/nhanes/index.htm 
+Accessed on Sept 24, 2017.
+35. National Center for Health Statistics (NCHS) . NCHS Data Linked to NDI Mortality Files . Accessible at : https://www.cdc.gov/nchs/data-linkage/mortality.htm 
+Accessed on Sept 24, 2017.
+36. Ainsworth BE , Haskell WL , Whitt MC , 
+Compendium of physical activities: an updated of activity codes and MET intensities . Med Sci Sports Exerc 
+2000 ; 32 (9 ): S498 –S516 .10993420 
+37. Basiotis P , Welsch S , Cronin F , Kelsay J , Mertz W . Number of days of food intake records required to estimate individual and group nutrient intakes with defined confidence . J Nutr 
+1987 ; 117 : 1638 –1641 .3655942 
+38. Shinohara K , Shoki T , Emoto M , Tahara H , Koyama H , Ishimura E , Miki T , Tabata T , Nishizawa Y . Insulin resistance as an independent predictor of cardiovascular mortality in patients with end-stage renal disease . J Am Soc Nephrol 
+2002 ; 13 (7 ): 1894 –1900 .12089386 
+39. Allcott H , Diamond R , Dube J . The geography of poverty and nutrition: food deserts and food choices across the United States . NBER Working  Paper No. 24094 
+12 
+2017 .
+40. Gregory CA  &amp; Smith TA . Salience, food security and SNAP receipt . Journal of Policy Analysis and Management 
+2018 ; 38 (1 ): 124 –154 .
+41. Swann CA . Household history, SNAP participation and food insecurity . Food Policy . 2017 ; 73 :1 –9 .
+42. Gundersen C , Kreider B , Pepper J . Partial identification methods for evaluating food assistance programs: A case study of the causal impact of SNAP on food insecurity . American Journal of Agricultural Economics 
+2017 ;99 (4 ):875 –894 .
+43. Mabli J  and Ohis J . Supplemental Nutrition Assistance Program participation is associated with an increase in household food security in a national evaluation . J Nutr 
+2015 
+2 ; 145 (2 ): 344 –351 .25644357 
+44. Andreyeva T , Tripp AS , Schwartz MB . Dietary quality of Americans by Supplemental Nutrition Assistance Program participation status: a systematic review . Am J Prev Med 
+2015 
+10 ; 49 (4 ): 594 –604 .26238602 
+

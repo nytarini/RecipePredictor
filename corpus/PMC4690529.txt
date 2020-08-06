@@ -1,0 +1,146 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10127812033506Future MicrobiolFuture MicrobiolFuture microbiology1746-09131746-092125689525469052910.2217/fmb.14.129NIHMS745749ArticleMicroscale microbial culture Srinivasan Anand 12Lopez-Ribot Jose L 23Ramasubramanian Anand K 13*1 Department of Biomedical Engineering, The University of Texas at San Antonio, One UTSA Circle, San Antonio, TX 78249, USA2 Department of Biology, The University of Texas at San Antonio, San Antonio, 1 UTSA Circle, San Antonio, TX 78249, USA3 South Texas Center for Emerging Infectious Diseases, The University of Texas at San Antonio, 1 UTSA Circle, San Antonio, TX 78249, USA* Author for correspondence: Tel.: +1 210 458 6555; Fax: +1 210 458 7007; anand.ramasubramanian@utsa.edu18 12 2015 2015 01 1 2016 10 2 143 146 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.microarraymicrobial culturemicrofluidicsmicroscale
+   The culture of microorganisms dates back to the early times of human civilization. Yeast and bacteria were used as mixed cultures for the preparation of food such as cheese, beer, bread, pickling of meat, and for fabric production, farming and nutrition. The invention of the microscope in the 1600s led to the accurate description of microorganisms, and later to the definition of pure and defined cultures containing single species versus a pastiche of mixed and, often unknown, concoction of many organisms. The growth and maintenance of pure cultures isolated from contaminating environmental microbes was achieved by ingenious culture techniques devised in the late 1800s: the swan-necked Pasteur flask, the conical Erlenmeyer flasks, Petri dishes with overhanging lids and the usage of solid agar in glass plates pioneered by Koch and coworkers. Remarkably, these ‘traditional’ culture techniques have changed very little since then, and are still widely used in almost all microbiology labs even today.
+
+As a discipline, while microbiology has revolutionized science by spurring major discoveries in molecular biology, genomics and proteomics, microbial cell culture has resolutely lagged behind the other fields for the longest time. It may be fair to comment that, at least until recently, the technological improvements in automation, novel devices, computational and analytical techniques have not had a serious impact in the practice of microbial cell culture per se. It was almost 100 years after the invention of the Petri dish that a significant advancement was made with the introduction of multiwell plates in the late 20th century. The well plates increased the culture densities by 10- to 100- fold compared with that of flasks or dishes. In the past 10 years, there has been radical shift in the craft of microbial culture with the introduction ‘microscale cell cultures’. The microscale cultures are highly miniaturized with three to six orders of magnitude increase in cell density and throughput compared with traditional culture methods [1]. The microscale cell cultures have not only given us glimpses into the microbial wonderland but also have spawned technological innovations for many practical applications. In this article, we present a survey of the current status of microscale microbial culture, and speculate what the immediate future may hold.
+
+Microscale cell culture platforms
+The success of microscale cell culture can be attributed to innovative and clever adaptation of engineering achievements to traditional microbiology including microfabrication, robotics, imaging and analytical tools. We briefly describe here two most widely used techniques for microscale cell culture, and interested readers are referred to extensive reviews [2–4].
+
+Microfluidics
+Soft lithography using polydimethylsiloxane is the most widely used method for creating nanoand microstructures with flow channels for cell cultures. The desired pattern is generated using computer-aided design software and the pattern is printed on to a mask. A silicon wafer is coated with a photoresist, exposed to UV light through the mask and excess photoresist is washed off. This yields a ‘master’ mold containing the negative of the desired pattern. Polydimethylsiloxane elastomer is poured on top of the mold, cured thermally and is peeled off, resulting in a segment with embossed microstructures. The segment may be fused to a flat substrate such as glass to yield transparent microchannels for cell culture and analysis.
+
+Microarray
+The technologies that are used to print small molecules including DNA and proteins have been adapted to print cells at pico- to nanoliter volumes [5]. Typically, a contact or a noncontact robotic arrayer is used to print one or more types of cells at defined spatial and temporal patterns on chemically modified substrate surfaces. The resulting array provides a convenient platform for high-throughput analysis of the behavior of microcolonies by microscopy.
+
+Applications of microscale cell culture
+Diagnosis
+Currently, the selection of antimicrobials effective against infectious pathogens is performed by recovering, culturing and identifying the microorganism(s) from specimens such as wound swabs, exudates or blood, and then testing the susceptibility of these pathogens against various antibiotics using disk-diffusion or broth microdilution assay [5]. This assay typically takes 1–3 days, requires milliliter volumes of the sample, and requires a large enterprise for testing and analysis. Recently, microscale and microfluidic culture systems have substantially decreased the critical time window for analysis, sample volume, and may be performed at the point of care. Deiss et al. replicated the conventional Kirby-Bauer disk-diffusion agar assay on a paper platform (&lt;10 mm) to obtain rapid antibiotic susceptibility data [6]. Price et al. used automated microscopy of dividing Staphylococcus aureus in a microfluidic chamber to derive clinically acceptable susceptibility data from as few as ten clones in less than 4 h [7]. These microscale diagnostic techniques are at different stages of technical and commercial maturity and show great promise for rapid antimicrobial susceptibility testing.
+
+Drug discovery
+There is a dire need for new antimicrobials due to a rapid rise in drug resistance, emergence of unfamiliar diseases and pathogens, preference of narrow spectrum of activity to lessen the collateral damage or toxicity to the host [8]. Antimicrobial activity in a library of compounds is typically tested in Petri dishes, flasks or multiwell plates. These low-throughput methods are disruptive as small-molecule libraries easily contain 100,000 or larger members. To address this issue, we recently developed a microscale cell culture platform for ultra-high-throughput drug discovery. This platform consisted of 1200 individual cultures of Candida albicans at 30 nl encapsulated in a hydrogel matrix and spotted on glass slides [9]. The culture conditions were optimized to promote the formation of biofilms. We observed that the ‘nanobiofilms’ on the microarray demonstrated morphological, architectural, growth, phenotypic and drug susceptibility characteristics comparable to the conventional macroscale biofilms grown in well plates at 3000× larger volumes. Compared with conventional cultures, the microscale cultures cut down the reagent and assay costs, duration, labor and analysis time while allowing for a truly high-throughput screening of compound libraries for antimicrobial activity at unprecedented speed and cost. This technology may be easily adapted to culture single or polymicrobial cultures, and to query large mutant libraries for specific activity.
+
+Understanding microbial communities
+Sociomicrobiology has established that microbes in communities behave differently as a society than as individual cells [10]. The microorganisms communicate through physical and nonphysical interactions through quorum sensing, sporulation, contact signaling and other adaptive responses. To understand the behavior of communities, one needs to distinguish the intrinsic responses of individual cells or microcolonies from the average of large ensembles, while eliminating the contribution from external factors such as dilution effects in larger cultures, transport effects due to flow or the role of host cells. The microscale technologies facilitate such measurements in individual cells by precisely controlling the cellular microenvironment by restraining cell density, temporal and spatial heterogeneity. A 3D printing strategy using laser-based lithographic technique was used to fabricate picoliter chambers to encapsulate Pseudomonas aeruginosa and S. aureus populations and to study the effect of very low cell densities on quorum sensing [11]. Pressure-driven microfluidic flow has been used to generate oil-in-water emulsion microdroplets for high-throughput isolation and culture of single bacterial and yeast cells. The cells isolated in droplets as small as 100 fL provide an ideal platform to elucidate the role of quorum sensing and the role of environmental stressors on cell behavior [12]. In addition, microchambers with dimensions comparable to that of Escherichia coli have been used to evaluate the effect of spatial confinement on cell behavior [2]. The isolation and confinement of single cells in microchambers has also enabled the understanding of electrochemical and biochemical processes in electricity generating microorganisms, which may aid in the development of microbial fuel cells [13].
+
+Culturing ‘unculturable’ cultures
+The advent of culture-independent molecular techniques and large-scale microbiome projects has provided insights into the complex microbial ecology of oral cavity, gut and soil. Based on the genetic signatures, many of the microbial organisms are termed ‘uncultivable’ outside of their natural environment [14]. The traditional cultivation techniques create a selection bias against unculturable organisms that are difficult to grow in an artificial in vitro environment. On the contrary, microfluidic technologies offer such versatility of design, growth conditions and environmental control that it may now be possible to cultivate the uncultured [15]. Ingham et al. used a microfabricated, million-well micro Petri dish to pan 200,000 river water isolates to identify six new species [16]. More recently, using a novel microfluidic device called Slip Chip consisting of 3200 wells of 6 nl each, Ma et al. confined stochastically single cells from a complex clinical human cecum sample in each well and cultivated under anaerobic conditions. Their innovative design allowed for simultaneous scale-up cultivation and retrieval of samples for genotyping that resulted in the identification of new genus of gut anaerobe, Bacteroides vulgatus [17]. These instances exemplify how microculture techniques may be exploited for the targeted seclusion of an individual organism that may otherwise fall below detection limits or may be outcompeted by other organisms in a complex culture.
+
+Microphysiological models
+Micron-sized devices incorporating one or more types of human cells are built to model complex structural and functional architecture of tissues [18]. These biomimetic devices have been used to understand the physiology of multicellular organs including liver, kidney, intestine, lung, heart, blood vessels and nerve [19]. Of interest are experimental models of human mucosa where the close interplay between commensals, pathogens and the host dictate the tight balance between health and disease. However, the culture of human cells in concert with commensal or pathogenic microbes is a challenge due to the differences in the growth conditions for the microorganisms and human cells, and the possibility of microbial contamination. In a unique study, Kim et al. have fabricated a device to culture human intestinal epithelial cells in association with the gut microbe Lactobacillus rhamnosus GG under conditions that mimic physiological peristaltic motions [20]. In this model, the gut epithelium and L. rhamnosus were grown on either side of a microporous membrane in a microfluidic chamber, and was found to capture important aspects of in vivo physiology. Such models consisting both host cells and commensals should faithfully recapitulate the dynamic features of the organ and will be of great value for both fundamental understanding of disease physiology and applications such as drug testing.
+
+Outlook
+The exponential increase in culture densities over the last two decades appears to follow Moore’s law, an observation from microelectronics that the density of transistor chips doubles every 2 years. Just as microelectronics has transformed the world we live in today, we expect that microscale cultures will continue to transform our view of the microbial world. As microbiology creatively adapts new tools from other disciplines, we will be forced to re-examine our past views or discover new ones. The future is promising but will be full of surprises.
+
+Biofilm-related work in the JL Lopez-Ribot laboratory is funded by grant number 1R01DE023510-01 from the National Institute of Dental and Craniofacial Research (to JL Lopez-Ribot) and by the Army Research Office of the Department of Defense under Contract No. W911NF-11-1-0136. Infectious disease-related work in the AK Ramasubramanian laboratory is funded by the NIH (SC1HL112629), and a pre-doctoral award from the American Heart Association (13PRE17110093 to A Srinivasan).
+
+Financial &amp; competing interests disclosure The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed. No writing assistance was utilized in the production of this manuscript.
+
+Disclaimer This content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institute of Dental and Craniofacial Research, the NIH, American Heart Association or the Department of Defense.
+
+
+   References
+1 
+            Gefen O  
+            Balaban NQ  
+           The Moore’s law of microbiology – towards bacterial culture miniaturization with the micro-Petri chip Trends Biotechnol 2008 26 345 347 18453020 
+2 
+            Weibel DB  
+            DiLuzio WR  
+            Whitesides GM  
+           Microfabrication meets microbiology Nat. Rev. Micro 2007 5 209 218 
+3 
+            Kumar RA  
+            Clark DS  
+           High-throughput screening of biocatalytic activity: applications in drug discovery Curr. Opin. Chem. Biol 2006 10 162 168 16520085 
+4 
+            Srinivasan A  
+            Lopez-Ribot JL  
+            Ramasubramanian AK  
+           Overcoming antifungal resistance Drug Discov. Today Technol 2014 11 65 71 24847655 
+5 
+            Xu Y  
+            Bao G  
+           A filtration-based protein microarray technique Anal. Chem 2003 75 5345 5351 14710811 
+6 
+            Deiss F  
+            Funes-Huacca ME  
+            Bal J  
+            Tjhung KF  
+            Derda R  
+           Antimicrobial susceptibility assays in paper-based portable culture devices Lab Chip 2014 14 167 171 24185315 
+7 
+            Price CS  
+            Kon SE  
+            Metzger S  
+           Rapid antibiotic susceptibility phenotypic characterization of Staphylococcus aureus using automated microscopy of small numbers of cells J. Microbiol. Methods 2014 98 50 58 24393790 
+8 
+            Lewis K  
+           Platforms for antibiotic discovery Nat. Rev. Drug Discov 2013 12 371 387 23629505 
+9 
+            Srinivasan A  
+            Leung KP  
+            Lopez-Ribot JL  
+            Ramasubramanian AK  
+           High-throughput nano-biofilm microarray for antifungal drug discovery mBio 2013 4 
+10 
+            Parsek MR  
+            Greenberg EP  
+           Sociomicrobiology: the connections between quorum sensing and biofilms Trends Microbiol 2005 13 27 33 15639629 
+11 
+            Connell JL  
+            Ritschdorff ET  
+            Whiteley M  
+            Shear JB  
+           3D printing of microscopic bacterial communities Proc. Natl Acad. Sci. USA 2013 110 18380 18385 24101503 
+12 
+            Boedicker JQ  
+            Vincent ME  
+            Ismagilov RF  
+           Microfluidic confinement of single cells of bacteria in small volumes initiates highdensity behavior of quorum sensing and growth and reveals its variability Angew. Chem. Int. Ed. Engl 2009 48 5908 5911 19565587 
+13 
+            Qian F  
+            Wang H  
+            Ling Y  
+             
+           Photoenhanced electrochemical interaction between Shewanella and a hematite nanowire photoanode Nano Lett 2014 14 3688 3693 24875432 
+14 
+            Stewart EJ  
+           Growing unculturable bacteria J. Bacteriol 2012 194 4151 4160 22661685 
+15 
+            Zengler K  
+            Toledo G  
+            Rappé M  
+             
+           Cultivating the uncultured Proc. Natl Acad. Sci. USA 2002 99 15681 15686 12438682 
+16 
+            Ingham CJ  
+            Sprenkels A  
+            Bomer J  
+             
+           The micro-Petri dish, a million-well growth chip for the culture and high-throughput screening of microorganisms Proc. Natl Acad. Sci. USA 2007 104 18217 18222 17989237 
+17 
+            Mahowald MA  
+            Rey FE  
+            Seedorf H  
+             
+           Characterizing a model human gut microbiota composed of members of its two dominant bacterial phyla Proc. Natl Acad. Sci. USA 2009 106 5859 5864 19321416 
+18 
+            Huh D  
+            Kim HJ  
+            Fraser JP  
+             
+           Microfabrication of human organs-on-chips Nat. Protocols 2013 8 2135 2157 24113786 
+19 
+            Bhatia SN  
+            Ingber DE  
+           Microfluidic organs-on-chips Nat. Biotech 2014 32 760 772 
+20 
+            Kim HJ  
+            Huh D  
+            Hamilton G  
+            Ingber DE  
+           Human gut-on-a-chip inhabited by microbial flora that experiences intestinal peristalsis-like motions and flow Lab Chip 2012 12 2165 2174 22434367 
+

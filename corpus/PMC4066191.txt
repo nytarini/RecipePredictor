@@ -1,0 +1,905 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   77021184161Immunol RevImmunol. Rev.Immunological reviews0105-28961600-065X24942689406619110.1111/imr.12184NIHMS581466ArticleImmunity to intestinal pathogens: lessons learned from Salmonella McSorley Stephen J. Center for Comparative Medicine, Department of Anatomy, Physiology and Cell Biology, School of Veterinary Medicine, University of California Davis, Davis, CA 95616, USACorrespondence to: Stephen McSorley, Center for Comparative Medicine, County Road 98 &amp; Hutchison Drive, Davis, CA 95616, USA., Tel.: +1 530 752 3414, Fax: +1 530 752 7914, sjmcsorley@ucdavis.edu8 5 2014 7 2014 01 7 2015 260 1 168 182 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Summary
+Salmonella are a common source of food or water-borne infection and cause a wide range of clinical disease in human and animal hosts. Salmonella are relatively easy to culture and manipulate in a laboratory setting, and the infection of laboratory animals induces robust innate and adaptive immune responses. Thus, immunologists have frequently turned to Salmonella infection models to expand understanding of immunity to intestinal pathogens. In this review, I summarize current knowledge of innate and adaptive immunity to Salmonella and highlight features of this response that have emerged from recent studies. These include the heterogeneity of the antigen-specific T-cell response to intestinal infection, the prominence of microbial mechanisms to impede T and B-cell responses, and the contribution of non-cognate pathways for elicitation of T-cell effector functions. Together, these different issues challenge an overly simplistic view of host-pathogen interaction during mucosal infection but also allow deeper insight into the real-world dynamic of protective immunity to intestinal pathogens.
+
+bacterial immunityCD4+ T cellslymphocyte trackingnon-cognate activationimmune evasion
+   Introduction
+Immunity to intra-macrophage pathogens requires an infected host to generate a robust and sustained CD4 Th1 response. The development of this response is best studied in animal models where Th1 cells are required for macrophage activation, such as in vivo models of Salmonella, Leishmania, and Mycobacteria (1–3). Each of these infection models has been utilized over the years to reveal important aspects of CD4 T cell biology (1, 3, 4). Laboratory infection of mice with Salmonella is a particularly attractive model since Salmonella are easily cultivated and manipulated genetically, this organism is relatively safe to use in the laboratory, and a the natural oral route of infection can be utilized (5). As might be expected, Salmonella infection of inbred mouse strains induces a robust CD4+ T-cell response that is essential for protective immunity to secondary infection (6–10). More surprisingly for an intra-macrophage pathogen, Salmonella also induces CD8+ T-cell and antibody responses that can contribute to the resolution of infection (8, 10, 11). Thus, the Salmonella infection model is highly amenable to laboratory study and allows the direct examination of protective CD4+ Th1 cells with the additional ability to examine the role of CD4+ T cells in the generation of protective CD8+ T-cell and B-cell responses. The only real limitation to using the Salmonella mouse model has been the relatively poor characterization of antigen specificity and a corresponding paucity of antigen-specific detection reagents (12). However, in the last decade, this problem has largely been overcome, and there are now antigen-specific reagents available for studying Salmonella-specific CD4+, CD8+, and B-cell responses in vivo (13). Recent studies have used these reagents and uncovered an unappreciated complexity in the generation, function, and maintenance of CD4+ Th1 cells during Salmonella infection. This review summarizes current understanding of host immunity to Salmonella infection and subsequently discusses recent studies of interest to host-pathogen interactions during mucosal or systemic infection.
+
+Classification
+Salmonella belong to the Enterobacteriaceae family of Gram-negative bacteria, which includes several medically important pathogens, such as Shigella, Yersinia, and Klebsiella. The Salmonella genus consists of only two species, S. enterica and S. bongori, and almost all Salmonella infections of humans and animals are caused by a single sub-species of S. enterica, called S. enterica enterica (14). This sub-species contains over 2000 genetically similar serovars that are often grouped according to their ability to cause local or systemic disease in different animal hosts. S. enterica enterica serovars, such as Typhimurium and Enteritidis, are generalists that can typically cause gastroenteritis in humans and a wide range of animal species (15). Although they normally cause a localized infection of the intestine, these serovars can also be responsible for severe systemic disease in an immune-deficient host (16). A second group of S. enterica enerica serovars, such as Dublin (bovine) and Cholerasuis (swine), display a more restricted pattern of infection that is normally associated with certain host species but are more likely to cause systemic disease in the presence of a functioning immune system (15). Lastly, there are a small number of S. enterica enterica serovars that display a highly restricted pattern of infection in a single species, but are associated with serious systemic infections (17, 18). The most prominent of these highly restricted serovars is S. enterica enterica serovar Typhi, which causes typhoid fever in humans but is unable to infect any other mammal (19).
+
+In developed nations, human infections with Salmonella are often observed as large outbreaks of rapid-onset gastroenteritis caused by the contamination of meat, produce, or processed food with serovars that can come from a variety of different animal reservoirs (20). The health and economic impact of these food outbreaks are substantial and Salmonella infections remain the largest cause death due to food-borne contamination in the US (20, 21). The pattern of Salmonella infections in many developing nations can be markedly different, especially if there is a limited sanitation infrastructure that allows human-to-human transmission to occur. In this environment, the human-restricted serovars S. Typhi and S. Paratyphi can thrive and cause typhoid fever, a systemic disease that is transmitted between infected humans without an animal host (19). The incidence of Typhoid fever is difficult to calculate but has been estimated at 21.7 million infections and 217,000 deaths annually (18, 22). Unlike the rapid-onset gastroenteritis commonly observed in developed nations, the symptoms of Typhoid fever can take weeks to develop following the ingestion of contaminated food or water, but, since this is a systemic infection, a fatal outcome is more likely (18, 22, 23). As noted above, non-typhoidal Salmonella serovars that normally cause gastroenteritis can also cause serious systemic infections in immune-deficient individuals (16, 24, 25). Thus, rare patients with primary genetic deficiencies different cytokines or receptors associated with Th1 or Th17 responses can develop repeated and/or systemic infections with Salmonella serovars that normally cause acute gastroenteritis (16). A more widespread problem is the incidence of systemic Salmonellosis caused by non-typhoidal Salmonella infections in young children, HIV positive individuals, or patients who happen to be co-infected with malaria (25, 26). In these individuals, an underlying immune suppression or developmental delay in immune competence allows systemic infection to occur. Indeed, non-typhoidal salmonellosis (NTS) infections have been recognized as an emerging cause of bacteremia in sub-Saharan Africa (27). In summary, Salmonella remains an important cause of gastroenteritis in developed nations due to the continued prevalence of food-borne outbreaks, while developing nations deal with more serious systemic illnesses associated with typhoidal or non-typhoidal serovars.
+
+Animal models for studying Salmonella infection
+Given the broad host range of many Salmonella serovars, almost any warm-blooded animal could be considered as an animal model of human infection. However, due to economic considerations and the availability of immunological reagents, inbred mice are most commonly used to study Salmonella (1, 5). Since Salmonella infection of mice usually results in systemic infection without diarrhea or infection of the intestinal lamina propria (28), gastroenteritis is sometimes studied using a calf intestinal loop model that allows direct examination of the intestinal inflammation and fluid secretion (5, 29). An alternative approach is to pre-treat mice with antibiotics, which reduces the intestinal microbiota prior to Salmonella infection (30). By removing the natural colonization resistance mediated by host microbiota, Salmonella are able to induce an inflammatory colitis, and this simple model allows for mechanistic study of intestinal pathology and Salmonella growth in the intestinal lumen (30, 31). Without the use of antibiotics, oral Salmonella infection of mice typically causes a systemic infection that is considered a useful model of human typhoid fever (1, 5, 29). In both mouse and human typhoid, bacteria enter the host by specifically crossing the epithelial cells overlying Peyer’s patches and then transit to the spleen, liver, and bone marrow, where they replicate in the reside phagocyte reservoirs at these sites (32, 33). As with human typhoid, Salmonella-infected mice develop profound hepato-splenomegaly and susceptible mice die from systemic infection (1, 5, 34). Despite the many similarities between human and murine Salmonellosis with respect to the route of entry, tissue tropism, cellular location of bacteria, and major immune responses, there are also some important differences. The Salmonella serovars that are used to infect mice are genetically distinct from the serovars that cause typhoid in humans and most notably lack expression of the Typhoid toxin and the Vi Capsule Polysaccaride (ViCPS) (35, 36). The lack of a capsule in serovars used for mouse infections probably explains the lack of any ‘stealth’ incubation period before the clinical signs of infection occur. Indeed, Vi CPS expression can reduce TLR-dependent inflammatory responses and prevent complement deposition during Salmonella infection (37, 38). Although serovar Typhi does not infect mice, recent studies have shown that humanized mice are permissive for infection with this serovar (39–41), and this opens up an important new avenue to study immunity to typhoid. However, given the cost and time required to generate humanized mice, it is unlikely that this new model will replace simple infection of inbred mouse strains with non-typhoidal serovars. TLR11-deficient mice have also been examined as a possible model of serovar Typhi infection (42); however, this model has proved difficult to reproduce in our laboratory. Therefore, the vast majority of laboratory studies examining immunity to Salmonella involve infection of inbred mice with non-typhoidal serovars.
+
+Inbred strains of mice can be highly resistant or susceptible to laboratory Salmonella infection. Resistant strains of mice express a protective allele of the Slc11a1 gene that encodes an ion transporter important for resolving primary challenge with serovar Typhimurium (43). Since these mouse strains can survive infection with virulent bacteria, they are often used to study the resolution of a primary infection, effector T-cell responses, bacterial persistence, and the establishment of immune memory (6, 44–46). Indeed, the protective allele of Slc11a1 has now been backcrossed to the susceptible C57BL/6 strain to facilitate the examination of these issues using gene-deficient mice (47). However, from an immunological perspective, there is one crucial caveat to the use of resistant strains. Many studies have shown that protective immunity to Salmonella on a resistant background is largely mediated by antibody, rather than CD4+ T-cell responses (48, 49). Actually, this limitation of the model is actually an important feature, since there is considerable evidence that antibody responses can be protective during typhoid and non-typhoidal disease in humans (50–53). However, any examination of Salmonella-specific CD4+ T-cell responses in resistant mice must be made with the knowledge that this particular immune response is non-essential for bacterial clearance. While this issue can be largely irrelevant for general studies on T-cell biology, it becomes more important if the overall goal is to study the protective role of Salmonella-specific T cells in situ.
+
+Inbred strains of mice that express a mutant allele of the Slc11a1 gene are extremely susceptible to Salmonella infection and do not remain alive long enough to provide a useful model for the study of protective responses against virulent strains (28). As might be expected, studying pathogen-specific CD4+ T-cell responses is challenging in a model where mice develop fatal infection with 1–10 bacteria. However, by using bacterial strains with reduced virulence or by focusing on acquired protective immunity after vaccination, a great deal can be learned about the protective function of CD4+ T cells in this model (8–10). Thus, Salmonella infections of resistant or susceptible inbred strains of mice are both viable approaches for studying the immune response to infection. The use of either model usually depends on whether the overall goal is to understand the role of CD4+ T cells or antibody in protective immunity, the dynamics of bacterial persistence, or the development of immune memory.
+
+Innate immune response to Salmonella
+Salmonella infection of mice induces a robust innate immune response that involves epithelial cells, local phagocyte populations, and potentially memory T cells in the intestine (54). Many of these host cells can directly detect Salmonella products, such as lipopolysaccharide (LPS) lipid A via TLR4, flagellin via TLR5, and bacterial amyloid fibers via TLR1/2 (55–57). Recognition of bacterial ligands by TLRs increases the bactericidal activity of local tissue macrophages, induces the maturation and migration of dendritic cells, and initiates the production of inflammatory cytokines and chemokines (54). NOD-like receptors (NLRs) are also critical for the induction of inflammatory responses, since they can detect the translocation of bacterial products into the cytosol of epithelial cells (58, 59). As Salmonella inject bacterial proteins into epithelial cells as a virulence strategy to induce initial uptake, NLR-dependent cytosolic detection provides an important mechanism for the host to discriminate between commensal bacteria and Salmonella (60).
+
+The early innate response to infection involves rapid recruitment of neutrophils and monocytes to intestinal lymphoid tissues and these cell populations congregate into inflammatory foci around infected cells (61, 62). Recruitment of monocytes and neutrophils occurs normally in the absence of TLR4 and TLR5 (62), suggesting that there is significant redundancy in the initial TLR and NLR-dependent responses that contribute to early recruitment of inflammatory cells. These migrating monocytes and neutrophils increase the local production of TNF-α, IL-1, and nitric oxide, which is likely to be important for restraining initial bacterial replication (61). While inflammatory monocytes can acquire expression of CD11c, high levels of MHC class I, and function as effective antigen-presenting cells (63), the role of these cells in intestinal T-cell activation has not been completely resolved. While an early role for monocyte-derived DCs has been found to be essential for Th1 development during Salmonella infection (64), it has also been shown that Salmonella can effectively block monocyte maturation (65, 66). A variety of other inflammatory cytokines are produced as a consequence of the innate response in the intestine, including IL-6, IL-12, IL-18, and IL-23, which together are important for providing an environment that allows differentiation of CD4+ T cells towards both Th1 and Th17 linages (31). Indeed, as discussed below, a mixed Th1 and Th17 CD4+ T-cell response has been detected in the intestine of Salmonella-infected mice (67). NK cells are another important contributor to the early innate response to Salmonella infection and indeed are probably more important that T cells in controlling early bacterial growth (68, 69). Recent examination of the role of NK cells in Salmonella infection has confirmed a protective role for NK cells that is largely mediated by the production of IFN-γ (70). Importantly, these studies also suggested that NK cells can participate in secondary responses during vaccine-mediated protection and that different live attenuated vaccines can vary in their ability to elicit this protective effect (70). Further studies are required to examine the contribution of NK cells during secondary responses and whether this reflects a direct effect of NK cells or an indirect effect on responding Th1 cells.
+
+T-cell response to Salmonella infection
+Infection of susceptible mice with Salmonella infection is the best of the available models to study Salmonella-specific CD4+ Th1 responses since these cells actively participate in bacterial clearance. The inherent problem of using highly susceptible mouse strains has been addressed by (i) examining immunity to Salmonella strains with reduced virulence, (ii) examining the secondary response to fully virulent bacteria after vaccination, and (iii) examining immunity with the use of antibiotics to resolve primary infection. These different approaches fit well with the long history of research in developing attenuated Salmonella strains as vaccine vectors (71). We summarize the main findings from each of these experimental approaches below.
+
+Highly susceptible mice can resolve primary infection with attenuated Salmonella strains and this requires a functioning immune system that can develop a CD4+ Th1 cell response and IFN-γ production to activate infected macrophages (72–75). Similar experiments using attenuated bacterial strains show that mice lacking B cells resolve primary infection with similar kinetics to wildtype mice (76, 77), indicating that B-cell responses do not participate in primary clearance. CD8+ T cells are generally not thought to contribute to primary clearance of attenuated Salmonella, based on studies using β2-microglobulin-deficient mice that lack class I-restricted CD8+ T cells (73, 78). However, interpretation of these studies is complicated by the fact that β2-microglobulin-deficient mice lack CD1 and non-classical MHC molecules, and also have the potential to express free MHC class Ia molecules without β2-microglobulin (79, 80). Recent experiments with mice lacking classical MHC class Ia genes, perforin, or granzyme, show that CD8+ T cells make a modest contribution to Salmonella clearance during the later stages of the primary response (81). Given the role of CD4+ Th1 cells in production of IFN-γ and activation of macrophage microbicidal mechanism, it is not surprising that mice lacking Th1 cells due to a genetic deficiency in T-bet are unable to resolve primary infection with attenuated Salmonella (74). Similarly, mice lacking IL-12, IFN-γ, reactive oxygen species, or inducible nitric oxide, all have deficiencies in primary clearance of Salmonella (75, 82, 83). Overall, these data confirm a primary role for CD4+ Th1 cells and an additional role for CD8+ T cells in primary immunity to Salmonella. These activated CD4+ and CD8+ T cells produce the IFN-γ that is required for macrophage activation and bacterial killing. However, these findings are complicated by the fact that this infection model only examines immunity to highly attenuated bacteria. It seems possible, and even likely, that the dynamics of the adaptive immune response to highly virulent bacteria could differ substantially and the contribution of different cell populations could differ as a result.
+
+To address this deficiency, many laboratories also examine protective immunity during secondary challenge of susceptible mice. Susceptible mice can resolve primary infection with attenuated bacteria over a period of 3–8 weeks, depending on the specific bacterial mutant, and following primary clearance are often immune to secondary challenge with virulent Salmonella (84). This infection model therefore allows examination of immunity to virulent bacteria in highly susceptible mouse strains. Since these mice resist secondary infection this model also allows for antibody-mediated depletion of cell populations or cytokines to assess the role of these in Salmonella immunity. These experiments have confirmed the importance of both CD4+ and CD8+ T cells during protective immunity and demonstrated that IL-12, IFN-γ, TNF-α, and iNOS each play important roles in mediating bacterial killing (8, 9, 85, 86). It is surprising therefore that the adoptive transfer of spleen cells from immune to naïve mice is insufficient to transfer protective immunity (11). However, the transfer of spleen cells and serum from immune mice was shown to confer immunity to secondary challenge, although even this combined transfer provided lower levels of protection than intact immunized mice (11). The additional requirement for antibody in secondary protection suggests a fundamental difference in immunity against virulent and attenuated bacteria or in primary versus secondary clearance. Several studies using B cell-deficient mice have confirmed that B cells are essential for immunity to secondary challenge with virulent or attenuated Salmonella (76, 77). In some studies, the transfer of immune serum to immunized B-cell-deficient mice conferred the ability to resolve low dose secondary infection with virulent bacteria (76). This observation suggests that Salmonella-specific antibody can contribute to protective immunity during secondary infection as a supplement to Salmonella-specific CD4+ and CD8+ T cells. Indeed, this concept fits well with human studies showing that antibody is likely to be effective in immunity to typhoidal and non-typhoidal Salmonella (50, 52, 87). However, recent studies using B-cell-deficient mice or transgenic mice with peripheral B cells but no secreted antibody demonstrate that B-cell-mediated protection against secondary Salmonella infection can also be antibody independent (88). The protection in mice containing peripheral B cells correlated with robust Th1 cell responses to Salmonella antigens and was reduced in mice lacking B cells (88). Therefore, B cells make antibody dependent and antibody independent contributions to secondary protective immunity. Indeed, prior studies using B-cell-deficient mice have demonstrated a deficiency in Th1 cell responses in these mice during Salmonella infection (77, 89). Other studies have shown that mice with B cells lacking Myd88 develop lower Th1 and IgG2c responses during Salmonella infection due to an impairment in B-cell cytokine production that subsequently affects T-cell differentiation (90, 91). In conclusion, the numerous studies of vaccine-mediated protective immunity in susceptible strains of mice have confirmed a requirement for Th1 and CD8 T cells that was evident in studies with attenuated bacteria. In addition, vaccine-mediated protection to secondary infection also demonstrates an important requirement for B cells that can be evident in antibody-dependent and antibody-independent mechanisms.
+
+Studies of vaccine-mediated protection are highly informative since they have the capacity to define the contribution of protective responses in the context of infection with virulent bacteria. However, it has to be remembered that all of these protective responses are initially induced by primary exposure to attenuated bacterial strains. Therefore, while these studies provide a great deal of mechanistic information about the immune response to a live vaccine strain of Salmonella, it is possible that the initial challenge with virulent bacteria that occurs in typhoid endemic areas is substantially different. As noted above, a response to primary infection can be studied using the resistant mouse model but is complicated by the fact that these mice rely primarily on antibody for bacterial clearance. One useful alternative therefore is to study host immunity to virulent bacteria in susceptible mice using antibiotic intervention to prevent fatal infection. Administration of Enrofloxacin to Salmonella-infected mice is highly effective at resolving infection with virulent strains and bacteria are depleted from the spleen, liver, and bone marrow within 48–72 h of treatment (92). Interestingly, these antibiotic-cured mice develop a protective response that is evident upon secondary challenge but is ultimately insufficient to provide full protective immunity (92). Similar to vaccine-mediated protection, the limited protection in antibiotic-cured mice requires MHC class II-restricted T and IFN-γ, but also requires B cells (92). Thus, antibiotic-treated mice appear to generate a similar protective response to vaccinated mice but one that is insufficient to protect against secondary challenge. Delaying antibiotic intervention caused a corresponding increase in Salmonella-specific Th1 responses over a period of 7 days (93), suggesting that the Th1 response matures slowly over the first week of infection and is therefore susceptible to any interruption during this period. This model may be important for understanding why infected individuals can suffer from repeated bouts of typhoid in endemic areas, often after antibiotic intervention (19). Interestingly, a similar failure to acquire protective immunity after antibiotic treatment has been noted in Chlamydia-infected patients (94). Greater understanding of the antibiotic-treatment model may help define the maturation process of the Th1 response to intracellular bacterial infection.
+
+While developing the antibiotic-treatment model using susceptible mice, it was found that an extremely long period of treatment was required to fully resolve primary infection (92). Although, 2–3 days of treatment eliminated bacteria from the liver, spleen, and bone marrow, up to 35 days of treatment was required to clear bacteria from mesenteric lymph nodes. Thus, if mice were treated with antibiotics for a week, bacteria recovered and proliferated within the MLN before spreading back to the spleen, liver, and bone marrow and causing fatal infection (95). This relapse of infection is due to the ability of Salmonella to respond to the intracellular environment by establishing a non-replicating population in some infected cells, a process that requires the expression of toxin-antitoxin modules (96). It is not yet clear why such a mechanism of dormancy would target bacteria to the MLN, but this lymphoid organ is also a site of persistent infection in resistant mice (97, 98). These resistant mice appear to have resolved primary infection but continue to shed bacteria in stools from this MLN reservoir (46, 97). Relapse of typhoid has also been described in endemic areas after antibiotic treatment (19, 99–101), suggesting that persistence and relapse in mice is an important phenomenon that requires greater study. It is not clear why the adaptive immune system fails to effectively combat relapsing primary infection, but again may be due to interruption of CD4+ Th1 development by antibiotic treatment. Together, these studies of antibiotic treated mice further confirm the importance of CD4+ Th1 cells in protective immunity to Salmonella and suggest that prolonged stimulation is required for these cells to develop.
+
+Many studies in resistant mouse strains point to the effectiveness of antibody as a defense mechanism against Salmonella, despite the fact that these bacteria replicate intra-cellularly in vivo. Antibody-mediated defense is also clearly important in protective immunity to typhoid and non-typhoidal Salmonelosis in humans. Studies using highly susceptible mouse strains confirm an essential requirement for CD4+ Th1 cells in resolving Salmonella infection, as has been noted in other intra-macrophage infections. However, even these studies demonstrate an important protective role for antibody-dependent and antibody-independent B-cell responses. Thus, protective immunity to Salmonella infection is not simply a consequence of Th1 development but involves the activation of Salmonella-specific B-cell responses.
+
+Antigen-specific reagents for studying Salmonella-specific immunity
+The many studies outlined above provide an important overview of the host immune response to Salmonella infection, but a more detailed understanding of Salmonella-specific T and B-cell responses requires the ability to identify and monitor antigen-specific responses in vivo. This can be accomplished by generating recombinant Salmonella strains that then allow the use of established immunological tools or by developing new reagents specifically for use in the Salmonella infection model (12, 102).
+
+TCR transgenic mice have a monoclonal population of peripheral T cells with defined antigen specificity and can be crossed to allelic backgrounds that allow direct identification of these T cells. Adoptive transfer of TCR transgenic T cells therefore allows direct tracking of a clonal T-cell population as it responds to antigen in vivo (103). This approach was initially applied to the Salmonella infection model by transferring OVA-specific CD4+ T cells and infecting mice with Salmonella engineered to express OVA (104, 105). Later development of a Salmonella-specific TCR transgenic mouse called SM1 allowed direct visualization of flagellin-specific CD4+ T cells to unmodified Salmonella strains (106, 107). Investigators have continued to use recombinant Salmonella strains expressing OVA or other antigens, combined with a variety of CD4+ and CD8+ TCR transgenic mice. Together, these different approaches allow direct visualization of the response of naïve Salmonella-specific CD4+ and CD8+ T-cell responses to a variety of different oral or systemic infections.
+
+A second complementary approach has been to use MHC class I and II tetramers to monitor CD4+ and CD8+ T cells during Salmonella infection (13). Again, this approach can involve the use of recombinant Salmonella and established immunological reagents or the generation of new regents specific for the Salmonella model. However, while it is relatively straightforward to express model antigens in Salmonella and use established reagents, there are potential problems in interpreting these studies. First, the forced expression of any antigen in Salmonella can have adverse effects on bacterial growth and virulence and different promoter systems have been explored to ameliorate these detrimental effects in vivo (108). Second, it is not always clear whether the T-cell responses being visualized actually contribute to bacterial clearance. While this may seem a relatively minor issue, it has the potential to render many experiments as completely meaningless to Salmonella immunity. For example, in experiments using antigen-expressing Salmonella strains it is sometimes observed that prior immunization with this same antigen does not affect the clearance rate of the recombinant bacterial strain. Thus, although an antigen-specific T-cell effector population is activated, present, and can be directly visualized, it does not affect Salmonella clearance. If this is the case, one might argue that monitoring this antigen-specific population is something akin to visualizing T-cell responses to vaccination that just happens to occur in the context of a Salmonella infection. The danger in this approach is that this particular response may provide absolutely no direct information about Salmonella-specific immunity at all. One way to avoid this criticism is to establish that prior immunization with a model antigen actually affects subsequent infection with a Salmonella strain expressing the same antigen, or alternatively, demonstrating that adoptive transfer of antigen-specific T cells affects bacterial clearance. A final concern with using recombinant Salmonella strains is the inherent inability of this approach to study the heterogeneity of the T-cell response to infection. It is often assumed that the T-cell response to a given pathogen will display a relatively uniform tempo and therefore studying one individual response provides a snapshot of the overall response to infection. However, given the complex regulation of bacterial antigen expression in vivo, this seems unlikely to be true and indeed has been challenged by recent studies in Salmonella infection models. Despite these potential concerns, our understanding of Salmonella immunity has benefited greatly from the use of antigen-specific reagents, both those designed specifically for this infection model and those that have been adapted from other systems. The results of some of these recent studies are discussed in more detail below.
+
+Heterogeneity of T-cell response to different bacterial antigens
+The first study to successfully characterize Salmonella-specific CD4+ T-cell clones identified the target antigen of these T cells as an I-Ak epitope within the central hypervariable portion of bacterial flagellin encoded by the FliC gene (109). A subsequent study found an I-Ab epitope towards the conserved carboxy terminus of flagellin and this epitope sequence is the same in both Salmonella flagellin genes (FliC and FljB) (110). Subsequently, additional MHC class II epitopes were identified in the same protein and flagellin remains the most thoroughly defined target antigen in Salmonella infection (111, 112). Additional studies have shown that immunization with flagellin provides a modest degree of protective immunity to Salmonella infection, usually defined by modestly lower bacterial counts or a delay in time to death after infection (110, 113). Thus, flagellin is a well-defined target antigen of CD4+ T cells during Salmonella infection and this response is likely to contribute modestly to protective immunity in vivo.
+
+The T-cell receptor was cloned by PCR from a flagellin-specific T-cell clone, and the sequence was used to generate the SM1 TCR transgenic mouse (106, 110). After backcrossing this mouse to RAG-deficient and CD90.1 congenic backgrounds, the SM1 RAG-deficient CD90.1 mouse provides a useful source of T cells to visualize Salmonella-specific immunity in vivo (106). The early studies using this system focused on the initial stages of CD4+ T-cell activation and demonstrated that the first activation of Salmonella-specific CD4+ T cells occurs in the Peyer’s patch and MLN within 6–12 h of oral infection (106, 114). This confirmed earlier studies that had identified these intestinal lymphoid tissues as the initial site of CD4+ T-cell activation using OVA-specific reagents (105). Further studies using SM1 T cells demonstrated that early activation of Salmonella-specific T cells in the Peyer’s patch required CD11c+ dendritic cells and the chemokine receptor CCR6, expressed by PP DCs close to the epithelial layer (114). Thus, Salmonella flagellin-specific CD4+ T cells are activated very early after oral infection and this process requires migration of CCR6+ DCs within the infected lymphoid tissue. Although these findings fit with our understanding of the spread of Salmonella from PP, to MLNs, and eventually to systemic tissues (115), they are also somewhat at odds with a large body of in vitro work demonstrating that Salmonella can inhibit DC presentation of antigen to naive CD4+ T cells (116). Indeed, this disconnect between robust in vivo CD4+ T-cell activation and inhibitory in vitro effects has not been fully resolved and will be discussed in more detail in the subsequent section. It should also be noted that this pattern of T-cell activation spreading from Peyer’s patches to MLN and ultimately the spleen, is likely to be specific to oral infection in the absence of antibiotics. As noted above, if mice are pretreated with antibiotics, Salmonella can generate considerable intestinal inflammation and bacteria cross intestinal epithelial cells outside of Peyer’s patches gain access to the underlying lamina propria in very large numbers (30). The presence of Salmonella in the lamina propria induces further inflammation and causes the activation and migration of lamina propria DC populations (117). However, in the absence of antibiotic-pretreatment, Salmonella infection of the epithelial layer is largely confined to the specialized M cells overlying intestinal lymphoid tissues such as Peyer’s patches and solitary intestinal lymphoid tissues (SILTs) (106, 115, 118).
+
+Although the SM1 adoptive transfer system targets a natural Salmonella epitope in C57BL/6 mice and therefore provides a unique ability to visualize Salmonella-specific immunity in vivo, the fact that these transgenic T cells recognize flagellin presents some difficulty in extrapolating to other Salmonella antigens. Immunologists have long known that bacterial flagellins are extremely potent immunogens and picogram quantities can induce immune responses in mice and rats (119–121). We now know that this potency is due to the expression of multiple innate receptors that can detect and respond to bacterial flagellins (122). The cell surface receptor TLR5 can bind flagellin and initiate a Myd88-dependent inflammatory response that involves cytokine and chemokine production and effective activation of DCs (123, 124). Thus, it is no surprise that flagellin can function as a potent adjuvant when it is co-administered with another protein (125). Furthermore, flagellin can be detected in the cytosol via NLRC4, which also initiates a distinct inflammatory pathway (122). These overlapping innate pathways have likely evolved to combat invasion by many different flagellated bacteria. In addition, flagellin is treated very differently from other antigens in that a subset of myeloid DCs in secondary lymphoid tissues possesses a unique capacity to efficiently process and present flagellin to CD4+ T cells at very low antigen concentrations (126, 127). This potentiating effect is TLR5-dependent but strangely independent of the adapter protein Myd88 which mediates inflammatory activity downstream of TLR5 (126–128). Although the signaling pathway that mediates this effect has not been fully elucidated, it bears similarities to C-type lectin receptors that preferentially deliver bound antigens to the DC antigen-processing machinery (129).
+
+Two other unusual features of the flagelin epitope recognized by SM1 T cells are also worthy of some consideration. First, the studies with SM1 T cells have demonstrated that flagellin-specific CD4+ T cells are induced very rapidly but eventually this responses subsides (106, 107). This kinetic fits well with our understanding of Salmonella gene regulation since flagellin is heavily downregulated during the transition from extracellular to intracellular growth and therefore during the spread from the intestine to systemic tissues (130, 131). Indeed, SM1 T-cell activation can be evaded entirely if mice are challenged with a low dose of Salmonella, thus limiting the overall availability of flagellin in vivo (107). Second, recent studies have been able to generate MHC class II tetramers specific for this same flagellin epitope, thus allowing direct visualization of the endogenous polyclonal response to flagellin (132). These studies have shown that the precursor frequency of the flagellin-specific CD4+ T-cell population responding to the SM1 epitope is incredibly small (132, 133). In fact, there are around 20 flagellin-specific CD4+ T cells in all the secondary lymphoid tissues of C57BL/6 mice, the smallest precursor frequency documented to date (134). While this may be no more than a peculiarity of the flagellin-specific repertoire, it accentuates the fact that artificially raising the precursor frequency by adoptive transfer has the potential to introduce unanticipated variables. While this is always true for TCR transgenic studies, it may be particularly true for studying flagellin-specific T-cell responses. Flagellin therefore generates an immediate inflammatory response, activates dendritic cells directly and indirectly, is preferentially processed and presented to CD4 T cells, is heavily downregulated by bacteria in vivo, and appears to have a uniquely low precursor frequency in C57BL/6 mice. Thus, while the development of SM1 T cells has allowed direct visualization of CD4+ T-cell responses to a natural Salmonella epitope, it seems very unlikely that this response will be representative of other Salmonella antigens.
+
+The challenge in dealing with this important issue is that very few other target antigens have been defined for Salmonella-specific T cells. Indeed, any attempt to generate CD4+ T-cell clones from Salmonella-infected mice using bacterial lysates usually results in the generation of flagellin-specific T cells and very little else. This is probably due to a combination of the preferential processing and inflammatory activity of flagellin and could potentially be circumvented by the use of lysates from aflagellate bacteria or the use of TLR5-deficient spleen cells for in vitro stimulation. However, one recent paper has identified several new MHC class II epitopes of Salmonella-specific T cells using a combination of guesswork based on known targets of IgG and an unbiased bioinformatics approach (67). Interestingly, some of these new epitopes are found in SseI and SseJ, two effector proteins of a Type III secretion system (T3SS) encoded by Salmonella pathogenicity Island 2 (SPI2) (135). The collection of genes encoded by the SPI2 locus is expressed when Salmonella enter a macrophage and they are essential for survival. The proteins expressed by SPI2 form a needle complex that allows Salmonella to inject multiple effector proteins into the cytosol of the infected cell, thus modifying the phagolysosome to allow bacterial replication (135). Given the predicted cytosolic location of SseI and SseJ, it was surprising that these proteins would be presented in MHC class II and able to activate CD4+ T cells. MHC class II tetramers were generated to visualize the CD4+ T-cell response to both SseJ and flagellin, thus allowing the first comparative analysis of two different natural Salmonella target antigens simultaneously.
+
+As might be expected from studies using SM1 T cells, the polyclonal CD4+ T-cell response to flagellin was initiated rapidly, was primarily localized to the intestine, this response contracted despite the continued presence of Salmonella in vivo (67). In marked contrast, SseJ-specific CD4+ T cells were activated a later, predominantly in systemic lymphoid tissues, and displayed no evidence of clonal contraction for several weeks (67). The starkly different kinetics of the CD4+ T-cell response to these antigens was found to largely overlap with the kinetics of flagellin and SseJ expression by the bacteria in vivo (67). These data suggest that flagellin is a dominant antigen target during the early response simply because it is highly expressed initially, while the SseJ-specific response is ongoing and continuous, reflecting it’s antigen expressing in vivo. The kinetics of these two responses are also interesting from the standpoint of CD4+ T-cell subset development since the flagellin-specific CD4+ T-cell response contained a mixed Th1 and Th17 response that included IL-17 and IL-22 production, while the SseJ-specific T cells were largely Th1 cell. This difference correlates well with the different anatomical location of CD4+ T-cell activation for these responses where the flagellin-specific Th17 cells preferentially develop in the intestine. While Salmonella is often thought of as an infection that generates Th1 cells, this is an oversimplification (16). While Th1 cells are critical for activation of infected macrophages to kill intracellular bacteria in systemic tissues, Th17 cells are probably essential for developing a neutrophil influx at the site of intestinal infection to engulf extracellular bacteria. The generation of IL-22-producing CD4+ T cells should activate epithelial cells to produce antimicrobial peptides that are intended to combat free bacteria in the lumen of the intestine. It is interesting that two these different effector responses occur at different anatomical locations and also target unique antigens that are expressed by the bacteria at these different sites. Although additional antigen-specific reagents are required to confirm this divergent response to the same organism at different locations, together these data suggest a more complicated view of pathogen-specific T-cell responses where bacterial antigen regulation can be a major driver that determines the specificity and effector phenotype of the responding CD4+ T-cell population. It will be interesting to determine whether the CD4+ T-memory cell pool following bacterial clearance will retain this characteristic antigen targeting and effector phenotype.
+
+Bacterial evasion of T and B-cell responses
+As noted above, CD4+ T cells, CD8+ T cells, and B cells each contribute to protective immunity in the susceptible mouse model of Salmonella infection. Given the important role of these populations, it perhaps not surprising that Salmonella are thought to actively inhibit these responses (116). Inhibition of DC antigen presentation has been clearly demonstrated during the in vitro culture of Salmonella-specific T cells (116, 136). In some studies, Salmonella have been reported to induce apoptosis of infected dendritic cells (137, 138). In other reports, Salmonella did not directly affect DC viability but specifically blocked the presentation of peptides to responding CD4+ and CD8+ T cells (139–142). The effect of this inhibition is an overall reduction in T-cell clonal expansion and IL-2 production in vitro. This inhibitory effect required live bacteria and CD4+ T cells can respond normally if bacteria are fixed or killed prior to culture (116). Interestingly, this inhibitory effect has been mapped to the SPI2 locus and CD4+ T-cell activation is restored by using Salmonella strains with SPI2 mutations (140–142). The main problem in interpreting these in vitro studies is that an inhibitory effect of Salmonella on initial CD4+ T-cell activation has not been detected in vivo (67, 106). In fact, as discussed above, a prominant feature of the SM1 T-cell response to infection is the rapidity of initial activation within intestinal lymphoid tissues (106). Robust and rapid CD4+ T-cell responses to model antigens has also been described in vivo using Salmonella strains expressing recombinant proteins (104, 105, 143). Thus, it seems likely that there is no inhibitory effect of live bacteria on initial antigen presentation in vivo. However, an alternative possibility is that the rapid CD4+ T-cell response to infection that is detected in vivo is caused by DC presentation of secreted antigens or antigens recovered from dead bacteria and that active suppression of antigen presentation by live bacteria occurs later in the response. Either way, the in vitro culture conditions that are used to demonstrate Salmonella inhibition of naive T cells serve as a poor model of Salmonella-specific T-cell activation as it occurs in vivo.
+
+Despite the inability to visualize any inhibition of Salmonella-specific CD4+ T-cell priming in vivo, there is considerable evidence that Salmonella inhibit later stages of the CD4+ T-cell response. If mice are immunized with soluble flagellin, responding SM1 T cells undergo a typical pattern of clonal expansion, subsequent contraction, and long-term survival of memory T cells (126, 144). In marked contrast, SM1 T cells responding to live Salmonella expand rapidly but do not survive beyond the clonal contraction phase (7). This failure to generate an expanded population of effector/memory SM1 T cells has been noted in both susceptible and resistant strains of mice and also affects the survival of bystander antigen-specific T cells responding to immunization (143, 145). Importantly, this inhibitory effect is not unique to flagellin-specific CD4+ T cells and inhibition of OVA-specific, and Eα-specific TCR transgenic CD4+ T cells has been detected after infection with Salmonella-OVA or Salmonella-Eα (143, 145). This loss of responding CD4+ T cells is sometimes referred to ‘culling’, since it appears to be an active strategy that Salmonella use to evade antigen-specific CD4+ T-cell responses in vivo. While the mechanism of this response remains undefined, again it is reported to require the expression of the SPI-2 locus (143, 145). Thus, despite the disparity between Salmonella inhibition of initial activation of naive CD4+ T cells in vitro and in vivo, overall these studies point to an inhibitory effect of SPI-2 genes on CD4+ T-cell responses.
+
+A potentially confusing aspect of this Salmonella inhibition of CD4+ T cells is that it is usually only apparent when studying the response of monoclonal TCR transgenic T cells in vivo. In contrast, when the endogenous polyclonal repertoire of responding Salmonella-specific T cells is visualized using MHC class II tetramers, this response shows evidence of expansion, contraction, development of effector cells, and eventually memory (67). It would be tempting to dismiss these inhibitory effects as simply an artifact of TCR transgenic adoptive transfer systems, especially since modulation of the naive T-cell precursor frequency can adversely affect T-cell memory in other systems (146, 147). However, careful titration of SM1 TCR transgenic T cells has demonstrated that these inhibitory effects of Salmonella can be detected across a wide range of precursor frequencies (143). Despite the apparent development of T cell effector responses in experiments studying endogenous CD4+ T cells, it remains possible that this non-transgenic population experiences similar inhibitory effects to that reported for TCR transgenic T cells in vivo. Indeed, although a large population of IFN-γ producing T-bet+ CD4+ Th1 cells is detected as early as the first week of Salmonella infection (7), studies of mice lacking CD4+ T cells or Th1 cells do not demonstrate a deficiency in bacterial clearance until 2 or 3 weeks after infection (73, 74). Thus, there is a notable disparity between the presence of Th1 cells and anti-bacterial effects due to the activity of these cells. Overall, these data would be consistent with a Salmonella-induced inhibitory effect on the endogenous CD4+ T-cell response, just as has been observed with TCR transgenic T cells. Since adoptively transferred TCR transgenic cells are non-renewable, it is possible that endogenous Salmonella-specific T-cell memory actually derives from new naive T cells that are activated later during infection. Indeed, although thymic output is significantly reduced during Salmonella infection, the thymus eventually recovers and may therefore provide the source of endogenous T cells that survive to seed the memory pool (148).
+
+A direct inhibitory effect of Salmonella on T cells has also emerged from in vitro studies. This inhibitory effect is distinct from the mechanism discussed above since it can be observed in the absence of DCs and primarily appears to cause TCR downregulation, thus preventing T cells from receiving an activating stimulus (149, 150). Recent studies have provided greater detail about the mechanism of this inhibitory effect and have shown that it is due to expression of an L-Asparaginase II, which depletes asparagine from the culture medium (151). Since T cells require asparagine, this nutritional deficiency effectively blocks T-cell activation in vitro. Salmonella strains lacking L-Asparaginase II lack the ability to inhibit T cells in vitro and are attenuated in vivo. Together, these studies indicate that are multiple pathways that Salmonella uses to limit the proliferation or survival of effector CD4+ T cells.
+
+The absence of a Salmonella CD8+ TCR transgenic mouse or MHC class I tetramer reagents has limited detailed analysis of Salmonella-specific CD8+ T cells in vivo. However, some studies have used OVA-specific OT-I T cells, OVA tetramers, and Salmonella-OVA to examine CD8+ T cells responding to Salmonella infection. Together these studies outline a surprisingly delayed kinetic of the CD8+ T-cell response where initial activation and cell division is first detected only several weeks after infection (152). This delay in CD8+ T-cell responses appeared to be due to the lack of early antigen presentation during the first weeks of infection (153). It is difficult to reconcile the very rapid response detected using CD4+ T cells with the fact that the CD8+ T-cell response appears to be significantly delayed. However, this pattern of lymphocyte activation is consistent with the kinetics of the B-cell response to Salmonella infection. Although isotype switched antibody responses are induced early after Salmonella infection, germinal center formation is delayed for several weeks (154). It is not yet clear whether a significant delay in CD8+ and B-cell germinal center responses is a consequence of direct inhibition or whether these are simply secondary effects due to the absence of CD4+ T-cell help. Together, they suggest that Salmonella have evolved effective strategies to hinder the development and function of adaptive immune responses. Uncovering the bacterial mechanisms that drive these inhibitory responses could be extremely informative for the design of improved live attenuated Salmonella vaccines with improved immunogenicity.
+
+Role of non-cognate activation during effector T-cell responses
+As noted above, many studies have demonstrated the important role of CD4+ T cells in the resolution of Salmonella infection. Defects in Th1 cell development or the production or responsiveness to IFN-γ serve to increase susceptibility of infected mice (155). Furthermore, patients with inherited or acquired deficiencies in IFN-γ or IL-12 signaling can suffer from Salmonella infections (24, 27). Thus, the activation and effector function of Th1 cells are critical for the resolution of Salmonella infection in humans and mice.
+
+Initial activation of CD4+ T cells requires two signals delivered by DC presentation of peptide/MHC complexes and costimulatory signals via B7 molecule ligation of CD28 (156). Thus, it is not surprising that mice lacking MHC class II molecules or CD28 are unable to resolve infection with Salmonella (73, 76). After expansion and differentiation of responding T-cell clones in lymphoid tissues, these effector T cells gain access to infected tissues where they can mediate bactericidal effects. Although the signals required for initial expansion and differentiation of CD4+ T cells in lymphoid tissues are well defined, the signals required for eliciting IFN-γ response in infected tissue is less well understood. In mycobacterial infection, it has been shown that effector Th1 cells require recognition of peptide/MHC complex on the surface of an infected macrophage to kill bacteria (157). In contrast, during Leishmania infection, it has been shown that Th1 cells are activated to secrete IFN-γ locally and this cytokine gradient can activate infected cells irrespective of whether they are capable of presenting antigen or not (158). A third possibility is that activated T cells sense the presence of inflammatory cytokines in infected tissues and are activated to secrete cytokines in the absence of cognate ligand. This ability to respond to non-cognate signals essentially lowers the threshold for activation and may be advantageous during the immune response to a rapidly dividing pathogen (28). CD8+ T cells can be induced to produce IFN-γ after stimulation by inflammatory cytokines such as IL-12 (IL-12) and IL-18 (159–161). Th1 cells can also respond to these same cytokines suggesting that non-cognate activation of Th1 cells could be important during Salmonella clearance (162, 163).
+
+Studies examining the polyclonal response of CD4+ T cells heat-killed Salmonella noted that a large proportion of CD4+ T cells produced IFN-γ rapidly to this stimulus (7). This response was only detected in Salmonella-infected mice, suggesting that these CD4+ T cells were responding to different Salmonella antigens via cognate stimulation. However, subsequent experiments demonstrated that this same response could be elicited by the injection of LPS and also required IL-18 (164). Thus, stimulation of the innate immune response caused activation of CD4+ T cells in Salmonella-infected mice. In recent work, the mechanism of this non-cognate response has been examined in more detail (165). This study demonstrated that injection of Salmonella-infected mice with LPS, flagellin, or the TLR2 agonist PAM3CSK induced CD4+ T cells to rapidly produce IFN-γ. By using a variety of mixed bone marrow chimeras, it was demonstrated that CD4+ T cells did not respond directly to these TLR ligands but instead responded to IL-18 and IL-33 that were induced by innate stimulation (165). Surprisingly, this response was deficient in mice that lacked the major inflammasome components NLRC4 and NLRP3. Thus, synergy between inflammasome and TLR signals creates an inflammatory environment that induces CD4 Th1 cells to produce IFN-γ during bacterial infection. Importantly, mice containing T cells that lack this non-cognate pathway had a deficiency in primary clearance of Salmonella infection. Overall, these data indicate that non-cognate signals in infected tissues may be sufficient to activate Th1 cells during Salmonella infection. The ability of Th1 cells to respond to non-cognate signals may have evolved to combat co-infections but this has not been demonstrated experimentally.
+
+Conclusions
+The Salmonella infection model has been widely used by immunologists attempting to understudy the innate and adaptive immune response to infection. Both the resistant and susceptible mouse model are attractive since they allow an examination of the protective contribution of CD4+ T cells, CD8+ T cells, and B cells in an experimental model that is easy to work with in the laboratory. Recent experiments have examined antigen-specific T-cell responses to Salmonella using recombinant bacterial strains with established immunological tools or new tools that have been developed for the Salmonella infection model. Together these experiments have provided a more detailed understanding of the adaptive immune response to Salmonella and a picture is emerging that is considerably more complicated that previously envisaged. Both the nature and location of antigen expression can regulate the simultaneous expansion of unique T-cell populations that are enriched in different anatomical compartments and have different functional activity. Salmonella appear to have an array of suppressive or inhibitory effects to affect responding T cells and B cells but the exact mechanism of these responses is largely undefined. The clearance of bacteria from host tissues appears to rely on a combination of cognate recognition of infected cells and non-cognate activation of previously expanded T cells. Although additional work is required to understand how these issues affect the development of protective immunity, each of these issues have the potential to improve vaccine development for typhoid and non-typhoidal Salmonellosis.
+
+This work was supported by grants from the National Institutes of Health to SJM (AI055743, AI076278, and AI056172).
+
+The author has no conflicts of interest to declare.
+
+
+   1 
+            Dougan G  
+            John V  
+            Palmer S  
+            Mastroeni P  
+           Immunity to salmonellosis Immunol Rev 2011 240 196 210 21349095 
+2 
+            Reiner SL  
+            Locksley RM  
+           The regulation of immunity to Leishmania major Annu Rev Immunol 1995 13 151 177 7612219 
+3 
+            Ernst JD  
+           The immunological life cycle of tuberculosis Nat Rev Immunol 2012 12 581 591 22790178 
+4 
+            Sojka DK  
+            Lazarski CA  
+            Huang YH  
+            Bromberg I  
+            Hughson A  
+            Fowell DJ  
+           Regulation of immunity at tissue sites of inflammation Immunol Res 2009 45 239 250 19184582 
+5 
+            Santos RL  
+            Zhang S  
+            Tsolis RM  
+            Kingsley RA  
+            Adams LG  
+            Baumler AJ  
+           Animal models of Salmonella  infections: enteritis versus typhoid fever Micrtobes Infect 2001 3 1335 1344 
+6 
+            Mittrucker H  
+            Kohler A  
+            Kaufmann SH  
+           Characterization of the murine T-lymphocyte response to Salmonella  enterica serovar typhimurium infection Infect Immun 2002 70 199 203 11748183 
+7 
+            Srinivasan A  
+            Foley J  
+            McSorley SJ  
+           Massive number of antigen-specific CD4 T cells during vaccination with live attenuated Salmonella  causes interclonal competition J Immunol 2004 172 6884 6893 15153507 
+8 
+            Nauciel C  
+           Role of CD4+ T cells and T-independent mechanisms in aquired resistance to Salmonella  typhimurium infection J Immunol 1990 145 1265 1269 1974274 
+9 
+            Mastroeni P  
+            Villarreal-Ramos B  
+            Hormaeche CE  
+           Role of T cells, TNF alpha and IFN gamma in recall of immunity to oral challenge with virulent Salmonella e in mice vaccinated with live attenuated aro- Salmonella  vaccines Microb Pathog 1992 13 477 491 1363824 
+10 
+            O’Donnell H  
+             
+           Toll-like Receptor and Inflammasome Signals Converge to Amplify the Innate Bactericidal Capacity of T Helper 1 Cells Immunity 2014 40 213 224 24508233 
+11 
+            Mastroeni P  
+            Villarreal-Ramos B  
+            Hormaeche CE  
+           Adoptive transfer of immunity to oral challenge with virulent Salmonella  in innately susceptible BALB/c mice requires both immune serum and T cells Infect Immun 1993 61 3981 3984 8359920 
+12 
+            Srinivasan A  
+            McSorley SJ  
+           Visualizing the immune response to pathogens Curr Opin Immunol 2004 16 494 498 15245745 
+13 
+            Moon JJ  
+            McSorley SJ  
+           Tracking the dynamics of Salmonella  specific T cell responses Curr Top Microbiol Immunol 2009 334 179 198 19521686 
+14 
+            Baker S  
+            Dougan G  
+           The genome of Salmonella  enterica serovar Typhi Clin Infect Dis 2007 45  Suppl S29 33 17582565 
+15 
+            Costa LF  
+            Paixao TA  
+            Tsolis RM  
+            Baumler AJ  
+            Santos RL  
+           Salmonellosis in cattle: Advantages of being an experimental model Res Vet Sci 2012 93 1 6 22483382 
+16 
+            Godinez I  
+            Keestra AM  
+            Spees A  
+            Baumler AJ  
+           The IL-23 axis in Salmonella  gastroenteritis Cell Microbiol 2011 13 1639 1647 21740501 
+17 
+            Baumler AJ  
+            Tsolis RM  
+            Ficht TA  
+            Adams LG  
+           Evolution of host adaptation in Salmonella  enterica Infect Immun 1998 66 4579 4587 9746553 
+18 
+            Crump JA  
+            Luby SP  
+            Mintz ED  
+           The global burden of typhoid fever Bull World Health Organ 2004 82 346 353 15298225 
+19 
+            Parry CM  
+            Hien TT  
+            Dougan G  
+            White NJ  
+            Farrar JJ  
+           Typhoid fever N Engl J Med 2002 347 1770 1782 12456854 
+20 
+            Nyachuba DG  
+           Foodborne illness: is it on the rise? Nutr Rev 2010 68 257 269 20500787 
+21 
+            Mead PS  
+             
+           Food-related illness and death in the United States Emerg Infect Dis 1999 5 607 625 10511517 
+22 
+            Crump JA  
+            Mintz ED  
+           Global trends in typhoid and paratyphoid Fever Clin Infect Dis 2010 50 241 246 20014951 
+23 
+            Wangdi T  
+            Winter SE  
+            Baumler AJ  
+           Typhoid fever: “you can’t hit what you can’t see” Gut microbes 2012 3 88 92 22156762 
+24 
+            Zhang SY  
+             
+           Inborn errors of interferon (IFN)-mediated immunity in humans: insights into the respective roles of IFN-alpha/beta, IFN-gamma, and IFN-lambda in host defense Immunol Rev 2008 226 29 40 19161414 
+25 
+            Feasey NA  
+            Dougan G  
+            Kingsley RA  
+            Heyderman RS  
+            Gordon MA  
+           Invasive non-typhoidal Salmonella  disease: an emerging and neglected tropical disease in Africa Lancet 2012 379 2489 2499 22587967 
+26 
+            Simon R  
+            Tennant SM  
+            Galen JE  
+            Levine MM  
+           Mouse models to assess the efficacy of non-typhoidal Salmonella  vaccines: revisiting the role of host innate susceptibility and routes of challenge Vaccine 2011 29 5094 5106 21616112 
+27 
+            Gordon MA  
+           Salmonella  infections in immunocompromised adults The Journal of infection 2008 56 413 422 18474400 
+28 
+            Griffin AJ  
+            McSorley SJ  
+           Development of protective immunity to Salmonella , a mucosal pathogen with a systemic agenda Mucosal Immunol 2011 4 371 382 21307847 
+29 
+            Tsolis RM  
+            Xavier MN  
+            Santos RL  
+            Baumler AJ  
+           How to become a top model: impact of animal experimentation on human Salmonella  disease research Infect Immun 2011 79 1806 1814 21343352 
+30 
+            Kaiser P  
+            Diard M  
+            Stecher B  
+            Hardt WD  
+           The streptomycin mouse model for Salmonella  diarrhea: functional analysis of the microbiota, the pathogen’s virulence factors, and the host’s mucosal immune response Immunol Rev 2012 245 56 83 22168414 
+31 
+            Thiennimitr P  
+            Winter SE  
+            Baumler AJ  
+           Salmonella , the host and its microbiota Curr Opin Microbiol 2012 15 108 114 22030447 
+32 
+            Jones BD  
+            Falkow S  
+           Salmonellosis: host immune responses and bacterial virulence determinants Annu Rev Immunol 1996 14 533 561 8717524 
+33 
+            Mastroeni P  
+            Sheppard M  
+           Salmonella  infections in the mouse model: host resistance factors and in vivo  dynamics of bacterial spread and distribution in the tissues Microbes Infect 2004 6 398 405 15101397 
+34 
+            Jackson A  
+            Nanton MR  
+            O’Donnell H  
+            Akue AD  
+            McSorley SJ  
+           Innate immune activation during Salmonella  infection initiates extramedullary erythropoiesis and splenomegaly J Immunol 2010 185 6198 6204 20952675 
+35 
+            Parkhill J  
+             
+           Complete genome sequence of a multiple drug resistant Salmonella  enterica serovar Typhi CT18 Nature 2001 413 848 852 11677608 
+36 
+            McClelland M  
+             
+           Complete genome sequence of Salmonella  enterica serovar Typhimurium LT2 Nature 2001 413 852 856 11677609 
+37 
+            Wilson RP  
+            Raffatellu M  
+            Chessa D  
+            Winter SE  
+            Tukel C  
+            Baumler AJ  
+           The Vi-capsule prevents Toll-like receptor 4 recognition of Salmonella  Cell Microbiol 2008 10 876 890 18034866 
+38 
+            Wilson RP  
+             
+           The Vi capsular polysaccharide prevents complement receptor 3-mediated clearance of Salmonella  enterica serotype Typhi Infect Immun 2011 79 830 837 21098104 
+39 
+            Libby SJ  
+             
+           Humanized nonobese diabetic-scid IL2rgammanull mice are susceptible to lethal Salmonella  Typhi infection Proc Natl Acad Sci USA 2010 107 15589 15594 20713716 
+40 
+            Song J  
+             
+           A mouse model for the human pathogen Salmonella  typhi Cell Host Microbe 2010 8 369 376 20951970 
+41 
+            Firoz Mian M  
+            Pek EA  
+            Chenoweth MJ  
+            Ashkar AA  
+           Humanized mice are susceptible to Salmonella  typhi infection Cell Mol Immunol 2011 8 83 87 21200387 
+42 
+            Mathur R  
+             
+           A mouse model of Salmonella  typhi infection Cell 2012 151 590 602 23101627 
+43 
+            Vidal S  
+             
+           The Ity/Lsh/Bcg locus: natural resistance to infection with intracellular parasites is abrogated by disruption of the Nramp1 gene J Exp Med 1995 182 655 666 7650477 
+44 
+            Johanns TM  
+            Ertelt JM  
+            Rowe JH  
+            Way SS  
+           Regulatory T cell suppressive potency dictates the balance between bacterial proliferation and clearance during persistent Salmonella  infection PLoS Pathog 2010 6 e1001043 20714351 
+45 
+            Nelson RW  
+            McLachlan JB  
+            Kurtz JR  
+            Jenkins MK  
+           CD4+ T cell persistence and function after infection are maintained by low-level peptide:MHC class II presentation J Immunol 2013 190 2828 2834 23382562 
+46 
+            Gopinath S  
+            Hotson A  
+            Johns J  
+            Nolan G  
+            Monack D  
+           The systemic immune state of super-shedder mice is characterized by a unique neutrophil-dependent blunting of TH1 responses PLoS Pathog 2013 9 e1003408 23754944 
+47 
+            Arpaia N  
+             
+           TLR signaling is required for Salmonella  typhimurium virulence Cell 2011 144 675 688 21376231 
+48 
+            Eisenstein TK  
+            Killar LM  
+            Sultzer BM  
+           Immunity to infection with Salmonella  typhimurium: mouse-strain differences in vaccine- and serum-mediated protection J Infect Dis 1984 150 425 435 6207248 
+49 
+            Johanns TM  
+             
+           Early eradication of persistent Salmonella  infection primes antibody-mediated protective immunity to recurrent infection Microbes Infect 2011 13 322 330 21134485 
+50 
+            MacLennan CA  
+             
+           The neglected role of antibody in protection against bacteremia caused by nontyphoidal strains of Salmonella  in African children J Clin Invest 2008 118 1553 1562 18357343 
+51 
+            Gondwe EN  
+             
+           Importance of antibody and complement for oxidative burst and killing of invasive nontyphoidal Salmonella  by blood cells in Africans Proc Natl Acad Sci USA 2010 107 3070 3075 20133627 
+52 Typhoid immunization Recommendations of the Immunization Practices Advisory Committee (ACIP) MMWR Recomm Rep 1990 39 1 5 
+53 ACIP updates recommendations for the use of antiviral agents in influenza Advisory Committee on Immunization Practices Am Fam Physician 1995 52 659 660 663 7625333 
+54 
+            Tam MA  
+            Rydstrom A  
+            Sundquist M  
+            Wick MJ  
+           Early cellular responses to Salmonella  infection: dendritic cells, monocytes, and more Immunol Rev 2008 225 140 162 18837781 
+55 
+            Poltorak A  
+             
+           Defective LPS signaling in C3H/HeJ and C57BL/10ScCr mice: mutations in Tlr4 gene Science 1998 282 2085 2088 9851930 
+56 
+            Hayashi F  
+             
+           The innate immune response to bacterial flagellin is mediated by Toll-like receptor 5 Nature 2001 410 1099 1103 11323673 
+57 
+            Tukel C  
+            Wilson RP  
+            Nishimori JH  
+            Pezeshki M  
+            Chromy BA  
+            Baumler AJ  
+           Responses to amyloids of microbial and host origin are mediated through toll-like receptor 2 Cell Host Microbe 2009 6 45 53 19616765 
+58 
+            Miao EA  
+             
+           Innate immune detection of the type III secretion apparatus through the NLRC4 inflammasome Proc Natl Acad Sci USA 2010 107 3076 3080 20133635 
+59 
+            Zhao Y  
+             
+           The NLRC4 inflammasome receptors for bacterial flagellin and type III secretion apparatus Nature 2011 477 596 600 21918512 
+60 
+            Vance RE  
+            Isberg RR  
+            Portnoy DA  
+           Patterns of pathogenesis: discrimination of pathogenic and nonpathogenic microbes by the innate immune system Cell Host Microbe 2009 6 10 21 19616762 
+61 
+            Rydstrom A  
+            Wick MJ  
+           Monocyte recruitment, activation, and function in the gut-associated lymphoid tissue during oral Salmonella  infection J Immunol 2007 178 5789 5801 17442963 
+62 
+            Rydstrom A  
+            Wick MJ  
+           Monocyte and neutrophil recruitment during oral Salmonella  infection is driven by MyD88-derived chemokines Eur J Immunol 2009 39 3019 3030 19839009 
+63 
+            Auffray C  
+            Sieweke MH  
+            Geissmann F  
+           Blood monocytes: development, heterogeneity, and relationship with dendritic cells Annu Rev Immunol 2009 27 669 692 19132917 
+64 
+            Flores-Langarica A  
+             
+           T-zone localized monocyte-derived dendritic cells promote Th1 priming to Salmonella  Eur J Immunol 2011 41 2654 2665 21630252 
+65 
+            Rotta G  
+             
+           Lipopolysaccharide or whole bacteria block the conversion of inflammatory monocytes into dendritic cells in vivo  J Exp Med 2003 198 1253 1263 14568983 
+66 
+            Rydstrom A  
+            Wick MJ  
+           Salmonella  inhibits monocyte differentiation into CD11c hi MHC-II hi cells in a MyD88-dependent fashion J Leukoc Biol 2010 87 823 832 20124491 
+67 
+            Lee SJ  
+             
+           Temporal expression of bacterial proteins instructs host CD4 T cell expansion and th17 development PLoS Path 2012 8 e1002499 
+68 
+            Hormaeche CE  
+            Mastroeni P  
+            Arena A  
+            Uddin J  
+            Joysey HS  
+           T cells do not mediate the initial suppression of a Salmonella  infection in the RES Immunology 1990 70 247 250 2197215 
+69 
+            Ramarathinam L  
+            Niesel DW  
+            Klimpel GR  
+           Salmonella  typhimurium induces IFN-gamma production in murine splenocytes. Role of natural killer cells and macrophages J Immunol 1993 150 3973 3981 8473744 
+70 
+            Kupz A  
+             
+           Contribution of Thy1+ NK cells to protective IFN-gamma production during Salmonella  typhimurium infections Proc Natl Acad Sci USA 2013 110 2252 2257 23345426 
+71 
+            Curtiss R 3rd  
+             
+           New technologies in using recombinant attenuated Salmonella  vaccine vectors Crit Rev Immunol 2010 30 255 270 20370633 
+72 
+            Sinha K  
+            Mastroeni P  
+            Harrison J  
+            de Hormaeche RD  
+            Hormaeche CE  
+           Salmonella  typhimurium aroA, htrA, and AroD htrA mutants cause progressive infections in athymic (nu/nu) BALB/c mice Infect Immun 1997 65 1566 1569 9119506 
+73 
+            Hess J  
+            Ladel C  
+            Miko D  
+            Kaufmann SH  
+           Salmonella  typhimurium aroA- infection in gene-targeted immunodeficient mice: major role of CD4+ TCR-alpha beta cells and IFN-gamma in bacterial clearance independent of intracellular location J Immunol 1996 156 3321 3326 8617956 
+74 
+            Ravindran R  
+            Foley J  
+            Stoklasek T  
+            Glimcher LH  
+            McSorley SJ  
+           Expression of T-bet by CD4 T cells is essential for resistance to Salmonella  infection J Immunol 2005 175 4603 4610 16177105 
+75 
+            VanCott JL  
+             
+           Regulation of host immune responses by modification of Salmonella  virulence genes Nat Med 1998 4 1247 1252 9809547 
+76 
+            McSorley SJ  
+            Jenkins MK  
+           Antibody is required for protection against virulent but not attenuated Salmonella  enterica serovar typhimurium Infect Immun 2000 68 3344 3348 10816483 
+77 
+            Mastroeni P  
+            Simmons C  
+            Fowler R  
+            Hormaeche CE  
+            Dougan G  
+           Igh-6(−/−) (B-cell-deficient) mice fail to mount solid aquired resistance to oral challenge with virulent Salmonella  enterica serovar typhimurium and show impaired Th1 T-cell responses to Salmonella  antigens Infect Immun 2000 68 46 53 10603367 
+78 
+            Lo WF  
+            Ong H  
+            Metcalf ES  
+            Soloski MJ  
+           T cell responses to Gram-negative intracellular bacterial pathogens: a role for CD8+ T cells in immunity to Salmonella  infection and the involvement of MHC class Ib molecules J Immunol 1999 162 5398 5406 10228017 
+79 
+            Bix M  
+            Raulet D  
+           Functionally conformed free class I heavy chains exist on the surface of beta 2 microglobulin negative cells J Exp Med 1992 176 829 834 1512546 
+80 
+            Brigl M  
+            Brenner MB  
+           CD1: antigen presentation and T cell function Annu Rev Immunol 2004 22 817 890 15032598 
+81 
+            Lee SJ  
+            Dunmire S  
+            McSorley SJ  
+           MHC class I-restricted CD8 T cells play a protective role during primary Salmonella  infection Immunol Lett 2012 148 138 143 23089550 
+82 
+            Mastroeni P  
+             
+           Antimicrobial actions of the NADPH phagocyte oxidase and inducible nitric oxide synthase in experimental salmonellosis. II. Effects on microbial proliferation and host survival in vivo  J Exp Med 2000 192 237 248 10899910 
+83 
+            Lehmann J  
+            Bellmann S  
+            Werner C  
+            Schroder R  
+            Schutze N  
+            Alber G  
+           IL-12p40-dependent agonistic effects on the development of protective innate and adaptive immunity against Salmonella  enteritidis J Immunol 2001 167 5304 5315 11673546 
+84 
+            Hoiseth SK  
+            Stocker BAD  
+           Aromatic-dependent Salmonella  typhimurium are non-virulent and effective as live vaccines Nature 1981 291 238 239 7015147 
+85 
+            Mastroeni P  
+            Harrison JA  
+            Chabalgoity JA  
+            Hormaeche CE  
+           Effect of interleukin 12 neutralization on host resistance and gamma interferon production in mouse typhoid Infect Immun 1996 64 189 196 8557339 
+86 
+            Mastroeni P  
+             
+           Interleukin-12 is required for control of the growth of attenuated aromatic-compound-dependent Salmonella e in BALB/c mice: role of gamma interferon and macrophage activation Infect Immun 1998 66 4767 4776 9746577 
+87 
+            Nyirenda TS  
+             
+           Sequential acquisition of T-cells and antibodies to nontyphoidal Salmonella  in Malawian Children J Infect Dis 2014 in press 
+88 
+            Nanton MR  
+            Way SS  
+            Shlomchik MJ  
+            McSorley SJ  
+           Cutting edge: B cells are essential for protective immunity against Salmonella  independent of antibody secretion J Immunol 2012 189 5503 5507 23150714 
+89 
+            Ugrinovic S  
+            Menager N  
+            Goh N  
+            Mastroeni P  
+           Characterization and development of T-Cell immune responses in B-cell-deficient (Igh-6(−/−)) mice with Salmonella  enterica serovar Typhimurium infection Infect Immun 2003 71 6808 6819 14638767 
+90 
+            Barr TA  
+            Brown S  
+            Mastroeni P  
+            Gray D  
+           B cell intrinsic MyD88 signals drive IFN-gamma production from T cells and control switching to IgG2c J Immunol 2009 183 1005 1012 19542370 
+91 
+            Barr TA  
+            Brown S  
+            Mastroeni P  
+            Gray D  
+           TLR and B cell receptor signals to B cells differentially program primary and memory Th1 responses to Salmonella  enterica J Immunol 2010 185 2783 2789 20675594 
+92 
+            Griffin A  
+            Baraho-Hassan D  
+            McSorley SJ  
+           Successful treatment of bacterial infection hinders development of acquired immunity J Immunol 2009 183 1263 1270 19542362 
+93 
+            Griffin AJ  
+            McSorley SJ  
+           Generation of Salmonella -specific Th1 cells requires sustained antigen stimulation Vaccine 2011 29 2697 2704 21315116 
+94 
+            Brunham RC  
+            Rekart ML  
+           The arrested immunity hypothesis and the epidemiology of chlamydia control Sex Transm Dis 2008 35 53 54 18157065 
+95 
+            Griffin AJ  
+            Li LX  
+            Voedisch S  
+            Pabst O  
+            McSorley SJ  
+           Dissemination of persistent intestinal bacteria via the mesenteric lymph nodes causes typhoid relapse Infect Immun 2011 79 1479 1488 21263018 
+96 
+            Helaine S  
+            Cheverton AM  
+            Watson KG  
+            Faure LM  
+            Matthews SA  
+            Holden DW  
+           Internalization of Salmonella  by macrophages induces formation of nonreplicating persisters Science 2014 343 204 208 24408438 
+97 
+            Monack DM  
+            Bouley DM  
+            Falkow S  
+           Salmonella  typhimurium persists within macrophages in the mesenteric lymph nodes of chronically infected Nramp1+/+ mice and can be reactivated by IFNgamma neutralization J Exp Med 2004 199 231 241 14734525 
+98 
+            Nix RN  
+            Altschuler SE  
+            Henson PM  
+            Detweiler CS  
+           Hemophagocytic macrophages harbor Salmonella  enterica during persistent infection PLoS Path 2007 3 e193 
+99 
+            Gotuzzo E  
+             
+           Association between specific plasmids and relapse in typhoid fever J Clin Microbiol 1987 25 1779 1781 2821064 
+100 
+            Wain J  
+             
+           Molecular typing of multiple-antibiotic-resistant Salmonella  enterica serovar Typhi from Vietnam: application to acute and relapse cases of typhoid fever J Clin Microbiol 1999 37 2466 2472 10405386 
+101 
+            Bhan MK  
+            Bahl R  
+            Bhatnagar S  
+           Typhoid and paratyphoid fever Lancet 2005 366 749 762 16125594 
+102 
+            Bumann D  
+           T cell receptor-transgenic mouse models for studying cellular immune responses to Salmonella in vivo  FEMS Immunol Med Microbiol 2003 37 105 109 12832113 
+103 
+            Pape KA  
+             
+           Use of adoptive transfer of T-cell-antigen-receptor-transgenic T cell for the study of T-cell activation in vivo  Immunol Rev 1997 156 67 78 9176700 
+104 
+            Chen ZM  
+            Jenkins MK  
+           Clonal expansion of antigen-specific CD4 T cells following infection with Salmonella  typhimurium is similar in susceptible (Itys) and resistant (Ityr) BALB/c mice Infect Immun 1999 67 2025 2029 10085054 
+105 
+            Bumann D  
+           In vivo  visualization of bacterial colonization, antigen expression and specific T-cell induction following oral administration of live recombinant Salmonella  enterica serovar typhimurium Infect Immun 2001 69 4618 4626 11402006 
+106 
+            McSorley SJ  
+            Asch S  
+            Costalonga M  
+            Rieinhardt RL  
+            Jenkins MK  
+           Tracking Salmonella -specific CD4 T cells in vivo  reveals a local mucosal response to a disseminated infection Immunity 2002 16 365 377 11911822 
+107 
+            Srinivasan A  
+            Foley J  
+            Ravindran R  
+            McSorley SJ  
+           Low-dose Salmonella  infection evades activation of flagellin-specific CD4 T cells J Immunol 2004 173 4091 4099 15356159 
+108 
+            McSorley SJ  
+            Xu D  
+            Liew FY  
+           Vaccine efficacy of Salmonella  strains expressing glycoprotein 63 with different promoters Infect Immun 1997 65 171 178 8975908 
+109 
+            Cookson BT  
+            Bevan MJ  
+           Identification of a natural T cell epitope presented by Salmonella -infected macrophages and recognised by T cells from orally immunised mice J Immunol 1997 158 4310 4319 9126993 
+110 
+            McSorley SJ  
+            Cookson BT  
+            Jenkins MK  
+           Characterization of CD4+ T cell responses during natural infection with Salmonella  typhimurium J Immunol 2000 164 986 993 10623848 
+111 
+            Bergman MA  
+            Cummings LA  
+            Alaniz RC  
+            Mayeda L  
+            Fellnerova I  
+            Cookson BT  
+           CD4+-T-cell responses generated during murine Salmonella  enterica serovar Typhimurium infection are directed towards multiple epitopes within the natural antigen FliC Infect Immun 2005 73 7226 7235 16239517 
+112 
+            Salazar-Gonzalez RM  
+            McSorley SJ  
+           Salmonella  flagellin, a microbial target of the innate and adaptive immune system Immunol Lett 2005 101 117 122 15975666 
+113 
+            Strindelius L  
+            Degling Wikingsson L  
+            Sjoholm I  
+           Extracellular antigens from Salmonella  enteritidis induce effective immune response in mice after oral vaccination Infect Immun 2002 70 1434 1442 11854230 
+114 
+            Salazar-Gonzalez RM  
+             
+           CCR6-mediated dendritic cell activation of pathogen-specific T cells in Peyer’s patches Immunity 2006 24 623 632 16713979 
+115 
+            Carter PB  
+            Collins FM  
+           The route of enteric infection in normal mice J Exp Med 1974 139 1189 1203 4596512 
+116 
+            Bueno SM  
+            Gonzalez PA  
+            Schwebach JR  
+            Kalergis AM  
+           T cell immunity evasion by virulent Salmonella  enterica Immunol Lett 2007 111 14 20 17583359 
+117 
+            Niess JH  
+             
+           CX3CR1-mediated dendritic cell access to the intestinal lumen and bacterial clearance Science 2005 307 254 258 15653504 
+118 
+            Halle S  
+             
+           Solitary intestinal lymphoid tissue provides a productive port of entry for Salmonella  enterica serovar Typhimurium Infect Immun 2007 75 1577 1585 17283101 
+119 
+            Parish CR  
+           Immune response to chemically modified flagellin. I. Induction of antibody tolerance to flagellin by acetoacetylated derivatives of the protein J Exp Med 1971 134 1 20 4997585 
+120 
+            Parish CR  
+           Immune response to chemically modified flagellin. II. Evidence for a fundamental relationship between humoral and cell-mediated immunity J Exp Med 1971 134 21 47 5558070 
+121 
+            Ada GL  
+            Nossal GJ  
+            Pye J  
+            Abbot A  
+           Behaviour of Active Bacterial Antigens during the Induction of the Immune Response. I. Properties of Flagellar Antigens from Salmonella  Nature 1963 199 1257 1259 14074587 
+122 
+            Miao EA  
+            Andersen-Nissen E  
+            Warren SE  
+            Aderem A  
+           TLR5 and Ipaf: dual sensors of bacterial flagellin in the innate immune system Semin Immunophatol 2007 29 275 288 
+123 
+            Mizel SB  
+            Bates JT  
+           Flagellin as an adjuvant: cellular mechanisms and potential J Immunol 2010 185 5677 5682 21048152 
+124 
+            Salazar-Gonzalez RM  
+             
+           Salmonella  flagellin induces bystander activation of splenic dendritic cells and hinders bacterial replication in vivo  J Immunol 2007 179 6169 6175 17947692 
+125 
+            McSorley SJ  
+            Ehst BD  
+            Yu Y  
+            Gewirtz AT  
+           Bacterial flagellin is an effective adjuvant for CD4 T cells in vivo  J Immunol 2002 169 3914 12244190 
+126 
+            Letran SE  
+            Lee SJ  
+            Atif SM  
+            Uematsu S  
+            Akira S  
+            McSorley SJ  
+           TLR5 functions as an endocytic receptor to enhance flagellin-specific adaptive immunity Eur J Immunol 2011 41 29 38 21182074 
+127 
+            Atif SM  
+            Uematsu S  
+            Akira S  
+            McSorley SJ  
+           CD103-CD11b+ dendritic cells regulate the sensitivity of CD4 T-cell responses to bacterial flagellin Mucosal Immuno 2014 7 68 77 
+128 
+            Letran SE  
+             
+           TLR5-deficient mice lack basal inflammatory and metabolic defects but exhibit impaired CD4 T cell responses to a flagellated pathogen J Immunol 2011 186 5406 5412 21451112 
+129 
+            Kerrigan AM  
+            Brown GD  
+           Syk-coupled C-type lectins in immunity Trends Immunol 2011 32 151 156 21334257 
+130 
+            Cummings LA  
+            Wilkerson WD  
+            Bergsbaken T  
+            Cookson BT  
+           In vivo , fliC expression by Salmonella  enterica serovar Typhimurium is heterogeneous, regulated by ClpX, and anatomically restricted Mol Microbiol 2006 61 795 809 16803592 
+131 
+            Alaniz RC  
+            Cummings LA  
+            Bergman MA  
+            Rassoulian-Barrett SL  
+            Cookson BT  
+           Salmonella  typhimurium coordinately regulates FliC location and reduces dendritic cell activation and antigen presentation to CD4+ T cells J Immunol 2006 177 3983 3993 16951361 
+132 
+            Moon JJ  
+             
+           Naive CD4(+) T cell frequency varies for different epitopes andpredicts repertoire diversity and response magnitude Immunity 2007 27 203 213 17707129 
+133 
+            Chu HH  
+            Moon JJ  
+            Kruse AC  
+            Pepper M  
+            Jenkins MK  
+           Negative selection and peptide chemistry determine the size of naive foreign peptide-MHC class II-specific CD4+ T cell populations J Immunol 2010 185 4705 4713 20861357 
+134 
+            Jenkins MK  
+            Moon JJ  
+           The role of naive T cell precursor frequency and recruitment in dictating immune response magnitude J Immunol 2012 188 4135 4140 22517866 
+135 
+            Abrahams GL  
+            Hensel M  
+           Manipulating cellular transport and immune responses: dynamic interactions between intracellular Salmonella  enterica and its host cells Cell Microbiol 2006 8 728 737 16611223 
+136 
+            Bedoui S  
+            Kupz A  
+            Wijburg OL  
+            Walduck AK  
+            Rescigno M  
+            Strugnell RA  
+           Different bacterial pathogens, different strategies, yet the aim is the same: evasion of intestinal dendritic cell recognition J Immunol 2010 184 2237 2242 20164434 
+137 
+            van der Velden AW  
+            Velasquez M  
+            Starnbach MN  
+           Salmonella  rapidly kill dendritic cells via a caspase-1-dependent mechanism J Immunol 2003 171 6742 6749 14662878 
+138 
+            Sundquist M  
+            Wick MJ  
+           Salmonella  induces death of CD8alpha(+) dendritic cells but not CD11c(int)CD11b(+) inflammatory cells in vivo  via MyD88 and TNFR1 J Leukoc Biol 2009 85 225 234 19004989 
+139 
+            Svensson M  
+            Johansson C  
+            Wick MJ  
+           Salmonella  enterica serovar typhimurium-induced maturation of bone marrow-derived dendritic cells Infect Immun 2000 68 6311 6320 11035740 
+140 
+            Cheminay C  
+            Mohlenbrink A  
+            Hensel M  
+           Intracellular Salmonella  inhibit antigen presentation by dendritic cells J Immunol 2005 174 2892 2899 15728500 
+141 
+            Tobar JA  
+            Gonzalez PA  
+            Kalergis AM  
+           Salmonella  escape from antigen presentation can be overcome by targeting bacteria to Fc gamma receptors on dendritic cells J Immunol 2004 173 4058 4065 15356155 
+142 
+            Tobar JA  
+             
+           Virulent Salmonella  enterica serovar typhimurium evades adaptive immunity by preventing dendritic cells from activating T cells Infect Immun 2006 74 6438 6448 17057096 
+143 
+            Srinivasan A  
+            Nanton M  
+            Griffin A  
+            McSorley SJ  
+           Culling of activated CD4 T cells during typhoid is driven by Salmonella  virulence genes J Immunol 2009 182 7838 7845 19494308 
+144 
+            Bobat S  
+             
+           Soluble flagellin, FliC, induces an Ag-specific Th2 response, yet promotes T-bet-regulated Th1 clearance of Salmonella  typhimurium infection Eur J Immunol 2011 41 1606 1618 21469112 
+145 
+            Ertelt JM  
+             
+           Selective culling of high avidity antigen-specific CD4(+) T cells after virulent Salmonella  infection Immunology 2011 134 487 497 22044420 
+146 
+            Marzo AL  
+            Klonowski KD  
+            Le Bon A  
+            Borrow P  
+            Tough DF  
+            Lefrancois L  
+           Initial T cell frequency dictates memory CD8+ T cell lineage commitment Nat Immunol 2005 6 793 799 16025119 
+147 
+            Hataye J  
+            Moon JJ  
+            Khoruts A  
+            Reilly C  
+            Jenkins MK  
+           Naive and memory CD4+ T cell survival controlled by clonal abundance Science 2006 312 114 116 16513943 
+148 
+            Ross EA  
+             
+           Thymic function is maintained during Salmonella -induced atrophy and recovery J Immunol 2012 189 4266 4274 22993205 
+149 
+            van der Velden AW  
+            Copass MK  
+            Starnbach MN  
+           Salmonella  inhibit T cell proliferation by a direct, contact-dependent immunosuppressive effect Proc Natl Acad Sci USA 2005 102 17769 17774 16306269 
+150 
+            van der Velden AW  
+            Dougherty JT  
+            Starnbach MN  
+           Down-modulation of TCR expression by Salmonella  enterica serovar Typhimurium J Immunol 2008 180 5569 5574 18390741 
+151 
+            Kullas AL  
+             
+           L-asparaginase II produced by Salmonella  typhimurium inhibits T cell responses and mediates virulence Cell Host Microbe 2012 12 791 798 23245323 
+152 
+            Luu RA  
+             
+           Delayed expansion and contraction of CD8+ T cell response during infection with virulent Salmonella  typhimurium J Immunol 2006 177 1516 1525 16849458 
+153 
+            Albaghdadi H  
+            Robinson N  
+            Finlay B  
+            Krishnan L  
+            Sad S  
+           Selectively reduced intracellular proliferation of Salmonella  enterica serovar typhimurium within APCs limits antigen presentation and development of a rapid CD8 T cell response J Immunol 2009 183 3778 3787 19692639 
+154 
+            Cunningham AF  
+             
+           Salmonella  induces a switched antibody response without germinal centers that impedes the extracellular spread of infection J Immunol 2007 178 6200 6207 17475847 
+155 
+            Ravindran R  
+            McSorley SJ  
+           Tracking the dynamics of T-cell activation in response to Salmonella  infection Immunology 2005 114 450 458 15804280 
+156 
+            Jenkins MK  
+             
+           In vivo  activation of antigen-specific CD4 T cells Annu Rev Immunol 2001 19 23 45 11244029 
+157 
+            Srivastava S  
+            Ernst JD  
+           Cutting edge: Direct recognition of infected cells by CD4 T cells is required for control of intracellular Mycobacterium tuberculosis in vivo  J Immunol 2013 191 1016 1020 23817429 
+158 
+            Muller AJ  
+            Filipe-Santos O  
+            Eberl G  
+            Aebischer T  
+            Spath GF  
+            Bousso P  
+           CD4+ T cells rely on a cytokine gradient to control intracellular pathogens beyond sites of antigen presentation Immunity 2012 37 147 157 22727490 
+159 
+            Berg RE  
+            Cordes CJ  
+            Forman J  
+           Contribution of CD8+ T cells to innate immunity: IFN-gamma secretion induced by IL-12 and IL-18 Eur J Immunol 2002 32 2807 2816 12355433 
+160 
+            Beadling C  
+            Slifka MK  
+           Differential regulation of virus-specific T-cell effector functions following activation by peptide or innate cytokines Blood 2005 105 1179 1186 15471952 
+161 
+            Freeman BE  
+            Hammarlund E  
+            Raue HP  
+            Slifka MK  
+           Regulation of innate CD8+ T-cell activation mediated by cytokines Proc Natl Acad Sci USA 2012 109 9971 9976 22665806 
+162 
+            Robinson D  
+             
+           IGIF does not drive Th1 development but synergizes with IL-12 for interferon-gamma production and activates IRAK and NFkappaB Immunity 1997 7 571 581 9354477 
+163 
+            Takeda K  
+             
+           Defective NK cell activity and Th1 response in IL-18-deficient mice Immunity 1998 8 383 390 9529155 
+164 
+            Srinivasan A  
+            Salazar-Gonzalez RM  
+            Jarcho M  
+            Sandau MM  
+            Lefrancois L  
+            McSorley SJ  
+           Innate immune activation of CD4 T cells in Salmonella -infected mice is dependent on IL-18 J Immunol 2007 178 6342 6349 17475863 
+165 
+            O’Donnell H  
+             
+           Toll-like Receptor and Inflammasome Signals Converge to Amplify the Innate Bactericidal Capacity of T Helper 1 Cells Immunity 2014 40 213 224 24508233 
+

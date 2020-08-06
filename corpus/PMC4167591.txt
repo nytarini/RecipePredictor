@@ -1,0 +1,301 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   80048721436Behav Brain ResBehav. Brain Res.Behavioural brain research0166-43281872-754922062587416759110.1016/j.bbr.2011.10.037EMS59775ArticleDevelopment and implementation of a three-choice serial reaction time task for zebrafish (Danio rerio) Parker Matthew O. Millington Mollie E. Combe Fraser J. Brennan Caroline H. *Queen Mary University of London, Mile End, London E1 4NS, United Kingdom* Corresponding author. Tel.: +44 020 78823011; fax: +44 020 78827732. c.h.brennan@qmul.ac.uk (C.H. Brennan)
+31 7 2014 31 10 2011 1 2 2012 18 9 2014 227 1 73 80 This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Zebrafish are an established and widely utilized developmental genetic model system, but limitations in developed behavioral assays have meant that their potential as a model in behavioral neuroscience has yet to be fully realized. Here, we describe the development of a novel operant behavioral assay to examine a variety of aspects of stimulus control in zebrafish using a 3 choice serial reaction time task (3 CSRTT). Fish were briefly exposed to three spatially distinct, but perceptually identical stimuli, presented in a random order after a fixed-time inter-trial interval (ITI). Entries to the correct response aperture either during the stimulus presentation, or within a brief limited hold period following presentation, were reinforced with illumination of the magazine light and delivery of a small food reward. Following training, premature responding was probed with a long-ITI session three times; once at baseline, once following a saline injection and once following an injection of a low dose of amphetamine (AMPH; 0.025 mg/kg). We predicted that if premature responding was related to impulsivity (as in rodents) it would be reduced following the AMPH injection. Results confirmed that zebrafish could learn to perform a complex operant task similar to tasks developed for rodents which are used to probe sustained attention and impulsivity, but the results from the AMPH trials were inconclusive. This study provides the foundations for development and further validation of this species as a model for some aspects of human attentional and impulse control disorders, such as substance abuse disorder.
+
+OperantAddictionZebrafishBehaviorPremature respondingd-Amphetamine
+   1. Introduction
+Psychiatric disorders linked to deficits in impulse control are among the most widespread of all human psychopathologies and include Obsessive Compulsive Disorder (OCD), borderline personality disorder and attention-deficit-hyperactivity disorder (ADHD), among many others (e.g., see [1] for a recent review). In addition, while it has long been accepted that there is a link between impulsivity and propensity to develop substance abuse disorders (see [2] for recent review), there is increasing evidence that this link may be causal. For example, Belin et al. [3] identified rats in terms of their baseline levels of premature responding in a 5 choice serial reaction time task (5 CSRTT) as high (HI) or low (LI) impulsivity, and tested them in relation to their drug-seeking, compulsivity and relapse for cocaine. Briefly, in this task, rats are trained over multiple trials (~30–40 sessions of 100 trials/session) to detect the presence of a brief stimulus in one of five spatially distinct apertures, following a delay (ITI). In this context, impulsivity is operationally defined as responses during the ITI. Belin et al.’s [3] rats were then subjected to a series of tests relating to cocaine administration, such as rates of acquisition of self administration and willingness to continue self administration despite adverse consequences (a response-contingent mild footshock). The results showed that impulsivity was not correlated with the rate of acquisition of self-administration. The HI rats were, however, more likely to tolerate a mild punisher in order to access cocaine, and were more likely to relapse following a period of abstinence, both of which are key to the clinical sequelae of human substance abuse disorder.
+
+Zebrafish represent an established developmental genetic vertebrate model system and are increasingly being proposed as a useful behavioral genetic model to help understand human psychopathology. Their small size and high fecundity rates, the wide availability of mutant lines and the ability to use cutting-edge in vivo techniques such as optogenetics [4], underscore the potential to utilize these animals to expedite the search for candidate genes for human developmental and behavioral disorders [5]. As a reflection of this, recent years have seen a huge increase in the number of novel assays of zebrafish behavior, typically based on extensions of extant rodent assays, and in general there has been found to be good conservation of many of the behavioral phenotypes commonly assayed in mammalian models (e.g., see [6] for a review). For example, zebrafish have been found to be useful as a model of substance abuse disorder, showing robust conditioned place preference (CPP) for alcohol, nicotine [7], amphetamine (AMPH [8]) and cocaine [9], as well as evidence of relapse following abstinence from nicotine and alcohol and continuing place preference despite contingent adverse consequences [7,10].
+
+Our first aim in this study was to demonstrate that zebrafish were able to learn a complex behavioral task and demonstrate reliable and robust performance characteristics. At low doses, AMPH (and AMPH derivatives such as methylphenidate) are known to reduce levels of premature responding [11,12] and as such, our second aim was to examine whether zebrafish showed evidence of increased premature responding during long-ITI probe trials, and if the effects of this could be mediated by a low-dose of AMPH (0.025 mg/kg d-AMPH).
+
+2. Materials and Methods
+2.1. Subjects
+Thirty-four experimentally naive wild-type zebrafish (Danio rerio) were bred and reared in our aquarium facility according to standard husbandry protocols. They were pair housed throughout the study in tanks with a central divider fitted (2 L; height × width × length: 10 cm × 11 cm × 20 cm) and maintained on a 14 h:10 h light:dark cycle (0830–2230). All fish were 5 months old at the start of testing. The testing room (which was also the room in which the fish were housed for the duration of the testing period) was maintained at ~25–28 °C. Fish were fed only during behavioral testing (live artemia). All tanks were connected to air-lines, and aquarium water (de-ionized water with added salts) was changed twice weekly. All procedures were carried out under the Animals (Scientific Procedures) Act, 1986, and under local ethical guidelines (Queen Mary University of London).
+
+2.2. Apparatus
+All behavioral testing took place in a custom-built tank (see Fig. 1). The tank was constructed from a translucent, non-reflective acrylic box (height × width × length: 12 cm × 12 cm × 20 cm), fitted with opaque barriers to form the response apertures and the food-magazine area and was filled with 3 L of aquarium water (n.b., the water was maintained at the same temperature as the water in the home tanks in order to minimize stress during transfer). The stimuli consisted of three low-voltage yellow LEDs (3.4 V) and one low-voltage green LED (3.4 V), all mounted inside the box within water-resistant plastic tubes using aquarium sealant. The yellow LEDs were located at the rear of the partitioned response aperture, and the green LED at the rear of the food-magazine area. Each could be independently controlled by the experimenter via a switch-box. The test tank was located in a large sound-and-light-attenuating wooden (MDF) box. Light was provided by a 40 W bulb located in the roof of the box. A camera (Microsoft LifeCam) was also located in the roof of the box to facilitate continuous live observation of the fish in the test-tank. The stimulus lights, house light, food delivery and barrier were all operated by the experimenter from outside the box, preventing any stress caused to the fish from human presence during testing.
+
+The fish were reinforced with a small amount of live artemia, suspended in tank water. This was delivered via a glass syringe attached to a manual microinjector (Narishige I-M6, Narishige Group, Japan). The syringe was fitted with a flexible plastic tube (catheter tubing; d = 1 mm), which was extended into the tank. An injection of 3 μl of the suspension delivered ~5–10 live artemia, with any variability attributed to the distribution of artemia in the feeder tube. Care was taken to ensure that each fish had the same density of artemia in the syringe on each trial, so any potentially confounding effects of differing levels of reinforcement between animals were minimized. Each fish was tested separately.
+
+2.3. Procedures
+2.3.1. Habituation and orientation
+In the light of the novelty of this protocol, we include a detailed account here, including habituation and training procedures. Table 1 outlines the main features of the procedure. Initially, all animals were acclimated to the testing room for 48 h. For all training and testing, sessions were carried out on Monday–Friday (0830–1800).
+
+On the first day of training, the fish were habituated to the test tank for 12-min. During extensive pilot testing (data not shown) we initially trained fish for 20-min. However, we found that performance reliably decreased after 10–12 min of training (i.e., fish showed large increases in omissions and failed to respond to stimuli). As such, all pre-training and training sessions were run for 12 min. For habituation, and all subsequent behavioral training and testing, the order in which the fish were tested was randomized between sessions. In addition, in each session, the fish was transferred from its home tank to the test tank in a net. Prior to the start of each session, the fish was given 2 min to acclimate to the tank. Both the stimulus and magazine LEDs were illuminated during habituation, and the barrier (see Fig. 1) remained open at all times. Following habituation, we initiated food-magazine training. Each trial started with a 10-s inter-trial interval (ITI), after which the food magazine was illuminated (Sd; green LED) for 30-s, or until the fish entered the magazine aperture. Entries to the magazine in the presence of the Sd were reinforced with a single delivery of food (see above). The Sd was turned off following reinforcement. If the fish did not enter the magazine within 30-s, the Sd was switched off, the trial terminated without reinforcement and the ITI was initiated. This process was continued for 12-min per session and repeated over three consecutive days (Days 2–4).
+
+Following magazine training, the fish were trained to approach the response apertures of the tank (Days 5–7). All sessions commenced with the Sd illuminated, and the first trial began as soon as the fish entered the food magazine. Immediately prior to the first trial, the barrier was raised, and the response-aperture lights were simultaneously illuminated. The lights remained illuminated until the fish entered one of the apertures, or for 1-min, whichever the sooner. Correct entry was conditionally reinforced with illumination of the Sd and entry to the food-magazine reinforced as before. The barrier was lowered as soon as the fish passed it to return to the food magazine. All subsequent trials commenced following a 10-s ITI, during which all stimulus lights were off. The house lights remained illuminated throughout this session. All sessions lasted for 12-min, or until 20 reinforcers had been received, and we noted the number of reinforced trials in each 2-min period.
+
+In the final stage of pre-training (Days 8–9; see Fig. 2 for a schematic of the training procedure), the barrier was lifted and one of the response aperture lights was illuminated. The stimulus remained illuminated until the fish entered the correct aperture, after which the light was turned off and the magazine light was illuminated until the fish entered. During all initial stages of training, we noted the number of reinforcers received in each session.
+
+2.3.2. Three choice serial reaction time task
+Following the final day of single-light training, the 3 CSRTT training commenced (see Fig. 3). This procedure represents a modified version of the familiar 5 choice version (5 CSRTT) developed for rodents [13,11]. Briefly, in the rodent version, animals are presented with a stimulus (a light) in one of five response apertures following a delay (ITI). After the stimulus light, the animal has a brief period (limited hold) in which to nose poke the response aperture in which the light was presented in order to receive reinforcement. In our version of this task, we used three stimulus apertures. The reasoning for this was that the task is novel, and there is very limited previous research on instrumental learning involving complex spatial discrimination in zebrafish. One previous study [14], which was examining vision, employed a three-choice signaled spatial discrimination, which the fish were able to perform successfully, thus giving us confidence that the complexities of the task were within the species’ behavioral capabilities. During pilot studies, we noted that fish were quickly reaching acceptable levels of performance accuracy using an ITI, stimulus duration and limited hold period of 5-s, and as such, employed these timings immediately upon initiation of task training (see Table 1 for reference). In addition, in our version, we used a barrier which was raised and lowered both prior to the ITI and after a correct/incorrect response. The reasoning for this was that we wanted to ensure that the fish were able to see all of the stimulus apertures at the start of the trial (i.e., the barrier ensured they were in the correct area of the test tank), and also to signal the end of the trial (in rodents this is accomplished using the house lights, but switching the lights on and off was found to be stressful for the fish during pilot studies).
+
+3 CSRTT training took place for 9 days (12-min/session). At the start of each session, the fish was habituated to the apparatus for 5 min, after which the barrier was raised, and the one of the stimulus lights was lit. The session commenced once the fish swam into the lit aperture. If the fish had not entered within 5 min, the session was stopped and the fish returned to its home tank. If this happened on more than two consecutive sessions, that fish was excluded from the remainder of the study. Following this, the barrier was lifted, and the ITI (5-s for training, or 10-s for the long-ITI sessions) was initiated. Any response by the fish during this time resulted in the barrier being lowered (i.e., once the fish passed back into the magazine area of the tank), and the fish being punished with a 10-s time out. If the fish did not enter prematurely, one of the three stimulus lights was illuminated (pseudo-random sequence) for 5-s, followed by a 5-s limited hold period (i.e., the light was turned off and the barrier remained open). Any response during this time was conditionally reinforced with illumination of the magazine light. The fish received a reinforcer on return to the magazine, and the barrier was lowered as the fish returned to the magazine area. Following food delivery, there was a compulsory 20-s pause prior to the subsequent trial, as this allowed the fish to consume the reinforcer. Pilot studies had illustrated that shorter post-reinforcement pauses resulted in high omission (i.e., the fish did not complete the trial within the set time-limit; see below) rates. Finally, if the fish made an incorrect response (i.e., entered a non-illuminated aperture), or it failed to enter any of the apertures during the stimulus presentation or during the limited hold period, the trial was ended without reinforcement, and the barrier was lowered following re-entry to the magazine area, and the fish was punished with a 10-s time out.
+
+On Day 18, all fish were probed for basal premature response rates by employing a long-ITI probe [13,11]. During this test, the ITI was extended to 10-s, while the stimulus exposure and limited hold durations were held at 5-s. On Day 19, a single reminder session with a 5-s ITI was employed. On Day 20, the first drug treatment was carried out. Data were collected in real time by the experimenter using JWatcher™ to record events and timings. Food delivery and the operation of the lights were carried out by the same observer. During testing, the observer was blind to treatment allocation, and all AMPH injections were delivered by a third party. On Day 21, the fish received a second reminder session (i.e., no drug, 5-s ITI) and finally on Day 22, the second drug treatment was carried out.
+
+During the course of the 3 CSRTT training and testing, a variety of behavioral measures were taken (see Fig. 3 for schematic). These included:
+Accuracy: calculated as correct/(correct + incorrect).
+
+Omissions: calculated as omissions/(correct + omissions + incorrect).
+
+Premature: calculated as premature/(correct + omissions + incorrect + premature).
+
+
+
+2.3.3. Drug treatment
+Prior to carrying out the AMPH treatment, we examined the spontaneous swimming activity of a group of fish (n = 9 per group) following no-injection, saline or 0.025 mg/kg AMPH. Briefly, each fish was removed from its home tank and injected with the relevant dose of AMPH or saline (see below for specific injection procedure). The no-injection groups were briefly restrained in a net (in the same manner to the injected animals) but not injected. They were then filmed swimming in an opaque tank identical to that used in the operant procedure for 15 min. During this time, we looked at the mean distance covered and velocity of each of the fish (Ethovision, Noldus).
+
+Fish were weighed immediately following the final training session for the 3 CSRTT. d-AMPH HCL (Sigma, Aldrich) was administered via intraperitoneal (i.p.) injection to achieve an equivalent brain concentration of 0.025 mg/kg [15]. The dose was selected based on previous literature where the effects on behavior and memory have been tested, in a dose–response manner, in rodents [16]. In addition, dose–response curves for AMPH with larval zebrafish have found similar effects on behavioral activation [17]. The effects of AMPH on adult zebrafish behavior are less clear, although place preference for drug-paired CSs in adults at higher doses has been demonstrated [15].
+
+Each fish was restrained in a net, and injected with either 0.025 mg/kg AMPH (calculated from the weight of the salt) dissolved in PBS vehicle, or PBS (saline control) on Days 20 and 22. Injections took approximately 5-s/fish. Each fish was given both saline and AMPH in a fully counterbalanced cross-over design. Immediately following injection, the fish was placed in the testing tank and tested immediately with the long ITI procedure. Initially, we had planned to test the fish additionally with a higher dose of AMPH (8 mg/kg) to examine whether impulsivity would be increased. This dose resulted in a lack of responses in the 3 CSRTT from any of the treated fish (n = 8), and the effect of this dose was not examined any further. The fish that had received this dose were not administered with any subsequent doses (either of PBS or AMPH) for ethical and practical reasons.
+
+2.3.4. Data analysis
+Spontaneous swimming data were analyzed with a general linear mixed model (LMM), with distance as the dependent measure, time (1-min bins) as the within-subject factor and dose (no-injection, saline, 0.025 mg/kg AMPH) as the between-subject factor. Training data for the 3 CSRTT were fitted to generalized linear mixed models (GLMMs), with day (9 levels; Days 10–17) as the within-subject factor and accuracy, omissions and premature responses as the dependent measures. The dependent measures were distributed according to a binomial error structure (events/trials), and were fitted to GLMMs with binomial error distribution specified. In order to test the effects on premature responding by low dose AMPH, we fitted a GLMM with ‘dose’ as the within-subject factor (3 levels; baseline, saline, 0.025 mg/kg AMPH). The dependent variable was again analyzed according to a binomial error distribution (events/trials); i.e., the proportion of trials in which the fish performed a premature response. Null hypotheses were tested against Wald-type F statistics using Laplace approximation [18]. We additionally examined the other potential outcomes from the 3 CSRTT during the long-ITI sessions (i.e., accuracy and omissions). Data were analyzed in R (version 2.12.1; http://www.R-project.org). All descriptive statistics represent parameter estimates from the statistical models and are reported as mean (±standard error) unless otherwise indicated. A type-1 error rate of α = 0.05 was adopted for all statistical tests.
+
+3. Results
+3.1. Pre-training and general observations
+During magazine training, fish entered the magazine 14.17 ± 1.46 times per session. During response aperture training, this number dropped to 5.89 ± 0.28 reinforcers per session. During single-light training, this number fell again to 4.41 ± 0.35 reinforcers per session. These numbers are unsurprising, as the volume of food delivered in each reinforced trial is fairly large, relative to the size of the animal, and as such, the number of reinforcers received may reflect diminishing motivation during the course of the session. This is speculative, however, as we were unable to quantify precisely how many artemia were consumed during each trial. Despite this low number, in pilot studies we found that accuracy rates were found to be markedly better than chance level performance (i.e., 0.33) during training for the 3 CSRTT even following relatively few reinforced trials. It is likely that this is a reflection of the saliency of the Sds and the fact that the fish were only fed during training. Seven fish were excluded prior to drug testing owing to their failure to perform the training adequately (see above for details).
+
+3.2. 3 CSRTT
+Fig. 4 displays the learning curves (i.e., proportion accuracy), as well as proportion of omissions and premature responses throughout the nine days of training on the 3 CSRTT. As is clear, the fish appeared to show an increase in correct responses, as well as a decrease in omissions, but there was no apparent change in premature responding during the course of training. For accuracy, this was confirmed with a GLMM with ‘day’ as the within-subject factor, F8,176 = 2.01, p &lt; 0.05. Post hoc comparisons confirmed that the difference was characterized by a significant improvement in accuracy between Day 1 and Days 2–6, Day 1 and Day 8 and Day 1 and Day 9 (ps &lt; 0.05). There was also a significant reduction in omission rates during the learning process, F8,176 = 7.79, p &lt; 0.01. Post hoc comparisons confirmed that the difference was characterized by a significant and consistent reduction in omissions after Day 2 (p &lt; 0.05). There was no significant change in premature responding throughout the training process, F8,176 = 1.76, NS.
+
+In addition, it is clear that during the baseline long-ITI probe trial, the level of premature responding increased significantly, but the rate of accuracy and omissions was unaffected. The increase in premature responding was confirmed with GLMMs, with ‘day’ as the within-subject factor for each model (2 levels; final day of training vs. baseline probe trial) and accuracy, omissions and premature responses as the dependent variables. There was a significant increase in premature responding during the long-ITI probe trial, F1,20 = 38.22, p &lt; 0.01, but no significant change in accuracy or omissions, Fs &lt; 1.
+
+3.3. Premature responding and response to AMPH
+Spontaneous swimming was not affected by the different doses of AMPH, but there did appear to be a difference between the injected and non-injected fish in terms of distance swam (see Fig. 5). Specifically, the distance traveled by non-injected fish appears gradually to decrease throughout the session, but the injected fish maintain the same average distance/minute throughout the session. This was confirmed with a LMM, which showed there was no effect of dose F &lt; 1 but there was an effect of time F14,168 = 1.82, p &lt; 0.05, and a significant time × dose interaction F28,168 = 2.36, p &lt; 0.01. The interaction was characterized by significant differences between handling controls and injected fish (drug and saline) during the first minute, as well as in the 7th and 8th minutes (ps &lt; 0.05).
+
+Only fish which performed the 3 CSRTT (i.e., entered the aperture within the initial 5-min time window) following each of the two injections were analyzed, as many of the animals failed to do so following injections. Premature responding, accuracy and omission data during the three long-ITI sessions are represented in Fig. 6. There appeared to be little difference between the three conditions (i.e., baseline, saline, 0.025 mg/kg AMPH) for omissions, but a slight increase in accuracy rates. There did, however, appear to be an effect for premature responding, with the highest level of premature responding in the baseline probe trial and lowest during the AMPH treatment. These findings were confirmed with GLMMs, with ‘dose’ as the within-subject factor. For accuracy, there was no significant difference across the three doses, F2,14 = 1.74, NS, nor was there a significant difference in omissions, F &lt; 1. There was, however, a significant change in rates of premature responding across the three sessions, F2,14 = 4.12, p &lt; 0.05. Post hoc comparisons confirmed a significant reduction in premature responding, relative to baseline, for the AMPH treatment (p &lt; 0.05) but no significant differences between baseline and saline, or saline and AMPH (both ps = NS).
+
+4. Discussion
+The aims of this study were twofold: (1) To examine the performance of zebrafish on a complex operant task with similar performance parameters to the commonly utilized 5 CSRTT for rodents. (2) To test the hypothesis that 0.025 mg/kg AMPH, similar to the dose used therapeutically to increase impulse control in mammals, would be effective in reducing premature responding in zebrafish during long-ITI sessions. In terms of Aim 1, we have demonstrated that not only do zebrafish learn the task, and perform consistently after relatively short training periods, but also premature responding increases by introducing a long-ITI procedure to the task in a similar manner to that observed in rodents performing the 5 CSRTT. We also found partial support for our hypothesis in Aim 2, with 0.025 mg/kg AMPH causing a significant reduction in premature responding relative to baseline. However, the difference between the saline and AMPH injected fish was not significant, and as such, more evidence would be required in order to validate this procedure as an assay of impulsivity (as it has been in rodents). In addition, this is the first study to show fish perform well on a complex operant assay which, in mammals, acts as an assay of executive functioning. This has potential implications, not only for the development of zebrafish as a comparative model, but also for our understanding of the evolution of these cognitive functions [19].
+
+The aims of this experiment were not to try to assess homology with rodent data [13,11], as far more data would need to be collected in order to achieve this. In addition, it is not clear, at present, which aspects of rodent performance would be relevant for comparison, given the anatomical differences between the species. However, in terms of accuracy rates, but also basal rates of premature responses, the fish appeared to show similar characteristics as rodents typically show on the 5 CSRTT. The rates of omissions, however, were somewhat higher in this study than those typically seen in the rodent literature (typically &lt;20% [11]). This may be the result of there being insufficient delay between trials. During this study, following reinforced trials, the fish was given a minimum of 20-s pause to consume the food, after which the fish entering the zone near the barrier led to the subsequent ITI commencing. It may be that this was insufficient as the fish were observed to remain in the food magazine for long periods following reinforcement. In addition, it may be that the lights used were not salient enough for the fish to perceive from all areas of the testing tank. These methodological issues will be addressed in future development of this assay.
+
+We also found that AMPH caused a significant reduction from baseline premature responding, but saline injection did not. Although the saline effect was only marginally non-significant, this was an encouraging result as it suggests further that the zebrafish model responds in a similar way to the mammalian model to low doses of a stimulant drug. There was no difference, however, between the saline and AMPH injection, suggesting that the process of injecting such small animals is relatively traumatic, as compared for example with similar procedures for rodents, and the stress associated with this process could have masked the true extent of the response to the drug [20]. It is possible that the injection itself reduced premature responses (e.g., through stress or other mechanisms), but the data from our spontaneous swimming analysis suggest only minimal differences between the non-injected and injected fish. In this light, it may be argued that the stress of the injection caused some alterations in learning/responses during the long ITI probe trials, but the fact that there were no differences in correct responses or omissions would perhaps negate this. In addition, it is possible that the reduction in premature responding during the drug and saline probe trials was the result of the fish adapting to the extended delay. This seems unlikely as, (a) we interspersed the probe trials with 5-s ITI trials, and (b) the rate at which the animals reduced the premature responding between the probe trials was higher than would be expected given their previous learning history. However, rodents will show remarkably fast habituation to long-ITI probe trials, and it may be that fish are the same. In summary, we are not at this time clear in terms of the interpretation and implications of these data, and for future study we intend to explore the feasibility of different routes of administration – for example, immersion in drug solutions – in order to reduce injection stress, but also potentially to explore dose-dependent effects of a variety of psychostimulants (e.g., methylphenidate and nicotine [21]) to explore their efficacy in reducing/increasing impulsivity/accuracy in this context.
+
+There are two methodological notes that we would like to draw to the attention of those considering adopting this procedure. First, readers should note that prior to carrying out the injection protocol in this study, we tested the responses of fish over a 1 h period following 20-min immersion in different concentrations of AMPH in the water. There were not found to be any effects of AMPH in the water on various parameters of behavior (distance traveled, velocity, number of rotations, erratic swimming) over a 1 h period. At this stage, we can only speculate as to the reasons for this. It may be that the AMPH effectively dialyzed out of the fish as they swam in the water or that they failed to take up the drug at all. It may therefore be that to achieve the desired brain concentration, higher concentrations would be necessary. Alternatively, it may be that we are yet to identify the correct parameters to measure the responses of fish to AMPH in water. Future study may examine this in detail by measuring brain concentration and any behavioral correlates. For the purposes of this study, however, we chose to inject the drug as it provided a known brain concentration [15]. Second, during the course of training we noted that in many of the fish, there were large fluctuations in accuracy rates from day to day (see Fig. 7). The reasons for this are unclear, although it may be that the fish were over-fed on days when the accuracy rates were high, and as such, motivation in the subsequent session was lower. For future adaptation/development of this procedure, we would recommend training fish on alternate days to try to control for this.
+
+In the mammalian system, the inability to withhold a response during the ITI in the 5 CSRTT has been interpreted as impulsivity [11]. Although we currently have no direct evidence that this is the case with zebrafish, we can speculate as to the implications of the increases in premature responding in our fish. Impulsivity is linked to the 5-HT system [22,23], and to other monoaminergic systems such as dopaminergic [24,25] and noradrenergic [26]. The dopaminergic, 5-HT and noradrenergic systems are well conserved in the zebrafish, and share similar developmental characteristics to other mammalian systems [27,28]. In terms of their functional characteristics, these systems are also similar in zebrafish to other vertebrates [6]. In mammalian systems, the neuropsychological mechanisms which underlie impulsivity appear to be regulated primarily by the nucleus accumbens, and its projections to the orbito-frontal cortex (OFC) and anterior cingulate cortex (ACC) [29,23]. Amphetamine is thought to be effective in reducing impulsivity, at low doses, on account of its effects on the interplay between dopaminergic and 5-HT systems [23], and in mammalian systems this appears to be mediated by the core region of the nucleus accumbens and its cortical afferents [30]. Although the nucleus accumbens has not been identified in the teleost brain to date, there are functionally similar systems which have been identified. For example, Rink and Wullimann [31] identified, using retrograde tracers, a homologue for the meso-cortical dopamine system in the posterior tuberal nucleus of the teleost brain. There is, however, no such homologue identified for the frontal cortical region, and as such we must remain skeptical as to whether a true homology between fish and rodent performance on attentional tasks such as this are feasible.
+
+Impulsivity is a multifaceted and complex construct, and while premature responding on the 5 CSRTT is able to measure one aspect of impulsivity, impulsive action, other aspects, such as impulsive choice, require different assays (e.g., delay discounting) (e.g., see [2,23]). With further development of this assay we intend to explore these other aspects of impulsivity. In addition, the 5 CSRTT in rodents is able to measure a number of aspects of learning, attention and complex cognitive function such as motivation, perseveration and visual discrimination. As stated previously, the viability of zebrafish as a model in behavioral neuroscience hinges on the development of robust assays which are both valid and reliable, and we believe that this study represents an important step towards this goal.
+
+Finally, although far more data will be necessary if we are to compare zebrafish performance in this task to that of rodents (i.e., in terms of attentional processes and impulse control), if it is the case that zebrafish show similar deficits in impulse-control as those demonstrated in rodents under specific conditions, the implications would be far-reaching. Specifically, it provides the basis for forward genetic and pharmacological screening programs. One important next step is to produce an automated system to facilitate large scale screening of existing mutant lines of zebrafish. Not only would this be of benefit in terms of increasing the number of animals we are able to test at any one time and increasing task-reliability, it also would allow us to collect more data relative to performance on this task. Such a system has been developed in our lab, and data from preliminary studies will be published in due course. With further development of the assay, for example, we will be able to examine aspects of sustained attention and disinhibition, both of which are important phenotypes relevant to cognitive disorder [2].
+
+Acknowledgements
+We are grateful to Trevor Robbins and Verity Brown for helpful discussions during the design of this study, and to two anonymous reviewers for their helpful feedback on earlier drafts of this paper. All experimental work, as well as the salaries of MOP and MEM, was funded by a research grant from the National Centre for the Replacement, Refinement and Reduction of Animals in Research (NC3Rs) G1000053.
+
+Fig. 1 Design of the testing tank.
+Lights comprised 1× green and 3× yellow LEDs (3.4 V) controlled by the experimenter from an externally located switch-box. The tank was made from opaque plastic, as were the internal dividers and the barrier. The LEDs were inserted into plastic inserts and attached to the inside of the tank. The test tank was located within an internally lit polystyrene-lined wooden (MDF) box.
+
+Fig. 2 Schematic depiction of procedure for single-light training.
+Each trial commenced with a 10-s ITI, after which the barrier was lifted, allowing the fish access to the response-apertures. During each trial, one of the response-apertures (stimulus lights) was illuminated until the fish made an entry into the illuminated aperture. Following a correct response, the stimulus light was turned off and the food-magazine (Sd) was illuminated. The barrier was lowered as the fish swam back into the magazine area. This remained illuminated until the fish entered the food-magazine, when the reinforcer was delivered and the Sd was turned off.
+
+Fig. 3 Schematic depiction of procedure for 3 CSRTT.
+Each trial commenced with a 10-s ITI, after which the barrier was lifted, allowing the fish access to the response-apertures after an ITI (5-s, or 10-s for long-ITI trials). During each trial, one of the yellow LEDs in the response-apertures (stimulus lights) was illuminated for 5-s. Following stimulus exposure, there was a 5-s window in which the fish could respond (limited hold). Following a correct response, the food-magazine (Sd) light was illuminated. The barrier was lowered as the fish swam back into the magazine area. The light remained illuminated until the fish entered the food-magazine, when the reinforcer was delivered and the Sd was turned off. If the fish responded during the ITI (premature response), after the limited hold (omission) or swam into the incorrect aperture, the trial terminated. In all cases, the barrier was lowered after the fish returned to the food magazine area, and the 10-s pause was initiated. No food was delivered.
+
+Fig. 4 Accuracy, omissions and premature responses during training on the 3-CSRTT.
+Baseline, Drug and Drug 2 refer to the long-ITI probe sessions (Drug and Drug 2 were either saline or AMPH injections, depending on the counterbalance). Note that the calculations for the proportions are outlined in Section 2.3.2.
+
+Fig. 5 Spontaneous swimming following 0 and 0.025 mg/kg d-AMPH and handling control.
+*p &lt; 0.05.
+
+Fig. 6 Performance data from the long ITI probe trials during baseline, saline and 0.025 mg/kg AMPH.
+*p &lt; 0.05. Note that the calculations for the proportions are outlined in Section 2.3.2.
+
+Fig. 7 Representative data from one fish during 3 CSRTT training showing accuracy, omissions and premature responding.
+Table 1 Main features of procedure for pre-training and three-choice serial reaction time task (3 CSRTT) for zebrafish.
+Stage	Procedure	Description	Timecourse	
+Pretraining	1. Habituation	All apparatus lights on, barrier raised	Day 1	
+	2. Magazine training	Barrier down. Magazine light on 30-s. Food available on entry to magazine. 10-s ITI	Days 2–3	
+	3. Response aperture orientation	All stimulus lights illuminated. Barrier lifted, all stimulus lights illuminated. Entry to any hole reinforced with illumination of magazine light. Food delivered on entry to magazine. Barrier down after correct response. 10-s ITI (stimulus lights off, barrier down)	Days 4–6	
+	4. Single light training	One of the stimulus lights illuminated. Entry into this aperture reinforced with illumination of magazine light. Food available on entry to magazine. Barrier down after correct response. 10-s ITI (stimulus lights off, barrier down)	Days 7–8	
+3-Choice task	5. Training phase	Initially the barrier is lifted and the trial commences following a 5-s ITI. Stimulus lights illuminated in random order (5-s), followed by 5-s limited hold period (stimulus light off). Responses during the stimulus or the limited hold conditionally reinforced with illumination of magazine light. Food delivered on entry to magazine. Barrier down after correct response. Ten second pause following magazine entry (stimulus lights off, barrier down). Subsequent trial initiated following next magazine entry following this pause	Days 9–17	
+	6. Baseline long ITI test	As above (5), but ITI increased to 10-s	Day 18	
+	7. Retraining	As 5	Day 19	
+	8. AMPH long ITI test	As 6, but fish treated with 0.025 mg/kg or PBS	Day 20	
+	9. Retraining	As 5	Day 21	
+	10. AMPH long ITI test 2	As 8	Day 22	
+
+   References
+[1] 
+            Aboujaoude E  
+            Koran L  
+           Impulse control disorders 2010 Cambridge Univ. Pr. 
+[2] 
+            Dalley J  
+            Everitt B  
+            Robbins T  
+           Impulsivity, compulsivity, and top-down cognitive control Neuron 2011 69 4 680 94 21338879 
+[3] 
+            Belin D  
+            Mar A  
+            Dalley J  
+            Robbins T  
+            Everitt B  
+           High impulsivity predicts the switch to compulsive cocaine-taking Science 2008 320 5881 1352 5 18535246 
+[4] 
+            Baier H  
+            Scott E  
+           Genetic and optical targeting of neural circuits and behavior-zebrafish in the spotlight Curr Opin Neurobiol 2009 19 553 60 19781935 
+[5] 
+            Brennan C  
+           Zebrafish behavioural assays of translational relevance for the study of psychiatric disease Rev Neurosci 2011 22 1 37 48 21615260 
+[6] 
+            Guo S  
+           Linking genes to brain, behavior and neurological diseases: what can we learn from zebrafish? Genes Brain Behav 2004 3 2 63 74 15005714 
+[7] 
+            Kily L  
+            Cowe Y  
+            Hussain O  
+            Patel S  
+            McElwaine S  
+            Cotter F  
+             
+           Gene expression changes in a zebrafish model of drug dependency suggest conservation of neuro-adaptation pathways J Exp Biol 2008 211 10 1623 18456890 
+[8] 
+            Ninkovic J  
+            Bally-Cuif L  
+           The zebrafish as a model system for assessing the reinforcing properties of drugs of abuse Methods 2006 39 3 262 74 16809048 
+[9] 
+            Darland T  
+            Dowling J  
+           Behavioral screening for cocaine sensitivity in mutagenized zebrafish Proc Natl Acad Sci U S A 2001 98 20 11691 6 11553778 
+[10] 
+            Brennan C  
+            Parmar A  
+            Kily L  
+            Ananthathevan A  
+            Doshi A  
+            Patel S  
+             
+           Conditioned place preference models of drug dependence and relapse to drug seeking: studies with nicotine and ethanol Neuromethods 2011 52 163 80 
+[11] 
+            Robbins T  
+           The 5-choice serial reaction time task: behavioural pharmacology and functional neurochemistry Psychopharmacology 2002 163 3 362 80 12373437 
+[12] 
+            Winstanley C  
+            Dalley J  
+            Theobald D  
+            Robbins T  
+           Global 5-HT depletion attenuates the ability of amphetamine to decrease impulsive choice on a delay-discounting task in rats Psychopharmacology 2003 170 3 320 31 12955303 
+[13] 
+            Carli M  
+            Robbins T  
+            Evenden J  
+            Everitt B  
+           Effects of lesions to ascending nora-drenergic neurones on performance of a 5-choice serial reaction task in rats; implications for theories of dorsal noradrenergic bundle function based on selective attention and arousal Behav Brain Res 1983 9 3 361 80 6639741 
+[14] 
+            Risner M  
+            Lemerise E  
+            Vukmanic E  
+            Moore A  
+           Behavioral spectral sensitivity of the zebrafish (Danio rerio ) Vis Res 2006 46 17 2625 35 16564068 
+[15] 
+            Ninkovic J  
+            Folchert A  
+            Makhankov Y  
+            Neuhauss S  
+            Sillaber I  
+            Straehle U  
+             
+           Genetic identification of ache as a positive modulator of addiction to the psychostimulant d-amphetamine in zebrafish J Neurobiol 2006 66 5 463 75 16470869 
+[16] 
+            Wood S  
+            Anagnostaras S  
+           Memory and psychostimulants: modulation of Pavlovian fear conditioning by amphetamine Psychopharmacology 2009 202 1–3 197 206 18478205 
+[17] 
+            Irons T  
+            MacPhail R  
+            Hunter D  
+            Padilla S  
+           Acute neuroactive drug exposures alter locomotor activity in larval zebrafish Neurotoxicol Teratol 2010 32 84 90 19465114 
+[18] 
+            Bolker B  
+            Brooks M  
+            Clark C  
+            Geange S  
+            Poulsen J  
+            Stevens M  
+             
+           Generalized linear mixed models: a practical guide for ecology and evolution Trends Ecol Evol 2009 24 3 127 35 19185386 
+[19] 
+            Heyes C  
+            Huber L  
+           The evolution of cognition 2000 The MIT Press 
+[20] 
+            Kinkel M  
+            Eames S  
+            Philipson L  
+            Prince V  
+           Intraperitoneal injection into adult zebrafish J Vis Exp 2010 42 
+            http://www.jove.com/details.php?id=2126 
+           doi:10.3791/2126 
+[21] 
+            Bizarro L  
+            Patel S  
+            Murtagh C  
+            Stolerman I  
+           Differential effects of psychomotor stimulants on attentional performance in rats: nicotine, amphetamine, caffeine and methylphenidate Behav Pharmacol 2004 15 3 195 206 15187577 
+[22] 
+            Harrison A  
+            Everitt B  
+            Robbins T  
+           Central 5-HT depletion enhances impulsive responding without affecting the accuracy of attentional performance: interactions with dopaminergic mechanisms Psychopharmacology 1997 133 4 329 42 9372531 
+[23] 
+            Winstanley C  
+            Dalley J  
+            Theobald D  
+            Robbins T  
+           Fractionating impulsivity: contrasting effects of central 5-HT depletion on different measures of impulsive behavior Neuropsychopharmacology 2004 29 7 1331 43 15054475 
+[24] 
+            van Gaalen M  
+            van Koten R  
+            Schoffelmeer A  
+            Vanderschuren L  
+           Critical involvement of dopaminergic neurotransmission in impulsive decision making Biol Psychiatry 2006 60 1 66 73 16125144 
+[25] 
+            Wade T  
+            de Wit H  
+            Richards J  
+           Effects of dopaminergic drugs on delayed reward as a measure of impulsive behavior in rats Psychopharmacology 2000 150 90 101 10867981 
+[26] 
+            Robinson E  
+            Eagle D  
+            Mar A  
+            Bari A  
+            Banerjee G  
+            Jiang X  
+             
+           Similar effects of the selective noradrenaline reuptake inhibitor atomoxetine on three distinct forms of impulsivity in the rat Neuropsychopharmacology 2007 33 5 1028 37 17637611 
+[27] 
+            Guo S  
+            Wilson S  
+            Cooke S  
+            Chitnis A  
+            Driever W  
+            Rosenthal A  
+           Mutations in the zebrafish unmask shared regulatory pathways controlling the development of catecholaminergic neurons Dev Biol 1999 208 2 473 87 10191060 
+[28] 
+            McLean D  
+            Fetcho J  
+           Ontogeny and innervation patterns of dopaminergic, noradrenergic, and serotonergic neurons in larval zebrafish J Comp Neurol 2004 480 1 38 56 15515022 
+[29] 
+            Robbins T  
+           Shifting and stopping: fronto-striatal substrates, neurochemical modulation and clinical implications Philos Trans R Soc Lond B Biol Sci 2007 362 1481 917 32 17412678 
+[30] 
+            Cardinal R  
+            Pennicott D  
+            Sugathapala CL  
+            Robbins TW  
+            Everitt BJ  
+           Impulsive choice induced in rats by lesions of the nucleus accumbens core Science 2001 292 5526 2499 501 11375482 
+[31] 
+            Rink E  
+            Wullimann M  
+           Connections of the ventral telencephalon and tyrosine hydroxylase distribution in the zebrafish brain (Danio rerio ) lead to identification of an ascending dopaminergic system in a teleost Brain Res Bull 2002 57 3–4 385 7 11922994 
+

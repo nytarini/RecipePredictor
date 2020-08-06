@@ -1,0 +1,331 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10169196745708Intern Med Rev (Wash D C)Intern Med Rev (Wash D C)Internal medicine review (Washington, D.C. : Online)2470-35242470-3532282329585319388NIHMS846961ArticleDynamics of Disease Progression and Gastrostomy Tube Placement in Children and Adolescents with Cystic Fibrosis: Application of Joint Models for Longitudinal and Time-to-Event Data Szczesniak Rhonda Ph.D.12*Su Weiji M.S.3Clancy J.P. 21 Division of Biostatistics &amp; Epidemiology, Cincinnati Children’s Hospital, Cincinnati, OH, USA2 Division of Pulmonary Medicine, Cincinnati Children’s Hospital, Cincinnati, OH, USA3 Department of Mathematical Sciences, University of Cincinnati, Cincinnati, OH, USA* Address correspondence to: Rhonda Szczesniak, PhD, Division of Biostatistics &amp; Epidemiology, Cincinnati Children’s Hospital, 3333 Burnet Ave (MLC 5041), Cincinnati, OH 45229. Rhonda.Szczesniak@cchmc.org; Phone: (513) 803-0563; Fax: (513) 636-75091 2 2017 10 2016 21 2 2017 2 9 10.18103/imr.v2i9.163This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+Previous small-sample studies have examined the effect of gastrostomy (g-) tube placement on weight, height, and lung function in adolescent patients with cystic fibrosis (CF), but there are no RCTs to date reporting efficacy. The goal of this study was to implement a dynamic prediction model to 1) understand the role of rapid lung function decline in g-tube placement in real-world clinical settings; 2) provide a prognostic tool with the potential to aid clinicians in optimizing the timing of g-tube placement, in relation to rate of lung function decline and current nutrition status.
+
+Methods
+A dynamic prediction model was developed, utilizing data on patients 6–21 years of age from the Cystic Fibrosis Foundation Patient Registry (1997–2013). A joint model was implemented, which coupled a semiparametric mixed model to characterize rapid lung function decline with a time-to-event model to identify risk factors for g-tube initiation.
+
+Results
+The 4,034 individuals (21.3%) who underwent g-tube placement during adolescence or young adulthood had poorer nutrition and lung function at baseline and initially had increased rates of pancreatic enzyme use, infection and gastroesophageal reflux disease, compared to those who did not receive g-tubes; these associations changed over follow up. Rapid lung function decline was associated with increased risk of g-tube supplementation.
+
+Conclusions
+By jointly modeling longitudinal patterns of lung function decline with g-tube delivery, it is possible to construct prognostic aids to evaluate treatment delivery in relation to the onset of rapid lung function decline and other important clinical markers. These algorithms have the potential to enable more effective monitoring of disease progression and promote more timely treatment delivery.
+
+cystic fibrosis patient registryfunctional data analysisindividualized predictionlongitudinal analysisnutritionpulmonary function
+   1. INTRODUCTION
+The natural history of cystic fibrosis (CF) disease progression has been studied over the past several decades, consistently providing insights into the importance of maintaining lung function and nutrition over the lifespan(1–3). Many CF patients experience attenuated decreases in their lung function (expressed as forced expiratory volume in 1 second of % predicted, or FEV1) during adolescence and young adulthood. These precipitous drops in FEV1 are referred to as periods of rapid lung function decline and can be observed in profiles of individual patients (Figure 1, left panel). Poor nutrition and other indicators of severity have been identified as predictors of rapid FEV1 decline(4). The US Cystic Fibrosis Foundation Guidelines recommend gastrostomy (g-) tube placement if an individual’s BMI is below the 50th percentile(5); however, BMI percentile is not as accurate for children of short stature(6). In 2013, 11.2% of patients treated at accredited US CF centers were reported as using g-tubes, but median BMI percentile among these patients 2–19 years of age was 53.3(7). Only a handful of studies have reported g-tube effectiveness for patients and there are no randomized controlled trials(8).
+
+Despite sparse findings on g-tube initiation and clinical outcomes like FEV1, the immense amount of data from CF patient registries continues to grow; meanwhile, there have been several statistical developments to aid in modeling complex associations between clinical markers measured repeatedly over time and events of interest, as well as prediction of clinical outcomes. Joint models are gaining favor in the statistical literature for these purposes(9). In a recent example, a joint model was developed to provide a prognostic calculator for risk of prostate cancer recurrence(10). The overarching joint model is a combination—typically of a longitudinal submodel and a time-to-event submodel. The goal of the current study was to harness the power of joint modeling and intensive data on longitudinal FEV1 decline and other important markers in CF to develop an epidemiologic model with potential prognostic utility in assessing the need for g-tube initiation.
+
+2. METHODS
+2.1 Study design and data
+A retrospective longitudinal cohort study was performed using the US Cystic Fibrosis Foundation Patient Registry (CFFPR), examining the association between patterns of age-related lung function decline and g-tube initiation. Observed FEV1 was expressed as percentage of predicted using established reference equations(11, 12). The study was approved by the local IRB. Data acquired after lung transplant were excluded.
+
+Patients with encounter-level FEV1 data recorded during childhood and adolescence (ages: 6–21 years) in the CFFPR between January 1, 1997, and December 31, 2013, were eligible. G-tube initiation (yes or no) was defined using the encounter-level CFFPR variable supplemental feeding (route: g tube/button). Patients younger than 6 years of age were excluded due to potentially unreliable pulmonary function testing. Because the majority of relevant explanatory variables associated with FEV1 decline and/or g-tube initiation were consistently documented in the CFFPR beginning in 1997, available data from 1997 onward was considered. Baseline for each patient was defined as the time that the first measurement was available during the eligibility period. Time since baseline (in years) is referred to as follow up during this period.
+
+2.2 Model development
+Prior to model development, descriptive statistics, including mean (SD) or median (range) as appropriate for continuous variables and n (%) for categorical variables, were used to summarize cohort characteristics, overall and according to g-tube initiation. The two outcomes of interest were longitudinal FEV1 and g-tube initiation; a submodel was specified for each of these outcomes. Covariates for each of the two submodels were selected based on literature review of nutrition and lung function decline in CF. The structure of the joint model follows the shared parameter framework that has been described previously in the literature(13). Briefly, the overarching model consists of two components or submodels; in this study, the longitudinal submodel for FEV1 is a semiparametric mixed effects model, and the event submodel for g-tube placement is a parametric Weibull model.
+
+Longitudinal submodel
+Prior to implementing the joint model, longitudinal FEV1 was fit using a semiparametric mixed effects model that has been previously used to estimate rapid lung function decline(14). The evolution of FEV1 was modeled as a function of time since baseline using cubic b-splines to characterize its nonlinearity (Figure 1, right panel). Allowing for nonlinearity in the FEV1 trajectories is important, because incorrect assumptions about the curvature can lead to biased estimates of the trends over time, particularly for joint models(15). Baseline covariates included age, FEV1 and gender. Time-varying covariates, collected at each clinical encounter, included cystic fibrosis related diabetes (CFRD), gastroesophageal reflux disease (GERD), methicillin-resistant Staphylococcus aureus (MRSA), pseudomonas aeruginosa (Pa), and socioeconomic status (SES, defined as having state insurance). Annual number of pulmonary exacerbations (PEs) was also included as a time-varying covariate; this variable was categorized as 0, 1, 2, 3 or more for a given year. To characterize variation in FEV1, both between patients and within an individual patient over time, subject-specific random intercepts and slopes were included. The remaining variation was expressed as measurement error. Estimates from the separate longitudinal analysis were used as initial values for the joint model estimation. The complete longitudinal submodel is presented in Appendix A2.1.
+
+Event submodel
+A Kaplan-Meier curve was first used to estimate timing of g-tube initiation (the event of interest) over follow up (Figure A1 in Appendix). A Weibull time-to-event model was used to examine associations between g-tube initiation and relevant covariates. The baseline hazard for the Weibull model was estimated using cubic b-splines (see Appendix A2.2). Due to software package constraints, only covariates that are constant (i.e., non-time-varying) could be incorporated into the joint model. Baseline covariates included age, gender, and age at CF diagnosis. To overcome the software limitation, the last observed value of each of the following variables as covariates was used: CFRD, GERD, pancreatic enzyme use, number of PEs within the year, and BMI percentile; for individuals who received g-tubes, their covariate values were the observations at the time of first recorded g-tube use. Data subsequent to the g-tube initiation event were not included in the modeling. Random intercepts and slopes were also included in this model.
+
+Shared parameters
+The joint model was implemented with the parameters specified above for the longitudinal and event submodels, and additionally included shared parameters. Parameters that were shared between the models were 1) the mean evolution of FEV1 over time for each subject, which is meant to estimate the true longitudinal process of FEV1 for each patient; 2) the corresponding derivative of this longitudinal process, which provides subject-specific estimates of rate of lung function decline. These processes were shared by including them in the event submodel, which is fully specified in Appendix A2.2. Having these shared parameters or common functions between the two submodels enabled dynamic prediction of g-tube initiation while accounting for degree of rapid lung function decline in the individual patient.
+
+Implementation
+All analyses were performed using R (R Foundation for Statistical Computing, Vienna, Austria); the joint model was implemented using the Markov Chain Monte Carlo (MCMC) algorithms available in the JMBayes package(16). Coefficient estimates were obtained through Bayesian analysis. A total of 30,000 MCMC iterations were performed with 20,000 iterations removed for burn-in (Appendix A3). Results are expressed as the posterior mean and 95% credible interval (CI). In the longitudinal submodel, estimates in which the 95% CI do not contain zero are considered statistically significant. In the event submodel, hazard ratio estimates in which the 95% CI does not include the value 1 are considered statistically significant. Model diagnostics and implementation code are available in the Appendix (Sections A3 and A4, respectively).
+
+3. RESULTS
+3.1 Study cohort
+The analysis cohort included 18,911 patients with 282,201 observations. Patients had a median (IQR) follow-up time of 4.4 (1.5–8.1) years with 12.0 (5.0–23.0) encounters. Patients with recorded g-tube use tended to be younger and had more severe clinical characteristics, compared to their counterparts who were not prescribed g-tubes (Table 1). As expected, pancreatic enzyme use was higher among g-tube patients at baseline, although most patients who did not receive g-tubes were eventually prescribed pancreatic enzymes. Similarly, the percentage of GERD cases was substantially higher in the g-tube group at baseline, but both groups had similar GERD occurrence over follow up. Baseline FEV1 was higher in the g-tube group.
+
+3.2 Model findings
+Longitudinal submodel
+Spline coefficient estimates and overall results indicated that FEV1 progression was not linear with respect to patient age or follow-up time, and rate of decline was variable among patients (Figure 2). Male patients with higher baseline FEV1, pancreatic enzyme use and higher SES and BMI percentile tended to have better FEV1 over time (Table 2). Higher PE frequency was associated with worse FEV1. Having GERD was not associated with change in FEV1. Infection with MRSA or Pa contributed to worse FEV1.
+
+Event submodel
+Younger patients who were diagnosed early with CF and had GERD, CFRD or used pancreatic enzymes were less likely to undergo g-tube placement (Table 1). Although BMI percentile was a statistically significant predictor of increased risk of g-tube initiation, the hazard ratio was 0.99, indicating a lack of clinical significance. Patients who experienced no PEs had a 28% reduction in risk for g-tube initiation.
+
+Shared parameters
+The longitudinal evolution of FEV1 was associated with g-tube initiation (Table 2, next-to-last row), implying that having higher lung function over time corresponded to a 3.2% decreased risk of g-tube initiation. A given patient would be less likely to undergo g-tube placement, provided her lung function levels remain high (Figure 3). Similarly, having a higher rate of FEV1 over time (i.e. an increasing FEV1 trajectory) was associated with a 5.6% decreased risk of g-tube initiation (Table 2, last row). Based on this result, a patient is less likely to undergo g-tube placement if she maintains lung function over time (Figure 4).
+
+Although the risk reductions for g-tube initiation were slight, particularly for the evolution of lung function, the joint model enabled dynamic predictions of individual patients over follow-up times. For illustration of the clinical relevance, a female CF patient who entered the CFFPR at 6.63 years of age is displayed. Dynamic prediction was performed for this patient over a range of follow up times after her first encounter: 2.7, 3.7, 4.7 and 5.8 years. It is of interest to determine her risk of needing a g-tube based on her current status (clinical covariates and FEV1 trajectory) at a given clinical visit. At the first visit, it appears highly likely that she will not need g-tube placement over the next few years (Figure 3, upper-left panel). After additional FEV1 data are acquired one year later, her probability of remaining g-tube free slightly increases (Figure 3, upper-right panel). Based on the joint model, this result would be expected if the patient has maintained or improved her lung function over time. After another year has passed, her risk has elevated (Figure 3, lower-left panel). By the time of her next follow up, about 5.8 years from baseline, decline in FEV1 is more apparent and the probability that she will remain g-tube free in the coming years has decreased. Additional patients taken from the CFFPR are displayed in the Appendix (Figures A6–A9).
+
+As shown in the model, the patient’s ability to maintain or improve lung function will impact the likelihood of g-tube placement. For the female CF patient, her estimated rate of lung function decline at the first follow-up visit is about 3% predicted/year (Figure 4, upper-left panel). As expected based on CF disease progression, her rate of decline worsens over follow-up visits. There is a slight worsening from 2.7 to 3.7 years of follow up (Figure 4, upper-right panel), then from 3.7 to 4.7 years of follow up (Figure 4, lower-left panel). By the last follow-up visit, her rate of decline is about 4% predicted/year, and it is noticeable that her probability of remaining g-tube free in subsequent years is as low as 65% (Figure 4, lower-right panel).
+
+4. DISCUSSION
+This is the first study, to the authors’ knowledge, investigating the association between g-tube initiation and patterns of CF lung function decline using a patient registry and providing individual dynamic predictions that could be used in real-world clinical settings. Although an increasing number of studies have reported nonlinearity in CF lung function trajectories, there have been limited applications that provide dynamic prediction through joint modeling(17, 18). This study illustrates how application of state-of-art methodology can provide insights into CF disease progression and treatment delivery that were previously unknowable with conventional analytic techniques, such as the separate linear mixed effects model or time-to-event analyses that are typically employed. Using either of these approaches alone would not have allowed inferential testing of the associations between lung function patterns and G-tube placement or individualized dynamic prediction.
+
+Many of the associations found in the study were expected, such as more severe clinical characteristics being indicative of worsening lung function. The lack of associations, particularly in the G-tube event submodel, was surprising. Most noteworthy is the hazard ratio for BMI percentile and G-tube initiation. It was also striking that pancreatic enzyme use and being diagnosed with GERD or CFRD corresponded to a reduced risk of receiving a g-tube. Although these associations could be related to the covariate construction in the event submodel, it is also possible that other considerations are made when deciding whether to prescribe g-tubes. Given the quality improvement initiatives of the CF Foundation and its many accredited centers, considerations could be provider or center dependent and may not be recorded as variables in the database. This scenario lends itself to confounding-by-indication bias, which plagues analyses of CF and other registry data(19).
+
+This study corroborates findings on rapid lung function decline in CF that have been published previously, which have found that lung function decline is nonlinear during adolescence and young adulthood. One of these studies has shown that individuals experienced most rapid decline at a median (IQR) of 16.3 (13.5–21.0) years; average degree of maximal FEV1 loss was 2.0% predicted/year(14). Another recent retrospective single-center analysis (20) fit FEV1 trajectories of CF patients 6–25 years of age with a random change point model to allow the timing of rapid decline to differ by individual. The study revealed two subgroups of adolescents; at roughly 14.6 years of age, about 30% experienced steady FEV1 decline (0.5% predicted/year), while the remaining 70% experienced more progressive FEV1 decline (4.4% predicted/year). In addition to this variable decline, each individual FEV1 trajectory exhibits strong within-patient correlation. This model captures this correlation through random effects in the longitudinal submodel. There are also random effects included in the event submodel.
+
+There are the usual pitfalls with observational data sources such as the CFFPR(21). The data used for this study do not have adherence metrics available, which could provide insight into g-tube tolerability. Although age at CF diagnosis is adjusted for in the model, it is possible that estimates are sensitive to left truncation, which is a pervasive issue in registry analyses. There are several extensions that could be made using this approach to further investigate g-tube initiation and clinical outcomes in CF. For example, it may be useful to extend the g-tube event submodel to accommodate recurrent events (i.e., individuals who undergo g-tube placement more than once). This approach could give some indication of g-tube tolerability in the absence of adherence data. Future statistical work should focus on extending the implementation used here to time-varying covariates for the event submodel. To combat the treatment selection bias inherent in g-tube placement, instrumental variables analysis could be considered(22). It would be of particular clinical interest to apply a high-dimensional joint model to understand the evolution of associations among the many clinical markers important in CF, particularly the associations among FEV1, BMI and g-tube use. The current work and any of these extensions could further understanding of g-tube initiation and clinical outcomes in real-world settings.
+
+Supplementary Material
+01  The authors are grateful to the Cystic Fibrosis Foundation Patient Registry Committee for their thoughtful comments and data dispensation. The views expressed in the manuscript do not necessarily represent the views of the National Institutes of Health.
+
+
+        Conflicts of Interest and Sources of Funding
+      
+
+This research was supported by grant K25 HL125954 from the National Heart, Lung and Blood Institute of the National Institutes of Health.
+
+Figure 1 Observed lung function trajectories of cystic fibrosis patients
+For 100 randomly selected cystic fibrosis patients. The blue lines represent 50 patients who received g-tubes; the points without lines represent 50 patients who did not receive g-tubes; graphs are displayed with respect to disease progression over age (left panel) and over follow up time (right panel).
+
+Figure 2 Fitted lung function trajectories of cystic fibrosis patients
+For the 100 randomly selected cystic fibrosis patients from Figure 1. FEV1 trajectories were fitted using the joint model (see Methods). The red lines represent 50 patients who received g-tubes; the black lines represent 50 patients who did not receive g-tubes; graphs are displayed with respect to disease progression over age (left panel) and over follow up time (right panel).
+
+Figure 3 Dynamic prediction for G-tube probability of a given cystic fibrosis patient according to evolution of lung function during follow up
+Plots are for a female cystic fibrosis patient who entered the registry at 6.63 years of age and is followed up at four different times (2.7, 3.7, 4.7 and 5.8 years). The left side of each plot shows her FEV1 data (marked as “*”) that have been observed up to a particular follow-up time; the red line is the fitted FEV1 trajectory up to the follow up time. The dashed vertical line indicates the time of prediction (e.g. clinical visit). The right side of each plot shows her probability of remaining g-tube free (denoted by the smooth red line) with 95% confidence bands (shaded gray) for prediction uncertainty.
+
+Figure 4 Dynamic prediction for G-tube probability of a given cystic fibrosis patient according to rate of lung function decline during follow up
+Plots are a continuation from Figure 3. The left side of each plot shows her estimated rate of FEV1 decline (black line) up to a particular follow-up time based on observed FEV1. On the right side of each plot, her probability of future g-tube initiation is shown.
+
+Table 1 Baseline characteristics of cystic fibrosis patients, overall and by g-tube initiation
+
+Patient Characteristics	G-Tube	Non G-tube	Overall	
+N(%)	4,034 (21.3)	14,877 (78.7)	18,911	
+Baseline age, in years	9.42 (9.31, 9.53)	11.35 (11.29, 11.41)	10.94 (10.89, 11.00)	
+Baseline FEV1%	86.16 (85.60, 86.72)	78.52 (78.20, 78.85)	80.15 (79.87, 80.44)	
+BMI percentile	32.59 (32.18, 33.01)	30.19 (29.96, 30.42)	30.70 (30.50, 30.90)	
+CFRD				
+  At baseline, %	1.8	0.8	1.0	
+  Ever during follow-up, %	6.5	11.1	10.1	
+GERD				
+  At baseline, %	8.2	1.0	2.5	
+  Ever during follow-up, %	8.6	12.0	11.3	
+Male, %	49.8	52.5	51.9	
+MRSA			  	
+  At baseline, %	9.7	3.2	4.6	
+  Ever during follow-up, %	20.1	26.2	24.9	
+
+              Pa
+            				
+  At baseline, %	20.9	31.2	29.0	
+  Ever during follow-up, %	67.2	72.7	71.5	
+PE, annual number^				
+  0	74.4	66.3	68.0	
+  1	16.7	13.4	14.1	
+  2	5.4	9.7	8.8	
+  3 or more	3.5	10.7	9.1	
+Pancreatic enzymes				
+  At baseline, %	50.7	6.3	15.7	
+  Ever during follow-up, %	36.8	59.7	54.8	
+Lower SES^^				
+  At baseline, %	39.6	35.6	36.5	
+  Ever during follow-up, %	54.3	51.2	51.8	
+BMI = body mass index; CFRD = cystic fibrosis related diabetes; GERD = gastroesophageal reflux disease; MRSA = methicillin-resistant Staphylococcus aureus; Pa = pseudomonas aeruginosa; PE = pulmonary exacerbation; SES = socioeconomic status;
+
+^ number of occurrences during the baseline year;
+
+^^ indicated by state insurance
+
+Table 2 Coefficients and standard error of coefficients for the joint model predicting G-tube initiation and evolution of cystic fibrosis lung function decline
+
+	Parameter	95% CI*	
+
+              
+            	
+	Estimate	Lower	Upper	
+
+              Semiparametric longitudinal submodel for FEV1 decline
+              a
+              
+            	
+Curve				
+Intercept	17.01	16.27	17.72	
+Spline coefficients				
+  b1	−1.66	−1.87	−1.43	
+  b2	−4.80	−5.07	−4.52	
+  b3	−13.25	−13.74	−12.76	
+  b4	−25.63	−26.46	−24.99	
+  b5	−34.10	−35.13	−33.26	
+Baseline age	−0.40	−0.43	−0.37	
+Male	0.38	0.10	0.62	
+Baseline FEV1	0.77	0.76	0.78	
+GERD	0.24	-0.05	0.49	
+CFRD	−0.01	−0.29	0.27	
+MRSA	−0.35	−0.52	−0.18	
+
+              Pa
+            	−0.35	−0.43	−0.26	
+Lower SES	−0.35	−0.49	−0.22	
+Pancreatic Enzymes	0.56	0.45	0.68	
+PE, annual number (Ref: 1)^				
+  2	−0.71	−0.88	−0.56	
+  3 or more	−2.11	−2.31	−1.93	
+  0	1.33	1.21	1.46	
+BMI percentile	0.17	0.17	0.17	
+Variation				
+  Measurement error (σ)	9.09	9.07	9.12	
+  Intercept (σ0)	7.78	---	---	
+  Slope (σ1)	2.49	---	---	
+
+              Weibull event submodel for g-tube initiation
+              b
+            	
+Male	0.980	0.920	1.048	
+Baseline age	0.836	0.828	0.846	
+Age at Diagnosis	0.949	0.936	0.963	
+GERD	0.788	0.702	0.892	
+CFRD	0.348	0.308	0.398	
+PancEnzymes	0.549	0.512	0.586	
+PE, annual number (Ref: 1)^				
+  2	1.187	1.078	1.308	
+  3	1.368	1.247	1.516	
+  0	0.722	0.665	0.788	
+BMI percentile	0.994	0.992	0.996	
+Shared parameters				
+  Longitudinal evolution of FEV1 (γ1, ηi(t))	0.968	0.966	0.970	
+  Rate of decline in FEV1 (γ2, ηi′(t))	0.944	0.922	0.967	
+BMI = body mass index; CFRD = cystic fibrosis related diabetes; GERD = gastroesophageal reflux disease; MRSA = methicillin-resistant Staphylococcus aureus; Pa = pseudomonas aeruginosa; PE = pulmonary exacerbation; SES = socioeconomic status;
+
+a Each effect is expressed as linear mixed model;
+
+b Each effect is expressed as the estimated hazard ratio (HR), where HR &gt; 1 indicates increased risk of g-tube initiation;
+
+* Results in which zero is not contained in the CI are considered statistically significant;
+
+^ number of occurrences during the baseline year where 1 PE in the year is the reference category;
+
+^^ indicated by state insurance; the coefficients b = (b1, …, b5) are for natural cubic spline (see Methods); (σ, σ0, σ1) are the square root of variance of εij, b0i and b1i, respectively (see Appendix A2); (γ1, γ2) are for shared parameters ηi(t) and ηi′(t) (see Methods and Appendix A2).
+
+
+   References
+1 
+            Corey M  
+            McLaughlin FJ  
+            Williams M  
+            Levison H  
+           A comparison of survival, growth, and pulmonary function in patients with cystic fibrosis in Boston and Toronto J Clin Epidemiol 1988 41 6 583 591 3260274 
+2 
+            Zemel BS  
+            Jawad AF  
+            FitzSimmons S  
+            Stallings VA  
+           Longitudinal relationship among growth, nutritional status, and pulmonary function in children with cystic fibrosis: analysis of the Cystic Fibrosis Foundation National CF Patient Registry J Pediatr 2000 137 3 374 380 10969263 
+3 
+            Liou TG  
+            Adler FR  
+            FitzSimmons SC  
+            Cahill BC  
+            Hibbs JR  
+            Marshall BC  
+           Predictive 5-year survivorship model of cystic fibrosis American journal of epidemiology 2001 153 4 345 352 11207152 
+4 
+            Konstan MW  
+            Morgan WJ  
+            Butler SM  
+            Pasta DJ  
+            Craib ML  
+            Silva SJ  
+             
+           Risk factors for rate of decline in forced expiratory volume in one second in children and adolescents with cystic fibrosis J Pediatr 2007 151 2 134 139 9 e1 17643762 
+5 
+            Stallings VA  
+            Stark LJ  
+            Robinson KA  
+            Feranchak AP  
+            Quinton H  
+           Evidence-based practice recommendations for nutrition-related management of children and adults with cystic fibrosis and pancreatic insufficiency: results of a systematic review J Am Diet Assoc 2008 108 5 832 839 18442507 
+6 
+            Zhang Z  
+            Lai HJ  
+           Comparison of the use of body mass index percentiles and percentage of ideal body weight to screen for malnutrition in children with cystic fibrosis Am J Clin Nutr 2004 80 4 982 991 15447909 
+7 Foundation CF Cystic Fibrosis Foundation Patient Registry 2014 Bethesda, MD Cystic Fibrosis Foundation 
+8 
+            Morton A  
+            Wolfe S  
+           Enteral tube feeding for cystic fibrosis Cochrane Database Syst Rev 2015 4 CD001198 
+9 
+            Andrinopoulou ER  
+            Rizopoulos D  
+            Geleijnse ML  
+            Lesaffre E  
+            Bogers AJ  
+            Takkenberg JJ  
+           Dynamic prediction of outcome for patients with severe aortic stenosis: application of joint models for longitudinal and time-to-event data BMC Cardiovasc Disord 2015 15 28 25943388 
+10 
+            Taylor JM  
+            Park Y  
+            Ankerst DP  
+            Proust-Lima C  
+            Williams S  
+            Kestin L  
+             
+           Real-time individual predictions of prostate cancer recurrence using joint models Biometrics 2013 69 1 206 213 23379600 
+11 
+            Hankinson JL  
+            Odencrantz JR  
+            Fedan KB  
+           Spirometric reference values from a sample of the general US. population Am J Respir Crit Care Med 1999 159 1 179 187 9872837 
+12 
+            Wang X  
+            Dockery DW  
+            Wypij D  
+            Fay ME  
+            Ferris BG Jr  
+           Pulmonary function between 6 and 18 years of age Pediatr Pulmonol 1993 15 2 75 88 8474788 
+13 
+            Ibrahim JG  
+            Chu H  
+            Chen LM  
+           Basic concepts and methods for joint models of longitudinal and survival data J Clin Oncol 2010 28 16 2796 2801 20439643 
+14 
+            Szczesniak RD  
+            McPhail GL  
+            Duan LL  
+            Macaluso M  
+            Amin RS  
+            Clancy JP  
+           A semiparametric approach to estimate rapid lung function decline in cystic fibrosis Ann Epidemiol 2013 23 12 771 777 24103586 
+15 
+            Crowther MJ  
+            Andersson TM  
+            Lambert PC  
+            Abrams KR  
+            Humphreys K  
+           Joint modelling of longitudinal and survival data: incorporating delayed entry and an assessment of model misspecification Stat Med 2016 35 7 1193 1209 26514596 
+16 
+            Rizopoulos D  
+           The R Package JMBayes for Fitting Joint Models for Longitudinal and Time-to-Event Data using MCMC arXiv 2014 
+17 
+            Schluchter MD  
+            Konstan MW  
+            Davis PB  
+           Jointly modelling the relationship between survival and pulmonary function in cystic fibrosis patients Stat Med 2002 21 9 1271 1287 12111878 
+18 
+            Piccorelli AV  
+            Schluchter MD  
+           Jointly modeling the relationship between longitudinal and survival data subject to left truncation with applications to cystic fibrosis Stat Med 2012 31 29 3931 3945 22786556 
+19 
+            Vandyke RD  
+            McPhail GL  
+            Huang B  
+            Fenchel MC  
+            Amin RS  
+            Carle AC  
+             
+           Inhaled tobramycin effectively reduces FEV1 decline in cystic fibrosis. An instrumental variables analysis Ann Am Thorac Soc 2013 10 3 205 212 23802816 
+20 
+            Moss A  
+            Juarez-Colunga E  
+            Nathoo F  
+            Wagner B  
+            Sagel S  
+           A comparison of change point models with application to longitudinal lung function measurements in children with cystic fibrosis Stat Med 2016 35 12 2058 2073 27118629 
+21 
+            Schechter MS  
+           Patient registry analyses: seize the data, but caveat lector J Pediatr 2008 153 6 733 735 19014811 
+22 
+            Sawicki GS  
+            Goss CH  
+           Tackling the increasing complexity of CF care Pediatric pulmonology 2015 50 S40 S74 S79 26335957 
+

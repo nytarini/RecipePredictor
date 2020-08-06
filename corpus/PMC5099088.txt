@@ -1,0 +1,559 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   12750024431J Allergy Clin ImmunolJ. Allergy Clin. Immunol.The Journal of allergy and clinical immunology0091-67491097-682527372570509908810.1016/j.jaci.2016.03.056NIHMS792133ArticleIL-33 promotes food anaphylaxis in epicutaneously-sensitized mice by targeting mast cells Galand Claire PhDaLeyva-Castillo Juan Manuel PhDaYoon Juhan PhDaHan Alex BAaLee Margaret S. MD, PhDaMcKenzie Andrew PhDbStassen Michael PhDcOyoshi Michiko K. PhDaFinkelman Fred D. MDdGeha Raif S. MDaa Division of Immunology, Boston Children's Hospital, Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, USAb Medical Research Council Laboratory of Molecular Biology, Cambridge, England, UKc Institute for Immunology, University Medical Center of the Johannes Gutenberg-University Mainz, Germany andd Division of Immunobiology, Cincinnati Children’s Hospital Medical Center; Department of Medicine, Cincinnati Veterans Affairs Medical Center, and Division of Immunology, Allergy and Rheumatology, University of Cincinnati College of Medicine, Cincinnati, Ohio, USACorresponding author: Raif S. Geha, MD, Division of Immunology, Boston Children's Hospital, Karp building 10th floor, One Blackfan Circle, Boston, MA, 02115, USA. Tel: (617) 919-2478; Fax: (617) 730-0528; raif.geha@childrens.harvard.edu9 6 2016 2 6 2016 11 2016 01 11 2017 138 5 1356 1366 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+Cutaneous exposure to food allergens predisposes to food allergy, which is commonly associated with atopic dermatitis (AD). The levels of the epithelial cytokine IL-33 are increased in skin lesions and serum of AD patients. Mast cells (MC) play a critical role in food anaphylaxis and express the IL-33 receptor ST2. The role of IL-33 in MC-dependent food anaphylaxis is unknown.
+
+Objective
+To determine the role and mechanism of action of IL-33 in food anaphylaxis in a model of IgE-dependent food anaphylaxis elicited by oral challenge of epicutaneously (EC)-sensitized mice.
+
+Methods
+WT, ST2-deficient and MC-deficient KitW-sh/W-sh mice were EC sensitized with ovalbumin (OVA) then challenged orally with OVA. Body temperature was measured by telemetry, Il33 mRNA by qPCR, and IL-33, OVA-specific IgE and mouse mast cell protease 1 (mMCP-1) by ELISA. Bone marrow-derived MCs (BMMCs) degranulation was assessed by flow cytometry.
+
+Results
+Il33 mRNA expression was upregulated in tape-stripped mouse skin and scratched human skin. Tape stripping caused local and systemic IL-33 release in mice. ST2 deficiency, as well as ST2 blockade prior to oral challenge, significantly reduced the severity of oral anaphylaxis without affecting the systemic Th2 response to the allergen. Oral anaphylaxis was abrogated in KitW-sh/W-sh mice, and restored by reconstitution with WT, but not ST2-deficient, BMMCs. IL-33 significantly enhanced IgE-mediated degranulation of BMMCs in vitro.
+
+Conclusion
+IL-33 is released following mechanical skin injury, enhances IgE-mediated MC degranulation, and promotes oral anaphylaxis following EC sensitization by targeting MCs. IL-33 neutralization may be useful in treating food anaphylaxis in AD patients.
+
+Graphical abstract
+
+          
+        
+
+Capsule Summary
+IL-33 acts on mast cells to promote food anaphylaxis elicited by oral challenge in cutaneously sensitized mice.
+
+IL-33ST2food allergyatopic dermatitismast cells
+   INTRODUCTION
+The global incidence of food allergy has increased in the last decade. In the US, 28% of children are sensitized to food allergens1, and 5–7% suffer from food allergy2. Food allergy symptoms range from skin rashes to severe anaphylaxis, and even death3. Atopic dermatitis (AD) is a chronic pruritic inflammatory skin disease characterized by a defect in skin barrier function, associated in many cases with filaggrin deficiency, and made worse by mechanical injury inflicted by scratching the dry inflamed skin. Allergen introduction via the disrupted skin barrier in AD elicits Th2 dominated systemic and local immune response with elevated levels of total and antigen specific serum IgE, and increased local and systemic production of Th2 cytokines4. IgE-mediated food allergy and AD often coexist, with one to two-third of AD patients having documented food allergy5. Epidemiologic data suggests that sensitization to peanut protein may occur in children through the application of peanut oil to inflamed skin6. In addition, early-life environmental peanut exposure is associated with an increased risk of peanut sensitization and allergy in children who carry a filaggrin mutation7. These observations support the hypothesis that food allergy develops through transcutaneous sensitization in children with an impaired skin barrier.
+
+Epithelial cytokines released in response to mechanical injury include TSLP, IL-25 and IL-338. IL-33, a member of the IL-1 cytokine family, is produced by keratinocytes, fibroblasts, endothelial cells, macrophages, and other immune cells9. IL-33 promotes IL-4 and IL-13 production by in vitro differentiated Th2 lymphocytes10, polarizes skin-derived dendritic cells to drive a Th2 response following epicutaneous (EC) sensitization to peanut extract11, and causes elevation of serum IgE levels and eosinophilia when injected in vivo12. IL-33 has been shown to be important for the Th2 response to intranasal sensitization with house dust mite antigen and intragastric sensitization with peanut13, but not to EC sensitization with OVA14. Forced IL-33 local overexpression by keratinocytes induces AD-like symptoms15. IL-33 levels are increased in the skin lesions and serum of patients with AD16,17 and in mouse skin following EC sensitization with OVA16. A polymorphism in the gene coding for ST2, a chain of the IL-33 receptor (IL-33R), has been associated in humans with AD18. ST2 is a member of the IL-1 receptor family encoded by Il1rl1, and forms a dimer with IL-1R accessory protein in a ligand-dependent manner. ST2 is expressed in Th2 lymphocytes, mast cells (MCs), eosinophils, basophils, type 2 innate lymphocytes, smooth muscle cells and endothelial cells19.
+
+MCs play an important role in allergic diseases and particularly in food anaphylaxis by virtue of their degranulation and mediator release following antigen-driven IgE-mediated crosslinking of the high affinity IgE receptor FcεR1 expressed on their surface20,21. IL-33 induces the release of proinflammatory cytokines by MCs and promotes their survival22–24. IL-33 has also been reported to trigger antigen-independent MC degranulation in naïve mice12, but the role of IL-33 in IgE-dependent MC degranulation has been controversial25,26. A recent report found IL-33 to be essential for IgE-dependent anaphylaxis in EC sensitized mice, but the mechanism involved was not investigated27.
+
+We have reported that EC sensitization of mice by application of OVA to skin mechanically injured by tape stripping, results in allergic skin inflammation with many features of AD, and in IgE-dependent anaphylaxis upon oral challenge28,29. We have used this model to verify the role and determine the mechanism of action of IL-33 in food anaphylaxis following EC sensitization. We demonstrate that tape stripping the skin induces local and systemic release of IL-33, that IL-33 signaling potentiates antigen-driven IgE-dependent MC degranulation in vitro, and that IL-33 promotes food anaphylaxis in EC sensitized mice by targeting its receptor on MCs.
+
+METHODS
+Mice
+Wild-type (WT) BALB/c mice were purchased from Taconic (Germantown, NY). ST2-deficient Il1rl1−/− mice, obtained from Dr McKenzie, and KitW-sh/W-sh mice, obtained from Dr Stassen, and bred for &gt;9 generations on BALB/c background have been previously described30,31. All mice were housed in a specific pathogen-free environment and fed an OVA-free diet. All procedures were performed in accordance with the Animal Care and Use Committee of Boston Children’s Hospital.
+
+Human Subjects
+After obtaining informed consent, the inner side of the forearm of two healthy non-allergic adult subjects was scratched 30 times with a #11 sterile blade with care not to draw blood. Six hrs. later a 4 mm punch biopsy was obtained from the scratched site and another one from a skin site on the contralateral forearm. RNA was extracted from the skin with Total RNA isolation kit (Ambion). cDNA was prepared with iscript cDNA synthesis kit (Biorad). Quantitative real-time PCR was done with the Taqman gene expression assay, universal PCR master mix and ABI prism 7300 sequence detection system (Applied Biosystems). IL33 mRNA fold induction was calculated using delta-delta ct with normalization to the internal control β-2 microglobulin. An arbitrary unit of 1 was assigned to the mean value of unmanipulated skin samples.
+
+Il33 mRNA expression and its release upon tape stripping
+The back skin of anesthetized mice was shaved and subjected to tape stripping six times with a film dressing (TegadermTM, 3M). Six hours later RNA was extracted and Il33 expression was measured as described for human skin samples. For measuring IL-33 release, patches of ~1cm2 skin were excised from unmanipulated back or immediately post-tape stripping. Subcutaneous fat was removed and the patches were cultured for 1 hr in complete RPMI. IL-33 in the supernatant and the serum was measured using Quantikine ELISA kit (R&amp;D).
+
+EC sensitization and oral antigen challenge
+EC sensitization was described previously32. Briefly, EC sensitization consists of three one-week cycles of tape stripping followed by application of OVA or saline. For each cycle, 6 to 8 week-old female mice were anesthetized, and their back skin was shaved and tape-stripped with a film dressing (TegadermTM, 3M) 6 times at day 0 and 3 times at day 3 of each cycle. Two-week rest intervals were observed between the cycles. EC sensitization consisted of applying a 1cm2 gauze containing 100 µg OVA (Sigma-Aldrich) after each tape stripping and securing it with a film dressing. On the last day of sensitization (day 49) mice were challenged intragastrically with 100 mg of OVA in 150 µL of saline buffer (scheme in Fig. 2A). Temperature changes were measured every 5 min following OVA challenge using the DAS-6001 Smart Probe and IPTT-300 transponders (Bio Medic Data Systems) injected subcutaneously. Sera were collected 60 min after challenge.
+
+Passive sensitization and oral challenge
+6 to 8 week-old female mice were injected intravenously with 10 µg of anti-trinitrophenyl (TNP) IgE monoclonal antibody (mAb) as previously described33. The following day, the mice were challenged intragastrically with 12.5mg of TNP conjugated bovine serum albumin (TNP-BSA). Temperature changes were measured as described above.
+
+ELISA for mMCP-1 and anti-OVA IgE
+Mouse mast cell protease 1 (mMCP-1) and anti-OVA IgE concentrations were measured in sera collected 60 min after oral challenge by means of ELISA, using a kit for mMCP1 (eBioscience) and homemade sandwich ELISA for anti-OVA IgE. The capture detection antibody (rat anti-mouse IgE clone R35–72) was obtained from BD Bioscience and purified mouse anti-OVA IgE (clone TOe) standard antibody was produced in the lab. OVA was biotinylated using a kit (Pierce) and used for detection
+
+Th2 cytokine production by splenocytes
+Spleen single cell suspensions were cultured at 2×106/ml in the presence of OVA (200 µg/ml) for 96 hours as described previously34. The levels of IL-4 and IL-13 were measured in supernatants by ELISA (eBioscience) following the manufacturer’s instructions.
+
+IL-33 receptor neutralization
+50 µg of anti-ST2 mAb (clone DJ8, MD Bioproducts) or rat IgG1 isotype control mAb (clone HRPN, BioXcell) were injected intravenously twice on day −2 and day −1 prior to challenge.
+
+Bone Marrow derived-Mast Cells (BMMCs) culture
+The bone marrow cells from femora and tibiae of 4 to 6 weeks-old female mice were cultured, for 4 to 12 weeks in complete RPMI supplemented with IL-3 (10ng/ml) and stem cell factor (20ng/ml) (Peprotech). The phenotype of BMMCs was assessed by flow cytometry. Uniformly, &gt;90% of living cells were c-Kit+FcεRI+.
+
+BMMCs reconstitution of MC-deficient mice
+5×106 BMMCs from BALB/c WT (WT BMMCs) and BALB/c Il1rl1−/− (Il1rl1−/− BMMCs) mice were resuspended in 200µl PBS and injected intraperitoneally in 4 to 6 week-old female KitW-sh/W-sh mice. To allow BMMC engraftment, mice were given an 8-week rest before EC sensitization.
+
+Flow cytometry analysis of MCs
+Cell isolation from the jejunum was performed as previously described35. Briefly, the jejuna were harvested, flushed with PBS supplemented with 2% fetal calf serum, opened longitudinally and cut in 1 cm long pieces. To remove epithelial cells, intestinal pieces were incubated in HBSS without Ca2+/Mg2+ supplemented with 10 mM EDTA, 10 mM HEPES, 0.5% fetal calf serum, and 1.5 mM DTE, for 20 minutes at 37°C twice. Intestinal pieces were then digested in HBSS with Ca2+/Mg2+, 20% fetal calf serum, 100 U/mL collagenase VIII (Sigma-Aldrich), and 5 µg/mL DNase (Sigma-Aldrich) for 60 at 37°C. Lamina propria cells were purified with a 40% Percoll gradient (GE Healthcare). Peritoneal lavage was performed with cold PBS. The cell suspensions were washed, incubated with TruStain FcX (anti-CD16/32 antibody; 10 µg/ml; Biolegend) and stained with the following mAbs: PE-Cy7 anti-CD45 (30F11), Biotin anti-CD3 (17A2), Biotin anti-CD19 (1D3), Biotin anti-B220 (RA3-6B2), Biotin anti-Gr1 (RB6-8C5), APC anti-c-Kit (ACK2) from eBioscience, PerCP-Cy5.5 anti-FcεRI (MAR-1), PE anti-IgE (RME-1) from Biolegend, and eF450 or BV605 Streptavidin and eF506 viability dye from eBioscience and BD Biosciences. For intracellular staining, cells were stimulated with Ionomycin (0.5ug/ml; Sigma), Phorbol 12,13-dibutyrate (1ug/ml; Sigma), Brefeldin A (eBioscience), Monensin (eBioscience) in complete RPMI for 3 hours before surface staining. Then, cells were fixed and permeabilized (BD Biosciences Cytofix/Cytoperm) and stained in permeabilization solution with BV421 anti-IL-9 (RM9A4) from BD Biosciences. Cells were analyzed by flow cytometry using an LSRFortessa machine (BD Biosciences). The data was analyzed with FlowJo software.
+
+Histologic analysis of MCs
+1 cm pieces of jejunum were fixed in 4% paraformaldehyde and embedded in paraffin. Paraffin sections were stained with chloroacetate esterase (CAE).
+
+BMMCs stimulation, degranulation and staining
+BMMCs were plated at a density of 5×104 cells per ml in a 96 U-bottom well plate in a total of 200 µl complete RPMI per well and incubated overnight, with 50 ng/ml IgE anti-dinitrophenyl (DNP) (clone SPE-7, Sigma-Aldrich) in the presence of the following: medium, 100 ng/ml IL-33 (Peprotech), IL-33 and 5 µg/ml of anti-ST2 mAb DJ8 or isotype control mAb. The next day 50 ng/ml DNP conjugated human serum albumin (DNP-HSA, Sigma-Aldrich) or medium were added and 10 min later the cells were incubated for 15 min on ice with TruStain FcX, then stained for 20 min with eF506 viability dye from eBioscience, BV421 anti-IgE (R35–72) from BD Horizon and APC-Cy7 anti-LAMP-1 (1D4B) from Biolegend and washed. Live cells were pre-gated and analyzed as described above.
+
+Il6, Il9, Il13 mRNA expression.by BMMCs
+BMMC, were cultured with IL-33 or/and FcεRI crosslinking following the above conditions and harvested one hr. following stimulation. RNA was extracted with Total RNA isolation kit (Ambion) and quantitative real-time PCR performed as per the instructions of Applied Biosystems.
+
+Statistical analysis
+Results of allergen challenge studies were analyzed using 2-way ANOVA. Other results were analyzed by one-way ANOVA or non-parametric t tests. A p value of less than 0.05 was considered significant.
+
+RESULTS
+Mechanical skin injury upregulates local Il33 expression and IL-33 release
+Scratching is a hallmark of AD36. We examined whether tape stripping, a surrogate for scratching, induces Il33 expression in mouse skin. Gene array analysis for mRNA expression revealed a 2.66±0.21 fold increase in Il33 mRNA expression in mouse skin obtained 24 hrs. after tape stripping compared to unmanipulated skin from the same mice (n=3 per group). This increase was confirmed by qPCR analysis of Il33 mRNA levels which showed a 3.89±0.36 fold increase 6 hours after tape-stripping compared to unmanipulated skin (Fig. 1A). To verify that mechanical skin injury also induces IL33 expression in human skin, we examined the effect of scratching on IL33 gene expression in the skin of two normal non-allergic human subjects. qPCR analysis revealed a significant 2.14±0.31 fold increase in IL33 mRNA levels 6 hrs. after scratching compared to unmanipulated skin from the same individuals (Fig. 1B), indicating that mechanical injury inflicted by scratching also upregulates IL33 mRNA expression in human skin.
+
+IL-33 can reside intracellularly or can be released extracellularly. To investigate whether IL-33 is released in the milieu following mechanical skin injury, we cultured tape-stripped or unmanipulated skin (area of 1 cm2) and measured IL-33 in the culture supernatants one hr. later. Tape stripping caused a significant increase in IL-33 release (223±74 pg/ml for tape-stripped skin versus 110±61 pg/ml for control, n=6, p&lt;0.05) (Fig. 1C). Application of OVA antigen to the skin immediately after tape stripping had no detectable effect on IL-33 release by skin explants compared to tape striping alone (data not shown). IL-33 serum levels are increased in patients with AD17. We examined whether tape stripping causes a rise in circulating IL-33 levels in mice. Serum IL-33 levels rose significantly from 24.4±7.3 pg/ml to 40±7.4 pg/ml (n=6, p&lt;0.05) one hr. following tape stripping and returned to normal by 6 hrs and at 24 hrs (Fig. 1D). These results demonstrate that mechanical injury upregulates local Il33 expression and causes local and systemic IL-33 release in mice.
+
+Absence of IL-33R (ST2) attenuates food anaphylaxis
+We previously reported that oral antigen challenge of mice EC sensitized by the application of OVA to tape-stripped skin results in IgE-dependent systemic anaphylaxis29. We used ST2-deficient Il1rl1−/− mice to examine the role of IL-33 in this model. WT mice that had been EC sensitized with OVA demonstrated a significant and robust drop of body temperature following oral challenge compared to saline-sensitized controls (Fig. 2A). OVA-sensitized ST2-deficient mice had a significantly attenuated drop in body temperature compared to OVA-sensitized WT mice (Fig. 2A, p&lt;0.001, n=4–5 per group). Anaphylaxis in our model is associated with an increase in serum mMCP1 levels29, a MC degranulation product. Consistent with the drop in body temperature, serum levels of mMCP-1 measured 60 min post-challenge were significantly increased in OVA-sensitized WT mice compared to saline-sensitized WT controls (Fig. 2B). Serum mMCP-1 levels were significantly lower in OVA-sensitized ST2-deficient mice compared to OVA-sensitized WT controls (Fig. 2B, p&lt;0.05, n=4–5 per group).
+
+The impaired anaphylaxis in Il1rl1−/− mice in our model was not due to decreased load of MCs. The numbers of MCs in intestine and skin at baseline were comparable in Il1rl1−/− mice and WT controls (Fig 2C and data not shown). We previously showed that EC sensitization with OVA causes expansion of MCs in the jejunum of WT mice29. MC expansion in the jejunum following EC sensitization was comparable in Il1rl1−/− mice and WT controls (Fig. 2C, left panel). Recently IL-9, expressing ST2+ MCs designated as MMC9s were shown to be expanded in the intestine of orally immunized mice37. EC sensitization caused expansion of c-Kit+IgE+IL-9+ MMC9s in the jejunum of WT mice (Fig. 2C, right panel). The numbers of jejunal MMC9s at baseline and their expansion following EC sensitization were comparable in Il1rl1−/− mice and WT controls (Fig. 2C, right panel). These results suggest that IL-33 has no detectable role in the homeostasis of intestinal MCs and MMC9s, or their expansion following EC sensitization.
+
+Degranulation of mast cells is thought to occur by antigen-dependent crosslinking of IgE receptors. Hence, we determined if the decrease in mMCP1 in the sera of ST2-deficient mice could be due to reduced OVA-specific IgE in the serum. However, there was no significant difference in the serum levels of OVA-specific IgE antibody between OVA-sensitized WT and ST2-deficient mice (Fig. 2D). The Th2 cytokines IL-4 and IL-13 have been reported to promote IgE-dependent anaphylaxis38,39. There was no significant difference in the ability of splenocytes from OVA-sensitized WT and ST2-deficient mice to secrete the Th2 cytokines IL-4 and IL-13 upon in vitro re-stimulation with OVA (Fig. 2E). These results demonstrate that IL-33 plays an important role in food anaphylaxis elicited by oral challenge following EC sensitization, without affecting the production of antigen-specific IgE antibody or antigen-driven Th2 cytokine production by splenocytes in EC sensitized mice.
+
+EC sensitization elicits an immune response that involves the production of both Th2 cytokines and IgE antibody. Because Th2 cytokines can promote oral anaphylaxis38,39, it was important to establish whether IL-33 can promote oral anaphylaxis purely mediated by IgE. This was examined using a well-established model of passive oral anaphylaxis. Passively sensitized WT mice with anti-TNP IgE demonstrated a robust decrease of body temperature and a significant increase in serum mMCP1 levels following oral gavage with TNP-BSA (Fig. 2F, G). Under the same conditions, ST2-deficient Il1rl1−/− mice had a significantly attenuated drop of body temperature, and a significantly attenuated increase in serum mMCP1 compared to WT controls (Fig. 2F. G). This result indicates that IL-33 plays a role in oral anaphylaxis purely mediated by IgE antibody.
+
+ST2 blockade attenuates food anaphylaxis
+Our food anaphylaxis model involves initial EC sensitization to antigen and a subsequent oral challenge with the same antigen. The attenuation of oral anaphylaxis in OVA-sensitized ST2-deficient mice despite the presence of intact OVA-specific IgE and Th2 responses suggested that IL-33 does not affect the sensitization phase in our model but might promote food allergy by acting on the effector phase of anaphylaxis elicited by oral antigen challenge. To test this hypothesis, we examined the effect of blocking ST2 shortly prior to oral challenge. WT mice EC sensitized with OVA were treated for two consecutive days prior to oral OVA challenge with either 50 µg of the rat anti-mouse ST2-neutralizing mAb DJ8, or rat IgG1 isotype control mAb. Treatment with anti-ST2 mAb resulted in a significantly lower drop in body temperature compared to treatment with isotype control (Fig. 3A, p&lt;0.001, n=7–9 per group). Serum mMCP-1 levels 60 min after oral OVA challenge were significantly lower in OVA-sensitized WT mice treated with anti-ST2 mAb compared to isotype control (Fig. 3B, p&lt;0.001). Consistent with the results in Il1rl1−/− mice, ST2 blockade in WT mice had no significant effect on the expansion of intestinal MCs elicited by OVA sensitization (data not shown). Treatment of saline-sensitized WT mice with anti-ST2 mAb had no effect on body temperature or serum mMCP-1 level compared to treatment with isotype control (Fig. 3A, B). These results indicate that IL-33 signaling promotes the effector phase in food anaphylaxis.
+
+Patients with food anaphylaxis come to clinical attention having undergoing one or more episodes of anaphylaxis. We therefore also examined whether IL-33 plays a role in established food anaphylaxis. WT mice were EC sensitized with OVA, challenged orally with OVA rested for 2 weeks, then were administered anti-ST2 mAb or isotype control mAb on day −2 and day −1 of a final oral OVA challenge. At that time serum IL-33 levels were within the normal range (data not shown). Consistent with our previous results, all mice dropped their body temperature on the first OVA challenge (data not shown). ST2 blockade prior to the subsequent oral antigen challenge significantly reduced the temperature drop and the mMCP-1 release compared to treatment with isotype control mAb (Fig. 3C, D). These results suggest that IL-33 plays an important role in already established food anaphylaxis.
+
+ST2 expression by MCs is important for food anaphylaxis in EC-sensitized mice
+ST2 is expressed by a variety of cells that include MCs, which are key players in IgE-dependent anaphylaxis40,41. The role of MCs in our model was verified using KitW-sh/W-sh mice that are deficient in MCs. OVA-sensitized KitW-sh/W-sh mice completely failed to undergo food anaphylaxis as evidenced by no significant change in body temperature following oral OVA challenge compared to the robust drop in temperature observed in OVA-sensitized genetically matched WT controls (Fig. 4A). The OVA-specific IgE response was comparable in EC-sensitized MC-deficient mice and WT controls (Fig 4B).
+
+KitW-sh/W-sh mice have abnormalities in cell lineages other than MCs42. To ascertain the role of MCs, and the importance of ST2 expression by the MC in our model, we reconstituted by intraperitoneal injection KitW-sh/W-sh mice with BMMCs derived from WT or ST2-deficient Il1rl1−/− mice. Eight weeks administration of BMMCs, the reconstituted mice were subjected to EC sensitization with OVA or saline for seven weeks, then orally challenged with OVA as depicted in Fig. 4C. Flow cytometry analysis of peritoneal lavage cells revealed the absence of CD45+Lin−c-Kit+FcεRI+ MCs in KitW-sh/W-sh mice, as expected. In contrast, the percentages and numbers of peritoneal lavage MCs in KitW-sh/W-sh mice reconstituted with WT or ST2-deficient BMMCs were comparable to those in genetically matched WT controls (Fig. 4D). In addition, the numbers of c-Kit+IgE+ MCs in the jejunum were comparable in KitW-sh/W-sh mice reconstituted with WT BMMCs and those reconstituted with ST2-deficient BMMCs, although they were significantly lower than in WT mice (Fig. 4E, left panel). MCs in the reconstituted mice localized to the muscularis layer (Fig 4E, right panel). Reconstitution with WT BMMCs partially restored food anaphylaxis in OVA-sensitized KitW-sh/W-sh mice, as evidenced by a significant drop in body temperature (Fig. 4F), definitively demonstrating a role for MCs in our food anaphylaxis model. In contrast, reconstitution with ST2-deficient BMMCs completely failed to restore anaphylaxis in OVA-sensitized KitW-sh/W-sh mice (Fig. 4F) indicating that IL-33 signaling in MCs is critical for food anaphylaxis in our model. None of the three groups of mice EC sensitized with saline had a drop in body temperature following oral OVA challenge (data not shown). There was no detectable mMCP1 in the sera of KitW-sh/W-sh mice reconstituted with WT BMMCs (data not shown), consistent with the absence of mMCP1 production by BMMCs43 and the lack of detectable of mucosal MC in reconstituted mice. Reconstitution of KitW-sh/W-sh mice by intravenous administration of BMMCs44, resulted in poor reconstitution of intestinal MCs with intestinal MC numbers that were 5-fold lower than those attained following intraperitoneal administration of BMMCs (data not shown).
+
+IL-33 signaling in BMMCs enhances IgE-mediated degranulation
+Since expression of ST2 by MCs was critical for their ability to support IgE-dependent anaphylaxis in our model, we examined the effect of IL-33 on IgE-mediated MC degranulation. WT BMMCs were incubated overnight with anti-DNP IgE mAb, with or without recombinant mouse IL-33. This was followed by addition of medium or DNP-HSA to cross-link FcεRI-bound IgE. Ten minutes later, the cells were stained for surface expression of lysosomal-associated membrane vesicle 1 (LAMP-1), indicative of the fusion of intracellular lysosomal secretory granules with the cell plasma membrane and thereby of degranulation. No increase in surface LAMP-1 (sLAMP-1) expression was observed in BMMCs cultured with anti-DNP IgE mAb and challenged with medium (Fig. 5A–C). BMMCs cultured with anti-DNP IgE mAb and IL-33 and challenged with medium also had no detectable increase in sLAMP-1 expression (Fig. 5A–C). As expected, DNP-HSA challenge of BMMCs cultured with anti-DNP IgE mAb caused an increase in the percentage of sLAMP-1+ cells, as well as in the mean fluorescence intensity (MFI) of sLAMP-1 expression (Fig. 5A–C). Crosslinking of FcεRI on BMMCs that had been cultured in the presence of IL-33 and anti-DNP IgE resulted in significantly higher percentage of sLAMP-1+ cells and significantly higher levels of sLAMP1 expression compared to FcεRI crosslinking in the absence of IL-33 (Fig. 5A–C). To ascertain that the potentiating effect of IL-33 on IgE/FcεRI mediated MC degranulation is exerted via ST2 signaling we examined the effect of addition of the anti-ST2 mAb DJ8 to the BMMC cultures. Addition of anti-ST2 mAb 4 hrs before addition of IL-33, but not isotype control, reversed the potentiating effect of IL-33 on IgE-mediated upregulation of sLAMP1 expression (Fig. 5A–C). ST2-deficient BMMCs showed a reduced response to FcεRI crosslinking compared to WT BMMCs (Fig. 5D), suggesting that endogenous IL-33 may enhance IgE mediated MC release
+
+MC produce cytokines, including IL-6, IL-13, and IL-9 with the latter two enhancing IgE mediated anaphylaxis37,45. FcεRI crosslinking and IL-33 each upregulated Il6, Il13 and Il9 mRNA expression by WT BMMCs (Fig. 6A–C). Importantly IL-33 and FcεRI crosslinking synergized in driving Il6, Il13 and Il9 mRNA expression by WT BMMCs (Fig. 6A–C), but the synergy was significant only for Il6 and Il13 mRNA. The synergy was abrogated by the addition of neutralizing anti-ST2 mAb, but not isotype control mAb (Fig. 6A–C). These results indicate that IL-33 signaling promotes IgE-stimulated degranulation as well as cytokine release by BMMCs.
+
+DISCUSSION
+We demonstrate that IL-33 is released locally and systemically following mechanical skin injury, enhances IgE-mediated MC degranulation in vitro, and promotes oral anaphylaxis following EC sensitization by targeting MCs. These findings strongly suggest that IL-33 provides an important link between cutaneous sensitization to food allergens and food anaphylaxis in patients with a disrupted skin barrier, such as those with AD.
+
+Disruption of the skin barrier in AD results in dry itchy skin, which triggers intense scratching. We demonstrate that scratching normal human skin, as well as tape stripping mouse skin, a surrogate for scratching, upregulated local Il33 mRNA expression. We also demonstrated that IL-33 protein is released from mechanically injured mouse skin. Although IL-33 can be produced by dermal fibroblasts, endothelial cells, macrophages, activated MCs and other immune cells9, keratinocytes are likely to be a major source of IL-33 released in response to mechanical injury inflicted by scratching and tape stripping which mainly disrupt the upper epidermal layer of the skin. Importantly, our tape stripping protocol, which affects only ~10% of the mouse total body surface area, resulted in a significant two-fold elevation in their circulating level of IL-33. These results indicate that IL-33 released upon mechanical skin injury can potentially target ST2-expressing cells, including MCs, at distant sites. AD often involves more than 10% of the total body surface area, and the median IL-33 level in AD patients serum is more than 10 folds that of healthy controls16,46. These observations suggest that the mouse model we have used to examine the role of IL-33 in food anaphylaxis following EC sensitization is relevant to patients with AD.
+
+We demonstrated that IL-33 plays an important role in food anaphylaxis elicited by oral OVA challenge of mice EC sensitized with OVA. This was evidenced by significant attenuation of the body temperature drop and the release of mMCP-1 in the blood in ST2-deficient mice compared to WT controls. IL-33 also was important for passive oral anaphylaxis as evidenced by attenuation of body temperature drop and mMCP-1 release in ST2-deficient mice, passively sensitized with anti-TNP IgE and challenged with TNP-BSA, compared to WT controls. Although IL-33 has been reported to promote Th2 responses10,11, protection from oral anaphylaxis in ST2-deficient mice was not associated with a reduction in OVA-specific serum IgE antibody levels, or with decreased production of Th2 cytokines by antigen-stimulated splenocytes. Furthermore, IL-33 was shown not to be important for the homeostasis of skin MCs and intestinal MCs including MMC9s, or the expansion of small intestinal MCs following EC sensitization. In a recent report, IL-33 deficiency was found to protect EC-sensitized mice from anaphylaxis without a detectable effect on antigen-specific IgE antibody or Th2 responses27,47. TSLP and IL-25, which can promote Th2 responses, are released by tape stripped mouse skin (Ref.36 and data not shown). IL-33 may be redundant with these two cytokines in causing Th2 polarization of the immune response to cutaneously introduced antigens. In fact, TSLP has been reported to be important for the optimal induction of the Th2 response to EC sensitization48,49. To our knowledge, the role of IL-25 in this response has not been investigated.
+
+The action of IL-33 in promoting oral anaphylaxis in EC-sensitized mice was exerted at the effector phase of the response and, in particular, it targeted the MCs. Disruption of IL-33 signaling by administration of neutralizing anti-ST2 mAb starting two days prior to oral challenge resulted in the inhibition of oral anaphylaxis to a level comparable to that observed in ST2-deficient mice. Importantly, we demonstrated that ST2 blockade attenuated oral anaphylaxis in mice EC sensitized with OVA that had previously undergone oral anaphylaxis in response to oral antigen challenge, a scenario that mimics the clinical situation of patients who present established food anaphylaxis. This finding suggests that ST2 blockade may be useful in the treatment of patients with food allergy.
+
+We demonstrated that IL-33 promotes oral anaphylaxis in EC-sensitized mice by targeting MCs. Experiments using MC-deficient KitW-sh/W-sh mice indicated that MCs are absolutely required for anaphylaxis in our model. Reconstitution of MC-deficient KitW-sh/W-sh mice with BMMCs from WT mice partially restored MCs in their jejunum and their ability to undergo oral anaphylaxis following EC sensitization with OVA. The severity of the temperature drop in EC-sensitized MC deficient KitW-sh/W-sh mice in response to oral challenge was less than in WT controls, likely because reconstitution with BMMCs does not fully restore MCs levels in all tissues back to normal42. In contrast to reconstitution with WT BMMCs, reconstitution of MC-deficient KitW-sh/W-sh mice with ST2-deficient BMMCs completely failed to restore anaphylaxis, although the numbers of MCs in the jejunum were comparable in the two groups. These findings indicate that IL-33 acts on its receptor on MCs to promote IgE-dependent oral anaphylaxis. Both full length and truncated IL-33 act on MCs, although the truncated form may be more potent50. Both forms of IL-33 are detected by the ELISA assay kit we used. The respective role of the two IL-33 forms in our model requires investigation.
+
+MC degranulation is critical for IgE-dependent anaphylaxis40,41. We demonstrated that IL-33 signaling enhances antigen-driven IgE-dependent MC degranulation and cytokine expression in vitro. The potentiating effect of IL-33 on MC degranulation was specific, because itwas blocked by neutralizing anti-ST2 mAb. IL-33 by itself caused no MC degranulation. IL-33 signaling activates p38 MAP kinase19. p38 is thought to enhance FcεRI-driven β-hexosaminidase release by MCs51. The mechanism by which IL-33 promotes IgE-dependent MC degranulation requires investigation.
+
+An important question unanswered by the present study is whether keratinocyte-derived systemically released IL-33 is the primary source of the IL-33 that promotes oral anaphylaxis in our model. The answer to this question awaits the generation and study of mice with selective deficiency of IL-33 in keratinocytes. Regardless, our findings suggest that disruption of IL-33 signaling by neutralizing antibodies to IL-33, or IL-33R or by soluble IL-33R (ST2), may be of value in treating food allergy in patients with AD.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Funding: This work was supported by a grant from the Bunning Foundation
+
+Abbreviations
+ADatopic dermatitis
+
+BMMCbone marrow-derived mast cell
+
+ECepicutaneous
+
+DNP-HSADinitrophenyl conjugated human serum albumin
+
+ILinterleukin
+
+LAMP-1lysosomal-associated membrane protein 1
+
+mAbmonoclonal antibody
+
+MCmast cell
+
+mMCP-1mouse mast cell protease 1
+
+OVAovalbumin
+
+TNP-BSAtrinitrophenyl conjugated bovine serum albumin
+
+WTwild type
+
+Fig 1 IL-33 expression in the skin is upregulated by mechanical injury and allergic skin inflammation
+A.
+Il33 mRNA levels in unmanipulated (unm.) skin and skin obtained 6 hrs. after tape stripping (T/S) from WT BALB/c mice (n=3). B.
+IL33 mRNA levels in unmanipulated (unm.) skin and skin obtained 6 hrs. after scratching from two healthy non-allergic adults. C. IL-33 levels in the supernatants of an area of one cm2 of unm. or T/S mouse skin following culture for one hr. (n=6 per group). D. IL-33 levels in the serum obtained from unm. mice and one, 6 and 24 hours after tape stripping the skin (n=6 per group). Columns and vertical bars in A–C represent mean and SEM respectively. Symbols and vertical bars in D represent mean and SEM *: p&lt;0.05, **: p&lt;0.01, ***: p&lt;0.001.
+
+Fig 2 ST2 deficiency reduces food anaphylaxis in EC-sensitized mice
+A, B. Experimental design protocol for oral anaphylaxis in EC-sensitized mice (A, upper panel, change in body temperature (A, lower panel) and serum mMCP1 level (B) in EC-sensitized mice. EC sens.= EC sensitization. Sal= saline. OVA= Ovalbumin. C. Total jejunal MC numbers (left panel) and MMC9 numbers (right panel) in unsensitized mice versus mice EC sensitized with OVA (n=4 each group) D, E. Serum OVA-specific IgE (D) and IL-4 and IL-13 secretion by splenocytes (E) in mice EC-sensitized with saline (S) or OVA (O) (n=4–5 each group). F, G. Change in body temperature (F) and serum mMCP1 level (G) in WT mice passively sensitized with anti-TNP IgE mAb and orally challenged with TNP-BSA. mMCP1 was measured 0 min post challenge. Each experiment has been repeated at least a second time independently with similar number of mice and similar results. Symbols and vertical bars in A and F represent mean and SEM. Columns and vertical bars in B–E and G represent mean and SEM. *: p&lt;0.05, **: p&lt;0.01. ***: p&lt;0.001. ns= not significant.
+
+Fig 3 ST2 blockade reduces food anaphylaxis in EC-sensitized mice
+A, B. Change in body temperature (A) and serum mMCP-1 (B) levels following oral OVA challenge of EC-sensitized WT mice treated 48 and 24 hrs. prior to oral challenge with rat anti-ST2 mAb DJ8 (αST2), or rat IgG1 isotype control (Ctrl.). C, D. Change in body temperature (C) and serum mMCP-1 levels (D) in WT mice EC sensitized with OVA, previously orally challenged with OVA, rested for 2 weeks, and then administered anti-ST2 DJ8 mAb or isotype control mAb (Ctrl.) on days −2 and −1 then rechallenged orally with OVA. mMCP1 was measured 60 min post challenge. Each experiment is a pool of 2 independent experiments. Symbols and vertical bars in A and C represent mean and SD. Columns and vertical bars in B and D represent mean and SD. EC sens.= EC sensitization. Sal= saline. *: p&lt;0.05, ***: p&lt;0.001.
+
+Fig 4 ST2 expression by mast cells is important for food anaphylaxis in EC-sensitized mice
+A. Change in body temperature following oral OVA challenge of EC-sensitized WT or KitW-sh/W-sh BALB/c mice. B. Serum OVA-specific IgE in EC-sensitized mice. C. Experimental design protocol for oral anaphylaxis in EC-sensitized BMMC-reconstituted KitW-sh/W-sh BALB/c mice. D. Representative FACS staining (left panel) and quantitation (right panel) of CD45+Lin−c-Kit+FcεRI+ cells in the peritoneal lavage of WT, KitW-sh/W-sh BALB/c mice and KitW-sh/W-sh BALB/c mice reconstituted with WT or ST2-deficient BMMCs (n=4–5 per group). E. Jejunal MC numbers (left panel) and representative CAE staining of MC in the jejunum (right panel, 400×) (n=4–5 per group). F. Change in body temperature following oral OVA challenge of OVA-sensitized KitW-sh/W-sh BALB/c mice reconstituted with WT or ST2-deficient BMMCs or left unreconstituted. Each experiment has been repeated at least a second time independently with similar number of mice and similar results. Symbols and vertical bars in A and E represent mean and SEM. Columns and vertical bars in D represent mean and SEM. EC sens.= EC sensitization. Sal= saline. *: p&lt;0.05, **: p&lt;0.01, ***: p&lt;0.001. ns= not significant.
+
+Fig 5 IL-33 signaling in BMMCs promotes antigen-driven IgE-mediated degranulation
+A–D. Representative FACS contour plots of surface LAMP-1 staining in gated WT IgE+ cells (A) and ST2-deficient IgE+ cells (D, left panel), percentages of WT (B) and ST2-deficient (D, right panel) LAMP-1+ cells, and MFI of sLAMP1 expression on WT cells (C) in BMMCs cultured overnight with anti-DNP IgE and the indicated stimuli, then challenged with medium or DNP-HSA as shown. Each experiment has been repeated at least a second time independently with 3–5 BMMC cultures per group. Columns and vertical bars represent mean and SEM. Ctrl.= control. **: p&lt;0.01, ***: p&lt;0.001.
+
+Fig. 6 IL-33 and FcεRI crosslinking synergize in driving Th2 cytokine mRNA expression by MCs
+A–C. mRNA levels of Il6 (A), Il13 (B) and Il9 (C) in WT BMMCs cultured overnight with anti-DNP IgE and the indicated stimuli, then challenged with medium or DNP-HSA as shown, and analyzed one hour after challenge. n=6 BMMC cultures per group. Each experiment has been repeated a second time independently with similar number of samples and similar results. Columns and vertical bars represent mean and SEM. ***: p&lt;0.001. ns= not significant.
+
+Key messages
+IL-33 is released locally and systemically after skin mechanical injury. IL-33R (ST2) deficiency or blockade significantly attenuates food anaphylaxis in a mouse model of food allergy elicited by oral challenge of EC-sensitized mice. IL-33 acts on MCs to promote IgE-mediated MC degranulation.
+
+
+   References
+1 
+            Salo PM  
+            Arbes SJ  
+            Jaramillo R  
+            Calatroni A  
+            Weir CH  
+            Sever ML  
+             
+           Prevalence of allergic sensitization in the United States: results from the National Health and Nutrition Examination Survey (NHANES) 2005–2006 J Allergy Clin Immunol 2014 134 350 359 24522093 
+2 
+            McGowan EC  
+            Keet CA  
+           Prevalence of self-reported food allergy in the National Health and Nutrition Examination Survey (NHANES) 2007–2010 J Allergy Clin Immunol 2013 132 1216.e5 1219.e5 23992749 
+3 
+            Berin MC  
+            Sampson HA  
+           Food allergy: an enigmatic epidemic Trends in Immunology 2013 34 390 397 23648309 
+4 
+            Leung DYM  
+            Guttman-Yassky E  
+           Deciphering the complexities of atopic dermatitis: shifting paradigms in treatment approaches J Allergy Clin Immunol 2014 134 769 779 25282559 
+5 
+            Rancé F  
+           Food allergy in children suffering from atopic eczema Pediatr Allergy Immunol 2008 19 279 284 18397414 
+6 
+            Lack G  
+            Fox D  
+            Northstone K  
+            Golding J  
+           Avon Longitudinal Study of Parents and Children Study Team Factors associated with the development of peanut allergy in childhood N Engl J Med 2003 348 977 985 12637607 
+7 
+            Brough HA  
+            Simpson A  
+            Makinson K  
+            Hankinson J  
+            Brown S  
+            Douiri A  
+             
+           Peanut allergy: effect of environmental peanut exposure in children with filaggrin loss-of-function mutations J Allergy Clin Immunol 2014 134 867.e1 875.e1 25282568 
+8 
+            Bartemes KR  
+            Kita H  
+           Dynamic role of epithelium-derived cytokines in asthma Clin Immunol 2012 143 222 235 22534317 
+9 
+            Cayrol C  
+            Girard J-P  
+           IL-33: an alarmin cytokine with crucial roles in innate immunity, inflammation and allergy Curr Opin Immunol 2014 31 31 37 25278425 
+10 
+            Schmitz J  
+            Owyang A  
+            Oldham E  
+            Song Y  
+            Murphy E  
+            McClanahan TK  
+             
+           IL-33, an interleukin-1-like cytokine that signals via the IL-1 receptor-related protein ST2 and induces T helper type 2-associated cytokines Immunity 2005 23 479 490 16286016 
+11 
+            Tordesillas L  
+            Goswami R  
+            Benedé S  
+            Grishina G  
+            Dunkin D  
+            Järvinen KM  
+             
+           Skin exposure promotes a Th2-dependent sensitization to peanut allergens J Clin Invest 2014 124 0-0 
+12 
+            Komai-Koma M  
+            Brombacher F  
+            Pushparaj PN  
+            Arendse B  
+            McSharry C  
+            Alexander J  
+             
+           Interleukin-33 amplifies IgE synthesis and triggers mast cell degranulation via interleukin-4 in naïve mice Allergy 2012 67 1118 1126 22702477 
+13 
+            Chu DK  
+            Llop-Guevara A  
+            Walker TD  
+            Flader K  
+            Goncharova S  
+            Boudreau JE  
+             
+           IL-33, but not thymic stromal lymphopoietin or IL-25, is central to mite and peanut allergic sensitization J Allergy Clin Immunol 2013 131 187.e1–8 200.e1–8 23006545 
+14 
+            Savinko T  
+            Karisola P  
+            Lehtimäki S  
+            Lappeteläinen A-M  
+            Haapakoski R  
+            Wolff H  
+             
+           ST2 regulates allergic airway inflammation and T-cell polarization in epicutaneously sensitized mice J Invest Dermatol 2013 133 2522 2529 23633023 
+15 
+            Imai Y  
+            Yasuda K  
+            Sakaguchi Y  
+            Haneda T  
+            Mizutani H  
+            Yoshimoto T  
+             
+           Skin-specific expression of IL-33 activates group 2 innate lymphoid cells and elicits atopic dermatitis-like inflammation in mice Proc Natl Acad Sci USA 2013 110 13921 13926 23918359 
+16 
+            Savinko T  
+            Matikainen S  
+            Saarialho-Kere U  
+            Lehto M  
+            Wang G  
+            ki SLA  
+             
+           IL-33 and ST2 in Atopic Dermatitis: Expression Profiles and Modulation by Triggering Factors J Invest Dermatol 2012 132 1392 1400 22277940 
+17 
+            Tamagawa-Mineoka R  
+            Okuzawa Y  
+            Masuda K  
+            Katoh N  
+           Increased serum levels of interleukin 33 in patients with atopic dermatitis J Am Acad Dermatol 2014 70 882 888 24569114 
+18 
+            Hirota T  
+            Takahashi A  
+            Kubo M  
+            Tsunoda T  
+            Tomita K  
+            Sakashita M  
+             
+           Genome-wide association study identifies eight new susceptibility loci for atopic dermatitis in the Japanese population Nat Genet 2012 44 1222 1226 23042114 
+19 
+            Molofsky AB  
+            Savage AK  
+            Locksley RM  
+           Interleukin-33 in Tissue Homeostasis, Injury, and Inflammation Immunity 2015 42 1005 1019 26084021 
+20 
+            Hogan SP  
+            Wang YH  
+            Strait R  
+            Finkelman FD  
+           Food-induced anaphylaxis: mast cells as modulators of anaphylactic severity Semin Immunopathol 2012 34 643 653 22926692 
+21 
+            Vaali K  
+            Puumalainen TJ  
+            Lehto M  
+            Wolff H  
+            Rita H  
+            Alenius H  
+             
+           Murine model of food allergy after epicutaneous sensitization: role of mucosal mast cell protease-1 Scand J Gastroenterol 2006 41 1405 1413 17101571 
+22 
+            Iikura M  
+            Suto H  
+            Kajiwara N  
+            Oboki K  
+            Ohno T  
+            Okayama Y  
+             
+           IL-33 can promote survival, adhesion and cytokine production in human mast cells Lab Invest 2007 87 971 978 17700564 
+23 
+            Moulin D  
+            Donzé O  
+            Talabot-Ayer D  
+            Mézin F  
+            Palmer G  
+            Gabay C  
+           Interleukin (IL)–33 induces the release of pro-inflammatory mediators by mast cells Cytokine 2007 40 216 225 18023358 
+24 
+            Enoksson M  
+            Lyberg K  
+            Möller-Westerberg C  
+            Fallon PG  
+            Nilsson G  
+            Lunderius-Andersson C  
+           Mast cells as sensors of cell injury through IL-33 recognition J Immunol 2011 186 2523 2528 21239713 
+25 
+            Jung M-Y  
+            Smrž D  
+            Desai A  
+            Bandara G  
+            Ito T  
+            Iwaki S  
+             
+           IL-33 induces a hyporesponsive phenotype in human and mouse mast cells J Immunol 2013 190 531 538 23248261 
+26 
+            Haenuki Y  
+            Matsushita K  
+            Futatsugi-Yumikura S  
+            Ishii KJ  
+            Kawagoe T  
+            Imoto Y  
+             
+           A critical role of IL-33 in experimental allergic rhinitis J Allergy Clin Immunol 2012 130 184.e11 194.e11 22460070 
+27 
+            Muto T  
+            Fukuoka A  
+            Kabashima K  
+            Ziegler SF  
+            Nakanishi K  
+            Matsushita K  
+             
+           The role of basophils and proallergic cytokines, TSLP and IL-33, in cutaneously sensitized food allergy International Immunology 2014 26 539 549 24860117 
+28 
+            Spergel JM  
+            Mizoguchi E  
+            Oettgen H  
+            Bhan AK  
+            Geha RS  
+           Roles of TH1 and TH2 cytokines in a murine model of allergic dermatitis J Clin Invest 1999 103 1103 1111 10207161 
+29 
+            Bartnikas LM  
+            Gurish MF  
+            Burton OT  
+            Leisten S  
+            Janssen E  
+            Oettgen HC  
+             
+           Epicutaneous sensitization results in IgE-dependent intestinal mast cell expansion and food-induced anaphylaxis J Allergy Clin Immunol 2013 131 451.e1–6 460.e1–6 23374269 
+30 
+            Townsend MJ  
+            Fallon PG  
+            Matthews DJ  
+            Jolin HE  
+            McKenzie AN  
+           T1/ST2-deficient mice demonstrate the importance of T1/ST2 in developing primary T helper cell type 2 responses J Exp Med 2000 191 1069 1076 10727469 
+31 
+            Becker M  
+            Reuter S  
+            Friedrich P  
+            Doener F  
+            Michel A  
+            Bopp T  
+             
+           Genetic variation determines mast cell functions in experimental asthma J Immunol 2011 186 7225 7231 21572035 
+32 
+            Spergel JM  
+            Mizoguchi E  
+            Brewer JP  
+            Martin TR  
+            Bhan AK  
+            Geha RS  
+           Epicutaneous sensitization with protein antigen induces localized allergic dermatitis and hyperresponsiveness to methacholine after single exposure to aerosolized antigen in mice J Clin Invest 1998 101 1614 1622 9541491 
+33 
+            Kucuk ZY  
+            Strait R  
+            Khodoun MV  
+            Mahler A  
+            Hogan S  
+            Finkelman FD  
+           Induction and suppression of allergic diarrhea and systemic anaphylaxis in a murine model of food allergy J Allergy Clin Immunol 2012 129 1343 1348 22465213 
+34 
+            Jin H  
+            Oyoshi MK  
+            Le Y  
+            Bianchi T  
+            Koduru S  
+            Mathias CB  
+             
+           IL-21R is essential for epicutaneous sensitization and allergic skin inflammation in humans and mice J Clin Invest 2009 119 47 60 19075398 
+35 
+            Wurbel M-A  
+            Le Bras S  
+            Ibourk M  
+            Pardo M  
+            McIntire MG  
+            Coco D  
+             
+           CCL25/CCR9 interactions are not essential for colitis development but are required for innate immune cell protection from chronic experimental murine colitis Inflamm Bowel Dis 2014 20 1165 1176 24874458 
+36 
+            Oyoshi MK  
+            He R  
+            Kumar L  
+            Yoon J  
+            Geha RS  
+           Cellular and molecular mechanisms in atopic dermatitis Adv Immunol 2009 102 135 226 19477321 
+37 
+            Chen C-Y  
+            Lee J-B  
+            Liu B  
+            Ohta S  
+            Wang P-Y  
+            Kartashov AV  
+             
+           Induction of Interleukin-9-Producing Mucosal Mast Cells Promotes Susceptibility to IgE-Mediated Experimental Food Allergy Immunity 2015 1 16 
+38 
+            Fallon PG  
+            Emson CL  
+            Smith P  
+            McKenzie AN  
+           IL-13 overexpression predisposes to anaphylaxis following antigen sensitization J Immunol 2001 166 2712 2716 11160336 
+39 
+            Strait RT  
+            Morris SC  
+            Smiley K  
+            Urban JF  
+            Finkelman FD  
+           IL-4 exacerbates anaphylaxis J Immunol 2003 170 3835 3842 12646651 
+40 
+            Ahrens R  
+            Osterfeld H  
+            Wu D  
+            Chen CY  
+            Arumugam M  
+            Groschwitz K  
+             
+           Intestinal Mast Cell Levels Control Severity of Oral Antigen-Induced Anaphylaxis in Mice Am J Pathol 2012 180 1535 1546 22322300 
+41 
+            Jönsson F  
+            Mancardi DA  
+            Kita Y  
+            Karasuyama H  
+            Iannascoli B  
+            Van Rooijen N  
+             
+           Mouse and human neutrophils induce anaphylaxis J Clin Invest 2011 121 1484 1496 21436586 
+42 
+            Katz HR  
+            Austen KF  
+           Mast cell deficiency, a game of kit and mouse Immunity 2011 35 668 670 22118523 
+43 
+            Xing W  
+            Austen KF  
+            Gurish MF  
+            Jones TG  
+           Protease phenotype of constitutive connective tissue and of induced mucosal mast cells in mice is regulated by the tissue Proc Natl Acad Sci USA 2011 108 14210 14215 21825171 
+44 
+            Grimbaldeston MA  
+            Chen C-C  
+            Piliponsky AM  
+            Tsai M  
+            Tam S-Y  
+            Galli SJ  
+           Mast cell-deficient W-sash c-kit mutant Kit W-sh/W-sh mice as a model for investigating mast cell biology in vivo Am J Pathol 2005 167 835 848 16127161 
+45 
+            Finkelman FD  
+           Anaphylaxis: lessons from mouse models J Allergy Clin Immunol 2007 120 506 515 quiz516–7 17765751 
+46 
+            Sugarman JL  
+            Fluhr JW  
+            Fowler AJ  
+            Bruckner T  
+            Diepgen TL  
+            Williams ML  
+           The objective severity assessment of atopic dermatitis score: an objective measure using permeability barrier function and stratum corneum hydration with computer-assisted estimates for extent of disease Arch Dermatol 2003 139 1417 1422 14623701 
+47 
+            Morita H  
+            Arae K  
+            Unno H  
+            Toyama S  
+            Motomura K  
+            Matsuda A  
+             
+           IL-25 and IL-33 Contribute to Development of Eosinophilic Airway Inflammation in Epicutaneously Antigen-Sensitized Mice PLoS ONE 2015 10 e0134226 26230091 
+48 
+            He R  
+            Oyoshi MK  
+            Garibyan L  
+            Kumar L  
+            Ziegler SF  
+            Geha RS  
+           TSLP acts on infiltrating effector T cells to drive allergic skin inflammation Proc Natl Acad Sci USA 2008 105 11875 11880 18711124 
+49 
+            Leyva-Castillo JM  
+            Hener P  
+            Jiang H  
+            Li M  
+           TSLP produced by keratinocytes promotes allergen sensitization through skin and thereby triggers atopic march in mice J Invest Dermatol 2013 133 154 163 22832486 
+50 
+            Lefrançais E  
+            Duval A  
+            Mirey E  
+            Roga S  
+            Espinosa E  
+            Cayrol C  
+             
+           Central domain of IL-33 is cleaved by mast cell proteases for potent activation of group-2 innate lymphoid cells Proc Natl Acad Sci USA 2014 201410700 
+51 
+            Okayama Y  
+            Tkaczyk C  
+            Metcalfe DD  
+            Gilfillan AM  
+           Comparison of Fc epsilon RI- and Fc gamma RI-mediated degranulation and TNF-alpha synthesis in human mast cells: selective utilization of phosphatidylinositol-3-kinase for Fc gamma RI-induced degranulation Eur J Immunol 2003 33 1450 1459 12731072 
+

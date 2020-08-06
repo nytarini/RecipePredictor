@@ -1,0 +1,311 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10160382241113J Mob Technol MedJ Mob Technol MedJournal of mobile technology in medicine1839-780825419244423954410.7309/jmtm.2.2.3NIHMS598336ArticleVIRTUAL AVATARS, GAMING, AND SOCIAL MEDIA: DESIGNING A MOBILE HEALTH APP TO HELP CHILDREN CHOOSE HEALTHIER FOOD OPTIONS Hswen Yulin MPH1Murti Vaidhy 2Vormawor Adenugbe A. 3Bhattacharjee Robbie 3Naslund John A. MPH41 Center on Media and Child Health, Boston Children’s Hospital, Boston, MA, USA2 Department of Computer Science, Princeton University, Princeton, NJ, USA3 Department of Computer Science, Dartmouth College, Hanover, NH, USA4 The Dartmouth Institute for Health Policy and Clinical Practice, Lebanon, NH, USACorresponding Author: yulin.hswen@childrens.harvard.edu7 6 2014 2013 21 11 2014 2 2 8 14 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+Rapid growth in Smartphone use among children affords potential opportunities to target health behaviors such as dietary habits; however, few mobile health applications are specifically designed with these individuals in mind. This brief report describes our step-by-step approach towards developing a mobile health application for targeting nutrition behaviors among children.
+
+Methods
+Descriptions of the 10 most popular paid and 10 most popular free Smartphone applications available on the Apple iTunes store for ages 4 and up as of March 2012 were qualitatively analyzed. The relevance of key characteristics found in these applications was then further explored for their potential to improve dietary behaviours amongst children, and a mobile application was developed.
+
+Results
+Three prominent characteristics of the most popular applications emerged: 1) virtual avatars or characters (observed in 50% of the applications); 2) gaming (observed in 75% of the applications); and 3) social media (observed in 45% of the applications). These features were then incorporated into the design of a mobile health application called Avafeed, which uses a virtual avatar and gaming to help make choosing healthier food options easier among children. The application was successfully released onto the Apple iTunes Store in September 2012.
+
+Conclusions
+In this unconventional approach, evidence-based research was combined with information procured from a qualitative review of popular applications available on the Apple iTunes Store in order to design a potentially relevant and popular mobile health application for use among children.
+
+
+   Background
+Childhood obesity has increased to epidemic levels in recent decades. In the United States, approximately one third of children under the age of 19 are overweight or obese.1 With evidence highlighting the significant short and long-term health risks associated with childhood obesity1,2, there is an immediate need to identify new strategies for targeting nutrition behaviors among children. The unprecedented growth in Smartphone use and availability yields exciting opportunities to support efforts to prevent and potentially reverse childhood obesity.
+
+This is especially relevant as children represent one of the fastest growing segments of the population using these devices.3 By mid-2012, 58% of American teens owned Smartphones, up from 36% in 20114, and 12% higher than the national average.5 Over half (52%) of children ages 8 and under have access to Smartphones or similar mobile devices (e.g., iPod Touch, iPad, or tablet computers) in their homes, and 10% of 0- to 1-year-olds, 39% of 2- to 4-year-olds, and 52% of 5- to 8-year-olds use these devices.6
+
+The potential for Smartphone applications (apps) to improve children’s nutrition behaviors is promising, given existing evidence that mobile phone-based interventions can influence health-related behaviors.7,8 However, these emerging technologies are not without limitations. For example, several health apps evaluated in research are not always readily available to consumers9, and few health apps are specifically designed to promote health behavior changes among children. An important challenge for health apps is their inability to sustain use over time, with consumer feedback citing that many health-related apps are cumbersome and uninteresting to use, all of which contributes to their dramatic underuse when compared to popular mainstream apps.10 These considerations are important when determining how best to utilize mobile health technologies towards addressing childhood obesity.
+
+This brief report describes efforts to bridge the gap between the potential of health apps towards effectuating positive health behavior change and the serious impediments to their widespread adoptability and use. This work was guided by two objectives: 1) to determine what characteristics contribute to the success and widespread adoption of popular mainstream apps available on the Apple iTunes Store and to consider how these features can be applied to address health behaviors; and 2) to then incorporate these characteristics into the development and implementation of a novel health app designed to target nutrition behaviors among children.
+
+Methods and Results
+Objective 1: Reviewing Popular Smartphone Apps
+To identify characteristics of popular Smartphone apps, Google was searched in March 2012 using the terms: “most popular smartphone apps”, “most downloaded apps” and “top apps”. This search generated reviewer sites, blogs and popular sources with testimonials, consumer ratings and rankings of popular paid apps (cost money to download) and popular free apps (free to download). The most popular apps were defined as having the most downloads. The search was limited to apps available only on iTunes for Apple’s iOS operating system (includes iPod, iPad, and iPhone devices).
+
+From mobile app reviewer websites, the 10 most popular paid apps and 10 most popular free apps were selected.11 These rankings were considered accurate because Apple Inc. posted them onto their website and onto iTunes.11 The search was further refined by selecting only apps that were suitable for children, determined by an iTunes rating for ages 4 and up (contain no objectionable material). This age rating is set by iTunes, and ranges from 4 and up to 17 and up. Generic apps (such as Google Search or Google Maps) or apps considered unlikely to be used by children (such as The Weather Channel or shopping apps such as Groupon or Amazon) were also excluded. The top apps identified are presented in Table 1.
+
+The descriptions of these popular apps posted on the Apple iTunes Store were reviewed to identify similarities in their content, design, and function. A qualitative analytic approach was adopted, where the descriptions of the popular apps were coded for common characteristics or themes.12 This process was informed by the principles of grounded theory whereby traits and characteristics were listed for each app, but only those that emerged on repeated occasions across multiple app descriptions were considered significant.13 Two authors (Y.H. &amp; J.A.N.) independently coded the descriptions for each app, and then compared their code lists. Similar codes were combined into common app characteristics, and any differences were discussed until consensus was met. This systematic process served to limit bias and assure that only characteristics of the apps that stood up to repeated scrutiny would be reported as relevant.13 This strategy has been applied in similarly designed research evaluating products from an online format.14
+
+Three characteristics of these popular apps emerged on repeated occasions: 1) virtual avatars or characters (observed in 50% of the applications); 2) gaming (observed in 75% of the applications); and 3) social media (observed in 45% of the applications) (see Table 1). The scientific literature was then searched pertaining to each characteristic to explore ways to integrate them into a mobile health app designed to promote positive nutrition behaviors among children.
+
+1) Virtual Avatars or Characters
+Virtual avatars or characters have been used in clinical research to stimulate behavior change in lifestyle habits such as physical activity and nutritional consumption.15–17 For example, children who received either positive or negative feedback from a mobile Tamagotchi-style virtual pet in response to photos of their breakfast were twice as likely to eat breakfast when compared to children without a pet, or to those with a pet that only gave positive feedback.18 In the game “Fish’n’Steps”, players’ daily step count was linked to the growth and activity of an animated virtual pet fish.19 Caring for this virtual pet fish raised participants’ motivation to increase their physical activity levels and attitudes towards participating in physical activity.19 These findings support the potential benefits of using virtual avatars or characters to promote positive health behavior change.
+
+2) Gaming
+Gaming is one of the most popular online activities for children, particularly among ages 6 to 1120, and a systematic review of 34 studies supports its use as a potential strategy to combat childhood obesity.21 For example, trials have shown that when children play games targeting higher consumption of nutritious foods they consume significantly more servings of fruits and vegetables when compared to children who do not play these games22,23, or children who visit standard knowledge-based or instructional websites.24–28 Pemprek and Cavert (2009) found that the use of rewards is an important element of gaming that can modify preferences and behaviors among children, with games that award points for capturing nutritious snacks and deduct points for capturing less nutritious snacks emerging as most effective.29 These findings suggest that by providing nutritional information in a game-based format with a reward system, there is the potential to improve the food preferences among children.
+
+3) Social Media
+Social media is one of the most popular online activities among children30, with upwards of 90% of US teens having used social networking sites, and over 50% using these sites daily.31,32 Despite limited data regarding Internet users under the age of 18, reports highlight that the median age of Facebook’s one billion users is 22 years33, and over 30% of young Internet users (ages 18–24 years) use Twitter.34 Social media also penetrates groups regardless of education level, race/ethnicity or access to healthcare35, and its use is highly correlated with Smartphone ownership.34 Further, 31% of online teens retrieve health, dieting or physical fitness information from the Internet, which can include social media sites and community forums.31 Social media not only forms a central part of the younger generation’s social environment, but also represents a unique avenue through which to distribute health-related content and potentially address nutrition behaviors among children.
+
+Objective 2: Developing a Mobile Health App
+The characteristics of virtual avatars or characters, gaming, and social media were combined into the development of an app with the potential to captivate young audiences and influence nutrition behaviors. Development took place from April to September 2012 in 5 steps: 1) Concept; 2) Design; 3) Content; 4) Computer Animation; and 5) Computer Coding. Across each step, the health app progressed from an idea and sketches on paper, to a functioning and downloadable app intended for children ages 4 to 10 and available for Apple devices on the iTunes Store.
+
+The final product is called Avafeed: a mobile health app with a virtual animal avatar that responds directly to users’ food choices to help make choosing healthier food options easier (see Figure 1). An important strength of using a virtual animal avatar is that it does not exclude anyone on the basis of race or ethnicity, and thereby appeals to a larger user-base. Users choose what Avafeed eats, where healthier choices make the avatar lose weight and become more physically active, while unhealthier choices make the avatar gain weight and move more slowly. Through immediate feedback from the avatar, users are prompted to make healthier food choices and learn about what items are healthier than others.
+
+Gaming was integrated into the app where users collect coins for making correct food choices, for which they can redeem virtual prizes. As users choose healthier foods, an algorithm in the computer code presents increasingly difficult choices over time. The correct choice is based on calorie content, allowing users to learn that some foods advertised as healthy, such as Goldfish Crackers36 or fruit juice37, may actually be much unhealthier than other choices. The avatar’s reactions and animations in response to users’ food choices combined with rewards for correct choices are designed to make the app fun and engaging, and encourage sustained use.
+
+To include social media functions within Avafeed, users are able to connect with others through the app interface and share their progress using popular social networking sites. Unlike many existing health apps, Avafeed does not require users to enter personally identifying information, which is important for young participants, as there are no risks to confidentiality. Implementation was the final step, with Avafeed’s successful release to the Apple iTunes Store in September 2012 (https://itunes.apple.com/app/avafeed/id556744693?mt=8). Presently, Avafeed is accessible to over 575 million iTunes users and is available to download free of charge in 155 countries. This method of implementation is low-cost and highly scalable, making it possible to reach large numbers of individuals quickly and effectively.
+
+Discussion
+This brief report presents a unique approach to mobile health app development for targeting childhood obesity. The process was rapid, progressing from research to implemented product in 7 months (March–September 2012), and involved identifying what the target population would be likely to adopt and use by way of their likes, then determining how to apply these characteristics to health promotion, and finally incorporating this research into the design and implementation of a mobile health app. This approach recognizes the needs and interests of the target population before determining its scientific justification, and parallels recent trends in technology development that focus on usability as opposed to operational reliability or efficiency.38 Comparable methods have proven successful in business, where consumer feedback and perspectives oftentimes drive the development and popularity of a product, as opposed to its quality or utility.39
+
+With a multitude of health apps available on iTunes, Avafeed may have greater appeal among children by incorporating popular features such as virtual avatars, gaming, and direct links to social media outlets. The app is designed to make choosing healthier food options easier and can be accessed at any place or time throughout the day, potentially allowing small frequent bursts of nutritional information necessary to provoke subtle behavior changes that may lead to gradual long-term health benefits. For example, if using Avafeed could encourage an individual to make one healthier food choice each day, thereby cutting out 100 calories, it could translate to upwards of 10 pounds over an entire year. Evidence shows that even modest 3–5% reductions in body weight can dramatically reduce risks for obesity-related chronic health conditions40, which is particularly important in the context of childhood obesity.
+
+Given the exploratory nature of this project, there are limitations that warrant consideration. Firstly, we focused our review on popular apps available only on the Apple iTunes Store. Even though many popular apps are available across various Smartphone platforms, the characteristics of the most popular iTunes apps identified in this project may not be generalizable to these different platforms. Our team is currently planning the next steps towards developing Avafeed for the Android operating system, which will extend our app’s reach among Smartphone users. Additionally, while this project focused on the development of Avafeed, future efforts should be aimed at the evaluation and validation of this mobile health app. For example, the popularity of Avafeed could be assessed by examining user data, download reports, or consumer ratings posted to the Apple iTunes Store. Also, by observing a group of children using Avafeed and then conducting follow up interviews or focus groups, it may be possible to learn about their experiences using the app, gain insight into their patterns of use, and better understand what aspects of Avafeed worked well and what needs to be changed in order to improve the app’s overall appeal.
+
+Further, a clinical trial involving a cohort of children instructed to use the Avafeed app for a period of time would be valuable towards determining whether this app that combines avatars, gaming and social media can successfully promote healthier food choices within this demographic. Such a trial could evaluate children’s perceptions about food choices and overall food consumption based on self-report or parent reporting before and after using the Avafeed app, and then compare these findings to those from a cohort of children not using the Avafeed app. With an increasing number of children have pre-existing access to a range of Apple devices (i.e. iPhones, iPads or iPods), piloting the Avafeed app in this group could be accomplished on a modest budget.
+
+Conclusion
+With childhood obesity looming before public health officials and researchers alike, an immediate shift in practice and the adoption of novel consumer-first approaches in the planning and design of mobile health interventions, such as those presented in this report, may be necessary in tackling this immensely complex public health concern.
+
+Disclosures: None for any author.
+
+Figure 1 Overview of the Avafeed mobile health app interface
+
+Table 1 Characteristics of the top paid and top free apps for ages 4 and up available on the Apple iTunes Store
+
+Top iTunes Apps	Cost	Star
+Rating	Number of
+Ratings	Virtual Avatars/
+Characters	Gaming	Social
+Media	
+
+              Paid Apps
+            	
+  1	Angry Birds	$0.99	4.5	818,589	✓	✓		
+  2	Fruit Ninja	$0.99	4.5	606,959	✓	✓	✓	
+  3	Doodle Jump	$0.99	4.5	386,259	✓	✓	✓	
+  4	Cut the Rope	$0.99	5	254,590	✓	✓		
+  5	Angry Birds Seasons	$0.99	4.5	219,236	✓	✓		
+  6	Words with Friends	$2.99	4.5	479,075		✓	✓	
+  7	Tiny Wings	$0.99	4.5	203,008	✓	✓		
+  8	Angry Birds Rio	$0.99	4.5	148,358	✓	✓		
+  9	Camera+	$0.99	4	26,215			✓	
+  10	The Moron Test	$0.99	4	83,023		✓		
+
+              Free Apps
+            	
+  1	Facebook	_	4	1,968,469			✓	
+  2	Words With Friends Free	_	4	1,156,571		✓	✓	
+  3	Skype	_	3.5	349,074			✓	
+  4	Angry Birds Free	_	4	367,414	✓	✓		
+  5	Paper Toss	_	3.5	411,668		✓		
+  6	Twitter	_	3.5	187,108			✓	
+  7	Bump	_	3	321,294			✓	
+  8	Pac Man Lite	_	3	502,114	✓	✓		
+  9	Unblock Me	_	3.5	292,220		✓		
+  10	Temple Run	_	4.5	1,553,028	✓	✓		
+
+   References
+1 
+            Ogden CL  
+            Carroll MD  
+            Kit BK  
+            Flegal KM  
+           Prevalence of obesity and trends in body mass index among US children and adolescents, 1999–2010 JAMA 2012 307 5 483 490 22253364 
+2 
+            Ebbeling CB  
+            Pawlak DB  
+            Ludwig DS  
+           Childhood obesity: public-health crisis, common sense cure The Lancet 2002 360 9331 473 482 
+3 
+            Lenhart A  
+           Pew Internet: Teens, Smartphones &amp; Texting 2012 3 19 cited 2012 Aug 14 Available from: http://pewinternet.org/Reports/2012/Teens-and-smartphones/Cell-phone-ownership/Smartphones.aspx . 
+4 
+            Nielsen  
+           Young adults and teens lead growth among smartphone owners 2012 9 10 cited 2012 October 15 Available from: http://blog.nielsen.com/nielsenwire/online_mobile/young-adults-and-teens-lead-growth-among-smartphone-owners/ . 
+5 
+            Smith A  
+           Nearly half of American adults are smartphone owners 2012 3 1 September 20, 2012 Available from: http://www.pewinternet.org/Reports/2012/Smartphone-Update-2012/Findings.aspx . 
+6 
+            Rideout V  
+           Zero to eight: children’s media use in America 2011 10 25 cited 2013 January 10 Available from: http://www.commonsensemedia.org/about-us/news/press-releases/common-sense-media-research-documents-media-use-among-infants-toddlers- . 
+7 
+            Patrick K  
+            Raab F  
+            Adams MA  
+            Dillon L  
+            Zabinski M  
+            Rock CL  
+             
+           A text message-based intervention for weight loss: randomized controlled trial Journal of Medical Internet Research 2009 11 1 e1 19141433 
+8 
+            Morak J  
+            Schindler K  
+            Goerzer E  
+            Kastner P  
+            Toplak H  
+            Ludvik B  
+             
+           A pilot study of mobile phone-based therapy for obese patients Journal of Telemedicine and Telecare 2008 14 3 147 149 18430285 
+9 
+            Tsai CC  
+            Lee G  
+            Raab F  
+            Norman GJ  
+            Sohn T  
+            Griswold WG  
+             
+           Usability and feasibility of PmEB: a mobile phone application for monitoring real time caloric balance Mobile networks and applications 2007 12 2 173 184 
+10 
+            Melnick M  
+           In the candy store of iPhone apps, users treat health apps like broccoli. Time: Health and Family 2010 10 21 
+11 
+            Viticci F  
+           Apple reveals new “all-time top apps” following 25 billion downloads 2012 3 3 cited 2012 April 15 Available from: http://www.macstories.net/news/apple-reveals-new-all-time-top-apps-following-25-billion-downloads/ . 
+12 
+            Charmaz K  
+           Constructing grounded theory: a practical guide through qualitative analysis 2006 Sage Publications Limited 
+13 
+            Corbin JM  
+            Strauss A  
+           Grounded theory research: procedures, canons, and evaluative criteria Qualitative Sociology 1990 13 1 3 21 
+14 
+            Mudambi SM  
+            Schuff D  
+           What makes a helpful online review? a study of customer reviews on Amazon.com  MIS Quarterly 2010 34 1 185 200 
+15 
+            Fox J  
+            Bailenson J  
+            Binney J  
+           Virtual experiences, physical behaviors: The effect of presence on imitation of an eating avatar Presence: Teleoperators and Virtual Environments 2009 18 4 294 303 
+16 
+            Chen ZH  
+            Liao C  
+            Chien TC  
+            Chan TW  
+           Animal companions: fostering children’s effort-making by nurturing virtual pets British Journal of Educational Technology 2011 42 1 166 180 
+17 
+            Fox J  
+            Bailenson JN  
+           Virtual self-modeling: The effects of vicarious reinforcement and identification on exercise behaviors Media Psychology 2009 12 1 1 25 
+18 
+            Byrne S  
+            Gay G  
+            Pollack J  
+            Gonzales A  
+            Retelny D  
+            Lee T  
+             
+           Caring for mobile phone-based virtual pets can influence youth eating behaviors Journal of Children and Media 2012 6 1 83 99 
+19 
+            Lin J  
+            Mamykina L  
+            Lindtner S  
+            Delajoux G  
+            Strub H  
+           Fish‘n’Steps: encouraging physical activity with an interactive computer game UbiComp 2006: Ubiquitous Computing 2006 4206 2006 261 278 
+20 
+            Evans N  
+           Got game? an investigation of parents’ understanding of and attitudes toward advergaming 2011 
+21 
+            Guy S  
+            Ratzki-Leewing A  
+            Gwadry-Sridhar F  
+           Moving beyond the stigma: systematic review of video games and their potential to combat obesity International Journal of Hypertension 2011 Article ID 179124 1 13 
+22 
+            Baranowski T  
+            Baranowski J  
+            Cullen KW  
+            Marsh T  
+            Islam N  
+            Zakeri I  
+             
+           Squire’s Quest!: dietary outcome evaluation of a multimedia game American Journal of Preventive Medicine 2003 24 1 52 61 12554024 
+23 
+            Munguba MC  
+            Valdes MTM  
+            da Silva CAB  
+           The application of an occupational therapy nutrition education programme for children who are obese Occupational Therapy International 2008 15 1 56 70 18288771 
+24 
+            Baranowski T  
+            Baranowski JC  
+            Cullen KW  
+            Thompson DI  
+            Nicklas T  
+            Zakeri IF  
+             
+           The fun, food, and fitness project (FFFP): the Baylor GEMS pilot study Ethnicity and Disease 2003 13 Suppl 1 1 30 
+25 
+            Baranowski T  
+            Buday R  
+            Thompson DI  
+            Baranowski J  
+           Playing for real: video games and stories for health-related behavior change American Journal of Preventive Medicine 2008 34 1 74 18083454 
+26 
+            Baranowski T  
+            Frankel L  
+           Let’s get technical! gaming and technology for weight control and health promotion in children Childhood Obesity 2012 8 1 34 37 22799477 
+27 
+            Thompson D  
+            Baranowski T  
+            Buday R  
+            Baranowski J  
+            Thompson V  
+            Jago R  
+             
+           Serious video games for health: how behavioral science guided the development of a serious video game Simulation &amp; Gaming 2010 41 4 587 606 20711522 
+28 
+            Thompson D  
+            Baranowski T  
+            Buday R  
+            Baranowski J  
+            Juliano M  
+            Frazior MK  
+             
+           In pursuit of change: youth response to intensive goal setting embedded in a serious video game Journal of Diabetes Science and Technology 2007 1 6 907 917 19885165 
+29 
+            Pempek TA  
+            Calvert SL  
+           Tipping the balance: use of advergames to promote consumption of nutritious foods and beverages by low-income African American children Archives of Pediatrics and Adolescent Medicine 2009 163 7 633 637 19581546 
+30 
+            O’Keeffe GS  
+            Clarke-Pearson K  
+           The impact of social media on children, adolescents, and families Pediatrics 2011 127 4 800 804 21444588 
+31 
+            Lenhart A  
+            Purcell K  
+            Smith A  
+            Zickuhr K  
+           Social media &amp; mobile Internet use among teens and young adults 2010 Pew Internet &amp; American Life Project 
+32 
+            Boyles S  
+           Social media may help fight childhood obesity 2012 12 4 cited 2013 January 15 Available from: http://children.webmd.com/news/20121204/social-media-child-obesity . 
+33 
+            Grandoni D  
+           Facebook has 1 billion users, Mark Zuckerberg announces in a status update The Huffington Post 2012 10 4 
+34 
+            Smith A  
+            Brenner J  
+           Twitter use 2012 2012 5 31 cited 2012 October 20 Available from: http://pewinternet.org/Reports/2012/Twitter-Use-2012/Findings.aspx . 
+35 
+            Chou WYS  
+            Hunt YM  
+            Beckjord EB  
+            Moser RP  
+            Hesse BW  
+           Social media use in the United States: implications for health communication Journal of Medical Internet Research 2009 11 4 48 
+36 
+            Neuman W  
+           Food makers push back on ads for children 2011 7 14 New York Times 
+37 
+            Wojcicki JM  
+            Heyman MB  
+           Reducing childhood obesity by eliminating 100% fruit juice American Journal of Public Health 2012 102 9 1630 1633 22813423 
+38 
+            Stephanidis C  
+            Savidis A  
+           Universal access in the information society: methods, tools, and interaction technologies Universal Access in the Information Society 2001 1 1 40 55 
+39 
+            Fairbrothers G  
+            Winter T  
+           From idea to success: the Dartmouth Entrepreneurial Network guide for startups 2011 New York McGraw Hill 
+40 
+            Blackburn G  
+           Effect of degree of weight loss on health benefits Obesity research 2012 3 S2 211s 216s 8581779 
+

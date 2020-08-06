@@ -1,0 +1,745 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   95081668761Neurobiol Learn MemNeurobiol Learn MemNeurobiology of learning and memory1074-74271095-956429169849597255410.1016/j.nlm.2017.11.010NIHMS923097ArticleDisconnection of basolateral amygdala and insular cortex disrupts conditioned approach in Pavlovian lever autoshaping Nasser Helen M. aLafferty Danielle S. aLesser Ellen N. aBacharach Sam Z. aCalu Donna J. a
+a Department of Anatomy and Neurobiology, University of Maryland School of Medicine, Baltimore, MDCorresponding Author: Donna J. Calu, Department of Anatomy &amp; Neurobiology, University of Maryland School of Medicine, 20 Penn Street – HSFII Room S263, Baltimore, MD 21201, dcalu@som.umaryland.edu28 11 2017 21 11 2017 1 2018 01 1 2019 147 35 45 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Previously established individual differences in appetitive approach and devaluation sensitivity observed in goal- and sign-trackers may be attributed to differences in the acquisition, modification, or use of associative information in baslolateral amygdala (BLA) pathways. Here, we sought to determine the extent to which communication of associative information between BLA and anterior portions of insular cortex (IC) supports ongoing Pavlovian conditioned approach behaviors in sign- and goal-tracking rats, in the absence of manipulations to outcome value. We hypothesized that the BLA mediates goal-, but not sign-, tracking approach through interactions with the IC, a brain region involved in supporting flexible behavior. We first trained rats in Pavlovian lever autoshaping to determine their sign- or goal-tracking tendency. During alternating test sessions, we gave unilateral intracranial injections of vehicle or a cocktail of gamma-aminobutyric acid (GABA) receptor agonists, baclofen and muscimol, unilaterally into the BLA and contralaterally or ipsilaterally into the IC prior to reinforced lever autoshaping sessions. Consistent with our hypothesis we found that contralateral inactivation of BLA and IC increased the latency to approach the food cup and decreased the number of food cup contacts in goal-trackers. While contralateral inactivation of BLA and IC did not affect the total number of lever contacts in sign-trackers, this manipulation increased the latency to approach the lever. Ipsilateral inactivation of BLA and IC did not impact approach behaviors in Pavlovian lever autoshaping. These findings, contrary to our hypothesis, suggest that communication between BLA and IC maintains a representation of initially learned appetitive associations that commonly support the initiation of Pavlovian conditioned approach behavior regardless of whether it is directed at the cue or the location of reward delivery.
+
+Pavlovan lever autoshapingamygdalainsular cortexdisconnectionsign-trackinggoal-tracking
+   1. Introduction
+During Pavlovian lever autoshaping, sign-tracking rats preferentially approach and contact the lever, while goal-tracking rats preferentially approach and contact the food cup (E and H 1974, Boakes 1977, Flagel, Watson et al. 2007). Two recent studies have provided evidence that goal-trackers rely on representations of the current value of the outcome to promote flexible behavior, whereas sign-trackers inflexibly respond based on initially learned appetitive associations (Morrison, Bamkole et al. 2015, Nasser, Chen et al. 2015). Individual differences in behavioral flexibility of sign- and goal-trackers may be rooted in the recruitment of dissociable basolateral amygdala (BLA) pathways known to mediate behavior that relies on stimulusresponse versus stimulus-outcome associations. The BLA has reciprocal interactions with more specialized areas including insular cortex (IC) and orbitofrontal cortex (OFC) (Krettek and Price 1977, Aggleton, Burton et al. 1980, Sripanidkulchai, Sripanidkulchai et al. 1984, McDonald 1991, Morecraft, Geula et al. 1992, Shinonaga, Takada et al. 1994, McDonald 1998, Miranda and McGaugh 2004, Parkes and Balleine 2013). The IC and OFC are two neighboring regions which are critical for representing gustatory associations and the current motivational value of the outcome that is necessary for flexible, stimulus-outcome driven learning and goal-directed action (Schoenbaum, Chiba et al. 1998, Schoenbaum, Chiba et al. 1999, Baxter, Parker et al. 2000, Pickens, Saddoris et al. 2003, Schoenbaum, Setlow et al. 2003, Miranda and McGaugh 2004, Ostlund and Balleine 2007, Stalnaker, Franz et al. 2007, Grossman, Fontanini et al. 2008, Rudebeck and Murray 2008, Johnson, Gallagher et al. 2009, Piette, Baez-Santiago et al. 2012, Nasser and McNally 2013, Parkes and Balleine 2013, Rudebeck, Mitz et al. 2013, Zeeb and Winstanley 2013, Fiuzat, Rhodes et al. 2017). Here, we sought to determine the extent to which BLA-IC communication supports ongoing Pavlovian approach behaviors in sign- and goal-tracking rats, in the absence of changes to outcome value.
+
+Amygdala lesion and inactivation studies examining the neurobiological underpinnings of incentive learning processes (for review see: Wassum and Izquierdo, 2015) provide insights into candidate brain circuits that may mediate such individual differences in flexible behavior. We hypothesize that sign- and goal-tracking differences, particularly with relevance for behavioral flexibility, may be rooted in the recruitment of different BLA pathways known to mediate behavior that relies on stimulus-response associations (Hatfield, Han et al. 1996, Setlow, Gallagher et al. 2002, Setlow, Holland et al. 2002) versus stimulus-outcome associations (Hatfield, Han et al. 1996, Schoenbaum, Chiba et al., Schoenbaum, Chiba et al. 1999, Parkinson, Robbins et al. 2000, Pickens, Saddoris et al. 2003, Schoenbaum, Setlow et al. 2003, Stalnaker, Franz et al. 2007, Johnson, Gallagher et al. 2009, Lichtenberg, Pennington et al. 2017). Higher order associative processes including Pavlovian outcome devaluation and second-order conditioning commonly depend on an intact BLA during acquisition of appetitive associative learning. Outcome devaluation studies examining the involvement of BLA in the formation of stimulus-outcome associations show that BLA is not critical for initially acquiring conditioned responding to reinforced cues, but instead for maintaining or adjusting the acquired cue value to support new learning when outcome value changes (Hatfield, Han et al. 1996, Parkinson, Robbins et al. 2000, Pickens, Saddoris et al. 2003, Johnson, Gallagher et al. 2009). Inactivation, lesion and recording studies demonstrate that BLA encodes and IC/OFC retrieves the current incentive value of the outcome to promote appropriate goal-directed and flexible behaviors (Pickens, Saddoris et al. 2003, Schoenbaum, Setlow et al. 2003, Parkes and Balleine 2013, Rudebeck, Mitz et al. 2013). In Pavlovian outcome devaluation an acquired appetitive cue-outcome association is modified by degrading outcome value, which is then used to flexibly reduce conditioned responding to the previously appetitive cue. The established differences in devaluation sensitivity previously observed in goal- and sign-trackers may be attributed to differences in the acquisition, modification or use of associative information in BLA pathways (Morrison, Bamkole et al. 2015, Nasser, Chen et al. 2015). To begin addressing the neurobiological mechanisms mediating tracking-related differences in incentive learning we aimed to determine the extent to which communication of associative information between BLA and IC drives conditioned approach in sign- and goal-tracking rats. We predicted that only in goal-trackers would BLA-IC disconnection disrupt the representation of the initially appetitive association that supports ongoing food-cup approach. Importantly, our speculation on associative representations is based indirectly on previous studies in which behavioral and neurobiological manipulations are made in contexts where S-O and S-R associations are directly probed.
+
+To this end, second-order conditioning studies examining the role of BLA in the formation of stimulus-response associations demonstrate that the BLA is necessary for the initial acquisition of the incentive value of the conditioned stimulus (Hatfield, Han et al. 1996, Setlow, Gallagher et al. 2002). Further, BLA interactions with nucleus accumbens are necessary for using that acquired motivational information to support conditioning to novel cues (Setlow, Holland et al. 2002). Recent work evaluating the role of BLA in supporting conditioned responding during Pavlovian lever autoshaping (Chang, Wheeler et al. 2012), the procedure used to identify sign- and goal- tracking rats (Meyer, Lovic et al. 2012), demonstrate that the BLA is also necessary for invigorating lever-directed conditioned responding based on previously acquired appetitive associations. Together, studies employing various Pavlovian conditioning procedures demonstrate that BLA is commonly and critically engaged early in learning to drive incentive learning processes. Via its interactions with downstream targets, BLA maintains both stimulus-outcome and stimulus-response associations needed for driving flexibility after manipulations to outcome value and for invigorating conditioned responding, respectively. The present study aims to determine the role for BLA communication with IC for mediating individual differences in appetitive approach that may underlie tracking-related individual differences in higher order processes (Nasser, Chen et al. 2015).
+
+Here we test our hypothesis that BLA mediates approach in goal-trackers through interactions with insular cortex, a brain region involved in supporting flexible behavior driven by either stimulus-outcome or action-outcome associations (Pickens, Saddoris et al. 2003, Schoenbaum, Setlow et al. 2003, Saddoris, Gallagher et al. 2005, Ostlund and Balleine 2007, Parkes and Balleine 2013). We use an anatomical asymmetrical disconnection procedure in which we reversibly inactivate the BLA in one hemisphere and IC in the contralateral hemisphere using gamma-aminobutyric acid (GABA) receptor agonists GABA-A + GABA-B receptor agonists (muscimol + baclofen) during Pavlovian lever autoshaping after sign- and goal-tracking behaviors have been established. Because of the overwhelmingly unilateral projections between BLA and IC (Krettek and Price 1977, Sripanidkulchai, Sripanidkulchai et al. 1984, Parkes and Balleine 2013) contralateral, but not ipsilateral, reversible inactivation of BLA and IC is anticipated to substantially disrupt communication between these two interconnected structures. We include the ipsilateral inactivation groups to verify that effects of BLA and IC inactivation on approach behaviors are due to disrupted communication between these two interconnected structures, and not simply due to unilateral inactivation of these to two brain areas independent of information communicated within the pathways. Notably, the anterior portion of insular cortex we target is often damaged by OFC lesions or recorded from in OFC studies examining associative encoding in rats (Gallagher, McMahan et al. 1999, Pickens, Saddoris et al. 2003, Schoenbaum, Setlow et al. 2003, Saddoris, Gallagher et al. 2005, Ostlund and Balleine 2007, Stalnaker, Franz et al. 2007, Chang 2014).
+
+2. Materials and Methods
+2.1. Subjects and apparatus
+Male Long-Evans rats (Charles River Laboratories, Wilmington, MA; 250–260 g at time of arrival, total n=112 were singly housed and maintained on a 12 h light/dark cycle (lights off at 6:00 PM). All rats had ad libitum access to water and standard laboratory chow before being individually housed before lever autoshaping and surgical procedures. Prior to conditioning and immediately prior to surgical procedures, rats had ad libitum access to Purina rat chow and water. We weighed rats daily and food restricted them to 85% of their baseline ad libitum body weight. Once all rats reached 85% of their baseline body weight they were maintained at 85–90% throughout the behavioral experiments. The rat chow was given after the daily behavioral sessions. All procedures were performed in accordance with the “Guide for the care and use of laboratory animals” (8th edition, 2011, US National Research Council). Experimental protocols were approved by the University of Maryland School of Medicine Institutional Animal Care and Use Committee (IACUC).
+
+After three daily Pavlovian lever autoshaping sessions (see Conditioning in Pavlovian Lever Autoshaping Procedure section) we performed intracranial cannulation surgery on n=83 rats that were sign- or goal-trackers during the third Pavlovian lever autoshaping session. We did not perform surgery on rats with an intermediate phenotype on the third session of Pavlovian lever autoshaping (n=29; excluded from the study; see Lever autoshaping behavioral measures section for Pavlovian Conditioned Approach (PCA) composite score criteria). Rats with either intermediate phenotype on the fourth (post-surgical retraining) session of Pavlovian lever autoshaping (n=16) or with misplaced BLA and/or IC cannula or blocked cannula during intracranial infusion days (n=26) were also excluded. Thus, the number of rats included in the study is n=41.
+
+For both experiments, rats were housed in the animal facility, transferred to the experimental chambers prior to the training sessions, and returned to the facility at the end of the sessions. Behavioral experiments were conducted in individual standard experimental chambers (25 × 27 × 30 cm; Med Associates) that were enclosed in a sound-resistant shell. Each chamber had one red houselight (6 W bulb covered by red lens) located at the top of the wall. The opposite wall was outfitted with a recessed food cup (with photobeam detectors) 2 cm above the floor grid attached to a programed pellet dispenser, which delivered 45 mg food pellets containing 12.7% fat, 66.7% carbohydrate, and 20.6% protein (catalog #1811155; Test Diet 5TUL). The red houselight was illuminated at the start of each training session and was extinguished at the end of each session. One retractable lever was located 6 cm above the floor on either the left or right side of the food cup (counterbalanced between subjects; the lever location did not vary between sessions).
+
+2.2. Conditioning in Pavlovian Lever Autoshaping Procedure
+Fig. 1A shows the experimental timeline. In order to reduce the novelty of the food pellet unconditioned stimulus, we gave rats a single 75-minute magazine training session, during which two 45 mg food pellets were delivered into the food cup on a VI 120 s schedule (60–180 s) for 25 trials. Subsequently, we trained rats in three daily lever autoshaping sessions (approximately 40 minutes per session), which consisted of 25 reinforced lever CS+ presentations occurring on a VI 90 s schedule (60–120 s). CS+ trials consisted of the insertion of a retractable lever (left or right, counterbalanced) for 10 s, after which the lever was retracted and two 45 mg food pellets were delivered to the food cup. After these three training sessions we returned rats to ad libitum food for intracranial cannulation surgeries targeting the BLA and IC, in either contralateral or ipsilateral hemispheres. After recovery from surgery, we reintroduced food restriction for two days. We then habituated rats to the infusion procedure (i.e., inserted injectors shorter than length of cannulae, but gave no infusions) ten minutes prior to fourth day of lever autoshaping as described above. On each of the two consecutive test days, we gave rats intracranial infusions of either the inactivating agent, baclofen/muscimol (B/M) cocktail, or saline vehicle, into the BLA and IC ten minutes prior to performance in a normally reinforced lever autoshaping session (see Drugs and Infusion procedure section). The order of drug and vehicle treatments was counterbalanced. We euthanized and perfused rats approximately one week after testing for verification of cannula placement.
+
+2.3. Lever autoshaping behavioral measures
+The criterion used for behavioral characterization of sign- and goal- tracking phenotype was based on a Pavlovian Conditioned Approach (PCA) analysis (Meyer, Lovic et al. 2012) determined on day 4 of training. The primary measure of tracking phenotype was the composite tracking score that quantifies the difference between lever directed and food cup directed behaviors. The composite PCA score, ranges from −1.0 to +1.0 and is the average of three difference score measures (each ranging from −1.0 to +1.0) including: (1) preference score, (2) latency score and (3) probability score, which were calculated for each lever autoshaping session. The preference score is the number of lever presses during the conditioned stimulus (CS), minus the number of food cup responses during the CS, divided by the sum of these two measures. The latency score is the average latency to make a food cup response during the CS, minus the latency to lever press during the CS, divided by the duration of the CS. The probability score is the probability of lever press minus the probability of food cup response observed across the entire session. Sign-tracking (ST) phenotype is defined by PCA composite scores ranging from +0.5 to +1.0, while goal-tracking (GT) phenotype is defined by PCA composite scores ranging from −0.5 to −1.0, and intermediate phenotype is defined by composite scores ranging from +0.49 to −0.49. Generally speaking, sign-tracking rats prefer and press the lever at a higher frequency, shorter latency, and higher probability than they respond at the food cup. Goal-tracking rats prefer and respond at the food cup more frequently, at a shorter latency, and higher probability than they respond at the lever. Intermediate rats respond at similar levels, latencies and probabilities at the food cup and lever.
+
+2.4. Surgical Procedures
+We anesthetized rats with isoflurane (VetOne, 13985-528-60) and gave a subcutaneous injection of analgesic, carprofen (5mg/kg). We placed rats in the stereotaxic apparatus (model 900; David Kopf Instruments, Tujunga, CA), and prior to the first incision gave rats a subdermal injection of 10mg/mL lidocaine) We confirmed flat skull position by leveling bregma and lambda. We used a hand drill to expose the brain surface and implanted guide cannulae (23G; Plastics One INC., Roanoke, VA) unilaterally into IC (coordinates from bregma: +2.8 mm anteroposterior (AP), ±4.0 mm mediolateral (ML), and −5.0 mm dorso-ventral (DV)) and unilaterally into BLA (coordinates from bregma: −3.0 mm AP, ±5.0 mm ML, and −7.6 mm DV; contralateral or ipsilateral, hemispheres counterbalanced). All coordinates given are distance from bregma according to the rat brain atlas of Paxinos and Watson (2007) and coordinates based on pilot coordinates and consideration of prior studies (Pickens, Saddoris et al. 2003, Schoenbaum, Setlow et al. 2003, Chang 2014). After being lowered into place, we secured the intracranial cannulae to the skull using with jeweler’s screws and dental cement (Dentsply Caulk, Dentsply, York, PA). We sutured rats and removed them from the stereotaxic frame for post-operative care. To keep the intracranial cannulae clear, we inserted dust caps, which were kept in the guide cannula and were only removed during infusion habituation and infusion procedures.
+
+2.5. Drugs and Infusion procedure
+We removed dust caps and inserted 30G injector cannulae extending 1.0 mm beyond the end of the guide cannulae. We connected each injector cannula using polyethylene-50 tubing, which was attached to a 100 µl Hamilton syringe (Hamilton, Reno, NV) that was placed in an infusion pump (CMA syringe pump 4004; Harvard apparatus). Infusions consisted of a combination of GABA-A and GABA-B receptor agonists baclofen/muscimol (B/M). B/M infusions consisted of baclofen hydrochloride (Sigma G013 lot#103M4627V) and muscimol hydrobromide (Sigma G019 lot# 044M4747V), which were dissolved in 0.9% sterile saline at a concentration of baclofen hydrochloride, (1.0 mM, 250.1 µg/mL), and muscimol hydrobromide, (0.1 mM, 19.5 µg/mL). Each infusion was a volume of 0.5 µl and occurred over one minute. The injector cannulae were left in place for another two minutes to allow diffusion of the drugs away from the injector.
+
+2.6. Histology
+We deeply anesthetized rats with isoflurane (~90 s) and perfused transcardially with 100 ml of 0.1 M PBS with 1.25% sodium nitrite, followed by 400 ml of 4% para-formaldehyde in 0.1 M sodium phosphate, pH 7.4. Brains were removed and postfixed in 4% paraformaldehyde for two hours before transfer to 30% sucrose in 0.1 M sodium phosphate, pH 7.4, for 48 h at 4°C. Brains were subsequently frozen in powdered dry ice and stored at −20°C until sectioning. Coronal sections (40 µm) containing IC (approximately +4.80 to +2.04 mm from bregma), and the BLA (approximately −3.48 to −1.44 mm from bregma) were sectioned using a cryostat (Leica Microsystems). We collected every second section through the cannula placement, placed directly onto slides, stained using a cresyl violet and coverslipped with Permount. We verified cannula placements at the microscope using anatomical boundaries defined by Paxinos and Watson (Paxinos and Watson 2007).
+
+2.7. Statistical analyses
+We analyzed lever autoshaping data using the SPSS statistical software (IBM) by mixed-design repeated measures ANOVAs. Significant main effects and interaction effects (p &lt; 0.05) were followed by Bonferroni post-hoc tests. The dependent measures and factors used in the statistical analyses are described in the results section below. Because some of our multifactorial ANOVAs yielded multiple main and interaction effects, we report significant interaction or main effects that are critical for data interpretation.
+
+3. Results
+3.1. Histology
+Fig. 1B shows unilateral (right or left counterbalanced) intracranial cannula placements in IC and BLA for contralateral and ipsilateral groups; circles and triangles denote placements for goal-trackers and sign-trackers, respectively. The final group numbers based on BLA and IC placements and day four PCA scores were, contralateral sign-trackers (n=14), contralateral goal-trackers (n=11), ipsilateral sign-trackers (n=10) and ipsilateral goal-trackers (n=6).
+
+3.2. Pavlovian Lever Autoshaping conditioning
+Prior to surgery, we screened rats for three consecutive lever autoshaping sessions. After recovery from cannulation surgery, we gave a single retraining lever autoshaping session (session 4) to confirm tracking phenotype. We gave rats intracranial BLA and IC B/M or vehicle infusions prior to two lever autoshaping test sessions (sessions 5 and 6). We analyzed the lever autoshaping training data using six separate mixed design repeated measures ANOVAs with between subject factor of Tracking group (GT, ST) and Manipulation (contralateral, ipsilateral disconnection) and within subject factor of Session (1–4). The data for the six analyses, found in Fig. 2, examined contact, latency and probability for both food cup-directed and lever-directed behaviors separated by Tracking group and Manipulation. Importantly, lever autoshaping data prior to test did not differ for any of the six lever autoshaping measures with regard to ipsilateral versus contralateral manipulations, as evidenced by no significant main effects or interactions with the Manipulation factor (F’s(3, 111) &lt;1.22, p’s &gt;0.05). Thus, we collapsed the manipulation groups and in Table 1 we present main effects and interactions for analysis using Tracking group (GT, ST) and Session (1–4) as factors. Importantly, the critical Session × Tracking group interactions were significant for all six measures of conditioned responding (F’s(3,111)&gt;19.32, p’s&lt;0.001).
+
+3.3. Inactivation of BLA and IC during Pavlovian Lever Autoshaping
+3.3.1. Contralateral: Food cup- and lever- directed behaviors
+Based on our a priori tracking phenotype hypothesis that goal-tracking, but not sign-tracking, rats rely on communication from BLA to IC to drive appetitive approach behavior, we first report results for contralateral inactivation groups. We used mixed-design repeated measures ANOVAs to analyze food cup-directed and lever-directed behaviors including contact, latency and probability. We analyzed the lever autoshaping test data using between subject factor of Tracking (GT, ST) and within subject factor of Treatment (Vehicle, Baclofen/Muscimol (B/M)). Contralateral rats’ performance from lever autoshaping test sessions is shown in Fig. 3.
+
+Food cup contact data are shown in Fig. 3A. For the food cup contact measure we found main effects of Tracking (F(1,23)=61.04, p&lt;0.001) and Treatment (F(1,23)=6.10, p&lt;0.05), and a Tracking × Treatment interaction (F(1,23)= 8.91, p&lt;0.01). We performed post-hoc planned comparisons, which revealed that, compared to the vehicle infusion session, contralateral inactivation of BLA and IC reduced food cup contacts in goal-tracking rats (F(1,10)=6.67, p &lt; 0.05). This was further validated by a repeated measures ANOVA on the timecourse of food cup contact behaviors divided into 5 trial blocks (Fig. 3A
+inset) using within subject factor of Treatment (Vehicle, Baclofen/Muscimol (B/M)) and Block (1–5). In goal-tracking rats we found main effect of Treatment (F(1,10)=6.70, p &lt; 0.05) but not of Block nor interaction of the two factors. Thus, contralateral inactivation of BLA and IC reduced food cup contacts during the lever cue in goal trackers.
+
+Lever contact data are shown in Fig. 3B. For lever contact we found a main effect of Tracking (F(1,23)=137.08, p&lt;0.001) but no significant main effect of Treatment (F(1,23)=1.68, p&gt;0.05), and no Tracking × Treatment interaction (F(1,23)=1.45, p&gt;0.05). Repeated measures ANOVA on the timecourse of lever contact behaviors of sign-tracking rats (Fig. 3B
+inset) using factors outlined in timecourse analysis above revealed no main effects but a significant Treatment × Block interaction (F(4,52)=2.66, p&lt;0.05). Analysis of the slope of each Treatment condition revealed there was a significant linear decrease in lever contact after vehicle infusions across the course of blocks (F(1,13)=6.73, p&lt;0.001), while there was no linear change in lever contact after B/M infusions(F(1,13)&lt;1, p&gt;0.05), suggesting that the initial motivation to contact the lever evident at the beginning of the session was reduced by disconnecting communication between BLA and IC.
+
+Food cup latency data are shown in Fig. 3C. For the latency to first contact food cup measure we found a main effect of Tracking (F(1,23)=206.88, p&lt;0.001) but not Treatment (F(1,23)=0.98, p&gt;0.05). Importantly we saw a significant Tracking × Treatment interaction (F(1,23)=5.39, p&lt;0.05). Planned comparisons revealed that, compared to the vehicle infusion session, contralateral inactivation of BLA and IC increased the latency to first contact the food cup in goal-tracking rats (F(1,23)=6.29, p &lt;0.05). A notable limitation of the latency calculation is that a latency of 10 seconds is recorded if rat omits a food cup response on a given trial, thus increased latency could be driven by more omitted food cup responses. Therefore, we examined the effect of disconnecting BLA and IC on probability of food cup contact (Table 2). We saw a significant main effect of Tracking (F(1,23)=249.90, p&lt;0.001) but no main effect of Treatment (F(1,23)=0.03, p&gt;0.05), nor Tracking × Treatment interaction (F(1,23)= 1.82, p&gt;0.05), thus we were limited in performing post-hoc tests. The lack of treatment main effect and interaction with tracking for the food cup probability measure suggests that disrupting communication between BLA and IC increased the latency to initiate food cup approach, which was not due to an increase in food cup omission trials.
+
+Lever latency data are shown in Fig. 3D For lever latency we found main effects of Tracking (F(1,23)=386.64, p&lt;0.001) and Treatment (F(1,23)=16.90, p&lt;0.001), and a significant Tracking × Treatment interaction (F(1,23)= 10.34, p&lt;0.01). We performed post-hoc planned comparisons, which revealed that, compared to their vehicle infusion session, contralateral inactivation of BLA and IC also increased the latency to contact the lever in sign-tracking rats (F(1,13)=18.05, p &lt; 0.01). The lever latency effects were inconsistent with the overall lever contact data and challenged our hypothesis that communication between BLA and IC would impact goal-, but not sign-tracking approach behaviors. The increased latency to contact the lever is consistent with the timecourse of lever contact data and suggests BLA-IC plays a role in initiating lever approach. To confirm that this increased latency was not due to an increase in lever contact omission trials, we examined the effect of disconnecting BLA and IC on probability of lever contact. We observed significant main effect of Tracking (F(1,23)=1000.30, p&lt;0.001) and, in contrast to food cup probability, we also found main effect of Treatment (F(1,23)=5.21, p&lt;.0.05), but no significant interaction of Tracking × Treatment (F(1,23)= 0.97, p&gt;0.05).
+
+3.3.2. Contralateral: Preferred responding
+In our contralateral groups we saw evidence that several of the approach behaviors that characterize goal- and sign-tracking phenotypes were impacted by contralateral inactivation of BLA and IC. However, Tracking main effects and interactions with Treatment from the above analyses are driven, at least in part, by clearly dissociable preferences for food cup and lever responses in goal- and sign-tracking rats. Thus, we sought to analyze the effects of BLA-IC disconnection on approach data expressed as the dominant behavioral response displayed by an individual rat. We re-analyzed the lever autoshaping test data using “preferred response” to determine the extent to which communication between BLA and IC may be necessary to support the dominant approach behavior. For these analyses using Response as a factor, we define “preferred response” as food cup contact for goal-trackers and lever contact for sign-trackers. We define “non-preferred response” as lever contact for goal-trackers and food cup contact for sign-trackers. As with the previous analyses, we analyzed lever autoshaping data for contralateral inactivation groups using repeated measures ANOVAs. We analyzed the lever autoshaping test data using between subject factors of Tracking (GT, ST) and within subject factors of Response (Preferred, Non-Preferred) and Treatment (Vehicle, B/M).
+
+For contact, we found significant main effects of Response (F(1,23)=178.78, p&lt;0.001), Treatment (F(1,23)=6.23, p&lt;0.05), and a Response × Treatment interaction (F(1,23)=5.63, p&lt;0.05). However there were no main effects of Tracking (F(1,23)=3.70, p&gt;0.05) nor any interactions with Tracking (Tracking × Response (F(1,23)=1.79, p&gt;0.05), Tracking × Treatment (F(1,23)=0.20, p&gt;0.05) or Response × Tracking × Treatment (F(1,23)=0.01, p&gt;0.05). The results of these analyses suggest that contralateral inactivation of BLA and IC similarly reduces preferred contact in both goal- and sign-trackers.
+
+For latency, we found significant main effects of Response (F(1,23)=391.83, p&lt;0.001), Treatment (F(1,23)=13.80, p=0.001), Tracking (F(1,23)=6.11, p&lt;0.05) and a Response × Treatment interaction (F(1,23)=11.85, p&lt;0.01). However there were no significant interactions with Tracking (Tracking × Response (F(1,23)=0.03, p&gt;0.05), Tracking × Treatment (F(1,23)=0.02, p&gt;0.05) or Response × Tracking × Treatment (F(1,23)=2.41 p&gt;0.05)). Again, the results of these analyses suggest contralateral inactivation of BLA and IC similarly increases the latency of preferred response in both goal- and sign-trackers.
+
+For probability analysis of preferred and non-preferred responding we observed significant main effects of Response (F(1,23)=556.99, p&lt;0.001) and Tracking (F(1,23)=20.15, p&lt;0.001), but we did not see the critical Treatment main effect nor any interactions with this factor, suggesting across all rats, the BLA and IC disconnection does not alter the probability of dominant response. Thus, it is unlikely omission trials influenced the observed increase in latency to initiate Pavlovian approach across tracking phenotypes. Taken together, when analysis for the dominant response is accounted for, the data suggests contralateral inactivation of BLA and IC similarly disrupts Pavlovian approach behaviors independent of the specific tracking response (food cup-directed or lever-directed).
+
+To address whether BLA-IC contralateral disconnection altered the motivation to contact the food cup during the consummatory post-cue period, we analyzed food cup contacts during the 10 second period after lever retraction when pellets are delivered. A repeated measures ANOVA did not reveal any main effects or interactions with Treatment or Tracking (F’s(1,23)&lt;3.31, p’s&gt;0.05; GT Vehicle M=83.46, SEM= ±13.95; GT B/M M=91.18, SEM= ±8.41; ST Vehicle M=70.57, SEM= ±9.56; ST B/M M=91.93, SEM= ±12.17). The rats consumed all of their pellets during the lever autoshaping test sessions (data not shown). Thus, contralateral inactivation of BLA and IC specifically reduced the preferred contact during the lever cue in both tracking groups.
+
+3.3.3. Ipsilateral: Food cup- and lever- directed behaviors
+Next, we report results from mixed-design repeated measures ANOVAs for ipsilateral inactivation groups. The ipsilateral inactivation groups were included in this study to verify that effects of BLA and IC inactivation on tracking behavior were due to disrupted communication between these two interconnected structures, and not simply due to unilateral inactivation of these to two brain areas independent of information communicated by these pathways. Ipsilateral rats’ performance from the two lever autoshaping test sessions is shown in Fig. 4, and the statistical results are reported in Table 3. We analyzed the lever autoshaping test data as reported above, using mixed, repeated-measures ANOVAs with a between subject factor of Tracking (GT, ST) and a within subject factor of Treatment (vehicle, B/M). While we observed the expected main effects of Tracking for all six measures, we found no main effects of Treatment and no Tracking × Treatment interactions for any of the food cup or lever measures, with the exception of food cup probability. The means and ±SEM for food cup probability are shown in Table 4, there was no main effect of Treatment (F(1,14)=0.124, p&gt;0.05), but surprisingly, there was a significant Tracking × Treatment interaction (F(1,14)= 6.93, p&lt;0.05). Post-hoc tests revealed that this interaction was driven by ipsilateral inactivation of BLA and IC, which increased the probability of food cup responses in sign-trackers exclusively, compared to vehicle session; ST (F(1,9)=6.93, p&lt;0.05), GT (F(1,5)=2.01, p&gt;0.05).
+
+3.3.4. Ipsilateral: Preferred responding
+For consistency with the contralateral analysis, we also analyzed the test data as “preferred response” for the ipsilateral inactivation groups. We analyzed the lever autoshaping test data using between subject factors of Tracking (GT, ST) and within subject factors of Response (Preferred, Non-Preferred) and Treatment (Vehicle, B/M). These results of this analysis for preferred response in ipsilateral rats are reported in Table 5. As expected, both goal- and sign-trackers were more engaged with the preferred as opposed to the non-preferred response, as indicated by main effects of Response across all measures (see Table 5). There were no significant main effects of Tracking, however there were significant Response × Tracking interactions for all three measures (see Table 5), demonstrating that sign-trackers engage in preferred (lever-directed) responding more that goal-trackers (food cup-directed). Importantly, as predicted we did not see any Treatment main effects nor any interactions with this factor, which suggests any differences in preferred and non-preferred responding in ipsilateral sign- and goal-tracking rats were not due to treatment effects.
+
+4. Discussion
+We examined the effect of reversibly disrupting communication between the BLA and IC on appetitive approach behaviors in a Pavlovian lever autoshaping task. The primary prediction of our hypothesis was that contralateral disconnection of BLA and IC would specifically disrupt appetitive approach behavior in goal-tracking, but not sign-tracking rats. Consistent with our hypothesis we found that BLA-IC disconnection increased the latency to approach the food cup and decreased the number of food cup contacts in goal-trackers. While disconnection of BLA and IC did not affect the overall number of lever contacts in sign-trackers, the heightened lever contact responses seen early during vehicle sessions was abolished by contralateral BLA-IC inactivation and sign-tracker’s latency to approach the lever was increased by the BLA-IC disconnection. These findings suggest that communication between the BLA and IC commonly supports initiation of Pavlovian conditioned approach for both sign- and goal-tracking rats. This conclusion is supported by our analyses of preferred conditioned responding, in which we observed Treatment main effects for contact and latency but failed to observe Tracking × Treatment interactions for these measures. While it is possible that eliminating communication between BLA-IC leads to a general reduction in motivation during Pavlovian-lever autoshaping, we did not observe a change in post-cue food cup responding or pellets consumed in the contralateral inactivation group. The strongest effects we observed were for food cup contact and lever latency, however, based on more detailed timecourse and preferred responding analyses we conclude that contralateral disconnection that the BLA-IC pathway is commonly involved in initiating and invigorating appetitive conditioned responses that are triggered by the presentation of the cue. Under the training conditions used here, the BLA-IC pathway does not determine whether or not an approach response occurs on a given trial, as disconnection overwhelmingly did not affect the probability of engaging with the lever or food cup. Finally, ipsilateral inactivation of BLA and IC had no effect on either food cup or lever-directed behaviors, thus the observed inactivation effects on conditioned responding were specific to communication between BLA-IC and were not due to unilateral inactivation of these to two brain areas. Taken together, when analysis for the dominant response is accounted for, our data suggests contralateral inactivation of BLA and IC similarly disrupts cue-triggered Pavlovian approach behaviors, regardless of whether food cup or lever approach is the dominant response expressed.
+
+Our somewhat surprising finding that sign-trackers rely on BLA-IC pathway to initiate lever approach may be due to the relatively limited amount of Pavlovian training prior to manipulating BLA-IC communication. In the present study, rats had completed approximately 100–125 trials prior to inactivation of BLA-IC pathway. This amount of training is on par with our previous study showing sign-trackers are less sensitive to outcome devaluation than goal-trackers and intermediates (Nasser, Chen et al. 2015). Another study has also demonstrated that with more extensive training sign-trackers are less sensitive to outcome devaluation (Morrison, Bamkole et al. 2015). This suggests that regardless of the amount of training, sign-trackers do not rely on stimulus-outcome associations to drive flexible behavior. There is some evidence to suggest that lever-directed responding reflects a predominately stimulus-response association (Kearns and Weiss 2007). A recent study in an instrumental setting has shown that lever-insertion itself is a salient stimulus that promotes S-R habits whereas continuous lever presentation promotes more goal-directed instrumental behaviors (Vandaele, Pribut et al. 2017). This has interesting implications for the use of an insertable lever cue in Pavlovian settings.
+
+Our finding that contralateral, but not ipsilateral disconnection of BLA-IC disrupts food cup-directed behaviors in goal trackers was consistent with our hypothesis. To our surprise, initiation of sign-tracking also relied on intact BLA-IC communication, suggesting that BLA-IC maintains a representation of the initially learned appetitive association that supports approach behavior regardless of whether it is directed at the cue or the location of reward delivery. This common contribution of BLA-IC in driving these two forms of approach behavior may reflect the maintenance of stimulus-response and/or stimulus-outcome associations. As noted in the introduction, our speculation on associative representations is based indirectly on previous studies in which behavioral and neurobiological manipulations are made in contexts where S-O and S-R associations are directly probed. While we do not behaviorally manipulate associative processes, we eliminate a neurobiological substrate known to represent a specific associative process. To our knowledge, the present study provides the first evidence that the BLA-IC pathway supports approach behavior in the absence of manipulations to outcome value. The possibility that BLA-IC communication may reflect the maintenance of stimulus-response and/or stimulus-outcome associations remains to be directly tested. Future studies are also needed to determine the extent to which BLA-IC drives individual differences in devaluation sensitivity, which rely variably on stimulus-outcome representations (Morrison, Bamkole et al. 2015, Nasser, Chen et al. 2015).
+
+4.1. Methodological considerations
+Notably, the present study examined the role of communication between BLA and IC in supporting ongoing conditioned responding during reinforced Pavlovian lever autoshaping sessions. In order to isolate the contribution of the given circuitry in driving cue-motivated behaviors, rats are often tested under extinction conditions during which reward is not available. In the absence of BLA-IC communication other reward circuits would rely on existing cue-outcome and/or stimulus response associations to drive conditioned responding when only the cue is presented. Under such conditions, the contribution of BLA-IC would be isolated. However, lever and food cup directed behaviors during Pavlovian lever autoshaping have been shown to be differentially sensitive to extinction and reward omission conditions (Ahrens, Singer et al. 2015, Beckmann and Chow 2015, Chang and Smith 2016, White and Naeem 2017). Differential rates of extinction of lever and food cup directed behaviors would have interfered with our ability to isolate the contribution of BLA-IC communication in supporting the two forms of conditioned responding observed in Pavlovian lever autoshaping. Thus, we tested during reinforced sessions in order to isolate the contribution of BLA-IC communication in supporting ongoing conditioned responding in sign- and goal-trackers. Under the current study’s reinforced testing conditions, cue-reward associations could rapidly develop in competing circuitry in order to compensate for loss of function due to BLA-IC inactivation. A great deal of redundant encoding of cue-reward associations exists across the brain’s reward circuitry (Bissonette and Roesch 2016), and thus rapid compensatory associative encoding in the absence of BLA-IC communication may have masked the contribution of the circuitry of interest. Such new cue-reward associations would be expected to develop across trials and to support lever or food cup approach that strengthens across the inactivation session to mask the effects of disconnecting the BLA-IC. Our analysis of behavioral timecourse during inactivation and vehicle infusions sessions revealed that food cup behavior was reduced across the entire session when BLA-IC was contralaterally inactivated (Fig. 2A
+inset). These data suggest that testing under reinforced conditions did little to support compensatory brain circuitry in acquiring new associations that would be capable of masking contribution of BLA and IC in supporting food cup approach during test. In contrast, contralateral BLA-IC inactivation did not affect the total number of lever contacts but did attenuate heightened level of lever approach observed at the beginning of the session under vehicle conditions (Fig. 2B
+inset), and also increased the latency to approach the lever (Fig. 2D). This is consistent with a prior study that found rats with amygdala lesions that encompass BLA and central amygdala increased the latency to first press the lever without affecting total number of lever contacts, however BLA lesions alone did not affect lever-directed behavior across all rats without consideration of preferred response or tracking tendency (Naeem and White 2016). Another BLA lesion study also lends support for the general role of BLA in invigorating previously acquired lever-directed behavior by enhancing the rate of lever responding (Chang, Wheeler et al. 2012). Together our findings that account for behavior based on tracking tendency suggest that BLA-IC is necessary for supporting the initial approach directed at the preferred response location. Yet the modest effects for both food cup and lever approach behaviors suggests other brain circuits support these behaviors in the absence of BLA-IC communication (Flagel, Clark et al. 2011, Saunders and Robinson 2012, Clark, Collins et al. 2013, Saunders, Yager et al. 2013, Chang, Todd et al. 2015, Haight, Fraser et al. 2015, Ahrens, Meyer et al. 2016, DiFeliceantonio and Berridge 2016, Fitzpatrick, Creeden et al. 2016, Fraser, Haight et al. 2016, Naeem and White 2016, Sculfort, Bartsch et al. 2016, Stringfield, Palmatier et al. 2016, Torres, Glueck et al. 2016, Versaggi, King et al. 2016, Fitzpatrick and Morrow 2017, Koshy Cherian, Kucinski et al. 2017, Pitchers, Phillips et al. 2017, White and Naeem 2017).
+
+The IC is a very long structure that has a diverse set of sensory, perceptual and cognitive functions. In the rat brain it extends from 4.20mm anterior to bregma to −3.00mm posterior to bregma. The more anterior regions have reciprocal connections to limbic regions while the posterior regions receive inputs from thalamic and sensory systems (Naqvi and Bechara 2009). Studies demonstrating the necessity of BLA-IC circuitry in mediating instrumental goal-directed behavior have targeted more caudal portions of the anterior IC than we targeted in the present study (Parkes and Balleine 2013). Here we investigate the portion of IC that previously been targeted in studies of Pavlovan behavioral control (Gallagher, McMahan et al. 1999, Pickens, Saddoris et al. 2003, Ostlund and Balleine 2007, Chang 2014). The more rostral portions of IC that we target in the current study have previously been damaged in OFC lesion studies of Pavlovian outcome devaluation (Gallagher, McMahan et al. 1999, Pickens, Saddoris et al. 2003) and studies of lever autoshaping (Chang 2014). These studies typically include damage to both IC and OFC. Recent studies examining the contribution of OFC in driving lever and food cup directed behaviors (Chang 2014, Stringfield, Palmatier et al. 2016) suggest BLA input to the larger OFC/IC region may also differentially influence the expression and flexibility of lever and food cup directed behaviors. The present study reveals a role for the portion of IC that has historically been targeted by OFC lesions studies and demonstrates that the anterior insular portion of this region interacts with BLA to control basic appetitive approach behaviors even prior to modification of outcome value. The role of more caudal portions of gustatory IC in encoding Pavlovian associations have been shown (Miranda and McGaugh 2004, Ferreira, Miranda et al. 2005, Grossman, Fontanini et al. 2008, Saddoris, Holland et al. 2009, Samuelsen, Gardner et al. 2012, Gardner and Fontanini 2014) and the role for these posterior aspects of gustatory IC and its interactions with BLA in supporting Pavlovian behaviors remains an interesting and open question.
+
+The reversible pharmacological inactivation approach used in the present study does not address the direction of information flow between BLA and IC. Recording studies simultaneously examining the dynamics of BLA and OFC/IC associative encoding suggest there are complex interactions between BLA and cortical neurons during associative learning (Grossman, Fontanini et al. 2008, Morrison, Saez et al. 2011). Combined lesion and recording studies have noted the bidirectional functional impact of lesioning either BLA or OFC/IC on associative encoding in these reciprocally connected structures (Schoenbaum, Setlow et al. 2003, Saddoris, Gallagher et al. 2005, Stalnaker, Franz et al. 2007, Piette, Baez-Santiago et al. 2012, Rudebeck, Mitz et al. 2013). Based on the previously established role for BLA in encoding palatability and motivational value of outcomes and IC/OFC for retrieving/representing the current value of the outcome (Pickens, Saddoris et al. 2003, Schoenbaum, Setlow et al. 2003, Johnson, Gallagher et al. 2009, Parkes and Balleine 2013, Rudebeck, Mitz et al. 2013, Lichtenberg, Pennington et al. 2017), we hypothesize that information flow from BLA to IC mediates the observed effects of BLA-IC disconnection on appetitive approach. More temporally or directionally specific approaches are needed to test this hypothesis. Our study reveals the importance of considering individual differences in Pavlovian approach when evaluating the role of amygdala-cortical interactions in supporting appetitive motivated and flexible behaviors.
+
+4.2. Conclusions
+The relevance of sign-tracking for better understanding motivational processes underlying drug addiction has gained increasing traction over the past decade (Tomie 1996, Flagel, Watson et al. 2007, Tomie, Grimes et al. 2008, Flagel, Akil et al. 2009). Recent studies have established the importance of several brain systems underlying sign-trackers’ heightened motivation for food and drug rewards (Flagel, Clark et al. 2011, Saunders and Robinson 2012, Clark, Collins et al. 2013, Saunders, Yager et al. 2013, Chang, Todd et al. 2015, Haight, Fraser et al. 2015, Ahrens, Meyer et al. 2016, DiFeliceantonio and Berridge 2016, Fitzpatrick, Creeden et al. 2016, Fraser, Haight et al. 2016, Naeem and White 2016, Sculfort, Bartsch et al. 2016, Stringfield, Palmatier et al. 2016, Versaggi, King et al. 2016, Fitzpatrick and Morrow 2017, Fraser and Janak 2017, Koshy Cherian, Kucinski et al. 2017, Pitchers, Phillips et al. 2017). Some recent studies are beginning to explore of the brain mechanisms underlying inflexibility of sign-tracking, and the systems that mediate adaptive levels of appetitive motivation and flexibility of sign- and goal-tracking behavioral responses (Chang 2014, Haight, Fraser et al. 2015, Stringfield, Palmatier et al. 2016, Torres, Glueck et al. 2016, White and Naeem 2017). While empirical and computational accounts provide support for dissociable brain systems in mediating sign- and goal-tracking trait differences (Clark, Hollon et al. 2012, Huys, Tobler et al. 2014, Lesaint, Sigaud et al. 2014, Anselme 2016), this concept is challenged by the evidence in support of general or parallel process theories, which suggest there are state-dependent factors that contribute towards the expression of sign- or goal-tracking responses within the individual (Chang, Wheeler et al. 2012, Chang, Wheeler et al. 2012, Chang and Holland 2013, Chang 2014, Beckmann and Chow 2015, Chang, Todd et al. 2015, Naeem and White 2016, Patitucci, Nelson et al. 2016, White and Naeem 2017). Such perspectives guide the investigation of associative frameworks supporting both forms of conditioned approach within subject, independent of tracking status. The present study provides neurobiological evidence for a common circuit in mediating the two forms of approach that have recently been used to define the sign- and goal- tracking trait distinction (Meyer, Lovic et al. 2012). The role for BLA-IC communication in supporting parallel associative processes is an intriguing possibility and warrants closer investigation of the role for BLA-IC in driving stimulus-outcome versus stimulus-response associations both within and between individuals.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+The authors declare that they do not have any conflicts of interest (financial or otherwise) related to the data presented in this manuscript.
+
+This work was supported by a McKnight Memory and Cognitive Disorders Award, a NARSAD Young Investigator Grant #24950, NIDA grant R01DA043533 and the Department of Anatomy and Neurobiology at the University of Maryland, School of Medicine.
+
+Figure 1 Experimental timeline and cannula placements
+A. Outline of the experimental procedure. We trained rats in three daily sessions of Pavlovian lever autoshaping. Surgery and recovery from intracranial cannulation of BLA and IC was followed by a single Pavlovian lever autoshaping retraining session during which sign- and goal-tracking scores were confirmed. We tested the effect of contralateral or ipsilateral intracranial infusions of vehicle or baclofen and muscimol (B/M; 1.0mM and 0.1mM respectively, 0.5uL/infusion, counterbalanced) in two reinforced lever autoshaping sessions. B. Approximate cannula placements (mm from Bregma) of the injector tips in IC (left) and BLA (right) for contralateral (left) or ipsilateral (right) inactivation (Paxinos and Watson 2007). Unilateral cannaula placements for IC and BLA were counterbalanced, thus injector tip placements are shown in both hemispheres. This figure shows subjects with accurate placements in both the BLA and IC and that were identified as goal-trackers (gray circles) or sign-trackers (gray triangles) based on retraining PCA scores from the forth session of lever autoshaping; contralateral sign-trackers (n=14), contralateral goal-trackers (n=11), ipsilateral sign-trackers (n=10) and ipsilateral goal-trackers (n=6).
+
+Figure 2 Pre- and post- surgical acquisition of approach behaviors
+Data are mean and ± standard error of the mean (SEM) on three different food cup directed (left) and lever directed (right) measures separated by contralateral or ipsilateral disconnection groups for goal-trackers (GT) and sign-trackers (ST). Number of food cup or lever contacts (top row), latency to contact food cup or lever (middle row) and probability of contacting food cup or lever (bottom row).
+
+Figure 3 Contralateral disconnection of BLA-IC interfered with food cup and lever directed behaviors
+Data are mean ±SEM on food cup directed (left) and lever directed (right) measures. Number of food cup and lever contacts (top row) and latency to contact food cup or lever (bottom row) for goal-trackers (GT, n=11) and sign-trackers (ST, n=14) under vehicle (Veh) or baclofen-muscimol (B/M) conditions. * Significant differences between vehicle and B/M infusions, p&lt;0.05. # Significant linear interaction of drug and trial block (5 trials). A. Contralateral disconnection of BLA-IC with B/M significantly decreased overall food cup contacts, the preferred response in GT, but not ST. A(inset). Contralateral disconnection of BLA-IC with B/M significantly decreased food cup contacts for GT across the entire session when divided into blocks of five trials. B. Contralateral disconnection of BLA-IC with B/M had no significant effect on overall lever responding, the preferred response for ST, but not GT. B(inset). Contralateral disconnection of BLA-IC with B/M significantly reduced lever contacts in the initial blocks of the session for ST. C. Contralateral disconnection of BLA-IC significantly increased latency to initiate contact with the food cup for GT, but not ST. D. Contralateral disconnection of BLA-IC significantly increased latency to initiate contact with the lever for ST, but not GT.
+
+Figure 4 Ipsilateral disconnection of BLA-IC had no effect on food cup or lever directed behaviors
+Data are mean ±SEM on three different food cup directed (left) and lever directed (right) measures. Number of lever and food cup contacts (top row) and latency to contact lever or food cup (bottom row) for goal-trackers (GT, n=6) and sign-trackers (ST, n=10) under vehicle (Veh) or baclofen-muscimol (B/M) conditions. A. Ipsilateral inactivation of BLA-IC with B/M had no effect on food cup contacts in GT or ST. B. Ipsilateral inactivation of BLA-IC with B/M had no effect on lever contacts in GT or ST. C. Ipsilateral disconnection of BLA-IC with B/M did not affect latency to initiate contact with the food cup in GT or ST. D. Ipsilateral inactivation of BLA-IC with B/M did not affect latency to initiate contact with the lever in ST or GT.
+
+Table 1 Lever autoshaping acquisition summary table of analyses for food cup and lever approach (contact, latency, and probability) collapsed across both contralateral and ipsilateral groups.
+
+Contralateral
+and
+Ipsilateral		Food cup	Lever	
+
+	
+		
+              Contact
+            	
+              Latency
+            	
+              Probability
+            	
+              Contact
+            	
+              Latency
+            	
+              Probability
+            	
+
+	
+Effect	
+              Degrees
+              
+
+              of
+              
+
+              Freedom
+            	F	
+              p
+            	F	
+              p
+            	F	
+              p
+            	F	
+              p
+            	F	
+              p
+            	F	
+              p
+            	
+Tracking	
+              (1,37)
+            	127.96	&lt;0.001	152.04	&lt;0.001	127.56	&lt;0.001	113.93	&lt;0.001	354.6	&lt;0.001	681.69	&lt;0.001	
+Session	
+              (3,111)
+            	1.249	&gt;0.05	28.79	&lt;0.001	39.42	&lt;0.001	20.50	&lt;0.001	46.02	&lt;0.001	33.79	&lt;0.001	
+Session × Tracking	
+              (3,111)
+            	35.41	&lt;0.001	41.41	&lt;0.001	53.65	&lt;0.001	19.32	&lt;0.001	39.81	&lt;0.001	25.88	&lt;0.001	
+Table 2 Lever autoshaping test summary table means (M) and standard error of the mean (SEM) for probability to contact the food cup and probability to contact the lever in the contralateral group separated by Tracking phenotypes: goal-trackers (GT) and sign-trackers (ST) and Treatment type: vehicle (veh) and baclofen-muscimol (B/M).
+
+Contralateral		Food cup	Lever	
+
+	
+Tracking	Treatment	M	
+              SEM ±
+            	M	
+              SEM ±
+            	
+GT	Veh	0.93	0.01	0.04	0.02	
+	B/M	0.86	0.04	0.01	0.01	
+ST	Veh	0.10	0.05	1.00	0.01	
+	B/M	0.16	0.06	0.91	0.05	
+Table 3 Lever autoshaping test summary table of analyses for food cup and lever approach (contact, latency, and probability) for ipsilateral groups.
+
+Ipsilateral	Food cup	Lever	
+
+	
+		
+              Contact
+            	
+              Latency
+            	
+              Probability
+            	
+              Contact
+            	
+              Latency
+            	
+              Probability
+            	
+
+	
+Effect	
+              Degrees
+              
+
+              of
+              
+
+              Freedom
+            	F	
+              p
+            	F	
+              p
+            	F	
+              p
+            	F	
+              p
+            	F	
+              p
+            	F	
+              p
+            	
+Treatment	
+              (1,14)
+            	0.09	&gt;0.05	1.69	&gt;0.05	0.12	&gt;0.05	1.705	&gt;0.05	2.33	&gt;0.05	2.95	&gt;0.05	
+Tracking	
+              (1,14)
+            	29.86	&lt;0.001	125.59	&lt;0.001	303.39	&lt;0.001	26.90	&lt;0.001	57.80	&lt;0.001	38.61	&lt;0.001	
+Tracking × Treatment	
+              (1,14)
+            	1.01	&gt;0.05	0.34	&gt;0.05	6.93	&lt;0.05	0.054	&gt;0.05	0.21	&gt;0.05	2.01	&gt;0.05	
+Table 4 Lever autoshaping test summary table means (M) and standard error of the mean (SEM) for probability to contact the food cup and probability to contact the lever in the ipsilateral group separated by Tracking phenotypes: goal-trackers (GT) and sign-trackers (ST) and Treatment type: vehicle (veh) and baclofen-muscimol (B/M).
+
+Ipsilateral	Food cup	Lever	
+
+	
+Tracking	Treatment	M	
+              SEM ±
+            	M	
+              SEM ±
+            	
+GT	Veh	0.95	0.03	0.35	0.18	
+	B/M	0.88	0.06	0.19	0.15	
+ST	Veh	0.05	0.02	0.99	0.01	
+	B/M	0.11	0.04	0.97	0.02	
+Table 5 Lever autoshaping test summary table of analyses for preferred and non-preferred approach responses (contact, latency, and probability) for ipsilateral groups.
+
+Ipsilateral	Preferred vs Non-Preferred	
+
+	
+		
+              Contact
+            	
+              Latency
+            	
+              Probability
+            	
+
+	
+Effect	
+              Degrees
+              
+
+              of
+              
+
+              Freedom
+            	F	
+              p
+            	F	
+              p
+            	F	
+              p
+            	
+Response	
+              (1,14)
+            	46.31	&lt;0.001	141.51	&lt;0.001	188.99	&lt;0.001	
+Treatment	
+              (1,14)
+            	1.90	&gt;.05	0.89	&gt;.05	3.11	&gt;.05	
+Response × Treatment	
+              (1,14)
+            	0.20	&gt;.05	0.04	&gt;.05	0.03	&gt;.05	
+Tracking	
+              (1,14)
+            	3.96	&gt;.05	0.11	&gt;.05	0.89	&gt;.05	
+Tracking × Response	
+              (1,14)
+            	7.92	&lt;.05	6.44	&lt;.05	5.07	&lt;.05	
+Tracking × Treatment	
+              (1,14)
+            	&lt;0.001	&gt;.05	0.43	&gt;.05	6.10	&lt;.05	
+Response × Tracking × Treatment	
+              (1,14)
+            	1.37	&gt;.05	3.51	&gt;.05	1.87	&gt;.05	
+Highlights
+Contralateral disconnection of BLA-IC reduced food-cup responding in goal-trackers.
+
+Contralateral disconnection of BLA-IC reduced lever responding in sign-trackers.
+
+Ipsilateral disconnection of BLA-IC has no effect on preferred responding in both.
+
+
+   
+            Aggleton JP  
+            Burton MJ  
+            Passingham RE  
+           1980 Cortical and subcortical afferents to the amygdala of the rhesus monkey (Macaca mulatta) Brain Res 190 2 347 368 6768425 
+
+            Ahrens AM  
+            Meyer PJ  
+            Ferguson LM  
+            Robinson TE  
+            Aldridge JW  
+           2016 Neural Activity in the Ventral Pallidum Encodes Variation in the Incentive Value of a Reward Cue J Neurosci 36 30 7957 7970 27466340 
+
+            Ahrens AM  
+            Singer BF  
+            Fitzpatrick CJ  
+            Morrow JD  
+            Robinson TE  
+           2015 Rats that sign-track are resistant to Pavlovian but not instrumental extinction Behav Brain Res 
+
+            Anselme P  
+           2016 Motivational control of sign-tracking behaviour: A theoretical framework Neurosci Biobehav Rev 65 1 20 27016362 
+
+            Baxter MG  
+            Parker A  
+            Lindner CC  
+            Izquierdo AD  
+            Murray EA  
+           2000 Control of response selection by reinforcer value requires interaction of amygdala and orbital prefrontal cortex J Neurosci 20 11 4311 4319 10818166 
+
+            Beckmann JS  
+            Chow JJ  
+           2015 Isolating the incentive salience of reward-associated stimuli: value, choice, and persistence Learn Mem 22 2 116 127 25593298 
+
+            Bissonette GB  
+            Roesch MR  
+           2016 Neurophysiology of Reward-Guided Behavior: Correlates Related to Predictions, Value, Motivation, Errors, Attention, and Action Curr Top Behav Neurosci 27 199 230 26276036 
+
+            Boakes R  
+           1977 Operant pavlovian interactions Hillsdale, NJ Erlbaum 
+
+            Chang SE  
+           2014 Effects of orbitofrontal cortex lesions on autoshaped lever pressing and reversal learning Behav Brain Res 273 52 56 25078291 
+
+            Chang SE  
+            Holland PC  
+           2013 Effects of nucleus accumbens core and shell lesions on autoshaped lever-pressing Behav Brain Res 256 36 42 23933141 
+
+            Chang SE  
+            Smith KS  
+           2016 An omission procedure reorganizes the microstructure of sign-tracking while preserving incentive salience Learn Mem 23 4 151 155 26980782 
+
+            Chang SE  
+            Todd TP  
+            Bucci DJ  
+            Smith KS  
+           2015 Chemogenetic manipulation of ventral pallidal neurons impairs acquisition of sign-tracking in rats Eur J Neurosci 42 12 3105 3116 26469930 
+
+            Chang SE  
+            Wheeler DS  
+            Holland PC  
+           2012 Effects of lesions of the amygdala central nucleus on autoshaped lever pressing Brain Res 1450 49 56 22386516 
+
+            Chang SE  
+            Wheeler DS  
+            Holland PC  
+           2012 Roles of nucleus accumbens and basolateral amygdala in autoshaped lever pressing Neurobiol Learn Mem 97 4 441 451 22469749 
+
+            Clark JJ  
+            Collins AL  
+            Sanford CA  
+            Phillips PE  
+           2013 Dopamine encoding of Pavlovian incentive stimuli diminishes with extended training J Neurosci 33 8 3526 3532 23426680 
+
+            Clark JJ  
+            Hollon NG  
+            Phillips PE  
+           2012 Pavlovian valuation systems in learning and decision making Curr Opin Neurobiol 22 6 1054 1061 22749132 
+
+            DiFeliceantonio AG  
+            Berridge KC  
+           2016 Dorsolateral neostriatum contribution to incentive salience: opioid or dopamine stimulation makes one reward cue more motivationally attractive than another Eur J Neurosci 43 9 1203 1218 26924040 
+
+            E H  
+            H J  
+           1974 Sign-tracking: the stimulus–reinforcer relation and directed action Austin, Monograph of the Psychonomic Society 
+
+            Ferreira G  
+            Miranda MI  
+            De la Cruz V  
+            Rodriguez-Ortiz CJ  
+            Bermudez-Rattoni F  
+           2005 Basolateral amygdala glutamatergic activation enhances taste aversion through NMDA receptor activation in the insular cortex Eur J Neurosci 22 10 2596 2604 16307602 
+
+            Fitzpatrick CJ  
+            Creeden JF  
+            Perrine SA  
+            Morrow JD  
+           2016 Lesions of the ventral hippocampus attenuate the acquisition but not expression of sign-tracking behavior in rats Hippocampus 26 11 1424 1434 27438780 
+
+            Fitzpatrick CJ  
+            Morrow JD  
+           2017 Subanesthetic ketamine decreases the incentive-motivational value of reward-related cues J Psychopharmacol 31 1 67 74 27649773 
+
+            Fiuzat EC  
+            Rhodes SE  
+            Murray EA  
+           2017 The Role of Orbitofrontal-Amygdala Interactions in Updating Action-Outcome Valuations in Macaques J Neurosci 37 9 2463 2470 28148725 
+
+            Flagel SB  
+            Akil H  
+            Robinson TE  
+           2009 Individual differences in the attribution of incentive salience to reward-related cues: Implications for addiction Neuropharmacology 56 Suppl 1 139 148 18619474 
+
+            Flagel SB  
+            Clark JJ  
+            Robinson TE  
+            Mayo L  
+            Czuj A  
+            Willuhn I  
+            Akers CA  
+            Clinton SM  
+            Phillips PE  
+            Akil H  
+           2011 A selective role for dopamine in stimulus-reward learning Nature 469 7328 53 57 21150898 
+
+            Flagel SB  
+            Watson SJ  
+            Robinson TE  
+            Akil H  
+           2007 Individual differences in the propensity to approach signals vs goals promote different adaptations in the dopamine system of rats Psychopharmacology (Berl) 191 3 599 607 16972103 
+
+            Fraser KM  
+            Haight JL  
+            Gardner EL  
+            Flagel SB  
+           2016 Examining the role of dopamine D2 and D3 receptors in Pavlovian conditioned approach behaviors Behav Brain Res 305 87 99 26909847 
+
+            Fraser KM  
+            Janak PH  
+           2017 Long-lasting contribution of dopamine in the nucleus accumbens core, but not dorsal lateral striatum, to sign-tracking Eur J Neurosci 
+
+            Gallagher M  
+            McMahan RW  
+            Schoenbaum G  
+           1999 Orbitofrontal cortex and representation of incentive value in associative learning J Neurosci 19 15 6610 6614 10414988 
+
+            Gardner MP  
+            Fontanini A  
+           2014 Encoding and tracking of outcome-specific expectancy in the gustatory cortex of alert rats J Neurosci 34 39 13000 13017 25253848 
+
+            Grossman SE  
+            Fontanini A  
+            Wieskopf JS  
+            Katz DB  
+           2008 Learning-related plasticity of temporal coding in simultaneously recorded amygdala-cortical ensembles J Neurosci 28 11 2864 2873 18337417 
+
+            Haight JL  
+            Fraser KM  
+            Akil H  
+            Flagel SB  
+           2015 Lesions of the paraventricular nucleus of the thalamus differentially affect sign- and goal-tracking conditioned responses Eur J Neurosci 42 7 2478 2488 26228683 
+
+            Hatfield T  
+            Han JS  
+            Conley M  
+            Gallagher M  
+            Holland P  
+           1996 Neurotoxic lesions of basolateral, but not central, amygdala interfere with Pavlovian second-order conditioning and reinforcer devaluation effects J Neurosci 16 16 5256 5265 8756453 
+
+            Huys QJ  
+            Tobler PN  
+            Hasler G  
+            Flagel SB  
+           2014 The role of learning-related dopamine signals in addiction vulnerability Prog Brain Res 211 31 77 24968776 
+
+            Johnson AW  
+            Gallagher M  
+            Holland PC  
+           2009 The basolateral amygdala is critical to the expression of pavlovian and instrumental outcome-specific reinforcer devaluation effects J Neurosci 29 3 696 704 19158296 
+
+            Kearns DN  
+            Weiss SJ  
+           2007 Recovery of Pavlovian sign-tracking (autoshaping) following the discontinuation of inter-trial interval food in rats Behav Processes 75 3 307 311 17507179 
+
+            Koshy Cherian A  
+            Kucinski A  
+            Pitchers K  
+            Yegla B  
+            Parikh V  
+            Kim Y  
+            Valuskova P  
+            Gurnani S  
+            Lindsley CW  
+            Blakely RD  
+            Sarter M  
+           2017 Unresponsive choline transporter as a trait neuromarker and a causal mediator of bottom-up attentional biases J Neurosci 
+
+            Krettek JE  
+            Price JL  
+           1977 Projections from the amygdaloid complex to the cerebral cortex and thalamus in the rat and cat J Comp Neurol 172 4 687 722 838895 
+
+            Lesaint F  
+            Sigaud O  
+            Flagel SB  
+            Robinson TE  
+            Khamassi M  
+           2014 Modelling individual differences in the form of pavlovian conditioned approach responses: a dual learning systems approach with factored representations PLoS Comput Biol 10 2 e1003466 24550719 
+
+            Lichtenberg NT  
+            Pennington ZT  
+            Holley SM  
+            Greenfield VY  
+            Cepeda C  
+            Levine MS  
+            Wassum KM  
+           2017 Basolateral Amygdala to Orbitofrontal Cortex Projections Enable Cue-Triggered Reward Expectations J Neurosci 37 35 8374 8384 28743727 
+
+            McDonald AJ  
+           1991 Organization of amygdaloid projections to the prefrontal cortex and associated striatum in the rat Neuroscience 44 1 1 14 1722886 
+
+            McDonald AJ  
+           1998 Cortical pathways to the mammalian amygdala Prog Neurobiol 55 3 257 332 9643556 
+
+            Meyer PJ  
+            Lovic V  
+            Saunders BT  
+            Yager LM  
+            Flagel SB  
+            Morrow JD  
+            Robinson TE  
+           2012 Quantifying individual variation in the propensity to attribute incentive salience to reward cues PLoS One 7 6 e38987 22761718 
+
+            Miranda MI  
+            McGaugh JL  
+           2004 Enhancement of inhibitory avoidance and conditioned taste aversion memory with insular cortex infusions of 8-Br-cAMP: involvement of the basolateral amygdala Learn Mem 11 3 312 317 15169861 
+
+            Morecraft RJ  
+            Geula C  
+            Mesulam MM  
+           1992 Cytoarchitecture and neural afferents of orbitofrontal cortex in the brain of the monkey J Comp Neurol 323 3 341 358 1460107 
+
+            Morrison SE  
+            Bamkole MA  
+            Nicola SM  
+           2015 Sign Tracking, but Not Goal Tracking, is Resistant to Outcome Devaluation Front Neurosci 9 468 26733783 
+
+            Morrison SE  
+            Saez A  
+            Lau B  
+            Salzman CD  
+           2011 Different time courses for learning-related changes in amygdala and orbitofrontal cortex Neuron 71 6 1127 1140 21943608 
+
+            Naeem M  
+            White NM  
+           2016 Parallel learning in an autoshaping paradigm Behav Neurosci 130 4 376 392 27454485 
+
+            Naqvi NH  
+            Bechara A  
+           2009 The hidden island of addiction: the insula Trends Neurosci 32 1 56 67 18986715 
+
+            Nasser HM  
+            Chen YW  
+            Fiscella K  
+            Calu DJ  
+           2015 Individual variability in behavioral flexibility predicts sign-tracking tendency Front Behav Neurosci 9 289 26578917 
+
+            Nasser HM  
+            McNally GP  
+           2013 Neural correlates of appetitive-aversive interactions in Pavlovian fear conditioning Learn Mem 20 4 220 228 23512938 
+
+            Ostlund SB  
+            Balleine BW  
+           2007 Orbitofrontal cortex mediates outcome encoding in Pavlovian but not instrumental conditioning J Neurosci 27 18 4819 4825 17475789 
+
+            Parkes SL  
+            Balleine BW  
+           2013 Incentive memory: evidence the basolateral amygdala encodes and the insular cortex retrieves outcome values to guide choice between goal-directed actions J Neurosci 33 20 8753 8763 23678118 
+
+            Parkinson JA  
+            Robbins TW  
+            Everitt BJ  
+           2000 Dissociable roles of the central and basolateral amygdala in appetitive emotional learning Eur J Neurosci 12 1 405 413 10651899 
+
+            Patitucci E  
+            Nelson AJ  
+            Dwyer DM  
+            Honey RC  
+           2016 The origins of individual differences in how learning is expressed in rats: A general-process perspective J Exp Psychol Anim Learn Cogn 42 4 313 324 27732045 
+
+            Paxinos G  
+            Watson C  
+           2007 The Rat Brain in Stereotaxic Coordinates Academic Press 
+
+            Pickens CL  
+            Saddoris MP  
+            Setlow B  
+            Gallagher M  
+            Holland PC  
+            Schoenbaum G  
+           2003 Different roles for orbitofrontal cortex and basolateral amygdala in a reinforcer devaluation task J Neurosci 23 35 11078 11084 14657165 
+
+            Piette CE  
+            Baez-Santiago MA  
+            Reid EE  
+            Katz DB  
+            Moran A  
+           2012 Inactivation of basolateral amygdala specifically eliminates palatability-related information in cortical sensory responses J Neurosci 32 29 9981 9991 22815512 
+
+            Pitchers KK  
+            Phillips KB  
+            Jones JL  
+            Robinson TE  
+            Sarter M  
+           2017 Diverse roads to relapse: A discriminative cue signaling cocaine availability is more effective in renewing cocaine-seeking in goal-trackers than sign-trackers, and depends on basal forebrain cholinergic activity J Neurosci 
+
+            Rudebeck PH  
+            Mitz AR  
+            Chacko RV  
+            Murray EA  
+           2013 Effects of amygdala lesions on reward-value coding in orbital and medial prefrontal cortex Neuron 80 6 1519 1531 24360550 
+
+            Rudebeck PH  
+            Murray EA  
+           2008 Amygdala and orbitofrontal cortex lesions differentially influence choices during object reversal learning J Neurosci 28 33 8338 8343 18701696 
+
+            Saddoris MP  
+            Gallagher M  
+            Schoenbaum G  
+           2005 Rapid associative encoding in basolateral amygdala depends on connections with orbitofrontal cortex Neuron 46 2 321 331 15848809 
+
+            Saddoris MP  
+            Holland PC  
+            Gallagher M  
+           2009 Associatively learned representations of taste outcomes activate taste-encoding neural ensembles in gustatory cortex J Neurosci 29 49 15386 15396 20007463 
+
+            Samuelsen CL  
+            Gardner MP  
+            Fontanini A  
+           2012 Effects of cue-triggered expectation on cortical processing of taste Neuron 74 2 410 422 22542192 
+
+            Saunders BT  
+            Robinson TE  
+           2012 The role of dopamine in the accumbens core in the expression of Pavlovian-conditioned responses Eur J Neurosci 36 4 2521 2532 22780554 
+
+            Saunders BT  
+            Yager LM  
+            Robinson TE  
+           2013 Cue-evoked cocaine "craving": role of dopamine in the accumbens core J Neurosci 33 35 13989 14000 23986236 
+
+            Schoenbaum G  
+            Chiba AA  
+            Gallagher M  
+           1998 Orbitofrontal cortex and basolateral amygdala encode expected outcomes during learning Nat Neurosci 1 2 155 159 10195132 
+
+            Schoenbaum G  
+            Chiba AA  
+            Gallagher M  
+           1999 Neural encoding in orbitofrontal cortex and basolateral amygdala during olfactory discrimination learning J Neurosci 19 5 1876 1884 10024371 
+
+            Schoenbaum G  
+            Setlow B  
+            Saddoris MP  
+            Gallagher M  
+           2003 Encoding predicted outcome and acquired value in orbitofrontal cortex during cue sampling depends upon input from basolateral amygdala Neuron 39 5 855 867 12948451 
+
+            Sculfort SA  
+            Bartsch D  
+            Enkel T  
+           2016 Dopamine antagonism does not impair learning of Pavlovian conditioned approach to manipulable or non-manipulable cues but biases responding towards goal tracking Behav Brain Res 314 1 5 27478141 
+
+            Setlow B  
+            Gallagher M  
+            Holland PC  
+           2002 The basolateral complex of the amygdala is necessary for acquisition but not expression of CS motivational value in appetitive Pavlovian second-order conditioning Eur J Neurosci 15 11 1841 1853 12081664 
+
+            Setlow B  
+            Holland PC  
+            Gallagher M  
+           2002 Disconnection of the basolateral amygdala complex and nucleus accumbens impairs appetitive pavlovian second-order conditioned responses Behav. Neurosci 116 2 267 275 11996312 
+
+            Shinonaga Y  
+            Takada M  
+            Mizuno N  
+           1994 Topographic organization of collateral projections from the basolateral amygdaloid nucleus to both the prefrontal cortex and nucleus accumbens in the rat Neuroscience 58 2 389 397 8152545 
+
+            Sripanidkulchai K  
+            Sripanidkulchai B  
+            Wyss JM  
+           1984 The cortical projection of the basolateral amygdaloid nucleus in the rat: a retrograde fluorescent dye study J Comp Neurol 229 3 419 431 6209305 
+
+            Stalnaker TA  
+            Franz TM  
+            Singh T  
+            Schoenbaum G  
+           2007 Basolateral amygdala lesions abolish orbitofrontal-dependent reversal impairments Neuron 54 1 51 58 17408577 
+
+            Stringfield SJ  
+            Palmatier MI  
+            Boettiger CA  
+            Robinson DL  
+           2016 Orbitofrontal participation in sign- and goal-tracking conditioned responses: Effects of nicotine Neuropharmacology 116 208 223 28012948 
+
+            Tomie A  
+           1996 Locating reward cue at response manipulandum (CAM) induces symptoms of drug abuse Neurosci Biobehav Rev 20 3 505 535 8880737 
+
+            Tomie A  
+            Grimes KL  
+            Pohorecky LA  
+           2008 Behavioral characteristics and neurobiological substrates shared by Pavlovian sign-tracking and drug abuse Brain Res Rev 58 1 121 135 18234349 
+
+            Torres C  
+            Glueck AC  
+            Conrad SE  
+            Moron I  
+            Papini MR  
+           2016 Dorsomedial striatum lesions affect adjustment to reward uncertainty, but not to reward devaluation or omission Neuroscience 332 13 25 27365171 
+
+            Vandaele Y  
+            Pribut HJ  
+            Janak PH  
+           2017 Lever Insertion as a Salient Stimulus Promoting Insensitivity to Outcome Devaluation Front Integr Neurosci 11 23 29021746 
+
+            Versaggi CL  
+            King CP  
+            Meyer PJ  
+           2016 The tendency to sign-track predicts cue-induced reinstatement during nicotine self-administration, and is enhanced by nicotine but not ethanol Psychopharmacology (Berl) 233 15–16 2985 2997 27282365 
+
+            Wassum KM  
+            Izquierdo A  
+           2015 The basolateral amygdala in reward learning and addiction Neurosci Biobehav Rev 57 271 283 26341938 
+
+            White NM  
+            Naeem M  
+           2017 Learning not to respond: Role of the hippocampus in withholding responses during omission training Behav Brain Res 318 61 70 27838342 
+
+            Zeeb FD  
+            Winstanley CA  
+           2013 Functional disconnection of the orbitofrontal cortex and basolateral amygdala impairs acquisition of a rat gambling task and disrupts animals' ability to alter decision-making behavior after reinforcer devaluation J Neurosci 33 15 6434 6443 23575841 
+

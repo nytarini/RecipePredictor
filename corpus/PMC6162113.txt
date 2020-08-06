@@ -1,0 +1,566 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10157392039705J Acad Nutr DietJ Acad Nutr DietJournal of the Academy of Nutrition and Dietetics2212-267230049654616211310.1016/j.jand.2018.04.017NIHMS968105ArticleFood Acquisition and Shopping Patterns among Residents of Low-income and Low-access Communities in South Carolina Ma Xiaonan M.Phil.PhD StudentDepartment of Epidemiology and Biostatistics, Arnold School of Public Health, University of South Carolina, 915 Greene Street, Columbia, SC 29208. Phone: 803-777-9413. Fax: 803-777-2504. xma@email.sc.eduSharpe Patricia A. PhDResearch ProfessorPrevention Research Center, 921 Assembly Street, Columbia, SC 29208. Phone: 803-777-4253. Fax: 803-777-9007. sharpep@mailbox.sc.eduBell Bethany A. PhDAssociate ProfessorCollege of Social Work, 1512 Pendleton Street, Columbia, SC 29208. Phone: 803-777-2387. Fax: 803-777-2504. bellb@mailbox.sc.eduLiu Jihong PhDProfessorDepartment of Epidemiology and Biostatistics, 915 Greene Street, Columbia, SC 29208. Phone: 803-777-6854. Fax: 803-777-2504. jliu@mailbox.sc.eduWhite Kellee PhDAssociate ProfessorDepartment of Epidemiology and Biostatistics, 915 Greene Street, Columbia, SC 29208. Phone: 803-777-5057. Fax: 803-777-2504. kwhite@mailbox.sc.eduLiese Angela D. PhDProfessorDepartment of Epidemiology and Biostatistics, 915 Greene Street, Columbia, SC 29208. Phone: 803-777-9414. Fax: 803-777-2504. liese@sc.edu25 5 2018 24 7 2018 10 2018 01 10 2019 118 10 1844 1854 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+Little is known about the food acquisition and shopping habits of residents living in food deserts.
+
+Objective
+To identify distinct food acquisition and shopping patterns among residents, most of whom (81%) live in food desert (low-income and low-access) census tracts and characterize these patterns with respect to the residents’ socioeconomic status (SES), nutritional knowledge, and perceptions of their food environment (FE).
+
+Design
+This is a cross-sectional study.
+
+Participants/setting
+466 primary food shoppers were included from two counties in South Carolina in 2013–2014.
+
+Main outcome measures
+Participants’ self-reported food acquisition and shopping habits, including shopping distance, frequency, store type, transportation mode, utilization of farmers’ markets, food bank/pantries, and church/social service organizations, were used to develop shopping patterns and group residents. Supplemental Nutrition Assistance Program (SNAP) participation, food security, income, and education, nutrition knowledge, and perceptions of the FE were used to characterize these groups.
+
+Statistical analyses performed
+Latent class analysis and multinomial logistic regression were used to identify and characterize patterns, respectively.
+
+Results
+Three patterns were identified, including those who use community food resources, are infrequent grocery shoppers, and use someone else’s car or public transportation when shopping [Class 1] (35%), those who use community food resources and are more frequent and proximal shoppers [Class 2] (41%), and those who do not use community food resources and are distal shoppers [Class 3] (24%). Compared to Class 3, Class 1 had comparatively lower SES; Class 2 also had comparatively lower SES attributes except for income. Class 2 was not significantly different from Class 1 except that a higher proportion in Class 1 saw food access as a problem. No significant differences across classes were found regarding fruit &amp; vegetable (FV) recommendation knowledge.
+
+Conclusions
+Shopping frequency, utilization of community food resources, transportation, and shopping distance were the key factors that defined distinct patterns among the residents living in low-income areas. Future interventions to increase healthy food access in underserved areas should not only consider accessibility but also community food resource utilization.
+
+shopping distanceshopping frequencygrocery store typetransportationcommunity food resources
+   Introduction/Background
+Eliminating nutrition-related health disparities is an ongoing challenge. In addition to economic challenges, low-income populations may additionally be disadvantaged by living farther away from a grocery store selling healthful foods.1–7 Therefore, the United States (US) government has made efforts to increase healthy food access among low-income and low-access populations through a number of policy initiatives.8, 9
+
+Incentivizing the opening of a large grocery store or supermarket is one approach to improving healthy food access in disadvantaged areas, because supermarkets are the major grocery resources for US households.10–16 It is assumed that the presence of or proximity to a full-service supermarket in a disadvantaged area will increase the opportunity for residents to purchase healthy food and thereby reduce obesity or other chronic diseases. However, natural experiments suggest that establishing a new full-service supermarket in a low-income and low-access area does not necessarily increase utilization of such a store or influence dietary intake.17–22 Studies have also shown that residents often travel outside of their neighborhood for grocery shopping.23–32 A better understanding of food acquisition and shopping habits in low-income populations residing in food deserts would allow federal policies and local interventions to be more tailored to this population’s specific needs.
+
+Public health–oriented research on food shopping behaviors is a relatively new area of inquiry. A major gap in food access studies is lack of data on where people actually shop for food. Food shopping is an interaction of the individual with his/her food environment and thus has a multidimensional nature.33 Furthermore, US households may not rely only on supermarkets for their grocery shopping, especially low-income households. A recent nationally representative study34 using Nielsen’s National Consumer Panel data found that food shopping involves a mixture of multiple store types, including grocery chain stores, non-chain grocery stores, ethnic and specialty stores, mass merchandisers, convenience stores, warehouse club stores, and others. Although US households primarily shop at grocery chain stores (50%) or mass merchandisers (23%), 27% of households split their food purchases among the different store types listed above.
+
+The availability of farmers’ markets and other types of local food outlets (such as food banks or pantries or food from churches or social services) has been increasing in recent years.35 Research has focused on strategies to increase food access through local food systems.36 Larsen and colleagues found that a new farmers’ market opened in a low-income area increased healthy food access.37 High satisfaction and positive changes in eating behaviors and physical activity have also been reported as a result of introduction of a farmers’ market.38 Thus, an understanding of how food is acquired from the local food system is needed, which will further inform policy to determine intervention strategies in improving healthy food acquisition among low-income populations.
+
+Although some previous studies have described real food shopping behaviors in terms of individual attributes, e.g., the actual travel distance to the primary shopping store, shopping frequency, and store type used,3, 23, 24, 26, 28, 39–43 very few studies incorporated multiple dimensions of shopping behaviors together.34, 44 Stern et al. employed cluster analysis and found three classes, including primarily grocery shoppers, primarily mass merchandiser shoppers, and shoppers who use a mixture of different store types.34 VanKim and colleagues employed information on fruit and vegetable purchases, frequency of shopping, type of purchasing location, and food and beverage purchases to identify food shopping patterns using a latent class analysis and defined eight shopping patterns among a sample of college students.44 These new applications of pattern techniques in epidemiological studies are promising tools to describe the complex nature of food shopping behaviors.
+
+The purpose of the current study is two-fold. First, it aims to identify distinct food acquisition and shopping patterns among residents living in low-income and low-access communities in South Carolina, using food shopping behavior information and latent class methods. Second, it aims to examine whether Supplemental Nutrition Assistance Program (SNAP) participation, food security, education, income, nutrition knowledge, and perception of healthy food access are associated with the identified patterns.
+
+Materials and Methods
+This cross-sectional analysis is a secondary analysis, using baseline data from a quasi-experimental study, which has been described previously.45, 46 In brief, the study evaluated the impact of a food hub to increase healthy food access with a longitudinal, quasi-experimental design among a low-income population. Baseline data were collected between November 2013 and May 2014 in two South Carolina counties, the community-designated service area of the planned food hub (four contiguous census tracts designated by US Census Bureau47) (Location 1) and four tracts in a matched comparison community site (Location 2) with similar demographic, socioeconomic, and health-related characteristics as the food hub community The target population of this study is: (a) the main family food shopper from households in (Location 1); and (b) residents of the matched community (Location 2). Recruitment focused on seven census tracts (six of which were United States Department of Agriculture (USDA)-designated urban food deserts in two locations (i.e., four tracts in Location 1 and three tracts in Location 2) in South Carolina. Food desert is defined as an urban area with a low-income population and low access to a supermarket or supercenter).48 A low-income/low access tract was defined as one with a poverty rate of at least 20% and ≥33% of the tract population residing &gt;1 mile from a supermarket.49,50 Of note, food desert status was not a requirement for a tract’s inclusion.
+
+To accommodate local community definitions of neighborhoods, which may not match the geographic boundaries of census tracts, we extended the eligibility boundaries for participant recruitment to 1 mile past the seven recruitment tract boundaries into adjacent tracts, but only if the adjacent tract had a poverty level greater than or equal to that of the state (≥16% of households below the federal poverty level51). This yielded an expanded participant recruitment area that included residents of 19 tracts, of which 12 were food deserts. Thus, the majority (i.e., 89% of participants in Location 1 and 74% in Location 2) resided in food desert census tracts. Using purchased address lists from a survey sampling firm, letters addressed to the “family food shopper” were mailed to all residential addresses in the recruitment area inviting them to call for information about a study of food access and food shopping. Multiple recruitment strategies (in-person, printed, and electronic) followed this initial letter and resulted in 527 participants. Participants were recruited in person in community settings (e.g., clinics, community events, library, community centers, adult education center). Fliers, posters, and sign-up sheets for requesting contact were posted in multiple community settings. There was an initial first-class mailing to all residential addresses describing the study and providing contact information and a follow-up postcard mailing announcing “last chance to enroll”. Interested participants were screened for eligibility by phone or in person with the criteria that they 1) do at least half of the food shopping in the household; 2) are age 18 and older; 3) speak and understand English; 4) are not planning a move outside the area within next year; 5) live at an address within the geographic study area for at least three weeks out of a typical month; 6) are not living in an institutional setting (i.e., are in control of their food choices); 7) and have no cognitive impairment that would prevent understanding and responding to the interview. Eligible and interested persons completed an in-person interview and received a $15 gift card. The interview included sociodemographic, attitudinal, behavioral, food shopping, and health-related questions. The University of South Carolina Institutional Review Board approved the study protocol. The interviewer read aloud standardized consent content, provided a written copy, and documented participants' verbal informed consent in the participant's folder.
+
+Food Acquisition and Shopping Habits Measures
+Store-specific food shopping behaviors were queried for each participant’s three most-frequented stores (i.e., “what is the name of the store or market where you shopped the most often [store 1], the second most often [store 2], and the third most often [store 3] for food?”). Stores’ and participants’ home addresses were geocoded per Topologically Integrated Geographic Encoding and Referencing (TIGER) road files for 2013 using ArcGIS 10.2.52 Network distances from participants’ homes to stores 1 to 3 were calculated using ArcGIS 10.2.52 The network distance is the shortest path between the two locations of the network. It calculates the shortest route between home and grocery stores along the transportation route.52 Participants were queried about the type of stores 1 to 3 with a list of options and examples (convenience store, drugstore/pharmacy, dollar variety store, farmers’ market, food bank or food pantry, supermarket, supercenter, smaller grocery store, specialty store, warehouse club, or other type of food store, such as a military commissary). Shopping frequency at each store was queried (i.e., “over the past year, how often did you usually shop at [name of store answered before])?” Respondents could answer in their preferred units of times per day, week, month, or year. All responses were converted to times per week. Transportation mode used (i.e., drive your own car, van, truck, or motorcycle; ride in the car, van, truck, or motorcycle of family or friends; ride the bus; take a taxi; walk; or ride a bicycle) to store 1 only was queried. Participants also reported whether they shopped at a farmers’ market for the past season or whether they acquired food from a community food resource during the past year, which were the key elements of food acquisition in this study. Community food resources in this paper refer to food banks/food pantries and food acquired from churches and other social services.
+
+To fit the latent class model, continuous variables were dichotomized. Shopping distances to stores 1–3 were dichotomized using the store-specific mean (2.7 miles for store 1, 2.8 miles for store 2, and 4.0 miles for store 3); those that traveled less than or equal to the mean were coded 0, and those that traveled distances greater than the mean were coded 1. Prior to this step, the extreme values of shopping distances to stores 1 and 3 were Winsorized (transformation of statistics by limiting extreme values in the statistical data to reduce the effect of possibly spurious outliers)53 at a reasonable value (99th percentile). Distance to store 2 did not have any extreme values, and therefore it was not necessary to Winsorize that variable. Shopping frequency was dichotomized using store-specific cutoff points according to the distribution: once per week for store 1, twice per month for store 2, and once per month for store 3 (e.g., those that went to store 1 less than once per week were coded 0, those that went to store 1 once or more per week were coded 1). Store type was classified into supermarkets (including supercenters and warehouse clubs) and other (including smaller grocery stores, convenience stores, dollar variety stores, drug/pharmacy stores, and specialty stores) based on the sparse distribution of non-supermarket or supercenter shoppers. Transportation mode was initially analyzed using four categories in Latent Class Analysis (LCA), including driving their own car/van/truck/motorcycle, riding in a car/van/truck/motorcycle of family or a friend, take a bus or taxi, and walk or bicycle. Given very similar patterns identified and complexity of interpretation, we further regrouped it into two categories: participants using their own vehicle (driving their own car/van/truck/motorcycle) and participants using someone else’s vehicle or another mode of transportation (riding in a car/van/truck/motorcycle of family or a friend, taking a bus, riding in a taxi, walking, or riding a bicycle).
+
+Socioeconomic Characteristics, Nutrition Knowledge, and Perceptions of Food Access
+Socioeconomic characteristics included SNAP participation, food security level, education, and income. Food security was assessed via the validated 18-item USDA US-Household Food Security Survey Module.54 Participants were classified as having high food security (0 affirmative responses), marginal food security (1 to 2 affirmative responses), low food security (3 to 7 affirmative responses), or very low food security (≥8 affirmative responses).55 Education level was reported in seven levels and was regrouped into three categories: below high school, high school (including GED and high school diploma), and above high school. Annual household income, including government assistance, was reported by participants in $10,000 increments and then dichotomized using $20,000 as a cutoff, as only 21% of participants exceeded that level. Household size information was collected during the in-person interview using the questions “How many adults live in your household, including you? And how many children under 18 live in your household for whom you are responsible for their care and feeding?” Fruit &amp; vegetable (FV) recommendation knowledge was assessed by the question “How many servings of fruits and vegetables should a person eat each day for good health?” Participants who responded ≥5 were considered to have nutritional knowledge, and those who responded &lt;5 were considered to not have FV recommendation knowledge. Perception of food access was examined with the question “How much of a problem would you say that lack of access to adequate food shopping is in your neighborhood?” The possible responses were 1 (very serious problem), 2 (somewhat serious problem), 3 (minor problem), and 4 (not really a problem). Perception of access was reclassified into two categories, one indicating that access to adequate food shopping was perceived as a problem (responses 1–3) and another indicating that it was not perceived as a problem (response 4).
+
+Statistical Analyses
+Of the 527 participants, 61 were excluded because of missing data on at least one of the variables included in the final analysis (final n=466). An assessment of the missing data mechanism revealed no systematic patterns in the small amount of missing data. Data management and descriptive analyses of the sample characteristics were performed using SAS version 9.4.56 Subsequently, latent class analysis, using LatentGOLD 5.1.57, was conducted to identify mutually exclusive, homogenous groups based on the 13 measures of food acquisition and shopping habits, including distance to stores 1–3, shopping frequency at stores 1–3, type of stores 1–3, transportation to store 1, and having obtained food at a farmers’ market, or community food resources. Standard criteria such as Bayesian Information Criteria (BIC), entropy, classification errors, the bootstrap likelihood ratio test, and class size were used to select the best-fitting model. Practical meanings of the identified patterns/classes were also used as criteria for model selection. We started with fitting a two-class model and stopped when the class size was less than 10%. The probability of latent class membership was obtained via the maximum likelihood approach. The LatentGOLD 5.1.57 Step-3 approach was used to examine the association between the identified patterns and other factors, as this is a bias-adjusted and intuitive approach.58 The first step of this approach is to identify latent classes using information from the acquisition and shopping measures and then assign individuals to a latent class using their posterior class membership probabilities. Subsequently, two separate multinomial logistic regression models were employed to investigate the association between the assigned class membership and other factors (e.g., SES, nutrition, access perception). The predictors in the two models were the same. One model used Class 1 as the reference group, and the other model used Class 3 as the reference group. Using these two models, we obtained paired comparisons among the three classes. Age, race/ethnicity, and sex were adjusted in both models.
+
+Results
+Sociodemographic characteristics of participants and their food acquisition and shopping habits are summarized in Table 1. The study population was mostly African American (92.5%) and female (80.3%). The majority of participants had very low socioeconomic status: 65.2% participated in SNAP, 61.8 % were food insecure, only 31.6% had more than a high school education, and 79.0% had an annual household income less than $20,000.
+
+The mean shopping distance between residential addresses and utilized stores increased from store 1 to store 3 (2.7, 2.8, and 4.0 miles, respectively), whereas shopping frequency decreased from store 1 to store 3 (1.2, 0.6, and 0.3 times/week, respectively). The proportion of participants who shopped at a supermarket or a supercenter ranged from 81.1% (store 3) to 88.6% (store 1). Less than half of participants shopped at a farmers’ market. Slightly more than half of participants acquired food from a food bank or pantry or from a church or social service.
+
+Model fit statistics for the latent class analysis are presented in Table 2. The three-class model was selected because of a smaller BIC value, less classification errors, and relatively higher entropy R2. Although other statistics (i.e., AIC and bootstrap likelihood ratio test) suggested that models with more classes fit better than the three-class model, certain classes had very small sizes. In addition, compared to the two-class model, the three-class model further differentiates patterns that were grouped into one class in the two-class model. Thus, the three-class model was used as the final model.
+
+Food acquisition and shopping patterns are presented in Figure 1. Overall, 35% of participants were grouped into Class 1 (individuals who used community food resources, shopped infrequently, and used someone else’s vehicle or public transportation or bike/walk to travel to store 1). Forty-one percent of participants were grouped into Class 2 (individuals who used community food resources, shopped more frequently, and shopped more proximally). Twenty-four percent of participants were grouped into Class 3 (individuals who did not use community food resources and were distal shoppers). The proportion of participants who shopped above the mean distance for store 1 was highest in Class 3 (70.1%), followed by Class 1 (41.4%) and Class 2 (35.1%). Similar patterns were found in the distances traveled to stores 2 and 3. However, the proportion of participants who shopped more frequently (once per week or greater) at store 1 was the highest in Class 2 (56.6%), followed by Class 3 (46.3%) and Class 1 (14.1%). The distribution of store type across the different classes was very similar to the pattern seen with shopping distance, with the highest proportions of participants shopping at a supermarket for stores 1–3 being in Class 3 (86.2–98.3%), followed by Class 1 (82.6–92.4%) and Class 2 (75.6–79.7%). The proportion of participants traveling to store 1 using someone else’s vehicle/taking a bus/taking a taxi/riding a bicycle/walking was the highest in Class 1 (74.1%), followed by Class 2 (56.4%) and Class 3 (22.7%). The proportion of participants shopping at a farmers’ market was lowest in Class 1 (35.3%) and was similar in Classes 2 (50.1%) and 3 (50.6%). The proportion of participants acquiring food at a food bank/pantry (69.0%) or church/social service (68.2%) was highest in Class 2, whereas very few participants in Class 3 acquired food at a food bank/pantry (0.6%) or church/social services organization (8.3%).
+
+Differences in socioeconomic characteristics, nutrition knowledge, and perceptions of food shopping access between identified acquisition and shopping patterns are shown in Table 3. After adjusting for age, sex, and race/ethnicity, compared to Class 3, Class 1 had a higher proportion of SNAP recipients; marginal, low and very low food-secure households; participants with less than a high school education; and participants with less than $20,000 household annual income. Compared to Class 3, Class 2 had a higher proportion of participants with low SES, including a higher proportion of marginal, low, and very-low food-secure households, as well as a higher proportion of participants with less than high school education, and Class 2 had a lower proportion of participants who perceived access to adequate food shopping in their neighborhood as a problem. Class 1 individuals were not significantly different than Class 2 individuals on any SES-related attributes; however, Class 1 had a significantly higher proportion of participants who perceived a lack of access to adequate food shopping in their neighborhood. There were no significant differences across the classes in terms of correct nutrition knowledge about fruit and vegetable intake or household size.
+
+Discussion
+Our latent class analysis identified three distinct food acquisition and shopping patterns among a population primarily residing in low-income and low-access areas, including 1) Class 1, who use community food resources, are infrequent shoppers, and use someone else’s vehicle or public transportation, or bike/walk when shopping (35%), 2) Class 2, who use community food resources and are more frequent and proximal shoppers (41%), and 3) Class 3, who do not use community food resources and are distal shoppers (24%). Thus, food shopping frequency, utilization of community food resources, food shopping distance, and transportation type were the key attributes that jointly defined the acquisition and shopping patterns among this population. Store type and farmers’ market utilization did not differ between the acquisition and shopping patterns.
+
+Compared to Class 3, individuals in Class 1 had comparatively lower SES, including higher proportions of individuals participating in SNAP, being food insecure, having a lower level of education, and having a lower annual household income; individuals in Class 2 also had comparatively lower SES attributes. Individuals in Class 2 were not significantly different from those in Class 1, except that a higher proportion of individuals in Class 1 perceived food access as a problem.
+
+These results indicate that SES attributes and perceptions of food shopping access co-vary with an array of acquisition and shopping behaviors among low-income and low-access populations. Individuals in Classes 1 and 2 were characterized by utilization of community food resources; however, individuals in Class 1 perceived more difficultly in food shopping and were less likely to use their own vehicle for shopping than those in Class 2. This group also consistently shopped far less frequently. This finding mirrors previous research on the relationship between the perception of ease of food shopping access and shopping frequency that has suggested a positive, although not statistically significant, relationship.3
+
+Transportation to grocery store seems to be a barrier to those who use community resources and have poorer perception of food shopping access (Class 1). Emerging literature has found that access to a vehicle or public transportation is increasingly associated with greater access to healthy food choices, especially in low-income communities.38, 59, 60 The findings in this study suggest that the transportation issue is a result of vehicle ownership, as the poorer group that used community resources and perceived access to healthy food as a problem largely relied on others for transportation to their primary shopping. The importance of the role of vehicle ownership in acquisition and shopping patterns may be relevant to a broad audience, including the food-insecure population.45 Policy interventions aimed at increasing healthy food access should take vehicle ownership into consideration beyond the transportation issues.
+
+Individuals in Classes 2 and 3 shopped more frequently, but the two groups differed in their SES attributes. The high proportion of participants experiencing food insecurity and having low educational levels in Class 2 leads to individuals in this class being characterized by a high probability of utilizing food support from the community, i.e., from food banks/pantries or churches/social services, in addition to shopping at farmers’ markets, which offer SNAP incentives and vouchers through federal food assistance programs.35 Surprisingly, the relevant low-SES group (Class 2) perceived a greater ease of food shopping access compared to the comparatively higher-SES group (Class 3). This finding contradicts previous findings that a low-SES group (i.e., those that are food insecure) has lower odds of reporting easy access to adequate food shopping.61 However, the high proportion of SNAP participants (65%) in the current study, compared to the national representative FoodAPS dataset (33%)10, may modify the perceptions of the low-SES group. This assistance may lead to a positive perception of adequate access. Additionally, the perception of healthy food access is affected by geographic measures (i.e., distance to stores).62 Participants in the current study lived in very similar low-income, low-access neighborhoods in a small area, which may lead to different patterns of perception from the previous findings that a low-SES group has poorer perceptions61 regarding their food environment. The finding in this study suggests a link between perceived ease of food shopping access and actual proximal shopping distance, which is consistent with previous path analyses.3 In addition, people who are proximal shoppers and use community resources may be more likely to shop where it is convenient for them, reflecting a lack of other nearby resources.
+
+Interestingly, community resource utilization was one of the key factors that defined the acquisition and shopping patterns among this low-income and low-access population. Although the majority of US households shop at a supermarket or large grocery chain store,10–16 current findings suggest that many low-income households acquire food from community resources. As suggested by Stern et al., 27% of US households split their purchases among different store types.34 Building a new supermarket in a low-access area has been advocated and viewed as a strategy to increase healthy food access and improved dietary intake. However, evidence has shown that supermarket establishment in underserved neighborhoods does not necessarily translate into use of that resource or improve health behaviors, such as fruit and vegetable consumption.17–22 It is possible that low-income populations have a high reliance on food support from the community, which may be why they do not use a new grocery store in their neighborhood.
+
+We described acquisition and shopping patterns based mainly on the participants’ actual acquisition and shopping attributes at different food shopping locations. We did not investigate the underlying reasons participants chose these stores. We found that SES attributes and participants’ perception of lack of access to adequate food shopping in their neighborhood were significantly different between Class 2 and Class 3. This finding suggests that financial barriers and perceptions of the food shopping environment could have driven households to form different acquisition and shopping patterns, although reverse causality cannot be excluded in this cross-sectional study. Other reasons such as food preference, store food price, and food expenditures may also determine store choice and should be investigated in future studies.
+
+In terms of the application of latent class analysis of food acquisition and shopping patterns, this study differs from previous work in that it employed multidimensional aspects of food shopping. Latent Class Analysis as applied here includes the categorization of the shopping distance. To test whether the categorization process masks the details if using a continuous version of variables, Latent Profile Analysis was run treating distance as a continuous variable and keeping all other variables the same. Latent Profile Analysis found a consistent pattern with the LCA analysis (data not shown). To keep all items in the figure in the same scale (probability), LCA results are presented in this study. A previous study by VanKim et al. among college students included information on the purchase of fruits, non-processed foods, and organically grown foods, store type, on-campus location beverage purchases, and near-campus restaurant or store food and beverage purchases.44 A study by Stern et al. focused on different types of stores,34 whereas the current study included information on food shopping distance, frequency, store type, transportation mode, farmers’ market utilization, and community resource utilization to study complex acquisition and shopping patterns among residents of low-income communities. Pattern techniques allow researchers to group participants based on similarities of responses to several variables, and to the best of our knowledge, this is the first study that included acquisition and shopping attributes to identify patterns.
+
+A major strength of the current study is that it examined where individuals shopped for grocery needs by including the three most frequented grocery stores which provided a detailed shopping portfolio. Previous studies focused on the proximity or availability measures made assumption about where people shopped.10–16 In the present study, the majority of the participants (90%) who shopped at a supermarket or a supercenter did not utilize the nearest supermarket or supercenter around their residential locations. The percent of not utilizing the nearest supermarket or supercenter for each class was similar (Class 1, 90%; Class 2, 88%; Class 3, 94%). This finding adds to the literature that residents often travel outside of their neighborhood for their primary grocery shopping.23–32
+
+With respect to study limitations, the current findings might not be generalizable to other areas of the US or to different time periods, geographic configurations, or demographic configurations. Furthermore, it was assumed that all shopping trips originated from home, although some of the grocery shopping trips may have commenced from work or other points of origin. Another limitation is that many aspects of shopping habits were not assessed – how much was purchased, expenditures at each store, what foods were purchased, the nutritional quality of purchases, whether SNAP benefits were used at each store. Further, characteristics of the stores (such as food prices, availability of healthy foods, variety and freshness of produce) were not assessed comprehensively. The current study mainly included low-SES participants residing in food desert areas. One potential source of selection bias may have been the participation incentive which may have attracted lower SES households, which in turn may influence the class prevalence (class size). Nevertheless, the results underscore the potential of defining acquisition and shopping patterns with multidimensional attributes of food acquisition and shopping and profiling complex food shopping behaviors.
+
+Conclusions
+The low-income and low-access population studied here showed different patterns of food acquisition and shopping. Food shopping frequency, utilization of community food resources, food shopping distance, and transportation were the key factors that defined the acquisition and shopping patterns among this population residing in low-income and low-access areas. In addition to previous food shopping literature, this study found that community food resources play an important role in shaping the shopping patterns of low-income and low-access populations. Future interventions to increase healthy food access in underserved areas should consider community food resource utilization and transportation barriers. More investigations are needed to examine the association between these acquisition and shopping patterns and dietary intake and health outcomes.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+
+          Author Contributions
+        
+
+XM and ADL conceived the study. XM conducted the statistical analyses, interpreted the data, and wrote the manuscript. PAS is the Principal Investigator of the NIH grant that supported the work, contributed to the interpretation of the data, and reviewed and edited the manuscript. BAB provided oversight for the statistical analyses, contributed to the interpretation of data, and reviewed and edited the manuscript. JL, KW, and ADL provided oversight for the analyses and interpretation of data and edited the manuscript for content. All authors approved the final version.
+
+
+          Conflict of Interest Disclosures
+        
+
+The authors declare no conflicts of interest.
+
+The authors appreciate the contributions from the university and local project staff and students in recruitment, retention and data collection and assistance from the Hub City Farmers' Market, Butterfly Foundation, Northside Development Group, the Soulfully Fit Committee, and many community leaders and community-based and governmental organizations.
+
+
+        Funding/Financial Disclosures
+      
+
+This research was funded by the National Cancer Institute under Award Number R01CA180336. The content of this article is solely the responsibility of the authors and does not necessarily represent the official views or policies of the National Cancer Institute or the National Institutes of Health. The Via College of Osteopathic Medicine of Blacksburg, Virginia provided community-based office space for the project at their Spartanburg, South Carolina campus.
+
+Figure 1 Probability of latent class membership and item-response probabilities of retained unconditional three-class solution of 466 participants from disadvantaged communities in a study of food access, food shopping, and food security in South Carolina (2013–2014)
+
+Table 1 Demographic characteristics and measures of food acquisition and shopping habits of 466 participants from disadvantaged communities in a study of food access, food shopping, and food security in South Carolina (2013–2014)
+
+Characteristics	n=466	
+Age (year), mean (SD)	51.6 (14.5)	
+Female, %	80.3	
+African American, %	92.5	
+SNAPa participation, %	65.2	
+Food security, %		
+  High food security	18.0	
+  Marginal food security	20.2	
+  Low food security	32.8	
+  Very low food security	29.0	
+Education, %		
+  Less than high school	30.0	
+  High school	38.4	
+  Some college and above	31.6	
+Annual household income, %		
+  $0–9,999	46.6	
+  $10,000–19,999	32.4	
+  $20,000–29,999	11.8	
+  $30,000 or more	9.2	
+Household size, mean (SD)	2.3 (1.4)	
+Nutrition knowledge about fruit &amp; vegetable servings per day	3.6 (2.0)	
+  At least 5 servings per day, %	23.8	
+Perception of lack of access to adequate food shopping in neighborhood, %		
+  A very serious problem	29.4	
+  A somewhat serious problem	21.0	
+  A minor problem	17.6	
+  Not a problem	32.0	
+
+              Store 1
+            		
+Distance in miles, mean (SD)	2.7 (2.4)	
+Frequency (per week), mean (SD)	1.2 (1.2)	
+Supermarket/Supercenter, %	88.6	
+Transportation to store 1, %		
+  Drive own vehicle	44.7	
+  Ride in a friend’s/family member’s vehicle	35.8	
+  Take a bus or taxi	9.3	
+  Walk or bicycle	10.1	
+
+              Store 2
+            		
+Distance in miles, mean (SD)	2.8 (1.7)	
+Shopping frequency (per week), mean (SD)	0.6 (0.6)	
+Supermarket/Supercenter, %	85.4	
+
+              Store 3
+            		
+Distance in miles, mean (SD)	4.0 (12.0)	
+Frequency (per week), mean (SD)	0.3 (0.3)	
+Supermarket/Supercenter, %	81.1	
+
+              Farmers’ market utilization and community food resources
+              b
+            		
+Shop at farmers’ market, %	45.1	
+Acquire food at bank or pantry, %	52.2	
+Acquire food from church or social services, %	53.2	
+a SNAP: Supplemental Nutrition Assistance Program;
+
+b Community food resources in this paper refer to food banks/food pantries and food acquired from churches/social services. The distribution of these and other types of community resources and their association with food security level have been reported previously46.
+
+Table 2 Fit statistics for unconditional latent class analysis model of 13 measures of food acquisition and shopping habits of 466 participants from disadvantaged communities in a study of food access, food shopping, and food security in South Carolina (2013–2014)
+
+No. of
+classes	Likelihood	Bayesian
+Information
+Criteria	Akaike
+Information
+Criteria	Entropy R2	No. parameter	Classification Errors	Bootstrap
+likelihood ratio
+testa	
+2	−3602.70	7371.30	7259.41	0.77	27	0.07	--	
+
+	
+
+              
+                
+                  3
+                
+              
+            	−3535.83	7323.57	7153.66	0.75	41	0.11	&lt;.001	
+
+	
+4	−3504.00	7345.94	7118.01	0.74	55	0.14	&lt;.001	
+5	−3476.07	7376.09	7090.14	0.76	69	0.15	&lt;.001	
+Test did not go beyond five classes, because less than 10% of participants were classified into one of the classes.
+
+a P value for k-class vs. (k+1) - class solution
+
+Table 3 Differences in socioeconomic characteristics, nutrition knowledge, and perceptions of food access between the identified food acquisition and shopping patterns of 466 participants from disadvantaged communities in a study of food access, food shopping, and food security in South Carolina (2013–2014)
+
+Characteristics	Class 1e
+n=163	Class 2f
+n=191	Class 3g
+n=112	Class 1 vs.
+Class 2 (ref)	Class 1 vs.
+Class 3 (ref)	Class 3 vs.
+Class 2 (ref)	
+
+	
+	%/
+Mean	%/
+Mean	%/
+Mean	OR (95%CI)	OR (95%CI)	OR (95%CI)	
+SNAPa participation, %b	77.1	68.6	41.9	1.2 (0.6–2.3)	2.3 (1.0–5.1)*	0.5 (0.3–1.1)	
+Marginal food security, %bc	21.6	20.8	17.1	1.2 (0.4–3.4)	5.7 (1.9–17.1)*	0.2 (0.1–0.7)*	
+Low food security, %bc	34.9	34.4	27.1	1.2 (0.5–3.1)	5.3 (1.8–15.1)*	0.2 (0.1–0.6)*	
+Very low food insecurity, %bc	35.0	33.0	13.1	1.0 (0.4–2.6)	10.4 (3.6–30.5)*h	0.1 (0.0–0.3)*h	
+High school education, %	35.8	40.9	37.9	0.9 (0.5–1.9)	2.0 (0.9–4.7)	0.5 (0.2–1.0)	
+Less than high school education, %bc	39.6	35.7	6.2	1.3 (0.7–2.7)	12.9 (2.5–66.8)*h	0.1 (0.0–0.5)*h	
+Less than $20,000 household annual income, %bc	91.1	82.4	55.3	1.9 (0.8–4.5)	4.6* (1.6–12.6)	0.4 (0.2–0.9)*	
+Household size, mean	2.4	2.3	2.3	1.0 (0.8–1.2)	1.0 (0.8–1.3)	1.0 (0.8–1.2)	
+Nutrition knowledge, fruit and vegetable intake &lt;5 servings per day, %	77.8	78.4	70.1	1.2 (0.6–2.2)	1.3 (0.5–3.2)	0.9 (0.4–2.2)	
+Perception of access to adequate food shopping in neighborhood is a problem, %cd	75.7	59.0	72.4	2.2 (1.3–3.9)*	0.8 (0.3–2.2)	2.6 (1.1–6.4)*	
+Model adjusts for age, sex, and race/ethnicity.
+
+* for P&lt;0.05
+
+a SNAP: Supplemental Nutrition Assistance Program.
+
+b significant difference in the prediction of class membership between Class 1 and Class 3 using multinomial logistic regression;
+
+c significant difference in the prediction of class membership between Class 3 and Class 2 using multinomial logistic regression.
+
+d significant difference in the prediction of class membership between Class 1 and Class 2 using multinomial logistic regression;
+
+e Class 1: those who use community food resources, are infrequent grocery shoppers, and use someone else’s car or public transportation when shopping;
+
+f Class 2: those who use community food resources and are more frequent and proximal shoppers;
+
+g Class 3: those who do not use community food resources and are distal shoppers;
+
+h The large point estimates and wide confidence intervals are due to the small cell for very low food insecurity (n=17) and less than high school education (n=12) in class 3.
+
+Research Snapshot
+Research Question
+Are there any distinct food acquisition and shopping patterns among residents living primarily in food desert census tracts? Are these patterns associated with residents’ socioeconomic status (SES), nutritional knowledge, and perceptions of their food environment (FE)?
+
+Key Findings
+Three distinct patterns were identified. Shopping frequency, utilization of community food resources, transportation, and shopping distance were the key factors that defined distinct patterns among the residents living in low-income areas. The patterns were also characterized by SES status and residents’ perceptions of their FE.
+
+
+   1 
+            Moore LV  
+            Diez Roux AV  
+            Nettleton JA  
+            Jacobs DR Jr  
+           Associations of the local food environment with diet quality—a comparison of assessments based on surveys and geographic information systems: the Multi-Ethnic Study of Atherosclerosis Am J Epidemiol 2008 167 8 917 924 18304960 
+2 
+            Zenk SN  
+            Schulz AJ  
+            Hollis-Neely T  
+             
+           Fruit and vegetable intake in African Americans: income and store characteristics Am J Prev Med 2005 29 1 1 9 15958245 
+3 
+            Liese AD  
+            Bell BA  
+            Barnes TL  
+             
+           Environmental influences on fruit and vegetable intake: results from a path analytic model Public Health Nutr 2014 17 11 2595 2604 24192274 
+4 
+            Hirsch JA  
+            Hillier A  
+           Exploring the role of the food environment on food shopping patterns in Philadelphia, PA, USA: a semiquantitative comparison of two matched neighborhood groups Int J Environ Res Public Health 2013 10 1 295 313 23343984 
+5 
+            Rose D  
+            Richards R  
+           Food store access and household fruit and vegetable use among participants in the US Food Stamp Program Public Health Nutr 2004 7 8 1081 1088 15548347 
+6 
+            Ohls JC  
+            Ponza M  
+            Moreno L  
+            Zambrowski A  
+            Cohen R  
+           Food Stamp participants' access to food retailers USDA Final Report MPR 8243-140. https://fns-prod.azureedge.net/sites/default/files/retailer.pdf . Published 1999 
+7 
+            Mantovani RE  
+           Food retailers in the Food Stamp Program: characteristics and service to program participants US Department of Agriculture, Food and Consumer Service, Office of Analysis and Evaluation http://libcdm1.uncg.edu/cdm/ref/collection/HENP/id/189 . Published February 1997 
+8 US Department of Health &amp; Human Services and Office of Community Services Healthy food financing initiative https://www.acf.hhs.gov/ocs/programs/community-economic-development/healthy-food-financing . Updated June 14, 2017 Accessed on February 14, 2017 
+9 Fair Food Network Double up food bucks: a five-year success story https://fairfoodnetwork.org/wp-content/uploads/2016/09/FFN_DoubleUpFoodBucks_5YearReport.pdf . Published 2013 Accessed on August 18, 2018 
+10 
+            Ver Ploeg M  
+            Mancino L  
+            Todd JE  
+            Clay DM  
+            Scharadin B  
+           Where do Americans usually shop for food and how do they travel to get there? Initial findings from the National Household Food Acquisition and Purchase Survey US Department of Agriculture Economic Research Service 2015 Economic Information Bulletin (EIB) 138 
+11 
+            Papas MA  
+            Alberg AJ  
+            Ewing R  
+            Helzlsouer KJ  
+            Gary TL  
+            Klassen AC  
+           The built environment and obesity Epidemiol Rev 2007 29 1 129 143 17533172 
+12 
+            Mujahid MS  
+            Diez Roux AV  
+            Shen M  
+             
+           Relation between neighborhood environments and obesity in the Multi-Ethnic Study of Atherosclerosis Am J Epidemiol 2008 167 11 1349 1357 18367469 
+13 
+            Powell LM  
+            Han E  
+            Chaloupka FJ  
+           Economic contextual factors, food consumption, and obesity among US adolescents J Nutr 2010 140 6 1175 1180 20392882 
+14 
+            Gibson DM  
+           The neighborhood food environment and adult weight status: estimates from longitudinal data Am J Public Health 2011 101 1 71 78 21088263 
+15 
+            Laska MN  
+            Hearst MO  
+            Forsyth A  
+            Pasch KE  
+            Lytle L  
+           Neighbourhood food environments: are they associated with adolescent dietary intake, food purchases and weight status? Public Health Nutr 2010 13 11 1757 1763 20529405 
+16 
+            Michimi A  
+            Wimberly MC  
+           Associations of supermarket accessibility with obesity and fruit and vegetable consumption in the conterminous United States Int J Health Geogr 2010 9 49 1 14 20082711 
+17 
+            Cummins S  
+            Macintyre S  
+           Food deserts—evidence and assumption in health policy making BMJ 2002 325 7361 436 438 12193363 
+18 
+            Cummins SC  
+           The local food environment and health: some reflections from the United Kingdom Am J Public Health 2003 93 4 521 12660181 
+19 
+            Cummins S  
+            Petticrew M  
+            Higgins C  
+            Findlay A  
+            Sparks L  
+           Large scale food retailing as an intervention for diet and health: quasi-experimental evaluation of a natural experiment J Epidemiol Community Health 2005 59 12 1035 1040 16286490 
+20 
+            Cummins S  
+            Fline E  
+            Matthews SA  
+           New neighborhood grocery store increased awareness of food access but did not alter dietary habits or obesity Health Aff (Millwood) 2014 33 2 283 291 24493772 
+21 
+            Elbel B  
+            Moran A  
+            Dixon LB  
+             
+           Assessment of a government-subsidized supermarket in a high-need area on household food availability and children's dietary intakes Public Health Nutr 2015 18 15 2881 2890 25714993 
+22 
+            Mayne SL  
+            Auchincloss AH  
+            Michael YL  
+           Impact of policy and built environment changes on obesity-related outcomes: a systematic review of naturally occurring experiments Obes Rev 2015 16 5 362 375 25753170 
+23 
+            Chaix B  
+            Bean K  
+            Daniel M  
+             
+           Associations of supermarket characteristics with weight status and body fat: a multilevel analysis of individuals within supermarkets (RECORD study) PLoS One 2012 7 4 e32908 22496738 
+24 
+            Hillier A  
+            Cannuscio CC  
+            Karpyn A  
+            McLaughlin J  
+            Chilton M  
+            Glanz K  
+           How far do low-income parents travel to shop for food? Empirical evidence from two urban neighborhoods Urban Geography 2011 32 5 712 729 
+25 
+            LeDoux TF  
+            Vojnovic I  
+           Going outside the neighborhood: the shopping patterns and adaptations of disadvantaged consumers living in the lower eastside neighborhoods of Detroit, Michigan Health Place 2013 19 1 14 23142639 
+26 
+            Drewnowski A  
+            Aggarwal A  
+            Hurvitz PM  
+            Monsivais P  
+            Moudon AV  
+           Obesity and supermarket access: proximity or price? Am J Public Health 2012 102 8 e74 e80 22698052 
+27 
+            Liese AD  
+            Blake CE  
+            Bell BA  
+            Barnes TL  
+            Freedman DA  
+           S-009: spatial and perceived food access, food shopping behaviors, and psychosocial correlates of fruit and vegetable intake Epidemiology 2012 23 5S S-263 
+28 
+            Aggarwal A  
+            Cook AJ  
+            Jiao J  
+             
+           Access to supermarkets and fruit and vegetable consumption Am J Public Health 2014 104 5 917 923 24625173 
+29 
+            Zenk SN  
+            Odoms-Young AM  
+            Dallas C  
+             
+           "You have to hunt for the fruits, the vegetables": environmental barriers and adaptive strategies to acquire food in a low-income African American neighborhood Health Educ Behav 2011 38 3 282 292 21511955 
+30 
+            Hendrickson D  
+            Smith C  
+            Eikenberry N  
+           Fruit and vegetable access in four low-income food deserts communities in Minnesota Agric Human Values 2006 23 3 371 383 
+31 
+            Webber CB  
+            Sobal J  
+            Dollahite JS  
+           Shopping for fruits and vegetables. Food and retail qualities of importance to low-income households at the grocery store Appetite 2010 54 2 297 303 19961886 
+32 
+            Mantovani RE  
+            Walsh J  
+           Authorized food retailer characteristics study: geographic analysis of retailer access US Department of Agriculture, Food and Consumer Service, Office of Analysis and Evaluation 1996 technical report III 
+33 
+            Freedman DA  
+            Choi SK  
+            Hurley T  
+            Anadau E  
+            Hebert JR  
+           A farmers' market at a federally qualified health center improves fruit and vegetable intake among low-income diabetics Prev Med 2013 56 5 288 292 23384473 
+34 
+            Stern D  
+            Robinson WR  
+            Ng SW  
+            Gordon-Larsen P  
+            Popkin BM  
+           US household food shopping patterns: dynamic shifts since 2000 and socioeconomic predictors Health Aff (Millwood) 2015 34 11 1840 1848 26526241 
+35 
+            Johnson R  
+           The role of local and regional food systems in U.S. farm policy https://fas.org/sgp/crs/misc/R44390.pdf . Published February 18, 2016 Accessed on February 18, 2016 
+36 US Department of Agriculture Know your farmer, know your food compass: healthy food access https://www.usda.gov/sites/default/files/documents/7-Healthyfoodaccess.pdf . Published 2017 Accessed on December 2, 2017 
+37 
+            Larson NI  
+            Story MT  
+            Nelson MC  
+           Neighborhood environments: disparities in access to healthy foods in the US Am J Prev Med 2009 36 1 74 81 18977112 
+38 
+            Ruelas V  
+            Iverson E  
+            Kiekel P  
+            Peters A  
+           The role of farmers' markets in two low income, urban communities J Community Health 2012 37 3 554 562 21922162 
+39 
+            Jilcott Pitts SB  
+            McGuirt JT  
+            Carr LJ  
+            Wu Q  
+            Keyserling TC  
+           Associations between body mass index, shopping behaviors, amenity density, and characteristics of the neighborhood food environment among female adult Supplemental Nutrition Assistance Program (SNAP) participants in eastern North Carolina Ecol Food Nutr 2012 51 6 526 541 23082922 
+40 
+            Lear SA  
+            Gasevic D  
+            Schuurman N  
+           Association of supermarket characteristics with the body mass index of their shoppers Nutr J 2013 12 1 1 23282226 
+41 
+            Drewnowski A  
+            Moudon AV  
+            Jiao J  
+            Aggarwal A  
+            Charreire H  
+            Chaix B  
+           Food environment and socioeconomic status influence obesity rates in Seattle and in Paris Int J Obes (Lond) 2014 38 2 306 314 23736365 
+42 
+            Jilcott SB  
+            Moore JB  
+            Wall-Bassett ED  
+            Liu H  
+            Saelens BE  
+           Association between travel times and food procurement practices among female Supplemental Nutrition Assistance Program participants in eastern North Carolina J Nutr Educ Behav 2011 43 5 385 389 21906550 
+43 
+            Fuller D  
+            Cummins S  
+            Matthews SA  
+           Does transportation mode modify associations between distance to food store, fruit and vegetable consumption, and BMI in low-income neighborhoods? Am J Clin Nutr 2013 97 1 167 172 23193006 
+44 
+            VanKim NA  
+            Erickson DJ  
+            Laska MN  
+           Food shopping profiles and their association with dietary patterns: a latent class analysis J Acad Nutr Diet 2015 115 7 1109 1116 25704262 
+45 
+            Ma X  
+            Liese AD  
+            Hibbert J  
+            Bell BA  
+            Wilcox S  
+            Sharpe PA  
+           The association between food security and store-specific and overall food shopping behaviors J Acad Nutr Diet 2017 117 12 1931 1940 28366811 
+46 
+            Sharpe PA  
+            Liese AD  
+            Bell BA  
+            Wilcox S  
+            Hutto BE  
+            Stucker J  
+           Household food security and use of community food sources and food assistance programs among food shoppers in neighborhoods of low income and low food access J Hunger Environ Nutr 2017 1 15 28491205 
+47 United States Census Bureau Geographic terms and concepts - Census tracts 
+            https://www.census.gov/geo/reference/gtc/gtc_ct.html 
+           Accessed on April 17, 2018 
+48 
+            Dutko P  
+            Ver Ploeg M  
+            Farrigan TL  
+           Characteristics and influential factors of food deserts US Department of Agriculture, Economic Research Service 2012 
+49 United States Department of Agriculture Economic Research Service Food access research atlas 2015 https://www.ers.usda.gov/data-products/food-access-research-atlas.aspx . Updated May 18, 2017 Accessed on April 18, 2018 
+50 
+            Ver Ploeg M  
+           Access to affordable and nutritious food: measuring and understanding food deserts and their consequences: report to Congress US Department of Agriculture Economic Research Service 2010 
+51 American Fact Finder S2201: Food Stamps/SNAP 2016–2010 American community survey 5-year estimates 
+            https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_S2201&amp;prodType=table 
+           Accessed on April 17, 2018 
+52 ArcGIS for Desktop [computer program]. Version 3.2 Redlands, CA ESRI 2016 
+53 
+            Lewis T  
+            Barnett V  
+           Outliers in Statistical Data 3 New York, NY Wiley 1994 
+54 
+            Bickel G  
+            Nord M  
+            Price C  
+            Hamilton W  
+            Cook J  
+           Guide to measuring household food security US Department of Agriculture Food and Nutrition Service Office of Analysis, Nutrition, and Evaluation 2000 
+55 US Department of Agriculture Economic Research Service Food security in the US: measurement https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/measurement/ . Updated October 4, 2017 Accessed on December 30, 2016 
+56 SAS [computer program]. Version 9.4 Cary, NC SAS Institute, Inc. 2013 
+57 LatentGOLD [computer program].Version 5.1 Belmont, MA Statistical Innovations 2016 
+58 
+            Bakk Z  
+            Vermunt JK  
+           Step-3 tutorial #1: Step-s models with covariates, distal outcomes, and multiple latent variables https://www.statisticalinnovations.com/wp-content/uploads/LGtutorial.Step3_.1.pdf . Published 2017 Accessed on December 2, 2017 
+59 
+            Bader MD  
+            Purciel M  
+            Yousefzadeh P  
+            Neckerman KM  
+           Disparities in neighborhood food environments: implications of measurement strategies Econ Geogr 2010 86 4 409 430 21117330 
+60 
+            Larsen K  
+            Gilliland J  
+           Mapping the evolution of 'food deserts' in a Canadian city: supermarket accessibility in London, Ontario, 1961–2005 Int J Health Geogr 2008 7 1 16 18423005 
+61 
+            Ma X  
+            Liese AD  
+            Bell BA  
+             
+           Perceived and geographic food access and food security status among households with children Public Health Nutr 2016 19 15 2781 2788 27133939 
+62 
+            Barnes TL  
+            Freedman DA  
+            Bell BA  
+            Colabianchi N  
+            Liese AD  
+           Geographic measures of retail food outlets and perceived availability of healthy foods in neighbourhoods Public Health Nutr 2016 19 8 1368 1374 26427621 
+

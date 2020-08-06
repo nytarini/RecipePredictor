@@ -1,0 +1,1142 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   77021184161Immunol RevImmunol. Rev.Immunological reviews0105-28961600-065X25703564452162010.1111/imr.12265NIHMS648870ArticleMycobacteria, Metals, and the Macrophage Niederweis Michael 1Wolschendorf Frank 2Mitra Avishek 1Neyrolles Olivier 341 Department of Microbiology, University of Alabama at Birmingham, USA2 Department of Medicine, Division of Infectious Diseases, University of Alabama at Birmingham, USA3 Centre National de la Recherche Scientifique, Institut de Pharmacologie et de Biologie Structurale, Toulouse, France4 Université de Toulouse, Université Paul Sabatier, Institut de Pharmacologie et de Biologie Structurale, Toulouse, FranceFor correspondence: Michael Niederweis, The University of Alabama at Birmingham, BBRB 609, 845 19th Street South, Birmingham, AL 35294, Tel.: +1 205 975 4390, mnieder@uab.edu11 7 2015 3 2015 01 3 2016 264 1 249 263 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Summary
+Mycobacterium tuberculosis is a facultative intracellular pathogen that thrives inside host macrophages. A key trait of M. tuberculosis is to exploit and manipulate metal cation trafficking inside infected macrophages to ensure survival and replication inside the phagosome. Here we describe the recent fascinating discoveries that the mammalian immune system responds to infections with M. tuberculosis by overloading the phagosome with copper and zinc, two metals which are essential nutrients in small quantities but are toxic in excess. M. tuberculosis has developed multi-faceted resistance mechanisms to protect itself from metal toxicity including control of uptake, sequestration inside the cell, oxidation, and efflux. The host response to infections combines this metal poisoning strategy with nutritional immunity mechanisms that deprive M. tuberculosis from metals such as iron and manganese to prevent bacterial replication. Both immune mechanisms rely on the translocation of metal transporter proteins to the phagosomal membrane during the maturation process of the phagosome. This review summarizes these recent findings and discusses how metal-targeted approaches might complement existing TB chemotherapeutic regimens with novel anti-infective therapies.
+
+phagosomeironcopperzincmanganesenutritional immunitypoisoninginnate immunity
+   Introduction
+Mycobacterium tuberculosis is a facultative intracellular pathogen that thrives inside host macrophages and other cell types, in which it resides in a membrane-bound vacuole, the phagosome, and can also escape into the cytosol at late stages of infection (1–3). The ability of M. tuberculosis to resist killing by macrophages relies mostly on its ability to arrest phagosome maturation, i.e. to manipulate the host cell endocytic machinery in order to prevent phagosome fusion with late endosomes and lysosomes (4, 5). Intracellular survival and replication of the bacillus also relies on the acquisition of various host compounds such as lipids and amino acids as carbon (6–8) and nitrogen (9, 10) sources. In addition, M. tuberculosis is well equipped to resist acid stress and reactive oxygen and nitrogen species that are copiously produced during infection (11).
+
+A key trait of M. tuberculosis is to exploit and manipulate metal cation trafficking inside infected macrophages. Essential micronutrients, e.g. iron and manganese, are kept away from intracellular M. tuberculosis through sequestration by host proteins such as transferrin and ferritin or through efflux from the phagosome by the divalent metal cation transporter NRAMP1 (natural resistance-associated membrane protein) (12–14). To overcome iron deprivation, M. tuberculosis has evolved efficient iron capture systems based on the siderophores mycobactins and carboxymycobactins (15, 16) and the recently identified capability of M. tuberculosis to utilize heme (17, 18). More recently, other metal cations, namely copper and zinc ions, were shown to accumulate inside the mycobacterial vacuole to toxic levels (19, 20). To resist metal intoxication, M. tuberculosis uses metal efflux and detoxification systems, such as P-type ATPases, oxidases and sequestration (21–23). In this review, we highlight the recent progress in metal biology of M. tuberculosis and the dual roles of several metals in host-pathogen interactions as micronutrients for the bacteria and toxic weapons for the host. In particular, we discuss the emerging concept that the host immune system has exploited this vulnerability by overloading M. tuberculosis with excess metals to kill the bacteria. Thus, the mammalian immune system in response to M. tuberculosis infection seems to combine nutritional immunity mechanisms by depriving M. tuberculosis from some metals (Fe, Mn), while poisoning the bacteria with others (Cu, Zn). These fascinating developments open novel venues to better understand host-pathogen interactions and to design new intervention strategies in tuberculosis therapy.
+
+Metal acquisition by M. tuberculosis and its role in intracellular survival: the case of iron
+The physiological role of iron
+Iron switches readily between its two most prevalent oxidation states, Fe(II) (ferrous) and Fe(III) (ferric), and is therefore particularly suited to carry out single electron transfer reactions (24). Iron ions in both oxidation states form complexes with several ligands and different coordination numbers and geometries. This versatility enables fine-tuning of the redox potential of Fe(III)/Fe(II) between −500 mV to 600 mV in proteins and makes iron an ideal co-factor in many redox reactions including respiration and DNA synthesis (25). Not surprisingly, iron is an essential metal for all known bacterial pathogens with the notable exception of Borrelia spp. (26). Iron is abundant in the human body (27), but it is also one of the least accessible micronutrients due to sequestration by host proteins (28). Approximately 70–75% of the iron in the human body is bound to porphyrin to form heme, which is essential for oxygen transport, enzymatic reactions and cellular respiration (24). Since free heme is toxic due to its association with membranes, ~95% of host heme is bound by proteins (29). Iron that is not bound by heme is sequestered by the transport proteins transferrin and lactoferrin or stored in ferritin (30, 31). These host mechanisms usually keep free iron below the level required for bacterial growth and are regulated by the hormone hepcidin which orchestrates an innate immune response to further reduce available iron and to slow or stop growth of bacterial pathogens (32, 33).
+
+However, iron can also be toxic, because it can generate highly toxic hydroxyl radicals from hydrogen peroxide (34), an endogenous byproduct of aerobic respiration (35). Although hydroxyl radicals react with most biomolecules, the damage inflicted on genomic DNA was considered for a long time as the principal mechanism accounting for the toxicity of hydroxyl radicals and thus of iron (34).
+
+Iron acquisition by bacterial pathogens
+To counter iron deficiency, bacterial pathogens have developed high affinity acquisition systems for iron-loaded siderophores, heme and for the host proteins transferrin and lactoferrin. Most bacteria secrete small iron chelators called siderophores, which bind ferric iron with high affinity and transport it into the bacterial cell (28, 36, 37). Iron utilization by Staphylococcus aureus is well studied and serves as a paradigm for Gram-positive bacteria (38). Binding of the iron-loaded siderophores staphyloferrin A and B by the lipoproteins HtsA and SirA, respectively, induces conformational changes leading to uptake by their cognate membrane-spanning permeases HtsBC and SirBC, respectively (39–42). The presence of a second membrane makes iron uptake by Gram-negative bacteria substantially more complicated. In E. coli, iron-loaded siderophores, such as enterobactin and ferrichrome, are first bound by the outer membrane receptors FepA and FhuA, respectively, which transport the iron-loaded siderophores into the periplasm. The energy for this transport is derived from the electrochemical gradients across the inner membrane and is transduced by the TonB-ExbB-ExbD protein complex to the outer membrane receptors (43–45). Then, the iron-siderophore complex is bound by siderophore-specific periplasmic proteins, which mediate transport across the inner membrane through their cognate permeases (28, 37, 46, 47).
+
+Almost 70% of the host iron is bound in heme (27). Thus, many bacterial pathogens secrete sphingomyelinases to lyse erythrocytes and to gain access to hemoglobin-bound heme (48–50). Hemoglobin is captured by the surface protein IsdB of S. aureus (51) and is then imported and degraded by other proteins of the iron-regulated surface determinant (Isd) system (52). Gram-negative bacteria often secrete proteins called hemophores, which sequester heme from host hemoproteins (42, 53). The high affinity heme uptake system Has in Serratia spp. utilizes the secreted hemophore HasA, which sequesters heme from host hemoproteins (54, 55). Thus, in Gram-negative bacteria hemophores, host hemoproteins or heme released from hemoglobin after proteolytic degradation are bound to specific outer membrane receptors (53). Then, heme is removed from these proteins and transported into the periplasm in a TonB-dependent manner where it is bound by heme-binding proteins and transported across the inner membrane through cognate inner membrane permeases (53).
+
+The host proteins transferrin and lactoferrin transport iron to the cells and control the level of free iron in the blood and external secretions (56–58). These proteins constitute approximately 12% of the iron in the human body (27) and, not surprisingly, represent another iron source utilized by bacteria (30, 59). The best studied example are Neisseria spp. which, unlike most Gram-negative bacteria, do not produce siderophores but instead extract iron directly from serum transferrin (60). To this end Neisseria produce the outer membrane receptor complexes TbpA/TbpB and LbpA/LbpA (61) which bind transferrin and lactoferrin, respectively. The mechanism of TonB-dependent iron removal from transferrin by the concerted action of TbpA and TbpB has been elegantly elucidated (62). Iron is channeled through the TbpA pore, bound by periplasmic proteins and then imported across the inner membrane by ABC transporters (63).
+
+Iron acquisition by M. tuberculosis
+M. tuberculosis, as most other bacterial pathogens, requires iron for growth (15, 64). For years it was believed that M. tuberculosis only relies on its siderophores, mycobactin (MBT) and carboxymycobactin (cMBT), for iron acquisition (64). This view was supported by observations that mycobactin biosynthesis is critical for growth of M. tuberculosis after the internal iron stores have been depleted. Carboxymycobactins are capable of removing iron from transferrin and ferritin (65) in contrast to most other bacterial siderophores (66). Consistent with this observation is the finding that a mycobactin synthesis mutant did not grow with human transferrin as the only iron source, demonstrating that M. tuberculosis has no active transferrin uptake system in vitro (17). M. tuberculosis attracts transferrin both in vitro (67) and in macrophages (68, 69). However, the conclusion by Boradia et al. that M. tuberculosis can internalize human transferrin (67) is based on a flawed use of a wild-type M. tuberculosis strain which secretes siderophores capable of removing iron from transferrin (65). By contrast, it has been conclusively shown that siderophore-deficient M. tuberculosis mutants can utilize heme as an alternative iron source (17, 18).
+
+Compared to other bacteria relatively little is known about siderophore-mediated iron acquisition by M. tuberculosis. Since mycobacteria have two membranes (70–72), in principle secretion and uptake mechanisms resemble more closely that of Gram-negative bacteria (73). Siderophores are synthesized by cytoplasmic synthases encoded by two mbt operons (74, 75). Synthesis and transport of siderophores are likely coupled (76) and depend on the membrane proteins MmpS4 and MmpS5 that are associated with the transporters MmpL4 and MmpL5 of the resistance-nodulation-cell division (RND) superfamily (76). Export of siderophores across the outer membrane probably requires an as yet unknown outer membrane channel. Secreted carboxymycobactins bind iron, but it is unknown how they are re-captured by M. tuberculosis and how they cross the outer membrane. Ferric-carboxymycobactins are transported across the inner membrane by the IrtA/IrtB protein complex (77). Iron is probably released from the imported carboxymycobactins by a reductive mechanism rather than by enzymatic degradation (78). This mechanism leaves the siderophores intact so that they can be recycled by the export system consisting of MmpL4/MmpS4 and MmpL5/MmpS5 as recently shown (79). The type VII protein secretion system Esx-3 of M. tuberculosis is required for iron acquisition, but its mechanistic role is unclear (80–83). Recently, it was observed that M. tuberculosis releases membrane vesicles containing ferric mycobactins under iron limitation (84). It has been proposed that these vesicles might be a means to share iron between M. tuberculosis cells; however, it is not clear what advantage these vesicles have over secreted carboxymycobactins, which are accessible to all M. tuberculosis cells. Maybe the role of these vesicles is rather to gain access to host iron stored in hydrophobic environments that are not accessible for cMBT or to traverse the hydrophobic extracellular matrix of an M. tuberculosis biofilm as suggested previously (79)? Even less is known about heme uptake by M. tuberculosis. M. tuberculosis produces the heme-binding protein Rv0203, which appears to improve but is not essential for heme utilization (18). Rv0203 was found in the culture filtrate of M. tuberculosis and was proposed to be a hemophore. However, Rv0203 transfers heme to the extracellular domains of the inner membrane proteins MmpL3 and MmpL11 (85, 86). This finding rather indicates a localization of Rv0203 in the periplasm. The roles of the proposed heme importers MmpL3 and MmpL11 are also unclear, since MmpL3 has been shown to export trehalose monomycolate (87, 88) and other known MmpL proteins are exporters of lipids or lipid-like molecules (76, 89–92). Intracellular heme is then degraded by the non-canonical enzyme MhuD without releasing CO. This unusual heme degradation mechanism may have evolved to avoid producing a signal for transition of M. tuberculosis to dormancy (93).
+
+Regulation of iron homeostasis in M. tuberculosis
+Iron uptake and utilization are tightly regulated by M. tuberculosis to avoid free iron in the cell cytoplasm. Transcriptional profiling revealed that 155 genes are differentially regulated as a result of iron availability and approximately one-third of those genes are regulated by the iron dependent regulator (IdeR) (94). In the presence of iron, IdeR binds to the so-called iron boxes at promoters and represses expression of genes for siderophore synthesis and activates genes encoding iron storage proteins, such as the bacterioferritins BfrA and BfrB (95–97). IdeR is essential for growth of M. tuberculosis in vitro because unregulated iron uptake increases oxidative stress and leads to accumulative self-damage eventually killing M. tuberculosis (98). This study also showed that IdeR is required for survival of M. tuberculosis in mice indicating the importance of iron homeostasis for virulence of M. tuberculosis.
+
+Role of iron in tuberculosis and in virulence of M. tuberculosis
+In the late 19th century, the French physician Armand Trousseau recognized that treating anemic tuberculosis patients with iron salts exacerbated the disease (99). These circumstantial findings have been substantiated in clinical studies (100, 101) and reproduced in model systems (102, 103). For example, an iron-rich diet increased the bacterial burden in mice infected with M. tuberculosis (103). Further, β-2-microglobulin-deficient mice suffer from iron overload in tissues and increased replication of M. tuberculosis. Treatment of these mice with lactoferrin reduced M. tuberculosis counts in organs establishing that iron overload represents an exacerbating factor for tuberculosis (103). Conversely, host factor polymorphisms also support the conclusion that iron availability is important in tuberculosis pathogenesis in humans. For example, mutations of the natural resistance-associated macrophage protein 1 (Nramp1), a divalent metal transporter expressed exclusively in phagocytic cells, have been associated with increased susceptibility to tuberculosis (104, 105) (Fig. 1).
+
+These observations suggested that iron acquisition is essential for virulence of M. tuberculosis. However, it has been difficult to obtain conclusive experimental evidence for this hypothesis for several reasons. We have observed that M. tuberculosis requires siderophores to grow in vitro even under high iron conditions (79). This makes it impossible to obtain truly mycobactin-deficient mutants without constructing conditional mutants or supplementing with iron-loaded siderophores or heme (106). In addition, gene deletions in the main mycobactin operon (mbtB-mbtH) often do not disrupt the expression of downstream genes and do not fully disrupt mycobactin biosynthesis because the lack of individual enzymes in this pathway may be compensated for by other Mtb enzymes at a low level, in contrast to the lack of several Mbt enzymes. Such a phenomenon might be the explanation why an mbtD::hyg deletion completely abolished mycobactin production, but not the unmarked mbtD::loxP mutant (79). Such a mechanism may also explain the residual mycobactin production by the M. tuberculosis mbtB mutant (107). However, this study did show that even a reduced mycobactin synthesis impaired replication of M. tuberculosis in macrophages. Reddy et al. (108) also demonstrated that a mutant lacking mbtE did not synthesize siderophores anymore and failed to grow in low iron medium. However, this study is controversial because infection of guinea pigs with the mbtE mutant and wildtype M. tuberculosis showed similar pathology for both strains, but only wildtype M. tuberculosis was recovered on plates with organ homogenates (106). The inner membrane transporter IrtA/IrtB is required for efficient uptake of carboxymycobactin, but the residual carboxymycobactin uptake by the irtAB mutant also indicated the presence of a second transporter (77). Nevertheless, deletion of irtAB significantly impaired the ability of M. tuberculosis to grow under iron limiting conditions in vitro and in mice lungs, indicating that the carboxymycobactin uptake is mainly mediated by IrtAB and that the activity of IrtAB is required for full virulence of M. tuberculosis (77). By far the strongest in vivo phenotype was obtained for the M. tuberculosis mmpS4-mmpS5 double mutant. Lack of MmpS4 and MmpS5 strongly reduced siderophore secretion and growth of M. tuberculosis under iron limiting conditions and made M. tuberculosis avirulent in mice (76). However, this virulence defect can only partially be attributed to reduced iron uptake and might, in fact, be largely caused by self-poisoning of M. tuberculosis by taking up active siderophores in the absence of a functional siderophore recycling system consisting of MmpS4/MmpL4 and MmpS5/MmpL5 (79). Another complication in assessing the role of iron for M. tuberculosis in vivo is the availability of heme as an alternate iron source in addition to the partial redundancy in siderophore uptake systems and the occurrence of secondary effects when siderophore secretion is impaired. Hence, it might be necessary to construct a conditional mutant that cannot utilize both iron sources to elucidate the real importance of iron acquisition for M. tuberculosis in vivo.
+
+Role of other transition metals in virulence of M. tuberculosis: the case of manganese, nickel, and cobalt
+Although iron is by far the best studied transition metal, other transition metals such as manganese, nickel, and cobalt are also essential micronutrients for M. tuberculosis. Manganese is critical for the viability and virulence of many bacterial pathogens. Emerging evidence indicates that invading microbes utilize manganese to resist the effects of host-mediated oxidative stress and this metal thus plays a significant role in adaptation of pathogenic bacteria to the human host (109). Not surprisingly, the host immune system tries to restrict the availability of both manganese and zinc in response to bacterial infections by using the chelating protein calprotectin (110–113). Interestingly, S100 proteins such as calprotectin are the dominant proteins produced by neutrophils in lung granulomas of TB patients (114), indicating that our immune system tries to sequester manganese and zinc from M. tuberculosis in tissues to restrict its growth and resistance to reactive oxygen intermediates (Fig. 1). However, direct evidence for this hypothesis is lacking. Nickel and cobalt are the two remaining out of six first-row 3d-block transition elements that function as inorganic co-factors in up to 25% of all proteins in cells (115). Nickel is a co-factor of the M. tuberculosis urease Rv1848 (116). Cobalt is required for the biosynthesis of vitamin B12 (43). The transcriptional regulators KmtR and NmtR of M. tuberculosis function as two nickel-cobalt sensors, further suggesting physiological significance for these ions (117). While uptake of cobalamin is utilized by M. tuberculosis to syntesize vitamin B12 and may contribute to M. tuberculosis survival in macrophages, cobalt acquisition systems are not known (118). It is apparent that our knowledge about the role of manganese, nickel and cobalt in tuberculosis is rudimentary at best, and further studies are required in order to decipher the mechanisms involved in acquisition and utilization of these metal species.
+
+Copper in host defense against M. tuberculosis and in mycobacterial virulence
+The physiological roles of copper and its toxicity
+Copper is a redox-active metal and, like iron, cycles mainly between two oxidative states Cu(I) (cuprous) and Cu(II) (cupric) under physiological conditions. The Cu(II)/Cu(I) redox potential in proteins is higher than that of Fe(III)/Fe(II) ranging from 250–750 mV enabling catalysis of oxidations using oxygen (24). This has been exploited by most living organisms, including mycobacteria and humans. One prominent example of the many known copper enzymes and proteins is the cytochrome c oxidase, which is a key component of aerobic respiration (119–121).
+
+Copper also is able to engage in Fenton chemistry with hydrogen peroxide (122), an endogenous byproduct of aerobic respiration (35), to generate hydroxyl radicals in a similar manner as known for iron. Hydroxyl radicals react with most biomolecules including DNA (34) and membrane lipids (123). DNA damage was broadly accepted as the main mechanism of copper cytotoxicity (124). However, a recent study (124) did not find any evidence of oxidative DNA damage in E. coli overloaded with copper. Since neither DNA damage nor lipid peroxidation could fully explain the bactericidal properties of copper ions, Macomber and Imlay (125) investigated the direct effect of copper overload on cellular proteins. They found that the antibacterial properties of copper ions on E. coli are mainly due to inhibition of intracellular dehydratases with exposed iron-sulfur clusters in a ROS-independent process (125). Copper was found to remove, as opposed to replace, Fe from iron-sulfur clusters, which further deteriorated by an undefined mechanism until only the apoenzyme remains (125, 126). In agreement with these findings, iron-sulfur cluster proteins were also targeted by copper in B. subtilis (127). Microarray data from M. tuberculosis exposed to copper also indicated damage on iron-sulfur cluster enzymes (128). Taken together copper is an essential micronutrient for most cells, but its uptake and reactivity must be strictly controlled to ensure cellular survival.
+
+Copper homeostasis in macrophages
+Eukaryotic cells including macrophages utilize an array of copper uptake, sequestration and trafficking proteins to maintain copper homeostasis and ensure that all copper ions securely reach their target sites. Divalent copper in the blood must be reduced prior to entering the cell, possibly by the action of membrane associated copper reductases (129). Cu+ is taken up by the high affinity Cu+ import protein CTR1 (Fig. 1), while copper toxicity is prevented by cytosolic metallothioneins, which sequester any surplus copper to prevent cellular damage (130, 131). Intracellular copper trafficking is mediated by chaperones which typically receive Cu+ immediately after it enters the cell (131). The exact mechanism of copper transfer between CTR1 and cytosolic copper chaperons is unknown, but may involve glutathione (132, 133). The copper chaperon Cox17 is known to supply copper to mitochondrial cytochrome c oxidase (134) and CCS supplies cytosolic superoxide dismutase 1 (SOD1) (135), while ATOX1 delivers the Cu+ ions to the copper transporter ATP7A or ATP7B of the secretory pathway for incorporation into copper requiring proteins that pass through the trans-Golgi network (e.g. lysyl oxidase, tyrosinase) (136, 137). ATP7A also translocates to the plasma membrane pumping excess cytosolic copper out of the cell (138), and to the phagosome (139).
+
+Immunological functions of copper
+In humans, nutritional or inherited copper deficiency (Menkes Syndrome) is associated with multi-system pathologies, including increased susceptibility to bacterial infections (132, 140). Correspondingly, induced or natural copper deficiency in animals has been shown to impair the ability of macrophages and neutrophils to generate an oxidative burst and effectively kill phagocytized microbes (141, 142). Despite the long-standing observations that copper promotes a healthy immune system (143), the recognition of copper as an integral part of innate immune responses is relatively recent. Several lines of evidence now indicate that copper redistribution and mobilization in mammalian tissues and individual cells is a key immune response to bacterial infections (144–146). We previously investigated the distribution of copper in lungs of M. tuberculosis infected guinea pigs and found significantly elevated copper levels in primary granulomas while the copper content in unaffected lung tissue remained low (19). Hypoxia, a hallmark of tuberculosis granulomas (147), has been shown to induce the expression of ctr1 in human lung tissue (148) and in macrophages (149) and may constitute the signal for the copper increase at the site of M. tuberculosis infection. In macrophages, this phenomenon also occurs in the absence of hypoxia, where proinflammatory molecules such as INF-γ or bacterial TLR agonists (e.g. LPS) induce a similar response (139). White et al. (139) demonstrated that within E.coli infected macrophages, ATP7A translocates to the phagosomal membrane and enhances their bactericidal activity by presumably facilitating the transport of copper into the phagosome. However, M. tuberculosis is unique, as it has seemingly evolved to circumvent this immune response and has adapted to thrive in this copper-rich environment by pursuing two major strategies: impairing macrophage phagosome functions (150–153) and maintaining an extremely low intracellular copper content (19, 154).
+
+Mycobacterial copper homeostasis and copper resistance proteins of M. tuberculosis Only one copper enzyme in M. tuberculosis is known with relevance for both in vitro growth and survival in the host. The aa3-type cytochrome c oxidase is a key component of aerobic respiration in the cytoplasmic membrane (155). Its two core subunits, CtaC (Rv2200c, subunit II) and CtaD (Rv3043c, subunit I), are essential for growth of M. tuberculosis and harbor two copper centers which are jointly responsible for the electron transfer from cytochrome c to dioxygen (156, 157). Surplus energy from this intramolecular electron transfer process is used to generate a proton gradient across the cytoplasmic membrane which propels ATP synthesis (156). Interestingly, mycobacteria also have a copper-independent terminal oxidase, the cytochrome bd oxidase, which is critical for adaptation to an oxygen restricted environment (155, 158, 159) in which copper ions are also the most toxic to microbes (160). The switch to a copper-independent metabolism may thus also protect, at least partially, from copper-mediated toxicity when oxygen is scarce.
+
+The stress response of M. tuberculosis towards copper has mainly been studied in vitro. Microarrays identified 30 Cu-responsive genes (128). Expression of some of these genes was also induced in macrophages and in animal models (128) suggesting that M. tuberculosis encounters copper toxicity in host cells. Several copper resistance mechanisms of M. tuberculosis have been identified. The first line of defense is M. tuberculosis ’s outer membrane (71, 161). Copper uptake across mycobacterial outer membranes is controlled by channel proteins as shown for M. tuberculosis and MspA in M. smegmatis (162). The inner membrane of M. tuberculosis hosts CtpV, a P-ATPase cation transporter that likely acts as a copper efflux pump (154, 163). However, CtpV deletion does not result in virulence defects in mice perhaps because M. tuberculosis has the capacity to at least partially compensate for the loss of CtpV by expression of alternative metal efflux pumps (154, 163). Indeed, 3 out of the 12 P-type ATPases (CtpA, CtpB, CtpV) of M. tuberculosis have predicted preference for Cu, as discussed below (163). Another membrane protein, MctB, also decreases intracellular copper levels and is required for full M. tuberculosis copper resistance and virulence in mice and guinea pigs (19, 164). However, its exact function in copper homeostasis remains undefined and its precise location within the cell envelope is not known (22). In addition to controlling copper uptake by membrane proteins, M. tuberculosis attempts to detoxify and sequester copper ions. The periplasmic multicopper oxidase MmcO is a homolog of E. coli CueO and probably oxidizes Cu(I) to the less toxic Cu(II) (165). MmcO expression is induced by copper, though a virulent clinical strain of M. tuberculosis lacks the gene (166), suggesting a redundancy with other copper resistance mechanisms. The metallothionein MymT binds multiple copper ions within the cytoplasm (21). Finally, M. tuberculosis may employ yet unknown resistance mechanisms which are regulated on a transcriptional level by CsoR and RicR. CsoR has a very high affinity for copper ions (K ≥ 1019 M−1) which allows M. tuberculosis to respond to small amounts of free Cu(I) and to induce transcription of the copper-sensitive operon cso (167). The cso operon encodes CsoR itself, CtpV, and two proteins of unknown function (Rv0978, Rv0980). Recently, RicR was identified as an additional regulator in M. tuberculosis that also dissociates from its cognate DNA binding sites upon binding copper (168). The ric regulon comprises ricR, mymT, two genes encoding the predicted membrane proteins LpqS and Rv2963, and the socAB locus of unknown function (168). Interestingly, absence of any single copper resistance gene controlled by RicR is not sufficient to induce copper susceptibility, but mutation of the copper binding residue in RicR, and thus ablation of its copper-sensing ability, increases copper susceptibility and reduces virulence of M. tuberculosis (169).
+
+Role of copper in the phagosome
+The majority of these mechanisms were studied in bacterial cell culture and may not accurately reflect the situation in macrophages. Bioavailability of copper and its reactivity are dependent on many factors including medium composition and preparation, pH, and redox status (160, 170, 171). For example, E. coli is more susceptible to copper under anaerobic conditions resembling a reducing environment while aerobically cultured bacteria are quite resilient (160). Similarly, E. coli appears to be more sensitive to copper in minimal medium (MIC &lt; 0.01 mM) than when grown in rich medium (MIC &gt; 1 mM) (172, 173), which, also holds true for M. tuberculosis (154, 169, 174). One prerequisite for copper toxicity to take place in the phagosome is therefore the presence of a chemical environment that promotes copper toxicity at concentrations reported for phagosomes (0.02–0.4 mM) (175). In addition, E. coli transcriptionally and metabolically adapts to copper in vitro, by using alternative enzymes or activating pathways that are less affected by copper. However, such adaptation may not be possible in vivo due to nutrient starvation, energy limitation and the abundance of antibacterial molecules in the phagosome (e.g. metal ions, ROS, acidity, antibacterial peptides).
+
+In the phagosome, it is likely that copper ions encounter hydrogen peroxide outside of the bacterial cell. NADPH oxidase, a membrane integral protein that is recruited to the phagosomal membrane, generates superoxide radical anion from molecular oxygen (176, 177). The dismutation of the superoxide anion generates hydrogen peroxide in the lumen of the phagosome which could potentially provide the means for copper ions to undergo Fenton chemistry as described above (146). The inflicted oxidative damage on lipids may not kill the bacteria per se but could prime the bacterial cell for subsequent destruction by other phagosomal functions. The potential synergism of bactericidal mechanisms in the phagosome, e.g between copper overload and oxidative burst (146), may also prevent to experimentally determine the relevance of individual resistance mechanisms in vivo.
+
+Zinc in host defense against M. tuberculosis and in mycobacterial virulence
+Zinc toxicity results from replacing other cations in essential enzymes, thereby blocking their activity (178). In addition, Zn2+ competes with Mn2+ uptake systems, leading to Mn2+ deficiency. For instance, the Streptococcus pneumoniae Mn2+ importer PsaA is blocked by Zn2+, inducing Mn2+ deprivation and increased sensitivity to oxidative stress (179, 180). Whether Zn2+ can inhibit the putative Mn2+ importer MntH (Rv0924c) of M. tuberculosis remains to be evaluated.
+
+In addition to copper, a novel host defense mechanism against infections relying on intoxicating microbes inside phagosomes through zinc overload has recently been reported. We (20, 181) have shown that zinc accumulates in the mycobacterial phagosome as well as in vacuoles containing other microbes, such as E. coli, during infection, and that the P-ATPase CtpC is required for optimal intracellular growth of M. tuberculosis. Interestingly, we showed that zinc also accumulates in phago-lysosomes containing non-pathogenic species such as E. coli and that a mutant of E. coli in the well-characterized zinc efflux P-ATPase ZntA was killed faster than its wild type counterpart in macrophages.
+
+The total amount of zinc in living organisms is highly regulated (0.1–0.5 mM representing the so-called ‘zinc quota’) and because of its toxicity, free zinc is present in very limited amounts in cells, most zinc atoms being bound to proteins such as metallothioneins, ribosomes etc., referred to as the ‘zinc proteome’. In the presence of an excess of free zinc, eukaryotic cells react by translocating the zinc-sensing metal transcription factor MTF-1 to the nucleus, which induces expression of zinc detoxification genes, such as the metallothionein-encoding genes mt1 and mt2, and the zinc efflux transporter-encoding gene znt1/slc30a1 (182).
+
+The observation of such a signature of zinc stress in M. tuberculosis-infected macrophages prompted us to evaluate whether free zinc was present in excess amounts in infected cells, which was confirmed by confocal microscopy (20). However, zinc labelling was clearly concentrated to small intracellular compartments in infected macrophages. Such compartments are referred to as ‘zincosomes’ in the literature (183). They may allow zinc storage and buffering, thereby avoiding zinc to be present in excess in the cytosol (184). Zincosomes have been suggested to represent a subset of the late endosomal pool. Indeed, most zincosomes stain positive for the late endosomal and lysosomal markers LAMP-1 and Cathepsin D (20). However, we also observed a fraction of zincosomes staining positive for the early endosomal marker Rab5, strongly suggesting that zincosomes span over the entire endocytic pathway. Our results suggest that free zinc is released from an intracellular pool rather than being influxed from the outside of the cells in M. tuberculosis-infected macrophages. Release of zinc from intracellular zinc-containing proteins is blocked by chemical inhibitors of the NADPH oxidase (e.g. apocynin) implying a role of oxygen radicals generated upon infection in this immune response (20). However, the exact origin of the free zinc fraction observed in infected macrophages, the signals leading to zinc release, the transporters involved in zinc relocalization to the zincosomes, and most importantly the mechanisms and putative transporters implicated in zinc accumulation in phagosomes are unknown. ZnT1-10 (SLC30A1-10) form a family of eukaryotic zinc transporters that are expressed in various cells and tissues, and that localize to the plasma membrane and intracellular vesicles, thereby allowing zinc efflux from the cytosol to the extracellular milieu, or zinc influx from the cytosol to the lumen of intracellular compartments (182). It is anticipated that zinc mobilization to zincosomes and phagosomes in macrophages is due, at least in part, to one or more ZnT transporter(s), which remains to be further explored.
+
+Equally important will be to understand the exact function of CtpC, and possibly other M. tuberculosis P-ATPases, in mycobacterial resistance to zinc intoxication. In this regard, the putative CtpC cognate metallochaperone Rv3269 is highly intriguing and its function should be further dissected. Rv3269 is a small putative peptide of 93 amino acid residues, with a Val5-Tyr24 putative transmembrane domain, and a cytoplasmic Asp87-Leu-His-Asp-His-Asp-His93 C-terminal domain. The facts that rv3269 is induced together with ctpC in response to zinc (20) and that the two genes are encoded in an operon strongly suggest a common function. It is tempting to speculate that Rv3269 binds Zn2+ through its C-terminal domain and transfer the metal ion to CtpC for active efflux. Finally, the CtpG-encoding gene is also induced by Zn2+ stress (20) indicating that this transporter also contributes to zinc efflux.
+
+Metal efflux in M. tuberculosis
+In prokaryotes, resistance to metal toxicity heavily relies on efflux systems and this appears to be the case for M. tuberculosis as well. Metal efflux systems belong to three main families: heavy metal efflux members of the RND superfamily (HME-RND), the cation diffusion facilitators (CDF) family, and the P-type ATPase family (185). Gram-negative bacteria frequently expel toxic metal ions through tripartite efflux pumps of the RND superfamily that form a complex with a periplasmic membrane fusion protein and an outer membrane channel spanning both the inner and outer membranes. For example, the CusCBA efflux system extrudes biocidal Cu(I) ions (186, 187). This efflux system is capable of picking up the metal ions from both the periplasm and the cytoplasm and uses methionine residues to export Cu(I) ions (188). By contrast, we do not know any outer membrane component of metal efflux systems in M. tuberculosis and we are only beginning to identify inner membrane efflux pumps and to determine their metal specificity. The M. tuberculosis genome (189) contains no member of the HME-RND family and only one putative CDF transporter (Rv2025c). Expression of rv2025c is repressed by the transcriptional repressor KmtR (Rv0827c) and is induced by Ni2+ and Co2+, suggesting that Rv2025c transports Ni2+ and Co2+ (117). In addition, M. tuberculosis contains no member of the recently discovered MntX family involved in Mn2+ efflux (190) and no close homolog of ZntB, a member of the CorA family shown to mediate Zn2+ efflux in Salmonella (191). However, the M. tuberculosis genome codes for the striking number of 12 P-type ATPases (named Ctp for cation-transporting protein), whose substrate specificities are still partially unknown (181, 192). Ions are transported by P-ATPases by coupling ATP hydrolysis at the cytoplasmic domain with ion translocation across the inner membrane through the transmembrane (TM) domain of the transporter. This mechanism is well conserved throughout evolution. The M. tuberculosis P-ATPases are members of different families. While KdpB (Rv1030) is a putative P1A-type ATPase K+ transporter, CtpA (Rv0092), CtpB (Rv0103c), CtpC (Rv3270), CtpD (Rv1469), CtpG (Rv1992c), CtpJ (Rv3743c) and CtpV (Rv0969) are P1B-ATPases involved in the transport of metal cations. CtpF (Rv1997c) is a putative P2A-type Ca2+ transporter. CtpE (Rv0908), CtpH (Rv0425c) and CtpI (Rv0107c) constitute atypical P-ATPases with no substrate prediction. CtpE, CtpF, CtpH, and CtpI exhibit a Pro-Glu-Gly-Leu-(Pro/Val) motif in the membrane spanning helix located upstream the phosphorylation site. This motif is found in all Ca2+-ATPases where it is part of the calcium transport site. Interestingly, upstream of the ctpC, ctpG and ctpV genes are genes encoding putative metallochaperones (Rv3269, Rv1993c, and Rv0968) that might play a part in metal selectivity and transport mechanism of their cognate P-type ATPase, as recently demonstrated for a similar transport system in Streptococcus pneumoniae (193).
+
+Inference on selectivity of P-type ATPases for metal ions is difficult, and relies on similarities to known transporters, on the presence of conserved metal-binding motifs, the function of neighboring genes and on gene regulation by metal ions. Metal transporting P1B-ATPases have been classified into five subfamilies on the basis of sequence homology (194). Interestingly, this study revealed that each subfamily possesses conserved amino acids in TM helices 6, 7, and 8, likely to be involved in metal coordination. According to these criteria CtpA, CtpB, and CtpV may be part of the P1B1-type subfamily of Cu+-ATPases, while CtpD and CtpJ belong to the P1B4-type subfamily of Co2+-ATPases (195, 196). This classification of CtpJ is in agreement with the regulation of this transporter by the Ni2+/Co2+-sensing DNA-binding repressor NmtR (197). CtpG is embedded in an operon together with the Cd2+/Pb2+-sensing regulator CmtR (Rv1994c), suggesting CtpG is a Cd2+/Pb2+ efflux transporter. The hypothesis that CtpV might efflux copper is supported by the facts that (i) the ctpV gene, together with that of its cognate regulator- and putative metallochaperone-encoding genes csoR and Rv0968, is induced in response to Cu+ excess (128); and (ii) a ctpV-null mutant of M. tuberculosis is highly sensitive to Cu+ (198). Similarly an excess of Co2+ induces the CtpD- and CtpJ-encoding genes, and mycobacterial mutants inactivated in these transporters accumulate Co2+ (196), suggesting CtpD and CtpJ transport Co2+.
+
+While we and others found the ctpC gene is strongly induced by Zn2+, and a ctpC-null mutant of M. tuberculosis is highly sensitive to Zn2+ intoxication (20, 199), kinetics using recombinant CtpC suggested the protein might transport preferentially Mn2+ over Zn2+ (199). This apparent discrepancy might be explained by the fact that the study by Padilla-Benavides et al. (199) did not include the putative CtpC metallochaperone Rv3269 in their in vitro systems. Rv3269 contains a clear putative zinc-binding motif (DLHDHDH) in its C-terminus end, which might confer zinc-specificity to CtpC. Recent studies suggested a role for CtpC, CtpD, and CtpV, as well as for other metal efflux or resistance systems in M. tuberculosis virulence, suggesting that in addition to metal withholding, mammalian phagocytes exploit the toxic properties of transition metals to control bacterial infections (200).
+
+Novel intervention strategies to enhance metal toxicity against M. tuberculosis: the case of copper
+Early experiments showed that the anti-mycobacterial activity of isoniazid, a main drug in current tuberculosis chemotherapeutic regimens, was enhanced by copper binding indicating a synergistic effect (201, 202). These findings suggested that it might be possible to identify novel copper-chelating compounds with anti-mycobacterial activities. Indeed, a copper-dependent drug screen identified copper complexes of bis-thiosemicarbazones with activities against M. tuberculosis (174). The minimal inhibitory concentration of GTSM [glyoxalbis(N(4)-methyl-3-thiosemicarbazone] was ~300 nM and killed non-replicating M. tuberculosis at a concentration of 2.5 μM. An interesting feature of bis-thiosemicarbazones copper complexes is their ability to accumulate in hypoxic tissues (203, 204). While this ability is currently exploited for diagnosis and potential treatment of certain cancers and neurodegenerative diseases (205, 206), it will also be beneficial in tuberculosis chemotherapy as hypoxia is a well-known condition of infected lung tissue (147). The GTSM-copper complex also inhibits the growth of methicillin-resistant Staphylococcus aureus and Neisseria gonorrhoeae in a copper-dependent manner (207, 208). By contrast, zinc and iron, which are the two most abundant transition metals in the human body (209), did not impede Cu(II)-GTSM activity (207), suggesting specificity of copper-binding by GTSM in vivo. McEwan and coworkers (210) found that copper overload did not occur in GTSM-treated N. gonorrhoeae cells which is consistent with the fact that the active concentration of 30 nM GTSM is too low to significantly raise the average cellular copper content of 10 μM. Instead, the authors showed that Cu(II)GTSM specifically targets NADH and succinate dehydrogenase, two respiratory enzymes which are no longer able to maintain electron flow to terminal oxidases upon binding of the copper complex and its reduction by the enzyme (208). For the first time, this study revealed that copper complexes with small molecules act on defined bacterial targets and by novel mechanisms distinct from the general toxicity of free copper ions. These studies indicate that it is possible to enhance the toxicity of metals to kill bacterial pathogens by selectively targeting essential cellular processes. Whether similar strategies can be used to enhance the toxicity of other metal ions such as zinc remains to be explored.
+
+Conclusions and perspectives
+A key trait of M. tuberculosis is to exploit and manipulate metal cation trafficking inside infected macrophages to ensure survival and replication inside the phagosome. However, we are just at the beginning to discover all the components of metal acquisition and detoxification systems of M. tuberculosis. We have no clue about how these proteins interact with each other to guide metal cations in both uptake and efflux processes. A better understanding of metal transport processes in M. tuberculosis is not only important for deciphering the physiology of M. tuberculosis in vivo, but will also likely provide a plethora of novel molecular mechanisms as apparent from the few known metal-related transport systems (18, 76, 79). Occasionally, knowledge of these pathways may reveal an unexpected vulnerability of the tuberculosis bacillus. A recent example is that blocking siderophore export leads to self-poisoning of M. tuberculosis (79) and converts it into a non-pathogenic bacterium (76). Conversely, the mechanisms by which metal is transported into or out of the phagosome in macrophages and the signals controlling these events are poorly understood. However, these mechanisms might offer avenues for novel anti-infective approaches, which are urgently needed considering the failing existing tuberculosis chemotherapeutic regimens as recently pointed out by Nathan (211). First, metal-targeted nutritional immunity (200) against M. tuberculosis could be enhanced by promoting metal depletion through stimulating transporter translocation to the phagosome and utilizing chelators combined with dietary changes. Second, the metal defense systems of M. tuberculosis could be targeted by novel drugs to enhance the susceptibility of M. tuberculosis against copper and zinc. Third, it is possible to enhance the toxicity of metals utilized by the immune system to kill bacterial pathogens as shown in a novel drug-screening approach which identified copper-boosting compounds effective against replicating and nonreplicating M. tuberculosis strains (174). Hopefully, the fascinating recent discoveries of new metal homeostasis mechanisms both in M. tuberculosis and in macrophages as described in this review will stimulate more efforts to understand the battle for metal between M. tuberculosis and the host.
+
+We thank Jennifer Rowland for the figure design and Alex Dalecki and Kaitlyn Schaaf for editing the manuscript. Research in the laboratory of O.N. is supported by the Centre National de la Recherche Scientifique (CNRS), the Fondation pour la Recherche Médicale (FRM), the Agence Nationale de la Recherche (ANR), the European Union, the Fondation Mérieux, and the Bettencourt–Schueller Foundation. This work was funded by the National Institutes of Health grants AI104952 to F.W., and AI074805 and AI083632 to M.N.
+
+The authors have no conflicts of interest to declare.
+
+Fig. 1 Role of metals during infection with M. tuberculosis
+CTR1 translocates Cu+ from the extracellular space to the cytoplasm of macrophages infected with M. tuberculosis. Then, Cu+ is bound by the chaperone ATOX1, which delivers copper to the ATP7A pump resulting in copper accumulation in the phagosome (19, 139, 175, 212). V-type ATPases and an unknown transporter pump protons and Zn2+, respectively, into the phagosome (20, 181). NRAMP1 exports Fe2+ and Mn2+ out of the phagosome. Fe2+ is bound by intracellular ferritin (200). The extracellular proteins transferrin sequesters iron, while calprotectin sequesters Mn2+ and Zn2+ (200). Calprotectin is secreted by neutrophils in tuberculosis granulomas (114) likely to deplete granulomas from Mn2+ and Zn2+.
+
+
+   1 
+            van der Wel N  
+             
+           M. tuberculosis  and M. leprae  translocate from the phagolysosome to the cytosol in myeloid cells Cell 2007 129 1287 1298 17604718 
+2 
+            Manzanillo PS  
+            Shiloh MU  
+            Portnoy DA  
+            Cox JS  
+           Mycobacterium tuberculosis  activates the DNA-dependent cytosolic surveillance pathway within macrophages Cell Host Microbe 2012 11 469 480 22607800 
+3 
+            Welin A  
+            Lerm M  
+           Inside or outside the phagosome? The controversy of the intracellular localization of Mycobacterium tuberculosis  Tuberculosis (Edinb) 2012 92 113 120 22033468 
+4 
+            Vergne I  
+            Chua J  
+            Singh SB  
+            Deretic V  
+           Cell biology of Mycobacterium tuberculosis  phagosome Annu Rev Cell Dev Biol 2004 20 367 394 15473845 
+5 
+            Rohde K  
+            Yates RM  
+            Purdy GE  
+            Russell DG  
+           Mycobacterium tuberculosis  and the environment within the phagosome Immunol Rev 2007 219 37 54 17850480 
+6 
+            Rhee KY  
+             
+           Central carbon metabolism in Mycobacterium tuberculosis : an unexpected frontier Trends Microbiol 2011 19 307 314 21561773 
+7 
+            Eisenreich W  
+            Dandekar T  
+            Heesemann J  
+            Goebel W  
+           Carbon metabolism of intracellular bacterial pathogens and possible links to virulence Nat Rev Microbiol 2010 8 401 412 20453875 
+8 
+            Ehrt S  
+            Rhee K  
+           Mycobacterium tuberculosis  metabolism and host interaction: mysteries and paradoxes Curr Top Microbiol Immunol 2013 374 163 188 23242856 
+9 
+            Gouzy A  
+             
+           Mycobacterium tuberculosis  nitrogen assimilation and host colonization require aspartate Nat Chem Biol 2013 9 674 676 24077180 
+10 
+            Gouzy A  
+             
+           Mycobacterium tuberculosis  exploits asparagine to assimilate nitrogen and resist acid stress during infection PLoS Pathog 2014 10 e1003928 24586151 
+11 
+            Ehrt S  
+            Schnappinger D  
+           Mycobacterial survival strategies in the phagosome: defence against host stresses Cell Microbiol 2009 11 1170 1178 19438516 
+12 
+            Cellier MF  
+           Nramp: from sequence to structure and mechanism of divalent metal import Curr Top Membr 2012 69 249 293 23046654 
+13 
+            Cellier MF  
+           Nutritional immunity: homology modeling of Nramp metal import Adv Exp Med Biol 2012 946 335 351 21948377 
+14 
+            Li X  
+             
+           SLC11A1 (NRAMP1) polymorphisms and tuberculosis susceptibility: updated systematic review and meta-analysis PLoS One 2011 6 e15831 21283567 
+15 
+            Snow GA  
+           Mycobactins: iron-chelating growth factors from mycobacteria Bacteriol Rev 1970 34 99 125 4918634 
+16 
+            Luo M  
+            Fadeev EA  
+            Groves JT  
+           Mycobactin-mediated iron acquisition within macrophages Nat Chem Biol 2005 1 149 153 16408019 
+17 
+            Jones CM  
+            Niederweis M  
+           Mycobacterium tuberculosis  can utilize heme as an iron source J Bacteriol 2011 193 1767 1770 21296960 
+18 
+            Tullius MV  
+             
+           Discovery and characterization of a unique mycobacterial heme acquisition system Proc Natl Acad Sci U S A 2011 108 5051 5056 21383189 
+19 
+            Wolschendorf F  
+             
+           Copper resistance is essential for virulence of Mycobacterium tuberculosis  Proc Natl Acad Sci U S A 2011 108 1621 1626 21205886 
+20 
+            Botella H  
+             
+           Mycobacterial p(1)-type ATPases mediate resistance to zinc poisoning in human macrophages Cell Host Microbe 2011 10 248 259 21925112 
+21 
+            Gold B  
+             
+           Identification of a copper-binding metallothionein in pathogenic mycobacteria Nat Chem Biol 2008 4 609 616 18724363 
+22 
+            Rowland JL  
+            Niederweis M  
+           Resistance mechanisms of Mycobacterium tuberculosis  against phagosomal copper overload Tuberculosis (Edinb) 2012 92 202 210 22361385 
+23 
+            Rowland JL  
+            Niederweis M  
+           A multicopper oxidase is required for copper resistance in Mycobacterium tuberculosis  J Bacteriol 2013 195 3724 3733 23772064 
+24 
+            Crichton RR  
+            Pierre JL  
+           Old iron, young copper: from Mars to Venus Biometals 2001 14 99 112 11508852 
+25 
+            Outten FW  
+            Theil EC  
+           Iron-based redox switches in biology Antioxid Redox Signal 2009 11 1029 1046 19021503 
+26 
+            Posey JE  
+            Gherardini FC  
+           Lack of a role for iron in the Lyme disease pathogen Science 2000 288 1651 1653 10834845 
+27 
+            Finch CA  
+            Huebers H  
+           Perspectives in iron metabolism N Engl J Med 1982 306 1520 1528 7043270 
+28 
+            Andrews SC  
+            Robinson AK  
+            Rodriguez-Quinones F  
+           Bacterial iron homeostasis FEMS Microbiol Rev 2003 27 215 237 12829269 
+29 
+            Anzaldi LL  
+            Skaar EP  
+           Overcoming the heme paradox: heme toxicity and tolerance in bacterial pathogens Infect Immun 2010 78 4977 4989 20679437 
+30 
+            Morgenthau A  
+            Pogoutse A  
+            Adamiak P  
+            Moraes TF  
+            Schryvers AB  
+           Bacterial receptors for host transferrin and lactoferrin: molecular mechanisms and role in host-microbe interactions Future Microbiol 2013 8 1575 1585 24266357 
+31 
+            Ratledge C  
+            Dover LG  
+           Iron metabolism in pathogenic bacteria Annu Rev Microbiol 2000 54 881 941 11018148 
+32 
+            Hentze MW  
+            Muckenthaler MU  
+            Galy B  
+            Camaschella C  
+           Two to tango: regulation of Mammalian iron metabolism Cell 2010 142 24 38 20603012 
+33 
+            Drakesmith H  
+            Prentice AM  
+           Hepcidin and the iron-infection axis Science 2012 338 768 772 23139325 
+34 
+            Mello Filho AC  
+            Hoffmann ME  
+            Meneghini R  
+           Cell killing and DNA damage by hydrogen peroxide are mediated by intracellular iron Biochem J 1984 218 273 275 6712613 
+35 
+            Giorgio M  
+            Trinei M  
+            Migliaccio E  
+            Pelicci PG  
+           Hydrogen peroxide: a metabolic by-product or a common mediator of ageing signals? Nat Rev Mol Cell Biol 2007 8 722 728 17700625 
+36 
+            Saha R  
+            Saha N  
+            Donofrio RS  
+            Bestervelt LL  
+           Microbial siderophores: a mini review J Basic Microbiol 2013 53 303 317 22733623 
+37 
+            Koster W  
+           ABC transporter-mediated uptake of iron, siderophores, heme and vitamin B12 Res Microbiol 2001 152 291 301 11421276 
+38 
+            Hammer ND  
+            Skaar EP  
+           Molecular mechanisms of Staphylococcus aureus  iron acquisition Annu Rev Microbiol 2011 65 129 147 21639791 
+39 
+            Beasley FC  
+             
+           Characterization of staphyloferrin A biosynthetic and transport mutants in Staphylococcus aureus  Mol Microbiol 2009 72 947 963 19400778 
+40 
+            Dale SE  
+            Doherty-Kirby A  
+            Lajoie G  
+            Heinrichs DE  
+           Role of siderophore biosynthesis in virulence of Staphylococcus aureus : identification and characterization of genes involved in production of a siderophore Infect Immun 2004 72 29 37 14688077 
+41 
+            Dale SE  
+            Sebulsky MT  
+            Heinrichs DE  
+           Involvement of SirABC in iron-siderophore import in Staphylococcus aureus  J Bacteriol 2004 186 8356 8362 15576785 
+42 
+            Skaar EP  
+           The battle for iron between bacterial pathogens and their vertebrate hosts PLoS Pathog 2010 6 e1000949 20711357 
+43 
+            Krewulak KD  
+            Vogel HJ  
+           TonB or not TonB: is that the question? Biochem Cell Biol 2011 89 87 97 21455261 
+44 
+            Noinaj N  
+            Guillier M  
+            Barnard TJ  
+            Buchanan SK  
+           TonB-dependent transporters: regulation, structure, and function Annu Rev Microbiol 2010 64 43 60 20420522 
+45 
+            Postle K  
+            Larsen RA  
+           TonB-dependent energy transduction between outer and cytoplasmic membranes Biometals 2007 20 453 465 17225934 
+46 
+            Mademidis A  
+            Killmann H  
+            Kraas W  
+            Flechsler I  
+            Jung G  
+            Braun V  
+           ATP-dependent ferric hydroxamate transport system in Escherichia coli : periplasmic FhuD interacts with a periplasmic and with a transmembrane/cytoplasmic region of the integral membrane protein FhuB, as revealed by competitive peptide mapping Mol Microbiol 1997 26 1109 1123 9426146 
+47 
+            Rohrbach MR  
+            Braun V  
+            Koster W  
+           Ferrichrome transport in Escherichia coli  K-12: altered substrate specificity of mutated periplasmic FhuD and interaction of FhuD with the integral membrane protein FhuB J Bacteriol 1995 177 7186 7193 8522527 
+48 
+            Oda M  
+            Takahashi M  
+            Matsuno T  
+            Uoo K  
+            Nagahama M  
+            Sakurai J  
+           Hemolysis induced by Bacillus cereus  sphingomyelinase Biochim Biophys Acta 2010 1798 1073 1080 20214877 
+49 
+            Huseby M  
+             
+           Structure and biological activities of beta toxin from Staphylococcus aureus  J Bacteriol 2007 189 8719 8726 17873030 
+50 
+            Matsuda S  
+            Kodama T  
+            Okada N  
+            Okayama K  
+            Honda T  
+            Iida T  
+           Association of Vibrio parahaemolyticus  thermostable direct hemolysin with lipid rafts is essential for cytotoxicity but not hemolytic activity Infect Immun 2010 78 603 610 19933828 
+51 
+            Pishchany G  
+             
+           IsdB-dependent hemoglobin binding is required for acquisition of heme by Staphylococcus aureus  J Infect Dis 2014 209 1764 1772 24338348 
+52 
+            Mazmanian SK  
+             
+           Passage of heme-iron across the envelope of Staphylococcus aureus  Science 2003 299 906 909 12574635 
+53 
+            Runyen-Janecky LJ  
+           Role and regulation of heme iron acquisition in gram-negative pathogens Front Cell Infect Microbiol 2013 3 55 24116354 
+54 
+            Ghigo JM  
+            Letoffe S  
+            Wandersman C  
+           A new type of hemophore-dependent heme acquisition system of Serratia marcescens  reconstituted in Escherichia coli  J Bacteriol 1997 179 3572 3579 9171402 
+55 
+            Krieg S  
+             
+           Heme uptake across the outer membrane as revealed by crystal structures of the receptor-hemophore complex Proc Natl Acad Sci U S A 2009 106 1045 1050 19144921 
+56 
+            Gkouvatsos K  
+            Papanikolaou G  
+            Pantopoulos K  
+           Regulation of iron transport and the role of transferrin Biochim Biophys Acta 2012 1820 188 202 22085723 
+57 
+            Garcia-Montoya IA  
+            Cendon TS  
+            Arevalo-Gallegos S  
+            Rascon-Cruz Q  
+           Lactoferrin a multiple bioactive protein: an overview Biochim Biophys Acta 2012 1820 226 236 21726601 
+58 
+            Wally J  
+            Buchanan SK  
+           A structural comparison of human serum transferrin and human lactoferrin Biometals 2007 20 249 262 17216400 
+59 
+            Gray-Owen SD  
+            Schryvers AB  
+           Bacterial transferrin and lactoferrin receptors Trends Microbiol 1996 4 185 191 8727598 
+60 
+            Noinaj N  
+            Buchanan SK  
+            Cornelissen CN  
+           The transferrin-iron import system from pathogenic Neisseria  species Mol Microbiol 2012 86 246 257 22957710 
+61 
+            Cornelissen CN  
+            Hollander A  
+           TonB-Dependent Transporters Expressed by Neisseria gonorrhoeae  Front Microbiol 2011 2 117 21747812 
+62 
+            Noinaj N  
+             
+           Structural basis for iron piracy by pathogenic Neisseria  Nature 2012 483 53 58 22327295 
+63 
+            Perkins-Balding D  
+            Ratliff-Griffin M  
+            Stojiljkovic I  
+           Iron transport systems in Neisseria meningitidis  Microbiol Mol Biol Rev 2004 68 154 171 15007100 
+64 
+            Ratledge C  
+           Iron, mycobacteria and tuberculosis Tuberculosis 2004 84 110 130 14670352 
+65 
+            Gobin J  
+            Horwitz MA  
+           Exochelins of Mycobacterium tuberculosis  remove iron from human iron-binding proteins and donate iron to mycobactins in the M. tuberculosis  cell wall J Exp Med 1996 183 1527 1532 8666910 
+66 
+            Evans RW  
+            Kong X  
+            Hider RC  
+           Iron mobilization from transferrin by therapeutic iron chelating agents Biochim Biophys Acta 2012 1820 282 290 22155077 
+67 
+            Boradia VM  
+             
+           Mycobacterium tuberculosis  acquires iron by cell-surface sequestration and internalization of human holo-transferrin Nat Commun 2014 5 4730 25163484 
+68 
+            Clemens DL  
+            Horwitz MA  
+           The Mycobacterium tuberculosis  phagosome interacts with early endosomes and is accessible to exogenously administered transferrin J Exp Med 1996 184 1349 1355 8879207 
+69 
+            Olakanmi O  
+            Schlesinger LS  
+            Ahmed A  
+            Britigan BE  
+           Intraphagosomal Mycobacterium tuberculosis  acquires iron from both extracellular transferrin and intracellular iron pools. Impact of interferon-gamma and hemochromatosis J Biol Chem 2002 277 49727 49734 12399453 
+70 
+            Hoffmann C  
+            Leis A  
+            Niederweis M  
+            Plitzko JM  
+            Engelhardt H  
+           Cryo-electron tomography and vitreous sections reveal the outer membrane of mycobacteria Int J Med Microbiol 2007 297 138 139 
+71 
+            Hoffmann C  
+            Leis A  
+            Niederweis M  
+            Plitzko JM  
+            Engelhardt H  
+           Disclosure of the mycobacterial outer membrane: cryo-electron tomography and vitreous sections reveal the lipid bilayer structure Proc Natl Acad Sci U S A 2008 105 3963 3967 18316738 
+72 
+            Sani M  
+             
+           Direct visualization by cryo-EM of the mycobacterial capsular layer: a labile structure containing ESX-1-secreted proteins PLoS Pathog 2010 6 e1000794 20221442 
+73 
+            Niederweis M  
+            Danilchanka O  
+            Huff J  
+            Hoffmann C  
+            Engelhardt H  
+           Mycobacterial outer membranes: in search of proteins Trends Microbiol 2010 18 109 116 20060722 
+74 
+            Rodriguez GM  
+           Control of iron metabolism in Mycobacterium tuberculosis  Trends Microbiol 2006 14 320 327 16759864 
+75 
+            Chavadi SS  
+             
+           Mutational and phylogenetic analyses of the mycobacterial mbt  gene cluster J Bacteriol 2011 193 5905 5913 21873494 
+76 
+            Wells RM  
+             
+           Discovery of a siderophore export system essential for virulence of Mycobacterium tuberculosis  PLoS Pathog 2013 9 e1003120 23431276 
+77 
+            Rodriguez GM  
+            Smith I  
+           Identification of an ABC transporter required for iron acquisition and virulence in Mycobacterium tuberculosis  J Bacteriol 2006 188 424 430 16385031 
+78 
+            Ryndak MB  
+            Wang S  
+            Smith I  
+            Rodriguez GM  
+           The Mycobacterium tuberculosis  high-affinity iron importer, IrtA, contains an FAD-binding domain J Bacteriol 2010 192 861 869 19948799 
+79 
+            Jones CM  
+             
+           Self-poisoning of Mycobacterium tuberculosis  by interrupting siderophore recycling Proc Natl Acad Sci U S A 2014 111 1945 1950 24497493 
+80 
+            Siegrist MS  
+             
+           Mycobacterial Esx-3 requires multiple components for iron acquisition MBio 2014 5 e01073 01014 24803520 
+81 
+            Serafini A  
+            Pisu D  
+            Palu G  
+            Rodriguez GM  
+            Manganelli R  
+           The ESX-3 secretion system is necessary for iron and zinc homeostasis in Mycobacterium tuberculosis  PLoS One 2013 8 e78351 24155985 
+82 
+            Siegrist MS  
+             
+           Mycobacterial Esx-3 is required for mycobactin-mediated iron acquisition Proc Natl Acad Sci U S A 2009 106 18792 18797 19846780 
+83 
+            Serafini A  
+            Boldrin F  
+            Palu G  
+            Manganelli R  
+           Characterization of a Mycobacterium tuberculosis  ESX-3 conditional mutant: essentiality and rescue by iron and zinc J Bacteriol 2009 191 6340 6344 19684129 
+84 
+            Prados-Rosales R  
+            Weinrick BC  
+            Pique DG  
+            Jacobs WR Jr  
+            Casadevall A  
+            Rodriguez GM  
+           Role for Mycobacterium tuberculosis  membrane vesicles in iron acquisition J Bacteriol 2014 196 1250 1256 24415729 
+85 
+            Owens CP  
+            Du J  
+            Dawson JH  
+            Goulding CW  
+           Characterization of heme ligation properties of Rv0203, a secreted heme binding protein involved in Mycobacterium tuberculosis  heme uptake Biochemistry 2012 51 1518 1531 22283334 
+86 
+            Owens CP  
+             
+           The Mycobacterium tuberculosis  secreted protein Rv0203 transfers heme to membrane proteins MmpL3 and MmpL11 J Biol Chem 2013 288 21714 21728 23760277 
+87 
+            Tahlan K  
+             
+           SQ109 targets MmpL3, a membrane transporter of trehalose monomycolate involved in mycolic acid donation to the cell wall core of Mycobacterium tuberculosis  Antimicrob Agents Chemother 2012 56 1797 1809 22252828 
+88 
+            Grzegorzewicz AE  
+             
+           Inhibition of mycolic acid transport across the Mycobacterium tuberculosis  plasma membrane Nat Chem Biol 2012 8 334 341 22344175 
+89 
+            Cox JS  
+            Chen B  
+            McNeil M  
+            Jacobs WR Jr  
+           Complex lipid determines tissue-specific replication of Mycobacterium tuberculosis  in mice Nature 1999 402 79 83 10573420 
+90 
+            Camacho LR  
+            Ensergueix D  
+            Perez E  
+            Gicquel B  
+            Guilhot C  
+           Identification of a virulence gene cluster of Mycobacterium tuberculosis  by signature-tagged transposon mutagenesis Mol Microbiol 1999 34 257 267 10564470 
+91 
+            Converse SE  
+            Mougous JD  
+            Leavell MD  
+            Leary JA  
+            Bertozzi CR  
+            Cox JS  
+           MmpL8 is required for sulfolipid-1 biosynthesis and Mycobacterium tuberculosis  virulence Proc Natl Acad Sci USA 2003 100 6121 6126 12724526 
+92 
+            Milano A  
+             
+           Azole resistance in Mycobacterium tuberculosis  is mediated by the MmpS5-MmpL5 efflux system Tuberculosis (Edinb) 2009 89 84 90 18851927 
+93 
+            Nambu S  
+            Matsui T  
+            Goulding CW  
+            Takahashi S  
+            Ikeda-Saito M  
+           A New Way to Degrade Heme: THE MYCOBACTERIUM TUBERCULOSIS  ENZYME MhuD CATALYZES HEME DEGRADATION WITHOUT GENERATING CO J Biol Chem 2013 288 10101 10109 23420845 
+94 
+            Rodriguez GM  
+            Voskuil MI  
+            Gold B  
+            Schoolnik GK  
+            Smith I  
+           IdeR, an essential gene in Mycobacterium tuberculosis : Role of IdeR in iron-dependent gene expression, iron metabolism, and oxidative stress response Infect Immun 2002 70 3371 3381 12065475 
+95 
+            Dussurget O  
+            Rodriguez M  
+            Smith I  
+           An ideR  mutant of Mycobacterium smegmatis  has derepressed siderophore production and an altered oxidative-stress response Mol Microbiol 1996 22 535 544 8939436 
+96 
+            Gold B  
+            Rodriguez GM  
+            Marras SA  
+            Pentecost M  
+            Smith I  
+           The Mycobacterium tuberculosis  IdeR is a dual functional regulator that controls transcription of genes involved in iron acquisition, iron storage and survival in macrophages Mol Microbiol 2001 42 851 865 11722747 
+97 
+            Rodriguez GM  
+            Smith I  
+           Mechanisms of iron regulation in mycobacteria: role in physiology and virulence Mol Microbiol 2003 47 1485 1494 12622807 
+98 
+            Pandey R  
+            Rodriguez GM  
+           IdeR is required for iron homeostasis and virulence in Mycobacterium tuberculosis  Mol Microbiol 2014 91 98 109 24205844 
+99 
+            Trousseau A  
+           True and false chlorosis Lectures on Clinical Medicine 1872 5 95 117 
+100 
+            Javaheri-Kermani M  
+            Farazmandfar T  
+            Ajami A  
+            Yazdani Y  
+           Impact of hepcidin antimicrobial peptide on iron overload in tuberculosis patients Scand J Infect Dis 2014 46 693 696 25134646 
+101 
+            Isanaka S  
+             
+           Iron status predicts treatment failure and mortality in tuberculosis patients: a prospective cohort study from Dar es Salaam, Tanzania PLoS One 2012 7 e37350 22606361 
+102 
+            Olakanmi O  
+            Schlesinger LS  
+            Britigan BE  
+           Hereditary hemochromatosis results in decreased iron acquisition and growth by Mycobacterium tuberculosis  within human macrophages J Leukoc Biol 2007 81 195 204 17038583 
+103 
+            Schaible UE  
+            Collins HL  
+            Priem F  
+            Kaufmann SH  
+           Correction of the iron overload defect in beta-2-microglobulin knockout mice by lactoferrin abolishes their increased susceptibility to tuberculosis J Exp Med 2002 196 1507 1513 12461085 
+104 
+            Forbes JR  
+            Gros P  
+           Divalent-metal transport by NRAMP proteins at the interface of host-pathogen interactions Trends Microbiol 2001 9 397 403 11514223 
+105 
+            Soe-Lin S  
+             
+           Nramp1 promotes efficient macrophage recycling of iron following erythrophagocytosis in vivo Proc Natl Acad Sci U S A 2009 106 5960 5965 19321419 
+106 
+            Jones CM  
+            Niederweis M  
+           Organ pathology in the absence of bacteria? J Infect Dis 2014 209 971 24249738 
+107 
+            de Voss JJ  
+            Rutter K  
+            Schroeder BG  
+            Su H  
+            Zhu Y  
+            Barry CE 3rd  
+           The salicylate-derived mycobactin siderophores of Mycobacterium tuberculosis  are essential for growth in macrophages Proc Natl Acad Sci USA 2000 97 1252 1257 10655517 
+108 
+            Reddy PV  
+             
+           Disruption of mycobactin biosynthesis leads to attenuation of Mycobacterium tuberculosis  for growth and virulence J Infect Dis 2013 208 1255 1265 23788726 
+109 
+            Lisher JP  
+            Giedroc DP  
+           Manganese acquisition and homeostasis at the host-pathogen interface Front Cell Infect Microbiol 2013 3 91 24367765 
+110 
+            Corbin BD  
+             
+           Metal chelation and inhibition of bacterial growth in tissue abscesses Science 2008 319 962 965 18276893 
+111 
+            Kehl-Fie TE  
+            Skaar EP  
+           Nutritional immunity beyond iron: a role for manganese and zinc Curr Opin Chem Biol 2010 14 218 224 20015678 
+112 
+            Kehl-Fie TE  
+             
+           Nutrient metal sequestration by calprotectin inhibits bacterial superoxide defense, enhancing neutrophil killing of Staphylococcus aureus  Cell Host Microbe 2011 10 158 164 21843872 
+113 
+            Kehl-Fie TE  
+             
+           MntABC and MntH contribute to systemic Staphylococcus aureus  infection by competing with calprotectin for nutrient manganese Infect Immun 2013 81 3395 3405 23817615 
+114 
+            Gopal R  
+             
+           S100A8/A9 proteins mediate neutrophilic inflammation and lung pathology during tuberculosis Am J Respir Crit Care Med 2013 188 1137 1146 24047412 
+115 
+            Waldron KJ  
+            Rutherford JC  
+            Ford D  
+            Robinson NJ  
+           Metalloproteins and metal sensing Nature 2009 460 823 830 19675642 
+116 
+            Zambelli B  
+            Musiani F  
+            Savini M  
+            Tucker P  
+            Ciurli S  
+           Biochemical studies on Mycobacterium tuberculosis  UreG and comparative modeling reveal structural and functional conservation among the bacterial UreG family Biochemistry 2007 46 3171 3182 17309280 
+117 
+            Campbell DR  
+             
+           Mycobacterial cells have dual nickel-cobalt sensors: sequence relationships and metal sites of metal-responsive repressors are not congruent J Biol Chem 2007 282 32298 32310 17726022 
+118 
+            Gopinath K  
+            Moosa A  
+            Mizrahi V  
+            Warner DF  
+           Vitamin B(12) metabolism in Mycobacterium tuberculosis  Future Microbiol 2013 8 1405 1418 24199800 
+119 
+            Festa RA  
+            Thiele DJ  
+           Copper: An essential metal in biology Current Biology 2011 21 R877 R883 22075424 
+120 
+            Ekici S  
+             
+           Intracytoplasmic copper homeostasis controls cytochrome c oxidase production MBio 2014 5 e01055 01013 24425735 
+121 
+            Gennis R  
+            Ferguson-Miller S  
+           Structure of cytochrome c oxidase, energy generator of aerobic life Science 1995 269 1063 1064 7652553 
+122 
+            Nies DH  
+            Herzberg M  
+           A fresh view of the cell biology of copper in enterobacteria Mol Microbiol 2013 87 447 454 23217080 
+123 
+            Halliwell B  
+            Gutteridge JM  
+           Oxygen toxicity, oxygen radicals, transition metals and disease Biochem J 1984 219 1 14 6326753 
+124 
+            Macomber L  
+            Rensing C  
+            Imlay JA  
+           Intracellular copper does not catalyze the formation of oxidative DNA damage in Escherichia coli  J Bacteriol 2007 189 1616 1626 17189367 
+125 
+            Macomber L  
+            Imlay JA  
+           The iron-sulfur clusters of dehydratases are primary intracellular targets of copper toxicity Proc Natl Acad Sci U S A 2009 106 8344 8349 19416816 
+126 
+            Fung DK  
+            Lau WY  
+            Chan WT  
+            Yan A  
+           Copper efflux is induced during anaerobic amino acid limitation in Escherichia coli  to protect iron-sulfur cluster enzymes and biogenesis J Bacteriol 2013 195 4556 4568 23893112 
+127 
+            Chillappagari S  
+            Seubert A  
+            Trip H  
+            Kuipers OP  
+            Marahiel MA  
+            Miethke M  
+           Copper stress affects iron homeostasis by destabilizing iron-sulfur cluster formation in Bacillus subtilis  J Bacteriol 2010 192 2512 2524 20233928 
+128 
+            Ward SK  
+            Hoye EA  
+            Talaat AM  
+           The global responses of Mycobacterium tuberculosis  to physiological levels of copper J Bacteriol 2008 190 2939 2946 18263720 
+129 
+            Hassett R  
+            Kosman DJ  
+           Evidence for Cu(II) reduction as a component of copper uptake by Saccharomyces cerevisiae  J Biol Chem 1995 270 128 134 7814363 
+130 
+            Ogra Y  
+            Aoyama M  
+            Suzuki KT  
+           Protective role of metallothionein against copper depletion Arch Biochem Biophys 2006 451 112 118 16759633 
+131 
+            Wang Y  
+            Hodgkinson V  
+            Zhu S  
+            Weisman GA  
+            Petris MJ  
+           Advances in the understanding of mammalian copper transporters Advances in nutrition 2011 2 129 137 22332042 
+132 
+            Maryon EB  
+            Molloy SA  
+            Kaplan JH  
+           Cellular glutathione plays a key role in copper uptake mediated by human copper transporter 1 2013 
+133 
+            Hatori Y  
+            Clasen S  
+            Hasan NM  
+            Barry AN  
+            Lutsenko S  
+           Functional partnership of the copper export machinery and glutathione balance in human cells J Biol Chem 2012 287 26678 26687 22648419 
+134 
+            Glerum DM  
+            Shtanko A  
+            Tzagoloff A  
+           Characterization of COX17, a yeast gene involved in copper metabolism and assembly of cytochrome oxidase J Biol Chem 1996 271 14504 14509 8662933 
+135 
+            Rae TD  
+            Schmidt PJ  
+            Pufahl RA  
+            Culotta VC  
+            O’Halloran TV  
+           Undetectable intracellular free copper: the requirement of a copper chaperone for superoxide dismutase Science 1999 284 805 808 10221913 
+136 
+            Banci L  
+            Bertini I  
+            Ciofi-Baffoni S  
+           Copper trafficking in biology: an NMR approach HFSP J 2009 3 165 175 19949444 
+137 
+            Pufahl RA  
+             
+           Metal ion chaperone function of the soluble Cu(I) receptor Atx1 Science 1997 278 853 856 9346482 
+138 
+            Petris MJ  
+            Mercer JFB  
+           The Menkes Protein (ATP7A; MNK) Cycles via the Plasma Membrane Both in Basal and Elevated Extracellular Copper Using a C-Terminal Di-Leucine Endocytic Signal Human Molecular Genetics 1999 8 2107 2115 10484781 
+139 
+            White C  
+            Lee J  
+            Kambe T  
+            Fritsche K  
+            Petris MJ  
+           A role for the ATP7A copper-transporting ATPase in macrophage bactericidal activity J Biol Chem 2009 284 33949 33956 19808669 
+140 
+            Williams DM  
+           Copper deficiency in humans Semin Hematol 1983 20 118 128 6410510 
+141 
+            Babu U  
+            Failla ML  
+           Copper status and function of neutrophils are reversibly depressed in marginally and severely copper-deficient rats J Nutr 1990 120 1700 1709 2175782 
+142 
+            Babu U  
+            Failla ML  
+           Respiratory burst and candidacidal activity of peritoneal macrophages are impaired in copper-deficient rats J Nutr 1990 120 1692 1699 2175781 
+143 
+            Cordano A  
+            Placko RP  
+            Graham GG  
+           Hypocupremia and neutropenia in copper deficiency Blood 1966 28 280 283 5952906 
+144 
+            Achard ME  
+             
+           Copper redistribution in murine macrophages in response to Salmonella  infection Biochem J 2012 444 51 57 22369063 
+145 
+            Samanovic MI  
+            Ding C  
+            Thiele DJ  
+            Darwin KH  
+           Copper in microbial pathogenesis: meddling with the metal Cell Host Microbe 2012 11 106 115 22341460 
+146 
+            Hodgkinson V  
+            Petris MJ  
+           Copper homeostasis at the host-pathogen interface J Biol Chem 2012 287 13549 13555 22389498 
+147 
+            Via LE  
+             
+           Tuberculous granulomas are hypoxic in guinea pigs, rabbits, and nonhuman primates Infect Immun 2008 76 2333 2340 18347040 
+148 
+            Zimnicka AM  
+             
+           Upregulated copper transporters in hypoxia-induced pulmonary hypertension PLoS One 2014 9 e90544 24614111 
+149 
+            White C  
+             
+           Copper transport into the secretory pathway is regulated by oxygen in macrophages J Cell Sci 2009 122 1315 1321 19351718 
+150 
+            Sullivan JT  
+            Young EF  
+            McCann JR  
+            Braunstein M  
+           The Mycobacterium tuberculosis  SecA2 system subverts phagosome maturation to promote growth in macrophages Infect Immun 2012 80 996 1006 22215736 
+151 
+            Malik ZA  
+            Thompson CR  
+            Hashimi S  
+            Porter B  
+            Iyer SS  
+            Kusner DJ  
+           Cutting edge: Mycobacterium tuberculosis  blocks Ca2+ signaling and phagosome maturation in human macrophages via specific inhibition of sphingosine kinase J Immunol 2003 170 2811 2815 12626530 
+152 
+            Via LE  
+            Deretic D  
+            Ulmer RJ  
+            Hibler NS  
+            Huber LA  
+            Deretic V  
+           Arrest of mycobacterial phagosome maturation is caused by a block in vesicle fusion between stages controlled by rab5 and rab7 J Biol Chem 1997 272 13326 13331 9148954 
+153 
+            Kolonko M  
+            Geffken AC  
+            Blumer T  
+            Hagens K  
+            Schaible UE  
+            Hagedorn M  
+           WASH-driven actin polymerization is required for efficient mycobacterial phagosome maturation arrest Cell Microbiol 2014 16 232 246 24119059 
+154 
+            Ward SK  
+            Abomoelak B  
+            Hoye EA  
+            Steinberg H  
+            Talaat AM  
+           CtpV: a putative copper exporter required for full virulence of Mycobacterium tuberculosis  Mol Microbiol 2010 77 1096 1110 20624225 
+155 
+            Matsoso LG  
+             
+           Function of the cytochrome bc1-aa3 branch of the respiratory network in mycobacteria and network adaptation occurring in response to its disruption J Bacteriol 2005 187 6300 6308 16159762 
+156 
+            Megehee JA  
+            Hosler JP  
+            Lundrigan MD  
+           Evidence for a cytochrome bcc-aa3 interaction in the respiratory chain of Mycobacterium smegmatis  Microbiology 2006 152 823 829 16514162 
+157 
+            Sassetti CM  
+            Rubin EJ  
+           Genetic requirements for mycobacterial survival during infection Proc Natl Acad Sci U S A 2003 100 12989 12994 14569030 
+158 
+            Small JL  
+            Park SW  
+            Kana BD  
+            Ioerger TR  
+            Sacchettini JC  
+            Ehrt S  
+           Perturbation of cytochrome c maturation reveals adaptability of the respiratory chain in Mycobacterium tuberculosis  MBio 2013 4 e00475 00413 24045640 
+159 
+            Boshoff HI  
+            Barry CE 3rd  
+           Tuberculosis - metabolism and respiration in the absence of growth Nat Rev Microbiol 2005 3 70 80 15608701 
+160 
+            Beswick PH  
+            Hall GH  
+            Hook AJ  
+            Little K  
+            McBrien DC  
+            Lott KA  
+           Copper toxicity: evidence for the conversion of cupric to cuprous copper in vivo under anaerobic conditions Chem Biol Interact 1976 14 347 356 182394 
+161 
+            Brennan PJ  
+            Nikaido H  
+           The envelope of mycobacteria Annu Rev Biochem 1995 64 29 63 7574484 
+162 
+            Speer A  
+            Rowland JL  
+            Haeili M  
+            Niederweis M  
+            Wolschendorf F  
+           Porins increase copper susceptibility of Mycobacterium tuberculosis  J Bacteriol 2013 195 5133 5140 24013632 
+163 
+            Novoa-Aponte L  
+             
+           In silico identification and characterization of the ion transport specificity for P-type ATPases in the Mycobacterium tuberculosis  complex BMC Struct Biol 2012 12 25 23031689 
+164 
+            Siroy A  
+             
+           Rv1698 of Mycobacterium tuberculosis  represents a new class of channel-forming outer membrane proteins J Biol Chem 2008 283 17827 17837 18434314 
+165 
+            Rowland JL  
+            Niederweis M  
+           A multicopper oxidase is required for copper resistance in Mycobacterium tuberculosis J Bacteriol 2013 
+166 
+            Tsolaki AG  
+             
+           Functional and evolutionary genomics of Mycobacterium tuberculosis : insights from genomic deletions in 100 strains Proc Natl Acad Sci U S A 2004 101 4865 4870 15024109 
+167 
+            Liu T  
+             
+           CsoR is a novel Mycobacterium tuberculosis  copper-sensing transcriptional regulator Nat Chem Biol 2007 3 60 68 17143269 
+168 
+            Festa RA  
+             
+           A novel copper-responsive regulon in Mycobacterium tuberculosis  Mol Microbiol 2011 79 133 148 21166899 
+169 
+            Shi X  
+             
+           The Copper-Responsive RicR Regulon Contributes to Mycobacterium tuberculosis  Virulence MBio 2014 5 
+170 
+            Hasman H  
+            Bjerrum MJ  
+            Christiansen LE  
+            Bruun Hansen HC  
+            Aarestrup FM  
+           The effect of pH and storage on copper speciation and bacterial growth in complex growth media J Microbiol Methods 2009 78 20 24 19341771 
+171 
+            Burke CM  
+            McVeigh I  
+           Toxicity of copper to Escherichia coli  in relation to incubation temperature and method of sterilization of media Can J Microbiol 1967 13 1299 1309 4863548 
+172 
+            Kershaw CJ  
+            Brown NL  
+            Constantinidou C  
+            Patel MD  
+            Hobman JL  
+           The expression profile of Escherichia coli  K-12 in response to minimal, optimal and excess copper concentrations Microbiology 2005 151 1187 1198 15817786 
+173 
+            Tree JJ  
+            Kidd SP  
+            Jennings MP  
+            McEwan AG  
+           Copper sensitivity of cueO  mutants of Escherichia coli  K-12 and the biochemical suppression of this phenotype Biochem Biophys Res Commun 2005 328 1205 1210 15708004 
+174 
+            Speer A  
+             
+           Copper-boosting compounds: a novel concept for antimycobacterial drug discovery Antimicrob Agents Chemother 2013 57 1089 1091 23254420 
+175 
+            Wagner D  
+             
+           Elemental analysis of Mycobacterium avium -, Mycobacterium tuberculosis -, and Mycobacterium smegmatis -containing phagosomes indicates pathogen-induced microenvironments within the host cell’s endosomal system J Immunol 2005 174 1491 1500 15661908 
+176 
+            Rybicka JM  
+            Balce DR  
+            Chaudhuri S  
+            Allan ER  
+            Yates RM  
+           Phagosomal proteolysis in dendritic cells is modulated by NADPH oxidase in a pH-independent manner EMBO J 2012 31 932 944 22157818 
+177 
+            Rybicka JM  
+            Balce DR  
+            Khan MF  
+            Krohn RM  
+            Yates RM  
+           NADPH oxidase activity controls phagosomal proteolysis in macrophages through modulation of the lumenal redox environment of phagosomes Proc Natl Acad Sci U S A 2010 107 10496 10501 20498052 
+178 
+            Stafford SL  
+             
+           Metal ions in macrophage antimicrobial pathways: emerging roles for zinc and copper Biosci Rep 2013 33 
+179 
+            McDevitt CA  
+             
+           A molecular mechanism for bacterial susceptibility to zinc PLoS Pathog 2011 7 e1002357 22072971 
+180 
+            Eijkelkamp BA  
+             
+           Extracellular zinc competitively inhibits manganese uptake and compromises oxidative stress management in Streptococcus pneumoniae  PLoS One 2014 9 e89427 24558498 
+181 
+            Botella H  
+            Stadthagen G  
+            Lugo-Villarino G  
+            de Chastellier C  
+            Neyrolles O  
+           Metallobiology of host-pathogen interactions: an intoxicating new insight Trends Microbiol 2012 20 106 112 22305804 
+182 
+            Lichten LA  
+            Cousins RJ  
+           Mammalian zinc transporters: nutritional and physiologic regulation Annu Rev Nutr 2009 29 153 176 19400752 
+183 
+            Ballestin R  
+             
+           Ethanol reduces zincosome formation in cultured astrocytes Alcohol and alcoholism 2011 46 17 25 21123366 
+184 
+            Beyersmann D  
+            Haase H  
+           Functions of zinc in signaling, proliferation and differentiation of mammalian cells Biometals 2001 14 331 341 11831463 
+185 
+            Nies DH  
+           Efflux-mediated heavy metal resistance in prokaryotes FEMS Microbiol Rev 2003 27 313 339 12829273 
+186 
+            Kulathila R  
+            Indic M  
+            van den Berg B  
+           Crystal structure of Escherichia coli  CusC, the outer membrane component of a heavy metal efflux pump PLoS One 2011 6 e15610 21249122 
+187 
+            Su CC  
+            Long F  
+            Zimmermann MT  
+            Rajashankar KR  
+            Jernigan RL  
+            Yu EW  
+           Crystal structure of the CusBA heavy-metal efflux complex of Escherichia coli  Nature 2011 470 558 562 21350490 
+188 
+            Long F  
+            Su CC  
+            Lei HT  
+            Bolla JR  
+            Do SV  
+            Yu EW  
+           Structure and mechanism of the tripartite CusCBA heavy-metal efflux complex Philos Trans R Soc Lond B Biol Sci 2012 367 1047 1058 22411977 
+189 
+            Cole ST  
+             
+           Deciphering the biology of Mycobacterium tuberculosis  from the complete genome sequence Nature 1998 393 537 544 9634230 
+190 
+            Veyrier FJ  
+            Boneca IG  
+            Cellier MF  
+            Taha MK  
+           A novel metal transporter mediating manganese export (MntX) regulates the Mn to Fe intracellular ratio and Neisseria meningitidis  virulence PLoS Pathog 2011 7 e1002261 21980287 
+191 
+            Worlock AJ  
+            Smith RL  
+           ZntB is a novel Zn2+ transporter in Salmonella enterica  serovar Typhimurium J Bacteriol 2002 184 4369 4373 12142406 
+192 
+            Neyrolles O  
+            Mintz E  
+            Catty P  
+           Zinc and copper toxicity in host defense against pathogens: Mycobacterium tuberculosis  as a model example of an emerging paradigm Front Cell Infect Microbiol 2013 3 89 24350063 
+193 
+            Fu Y  
+             
+           A new structural paradigm in copper resistance in Streptococcus pneumoniae  Nat Chem Biol 2013 9 177 183 23354287 
+194 
+            Arguello JM  
+           Identification of ion-selectivity determinants in heavy-metal transport P1B-type ATPases J Membr Biol 2003 195 93 108 14692449 
+195 
+            Raimunda D  
+            Long JE  
+            Sassetti CM  
+            Arguello JM  
+           Role in metal homeostasis of CtpD, a Co(2+) transporting P(1B4) -ATPase of Mycobacterium smegmatis  Mol Microbiol 2012 84 1139 1149 22591178 
+196 
+            Raimunda D  
+            Long JE  
+            Padilla-Benavides T  
+            Sassetti CM  
+            Arguello JM  
+           Differential roles for the Co(2+)/Ni(2+) transporting ATPases, CtpD and CtpJ, in Mycobacterium tuberculosis  virulence Mol Microbiol 2014 91 185 197 24255990 
+197 
+            Cavet JS  
+            Meng W  
+            Pennella MA  
+            Appelhoff RJ  
+            Giedroc DP  
+            Robinson NJ  
+           A nickel-cobalt-sensing ArsR-SmtB family repressor. Contributions of cytosol and effector binding sites to metal selectivity J Biol Chem 2002 277 38441 38448 12163508 
+198 
+            Ward SK  
+            Abomoelak B  
+            Hoye EA  
+            Steinberg H  
+            Talaat AM  
+           CtpV: a putative copper exporter required for full virulence of Mycobacterium tuberculosis  Mol Microbiol 2010 
+199 
+            Padilla-Benavides T  
+            Long JE  
+            Raimunda D  
+            Sassetti CM  
+            Arguello JM  
+           A novel P(1B)-type Mn2+-transporting ATPase is required for secreted protein metallation in mycobacteria J Biol Chem 2013 288 11334 11347 23482562 
+200 
+            Hood MI  
+            Skaar EP  
+           Nutritional immunity: transition metals at the pathogen-host interface Nat Rev Microbiol 2012 10 525 537 22796883 
+201 
+            Sorkin E  
+            Roth W  
+            Erlenmeyer H  
+           Copper dependent bacteriostatic action Experientia 1951 7 64 65 14822966 
+202 
+            Krivis AF  
+            Rabb JM  
+           Cuprous complexes formed with isonicotinic hydrazide Science 1969 164 1064 1065 4976919 
+203 
+            Xiao Z  
+            Donnelly PS  
+            Zimmermann M  
+            Wedd AG  
+           Transfer of copper between bis(thiosemicarbazone) ligands and intracellular copper-binding proteins. insights into mechanisms of copper uptake and hypoxia selectivity Inorg Chem 2008 47 4338 4347 18412332 
+204 
+            Dearling JL  
+            Lewis JS  
+            Mullen GE  
+            Rae MT  
+            Zweit J  
+            Blower PJ  
+           Design of hypoxia-targeting radiopharmaceuticals: selective uptake of copper-64 complexes in hypoxic cells in vitro European journal of nuclear medicine 1998 25 788 792 9662602 
+205 
+            Vavere AL  
+            Lewis JS  
+           Cu-ATSM: a radiopharmaceutical for the PET imaging of hypoxia Dalton Trans 2007 4893 4902 17992274 
+206 
+            Hung LW  
+             
+           The hypoxia imaging agent CuII(atsm) is neuroprotective and improves motor and cognitive functions in multiple animal models of Parkinson’s disease J Exp Med 2012 209 837 854 22473957 
+207 
+            Haeili M  
+             
+           Copper complexation screen reveals compounds with potent antibiotic properties against methicillin-resistant Staphylococcus aureus  Antimicrob Agents Chemother 2014 58 3727 3736 24752262 
+208 
+            Djoko KY  
+            Paterson BM  
+            Donnelly PS  
+            McEwan AG  
+           Antimicrobial effects of copper(ii) bis(thiosemicarbazonato) complexes provide new insight into their biochemical mode of action Metallomics 2014 
+209 
+            Emsley J  
+           The Elements 3 Oxford Clarendon Press 1998 
+210 
+            Finney LA  
+            O’Halloran TV  
+           Transition metal speciation in the cell: insights from the chemistry of metal ion receptors Science 2003 300 931 936 12738850 
+211 
+            Nathan C  
+           Fresh approaches to anti-infective therapies Sci Transl Med 2012 4 140sr142 
+212 
+            Wagner D  
+             
+           Changes of the phagosomal elemental concentrations by Mycobacterium tuberculosis  Mramp Microbiology 2005 151 323 332 15632449 
+

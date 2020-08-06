@@ -1,0 +1,574 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10155829239070J Nutr Gerontol GeriatrJ Nutr Gerontol GeriatrJournal of nutrition in gerontology and geriatrics2155-11972155-120030794096652927210.1080/21551197.2019.1565901NIHMS1016805ArticleMental Illness, Not Obesity Status, is Associated with Food Insecurity Among the Elderly in the Health and Retirement Study Brostow Diana P. PhD, MPH, RDNaGunzburger Elise MSabAbbate Lauren M. MD, PhDcdBrenner Lisa A. PhDefThomas Kali S. MA, PhDhttp://orcid.org/0000-0003-3426-2184gha Denver VA Medical Center, Denver-Seattle Center of Innovation for Veteran-Centered and Value-Driven Care, Denver, CO, USAb Department of Biostatistics and Informatics, University of Colorado School of Public Health, Aurora, CO, USAc Geriatric Research, Education, and Clinical Center, Denver VA Medical Center, Denver, CO, USAd Department of Emergency Medicine, University of Colorado School of Medicine, Aurora, CO, USAe Denver VA Medical Center, Rocky Mountain Mental Illness Research Education and Clinical Center, Denver, CO, USAf Departments of Psychiatry, Physical Medicine and Rehabilitation, and Neurology, University of Colorado, Anschutz School of Medicine, Aurora, CO, USAg Providence VA Medical Center, Center of Innovation in Long-Term Services and Supports, Providence, RI, USAh Center for Gerontology and Healthcare Research, Brown University, Providence, RI, USACONTACT Diana P. Brostow, PhD, MPH, Diana.Brostow@ucdenver.edu, RDN Denver VA Medical Center 1055 Clermont St. Denver, CO 80220, USA.9 3 2019 22 2 2019 Apr-Jun 2019 21 5 2019 38 2 149 172 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objectives:
+Food insecurity, limited or uncertain access to adequate nutrition, is an increasingly recognized determinant of health outcomes and is often associated with having obesity. It is unclear, however, if this association persists in elderly populations.
+
+Methods:
+We conducted a cross-sectional study of 2868 participants’ aged 65+ years from the Health and Retirement Study. Multivariate logistic regression was used to assess associations between food insecurity and body mass index, demographic characteristics, psychiatric history, and medical history.
+
+Results:
+Participants with overweight/obesity had a higher prevalence of food insecurity than leaner counterparts, however, weight status was not a significant predictor of food insecurity after multivariate adjustment. Instead, mental illness, current smoking status, and non-White race were all independently associated with food insecurity.
+
+Discussion:
+Beyond financial status, health care providers are encouraged to use these characteristics to identify elderly patients that may be at risk of food insecurity.
+
+Depressionelderlyfood insecuritymental healthobesity
+   1. Introduction
+Food insecurity is highly prevalent in the U.S., though the relationship between food insecurity and obesity, especially among older adults, remains unclear. Food insecurity is defined as a condition in which there is limited or uncertain access to adequate nutrition (1); however, food insecurity encompasses a number of characteristics, including intermittent versus chronic inadequate access to food, poor diet quality, and the presence or absence of physical hunger. Beyond access to food, food insecurity is increasingly being understood to include cultural, environmental, and psychosocial barriers to procuring and safely consuming adequate nutrition (2). Clinically, food insecurity is also consistently associated with adverse outcomes such as diabetes mellitus, cardiovascular disease, hypertension, and poorer overall health status (3–5). It is estimated that in 2015, about 13% of American households cumulatively, or about 16 million people, were categorized as being food insecure (1).
+
+The body of literature on food insecurity and obesity continues to grow, but is still relatively nascent. Several studies have reported on the obesity “paradox”, in which there are significantly higher rates of food insecurity among people with overweight or obesity than among leaner counterparts. This association persists despite excessive caloric intake among those with overweight or obesity (6–8). However, these data were from studies of pediatric and young adult samples and focused on eating habits in multigenerational households (9, 10). Considerably less is known about food insecurity in older populations, particularly among community-dwelling people of retirement age who depend on savings or pensions to purchase food. There have been few studies (11–13) that have examined how older populations experience food insecurity in relation to their weight status and whether any particular comorbidities influence this association.
+
+The U.S. population is aging, and the number of Americans aged 65+ years is expected to double to over 98 million by 2060, which will account for nearly a quarter of the country’s total population (14). Although overall life expectancy has increased, the elderly now contend with more years of chronic illness, disability, and impaired cognition (14–16). Nutritional needs change in later years as well; older adults generally consume fewer calories than younger adults, while simultaneously requiring higher intakes of specific nutrients, such as protein, vitamin D, and polyunsaturated essential fatty acids to maintain adequate muscle and bone mass (17). Among older adults, it is estimated that approximately 35% of individuals are obese (18). Therefore, the purpose of this study was to determine the association between food insecurity and weight status, to identify differences by demographic, psychiatric, and medical factors, and to describe the overall prevalence of food insecurity in a nationally representative sample of older Americans. Based on observations from previous studies (6,19–21), we hypothesized that decreasing weight status, higher levels of educational attainment, increasing age, and higher cognitive function would be associated with decreased odds of being food insecure, whereas decreasing income, non-White race, Hispanic ethnicity, and the presence of a psychiatric diagnosis would be associated with increased odds of food insecurity.
+
+2. Methods
+2.1. Data sources
+Data were from the 2012 wave of the Health and Retirement Study (HRS), a nationally representative longitudinal study of American adults age 50+ years that is administered every two years via mail, telephone, or in-person interview (22). In addition to the Core Questionnaire of characteristics related to aging, the HRS administers supplemental surveys on a variety of topics, including nutrition. One of these supplemental surveys, the 2013 Health Care and Nutrition Mail Survey (HCNS) (23), assessed food security using standard U.S. Department of Agriculture (USDA) criteria (24). A flow chart of inclusionary and exclusionary criteria is presented in Figure 1. When there was more than one respondent per household, respondents were preferentially chosen for number of food security-related questions answered. If this was equivalent for respondents from the same household, one respondent was randomly chosen from each household. Based on these criteria, data from 2868 individuals were available for analysis.
+
+2.2. Measures
+Food security status was assessed using responses from the 2013 HCNS. Survey questions from the USDA Six-Item Food Security Module (24) were used to evaluate participants’ financial ability to purchase sufficient food (quantity), their perceptions of their ability to afford “balanced” meals (diet quality), meal frequency, and experiences of hunger. Survey items, coding, and a scoring rubric are presented in Figure 2. Using USDA scoring standards, food insecurity was assessed as a binary yes/no variable and as a categorical variable that stratifies food insecurity severity as “High food security”, “Marginal food security”, “Low food security”, or “Very Low food security”. A sixth question, which is not part of the USDA module, assessed whether participants receive free or subsidized food from organizations such as food banks, churches, or meal delivery services.
+
+Participant characteristics including socio-demographic factors and life-style-related information such as smoking status, alcohol intake, physical activity, and preventive behaviors, were extracted from the 2012 HRS Core Questionnaire. Preventative behaviors were defined in the HRS as having received at least one or more of the following: an annual influenza immunization, regular serum cholesterol testing, and for men, regular prostate exams. Medical covariates included self-reported health status (defined as a response to the following: “Would you say your health is excellent, very good, good, fair, or poor?”), measured body mass index (BMI (kg/m2), and self-reported co-morbidities including high blood pressure, diabetes mellitus, history of non-skin cancer, lung disease, heart disease, and arthritis. Weight categories were defined using Centers for Disease Control and Prevention (CDC) cut-points for BMI (25): &lt;18.5 = Underweight; 18.5–24.9 = Normal weight; 25.0–29.9 = Overweight; ≥30.0 = Obese. Mental health was assessed via self-report of having a formal psychiatric diagnosis and scores from the Center for Epidemiologic Studies Depression Scale (CES-D) (26). Functional status was established by assessing impairment in the Activities of Daily Living (ADLs) (27), instrumental ADLs (IADLs) (28), muscle strength, fine and gross motor skill impairment, and overall mobility (29, 30). These measures assessed various activities associated with general function, such as walking a short distance, climbing a flight of stairs, dressing one’s self, shopping for groceries, and bathing. Cognitive status was established using a word-recall test of immediate and delayed recall of a short list of words (31) and self-report or caregiver-report of a diagnosis of dementia.
+
+2.3. Statistical analysis
+Prevalence estimates of food insecurity and use of nutrition assistance benefits across the whole cohort and weight classes were determined with cross tabulations. The significance of difference in prevalence across weight groups was estimated by Rao–Scott chi-square tests. Similarly, univariate associations of binary food insecurity and categorical patient characteristics were determined across weight groups. For continuous patient characteristics, univariate associations with food insecurity and their significance were determined using least square means and approximate t-tests. For adjusted analysis, a multivariable logistic regression model was used to assess the associations between patient characteristics, including weight class, and odds of being food insecure (binary). The model included adjustment for respondent demographics, health-related factors, comorbidities, functional status, and mental health and cognition variables. To determine a differential effect of gender, race, Hispanic ethnicity, income, history of psychiatric problems, and depression on odds of being food insecure by weight class, interaction terms for these variables and weight class were included in the logistic regression model, with normal weight being the reference group. A significant differential effect was identified if the joint P-value for the over-all effect of the interaction was less than 0.05. If this was the case, Wald chi-squared tests were performed for each level of the interaction.
+
+In order to determine the relationship between patient characteristics and the categorical definition of food insecurity, we constructed a generalized logistic regression model that also included the interactions terms listed above. All analyses were conducted using survey procedures in SAS 9.4 (32) and were weighted and adjusted for the complex survey design (stratification and clustering) of the HRS in order to obtain estimates reflective of the national population and adjust for sampling errors. Missing adjustment variables, not including our main predictors of interest or our outcomes, were missing at rates less than 3% and were imputed using multivariate imputation by chained equations.
+
+3. Results
+Of the 2868 individuals included in the analysis, approximately 31.1% participants had normal weight, 38.5% had overweight, and 30.4% had obesity. The mean age of the sample was 75.7 years (SD = 7.0), and majority of the participants were female (63.0%) and White (82.7%). The most common comorbidities reported were arthritis (72.4%), and hypertension (69.8%). The prevalence of binary and categorical food insecurity are presented in Table 1. There was a significant association between binary food insecurity and increasing weight class (P = 0.03); 15.2% of respondents with normal weight, 17.6% of respondents with overweight, and 21.2% of respondents with obesity were food insecure. When analyzed as a categorical variable, Low and Very Low food insecurity are still more prevalent among the obese and overweight than among normal weight respondents, though there was no significant difference in categorical food insecurity across weight groups.
+
+Univariate analyses of participant characteristics by food insecurity status and weight class are presented in Table 2. While there was no significant association between gender and food insecurity among individuals with normal or overweight, a significantly higher proportion of food insecure respondents with obesity were women than of food secure respondents with obesity as a whole, 70.3% versus 55.6% (P&lt;0.01). Race and Hispanic ethnicity were both significantly associated with food insecurity in all three weight classes (all associated P&lt;0.001), with more than twice as many food insecure African Americans, Hispanic, and other non-White respondents than their food secure counterparts. Food insecure individuals also reported significantly lower annual incomes within each weight class, with average earnings under $30,000, compared to an average of $50,000+ among the food secure (all P&lt;0.0001). Similarly, depression and self-report of a psychiatric diagnosis were significantly associated with food insecurity across all weight classes, with more than double the number of food insecure individuals with these conditions compared to food secure respondents (all associated P&lt;0.0001).
+
+Adjusted estimates for binary food insecurity are presented in Table 3. Increased odds of binary food insecurity were associated with non-White race (African American vs White [OR = 3.03, 95% CI = 1.54, 5.98]; Other vs White [OR = 3.84, 95% CI = 1.56, 9.45]), current smoking status (OR = 1.73, 95% CI = 1.11, 2.69), regular engagement in 1+ preventive health behavior(s) (OR = 1.89, 95% CI = 1.16, 3.08), a diagnosed heart condition (OR = 1.48, 95% CI = 1.09, 1.99), a psychiatric diagnosis (OR = 2.11, 95% CI = 1.08, 4.15), and depression (OR = 2.12, 95% CI = 1.20, 3.73). There was no significant association between binary food insecurity and weight class (P=0.12), and no differential effects of covariates of interest on food insecurity by weight class.
+
+Adjusted estimates for categorical food security are presented in Table 4. Increased odds of food insecurity for Marginal versus High food security were associated with African American race (OR = 2.29, 95% CI = 1.01, 5.17), other non-White race (OR = 4.62, 95% CI = 1.48, 14.44), engaging in 1þ preventive health behavior(s) (OR = 4.39, 95% CI = 1.18, 16.30), and having a heart condition (OR = 1.70, 95% CI = 1.12, 2.58). For Low versus High food security, African American race, having a psychiatric diagnosis, and history of chronic lung disease were significantly associated with increased odds of food insecurity (OR = 4.37, 95% CI = 1.82, 10.50; OR = 3.34, 95% CI = 1.46, 7.69; OR = 1.74, 95% CI = 1.06, 2.88, respectively). Depression was associated with over six times greater odds of having Very Low food security compared to High food security, (OR = 6.57, 95% CI = 3.00, 14.37). Chronic lung disease was also associated with higher odds of having Very Low versus High food security (OR = 2.07, 95% CI = 1.17, 3.67). There was no significant association between increasing weight class and odds of categorical food insecurity after adjustment for all other covariates (joint P = 0.35). Other tests for interaction showed a significant negative interaction for African American race comparing overweight versus normal weight groups in the Low food security category (OR = 0.36, 95% CI = 0.13, 0.99), as well as a significant negative interaction for other nonwhite race comparing obese versus normal weight groups in the Marginal food security category (OR = 0.07, 95% CI = 0.02, 0.28).
+
+4. Discussion
+Among a nationally representative cohort of community-dwelling Americans aged 65+ years, increasing weight was not associated with increased odds of food insecurity after adjustment for multiple variables. However, current smoking status, non-White race, history of a heart condition, preventative health behaviors, and especially, to a surprisingly large degree, depression and self-report of a psychiatric diagnosis were all associated with increased odds of being food insecure. We observed a higher overall prevalence of binary food insecurity among the elderly than has been previously reported by the National Council on Aging (18% versus 8.3%) (33). Categorical prevalence ranged from 5% Very Low to 6.8% Low food security, and in comparison, the AARP Foundation reports national prevalence among Americans aged 40+ ranging from 3.9% Very Low to 7.3% Marginal (34). It is not clear why the observed prevalence among these cohorts vary, however, it may be due to differences in samples as the previous studies included younger populations (60+ and 40+, respectively), which likely differ in household makeup, income, Medicare eligibility, and medical comorbidities among others.
+
+4.1. Weight status and covariates
+Food insecurity was more prevalent among participants with overweight or obesity than among their leaner counterparts, but weight status was not associated with food insecurity after adjustment for potential confounding factors, and prior studies have reported similar results (11–13). For example, Brewer et al.’s assessment of 621 participants aged 50+ years (12) reported a cohort-wide food insecurity prevalence of 19%, comparable to the 18% observed in this study. The authors reported a higher a prevalence of food insecurity among those with overweight or obesity compared to participants with normal weight, but found that after adjustment for potential confounding factors, there was no independent effect of weight class. Homenko et al.’s assessment of 74 Medicare recipients (11) also observed a significant association between increased body mass index (BMI) and food insecurity, but did not report adjusted regression estimates. Lastly, Kim et al. (13) assessed the entire 50þ cohort from earlier, pre-HCNS Health and Retirement Study waves (1995–2002) using solely a binary measure of food insecurity, and observed a significant association between food insecurity and weight status among heavier, but not leaner participants (β=0.35, P&lt;0.004).
+
+There are possible reasons why we did not observe an “obesity paradox” after adjusting for other covariates. Much of the theorized association between increased weight status and food insecurity is predicated on the notion that people with food insecurity consume a poor-quality diet (35) characterized by energy-dense, yet nutrient-deficient foods such as low-cost fast food and convenience meals. If obesity was not an adequate proxy for a poor-quality diet in this cohort, then this may explain the lack of an observed association. Additionally, across all weight categories, we observed a significantly higher prevalence of food insecurity among participants with chronic lung disease than without. Chronic lung conditions in the elderly are associated with significantly impaired daily function and quality of life (36), as well as poor long-term outcomes and premature mortality (37). It is possible that having a chronic lung condition exerts a significant influence to the extent of mitigating any possible associations with weight status.
+
+Increasing age, higher word-recall scores, higher educational attainment, and surprisingly, regular alcohol intake were associated with significantly lower odds of food insecurity. Increased age may be associated with increased eligibility for elder-related financial and health care provider assistance, thus making older participants better able to obtain food, independently of weight status. A form of survivor bias, akin to selection bias, is also a possible explanation, in that older participants who have reached an advanced age may inherently be more likely to have the economic and social resources to be food secure (38). While few studies have explored these associations, a cross-sectional study of older adults (60–74 years) by Johnson et al. (39), observed the inverse association, with increasing age predicting increased odds of being food insecure, however all participants were homebound, and functional or cognitive limitations may have confounded the association. Higher word-recall scores indicate a stronger memory (19) and may be a surrogate for an increased ability to navigate the logistics of obtaining food or food assistance. Similarly, while alcohol abuse is an established risk factor for adverse health outcomes (40), regular alcohol intake may conversely be a marker for higher income, greater social supports, and better overall health, all of which may decrease the risk of food insecurity (20, 41). Education is a strong protective factor for a host of outcomes, regardless of weight status (21), and while Goldberg et al.’s analysis of older participants in the NHANES study (42) did not assess weight status, the authors reported that increasing educational attainment was associated with significantly decreased odds of being food insecure. These observations suggest that “younger” elderly people, particularly those with less formal education or a more impaired memory, may be at particular risk of being food insecure, and this should be a focus of future research.
+
+Based on previous studies of interactions between weight status and food insecurity (43–48), we hypothesized that female gender, decreasing income, psychiatric diagnoses, Hispanic ethnicity and non-White race would each differentially influence the association between weight status and food insecurity, conferring an additive effect to the risk of being food insecure. However, only non-White race demonstrated a significant interaction and only with categorical food insecurity. Specifically, nonwhite race appeared to confer a protective effect for Low and Marginal food security in over-weight and obese groups, respectively. It is possible that socio-cultural differences in attitudes towards food and eating behaviors may influence the association. Minority populations generally have more positive perceptions of poor-quality diets and are more likely to value affordability and accessibility over nutritional attributes than their White counterparts (49). It is possible that non-White race was associated with a protective effect among overweight and obese participants with overweight or obesity because of these cultural dynamics, even more so in the context of socio-cultural beliefs that favor having overweight or obesity and obesity, both as an aesthetic and as outward signifiers of economic plenty (49).
+
+In multivariable analysis, we observed that current smoker status, non-White race, engaging in 1+ preventive behavior(s), history of heart condition, depression, and having a psychiatric diagnosis were associated with significantly increased odds of being food insecure, independently of weight status. A large body of research has previously established the associations between adverse health outcomes, diminished economic resources, non-White race, and tobacco use (50–54). African Americans were over three times as likely to report binary food insecurity as White participants and nearly three times as likely to report Very Low food security. Other Non-White participants experienced comparable odds and were significantly more likely to be food insecure in every metric when compared to White counterparts. Few studies have examined food insecurity among elderly racial minorities, however, Goldberg et al.’s NHANES analysis (42) reported similar findings, specifically noting that older Mexican–Americans had 3.6 times the odds of being food insecure compared to older, White participants. These findings indicate that there continues to be a racial disparity, with non-Whites experiencing more obstacles to obtaining and consuming adequate nutrition in the U.S. than White counterparts (55, 56). Care providers and clinicians working with elderly African Americans and other non-White racial patients should pay particular attention to food insecurity status, as race may be a significant risk factor regardless of income, weight status, education, or medical comorbidities.
+
+No studies have examined preventive health behaviors in the context of food insecurity; however, we found that they were associated with increased odds of being food insecure. While this may appear counterintuitive, services such as influenza immunizations and serum lipid panels are more likely to be offered in the course of even minimal, low-cost, or free-of-charge contact with health care providers, such as seasonal immunization clinics at pharmacies or primary care screenings at community clinics (57–59). Of note, Ramsey et al.’s cross-sectional assessment of food insecure Australians reported a significantly higher rate of use of health care services compared to food secure counterparts (3). Even though we anticipated that the preventive behaviors covariate in the HRS database would be an indicator of better overall health, our observations suggest that instead it may be an indicator associated with increased odds of being food insecure.
+
+4.2. Mental illness
+The influence of mental illness on food insecurity observed in this study is of particular importance for clinical practice. Participants reporting having a psychiatric diagnosis had more than twice the odds of binary food insecurity and more than three times the odds of Low categorical food security compared to those without a diagnosed mental illness. The majority of previous research has focused primarily on depression and related mood disorders; however, there is recent data from studies of younger populations that psychological disorders such as those that fall on the schizoaffective spectrum (60, 61), substance abuse, and suicidal ideation (60, 62, 63) are also significantly associated with increased odds of being food insecure.
+
+Participants who scored as clinically depressed on the CES-D were more than twice as likely to experience binary food insecurity and greater than six times more likely to report Very Low categorical food security compared to the non-depressed. Although there is evidence of interactions and mediated associations between increased BMI, depression, and food insecurity among younger adults (64, 65), we did not observe a significant interaction with depression or a psychiatric diagnosis by weight status, suggesting that among elderly populations, mental illness is independently associated with food insecurity. Longitudinal studies have observed a similar dynamic; Kim et al. (13) found that baseline depression was significantly correlated with more severe subsequent food insecurity in an older population, whereas Goldberg et al. (42) observed that depression among older NHANES participants also predicted significantly increased odds of being food insecure. Additionally, an assessment of elderly hospital patients discharged to their homes (66) observed that participants with depressive symptoms reported significantly more difficulty obtaining food and preparing meals than their non-depressed counterparts.
+
+Research into the causal pathway between food insecurity and mental illness is ongoing, but there is evidence to suggest that the association is bidirectional. Longitudinal studies have observed that baseline food insecurity predicts a significantly increased risk of incident depression (67), and of particular note, changes in food insecurity severity over time correlate directly with changes in the severity of participants’ symptoms of depression (68, 69). One study by Huddleston-Casas et al. (70) investigated a cohort of rural women, assessing both depression and food insecurity at baseline, and observed that either variable predicted the incidence of the other, further emphasizing the bidirectionality of the association. In discussing strategies for coping with acute food shortages, Tarasuk et al. (71) highlight that individuals often “juggle bill payments, forfeit rent, sell or pawn possessions, seek assistance from family and friends … [and] identify whatever charitable programs are available to them.”. Such activities require the ability to engage with others and the community, as well as to employ problem solving skills (72, 73); both of which can be challenging in the midst of depressive or other psychiatric episodes.
+
+4.3. Future directions – Obesity
+In this study, we observed a significantly higher prevalence of food insecurity among participants with overweight or obesity compared to leaner participants, though there was no independent effect of obesity after adjustment for confounding factors. Other measures of obesity, such as body fat distribution, may be used to investigate this association further. Brewer et al. (12) reported that increased waist circumference was a significant independent predictor of increased odds of food insecurity, whereas BMI was not, suggesting that BMI may not be the most useful measure for identifying this association (74). If body fat distribution is independently associated with food insecurity beyond the effects of BMI, and since body fat distribution has been shown to provide information regarding risk of cardio-metabolic/CVD outcomes (75), providers may consider using noninvasive measures such as waist circumference or a waist-to-hip ratio (76) to screen for excessive abdominal adiposity in elderly patients, while simultaneously identifying increased risk for food insecurity rather than BMI alone.
+
+Indeed, body fat distribution among older adults profoundly affects both disease outcomes and overall quality of life (77). Furthermore, there is a growing interest in sarcopenic obesity among the elderly, which is characterized by excess adiposity concurrent with low muscle mass and malnutrition (78). This increased adiposity in the abdominal area, unlike fat deposits in other areas of the body, exerts a unique metabolic influence on chronic disease risk (79). The ensuing combination of obesity-related disease such as diabetes mellitus and cardiovascular disease and sarcopenic frailty, secondary to low muscle mass and malnutrition, results in a high incidence of fractures, repeated hospitalizations, and premature mortality (80). Anthropometric measurements of body composition that assess fat and muscle distribution may be used to identify possible sarcopenic obesity in future studies of obesity and food security in elderly populations. The HRS does not assess sarcopenia, or anthropometrics beyond BMI, but further research is needed to investigate the influences of different obesity measures on food insecurity risk.
+
+4.4. Future directions – Mental health
+A Gallup World Poll of 149 countries (81) recently reported that food insecurity is associated with decreased mental health status across a variety of cultures and socioeconomic environments. This study contributes significant evidence of this association among the elderly. Providers in various clinical environments, specifically in primary care, outpatient mental health care, and inpatient discharge planning, are well-positioned to screen patients for food insecurity, and coordinate food assistance benefits with other providers, such as social workers and dietitians. A validated 2-item version of the USDA screening module (82) may be used at the bed side to assess if further evaluation of food insecurity is warranted. Just as providers are aware that medication adherence is frequently problematic among the mentally ill (83), they should similarly address the contextual and psychosocial barriers to obtaining and eating a nutritious diet. A qualitative study by Keller et al. (84) terms this “personalization of service” when addressing food insecurity in elderly populations, and the authors call for an approach in which patients’ functional limitations and social needs are considered.
+
+To the best of our knowledge there have been no published intervention studies of food insecurity in the context of mental illness, and it remains unknown if a structured intervention designed to ameliorate one condition can improve the other. Given the strong evidence for the association, however, investigators should focus future research efforts on (i) assessing longitudinal mental health outcomes in elderly people before and after receiving coordinated food assistance, including those who do not have a formal psychiatric diagnosis and (ii) piloting mental health interventions in elderly people already identified as food insecure or at increased risk of becoming food insecure. For example, Pagoto et al. (85) conducted a promising trial of Behavioral Activation Therapy (BAT) for those with co-occurring depression and obesity. BAT is an efficacious intervention for depression (72, 86), in which the focus of treatment is on helping individuals reengage in reinforcing activities. A similar strategy could be employed for older adults with co-occurring depression and food insecurity. Finally, an additional component should include assessment of elderly patients’ unique barriers to obtaining adequate food, namely physical disabilities, impaired mobility, and difficulty with transportation, all of which can impede food security even among those already receiving nutrition assistance (87).
+
+4.5. Strengths and limitations
+This study examined the association between weight status and food insecurity, among the largest nationally-representative cohort to-date. In addition, relatively few studies of food insecurity have examined mental health. Despite these strengths, there are limitations to this study. Primarily, ethnic and racial minorities were underrepresented, and this limits the ability to generalize our findings to a more diverse population. Furthermore, the HRS only evaluates participants with permanent addresses, therefore precluding the assessment of transient or homeless persons. In addition, many of the covariates were self-reported, including psychiatric diagnoses, medical comorbidities and participants’ eating behaviors, and self-reported data are prone to bias, that we were unable to address in this analysis. Also, depression measured via questionnaire would likely overlap to an extent with self-report of a psychiatric diagnosis, and since the HRS database does not differentiate between types of psychiatric diagnoses, depression may have been counted twice in analyses of participants diagnosed with a major depressive disorder.
+
+Our estimates may also have been affected by the potential differentiation in response to the HCNS. While response rate was high (75%) and the sampling weights did adjust for non-response, the weights were not specific to likelihood of food insecurity. Therefore, HRS participants who did not complete the HCNS may have differed in important ways that could be related to the likelihood of being food insecure. In addition, due to our numerous predictors, large standard errors from regression analyses were obtained which resulted in large confidence intervals for the odds ratio estimates. Therefore, our numerical estimates of covariate associations with Food Insecurity may not be exact, but we can be confident in the significance of our predictors.
+
+5. Conclusion
+In this study, we hypothesized that we would observe the “obesity paradox” in a large cohort of elderly participants and that increased weight status would be associated with increased odds of being food insecure. We further hypothesized that different covariates would interact with weight status and exert an additive effect on the odds of being food insecure. Overall, however, weight status did not appear to be independently associated with food insecurity in the elderly. Moreover, most covariates did not confer an additive effect on the odds of being food insecure, and instead, non-White race conferred a somewhat protective association with odds of experiencing Marginal or Low food security. Nevertheless, elderly people of non-White race, current tobacco users, and those subsisting on lower incomes may be at increased risk of being food insecure. Additionally, having a psychiatric diagnosis and/or qualifying as clinically depressed on a self-report of symptoms were both strongly associated with increased odds of food insecurity, suggesting that focusing solely on the economic factors that predispose people to being food insecure may not be effective in this population. The elderly face considerable and multifactorial barriers to obtaining and consuming a nutritious diet, but systematically addressing these barriers will be crucial to decreasing the adverse outcomes of food insecurity as the U.S. population ages.
+
+5.1. Take away points
+After adjustment for other factors, having overweight or obesity is not associated with higher odds of being food insecure among the elderly.
+
+Having a psychiatric diagnosis and/or self-report of clinically severe depression are significant predictors of increased odds of being food insecure.
+
+Just as in younger populations, non-White race is associated with increased odds of being food insecure among the elderly.
+
+Care providers working with the elderly should be aware of and screen for mental health conditions in the context of food security.
+
+Acknowledgements
+This material is based upon work supported by the Department of Veterans Affairs, Veterans Health Administration, Office of Research and Development (CDA14–422 to KST). The authors have no conflicts of interest to disclose. The views expressed in this article are those of the authors and do not necessarily reflect the position or policy of the Department of Veterans Affairs or the United States government.
+
+Figure 1. Flow chart of sample of Health and Retirement Study cohort eligible for inclusion in analysis.
+
+Figure 2. Health Care and Nutrition Survey items pertaining to food security, with possible responses and U.S. Department of Agriculture coding and scoring rubrica.
+
+Table 1. Prevalence of food security (binary and categorical) and use of nutrition assistance benefits among respondents aged 65+ years in the health and retirement study, by weight classa.
+
+	Total cohort	Normal Weight	Overweight	Obese	 p-valueb	
+Sample n = 2868	Sample n = 892	Sample n = 1103	Sample n = 873	
+Weighted n = 27,750,837	Weighted n = 8,965,900	Weighted n = 10,536,868	Weighted n = 8,248,069	
+Weighted X¯ (95% CI)	Weighted X¯ (95% CI)	Weighted X¯ (95% CI)	Weighted X¯ (95% CI)	
+Food secure (no)	 17.9% (15.8, 20.0%)	 15.2% (11.9, 18.5%)	 17.6% (14.3, 20.8%)	 21.2% (18.1, 24.4%)	 0.026	
+Food security (categorical)	
+ Very Low	 5.0% (4.0, 5.9%)	 3.4% (2.0, 4.7%)	 5.3% (3.4, 7.1%)	 6.4% (4.0, 8.7%)	 0.063	
+ Low	 6.8% (5.6, 7.9%)	 5.7% (3.8, 7.6%)	 5.9% (4.1, 7.7%)	 9.1% (6.9, 11.3%)		
+ Marginal	 6.1% (4.9, 7.3%)	 6.1% (4.1, 8.1%)	 6.4% (4.1, 8.7%)	 5.8% (3.9, 7.6%)		
+ High	 82.1% (80.0, 84.2%)	 84.8% (81.5, 88.1%)	 82.4% (79.2, 85.7%)	 78.7% (75.6, 81.9%)		
+Use of nutrition assistance benefits	 15.3% (13.5, 17.0%)	 13.5% (11.0, 16.0%)	 15.4% (12.3, 18.6%)	 16.9% (13.8, 19.9%)	 0.28	
+a Weight classes determined via estimated of body mass index (BMI = kg/m2). Normal weight BMI = 18.5–24.9; Overweight BMI = 25.0–29.9; Obese BMI = 30.0+.
+
+b P-value from Rao–Scott chi-squared test and significant at :≤0.05.
+
+Table 2. Selected characteristics of respondents aged 65+ years, by food security status and weight classa.
+
+	 Normal weight		 Overweight		 Obese		
+ Food insecure	 Food secure	 P-valueb	 Food insecure	 Food secure	 P-valueb	 Food insecure	 Food secure	 P-valueb	
+Sample n	129	763		200	903		195	678		
+Weighted n	1,359,150	7,606,750		1,852,217	8,684,651		1,752,362	6,495,707		
+Demographics										
+ Age [years] [mean (SD)]	74.6 (0.70)	77.5 (0.53)	&lt;0.01	73.3 (0.65)	75.4 (0.33)	&lt;0.01	71.8 (0.51)	72.6 (0.31)	 0.24	
+ Male	26.4%	34.7%	 0.17	38.8%	47.2%	 0.058	29.7%	44.4%	&lt;0.01	
+ Race										
+   White	71.8%	91.1%	&lt;0.0001	71.6%	90.2%	&lt;0.0001	70.4%	86.3%	&lt;0.0001	
+   Black/African American	16.1%	5.6%		20.9%	7.6%		22.0%	10.4%		
+   Other	12.1%	3.3%		7.5%	2.2%		7.6%	3.3%		
+ Hispanic	13.8%	5.7%	&lt;0.001	14.4%	4.7%	&lt;0.0001	14.3%	5.7%	&lt;0.001	
+ Married/Partnered	31.2%	43.4%	 0.057	36.6%	50.1%	&lt;0.001	35.8%	50.3%	&lt;0.01	
+ Education past High School	7.8%	32.1%	&lt;0.0001	9.4%	29.1%	&lt;0.0001	9.2%	29.5%	&lt;0.0001	
+ R + S Annual Incomec [×$10,000]	2.6 (0.26)	5.0 (0.28)	&lt;0.0001	2.7 (0.22)	6.1 (0.39)	&lt;0.0001	2.2(0.18)	5.0 (0.32)	&lt;0.0001	
+Health-related Factors										
+ Current smoker	26.4%	11.7%	&lt;0.01	16.0%	5.5%	&lt;0.0001	12.0%	6.0%	 0.039	
+ Drinks alcohol regularlyd	15.3%	36.3%	&lt;0.0001	19.4%	38.8%	&lt;0.0001	14.7%	32.8%	&lt;0.0001	
+ Preventive health behaviore	97.3%	91.1%	 0.044	91.7%	94.7%	 0.25	96.3%	94.7%	 0.60	
+ Self-reported health statusf	3.3 (0.13)	2.7 (0.05)	&lt;0.001	3.2 (0.10)	2.7 (0.04)	&lt;0.0001	3.5 (0.10)	2.89(0.04)	&lt;0.0001	
+Comorbidities										
+ High blood pressure/HTN	60.1%	53.7%	 0.19	77.5%	68.3%	 0.035	83.1%	79.0%	 0.28	
+ Diabetes	23.1%	11.9%	&lt;0.0001	26.8%	23.6%	 0.28	45.8%	38.9%	 0.19	
+ Cancer	10.7%	18.4%	 0.091	16.1%	23.1%	 0.049	19.9%	18.9%	 0.83	
+ Chronic lung disease	19.7%	11.5%	 0.045	14.8%	7.8%	&lt;0.01	24.0%	11.5%	&lt;0.0001	
+ Heart condition	41.0%	27.4%	 0.015	34.0%	30.2%	 0.42	41.7%	29.8%	 0.020	
+ Stroke	11.3%	8.5%	 0.30	13.5%	7.6%	 0.019	7.6%	5.6%	 0.41	
+ Arthritis	71.0%	66.3%	 0.38	76.8%	65.4%	 0.034	81.8%	77.1%	 0.26	
+Functional statusg										
+ Any difficulty with ADLs	21.1%	13.1%	 0.061	22.5%	13.0%	&lt;0.001	36.4%	17.2%	&lt;0.001	
+ Any difficulty with IADLs	21.4%	17.5%	 0.43	16.9%	10.4%	 0.020	30.9%	11.6%	&lt;0.0001	
+ Any difficulty with mobility	54.7%	45.0%	 0.059	67.0%	48.4%	&lt;0.0001	84.6%	66.5%	&lt;0.0001	
+ Any difficulty with large muscles	61.6%	55.6%	 0.27	76.1%	58.4%	&lt;0.0001	85.0%	77.0%	 0.034	
+ Any difficulty with gross motor skills	33.9%	21.9%	&lt;0.01	38.5%	23.4%	&lt;0.0001	54.3%	31.1%	&lt;0.0001	
+ Any difficulty with fine motor skills	17.6%	14.3%	 0.30	19.7%	15.0%	 0.14	35.0%	12.3%	&lt;0.0001	
+Mental health and cognition										
+ Psychiatric diagnosish	29.7%	11.6%	&lt;0.0001	28.4%	11.5%	&lt;0.0001	37.6%	17.6%	&lt;0.0001	
+ Dementia diagnosis	4.2%	2.3%	 0.19	2.5%	1.7%	 0.56	0.68%	0.94%	 0.73	
+ Depression (CESD)i	26.2%	8.0%	&lt;0.0001	22.2%	8.0%	&lt;0.0001	31.6%	10.7%	&lt;0.0001	
+ Word-recall scorej [mean (SD)]	8.0 (0.37)	9.1 (0.17)	&lt;0.01	8.4 (0.34)	9.4 (0.11)	&lt;0.01	8.4 (0.30)	10.0 (0.17)	&lt;0.0001	
+a Weight classes determined via estimated of body mass index (BMI = kg/m2). Normal weight BMI = 18.5–24.9; Overweight BMI = 25.0–29.9; Obese BMI = 30.0+.
+
+b P-value from Rao-Scott chi-squared test and significant at :≤ 0.05.
+
+c R + S is an estimated annual income based on self-reported salaries, retirement pensions and savings; reported as mean (SD).
+
+d Regular alcohol intake defined as drinking on a weekly basis, on one or more days per week.
+
+e Preventive health behaviors defined as undergoing regular prostate exams or serum lipid tests, or receiving an annual influenza vaccination.
+
+f Self-reported health status defined as an ordinal variable quantifying health as Excellent (1), Very Good (2), Good (3), Fair (4) or Poor (5); reported as mean (SD).
+
+g Functional Status defined as being unable to complete independently any one ADL (Activities of Daily Living), IADL (Instrumental Activities of Daily Living) or test of movement or ambulation.
+
+h Binary yes/no response to the following question: “Have you had or has a doctor told you that you have any emotional, nervous or psychiatric problems?”.
+
+i Estimated with the Center for Epidemiologic Studies Depression Scale diagnostic cutoff for identifying clinical depression.
+
+j Total word-recall summary score for dementia reflects the sum of immediate and delayed recall of ten or more memorized words; reported as mean (SD).
+
+Table 3. Interaction and significant main effect adjusteda odds ratios for binary food insecurity for participants aged 65þ years.
+
+	Main effect* OR (95% CI)	Overweighth vs normali Weight interaction OR (95% CI)	Obesej vs normali Weight interaction OR (95% CI)	
+Gender (male vs female)	0.60 (0.31, 1.14)	1.64 (0.74, 3.62)	1.23 (0.53, 2.81)	
+Race				
+  Black/African American vs White	3.03k (1.54, 5.98)	0.78 (0.35, 1.77)	0.52 (0.20, 1.36)	
+  Other vs White	3.84k (1.56, 9.45)	0.62 (0.23, 1.69)	0.23 (0.06, 0.87)	
+Hispanic	1.20 (0.64, 2.28)	2.58 (1.05, 6.33)	1.53 (0.57, 4.09)	
+R + S Annual Incomeb	0.90 (0.81, 1.01)	0.95 (0.84, 1.09)	0.85 (0.73, 0.99)	
+Psychiatric diagnosisc	2.11l (1.08, 4.15)	0.87 (0.39, 1.96)	0.74 (0.36, 1.53)	
+Depression (CESD)d	2.12k (1.20, 3.73)	0.91 (0.43, 1.91)	0.80 (0.33, 1.95)	
+Age (years)	0.93k (0.91, 0.94)			
+Education past High School	0.41k (0.26, 0.64)			
+Current smoker	1.73l (1.11, 2.69)			
+Drinks alcohol regularlye	0.63k (0.47, 0.84)			
+Preventive health behaviorf	1.89k (1.16, 3.08)			
+Heart condition	1.48k (1.09, 1.99)			
+Word-recall scoreg	0.93k (0.88, 0.97)			
+Sample n = 2868; Weighted n = 27,750,837.
+
+a Odds ratios adjusted for the variables listed in this table as well as all other variables in Table 2.
+
+b R+S is an estimated annual income based on self-reported salaries, retirement pensions and savings.
+
+c Binary yes/no response to the following question: “Have you had or has a doctor told you that you have any emotional, nervous or psychiatric problems?”.
+
+d Estimated with the Center for Epidemiologic Studies Depression Scale diagnostic cutoff for identifying clinical depression.
+
+e Regular alcohol intake defined as drinking on a weekly basis, on one or more days per week.
+
+f Preventive health behaviors defined as undergoing regular prostate exams or serum lipid tests, or receiving an annual influenza vaccination.
+
+g Total word-recall summary score for assessing dementia reflects the sum of immediate and delayed recall of 10 or more memorized words.
+
+h Overweight BMI = 25.0–29.9.
+
+i Normal weight BMI = 18.5–24.9.
+
+j Obese BMI = 30.0+.
+
+k Significant at P≤0.01.
+
+l Significant at P≤0.05.
+
+* Only main effects significant at a P &lt; 0.05 level and hypothesized interactions are reported.
+
+Table 4. Interaction and significant main effect adjusteda odds ratios for categorical food security for participants aged 65+ years.
+
+	Food Security Comparisone	Main Effect* OR (95% CI)	Normalg vs Normalg Weight Interaction OR (95% CI)	Obeseh vs Normalg Weight Interaction OR (95% CI)	
+Gender (male vs female)	Very Low	0.38 (0.10, 1.45)	2.04 (0.52, 16.57)	3.24 (0.77, 13.66)	
+Low	0.48 (0.21, 1.12)	1.54 (0.59, 4.01)	1.05 (0.31, 3.55)	
+Marginal	0.81 (0.31, 2.13)	1.44 (0.54, 3.84)	0.84 (0.26, 2.78)	
+Race					
+ Black/African American vs White	Very Low	2.78 (0.83, 9.34)	1.46 (0.37, 5.76)	0.31 (0.06, 1.68)	
+Low	4.37i (1.82, 10.50)	0.36j (0.13, 0.99)	0.55 (0.16, 1.81)	
+Marginal	2.29j (1.01, 5.17)	0.97 (0.36, 2.64)	0.60 (0.17, 2.12)	
+Other vs White	Very Low	2.84 (0.53, 15.24)	1.59 (0.22, 11.31)	0.18 (0.01, 5.41)	
+Low	3.01 (0.87,10.37)	0.76 (0.21, 2.75)	0.57 (0.11, 2.90)	
+Marginal	4.62i (1.48, 14.44)	0.21 (0.03, 1.70)	0.07i (0.02, 0.28)	
+Hispanic	Very Low	2.99 (0.87, 10.27)	2.31 (0.45, 11.84)	0.61 (0.16, 2.36)	
+Low	1.84 (0.73, 4.66)	1.65 (0.51, 5.35)	1.04 (0.22, 4.97)	
+Marginal	0.33 (0.08, 1.38)	4.61 (1.07, 19.86)	5.20 (1.10, 24.72)	
+R+S Annual Incomeb	Very Low	0.82 (0.67, 1.01)	0.94 (0.72, 1.22)	0.95 (0.75, 1.20)	
+Low	0.89 (0.74, 1.06)	0.89 (0.71, 1.13)	0.78 (0.60, 1.02)	
+Marginal	0.94 (0.82, 1.08)	0.99 (0.85, 1.16)	0.87 (0.68, 1.12)	
+Psychiatric diagnosisc	Very Low	1.62 (0.58, 4.54)	1.59 (0.42, 6.06)	1.48 (0.39, 15.58)	
+Low	3.34i (1.46, 7.69)	0.29 (0.11, 0.80)	0.30 (0.10, 0.94)	
+Marginal	1.49 (0.60, 3.70)	1.62 (0.47, 5.60)	1.12 (0.35, 3.58)	
+Depression (CESD)d	Very Low	6.57i (3.00, 14.4)	0.41 (0.12, 1.40)	0.28 (0.08, 0.97)	
+Low	1.90 (0.91, 3.96)	1.14 (0.43, 3.04)	0.91 (0.27, 3.14)	
+Marginal	1.10 (0.36, 3.38)	1.28 (0.33, 5.05)	1.43 (0.33, 36.10)	
+Age	Very Low	0.89 (0.86, 0.93)			
+Low	0.94 (0.91, 0.97)			
+Marginal	0.93 (0.90, 0.96)			
+Education past High School	Very Low	0.77 (0.36, 1.67)			
+Low	0.36 (0.20, 0.64)			
+Marginal	0.26 (0.14, 0.50)			
+Drinks alcohol regularlye	Very Low	0.70 (0.42, 1.17)			
+Low	0.81 (0.53, 1.25)			
+Marginal	0.44 (0.25, 0.79)			
+Preventive health behaviorf	Very Low	0.94 (0.43, 2.06)			
+Low	1.68 (0.70, 4.05)			
+Marginal	4.39 (1.18, 16.30)			
+Heart condition	Very Low	1.15 (0.63, 2.12)			
+Low	1.44 (0.95, 2.19)			
+Marginal	1.70 (1.12, 2.58)			
+Chronic lung disease	Very Low	2.07 (1.17, 3.67)			
+Low	1.74 (1.06, 2.88)			
+Marginal	0.73 (0.39, 1.39)			
+Word-recall scoreg	Very Low	0.92 (0.83, 1.01)			
+Low	0.95 (0.90, 1.01)			
+Marginal	0.91 (0.86, 0.96)			
+Sample n = 2,868; Weighted n = 27,750,837.
+
+a Odds ratios adjusted for the variables listed in this table, as well as all other variables in Table 2.
+
+b R+S is an estimated annual income based on self-reported salaries, retirement pensions and savings.
+
+c Binary yes/no response to the following question: “Have you had or has a doctor told you that you have any emotional, nervous or psychiatric problems?”.
+
+d Estimated with the Center for Epidemiologic Studies Depression Scale diagnostic cutoff for identifying clinical depression.
+
+e Reference group = High food security.
+
+f Overweight BMI = 25.0–29.9.
+
+g Normal weight BMI = 18.5–24.9.
+
+h Obese BMI = 30.0+.
+
+i Significant at P≤ 0.01.
+
+j Significant at P≤ 0.05.
+
+* Only main effects significant at a P &lt; 0.05 level and hypothesized interactions are reported.
+
+
+   References
+1. USDA ERS . Key statistics &amp; graphics 
+https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/key-statistics-graphics.aspx.  Accessed August 11, 2017.
+2. Renzaho AMN , Mellor D . Food security measurement in cultural pluralism: missing the point or conceptual misunderstanding? 
+Nutr Burbank Los Angel Cty Calif 
+2010 ; 26 (1 ):1 –9 .
+3. Ramsey R , Giskes K , Turrell G , Gallegos D . Food insecurity among adults residing in disadvantaged urban areas: potential health and dietary consequences. 
+Public Health Nutr 
+2012 ;15 (2 ):227 –37 .21899791 
+4. Seligman HK , Bindman AB , Vittinghoff E , Kanaya AM , Kushel MB . Food insecurity is associated with diabetes mellitus: results from the National Health Examination and Nutrition Examination Survey (NHANES) 1999–2002. 
+J Gen Intern Med 
+2007 ; 22 (7 ):1018 –23 .17436030 
+5. Seligman HK , Laraia BA , Kushel MB . Food insecurity is associated with chronic disease among low-income NHANES participants. 
+J Nutr 
+2010 ;140 (2 ):304 –10 .20032485 
+6. Larson NI , Story MT . Food insecurity and weight status among U.S. children and families: a review of the literature. 
+Am J Prev Med 
+2011 ;40 (2 ):166 –73 .21238865 
+7. Eisenmann JC , Gundersen C , Lohman BJ , Garasky S , Stewart SD . Is food insecurity related to overweight and obesity in children and adolescents? A summary of studies, 1995–2009. 
+Obes Rev 
+2011 ;12 (5 ):e73 –e83 .21382151 
+8. Olson CM . Nutrition and health outcomes associated with food insecurity and hunger. 
+J Nutr 
+1999 ;129 (2S Suppl ):521S –4S .10064322 
+9. Pan L , Sherry B , Njai R , Blanck HM . Food insecurity is associated with obesity among US adults in 12 states. 
+J Acad Nutr Diet 
+2012 ;112 (9 ):1403 –09 .22939441 
+10. Dinour LM , Bergen D , Yeh M-C . The food insecurity-obesity paradox: a review of the literature and the role food stamps may play. 
+J Am Diet Assoc 
+2007 ;107 (11 ): 1952 –61 .17964316 
+11. Homenko DR , Morin PC , Eimicke JP , Teresi JA , Weinstock RS . Food insecurity and food choices in rural older adults with diabetes receiving nutrition education via tele-medicine. 
+J Nutr Educ Behav 
+2010 ;42 (6 ):404 –09 .21070978 
+12. Brewer DP , Catlett CS , Porter KN , 
+Physical limitations contribute to food insecurity and the food insecurity-obesity paradox in older adults at senior centers in Georgia. 
+J Nutr Elder 
+2010 ;29 (2 ):150 –69 .20473810 
+13. Kim K , Frongillo EA . Participation in food assistance programs modifies the relation of food insecurity with weight and depression in elders. 
+J Nutr 
+2007 ;137 (4 ):1005 –10 .17374668 
+14. Mather M , Jacobsen LA , Pollard KM . Aging in the United States 
+Washington, DC : Population Reference Bureau , 2015 .
+15. Chen Y , Sloan FA . Explaining disability trends in the U.S. elderly and near-elderly population. 
+Health Serv Res 
+2015 ;50 (5 ):1528 –49 .25655273 
+16. Corriere M , Rooparinesingh N , Kalyani RR . Epidemiology of diabetes and diabetes complications in the elderly: an emerging public health burden. 
+Curr Diab Rep 
+2013 ; 13 (6 ):805 –13 .24018732 
+17. Boirie Y , Morio B , Caumon E , Cano NJ . Nutrition and protein energy homeostasis in elderly. 
+Mech Ageing Dev 
+2014 ;136 –137 :76–84. 
+18. Fakhouri THI , Ogden CL , Carroll MD , Kit BK , Flegal KM . Prevalence of obesity among older adults in the United States, 2007–2010. 
+NCHS Data Brief No. 106 
+2012 .
+19. Mormont E , Jamart J , Robaye L . Validity of the five-word test for the evaluation of verbal episodic memory and dementia in a memory clinic setting. 
+J Geriatr Psychiatry Neurol 
+2012 ;25 (2 ):78 –84 .22689699 
+20. Epstein LH , Jankowiak N , Lin H , 
+No food for thought: moderating effects of delay discounting and future time perspective on the relation between income and food insecurity. 
+Am J Clin Nutr 
+2014 ;100 (3 ):884 –90 .25008855 
+21. Cohen AK , Rai M , Rehkopf DH , Abrams B . Educational attainment and obesity: a systematic review. 
+Obes. Rev 
+2013 ;14 (12 ):989 –1005 .23889851 
+22. Clarke P 
+Health and Retirement Study (Psychosocial Leave-Behind Participant Lifestyle Questionnaire), public use dataset.
+Produced and distributed by the University of Michigan with funding from the National Institutes on aging (grant NIA U01AG009740) 
+Ann Arbor, MI , 2008–2010 .
+23. The Institute for Social Research – Health and Retirement Study 
+Ann Arbor, Michigan : University of Michigan 
+http://hrsonline.isr.umich.edu/modules/meta/2013/hcns/desc/2013HCNS_data_description_nt.pd 
+24. USDA ERS . Survey tools 
+https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/survey-tools/. 
+Accessed August 16, 2017. 
+25. About adult BMI | healthy weight  | CDC 
+https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/index.html. Published 2017. 
+Accessed September 4, 2017. 
+26. Radloff LS . The CES-D Scale: a self-report depression scale for research in the general population. 
+Appl Psychol Meas 
+1977 ;1 (3 ):385 –401 .
+27. Katz S , Ford AB , Moskowitz RW , Jackson BA , Jaffe MW . Studies of illness in the aged. The index of ADL: A standardized measure of biological and psychosocial function. 
+JAMA 
+1963 ;185 :914 –19 .14044222 
+28. Lawton MP , Brody EM . Assessment of older people: self-maintaining and instrumental activities of daily living. 
+Gerontologist 
+1969 ;9 (3 ):179 –86 .5349366 
+29. Nagi SZ . An epidemiology of disability among adults in the United States. 
+Milbank Mem Fund Q Health Soc 
+1976 ;54 (4 ):439 –67 .137366 
+30. Rosow I , Breslau N . A Guttman health scale for the aged. 
+J Gerontol 
+1966 ;21 (4 ): 556 –59 .5918309 
+31. Rossetti HC , Munro Cullum C , Hynan LS , Lacritz L . The CERAD neuropsychological battery total score and the progression of Alzheimer’s disease. 
+Alzheimer Dis Assoc Disord 
+2010 ;24 (2 ):138 –42 .20505431 
+32. SAS 9.1.3 Help and Documentation 
+Cary, North Carolina : SAS Institute Inc , 2004 .
+33. Facts About Senior Hunger 
+NCOA 
+https://www.ncoa.org/news/resources-for-reporters/get-the-facts/senior-hunger-facts/.  Published 2015 ; Accessed March 15, 2017. 
+34. Strickhouser S , Wright JD , Donley AM . Food Insecurity Among Older Adults 
+2014 .
+35. Hanson KL , Connor LM . Food insecurity and dietary quality in US adults and children: a systematic review. 
+Am J Clin Nutr 
+2014 ;100 (2 ):684 –92 .24944059 
+36. Putcha N , Drummond MB , Wise RA , Hansel NN . Comorbidities and chronic obstructive pulmonary disease: prevalence, influence on outcomes, and management. 
+Semin Respir Crit Care Med 
+2015 ;36 :575 –91 .26238643 
+37. Ställberg B , Janson C , Johansson G , 
+Management, morbidity and mortality of COPD during an 11-year period: an observational retrospective epidemiological register study in Sweden (PATHOS). 
+Prim Care Respir J 
+2014 ;23 :38 –45 .24346825 
+38. Hernán MA , Hernández-Díaz S , Robins JM . A structural approach to selection bias. 
+Epidemiology 
+2004 ;15 (5 ):615 –25 .15308962 
+39. Johnson CM , Sharkey JR , Dean WR . Indicators of material hardship and depressive symptoms among homebound older adults living in North Carolina. 
+J Nutr Gerontol Geriatr 
+2011 ;30 (2 ):154 –68 .21598164 
+40. Thomas VS , Rockwood KJ . Alcohol abuse, cognitive impairment, and mortality among older people. 
+J Am Geriatr Soc 
+2001 ;49 (4 ):415 –20 .11347785 
+41. Kane JC , Rapaport C , Zalta AK , 
+Regular drinking may strengthen the beneficial influence of social support on depression: findings from a representative Israeli sample during a period of war and terrorism. 
+Drug Alcohol Depend 
+2014 ;140 :175 –82 .24838033 
+42. Goldberg SL , Mawn BE . Predictors of food insecurity among older adults in the United States. 
+Public Health Nurs 
+2015 ;32 (5 ):397 –407 .25534664 
+43. Martin KS , Ferris AM . Food insecurity and gender are risk factors for obesity. 
+J Nutr Educ Behav 
+2007 ;39 (1 ):31 –36 .17276325 
+44. Hanson KL , Sobal J , Frongillo EA . Gender and marital status clarify associations between food insecurity and body weight. 
+J. Nutr 
+2007 ;137 (6 ):1460 –65 .17513407 
+45. Holben DH , Pheley AM . Diabetes risk and obesity in food-insecure households in rural Appalachian Ohio. 
+Prev Chronic Dis 
+2006 ;3 (3 ):A82 .16776883 
+46. Sullivan AF , Clark S , Pallin DJ , Camargo CA . Food security, health, and medication expenditures of emergency department patients. 
+J Emerg Med 
+2010 ;38 (4 ):524 –28 .19272731 
+47. Webb AL , Schiff A , Currivan D , Villamor E . Food Stamp Program participation but not food insecurity is associated with higher adult BMI in Massachusetts residents living in low-income neighbourhoods. 
+PHN 
+2008 ;11 (12 ):1248 –55 .
+48. Wilde PE , Peterman JN . Individual weight change is associated with household food security status. 
+J Nutr 
+2006 ;136 (5 ):1395 –400 .16614436 
+49. Kumanyika SK . Environmental influences on childhood obesity: ethnic and cultural influences in context. 
+Physiol Behav 
+2008 ;94 (1 ):61 –70 .18158165 
+50. Dubay LC , Lebrun LA . Health, behavior, and health care disparities: disentangling the effects of income and race in the United States. 
+Int J Health Serv 
+2012 ;42 (4 ): 607 –25 .23367796 
+51. Lindson-Hawley N , Hartmann-Boyce J , Fanshawe TR , 
+Interventions to reduce harm from continued tobacco use. 
+Cochrane Database Syst Rev 
+2016 ;10 :CD005231. 
+52. Du XL , Meyer TE , Franzini L . Meta-analysis of racial disparities in survival in association with socioeconomic status among men and women with colon cancer. 
+Cancer 
+2007 ;109 (11 ):2161 –70 .17455219 
+53. Islami F , Moreira DM , Boffetta P , Freedland SJ . A systematic review and meta-analysis of tobacco use and prostate cancer mortality and incidence in prospective cohort studies. 
+Eur Urol 
+2014 ;66 (6 ):1054 –64 .25242554 
+54. Kondo N 
+Socioeconomic disparities and health: impacts and pathways. 
+J Epidemiol 
+2012 ;22 (1 ):2 –6 .22156290 
+55. Njai R , Siegel P , Yin S , Liao Y . Prevalence of perceived food and housing security – 15 States, 2013. 
+Morb Mortal Wkly Rep 
+2017 ;66 (1 ):12 –15 .
+56. Odoms-Young A , Bruce MA . Examining the impact of structural racism on food insecurity: implications for addressing racial/ethnic disparities. 
+Fam Commun Health 
+2018 ;41 (Suppl 2 ):S3 –S6 .
+57. Chun GJ , Sautter JM , Patterson BJ , McGhan WF . Diffusion of pharmacy-based influenza vaccination over time in the United States. 
+Am J Public Health 
+2016 ;106 (6 ): 1099 –100 .27077353 
+58. Jandorf L , Chang MS , Smith K , Florio A , Hall SJ . Community-based free prostate cancer screening program. 
+Prog Commun Health Partnersh Res Educ Action 
+2007 ; 1 (3 ):215 –20 .
+59. Flobbe K , IJsselmuiden CB , Rheeder P , Gerber JJ , Lubbe M . The pharmacy screening project – an evaluation of pharmacy-based screening programmes. 
+South Afr Med J 
+1999 ;89 :980 –6 .
+60. Mangurian C , Sreshta N , Seligman H . Food insecurity among adults with severe mental illness. 
+Psychiatr Serv 
+2013 ;64 (9 ):931 –32 .
+61. Muldoon KA , Duff PK , Fielden S , Anema A . Food insufficiency is associated with psychiatric morbidity in a nationally representative study of mental illness among food insecure Canadians. 
+Soc Psychiatry Psychiatr Epidemiol 
+2013 ;48 (5 ):795 –803 .23064395 
+62. Davison KM , Kaplan BJ . Food insecurity in adults with mood disorders: prevalence estimates and associations with nutritional and psychological health. 
+Ann Gen Psychiatry 
+2015 ;14 :21 .26185523 
+63. Pryor L , Lioret S , van der Waerden J , 
+Food insecurity and mental health problems among a community sample of young adults. 
+Soc Psychiatry Psychiatr Epidemiol 
+2016 ;51 (8 ):1073 –81 .27294729 
+64. Flórez KR , Dubowitz T , Ghosh-Dastidar MB , Beckman R , Collins RL . Associations between depressive symptomatology, diet, and body mass index among participants in the supplemental nutrition assistance program. 
+J Acad Nutr Diet 
+2015 ;115 (7 ): 1102 –08 .25769748 
+65. Emery CF , Olson KL , Lee VS , 
+Home environment and psychosocial predictors of obesity status among community-residing men and women. 
+Int J Obes 
+2015 ;39 : 1401 –07 .
+66. Anyanwu UO , Sharkey JR , Jackson RT , Sahyoun NR . Home food environment of older adults transitioning from hospital to home. 
+J Nutr Gerontol Geriatr 
+2011 ;30 (2 ): 105 –21 .21598161 
+67. Munger AL , Hofferth SL , Grutzmacher SK . The role of the supplemental nutrition assistance program in the relationship between food insecurity and probability of maternal depression. 
+J Hunger Environ Nutr 
+2016 ;11 (2 ):147 –61 .27482302 
+68. Heflin CM , Siefert K , Williams DR . Food insufficiency and women’s mental health: findings from a 3-year panel of welfare recipients . 
+Soc Sci Med 
+2005 ;61 (9 ):1971 –82 .15927331 
+69. Hadley C , Patil CL . Seasonal changes in household food insecurity and symptoms of anxiety and depression. 
+Am J Phys Anthropol 
+2008 ;135 (2 ):225 –32 .18046777 
+70. Huddleston-Casas C , Charnigo R , Simmons LA . Food insecurity and maternal`depression in rural, low-income families: a longitudinal investigation. 
+PHN 
+2009 ; 12 (08 ):1133 –40 .
+71. Tarasuk V , Mitchell A , McLaren L , McIntyre L . Chronic physical and mental health conditions among adults may increase vulnerability to household food insecurity. 
+J Nutr 
+2013 ;143 (11 ):1785 –93 .23986364 
+72. Cuijpers P , van Straten A , Warmerdam L . Behavioral activation treatments of depression: a meta-analysis. 
+Clin Psychol Rev 
+2007 ;27 (3 ):318 –26 .17184887 
+73. Nezu AM , Nezu CM , Perri MG . Problem-solving Therapy for Depression: Theory, research, and Clinical Guidelines 
+New York : Wiley ; 1989 .
+74. Deurenberg P , Yap M , van Staveren WA . Body mass index and percent body fat: a meta analysis among different ethnic groups. 
+Int J Obes 
+1998 ;22 (12 ):1164 –71 .
+75. Rabkin SW . The relationship between epicardial fat and indices of obesity and the metabolic syndrome: a systematic review and meta-analysis. 
+Metab Syndr Relat Disord 
+2014 ;12 (1 ):31 –42 .24219127 
+76. Wakabayashi I 
+Necessity of both waist circumference and waist-to-height ratio for better evaluation of central obesity. 
+Metab Syndr Relat Disord 
+2013 ;11 (3 ):189 –94 .23451815 
+77. Corica F , Bianchi G , Corsonello A , 
+Obesity in the context of aging: quality of life considerations. 
+Pharmacoeconomics 
+2015 ;33 (7 ):655 –72 .25420750 
+78. Johnson Stoklossa CA , Sharma AM , Forhan M , 
+Prevalence of sarcopenic obesity in adults with class II/III obesity using different diagnostic criteria. 
+J Nutr Metab 
+2017 ;2017 :1 .
+79. Shah RV , Murthy VL , Abbasi SA , 
+Visceral adiposity and the risk of metabolic syndrome across body mass index: the MESA Study. 
+JACC Cardiovasc Imaging 
+2014 ; 7 (12 ):1221 –35 .25440591 
+80. Sánchez-García S , García-Peña C , Salvà-Casanovas A , 
+Frailty in community-dwelling older adults: association with adverse outcomes. 
+CIA 
+2017 ;12 :1003 –11 .
+81. Jones AD . Food insecurity and mental health status: a global analysis of 149 countries. 
+Am J Prev Med 
+2017 ;53 (2 ):264 –73 .28457747 
+82. Hager ER , Quigg AM , Black MM , 
+Development and validity of a 2-item screen to identify families at risk for food insecurity. 
+Pediatrics 
+2010 ;126 (1 ):e26 –e32 .20595453 
+83. Lucca JM , Ramesh M , Parthasarathi G , Ram D . Incidence and factors associated with medication nonadherence in patients with mental illness: a cross-sectional study. 
+J Postgrad Med 
+2015 ;61 :251 –6 .26440396 
+84. Keller HH , Dwyer JJM , Edwards V , Senson C , Gayle Edward H . Food security in older adults: community service provider perceptions of their roles. 
+Can J Aging 
+2007 ;26 (04 ):317 –28 .18304920 
+85. Pagoto S , Bodenlos JS , Schneider KL , 
+Initial investigation of behavioral activation therapy for co-morbid major depressive disorder and obesity. 
+Psychotherapy 
+2008 ;45 (3 ):410 –15 .22122500 
+86. Jacobson NS , Dobson KS , Truax PA , 
+A component analysis of cognitive-behavioral treatment for depression. 
+J Consult Clin Psychol 
+1996 ;64 (2 ):295 –304 .8871414 
+87. Lee JS , Fischer JG , Johnson MA . Food insecurity, food and nutrition programs, and aging: experiences from Georgia. 
+J Nutr Elder 
+2010 ;29 (2 ):116 –49 .20473809 
+

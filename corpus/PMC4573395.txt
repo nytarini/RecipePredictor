@@ -1,0 +1,723 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   04130662830CellCellCell0092-86741097-417224360271457339510.1016/j.cell.2013.11.034NIHMS547851ArticleReprogramming of the Circadian Clock by Nutritional Challenge Eckel-Mahan Kristin L. 1Patel Vishal R. 2de Mateo Sara 1Orozco-Solis Ricardo 1Ceglia Nicholas J. 2Sahar Saurabh 1Dilag Sherry 1Dyar Kenneth A. 3Baldi Pierre 2Sassone-Corsi Paolo 1*1 Center for Epigenetics and Metabolism, Department of Biological Chemistry, University of California Irvine, Irvine, California 92697-46252 Institute for Genomics and Bioinformatics, School of Information and Computer Sciences, University of California Irvine, Irvine, California 92697-34353 Venetian Institute of Molecular Medicine, Padova, Italy 35129* Contact: psc@uci.edu12 2 2014 19 12 2013 17 9 2015 155 7 1464 1478 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Summary
+Circadian rhythms and cellular metabolism are intimately linked. Here we reveal that a high-fat diet (HFD) generates a profound reorganization of specific metabolic pathways, leading to widespread remodeling of the liver clock. Strikingly, in addition to disrupting the normal circadian cycle, HFD causes an unexpectedly large-scale genesis of de novo oscillating transcripts, resulting in reorganization of the coordinated oscillations between coherent transcripts and metabolites. The mechanisms underlying this reprogramming involve both the impairment of CLOCK:BMAL1 chromatin recruitment, and a pronounced cyclic activation of surrogate pathways through the transcriptional regulator PPARγ. Finally, we demonstrate that it is specifically the nutritional challenge, and not the development of obesity, that causes the reprogramming of the clock and that the effects of the diet on the clock are reversible.
+
+
+   Introduction
+A large number of physiological events follow circadian rhythmicity. Examples of biological circadian rhythms include sleeping, eating, hormone and neurotransmitter secretion, and even proficiency at cognitive tasks (Bass, 2012; Dibner et al., 2010; Gerstner et al., 2009; Menet and Rosbash, 2011). At the cellular level, these rhythms are controlled by transcriptional feedback loops that produce oscillations in gene expression, a process associated with circadian changes in chromatin architecture, mRNA processing, protein activity and turnover (Feng and Lazar, 2012) (Koike et al., 2012; Morf et al., 2012; Yoo et al., 2013) (Masri et al., 2013; Rey et al., 2011). Rhythmicity in transcription is controlled in large part by specialized factors, including CLOCK, BMAL1, PERs, CRYs and others (Ko and Takahashi, 2006). Coordination at the cellular level is necessary for tissue-specific oscillations that control circadian physiology (Bray and Young, 2009; Hastings et al., 2008; Schibler and Sassone-Corsi, 2002; Zhang et al., 2010). Accumulating evidence supports the notion that oscillating metabolites are also important for the maintenance of cellular rhythmicity (Dallmann et al., 2012; Eckel-Mahan et al., 2012; Nakahata et al., 2009; O’Neill et al., 2011; Ramsey et al., 2009) but the extent to which the circadian metabolome is affected by nutritional stress is not known.
+
+Metabolic homeostasis is not maintained when components of the circadian clock are missing or functioning improperly (Kondratov et al., 2006; Lee et al., 2011; Marcheva et al., 2010; Rudic et al., 2004; Sadacca et al., 2011; Shi et al., 2013; Turek et al., 2005; Zhang et al., 2010) and circadian disruption can result in disorders such as diabetes, obesity, and cardiac disease (Antunes Lda et al., 2010; Doi et al., 2010; Drake et al., 2004; Fonken et al., 2010; Froy, 2010; Knutsson, 2003; Lamia et al., 2008; Sharifian et al., 2005; Suwazono et al., 2008). Conversely, metabolic disruptions such as the restriction of energy intake to a phase that opposes that of the traditional feeding phase, can reset some peripheral clocks almost entirely, disrupting energy balance (Arble et al., 2009; Damiola et al., 2000; Hughes et al., 2009; Stokkan et al., 2001; Vollmers et al., 2009). Hepatic circadian rhythmicity in particular, is highly responsive to cyclic energy intake (Hatori et al., 2012; Pendergast et al., 2013; Vollmers et al., 2009).
+
+The molecular mechanisms by which a high fat diet (HFD) affects the circadian clock are not known. Using high-throughput profiling of the liver metabolome and transcriptome we establish that HFD has multifaceted effects on the clock, including a phase advance of metabolite and transcript oscillations which are maintained on the diet, as well as an abolition of otherwise oscillating transcripts and metabolites. In addition to these disruptive effects, we find a surprising, elaborate induction of newly oscillating transcripts and metabolites. Thus, HFD has pleiotropic effects that lead to a reprogramming of the metabolic and transcriptional liver pathways. These are mediated both by interfering with CLOCK:BMAL1 recruitment to chromatin and by inducing the de novo oscillation of PPARγ-mediated transcriptional control at otherwise non-cyclic genes.
+
+Results
+Extensive and Specific Reorganization of the Circadian Metabolome by HFD
+To understand how altered nutrients affect circadian metabolism, we explored the effect of HFD in mice by studying the hepatic metabolome, where a large number of metabolites are circadian or clock-controlled (Dallmann et al., 2012; Eckel-Mahan et al., 2012; Kasukawa et al., 2012), After ten weeks on a HFD, mice displayed expected metabolic features (Figure S1). Importantly, the timing and quantity of energy intake was similar between feeding groups (Figure S1 and Supplementary Text). Metabolome profiles were obtained by MS/MS and GC/MS from livers isolated every four hours throughout the circadian cycle (Evans et al., 2009). A large number of metabolites across several metabolic pathways displayed changes in HFD-fed animals (Figure S2). Of 306 identifiable metabolites, 77% showed a diet effect and 45% showed a time effect (Figure 1A and Figures S2). When analyzed for circadian oscillations, 121 metabolites cycled in abundance. Of these, 51 metabolites (42%) oscillated in both feeding conditions (Both), while 40 metabolites (33%) oscillated only in normal chow-fed animals (NC). Importantly, 30 metabolites oscillated only in HFD-fed animals (HF) (Figure 1B). Many of the metabolite changes were present at ZT12 and ZT16 (Figure 1C) and included numerous nucleotide, amino acid, and xenobiotic metabolites (Figure 1D and Figure S2). The metabolite peak profiles differed across several of the metabolic pathways throughout the circadian cycle (Figure 1E and Figure S2). Interestingly, the phase and amplitude of remaining oscillatory metabolites also differed. Specifically, metabolites that oscillated in both feeding conditions generally showed a shift in phase when in HFD (Figure 1F). Of the phase-shifted metabolites, 28% were delayed in phase, while 72% were phase-advanced in HFD (Figure 1F–H). Considering the phase of metabolites that oscillated only in NC or only in HFD, metabolites that oscillated only in HFD tended to peak earlier (Figure 1G).
+
+A majority of metabolite oscillations previously shown to be CLOCK-dependent (Eckel-Mahan et al., 2012) are affected by HFD (Figure 1I). As seen in our previous experiments, specific metabolic subpathways are circadian. For example, lysine metabolism is highly rhythmic in normal feeding conditions (Eckel-Mahan et al., 2012). In this study, lysine metabolism was highly rhythmic in both feeding conditions. Specifically, glutarate, lysine, 2-aminoadipate, and pipecolate showed oscillatory abundance in both conditions (Table S1 and http://circadiomics.igb.uci.edu/). On the other hand, pyrimidine metabolism displayed rhythmicity only under NC condition. For example, cytidine 5′-monophosphate (5-CMP), 2′-deoxycytidine, and 2′-deoxycytidine 5′-monophosphate all lost oscillation in HFD. (Table S1 and http://circadiomics.igb.uci.edu/.)
+
+Strikingly, HFD completely blocked oscillation of nicotinamide adenine dinucleotide (NAD+) (Table S1 and Figure 4A). A previous report demonstrated reduced hepatic NAD+ under HFD (Yoshino et al., 2011). Thus, HFD may modulate its negative influence on energy balance by eliminating circadian oscillations in NAD+, rather than inducing a static decrease in total NAD+ content. The lack of circadian NAD+ accumulation under HFD supports the observation that NAD+ is high during fasting (Rodgers et al., 2005). Animals fed a HFD may never achieve such an energy-depleted state due to the constant and non-oscillatory levels of glucose. The molecular mechanism leading to the impairment in NAD+ oscillation in HFD constitutes a paradigm of clock transcriptional reprogramming through the control of the Nampt gene (Figures 3B and 4E).
+
+A large number of lipid metabolites were affected by HFD (Figure S2). Coenzyme A, a cofactor involved in fatty acid synthesis and beta oxidation, displayed a circadian profile in HFD that was substantially increased in amplitude, as did its precursors phosphopanthetein and 3-dephosphocoenzyme A. Many amino acid metabolites continued to oscillate in both conditions, even though their relative abundance was substantially reduced by the HFD, likely due to increased gluconeogenesis. We conclude that the high fat diet impinges on the circadian metabolome in three possible manners: ablation, phase-advancement, or promotion of oscillation for specific metabolites.
+
+Reprogramming the Circadian Transcriptome
+We analyzed the circadian transcriptome using the same liver samples used for the metabolome. In all, 2,799 transcripts oscillated in expression; of these 49.5% (1394) were rhythmic only in the NC condition (Figure 2A). An additional 778 were rhythmic in both NC and HF conditions and a surprising 654 were newly oscillating exclusively in HFD (Figure 2A and 2B). When analyzed for singular enrichment in metabolic pathways, we found that genes oscillating in both NC and HF showed unique annotations including purine metabolism and circadian rhythm (Figure 2C). The persistence of circadian clock gene oscillation in both NC and HFD validates the notion that circadian oscillation within the core clock genes is highly resistant to perturbation, while clock output genes are more sensitive to food as a zeitgeber (Damiola et al., 2000). Metabolic pathways whose oscillation was uniquely lost in HFD included ubiquitin mediated proteolysis and insulin signaling (Figure 2E).
+
+The 654 transcripts that gained rhythmicity exclusively in HFD attracted our attention. Only five annotation groups were found, with glycerophospholipid metabolism, antigen processing and presentation, and N-glycan biosynthesis as the uniquely oscillating pathways. Three members of the oligosaccharyltransferase complex (OSTC) were among this newly oscillating group, including a subunit of the Oligosaccharyltransferase Complex Homolog A, Ostc. Importantly, specific N-glycans have been observed to be substantially elevated in the serum of db/db mice and in the serum of human subjects with type 2 diabetes (Itoh et al., 2007). Increased expression of glycan biosynthesis genes has also been observed in serum from humans with type 2 diabetes (Das and Rao, 2007).
+
+As 27.6% of all rhythmic genes oscillated in both NC and HF conditions, we analyzed their phase of expression. Of these 778 genes, 34% oscillated in phase while 66% were phase-shifted by HFD (Figure 2F). Remarkably, most of the oscillatory transcripts in this category showed a phase profile that was, as for the metabolome, phase-advanced in HFD. Only 21% showed a phase delay while 79% of the shifted transcripts showed a phase advance (Figure 2F). Analysis of the phase of transcripts that oscillated only in NC or HFD, revealed starkly different profiles. Specifically, oscillatory transcripts in the NC-only group showed robust peaks between ZT4-ZT12, while the HFD group showed rather an irregular phase pattern (Figure 2G). The peak of oscillatory transcripts in the NC-only condition is consistent with when the CLOCK:BMAL1 heterodimer is most active and recruited to circadian contacts (Hatanaka et al., 2010; Kondratov et al., 2003; Rey et al., 2011). When comparing the phase of the transcripts and metabolites that oscillated in both liver sets (Figure 2H, left), similar organization was seen, with transcripts and metabolites showing a biphasic pattern and transcript peaks slightly preceding metabolite peaks. Metabolite and transcript oscillations that were lost in HFD (i.e. oscillating in NC only) also showed a temporal organization with transcripts peaking prior to the majority of metabolites (Figure 2H, middle). However, coherence was not complete in HFD, with most metabolites peaking at ZT14, and transcripts remaining largely unsynchronized in phase (Figure 2H, right).
+
+In addition to phase analysis, we studied the oscillation amplitude of both transcripts and metabolites (Figure 2I). Of all common oscillators, 62% of the 778 transcripts showed a reduction in amplitude in HFD, while 38% showed an increase. Similarly, 71% of metabolites showed a reduction in amplitude in HFD, while 29% showed an increase. We conclude that the percentage of the circadian metabolome and transcriptome are similarly affected in amplitude by HFD, stressing the coherence between these two groups of oscillators.
+
+Coherence of Metabolome and Transcriptome
+We determined the relationship within metabolic pathways between the transcriptome (of the enzymes) and the metabolome on different diets by integrating the data into the bioinformatics resource, CircadiOmics (Patel et al., 2012). We classified and grouped metabolite-enzyme edges based on the presence or absence of oscillation as well as additional characteristics of the oscillation, specifically, the phase and amplitude (Figure 3A). The most common edge characterization (87 of 384 edges, 23%) revealed that the loss of oscillation for a particular metabolite usually was accompanied by a loss of oscillation for its related transcripts (Figures 3A–B). Interestingly, the second most common edge classification involved the loss of oscillatory transcript abundance in HFD but an increase in the amplitude of oscillation in the related metabolite. No phase delay in the transcriptome or metabolome was observed within the top ten edge classification scenarios, suggesting again that a significant effect of HFD is to phase-advance the remaining oscillatory metabolites. Edge classification reinforced the notion that one of the effects of HFD is to reorganize the temporal coherence between the metabolome and transcriptome. The most common relationships between related transcripts and metabolites involved an opposing state of oscillation in animals in HFD (Figure 3A and 3B).
+
+A paradigmatic example of a metabolite whose loss of oscillation by HFD is accompanied by a dampened oscillation for its related transcript is NAD+. Circadian NAD+ synthesis depends on the transcriptional control by the clock of Nampt gene expression (Nahakata et al. 2009; Ramsey et al. 2009). HFD induces a loss of NAD+ oscillation that parallels a dampening of Nampt cyclic transcription (Figure 3B; and 4E–F). Additional case scenarios include ornithine decarboxylase 1 (Odc1) and ornithine (where a concomitant loss of oscillation occurs in HFD), acyl-CoA synthetase short-chain family member 2 (Acss2) and coenzyme A (where loss of oscillatory transcript in HFD corresponds to an increased metabolite amplitude) and cytochrome P450 monooxygenase (Cyp2a5) and arachidonate (where a phase advance in transcript in HFD corresponds to a lack of oscillation in its related metabolite) (Figure 3B).
+
+Importantly, several metabolite and transcript edges within individual pathways mirror each other in HFD-induced gain of oscillation. Remarkable examples are within the amino acid subpathway of cysteine, methionine, S-adenosylmethionine (SAM) and taurine metabolism. Indeed, both SAM and S-adenosylhomocysteine (SAH) showed newly oscillating profiles in HFD (Figure 3C). HFD-induced cycling of these metabolites was accompanied by de novo oscillation of several related enzymes, including Ehmt, Trmt2b, Whsc1, Dph5 – genes whose products have known or predicted methyltransferase activity. A relevant case is Ahcyl2, the gene encoding the enzyme that catalyzes the reversible conversion of SAH to adenosine and homocysteine, whose oscillation parallels the one of SAH in HFD (Figure 3D). Each metabolite and transcript identified in the livers of animals fed NC or HFD were integrated within the computational resource, CircadiOmics (Eckel-Mahan et al., 2012; Patel et al., 2012).
+
+HFD Hinders CLOCK:BMAL1 Chromatin Recruitment to Target Genes
+Activation by CLOCK:BMAL1 of target gene promoters has been linked to oscillations of a number of metabolites (Eckel-Mahan et al., 2012; Nakahata et al., 2009). Thus, we investigated the molecular mechanisms by which circadian oscillations are disrupted by HFD. First, we hypothesized that HFD might alter core clock gene expression. Importantly, most of the core circadian genes were rhythmic in the livers of HFD-fed mice (Figure 4A), displaying only weak shifts or slightly dampened patterns of oscillation, results which are cohesive with previously published work (Hatori et al., 2012; Kohsaka et al., 2007). Per2 and Bmal1 mRNA showed mild dampening and phase advancement, while Clock expression was unaffected (Table S2 and circadiomics.igb.uci.edu/).
+
+One case scenario is represented by the gene Dbp, whose robust circadian oscillation was phase-advanced in HFD (Figure 4A). Since Clock and Bmal1 cyclic transcription is similar in HFD-fed mice (Figure 4A), we analyzed protein levels. Importantly, the levels of BMAL1 (Figure 4B) and CLOCK (Figure S3C) proteins were unaltered in livers of HFD-fed animals. Similarly, the phosphorylation profiles of BMAL1 in NC and HFD conditions were similar in different cellular fractions (Figures S3A–B). We next explored whether CLOCK:BMAL1 chromatin recruitment might contribute to the altered pattern of Dbp expression by chromatin immunoprecipitation (Ripperger and Schibler, 2006). Remarkably, BMAL1 and CLOCK recruitment was shifted in livers of HFD-fed mice (Figure 4C).
+
+Interestingly, transcripts whose oscillation was lost in HFD were in large part peaking between ZT4 and ZT12 (Figure 2G), a time period that correlates with prominent CLOCK:BMAL1 recruitment to chromatin targets (Hatanaka et al., 2010; Kondratov et al., 2003; Rey et al., 2011). This parallels the dampening or abrogation of the oscillations of numerous metabolites previously shown to be CLOCK:BMAL1-regulated (Figure 4D). A remarkable example is NAD+, whose cyclic levels become flat after HFD, paralleling the profile of Nampt transcription (Figure 4D–E). Similarly, the oscillations of the metabolites uridine and uracil, the abundance of which is dependent on the enzymatic activity of CLOCK:BMAL1-driven uridine phosphorylase 2 (Upp2) expression (Eckel-Mahan et al., 2012), were depressed in the livers of HFD-fed animals (Figure 4D). The amplitude of Upp2 expression was considerably reduced under HFD (Figure 4E). Interestingly, we observed a substantial decrease in CLOCK and BMAL1 circadian occupancy on the Upp2 and Nampt promoters in livers of animals fed a HFD (Figure 4F–G and Figure S3D). Importantly, oscillation in H3K4me3, a histone modification tightly associated with circadian transcription (Katada and Sassone-Corsi, 2010; Ripperger and Schibler, 2006), significantly decreased at the Upp2 (Figure 4H) and Nampt (not shown) promoters in HFD-fed animals. Thus, the profound effect elicited by HFD is caused by either phase-shifted or reduced recruitment of the CLOCK:BMAL1 complex to chromatin at the level of target promoters.
+
+HFD-induced Reprogramming of the Clock by PPARγ
+The disruptive effect of HFD on CLOCK:BMAL1 chromatin recruitment (Figure 4E–G), does not explain the de novo rhythmicity gained by a large group of genes in HFD (Figure 2B). Notably, with the exception of the group of genes whose oscillation is lost under HFD, the group of newly oscillating genes is the largest, over doubling the number of genes that showed phase advancement as a result of the HFD.
+
+Transcription factor motif analysis by MotifMap (Daily et al., 2011; Xie et al., 2009) was performed on a regions located 10kb upstream and 3kb downstream of the transcriptional start sites to determine what transcriptional pathways might be most heavily affected by the HFD. Using a Bayesian branch length score of 1 or greater, E boxes were significantly enriched in genes oscillating only under NC as well as in genes oscillating under both NC and HFD conditions. On the contrary, no enrichment for E boxes was observed in the group of genes oscillating exclusively in HFD condition. Analysis of the frequency of specific transcription factors binding sites in the promoters of genes whose oscillation was induced by HFD, revealed that HFD promotes the use of additional transcriptional pathways to reprogram the hepatic transcriptome. One of the most represented transcription factors in the newly oscillating group of genes was PPARγ. Several other transcription factors oscillated in HF only, which included SREBP-1 (Srebf), CREB1 and SRF (Table S3). PPARγ and SREBP1 were identified as having one or more target sites in 322 and 91 genes, respectively (Figure 5A). In line with the idea of increased PPARγ-mediated gene expression under HFD, metabolomics analysis revealed that PPARγ ligands were elevated in livers of HFD-fed animals, specifically 13-HODE, 15-HETE, linolenate and arachidonate (http://dev.circadiomics.ics.uci.edu/ and Figure S4). PPARγ is a nuclear receptor involved in glucose and lipid metabolism (Fajas et al., 2001; Perreault et al., 2010) and has been described as a nutrient sensor in metabolic tissues (Spiegelman, 1998; Tontonoz and Spiegelman, 2008). PPARγ expression is induced in response to HFD (Vidal-Puig et al., 1996) and during the development of diet-induced fatty liver disease (Inoue et al., 2005). We found that PPARγ expression was robustly oscillatory in the liver of HFD-fed animals, with a peak at ZT12 (Figure 5B). While the levels of total PPARγ protein were elevated, but not circadian in HFD-fed mice (Figure 5C), nuclear PPARγ showed a significant circadian oscillation (Figure 5C), with a robust peak in expression at ZT12 (Figure 5D). Levels of PPARγ in NC-fed mice had no variation (Figure 5C–D). Importantly, chromatin bound PPARγ displayed a robust change at different zeitgebers only in HFD-fed mice (Figure 5C). Expression of nocturnin (NOC), which has been implicated in PPARγ nuclear translocation in adipocytes (Kawai et al., 2010), was phase-advanced under HFD, but showed similar amplitude under both diets (Figure S4B).
+
+We next analyzed the expression of several known PPARγ target genes. Cell death-inducing DFFA-like effector c (Cidec, also known as fat-specific protein 27 -Fsp27) is substantially elevated in the livers of the obese ob/ob mice (Matsusue et al., 2008). Cidec expression is not considered to be circadian under normal conditions but became robustly oscillatory under HFD (Figure 5E), corresponding with a circadian change in H3K4me3 at its promoter (Figure 5F). We validated the role of PPARγ by injecting GW9662, a specific PAPRγ antagonist, into HFD-fed animals. GW9662 blocks PPARγ activity while not affecting its binding to DNA (Leesnitzer et al., 2002). While the circadian fluctuation in PPARγ in the chromatin fraction was unaltered, GW9662 induced a decrease in PPARγ-induced Cidec expression at the peak (Figure 5G). Furthermore, we found that PPARγ occupied the Cidec promoter in a circadian manner only in HFD-fed animals (Figure 5H). We analyzed another known PPARγ target, pyruvate carboxylase (Pcx), an enzyme which converts pyruvate to oxaloacetate and is an important regulator of hepatic gluconeogenesis (Jitrapakdee et al., 2006). Liver and adipose-specific inhibition of Pcx produces a reduction in plasma glucose, adiposity, plasma lipid concentrations, and hepatic steatosis in HFD-fed animals (Kumashiro et al. 2013). Pcx expression was significantly elevated and rhythmic in livers of HFD-fed mice (Figure 5I, left) and PPARγ occupied the Pcx promoter in a circadian manner only in HFD conditions (Figure 5J). Thus, the transcriptional reprogramming induced by HFD relies on changes in the presence, pattern of oscillation, and chromatin recruitment of PPARγ.
+
+HFD-induced Remodeling of the Clock is Dissociable from Obesity
+Animals fed a high fat diet for 10 weeks become obese (West et al., 1992) and Figure S1A. To discern whether clock reprogramming depends on the development of obesity, rather than the HFD content, we fed mice a HFD for only three days (Figure S5A) and then analyzed the metabolome. Considering only metabolites that showed consistent circadian profiles in NC between the 10-week group and the 3-day groups at the zeitgeber times chosen (this comparison revealed 87.5% consistency between experiments), 131 metabolites showed a diet effect while 80 showed a time effect (Figure 6A and Table S4). We used NAD+, uridine and uracil as metabolic markers as they were highly susceptible to 10 weeks of HFD (Figure 4). Notably, the abundance and oscillation of uracil and uridine was greatly reduced in amplitude and the circadian oscillation of NAD+ was abolished within 3 days of HFD (Figure 6B). Next, we determined the impact of the three day feeding paradigm on transcription. Bmal1 transcript and protein levels were unchanged by the 3 days of HFD, paralleling the scenario of the 10-week HFD (compare Figures 6C–D and 4A–B). However, the amplitude of Upp2 and Nampt oscillation was already reduced after three days of HFD, as was the expression of Dbp at ZT12, a reflection of the phase shift observed in the 10 weeks HFD analysis (Figure 6E). Finally, PPARγ targets gained rhythmicity after acute HFD feeding as illustrated by Cidec expression (Figure 6E).
+
+In addition to the NC diet, a second low fat diet (D12450B, Research Diets) was used to confirm that observed changes at three days were not simply due to variation in carbohydrate composition. Results were similar to NC-fed animals (data not shown), underscoring the deleterious nature of HFD on the circadian clock. Chromatin immunoprecipitation experiments revealed that the occupancy of CLOCK and BMAL1 was reduced at their target sites on Upp2 and Dbp at ZT12 (Figure 6F) as was the H3K4me3 mark at these promoters (Figure 6G). Thus, a short 3-day exposure to HFD initiates the reprogramming of the circadian clock.
+
+High Fat Diet-Induced Circadian Remodeling is Reversible
+To determine whether the transcriptional state of HFD-fed mice is reversible, we fed a group of animals a HFD for 10 weeks followed by two weeks of NC feeding. Although animals lost some weight during the two week NC period, they remained significantly overweight relative to normal chow (Figure S5). Interestingly, after 2-week of NC feeding, circadian expression of Upp2 and Dbp was restored (Figure 6H) as was Nampt (not shown). Expression the PPARγ target Pcx was not elevated relative to control livers at ZT12 (Figure 6H). Finally, BMAL1 occupancy at the Upp2 and Dbp promoters at ZT12 was identical in both liver groups, revealing a restoration of circadian BMAL1 presence at target promoters after the HFD challenge was removed. (Figure 6I). Thus, the HFD-induced transcriptional and epigenetic remodeling is reversible.
+
+Discussion
+Metabolic and circadian processes are tightly linked, but the mechanisms by which altered nutrients influence the circadian clock have not been deciphered. We have explored the effects of nutrient challenge in the form of HFD on the circadian metabolome and transcriptome and found that HFD induces transcriptional reprogramming within the clock that reorganizes the relationships between the circadian transcriptome and the metabolome. We have unraveled at least three mechanisms by which this reprograming occurs: 1) Loss of oscillation of a large number of normally oscillating genes; 2) A phase-advance of an additional subset of oscillating transcripts. 3) A massive induction of de novo oscillating gene transcripts.
+
+We have demonstrated that HFD-induced changes in the circadian clock implicate a reprogramming of the transcriptional system that relies on at least two key mechanisms. The first is the lack of proper CLOCK:BMAL1 chromatin recruitment to genes that would normally be considered as clock-controlled. This results in a decrease or abrogation of oscillation in transcription. The second, illustrated by the de novo oscillations in transcriptional networks otherwise considered arrhythmic, relies in large part on the robust, circadian accumulation in the nucleus and on chromatin of the transcription factor PPARγ. While we predict that other transcriptional pathways would contribute to clock reprogramming, including SREBP1 (Figure 5A), the role of PPARγ appears prominent. This nuclear receptor has been linked to circadian control during adipogenesis and osteogenesis (Kawai et al., 2010), whereas its role in the liver clock is not fully understood (Green et al., 2007). We determine that PPARγ circadian function in HFD-fed mice relies on a clock-controlled nuclear translocation of the protein and rhythmic chromatin recruitment to target genes (Figs. 5C, 5G and 5I).
+
+In contrast to the PPARγ scenario, HFD does not affect CLOCK:BMAL1 nuclear translocation but impedes their specific chromatin recruitment (Figure 4). We speculate that additional regulatory pathways are implicated which might interplay with the ones described here. In conclusion, the remarkable induction of de novo oscillation in both metabolites and transcripts under HFD indicates that a diet high in fat has previously unsuspected, potent and pleiotropic effects on the circadian clock. Furthermore, the rapid influence of the diet on the clock (as demonstrated by the three day HFD experiment; Figure 6D) reveals that this type of nutritional challenge and not merely the development of diet-associated complications such as obesity, is capable of remodeling the clock. Further work will elucidate how the molecular composition of CLOCK:BMAL1 and PPARγ chromatin complexes may be influenced by nutritional challenges, possibly leading to modulation of enzymatic activities of specific co-regulators and modifiers.
+
+An intriguing concept that may be derived from of our study relates to the potential of specific genes to be circadian or not. Indeed, the transcriptional remodeling in the high fat diet raises the hypothesis that given the “right” molecular environment, any transcript or metabolite can oscillate. We speculate that this may be achieved through the coordinated harmonics of energy balance, transcriptional control and epigenetic state. In summary, nutrients have powerful effects on the cellular clock, revealing its intrinsic plasticity. These effects consist not only of the abrogation of pre-existing rhythms but the genesis of rhythms where they do not normally exist. This induction is rapid and does not require the onset of obesity and it is also reversible. The reversible nature of these effects gives hope for novel nutritional and pharmaceutical strategies..
+
+Experimental Procedures
+Mice
+Age-matched, male C57BL/6J mice (JAX, #00064) were maintained on a 12 h light/12 h dark cycle. Animal care and use was in accordance with guidelines of the Institutional Animal Care and Use Committee at the University of California at Irvine.
+
+Feeding
+At six week of age, animals were placed on a normal chow diet (Prolab RMH 2500), or a high-fat diet (60% kcal from fat, Research Diets, D12492; New Brunswick, NJ) for 10 weeks. Additional 3-day feeding experiments included Prolab RMH 25040 (12.1% kcal from fat), RD D12492 (10% kcal from fat), and RD D12450B (60% kcal from fat) diets. To maintain consistency with prior metabolomic experiments, metabolomics was performed on livers from animals on the Prolab RMH 25040 and RD D12450B diets. Body weight was measured weekly. One week prior to sacrifice, animals were separated into individual cages.
+
+Microarray Analysis
+Microarrays were performed at the UCI Genomics High Throughput Facility, University of California, Irvine (See Supplementary Text). Datasets can be found in the NCBI Gene Expression Omnibus (GEO), GSE52333.
+
+Gene Annotation
+Gene annotation was performed using Genecodis (Carmona-Saez et al., 2007; Nogales-Cadenas et al., 2009).
+
+MotifMap Analysis
+MotifMap is a comprehensive database of putative regulatory transcription factor binding sites which is described in (Daily et al., 2011; Xie et al., 2009). See Supplementary Text.
+
+Chromatin Immunoprecipitation
+Chromatin immunoprecipitation experiments were performed as previously described (Eckel-Mahan 2012) (Also see Supplementary Text.)
+
+Western Blot Analysis and Quantification
+Generally, 3–15 μg protein of liver nuclear extracts were loaded on 8% polyacrylamide gels. Antibodies include those listed for ChIP as well as p84 (5E10, GeneTex, 1:3000). BMAL1 was used at a concentration of 1:2000 and all other primary antibodies were used at a concentration of 1:1000.
+
+GW9662 Administration
+GW9662 (Cayman Chemical) was prepared as previously described (Sos et al., 2011) and administered at a dose of 4 mg/kg (See Supplementary Text).
+
+Statistics
+Data represent mean ± SEM of experiments. Experiments with two variables were analyzed by two-way ANOVA using Bonferroni post-tests (Prism 5.0) Mann-Whitney U tests were used to analyze two independent samples when the N≤10. For analysis of rhythmic metabolites and transcripts, the non-parametric test, JTK_CYCLE, was used incorporating a window of 20–28 hours for the determination of circadian periodicity as described in (Eckel-Mahan et al., 2012; Hughes et al., 2010) (Tables S2 and S3). For transcript annotation and oscillation analysis, P&lt;0.01 was considered significant. For metabolite analysis, P&lt;0.05 was considered significant and for metabolite:transcript relationship evaluation only, P values extending to 0.1 were allowed for metabolite oscillations exclusively.
+
+Supplementary Material
+01  02  03  04  05  We thank members of the Sassone-Corsi laboratory for constructive comments. We would also like to thank Melanie Oakes, Seung-Ah Chung, and Valentina Ciobanu at the UCI Genomics High Throughput Facility at the University of California, Irvine. We are grateful to Janice Jones, Jeff Buckthal, Robert Eckel, Hong Wang, Selma Masri, and Jennifer Mondok for helpful comments regarding the data or for technical assistance. Monetary support includes NIH/NRSA F32 DK083881 (KEM), NIH grants GM081634 and AG033888 (PSC), and Sirtris Pharmaceuticals SP-48984 (PSC). The work of VP, NC, and PB is supported by NSF IIS-0513376, NIH LM010235, and NIH-NLM T15 LM07443 to PB.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Figure 1 A High Fat Diet Alters the Circadian Profile of the Metabolome
+(A) Number of hepatic metabolites affected by diet or time. (B) The hepatic circadian metabolome consists of metabolites that oscillate in both groups of animals regardless of diet (“Both”), metabolites that oscillate only in animals fed normal chow (“NC ”) and metabolites that oscillate only in animals fed high fat diet (“HF”). (P&lt;0.05, JTK_cycle, N=5 biological replicates). (C) The number of hepatic metabolites altered by the HF diet at each zeitgeber time (ZT). (D) Percent of metabolites in a metabolic pathway changing at a specific ZT in HF animals. (E) Metabolic landscapes depict the percent of oscillatory metabolites that peak at a specific ZT for each feeding condition compared to the total number of oscillatory metabolites in that metabolic pathway. (F) Proportion of metabolites that oscillate on both diets which are in phase or phase shifted (left) and the direction of the phase shift (right). (G) Phase graph of metabolites that oscillate in Both conditions (left) or only in the NC or HF conditions (right). (H) Heat maps depicting phase delayed or phase advanced metabolites in HF livers. (I) Overlap of metabolites that are both CLOCK-dependent and sensitive to a HF diet.
+
+Figure 2 The Circadian Transcriptome is Reprogrammed by a High Fat Diet
+(A) The number of oscillatory transcripts only in NC, only in HF or in both NC and HF groups (P&lt;0.01, JTK_cycle). (B) Heat maps for NC- and HF-only oscillating transcripts (P&lt;0.05). (C) Gene annotation on oscillating genes with a P&lt;0.01 reveals pathways that are oscillatory in both NC and HF livers (unique pathways in bold font). (D) Pathways in which oscillatory expression is lost by the HF diet. (E) KEGG pathways represented by genes oscillatory only in the HF liver. (F) Proportion of the oscillatory transcriptome shared in both liver sets that is phase-shifted (left), and the direction of the phase shift (right). (G) Phase analysis of transcripts that oscillate only in NC or HF. (H) Circadian fluctuations of the metabolome relative to the transcriptome in Both (left), NC-only (middle), or HF-only categories (right). (I) Extent of amplitude changes in transcript abundance (heat map and graph) and metabolites (graph) after HF feeding.
+
+Figure 3 A High Fat Diet Disrupts Circadian Organization between the Transcriptome and Metabolome
+(A) Heat map showing the relationships between all pairs of metabolites and enzymes in KEGG. (Note: “flat” is a subset of “not”, where the maximum abundance does not exceed the minimum by 20%.) Circled are the numbers referring to the five most common relationships. (B) Related enzyme transcripts and metabolites (“edges”) that follow a particular temporal profile. (C) Metabolites and related transcripts within the S-adenosylmethionine (SAM) node that gain oscillation in HF. (D) Oscillatory abundance of SAM, SAH, and their related enzymes Ehmt2 and Ahcyl2 only in HF.
+
+Figure 4 A High Fat Diet Disrupts Uridine and NAD+ Metabolism by Impairing CLOCK:BMAL1 Recruitment
+(A) Validation of microarray data by qPCR of clock and metabolic genes in NC and HF livers (N=10 biological replicates per ZT per feeding condition). (B) BMAL1 protein in nuclear lysates of NC and HF livers (Figure S4). (C) BMAL1 and CLOCK occupancy at the E1 and I1 positions of the Dbp promoter as well as its 3′UTR (CLOCK at Dbpi1- ****-time; **- interaction). (D) Oscillation of NAD+, uridine, and uracil in NC (blue) and HF (green) (N=5). (E) Oscillation of Nampt and Upp2 mRNA in NC (black squares) and HF (orange triangles) livers (N=10, Upp2: ***-time, ***-diet, ***-interaction; Nampt ****-time, ****-diet, ****- interaction; two-way ANOVA). (F) BMAL1 occupancy at the promoter of Nampt. (G) Relative binding of BMAL1 and CLOCK at the promoter of Upp2. (BMAL1 binding- **=diet, *-time, *= interaction; CLOCK binding-*=time, *- interaction; two-way ANOVA, N=4). (H) H3K4me3 at the promoter of Upp2 in NC and HF-fed animals (*-diet; two-way ANOVA, N=2 biological replicates). (*-P&lt;0.05, **-P&lt;0.01, ***-P&lt;0.001, ****P&lt;0.0001, Bonferroni posttests. Error bars=SEM.)
+
+Figure 5 High Fat Diet Induced Transcriptional Reprogramming of the Hepatic Clock
+(A). Number of newly oscillating genes in HF livers containing PPARγ, SREBP1, CREB1, SRF, STAT1, or AHR sites. (B) Pparγ mRNA in NC (black squares) and HF (orange triangles) livers (N=5). (C) PPARγ abundance in whole cell lysates (WCL), nuclear extracts (NE) and chromatin extracts (Chromatin) in animals fed NC or HF diet for ten weeks (each lane consists of PPARγ protein from 3 pooled livers). (D) Quantification of nuclear PPARγ protein normalized to the nuclear protein p84. Units are expressed as relative optical density. (E) Circadian abundance of Cidec mRNA. (F) Circadian change in H3K4me3 at the Cidec promoter. (G) PPARγ chromatin recruitment and Cidec expression relative to PPARγ in livers of animals on HF treated with PPARγ antagonist, GW9662 or vehicle. (H) Rhythmic PPARγ recruitment to the promoter of Cidec but not its 3′UTR. (I) Pcx mRNA in NC- and HF-fed animals. (I–J) Binding of PPARγ to the promoter PPARγ response elements (PPRE) and 3′UTR at the Pcx gene.
+
+Figure 6 Acute Administration of a High Fat Diet, and not the Presence of Obesity is Sufficient to Reorganize the Hepatic Circadian Clock
+(A) The number of hepatic metabolites affected by acute (three-day) high fat diet feeding. (B) Relative abundance of metabolites uracil, uridine, and NAD+ after acute HF diet. (0NC=ZT0, normal chow; 0HF=ZT0, high fat). (C) Bmal1 mRNA after three days on NC or HF diets (***-time, N=5). (D) Western blot of nuclear BMAL1 and p84 proteins. (E) BMAL1 targets (Nampt, Upp2 and Dbp), and PPARγ target (Cidec) after acute HF feeding. (Nampt, ***-time; *-diet; Upp2, ***-time; ***-diet, **-time/diet interaction; Dbp, ***-time; Cidec, *-time, N=5.) (F) CLOCK and BMAL1 occupancy at the Upp2 and Dbp promoter after 3-day feeding. (Clock occupancy, Upp2: **-time; **-diet *- interaction; CLOCK occupancy, Dbpi1: *-time; **- interaction; BMAL1 occupancy Dbpi1: *- interaction). (G) H3K4me3 marks at the Upp2 and Dbp promoters after 3-day feeding. (H3K4me3 at Dbpi1: *-time; **- interaction, N=4.) (H) Hepatic expression of Upp2, Dbp, and Pcx in animals removed from the HFD for two weeks (Upp2: ***-time, Dbp; ***-time, N=5). (I) BMAL1 occupancy at ZT12 at the promoters of Upp2 and Dbp in NC mice and mice withdrawn from the HF diet for two weeks. Error bars=SEM; ***-P&lt;0.001, **-P&lt;0.01, *-P&lt;0.05.
+
+Figure 7 Nutrient Insult Restructures the Hepatic Circadian Clock
+A high fat diet both blocks oscillations within the previously existing clock system as well as triggering new oscillations where they previously did not exist.
+
+Article Highlights
+A diet high in fat reprograms the circadian transcriptome by inducing oscillations in gene expression that did not previously exist
+
+Impaired BMAL1 recruitment and PPARγ-driven gene expression are two different mechanisms which account for many of the changes in gene expression induced by a high fat diet.
+
+The effects of a high fat diet on the hepatic circadian clock are rapid and reversible.
+
+
+   
+            da Antunes LC  
+            Jornada MN  
+            Ramalho L  
+            Hidalgo MP  
+           2010 Correlation of shift work and waist circumference, body mass index, chronotype and depressive symptoms Arquivos brasileiros de endocrinologia e metabologia 54 652 656 21085771 
+
+            Arble DM  
+            Bass J  
+            Laposky AD  
+            Vitaterna MH  
+            Turek FW  
+           2009 Circadian timing of food intake contributes to weight gain Obesity (Silver Spring, Md 17 2100 2102 
+
+            Bass J  
+           2012 Circadian topology of metabolism Nature 491 348 356 23151577 
+
+            Bray MS  
+            Young ME  
+           2009 The role of cell-specific circadian clocks in metabolism and disease Obes Rev 10 Suppl 2 6 13 19849797 
+
+            Carmona-Saez P  
+            Chagoyen M  
+            Tirado F  
+            Carazo JM  
+            Pascual-Montano A  
+           2007 GENECODIS: a web-based tool for finding significant concurrent annotations in gene lists Genome biology 8 R3 17204154 
+
+            Daily K  
+            Patel VR  
+            Rigor P  
+            Xie X  
+            Baldi P  
+           2011 MotifMap: integrative genome-wide maps of regulatory motif sites for model species BMC bioinformatics 12 495 22208852 
+
+            Dallmann R  
+            Viola AU  
+            Tarokh L  
+            Cajochen C  
+            Brown SA  
+           2012 The human circadian metabolome Proceedings of the National Academy of Sciences of the United States of America 109 2625 2629 22308371 
+
+            Damiola F  
+            Le Minh N  
+            Preitner N  
+            Kornmann B  
+            Fleury-Olela F  
+            Schibler U  
+           2000 Restricted feeding uncouples circadian oscillators in peripheral tissues from the central pacemaker in the suprachiasmatic nucleus Genes &amp; development 14 2950 2961 11114885 
+
+            Das UN  
+            Rao AA  
+           2007 Gene expression profile in obesity and type 2 diabetes mellitus Lipids Health Dis 6 35 18078524 
+
+            Dibner C  
+            Schibler U  
+            Albrecht U  
+           2010 The mammalian circadian timing system: organization and coordination of central and peripheral clocks Annual review of physiology 72 517 549 
+
+            Doi M  
+            Takahashi Y  
+            Komatsu R  
+            Yamazaki F  
+            Yamada H  
+            Haraguchi S  
+            Emoto N  
+            Okuno Y  
+            Tsujimoto G  
+            Kanematsu A  
+             
+           2010 Salt-sensitive hypertension in circadian clock-deficient Cry-null mice involves dysregulated adrenal Hsd3b6 Nat Med 16 67 74 20023637 
+
+            Drake CL  
+            Roehrs T  
+            Richardson G  
+            Walsh JK  
+            Roth T  
+           2004 Shift work sleep disorder: prevalence and consequences beyond that of symptomatic day workers Sleep 27 1453 1462 15683134 
+
+            Eckel-Mahan KL  
+            Patel VR  
+            Mohney RP  
+            Vignola KS  
+            Baldi P  
+            Sassone-Corsi P  
+           2012 Coordination of the transcriptome and metabolome by the circadian clock Proceedings of the National Academy of Sciences of the United States of America 109 5541 5546 22431615 
+
+            Evans AM  
+            DeHaven CD  
+            Barrett T  
+            Mitchell M  
+            Milgram E  
+           2009 Integrated, nontargeted ultrahigh performance liquid chromatography/electrospray ionization tandem mass spectrometry platform for the identification and relative quantification of the small-molecule complement of biological systems Analytical chemistry 81 6656 6667 19624122 
+
+            Fajas L  
+            Debril MB  
+            Auwerx J  
+           2001 PPAR gamma: an essential role in metabolic control Nutr Metab Cardiovasc Dis 11 64 69 11383325 
+
+            Feng D  
+            Lazar MA  
+           2012 Clocks, metabolism, and the epigenome Molecular cell 47 158 167 22841001 
+
+            Fonken LK  
+            Workman JL  
+            Walton JC  
+            Weil ZM  
+            Morris JS  
+            Haim A  
+            Nelson RJ  
+           2010 Light at night increases body mass by shifting the time of food intake Proceedings of the National Academy of Sciences of the United States of America 107 18664 18669 20937863 
+
+            Froy O  
+           2010 Metabolism and circadian rhythms--implications for obesity Endocrine reviews 31 1 24 19854863 
+
+            Gerstner JR  
+            Lyons LC  
+            Wright KP Jr  
+            Loh DH  
+            Rawashdeh O  
+            Eckel-Mahan KL  
+            Roman GW  
+           2009 Cycling behavior and memory formation J Neurosci 29 12824 12830 19828795 
+
+            Green CB  
+            Douris N  
+            Kojima S  
+            Strayer CA  
+            Fogerty J  
+            Lourim D  
+            Keller SR  
+            Besharse JC  
+           2007 Loss of Nocturnin, a circadian deadenylase, confers resistance to hepatic steatosis and dietinduced obesity Proceedings of the National Academy of Sciences of the United States of America 104 9888 9893 17517647 
+
+            Hastings MH  
+            Maywood ES  
+            Reddy AB  
+           2008 Two decades of circadian time Journal of neuroendocrinology 20 812 819 18601704 
+
+            Hatanaka F  
+            Matsubara C  
+            Myung J  
+            Yoritaka T  
+            Kamimura N  
+            Tsutsumi S  
+            Kanai A  
+            Suzuki Y  
+            Sassone-Corsi P  
+            Aburatani H  
+             
+           2010 Genome-wide profiling of the core clock protein BMAL1 targets reveals a strict relationship with metabolism Molecular and cellular biology 30 5636 5648 20937769 
+
+            Hatori M  
+            Vollmers C  
+            Zarrinpar A  
+            DiTacchio L  
+            Bushong EA  
+            Gill S  
+            Leblanc M  
+            Chaix A  
+            Joens M  
+            Fitzpatrick JA  
+             
+           2012 Time-restricted feeding without reducing caloric intake prevents metabolic diseases in mice fed a high-fat diet Cell Metab 15 848 860 22608008 
+
+            Hughes ME  
+            DiTacchio L  
+            Hayes KR  
+            Vollmers C  
+            Pulivarthy S  
+            Baggs JE  
+            Panda S  
+            Hogenesch JB  
+           2009 Harmonics of circadian gene transcription in mammals PLoS genetics 5 e1000442 19343201 
+
+            Hughes ME  
+            Hogenesch JB  
+            Kornacker K  
+           2010 JTK_CYCLE: an efficient nonparametric algorithm for detecting rhythmic components in genome-scale data sets J Biol Rhythms 25 372 380 20876817 
+
+            Inoue M  
+            Ohtake T  
+            Motomura W  
+            Takahashi N  
+            Hosoki Y  
+            Miyoshi S  
+            Suzuki Y  
+            Saito H  
+            Kohgo Y  
+            Okumura T  
+           2005 Increased expression of PPARgamma in high fat diet-induced liver steatosis in mice Biochem Biophys Res Commun 336 215 222 16125673 
+
+            Itoh N  
+            Sakaue S  
+            Nakagawa H  
+            Kurogochi M  
+            Ohira H  
+            Deguchi K  
+            Nishimura S  
+            Nishimura M  
+           2007 Analysis of N-glycan in serum glycoproteins from db/db mice and humans with type 2 diabetes Am J Physiol Endocrinol Metab 293 E1069 1077 17666489 
+
+            Jitrapakdee S  
+            Vidal–Puig A  
+            Wallace JC  
+           2006 Anaplerotic roles of pyruvate carboxylase in mammalian tissues Cell Mol Life Sci 63 843 854 16505973 
+
+            Kasukawa T  
+            Sugimoto M  
+            Hida A  
+            Minami Y  
+            Mori M  
+            Honma S  
+            Honma K  
+            Mishima K  
+            Soga T  
+            Ueda HR  
+           2012 Human blood metabolite timetable indicates internal body time Proc Natl Acad Sci U S A 109 15036 15041 22927403 
+
+            Katada S  
+            Sassone-Corsi P  
+           2010 The histone methyltransferase MLL1 permits the oscillation of circadian gene expression Nat Struct Mol Biol 17 1414 1421 21113167 
+
+            Kawai M  
+            Green CB  
+            Lecka-Czernik B  
+            Douris N  
+            Gilbert MR  
+            Kojima S  
+            Ackert-Bicknell C  
+            Garg N  
+            Horowitz MC  
+            Adamo ML  
+             
+           2010 A circadian-regulated gene, Nocturnin, promotes adipogenesis by stimulating PPAR-gamma nuclear translocation Proceedings of the National Academy of Sciences of the United States of America 107 10508 10513 20498072 
+
+            Knutsson A  
+           2003 Health disorders of shift workers Occupational medicine (Oxford, England) 53 103 108 
+
+            Ko CH  
+            Takahashi JS  
+           2006 Molecular components of the mammalian circadian clock Hum Mol Genet 15 Spec No 2 R271 277 16987893 
+
+            Kohsaka A  
+            Laposky AD  
+            Ramsey KM  
+            Estrada C  
+            Joshu C  
+            Kobayashi Y  
+            Turek FW  
+            Bass J  
+           2007 High-fat diet disrupts behavioral and molecular circadian rhythms in mice Cell metabolism 6 414 421 17983587 
+
+            Koike N  
+            Yoo SH  
+            Huang HC  
+            Kumar V  
+            Lee C  
+            Kim TK  
+            Takahashi JS  
+           2012 Transcriptional architecture and chromatin landscape of the core circadian clock in mammals Science (New York, NY 338 349 354 
+
+            Kondratov RV  
+            Chernov MV  
+            Kondratova AA  
+            Gorbacheva VY  
+            Gudkov AV  
+            Antoch MP  
+           2003 BMAL1-dependent circadian oscillation of nuclear CLOCK: posttranslational events induced by dimerization of transcriptional activators of the mammalian clock system Genes Dev 17 1921 1932 12897057 
+
+            Kondratov RV  
+            Kondratova AA  
+            Gorbacheva VY  
+            Vykhovanets OV  
+            Antoch MP  
+           2006 Early aging and age-related pathologies in mice deficient in BMAL1, the core componentof the circadian clock Genes &amp; development 20 1868 1873 16847346 
+
+            Lamia KA  
+            Storch KF  
+            Weitz CJ  
+           2008 Physiological significance of a peripheral tissue circadian clock Proceedings of the National Academy of Sciences of the United States of America 105 15172 15177 18779586 
+
+            Lee J  
+            Kim MS  
+            Li R  
+            Liu VY  
+            Fu L  
+            Moore DD  
+            Ma K  
+            Yechoor VK  
+           2011 Loss of Bmal1 leads to uncoupling and impaired glucose-stimulated insulin secretion in beta-cells Islets 3 
+
+            Leesnitzer LM  
+            Parks DJ  
+            Bledsoe RK  
+            Cobb JE  
+            Collins JL  
+            Consler TG  
+            Davis RG  
+            Hull-Ryde EA  
+            Lenhard JM  
+            Patel L  
+             
+           2002 Functional consequences of cysteine modification in the ligand binding sites of peroxisome proliferator activated receptors by GW9662 Biochemistry 41 6640 6650 12022867 
+
+            Marcheva B  
+            Ramsey KM  
+            Buhr ED  
+            Kobayashi Y  
+            Su H  
+            Ko CH  
+            Ivanova G  
+            Omura C  
+            Mo S  
+            Vitaterna MH  
+             
+           2010 Disruption of the clock components CLOCK and BMAL1 leads to hypoinsulinaemia and diabetes Nature 466 627 631 20562852 
+
+            Masri S  
+            Patel VR  
+            Eckel-Mahan KL  
+            Peleg S  
+            Forne I  
+            Ladurner AG  
+            Baldi P  
+            Imhof A  
+            Sassone-Corsi P  
+           2013 Circadian acetylome reveals regulation of mitochondrial metabolic pathways Proc Natl Acad Sci U S A 
+
+            Matsusue K  
+            Kusakabe T  
+            Noguchi T  
+            Takiguchi S  
+            Suzuki T  
+            Yamano S  
+            Gonzalez FJ  
+           2008 Hepatic steatosis in leptin-deficient mice is promoted by the PPARgamma target gene Fsp27 Cell Metab 7 302 311 18396136 
+
+            Menet JS  
+            Rosbash M  
+           2011 When brain clocks lose track of time: cause or consequence of neuropsychiatric disorders Current opinion in neurobiology 21 849 857 21737252 
+
+            Morf J  
+            Rey G  
+            Schneider K  
+            Stratmann M  
+            Fujita J  
+            Naef F  
+            Schibler U  
+           2012 Cold-inducible RNA-binding protein modulates circadian gene expression posttranscriptionally Science (New York, NY 338 379 383 
+
+            Nakahata Y  
+            Sahar S  
+            Astarita G  
+            Kaluzova M  
+            Sassone-Corsi P  
+           2009 Circadian Control of the NAD+ Salvage Pathway by CLOCK-SIRT1 Science (New York, NY 
+
+            Nogales-Cadenas R  
+            Carmona-Saez P  
+            Vazquez M  
+            Vicente C  
+            Yang X  
+            Tirado F  
+            Carazo JM  
+            Pascual-Montano A  
+           2009 GeneCodis: interpreting gene lists through enrichment analysis and integration of diverse biological information Nucleic acids research 37 W317 322 19465387 
+
+            O’Neill JS  
+            Maywood ES  
+            Chesham JE  
+            Takahashi JS  
+            Hastings MH  
+           2008 cAMP-dependent signaling as a core component of the mammalian circadian pacemaker Science (New York, NY 320 949 953 
+
+            O’Neill JS  
+            van Ooijen G  
+            Dixon LE  
+            Troein C  
+            Corellou F  
+            Bouget FY  
+            Reddy AB  
+            Millar AJ  
+           2011 Circadian rhythms persist without transcription in a eukaryote Nature 469 554 558 21270895 
+
+            Patel VR  
+            Eckel-Mahan K  
+            Sassone-Corsi P  
+            Baldi P  
+           2012 CircadiOmics: integrating circadian genomics, transcriptomics, proteomics and metabolomics Nature methods 9 772 773 22847108 
+
+            Pendergast JS  
+            Branecky KL  
+            Yang W  
+            Ellacott KL  
+            Niswender KD  
+            Yamazaki S  
+           2013 High-fat diet acutely affects circadian organisation and eating behavior Eur J Neurosci 
+
+            Perreault M  
+            Will S  
+            Panza D  
+            Gareski T  
+            Harding K  
+            Kubasiak D  
+            Jalenak M  
+            Gartrell K  
+            Wang S  
+            Bollag G  
+             
+           2010 Modulation of nutrient sensing nuclear hormone receptors promotes weight loss through appetite suppression in mice Diabetes Obes Metab 12 234 245 20152000 
+
+            Ramsey KM  
+            Yoshino J  
+            Brace CS  
+            Abrassart D  
+            Kobayashi Y  
+            Marcheva B  
+            Hong HK  
+            Chong JL  
+            Buhr ED  
+            Lee C  
+             
+           2009 Circadian Clock Feedback Cycle Through NAMPT-Mediated NAD+ Biosynthesis Science (New York, NY 
+
+            Rey G  
+            Cesbron F  
+            Rougemont J  
+            Reinke H  
+            Brunner M  
+            Naef F  
+           2011 Genome-wide and phase-specific DNA-binding rhythms of BMAL1 control circadian output functions in mouse liver PLoS Biol 9 e1000595 21364973 
+
+            Ripperger JA  
+            Schibler U  
+           2006 Rhythmic CLOCK-BMAL1 binding to multiple E-box motifs drives circadian Dbp transcription and chromatin transitions Nature genetics 38 369 374 16474407 
+
+            Rodgers JT  
+            Lerin C  
+            Haas W  
+            Gygi SP  
+            Spiegelman BM  
+            Puigserver P  
+           2005 Nutrient control of glucose homeostasis through a complex of PGC-1alpha and SIRT1 Nature 434 113 118 15744310 
+
+            Rudic RD  
+            McNamara P  
+            Curtis AM  
+            Boston RC  
+            Panda S  
+            Hogenesch JB  
+            Fitzgerald GA  
+           2004 BMAL1 and CLOCK, two essential components of the circadian clock, are involved in glucose homeostasis PLoS biology 2 e377 15523558 
+
+            Sadacca LA  
+            Lamia KA  
+            deLemos AS  
+            Blum B  
+            Weitz CJ  
+           2011 An intrinsic circadian clock of the pancreas is required for normal insulin release and glucose homeostasis in mice Diabetologia 54 120 124 20890745 
+
+            Schibler U  
+            Sassone-Corsi P  
+           2002 A web of circadian pacemakers Cell 111 919 922 12507418 
+
+            Sharifian A  
+            Farahani S  
+            Pasalar P  
+            Gharavi M  
+            Aminian O  
+           2005 Shift work as an oxidative stressor Journal of circadian rhythms 3 15 16379673 
+
+            Shi SQ  
+            Ansari TS  
+            McGuinness OP  
+            Wasserman DH  
+            Johnson CH  
+           2013 Circadian disruption leads to insulin resistance and obesity Curr Biol 23 372 381 23434278 
+
+            Sos BC  
+            Harris C  
+            Nordstrom SM  
+            Tran JL  
+            Balazs M  
+            Caplazi P  
+            Febbraio M  
+            Applegate MA  
+            Wagner KU  
+            Weiss EJ  
+           2011 Abrogation of growth hormone secretion rescues fatty liver in mice with hepatocyte-specific deletion of JAK2 The Journal of clinical investigation 121 1412 1423 21364286 
+
+            Spiegelman BM  
+           1998 PPAR-gamma: adipogenic regulator and thiazolidinedione receptor Diabetes 47 507 514 9568680 
+
+            Stokkan KA  
+            Yamazaki S  
+            Tei H  
+            Sakaki Y  
+            Menaker M  
+           2001 Entrainment of the circadian clock in the liver by feeding Science (New York, NY 291 490 493 
+
+            Suwazono Y  
+            Dochi M  
+            Sakata K  
+            Okubo Y  
+            Oishi M  
+            Tanaka K  
+            Kobayashi E  
+            Kido T  
+            Nogawa K  
+           2008 A longitudinal study on the effect of shift work on weight gain in male Japanese workers Obesity (Silver Spring, Md 16 1887 1893 
+
+            Tontonoz P  
+            Spiegelman BM  
+           2008 Fat and beyond: the diverse biology of PPARgamma Annu Rev Biochem 77 289 312 18518822 
+
+            Turek FW  
+            Joshu C  
+            Kohsaka A  
+            Lin E  
+            Ivanova G  
+            McDearmon E  
+            Laposky A  
+            Losee-Olson S  
+            Easton A  
+            Jensen DR  
+             
+           2005 Obesity and metabolic syndrome in circadian Clock mutant mice Science (New York, NY 308 1043 1045 
+
+            Vidal-Puig A  
+            Jimenez-Linan M  
+            Lowell BB  
+            Hamann A  
+            Hu E  
+            Spiegelman B  
+            Flier JS  
+            Moller DE  
+           1996 Regulation of PPAR gamma gene expression by nutrition and obesity in rodents J Clin Invest 97 2553 2561 8647948 
+
+            Vollmers C  
+            Gill S  
+            DiTacchio L  
+            Pulivarthy SR  
+            Le HD  
+            Panda S  
+           2009 Time of feeding and the intrinsic circadian clock drive rhythms in hepatic gene expression Proceedings of the National Academy of Sciences of the United States of America 106 21453 21458 19940241 
+
+            West DB  
+            Boozer CN  
+            Moody DL  
+            Atkinson RL  
+           1992 Dietary obesity in nine inbred mouse strains Am J Physiol 262 R1025 1032 1621856 
+
+            Xie X  
+            Rigor P  
+            Baldi P  
+           2009 MotifMap: a human genome-wide map of candidate regulatory motif sites Bioinformatics (Oxford, England) 25 167 174 
+
+            Yoo SH  
+            Mohawk JA  
+            Siepka SM  
+            Shan Y  
+            Huh SK  
+            Hong HK  
+            Kornblum I  
+            Kumar V  
+            Koike N  
+            Xu M  
+             
+           2013 Competing E3 ubiquitin ligases govern circadian periodicity by degradation of CRY in nucleus and cytoplasm Cell 152 1091 1105 23452855 
+
+            Yoshino J  
+            Mills KF  
+            Yoon MJ  
+            Imai S  
+           2011 Nicotinamide mononucleotide, a key NAD(+) intermediate, treats the pathophysiology of diet- and age-induced diabetes in mice Cell Metab 14 528 536 21982712 
+
+            Zhang EE  
+            Liu Y  
+            Dentin R  
+            Pongsawakul PY  
+            Liu AC  
+            Hirota T  
+            Nusinow DA  
+            Sun X  
+            Landais S  
+            Kodama Y  
+             
+           2010 Cryptochrome mediates circadian regulation of cAMP signaling and hepatic gluconeogenesis Nature medicine 16 1152 1156 
+

@@ -1,0 +1,901 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10160119241009Curr Genet Med RepCurr Genet Med RepCurrent genetic medicine reports2167-487630581653630015610.1007/s40142-018-0143-zNIHMS964000ArticleNutritional Genomics of Cardiovascular Disease Voruganti V. Saroja PhDAssistant ProfessorDepartment of Nutrition and UNC Nutrition Research Institute, University of North Carolina at Chapel Hill, 500 Laureate Way, Suite 3150, Kannapolis, NC 28081Ph: 704-250-5009, saroja@unc.edu14 5 2018 30 4 2018 6 2018 01 6 2019 6 2 98 106 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Purpose
+Cardiovascular disease (CVD) is the leading cause of death in the United States and globally. There is significant evidence implicating genetic and dietary factors in the development and progression of CVD and its risk factors. Nutritional genomics is a comparatively new field of science that focuses on the relationship of individual genetic variation with response to nutrition. The purpose of this review is to summarize recent progress, in the field of nutritional genomics as it relates to cardiovascular disease.
+
+Recent findings
+Evidence from recent studies has shown significant effects of gene-diet interactions on CVD biomarkers and the development and progression of CVD. The cardiovascular effects of gene-nutrient interactions with respect to macronutrients and genes such as FTO, ACE, PPARs, TCF7L2, BDNF, MC4R, APOAs, FADS, etc. have shown consistent results across age groups and populations whereas gene-nutrient interaction effects of other genes have only been limited to specific ages, genders or populations and need to validated and confirmed.
+
+Summary
+The identification of individual genetic variation influencing diet-related CVD risk is important and may inform future nutritional intervention studies. Although there is ample scientific evidence indicating that the genetic susceptibility to CVD can be modified by diet, we are still not at a stage where this information is easily translated into dietary plans. Thus, there is a need for better approaches to achieve precision in dietary data collection and streamline computational approaches for meaningful and effective nutritional interventions.
+
+Nutrientsdietgeneticsgenomicstranscriptomicsprecision nutrition
+   Introduction
+Cardiovascular disease (CVD) refers to a group of disorders including coronary heart disease, cerebrovascular disease, peripheral arterial disease, rheumatic heart diseases, congenital heart disease, deep vein thrombosis and pulmonary embolism (1,2). CVD is the number one cause of death globally, accounting for about one-third of deaths (3). Although over three quarters of deaths take place in low and middle income countries, the United States is not far behind. In the United States, one in 4 deaths are attributed to CVD (3,4). Cardiovascular diseases are highly influenced by genetic factors (5,6), and there is also significant evidence implicating diet and lifestyle factors (e.g., obesity, sedentary behavior) in the development and progression of CVD and its risk factors (7,8). It is also known that diet and lifestyle at younger ages can influence the risk for disease risk at a later age. Differences in susceptibility to CVD based on genotypes, ethnicities and environments have long intrigued people; more recently, there has been a growing interest in the role of individual genetic variation in response to nutrition in human populations (9,10) and an increasing recognition that the interaction between genes and environment (e.g. diet/nutrition) can have a major impact on metabolic alterations. Thus, understanding the biological mechanisms underlying CVD and applying this knowledge to are key components for management of CVD
+
+The discipline of nutritional genomics, focusing on the effects of nutrients or dietary constituents on the expression of genes (nutrigenomics) and the effects of genetic variation on the metabolic response of nutrients (nutrigenetics) (11*–15), is being increasingly recognized as a major player in disease risk. Obesity, type 2 diabetes/insulin resistance/glucose intolerance, hypertension and dyslipidemia represent four modifiable CVD risk factors where there has been considerable progress related to nutritional genomics. Other CVD risk factors where nutritional genomics can be important to understand the etiological underpinnings include elevated oxidative stress and inflammation. Since genes, diet and their interactions can have significant effect on disease risk, translating this science to practice is crucial for disease prevention and management. Most modifiable among the CVD risk factors are diet/nutrients (16, 17), highlighting the importance of understanding the interaction between genes and diet in modulating CVD risk. However, key questions remain, e.g.: Is there enough scientific evidence to implicate genes, nutrients and their interactions as significant contributing factors in CVD risk? And where are we in the field with respect to disseminating this information to patients or public, e.g., precision health (precision medicine and precision nutrition) (12*)? The purpose of this review is to summarize recent progress in the field of nutritional genomics related to cardiovascular disease research.
+
+Obesity
+Obesity, particularly abdominal obesity, is a key risk factor for CVD. According to a recently released report by the CDC, the prevalence of obesity, in 2015–2016, was 39.8% among adults and 18.5% among youth (cdc.gov accessed on Feb 1, 2018). It is well known that obesity is influenced by genetic and environmental factors. To date, more than 300 common single nucleotide polymorphisms (SNPs) affecting obesity and related phenotypes have been identified from genome-wide association and candidate gene studies (18). The key genes that have been implicated in obesity and related phenotypes are fat mass-and obesity-associated gene (FTO), melanocortin 4 receptor (MC4R), peroxisome proliferator activated receptor gamma (PPARγ), transmembrane protein 18 (TMEM18), brain derived neurotrophic factor (BDNF), pro-opiomelanocortin (POMC), neuronal growth regulator1(NEGR1), proprotein convertase subtilisin/kexin type 1 (PCSK1), SH2B adaptor protein1(SH2B1), leptin receptor (LEPR) and neurotrophic receptor tyrosine kinase 2 (NTRK2) with FTO showing the strongest and consistent signal across age groups, genders and ethnicities (18–29, 24*). In a recent study of more than 339,000 individuals (23), 97 loci were identified as associated with BMI, 56 of which were novel. However, all these 97 loci jointly explain only about 2.7% of the variation in BMI. This indicates that many more SNPs and other factors such as gene × gene and gene × environment interactions may explain the missing variance.
+
+Epidemiological studies have shown that environment can exacerbate the effects of genes on obesity. Evidence has consistently pointed to the role of gene × diet interaction in the risk of obesity (19). Most of the studies have focused on the interaction between genes and consumption of macronutrients as they relate to the development and/or progression of obesity. The best-characterized gene variants known to interact with dietary nutrients and affect obesity have been mostly identified using candidate gene approaches. These candidate variants are usually the top ranked in genome-wide association studies using some data reduction strategies. Of these genetic loci, FTO, BDNF, apolipoprotein A2 and A5 (APOA2 and APOA5), PPARγ, NEGR1, TMEM18 and LEPR have been extensively studied with respect to their interaction with diet (26–30). In about 26,000 individuals from a cohort in Southern Sweden, NEGR1 SNP was associated with dietary intake (low fat and high carbohydrate intake) and the interaction of rs4923461 of BDNF with protein intake was significantly associated with BMI (26). Protein intake was also found to affect the association between FTO and BMI in children and adolescents where the association between FTO variant and BMI was much weaker in low-protein intake groups compared to high-protein intake groups (27). Similarly, the association between FTO and BMI was found to be stronger in individuals with high fat intake than those with low fat intake (28,29) which was replicated in three cohorts comprising of more than 9000 women from Nurses’ Health study, 6000 men from the Health Professionals Follow-up study and 21000 women from Women’s Genome Health study (30,31). Additionally, studies in children have shown the modification of the association between SNPs in APOA2, APOA5 and LEPR and obesity by dietary fat (32). Most of the studies shown above have been conducted in individuals of European ancestry. However, the effects of FTO and its interaction with either protein or fat intake on BMI seems to expand across ethnicities to Asian Indians (33).
+
+Since single variants may not explain the complete phenotypic variation, taking into account multiple variants by computing a comprehensive genetic risk score (GRS) may be better to detect a significant portion of genetic variance affecting a phenotype. Following this approach, Qi et al. (30) found that an association between BMI and a multi-SNP GRS was stronger in individuals who consumed more fried foods than those with who didn’t. This specific GRS included 32 SNPs near genes related to central nervous system such as FTO, BDNF, neurexin 3 (NRXN3), and TMEM18. The SNPs included in the GRS were selected based on previous genetic association results of BMI and/or obesity traits. The same group also showed the pronounced effects of sugar-sweetened beverages consumption on the association between a 32 SNP GRS and BMI (31). In contrast, the CHARGE consortium (Cohorts for Heart and Aging Research in Genomic Epidemiology) reported the same 32 SNP GRS to be strongly associated with BMI in subjects eating a healthier diet that included self-reported intake of whole grains, fish, fruits, vegetables, nuts, etc (20*).
+
+In addition to macronutrient intake, dietary fiber intake was also found to modify the association between FTO and BMI. Using individual FTO SNPs and GRS created with FTO SNPs, the authors found that the association of FTO variants with BMI was stronger in individuals who consumed high levels of dietary fiber. Individuals with AA of rs11076023 (33) and TT and AT of rs3751812 (34) had lower abdominal obesity or waist circumference in those who had the highest fiber intake (33,34). A member of the superfamily of non-haem-Fe(II) and 2-oxoglutarate (2OG)-dependent dioxygenases, FTO is believed to be involved in regulation of energy intake with a key role in nervous and cardiovascular system (35,36).
+
+Type 2 diabetes, insulin resistance and glucose intolerance
+Type 2 diabetes (T2D) is defined as hyperglycemia resulting from insufficient insulin secretion and/or utilization (37). T2D is an independent risk factor for CVD. Similar to other CVD risk factors, T2D is under significant nutritional and genetic influence. Over 70 genes and 100 SNPs have been identified so far that are associated with T2D (38*). Gene-nutrient interaction studies have identified interactions between western dietary patterns and variants in PPARγ, transcription factor 7 –like 2 (TCF7L2) and FTO in influencing T2D. Mainly, rs1801282 (Pro12Ala) of PPARγ has been positively associated with insulin sensitivity (39, 40*). Individuals with the ProPro were more responsive to increased polyunsaturated fatty acids (PUFA) intake than those with the ProAla or AlaAla genotypes(39). The same group also showed the association between G protein-coupled receptor 120 (GPR120) loss-of-function variant (R270H) and the risk of T2D was higher with higher fat intake, particularly in H-carriers (40*). Similarly, rs12573128 of transcription factor 7 like 2 (TCF7L2) interacts with fat intake to affect insulin sensitivity as measured by HOMA-IR index and rs9939609 of FTO interacts with carbohydrate intake to affect T2D risk (41). The role of BDNF in diabetes and Alzheimer’s disease is known (42). In a Korean study, the interaction between BDNF variants and energy and protein intake had significant effects on T2D and glucose intolerance. Individuals with rs6265 Val/Met and Met/Met variants had lower risk for T2D on high-carbohydrate and low energy intake (42).
+
+Hypertension
+Hypertension, characterized by high systolic blood pressure and/or high diastolic blood pressure, is associated with heart failure, renal disease, stroke and cardiovascular death, and is highly modified by lifestyle changes (43). It has been reported that, for individuals between the ages of 40–69 years, every 20 mmHg increase in systolic blood pressure and 10 mmHg increased in diastolic blood pressure doubles the risk for CVD (44,45). Weight loss, increased physical activity and a healthy diet with decreased salt intake are some of the lifestyle modifications advocated for management of hypertension. Blood pressure is also influenced by genetic factors with its heritable component being 30–50% (46). The renin-angiotensin system (RAS) and its components play a major role in the regulation of hypertension (47). The angiotensin-converting enzyme (ACE) is the key enzyme in controlling blood pressure and polymorphisms in ACE, the gene encoding this enzyme, have been implicated in the risk for hypertension and CVD. In the Nutrigenomic analysis in Twins (NUGAT) study, GG genotype of rs4343 of ACE was associated with increased risk for hypertension and CVD in individuals on high saturated fat diet (48**),. The proposed mechanisms seem to involve high-fat in activating RAS in adipocytes through toll-like 4 receptors and NFkB signaling (49). The association of salt with hypertension is well-known and there have been some efforts to elucidate the genetic contribution to salt-sensitive blood pressure (SSBP) changes. In a recent study, variants in estrogen receptor (ESR2) were implicated in SSBP. Estrogen-replete women with ESR2 rs10144225 minor allele were more salt-sensitive than men or postmenopausal women (50). The Genetic Epidemiology Network of Salt-sensitivity (GenSalt) study was designed to understand the basis of salt-sensitivity in ~ 2000 individuals administered a 7-day low-sodium diet followed by a 7-day high-sodium diet. This study found SSBP to be associated with rare variants in three genes of a group of renal epithelial sodium channels (ENaC) (51). Using a blood pressure GRS, the same group found that a blood pressure GRS to be inversely related to SSBP (52).
+
+Dyslipidemia
+Elevated circulating triglycerides and LDL cholesterol levels and lower HDL cholesterol increase the risk for CVD. Studies have shown that polymorphisms in genes associated with fatty acid metabolism interact with glucokinase dietary fat intake to affect circulating lipid concentrations (53–56). In a study where 208 participants were given fish oil supplementation for 6 weeks, plasma triglycerides levels decreased in individuals with retinoid × receptor alpha (RXRA) SNPs. They found that individuals with CT or TT genotypes of RXRA SNP rs11185660 had decreased plasma triglycerides as compared to those with CC genotypes following fish oil intake (53). They also found significant increase in the expression of carnitine palmitoyl transferase 1 A (CPT1A) gene following the intake of fish oil. Similarly, people with the E4 allele of apolipoprotein E (APOE) were less responsive in their plasma PUFA concentrations to dietary fat manipulation and more so if they were overweight (54,55). PUFAs such as ω3 and ω6 fatty acids are essential fatty acids that need to be provided through diet. They are part of membrane structure and have roles in lipid metabolism, blood clotting, blood pressure and inflammation (56). They have also been shown to interact with fatty acid desaturase (FADS) variants to affect low-density lipoprotein (LDL) cholesterol concentrations and obesity phenotype (85,86). Additionally, carbohydrate intake has also been reported to interact with glucokinase genetic variation to affect plasma triglycerides (57).
+
+Inflammation, oxidative stress and other CVD risk factors
+Diet × gene interactions are believed to affect inflammation and oxidative stress, which contribute significantly to the development and progression of CVD (58–61). However, nutrigenetics/nutrigenomics studies in humans are very limited. In elderly women, vitamin D3 supplementation reduced inflammatory markers and increased total antioxidant capacity in those with vitamin D insufficiency. Those with the BB/Bb genotype of vitamin D receptor (VDR) gene were more responsive to the supplementation compared to those with bb genotype (58). In a Japanese study, genetic variation in oxidative risk-related genes carnosine dipeptidase (CNDP1) and carnosine cellular non-specific dipeptidase (CNDP2) were correlated with obesity risk but only in individuals with high carbohydrate intake and low carotene intake (59). Although it is believed that diet can modify the relationship between oxidative stress and gene polymorphisms, very few studies have been conducted in this regard. There have been some studies related to the supplementation of zinc, copper and selenium and their interaction with gene polymorphisms on oxidative stress, particularly interleukin 6 (IL6) and metallothionein 1A (MT1A) genes (60,61). Elderly people carrying GG genotypes may need zinc supplementation to improve their stress response because GC/CC genotypes display better stress response than GG carriers (60). Similarly, MT1A +647A/C is associated with zinc deficiency. Thus, IL6 and MT1A polymorphisms can be used to identify old people for dietary intervention (61).
+
+There has been much interest in studying the effects of dietary patterns in addition to individual nutrients. Several dietary patterns have been shown to be beneficial for cardiovascular health. Some of these, such as Mediterranean, Prudent and Dietary Approaches to Stop Hypertension (DASH) diets, have been extensively researched. All of them emphasize the beneficial effects of whole grains and fruits and vegetables and deleterious effects of sodium, saturated fats and sugars. One of the prominent trials highlighting the beneficial effects of the Mediterranean diet is PREDIMED (Prevencion con Dieta Mediterranea) trial (62,63). The PREDIMED trial was conducted to determine the effect the type of fat on CVD mortality. Spanish individuals at high risk for CVD were asked to partake Mediterranean diet supplemented with olive oil or nuts or low fat (62). The intervention was based on provision of olive oil or nuts and education. The primary endpoint was the rate of major CV events (63). Ortega-Azorin and colleagues have found that the association between FTO-rs9939609 and MC4R-rs17782313 and T2D was stronger when the adherence to a Mediterranean diet was low (64). In fact, several studies from the PREDIMED trial have demonstrated the effectiveness of a Mediterranean meal in modulating genetic association of obesity, diabetes and other CVD risk factors (65–67). Individuals on Mediterranean diet and G-carriers of rs382316 of Max-like protein X interacting protein-like (MLXIPL) reduced their triglycerides and their risk for myocardial infarction as compared to CC carriers (68*). The Dietary Approaches to Stop Hypertension (DASH) was a multi-center study to test the effects of healthy dietary patterns on hypertension (69). A comparison between individuals on Western diet and DASH diet showed that the effect of sodium intake on blood pressure differed based in their genotypes mainly in angiotensinogen, beta2-adrenegic receptor and kallikrein loci (70). In addition, interaction between low fat and hypocaloric diets have been shown to interact with circadian locomotor cycles kaput (CLOCK) and BDNF SNPs to affect obesity, inflammation and diabetes phenotypes (Table 1) [81,82, 87,88].
+
+Nutrigenomics of CVD risk factors
+Nutrigenomics is another aspect of nutritional genomics and refers to the study of effects of nutrients on the expression of individual genes (7). Nutrigenomics studies in humans typically use either whole blood or peripheral blood mononuclear cells (PBMCs) and focus on changes in PBMC gene expression after intervention with nutrients or meals (71–73). Vedin et al (71) found inflammation-related genes to be down regulated in Alzheimer’s patients with ω3 PUFA supplementation. Likewise, Rudkowska et al (72) found a positive change in CVD markers. The circulating levels of high-density lipoprotein (HDL) cholesterol increased with a parallel reduction in triglycerides and expression of genes related to oxidative stress and inflammation. Furthermore, positive changes were also observed in inflammation-related miRNA and cytokines gene expression with a one-year supplementation with grape extract (73). A study comparing the effects of Mediterranean with Western meal on inflammation and oxidative stress found that that the Mediterranean diet significantly reduced ox-LDL and expression of inflammation and oxidative stress-related genes (74).
+
+In 30 individuals participating in a study from the Quebec City Metropolitan area, distinct gene expression patterns were found between individuals on Western vs. Prudent diet. The Western diet was characterized by high intake of refined grains, desserts, sweets and processed meats, while the Prudent diet featured high intake of vegetables, fruits and whole grain products (75). Most of the genes that showed significant differences were related to inflammation and immune response, cancer and CVD. In another study in which individuals were on Mediterranean diet as part of the PREDIMED trial, the observed alterations in PBMC gene expressions were in cardiovascular pathways (76). Ellsworth et al. (77**) tested the short-term and long-term effects of lifestyle modifications in which 63 individuals underwent lifestyle modification (low-fat vegetarian diet, increased physical activity, 1 hour of stress management and weekly group support sessions) versus 63 matched controls. There were no changes in CVD related circulating biomarkers or gene expression in controls. In contrast, the group with lifestyle modification experienced reduction in expression of pro-inflammatory genes.
+
+Conclusions
+The view that diet influences health is an ancient notion but our understanding of the various mechanisms is still evolving. Nutrigenetics and nutrigenomics are two areas which are leading the way in addressing the questions of which components of diet most influence health, what are the underlying mechanisms, and which individuals are more/less susceptible to nutrient-associated disease (78,79*). The role of nutritional genomics is well established in monogenic diseases such as phenylketonuria, lactase deficiency and glucose-6-phosphate deficiency, however, the field is still developing with respect to complex diseases such as CVD.
+
+Although there is ample scientific evidence indicating that the genetic susceptibility to CVD can be modified by diet (summarized in Table 1), we are still not at a stage where this information is easily translated into dietary plans. Most of the previous results are based on cohort studies that rely on self-reported data derived from 24-hr diet recalls and food frequency questionnaires. Thus, there is a need for better approaches to achieve precision in dietary data collection and update computational approaches. The selection of SNPs for gene × nutrient interaction analyses also need to be streamlined. Currently, variants to be tested are selected based on the statistical significance in genetic studies and not necessarily, on biologically meaningful SNPs in the process. Additionally, follow-up studies may not be sufficiently powered for replications, variation in dietary exposure may be too great and some of the results may be replicable only in a sub group because of their particular genetic patterns.
+
+There is a need for more intervention studies, specifically randomized and controlled clinical trials, generating valid and precise information that can be utilized by dietitians in their practice. Some nutritional interventions can be very effective, with the likely effect size of some genotype-specific nutritional interventions being as large as that of medical treatments. Secondly, misconceptions about this field (nutrigenetics and nutrigenomics) and misinterpretation of outcomes are major barriers to the translation or implementation of these results with respect to public health. Therefore, we need to create awareness and emphasize health education, taking into consideration the social and ethical implications. Overall, this is an exciting time for nutritional genomics. Consistency of significant results by replication studies in separate cohorts and emphasis on biologically relevant and statistically significant variants will eventually lead to CVD prevention measures and generate hypotheses for clinical trials for genotype-guided CVD management.
+
+
+          Compliance with Ethics Guidelines
+        
+
+
+          Conflict of Interest
+        
+
+Dr. Voruganti reports grants from NIH/NIDDK, during the conduct of study.
+
+
+          Human and Animal Rights and Informed Consent
+        
+
+This article does not contain any studies with human or animal subjects performed by any of the authors.
+
+Table 1 Consistent (replicated) gene by nutrient interaction effects on CVD biomarkers
+
+Gene	SNP	Nutrient/diet	CVD outcome	Discussion	Reference	
+
+              ACE
+            	rs4343	High saturated fat diet	Blood pressure	GG carriers had higher systolic blood pressure than AA or AG carriers	Schuler et al. 2017	
+
+              ACE
+            	INDEL	Salt intake	Hypertension	An increase in hypertension was observed with a higher salt intake in ID/DD but not II genotype.	Wang et al. 2017	
+
+              CLOCK
+            	rs4580704	Mediterranean diet	Type 2 diabetes status	G carriers showed decreased incidence of type 2 diabetes compared to CC genotypes after ~5 year intervention.	Corella et al. 2016	
+
+              CLOCK
+            	rs4580704	Low fat diet	C-reactive protein	CC carriers showed a greater reduction in hs-CRP than CG or GG carriers after a 12 month intervention	Gomez-Delgado et al. 2015	
+
+              CLOCK
+            	rs1801260	Low fat diet	Insulin concentrations	TT carriers had lower plasma insulin, HOMAIR and higher insulin sensitivity compare to C carriers after a 12 month intervention	Garcia-Rios et al. 2014	
+
+              CLOCK
+            	rs3749474	Hypocaloric diet	BMI	T carriers increased their BMI with increase in dietary fat compared to CC carriers who showed no change after a 12–week calorie restriction program	Loria-Kohen et al. 2016	
+
+              FTO
+            	rs8050136	Carbohydrate intake	Obesity	A carriers had increased risk of obesity as than CC carriers in a cross-sectional study in Asian Indians	Vimlaeswaran et al. 2016	
+
+              FTO
+            	rs9939609	High protein intake	BMI	Association between BMI and rs9939609 was stronger in children with higher protein intake	Qi et al. 2015	
+
+              FTO
+            	rs1558902	Protein intake	BMI	AA carriers with lower protein intake had higher BMI compared to TT carriers	Merritt et al. 2018	
+
+              FTO
+            	rs9939609	Protein intake	BMI	Association between rs9939609 and BMI was weaker in low-protein intake group compared to high-protein intake group		
+
+              FTO
+            	rs9939609	Dietary saturated fat intake	Obesity	A carriers had higher risk of obesity exacerbated by high dietary saturated fat intake compared to TT carriers in longitudinal study of 7.5 years	Phillips et al. 2012	
+
+              FTO
+            	rs9939609	Energy-adjusted fat intake	BMI	A carriers had higher BMI intake in high-fat diet group but not low-fat diet group	Sonestedt et al. 2009	
+
+              FTO
+            	rs1558902	Fried food consumption	BMI	The association between FTO variant and BMI was stronger in high fried food consumer compared to low or normal fried food consumers	Qi et al. 2014	
+
+              BDNF
+            	rs4923461	High protein intake	BMI	A carriers had higher BMI with higher protein intake as compared to GG carriers	Rukh et al. 2013	
+
+              BDNF
+            	rs10767664	Hypocaloric diet	BMI	AA carriers had a greater reduction in BMI compared to T carriers in obese subjects after a 3-month intervention	de Luis et al. 2018	
+
+              FADS1
+            	rs174547	Linoleic acid (LA) intake	BMI	Each copy of the minor allele was associated with lower BMI and waist circumference in the lower LA intake group and not the high LA intake group	Dumont et al. 2017	
+
+              FADS1
+            	rs174547	Polyunsaturated fat (PUFA) intake	LDLc	C carriers had lower LD concentrations only in the lowest tertile of n-3 PUFA intakes compared to TT carriers in a cross-sectional study	Hellstrand et al., 2012	
+ACE-Angiotensin-converting enzyme; BDNF Brain-derived Neurotrophic factor; CLOCK Circadian Locomotor Output Cycles Kaput; FADS1 fatty acid desaturase 1; FTO Fat mass and obesity-associated BMI Body mass index; LDLc Low density lipoprotein cholesterol
+
+
+   Papers of particular interest have been highlighted as:
+
+• Of importance;
+
+•• Of major importance
+
+1 
+            Stewart J  
+            Manmathan G  
+            Wilkinson  
+           Primary prevention of cardiovascular disease: A review of contemporary guidance and literature JRSM Cardiovascular Disease 2017 6 1 9 
+2 
+            Nabel EG  
+           Cardiovascular disease NEJM 2003 349 60 72 12840094 
+3 
+            Roth GA  
+            Huffman MD  
+            Moran AE  
+            Feigin V  
+            Mansah GA  
+            Naghavi M  
+            Murray CJL  
+           Global and regional patterns in cardiovascular mortality from 1990–2013 Circulation 2015 132 1667 1678 26503749 
+4 Writing group members 
+            Benjamin EJ  
+            Blaha MJ  
+            Chiuve SE  
+            Cushman M  
+            Das SR  
+             
+           Heart disease and stroke statistics -2017 Update Circulation 2017 135 e146 603 28122885 
+5 
+            Kathiresan S  
+            Srivastava D  
+           Genetics of human cardiovascular disease Cell 2012 148 1242 1257 22424232 
+6 
+            O’Donnell  
+            Nabel EG  
+           Genomics of cardiovascular disease NEJM 2011 365 2098 2109 22129254 
+7 
+            O’Donnell C  
+            Elosia R  
+           Cardiovascular risk factors. Insights from Framingham Heart Study Rev Esp Cardiol 2008 61 299 310 18361904 
+8 
+            Oparil S  
+            Oberman A  
+           Nontraditional cardiovascular risk factors Am J Med Sci 1999 317 193 207 10100694 
+9 
+            Stover PJ  
+           Influence of human genetic variation on nutritional requirements Am J Clin Nutr 2006 83 436S 442S 16470009 
+10 
+            Simopoulos AP  
+           Genetic variation and nutrition Biomed Environ Sci 1996 9 124 129 8886322 
+11* 
+            Dellapenna D  
+           1999 Nutritional genomics: manipulating plant micronutrients to improve human health Science 285 375 379 One of the initial reports explaining the concept of nutritional genomics 10411494 
+12 
+            Ordovas JM  
+           Nutrigenetics and nutrigenomics Current Opinion in Lipidology 2004 15 101 108 15017352 
+13 
+            Qi L  
+           Nutrition, genetics and cardiovascular disease Curr Nutr Rep 2012 1 93 99 
+14 
+            Kohlmeier M  
+           Nutrigenetics: Applying the science of personal nutrition Acad Press 2013 
+15* 
+            Ordovas JM  
+            Corella D  
+           Nutritional genomics Annual Review of Genomics and Human Genetics 2004 5 71 118 A detailed summary about the importance of nutritional genomics in public health 
+16 
+            Nicolosi RJ  
+            Wilson TA  
+            Lawton C  
+            Handelman GJ  
+           Dietary effects on cardiovascular disease risk factors: Beyond saturated fatty acids and cholesterol J Am Coll Nutr 2001 20 421S 427S 11603652 
+17 
+            Eilat-Adar S  
+            Sinari T  
+            Yosefy C  
+            Henkin Y  
+           Nutritional recommendations for cardiovascular disease prevention Nutrients 2013 5 3646 3683 24067391 
+18 
+            Goodarzi MO  
+           Genetics of obesity: what genetic association studies have taught us about the biology of obesity and its complications Lancet Diabetes Endocrinol 2017 pii: S2213–8587(17)30200-0 10.1016/S2213-8587(17)30200-0 Epub ahead of print 
+19 
+            Castillo JJ  
+            Oralndo RA  
+            Garver WS  
+           Gene-nutrient interactions and susceptibility to human obesity Genes and Nutrition 2017 12 29 29093760 
+20 
+            Nettleton JA  
+            Follis JL  
+            Ngwa JS  
+            Smith CE  
+            Ahmad S  
+            Tanaka T  
+             
+           Gene × dietary pattern interactions in obesity: analysis of up to 68,317 adults of European ancestry Hum Mol Genet 2015 24 4728 4738 25994509 
+21 
+            Jou C  
+           The biology and genetics of obesity – A century of inquiries 2014 370 1874 1877 
+22 
+            Xia Q  
+            Grant SFA  
+           The genetics of human obesity Ann NY Acad Sci 2013 128 178 190 
+23 
+            Locke AE  
+            Kahali B  
+            Berndt SI  
+            Justice AE  
+            Per TH  
+            Day FR  
+             
+           Genetics studies of body mass index yield new insights for obesity biology Nature 2015 518 197 206 25673413 
+24* 
+            Turcot V  
+            Lu Y  
+            Highland HM  
+            Schurmann C  
+            Justice AE  
+            Fine RS  
+             
+           Protein-altering variants associated with body mass index implicate pathways that control energy intake and expenditure in obesity Nat Genet 2018 50 26 41 This paper provides evidence that the effect size of rare variants is ten times larger than common variants in extreme obesity, mainly with MC4R variants 29273807 
+25 
+            Lu Y  
+            Day FR  
+            Gustafsson S  
+            Buchkovich ML  
+            Na J  
+            Bataille V  
+             
+           New loci for body fat percentage reveal link between adiposity and cardiometabolic disease risk Nat Commun 2016 7 10495 26833246 
+26 
+            Rukh G  
+            Sonestedt E  
+            Melander O  
+            Hedblad B  
+            Wirfait E  
+            Ericson U  
+            Orho-Melander M  
+           Genetic susceptibility to obesity and diet intakes: association and interaction analyses of the Malmo Diet and Cancer study Genes Nutr 2013 8 535 547 23861046 
+27 
+            Qi Q  
+            Downer MK  
+            Kilpelainen TO  
+            Taal HR  
+            Barton SJ  
+            Ntalia I  
+             
+           Dietary intake, FTO genetic variants, and adiposity: A combined analysis of over 16000 children and adolescents Diabetes 2015 64 2467 2476 25720386 
+28 
+            Sonestedt E  
+            Roos C  
+            Gullberg G  
+            Ericson U  
+            Wirfait E  
+            Orho-Melander M  
+           Fat and carbohydrate intake modify the association between genetic variation in the FTO genotype and obesity Am J Clin Nutr 2009 90 1418 1425 19726594 
+29 
+            Phillips CM  
+            Kesse-Guyot E  
+            McManus R  
+            Hercberg S  
+            Lairon D  
+            Planells R  
+            Roche HM  
+           High dietary saturated fat intake accentuates obesity risk associated with the Fat Mass and Obesity-associated gene in adults J Nutr 2012 142 824 831 22457394 
+30 
+            Qi Q  
+            Chy AY  
+            Kang JH  
+            Huang J  
+            Rose LM  
+            Jensen MK  
+             
+           Fried food consumption, genetic risk and body mass index: gene-diet interaction analysis in three cohort studies BMJ 2014 348 g1610 24646652 
+31 
+            Qi Q  
+            Chu AY  
+            Kang JH  
+            Jensen MK  
+            Curhan GC  
+            Pasquale LR  
+            Ridker PM  
+            Hunter DJ  
+            Willett WC  
+            Rimm EB  
+            Chasman DI  
+            Hu FB  
+            Qi L  
+           Sugar-sweetened beverages and genetic risk of obesity N Engl J Med 2012 367 1387 1396 22998338 
+32 
+            Dominguez-Reyes T  
+            Astudillo-Lopez CC  
+            Salgado-Goytia L  
+            Muno-Valle JF  
+            Salgado-Bernave AB  
+            Guzman-Guzman IP  
+            Castro-Alaracon N  
+            Moreno-Godinez ME  
+            Parra-Rojas I  
+           Interaction of dietary fat intake with APOA2, APOA5 and LEPR polymorphisms and its relationship with obesity and dyslipidemia in young subjects Lipids Health Dis 2015 14 106 26365669 
+33 
+            Vimaleswaran KS  
+            Bodhini D  
+            Lakshmipriya N  
+            Ramya K  
+            Anjana RM  
+            Sudha V  
+            Lovegrove JA  
+            Kinra S  
+            Mohan V  
+            Radha V  
+           Interaction between FTO gene variants and lifestyle factors on metabolic traits in an Asian Indian population Nutr Metab (Lond) 2016 13 39 27274759 
+34 
+            Hosseini-Esfahani F  
+            Koochakpoor G  
+            Daneshpour MS  
+            Mirmiran P  
+            Sedaghati-Khayat B  
+            Azizi F  
+           The interaction of fat mass and obesity associated gene polymorphisms and dietary fiber intake in relation to obesity phenotypes Sci Rep 2017 7 18057 29273742 
+35 
+            Frayling TM  
+            Timpson NJ  
+            Weedon MN  
+            Zeggini E  
+            Freathy RM  
+            Lindgren CM  
+             
+           A common variant in the FTP gene is associated with body mass index and predisposes to childhood and adult obesity Science 2007 316 889 894 17434869 
+36 
+            Church C  
+            Moir L  
+            McMurray F  
+            Girard C  
+            Banks GT  
+            Teboul L  
+            Wells S  
+            Bruning JC  
+            Nolan PM  
+            Ashcroft FM  
+            Cox RD  
+           Overexpression of Fto leads to increased food intake and results in obesity Nature Genet 2010 42 1086 1092 21076408 
+37 
+            Zhao Y  
+            Barrere-Cain RE  
+            Yang X  
+           Nutritional systems biology of type 2 diabetes Genes Nutr 2015 10 31 
+38* 
+            Berna G  
+            Oliveras-Lopez MJ  
+            Jurado-Ruiz E  
+            Tejedo J  
+            Bedoya F  
+            Soria B  
+            Martin F  
+           Nutrigenetics and nutrigenomics insights into diabetes etiopathogenesis Nutrients 2014 6 5338 5369 25421534 
+39 
+            Lamri A  
+            bi-Khalil C  
+            Jaziri R  
+            Velho G  
+            Lantieri O  
+            Vol S  
+            Froguel P  
+            Balkau B  
+            Marre M  
+            Fumeron F  
+           Dietary fat intake and polymorphism at the PPARG locus modulate BMI and type 2 diabetes risk. In the D.E.S.I.R. prospective study Int J Obes (Lond) 2012 36 218 224 21540831 
+40* 
+            Lamri A  
+            Bonnefond A  
+            Meyre D  
+            Roussel R  
+            Marre M  
+            Froguel P  
+            Fumeron F  
+           D.E.S.I.R. study group Interaction between GPR120 p.R270H loss-of-function variant and dietary fat intake on incident type 2 diabetes risk in the D.E.S.I.R. study Nutr Metab Cardiovasc Dis 2016 26 931 936 The authors report that H-carriers of R270H are at a higher risk for T2D than RR homozygotes who consumed low fat and not in those who consumed high fat diet 27212621 
+41 
+            Ruchat SM  
+            Elks CE  
+            Loos RJ  
+            Vohl MC  
+            Weisnagel SJ  
+            Rankinen T  
+            Bouchard C  
+            Pérusse L  
+           Evidence of interaction between type 2 diabetes susceptibility genes and dietary fat intake for adiposity and glucose homeostasis-related phenotypes J Nutrigenet Nutrigenomics 2009 2 225 234 20215779 
+42 
+            Daily JW  
+            Park S  
+           Interaction of BDNF rs6265 variants and energy and protein intake in the risk for glucose intolerance and type 2 diabetes in middle-aged adults Nutrition 2017 33 187 194 27553771 
+43 
+            Waken RJ  
+            de Las Fuentes L  
+            Rao DC  
+           A review of the genetics of hypertension with a focus in gene-environment interactions Curr Hypertens Rep 2017 19 23 28283927 
+44 
+            Bakris G  
+            Sorrentino M  
+           Redefining hypertension – Assessing the new blood-pressure guidelines N Engl J Med 2018 378 497 499 29341841 
+45 
+            Ioannidis JPA  
+           Diagnosis and treatment of hypertension in the 2017 ACC/AHA Guidelines and in the real world JAMA 2018 319 115 116 29242891 
+46 
+            Butler MG  
+           Genetics of hypertension. Current status J Med Liban 2010 58 175 178 21462849 
+47 
+            Dojki K  
+            Bakris GL  
+           Blood pressure control and cardiovascular/renal outcomes Endocrinol Metab Clin North Am 2018 47 175 184 29407050 
+48** 
+            Schüler R  
+            Osterhoff MA  
+            Frahnow T  
+            Seltmann AC  
+            Busjahn A  
+            Kabisch S  
+            Xu L  
+            Mosig AS  
+            Spranger J  
+            Möhlig M  
+            Hornemann S  
+            Kruse M  
+            Pfeiffer AF  
+           High saturated fat diet increases circulating amgiotensin-converting enzyme, which is enhanced by the rs4343 polymorphism defining persons at risk of nutrient-dependent increases of blood pressure J Am Heart Assoc 2017 6 pii: e004465. The authors found that high saturated fat-diet increases the serum concentrations of angiotensin-converting enzyme (ACE) which may further increase the risk for hypertension and CVD 
+49 
+            Kawarazaki W  
+            Fujita T  
+           The role of aldosterone in obesity-related hypertension Am J Hypertens 2016 29 415 423 26927805 
+50 
+            Manosroi W  
+            Tan JW  
+            Rariy CM  
+            Sun B  
+            Goodarzi MO  
+            Saxena AR  
+            Williams JS  
+            Pojoga LH  
+            Lasky-Su J  
+            Cui J  
+            Guo X  
+            Taylor KD  
+            Chen YI  
+            Xiang AH  
+            Hsueh WA  
+            Raffel LJ  
+            Buchanan TA  
+            Rotter JI  
+            Williams GH  
+            Seely EW  
+           The association of estrogen receptor-β gene variation with salt-sensitive blood pressure J Clin Endocrinol Metab 2017 102 4124 4135 28938457 
+51 
+            Gu X  
+            Gu D  
+            He J  
+            Rao DC  
+            Hixson JE  
+            Chen J  
+            Li J  
+            Huang J  
+            Wu X  
+            Rice TK  
+            Shimmin LC  
+            Kelly TN  
+           Resequencing epithelial sodium channel genes identifies rare variants associated with blood pressure salt-sensitivity: The GenSalt study Am J Hypertens 2018 31 205 211 29036630 
+52 
+            Nierenberg JL  
+            Li C  
+            He J  
+            Gu D  
+            Chen J  
+            Lu X  
+            Li J  
+            Wu X  
+            Gu CC  
+            Hixson JE  
+            Rao DC  
+            Kelly TN  
+           Blood pressure genetic risk score predicts blood pressure responses to dietary sodium and potassium: The GenSalt study )(Genetic Epidemiology Network of salt sensitivity) Hypertension 2017 70 1106 1112 28993450 
+53 
+            Bouchard-Mercier A  
+            Rudkowska I  
+            Lemieux S  
+            Couture P  
+            Vohl MC  
+           Polymorphisms in genes involved in fatty acid β-oxidation interact with dietary fat intakes to modulate the plasma TG response to a fish oil supplementation Nutrients 2014 6 1145 1163 24647074 
+54 
+            Thifault E  
+            Cormier H  
+            Bouchard-Mercier A  
+            Rudkowska I  
+            Paradis AM  
+            Garneau V  
+            Ouellette C  
+            Lemieux S  
+            Coutoure P  
+            Vohl MC  
+           Effects of age, sex, body mass index and APOE genotype on cardiovascular biomarker response to a n-3 polyunsaturated fatty acid supplementation J Nutrigenet Nutrigenomics 2013 6 73 82 23689286 
+55 
+            Chouinard-Watkins R  
+            Conway V  
+            Minihane AM  
+            Jackson KG  
+            Lovegrove JA  
+            Plourde M  
+           Interaction between BMI and APOE genotype is associated with changes in the plasma long-chain-PUFA response to a fish-oil supplementation in health participants Am J Clin Nutr 2015 102 505 513 26085515 
+56 
+            Sacks FM  
+            Lichtenstein AH  
+            Wu JHY  
+            Appel LJ  
+            Creager MA  
+            Kris-Etherton PM  
+            Miller M  
+            Rimm EB  
+            Ridel LL  
+            Robinson JG  
+            Stone NJ  
+            Van Horn LV  
+           America Heart Association Dietary fat and cardiovascular disease. A presidential advisory from the American Heart Association Circulation 2017 136 e1 e23 28620111 
+57 
+            Bouchard-Mercier A  
+            Rudkowska I  
+            Lemieux S  
+            Couture P  
+            Vohl MC  
+           An interaction effect between glucokinase gene variation and carbohydrate intake modulates the plasma triglyceride response to a fish oil supplementation Genes Nutr 2014 9 395 24643341 
+58 
+            de Medeiros Cavalcante IG  
+            Silva AS  
+            Costa MJ  
+            Persuhn DC  
+            Issa CT  
+            de Luna Freire TL  
+            da Conceição Rodrigues Gonçalves M  
+           Effect of vitamin D3 supplementation and influence of Bsml polymorphism of the VDR genes of the inflammatory profile and oxidative stress in elderly women with vitamin D insufficiency: the Vitamin D3 megadose reduces inflammatory markers Exp Gerontol 2015 66 10 16 25827670 
+59 
+            Yamakawa-Kobayashi K  
+            Otagi E  
+            Ohhara Y  
+            Goda T  
+            Kasezawa N  
+            Kayashima Y  
+           The combined effects of genetic variation in the CNDP1 and CNDP2 genes and dietary carbohydrate and carotene intake on obesity risk J Nutrigenet Nutrigenomics 2018 10 146 154 
+60 
+            Mocchegiani E  
+            Costarelli  
+            Giacconi R  
+            Malavolta M  
+            Basso A  
+            Piacenza F  
+            Ostan R  
+            Cevenini E  
+            Gonos ES  
+            Monti D  
+           Micronutrient-gene interactions related to inflammatory/immune response and antioxidant activity I ageing and inflammation. A systematic review Mechanisms of Ageing and Development 2014 136–137 29 49 
+61 
+            Mocchegiani E  
+            Costarelli  
+            Giacconi R  
+            Piacenza F  
+            Basso A  
+            Malavolta M  
+           Micronutrient (Zn. Cu. Fe)-gene interactions in ageing and inflammatory age-related diseases: Implications for treatments Ageing Research Reviews 2012 11 297 319 22322094 
+62 
+            Estruch R  
+            Ros E  
+            Salas-Salvado J  
+            Covas MI  
+            Corella D  
+            Aros  
+             
+           Primary prevention of cardiovascular disease with a Mediterranean diet N Engl J Med 2013 368 1279 1290 23432189 
+63 
+            Ros E  
+            Martinez-Gonzalez MA  
+            Estruch R  
+            Salas-Salvado J  
+            Fito M  
+            Martinez JA  
+            Corella D  
+           Mediterranean diet and cardiovascular health: Teachings of the PREDIMED trial Adv Nutr 2014 5 330S 336S 24829485 
+64 
+            Ortega-Azorin C  
+            Sorli JV  
+            Asensio EM  
+            Coltell O  
+            Martinez-Gonzalez MA  
+            Salas-Salvado J  
+             
+           Associations of the FTO rs9939609 and the MC4R rs17782313 polymorphisms with type 2 diabetes are modulated by diet, being higher when adherence to the Mediterranean diet pattern is low Cardiovasc Diabetol 2012 11 137 23130628 
+65 
+            Ortega-Azorin C  
+            Sorli JV  
+            Estruch R  
+            Asensio EM  
+            Coltell O  
+            Gonzalez JI  
+             
+           Amino acid change in the carbohydrate response element binding protein is associated with lower triglycerides and myocardial infarction incidence depending the level of adherence to the Mediterranean diet in the PREDIMED trial Circ Cardiovasc Genet 2014 7 49 58 24448738 
+66 
+            Casas R  
+            Sacanella E  
+            Urpí-Sardà M  
+            Corella D  
+            Castañer O  
+            Lamuela-Raventos RM  
+            Salas-Salvadó J  
+            Martínez-González MA  
+            Ros E  
+            Estruch R  
+           Long-term immunomodulatory effects of a Mediterranean diet in adults at a high risk of cardiovascular disease in the Prevencion con Dieta Mediterrenea (PREDIMED) randomized controlled trial J Nutr 2016 146 1684 1693 27440261 
+67 
+            Castañer O  
+            Corella D  
+            Covas MI  
+            Sorlí JV  
+            Subirana I  
+            Flores-Mateo G  
+            Nonell L  
+            Bulló M  
+            de la Torre R  
+            Portolés O  
+            Fitó M  
+           PREDIMED study investigators In vivo transcriptomic profile after a Mediterranean diet in high-cardiovascular risk patients: a randomized controlled trial AM J Clin Nutr 2013 98 845 853 23902780 
+68* 
+            Ortega-Azorin C  
+            Sorli JV  
+            Estruch  
+            Asensio EM  
+            Coltell O  
+            Gonzalez JI  
+             
+           Amino acid change in the carbohydrate response element binding protein is associated with lower triglycerides and myocardial infarction incidence depending on level of adherence to the Mediterranean diet in the PREDIMED trial Circ Cardiovasc Genet 2014 7 49 58 This study is focused in a dietary pattern (Mediterranean diet) and not on a single nutrient. The authors show the beneficial effects of Mediterranean diet on CVD risk factors and CVD events 24448738 
+69 
+            Lim GB  
+           Hypertension: Low sodium and SAS diet to lower blood pressure Nat Rev Cardiol 2018 15 68 
+70 
+            Svetkey LP  
+            Harris EL  
+            Martin E  
+            Vollmer WM  
+            Meltesen GT  
+            Ricchiuti V  
+            Williams G  
+            Appel LJ  
+            Bray GA  
+            Moore TJ  
+            Winn MP  
+            Conlin PR  
+           Modulation of the BP response to diet by genes in the renin-angiotensin system and the adrenergic nervous system Am J Hypertens 2011 24 209 217 21088669 
+71 
+            Vedin I  
+            Cederholm T  
+            Freund-Levi Y  
+            Basun H  
+            Garlind A  
+            Irving GF  
+            Eriksdotter-Jonhagen M  
+            Wahlund LO  
+            Dahlman I  
+            Palmblad J  
+           Effects of DHA-rich n-3 fatty acid supplementation on gene expression in blood mononuclear leukocytes: the OmegAD study PLoS One 2012 7 e35425 22545106 
+72 
+            Rudkowska I  
+            Paradis AM  
+            Thifault E  
+            Julien P  
+            Tchernof A  
+            Couture P  
+            Lemieux S  
+            Barbier O  
+            Vohl MC  
+           Transcriptomic and metabolomic signatures of an n-3 polyunsaturated fatty acids supplementation in a normolipidemic/normocholesterolemic Caucasian population J Nutr Biochem 2013 24 54 61 22748805 
+73 
+            Tome-Carneiro J  
+            Larrosa M  
+            Yanez-Gascon MJ  
+            Davalos A  
+            Gil-Zamorano J  
+            Gonzalez M  
+            Garcia-Almagro J  
+            Ruiz Ros JA  
+            Tomas-Barberan A  
+            Espin JC  
+            Garcis-Gonesa MT  
+           One-year supplementation with a grape extract containing resveratrol modulates inflammatory-related microRNAs and cytokines expression in peripheral blood mononuclear cells of type 2 diabetes and hypertensive patients with coronary artery disease Pharmacol Res 2013 72 69 82 23557933 
+74 
+            De Lorenzo A  
+            Bernardini S  
+            Gualtieri P  
+            Cabibbo A  
+            Perrone MA  
+            Giambini I  
+            Di Renzo L  
+           Mediterranean meal versus Western meal effects on postprandial ox-LDL, oxidative and inflammatory gene expression in healthy subjects: a randomized controlled trial for nutrigenomic approach in cardiometabolic risk Acta Diabetol 2017 54 141 149 27709360 
+75 
+            Bouchard-Mercier A  
+            Paradis AM  
+            Rudkowska I  
+            Lemieux S  
+            Coutoure P  
+            Vohl MC  
+           Associations between dietary patterns and gene expression profiles of healthy men and women: a cross-sectional study Nut J 2013 12 24 
+76 
+            Camargo A  
+            Delgado-Lista J  
+            Garcia-Rios A  
+            Cruz-Teno C  
+            Yubero-Serrano EM  
+            Perez-Martinez P  
+            Gutierrez-Mariscal FM  
+            Lora-Aguilar P  
+            Rodriguez-Cantalejo F  
+            Fuentes-Jimenez F  
+            Tinahones FJ  
+            Malagon MM  
+            Perez-Jimenez F  
+            Lopez-Miranda J  
+           Expression of proinflammatory, proatherogenic genes is reduced by the Mediterranean diet in elderly people Br J Nutr 2012 108 500 508 22085595 
+77** 
+            Ellsworth DL  
+            Mamula KA  
+            Blackburn HL  
+            McDyer FA  
+            Jellema GL  
+            van Laar R  
+            Costantino NS  
+            Engler RJ  
+            Vernalis MN  
+           Importance of substantial weight loss for altering gene expression during cardiovascular lifestyle modification Obesity (Silver Spring) 2015 23 1312 1319 A clinical intervention including dietary and physical activity modifications was associated with down regulation of genes involved in vascular endothelium and immunity 25960328 
+78 
+            Grimaldi KA  
+            van Ommen B  
+            Ordovas JM  
+            Parnell LD  
+            Mathers JC  
+            Bendik I  
+             
+           Proposed guidelines to evaluate scientific validity and evidence or genotype-based dietary advice Genes and Nutrition 2017 12 35 29270237 
+79* 
+            Corella D  
+            Coltell O  
+            Mattingley G  
+            Sorli JV  
+            Ordovas JM  
+           Utilizing a nutritional genomics to tailor diets for the prevention of cardiovascular disease: a guide for upcoming studies and implementations Expert Review of Molecular Diagnostics 2017 17 495 513 A comprehensive review of the state-of-the-art related to nutritional genomics and guide for future studies 28337931 
+80 
+            Wang Y  
+            Wang Y  
+            Zhang B  
+            Hou L  
+            Han W  
+            Xue F  
+            Wang Y  
+            Tang Y  
+            Liang S  
+            Wang W  
+            Asaiti K  
+            Wang Z  
+            Hu Y  
+            Wang L  
+            Qiu C  
+            Zhang M  
+            Jiang J  
+           Interaction of ACE genotypes and salt intake on hypertension among Chinese Kazakhs: results from a population-based cross-sectional study BMJ Open 2017 7 e014246 
+81 
+            Corella D  
+            Asensio EM  
+            Coltell O  
+            Sorlí JV  
+            Estruch R  
+            Martínez-González MÁ  
+            Salas-Salvadó J  
+            Castañer O  
+            Arós F  
+            Lapetra J  
+            Serra-Majem L  
+            Gómez-Gracia E  
+            Ortega-Azorín C  
+            Fiol M  
+            Espino JD  
+            Díaz-López A  
+            Fitó M  
+            Ros E  
+            Ordovás JM  
+           Gene variation is associated with incidence of type-2 diabetes and cardiovascular diseases in type-2 diabetic subjects: dietary modulation in the PREDIMED randomized trial Cardiovasc Diabetol 2016 15 4 26739996 
+82 
+            Loria-Kohen V  
+            Espinosa-Salinas I  
+            Marcos-Pasero H  
+            Lourenco-Nogueira T  
+            Herranz J  
+            Molina S  
+            Regelro G  
+            Ramiez de Molina A  
+           Polymorphisms in the CLOCK gene may influence the effect of fat reduction on weight loss Nutrition 2016 32 453 460 26690565 
+83 
+            Merritt DC  
+            Jamnik J  
+            El-Sohemy A  
+           FTO genotype, dietary protein intake, and body weight in a multiethnic population of young adults: a cross sectional study Genes Nutr 2018 13 4 29484031 
+84 
+            De Luis DA  
+            Ovalle HF  
+            Izaola O  
+            Primo D  
+            Aller R  
+           rs10767664 gene variant in brain-derived neurotrophic factor (BDNF) affect metabolic changes and insulin resistance after a standard hypocaloric diet J Diab Complications 2018 32 216 220.89 
+85 
+            Dumont J  
+            Goumidi L  
+            Grenier-Boley B  
+            Cottel D  
+            Marécaux N  
+            Montaye M  
+            Wagner A  
+            Arveiler D  
+            Simon C  
+            Ferrières J  
+            Ruidavets JB  
+            Amouyel P  
+            Dallongeville J  
+            Meirhaeghe A  
+           Dietary linoleic acid interacts with FADS1 genetic variability to modulate HDL-cholesterol and obesity-related traits Clin Nutr 2017 S0261–5614(17)30253–4 
+86 
+            Hellstrand S  
+            Sonestedt E  
+            Ericson U  
+            Gullberg B  
+            Wirfait E  
+            Hedblad B  
+            Orho-Melander M  
+           Intake levels of dietary long-chain PUFAs modify the association between genetic variation in FADS and LDL-C J Lipid Res 2012 53 1183 1189 22451038 
+87 
+            Gomez-Delgado F  
+            Garcia-Rios A  
+            Alcala-Diaz JF  
+            Rangel-Zuñiga O  
+            Delgado-Lista J  
+            Yubero-Serrano EM  
+            Lopez-Moreno J  
+            Tinahones FJ  
+            Ordovas JM  
+            Garaulet M  
+            Lopez-Miranda J  
+            Perez-Martinez P  
+           Chronic consumption of a low-fat diet improves cardiometabolic risk factors according to the CLOCK gene in patients with coronary heart disease Mol Nutr Food Res 2015 59 2556 2564 26346429 
+88 
+            Garcia-Rios A  
+            Gomez-Delgado FJ  
+            Garaulet M  
+            Alcala-Diaz JF  
+            Delgado-Lista FJ  
+            Marin C  
+            Rangel-Zuñiga OA  
+            Rodriguez-Cantalejo F  
+            Gomez-Luna P  
+            Ordovas JM  
+            Perez-Jimenez F  
+            Lopez-Miranda J  
+            Perez-Martinez P  
+           Beneficial effect of CLOCK gene polymorphism rs1801260 in combination with low-fat diet on insulin metabolism in the patients with metabolic syndrome Chronobiol Int 2014 31 401 408 24328727 
+89 
+            Hellstrand S  
+            Sonestedt E  
+            Ericson U  
+            Gullberg B  
+            Wirfait E  
+            Hedblad B  
+            Orho-Melander M  
+           Intake levels of dietary long-chain PUFAs modify the association between genetic variation in FADS and LDL-C J Lipid Res 2012 53 1183 1189 22451038 
+

@@ -1,0 +1,157 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10119327832955Calif J Health PromotCalif J Health PromotCalifornian journal of health promotion1545-8725308538706407621NIHMS1015394ArticleAssociation between Caffeine Consumption and Depression in NHANES 2009–2010 Pogoda Janice M. 1Patricio Galilea 2McEligot Archana J. 21 Cipher Biostatistics &amp; Reporting, Reno, Nevada2 California State University, Fullerton, Health Science DepartmentCorresponding author: Janice M. Pogoda, PhD, Founder, Director of Biostatistics, Cipher Biostatistics &amp; Reporting, 18124 Wedge Pkwy, #248, Reno, NV, 89511, phone: 775.971.4937, janice.pogoda@cipherbar.com5 3 2019 2018 08 3 2019 16 1 16 23 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background and Purpose:
+Caffeine is ubiquitous in foods, supplements, and medications and has been hypothesized to be associated with several health-related outcomes, including mental health disorders such as anxiety. We explored a possible relationship between caffeine consumption and depression using data from the National Health and Nutrition Examination Survey (NHANES).
+
+Methods:
+Data from 1,342 adult NHANES participants were included. Statistical software for complex survey sample designs was used to perform two multivariable logistic regressions with a binary indicator of depression as the dependent variable: one using dietary caffeine consumption and one using the caffeine metabolite AAMU as the independent variable. Both analyses were adjusted for gender, race/ethnicity, smoking status, and use of anti-depressants.
+
+Results:
+We observed a descriptive, albeit non-significant (p = 0.12), pattern of increasing odds of depression with increasing levels of the AAMU caffeine metabolite.
+
+Conclusion:
+Our finding of a possible association between caffeine metabolite level and depression is compelling because it is independent of self-reported caffeine consumption. Prospective studies are warranted to further explore the temporal relationship.
+
+AAMUCaffeineDepressionMental HealthSubstance Dependence
+   Introduction
+Approximately 85% of the United States population consumes at least one caffeinated beverage per day, with the vast majority being coffee, tea, carbonated soft drinks, and energy drinks (Mitchell, Knight, Hockenberry, Teplansky, &amp; Hartman, 2014).” Often caffeinated products are used to compensate for lack of energy and to supplement both physical and mental stamina (Richards &amp; Smith, 2016). Caffeine is a ubiquitous, unregulated substance found not only in beverages, but also in food, medications, and supplements (FDA, 2013). Due to the increasing presence of caffeine in many of these products, the potential long-term effects of excess caffeine consumption are a growing concern (FDA, 2013).
+
+Caffeine is a psychoactive substance which affects the central nervous system and can create dependency, tolerance, and withdrawal symptoms, similar to the use of regulated and illicit substances (Bergin &amp; Kendler, 2012). The reinforcing effects of caffeine have been acknowledged and are hypothesized to have potential associations with several health outcomes including mental health disorders (Cappelletti, Daria, Sani, &amp; Aromatario, 2015). Although much of the prior research in this area has focused on anxiety due to caffeine’s anxiogenic effects (Bergin &amp; Kendler, 2012), a few studies have examined the association between caffeine and depression. A cross-sectional study of secondary school children conducted in the South West of England reported a significant positive association between caffeine consumption, particularly at very high levels (&gt; 1000 mg/week), and both depression and anxiety but not stress (Richards &amp; Smith, 2015). The authors pointed out that the positive association with depression in their population of secondary school children was the opposite of findings in an earlier report on an adult population which observed a negative association (Smith, 2009). In a cross-sectional study of adults in Eastern Canada, analyses stratified by sex showed positive associations between coffee consumption and depression that were significant for women and only for regular versus decaffeinated coffee (Yu, Parker, &amp; Dummer, 2017). The authors noted that this conflicted with a previously published analysis of data from the Nurses’ Health Study which observed an inverse association with coffee-drinking (Lucas et al., 2011). An intriguing population-based, retrospective study of monozygotic twins reported only modest positive associations between caffeine and depression after accounting for within-family effect (Kendler, Myers, &amp; Gardner, 2006). The authors refer to this as the “correlated liability model”; i.e., genetic and/or environmental conditions that predispose to both caffeine consumption and depression and suggest that the association is non-causal. Even less research exists on the relationship between caffeine metabolites and depression, with only one animal model study showing an inverse association between paraxanthine, a caffeine metabolite, and sleep (Okuro et al., 2010). To our knowledge, no studies have been reported on the association between the caffeine metabolite 5-acetylamino-6-amino-3-methyluracil (AAMU) and depression.
+
+To explore the potential relationship between caffeine and depression and potentially contribute to the limited literature in this area, we used the National Health and Nutrition Examination Survey (NHANES) database to analyze depression as a function of both dietary caffeine intake and the urinary metabolite 5-acetylamino-6-amino-3-methyluracil (AAMU).
+
+Methods
+Design
+NHANES is an ongoing, nationally representative survey conducted by the National Center for Health Statistics at the Centers for Disease Control and Prevention (CDC) that collects data on the health and nutritional status of U.S. adults and children. Since 1999, samples have been collected annually but are publicly released in 2-year cycles. NHANES oversamples certain subgroups, e.g., based on age, race, and income, to increase precision of statistical estimates. A probability multi-stage sampling design is used to maximize efficiency of data collection for which there are three levels: a household screener, an interview, and an examination that takes place in specially-equipped mobile examination centers. Additional details on survey design and methodology are available at http://www.cdc.gov/nchs/nhanes.htm. The interview component of NHANES ascertains information on demographic, socioeconomic, and health-related factors and includes a 24-hour dietary recall assessment and specimen collection for laboratory evaluations. The CDC Institutional Review Board approved NHANES and all participants provided written informed consent.
+
+Sample
+The 2009–2010 NHANES cycle included 6,059 adult (≥ 20 years of age) participants of whom 1,865 (31%) contributed both dietary caffeine and metabolite data; of these, 1,342 (72%) had reliable dietary data (per the NHANES definition, this required that all relevant variables associated with the 24-hour dietary recall contain a value) and all potential confounders non-missing, thereby constituting our analysis population.
+
+Measures
+Depression Screener.
+In the depression screener portion of the NHANES interview, the 9-item Patient Health Questionnaire (PHQ-9) was used to ascertain the frequency of depression symptoms during the previous 2 weeks. Possible responses to each question were “not at all,” “several days,” “more than half the days” and “nearly every day” with respective scores of 0, 1, 2, and 3. A total score, ranging from 0 to 27, was derived by summing over the 9 items. A score of 10 or higher was used to indicate depression, a method that has been validated and is commonly used in research settings (Manea, Gilbody, &amp; McMillan, 2012). For a sensitivity analysis, self-reported use of anti-depressants in the month prior to interview was added to the definition of depression.
+
+Caffeine Intake.
+Daily dietary caffeine intake, an NHANES-derived variable, was obtained from the Total Nutrient Intakes data set. Dietary intakes were reported via a 24-hour dietary recall in which participants reported individual foods and drinks consumed during the midnight-to-midnight 24-hour period prior to the in-person dietary interview. Coding of interview data and conversion to total nutrient intakes were conducted by NHANES using the USDA Food and Nutrient Database for Dietary Studies, 5.0 (FNDDS 5.0) (http://www.ars.usda.gov/ba/bhnrc/fsrg). The FNDDS 5.0 nutrient values were based on the USDA National Nutrient Database for Standard Reference, release 24 (http://www.ars.usda.gov/nutrientdata).
+
+Laboratory Analysis.
+Urine specimens were analyzed at the Division of Environmental Health Laboratory Sciences, National Center for Environmental Health, Centers for Disease Control and Prevention; methods have been documented and described previously (https://wwwn.cdc.gov/Nchs/Nhanes/2009-2010/CAFE_F.htm). Briefly, caffeine and 14 of its metabolites, including AAMU, were quantified using high performance liquid chromatography-electrospray ionization-tandem quadrupole mass spectrometry (HPLC-ESIMS/MS) with stable isotope labeled internal standards. (National Center for Biotechnology Information, 2017).
+
+Statistical Analyses.
+Analyses were done using SAS procedures SURVEYFREQ, SURVEYREG and SURVEYLOGISTIC (SAS v9.4, SAS Institute, Cary, NC, USA) to account for the stratified, multistage probability cluster sampling design of NHANES. The NHANES stratification variable (SDMVSTRA) and Primary Sampling Unit (SDMVPSU) were used as the strata and sampling unit variables, respectively. NHANES provides sampling weights to be used in analyses that account for oversampling of certain subgroups, differences between the sample and the population due to nonresponse, and population sizes. Sampling weights for the subsample that provide urine specimens (WTSC2YR) were used for all analyses since participants had to have non-missing AAMU to be included in any analysis. All statistical tests were two-sided with .05 significance levels.
+
+Dietary caffeine intake (mg/day) for each participant was expressed as the participant’s residual value from the linear regression of caffeine intake on total energy intake (kcal/day), i.e., the difference between the participant’s actual dietary caffeine intake and that predicted by his or her total energy intake. This approach isolates the effect of dietary caffeine intake from factors closely associated with total energy intake that may be related to depression (e.g., body size, metabolic efficiency) without directly modeling total energy intake, which is correlated with total caffeine intake (Willett, Howe, &amp; Kushi, 1997). A categorical variable for dietary caffeine intake was derived based on quartiles of the distribution of residuals. A categorical variable was also derived for AAMU based on quartiles of measured levels.
+
+Multivariable logistic regression was used to assess the association between the independent variables (IVs) dietary caffeine and AAMU and the dependent dichotomous variable depression. Potential confounders were chosen based on literature review of known factors associated with depression: age, gender, race/ethnicity, education level, income-to-poverty ratio, body mass index (BMI), self-reported use of anti-depressants in the month prior to interview, physical activity (measured as metabolic hours, a weighted sum of moderate and vigorous hours/week of physical activity), smoking status (never, former, current), and alcohol consumption (measured as drinks/day in the 12 months prior to interview). From the list of potential confounders, covariates to be included in the ultimate model were selected using a manual process that considered collinearity, statistical and clinical significance, influence, model fit (as measured by the score statistic), predictive ability (as measured by the c statistic), and model parsimony. Differences in potential confounders between groups defined by self-reported depression (“No” vs. “Yes”) were analyzed by the SAS procedures SURVEYREG and SURVEYLOGISTIC for continuous and categorical variables, respectively.
+
+In order to provide an intuitive interpretation of the risk function, odds ratios (ORs) and 95% confidence intervals (CIs) were calculated for each category of exposure with the lowest exposure category as the reference group. P-values for trend were based on categories of exposure modeled as continuous variables. There were no a priori hypotheses to be tested as this was an exploratory analysis. The same set of covariates, selected as described above, were used for analyses of both dietary caffeine and AAMU. In the covariate selection process as well as in the final models, variables were modeled as either continuous (age, education level, income-to-poverty ratio, BMI, metabolic hours, smoking status, alcohol consumption) or categorical (gender, race/ethnicity, use of anti-depressants).
+
+A sensitivity analysis was done using an alternative definition of depression: a score of 10 or higher on the PHQ-9 or self-reported use of anti-depressants in the month prior to interview. Covariates were selected in a separate process from the main analysis since use of anti-depressants was no longer a candidate covariate.
+
+Results
+Differences in potential confounders between groups defined by self-reported depression (“No” vs. “Yes”) are shown in Table 1. Self-reported depression was significantly more prevalent among women, non-whites, lower-SES participants (based on education and income-to-poverty ratio), current smokers, participants with higher BMI, and participants with lower levels of alcohol consumption. As expected, participants reporting depression were also significantly more likely to report use of anti-depressants.
+
+Results from both crude and adjusted analyses of the relationship between depression and dietary caffeine and between depression and AAMU are shown in Table 2. After adjustment for covariates gender, race/ethnicity, smoking status, and use of anti-depressants, there was a descriptive, albeit non-significant (p=0.12), pattern of increasing odds of depression with increasing levels of AAMU. Results from the sensitivity analysis were very similar to those from the main analysis for both dietary caffeine and AAMU (data not shown).
+
+Discussion
+We observed a descriptive pattern of increasing odds of self-reported depression with increasing levels of the AAMU caffeine metabolite in urine. Although this association did not reach statistical significance at the 0.05 level, it is nonetheless a compelling observation because biomarker data reflect consumption without having to rely on self-reporting. Similarly, our analysis using dietary consumption instead of AAMU showed elevated odds ratios for the 2nd, 3rd, and 4th quartiles of exposure, but no clear descriptive trend and a p-value for trend &gt; 0.50. Possible explanations for the lack of consistency between the two analyses are measurement error in self-reported dietary data and lack of control for unknown confounders in the analysis of dietary data.
+
+Limitations
+Our analysis of depression and caffeine exposure is limited due to the retrospective, cross-sectional nature of NHANES data. This type of data cannot be used to draw inferences regarding temporal sequence; e.g., one explanation for our observation of increased caffeine metabolite in those classified as depressed is that depressed individuals self-medicate with substances such as caffeine. Further, both depressive symptoms and dietary intake were self-reported. Finally, we restricted our analysis to participants with reliable dietary data and all potential confounders non-missing, which may be a biased subpopulation of NHANES adult participants.
+
+Conclusion
+Our results are contradictory to a meta-analysis of 12 observational studies of coffee/tea/caffeine and depression in which an inverse relationship was reported (Grosso, Micek, Castellano, Pajak, &amp; Galvano, 2015). Although the meta-analysis only included consumption data, the analogous NHANES data did not suggest a protective effect of caffeine on depression. However, the meta-analysis authors acknowledged that data from population-based studies on this relationship are “sparse and inconsistent,” as we also found in our review of the existing literature. Clearly, more rigorous research in controlled environments is necessary to answer two important questions: (1) is the correlation between caffeine and depression positive or negative, and (2) if there is a positive correlation, is it direct or indirect? An indirect association is quite plausible since caffeine consumption can lead to dependence, which is a well-known correlate of depression and other mental health disorders (Brady &amp; Sinha, 2005). A direct, neurobiological association, whether positive or negative, is an interesting hypothesis worthy of further study.
+
+Acknowledgements
+This study was part of the Big Data Discovery and Diversity through Research Education Advancement and Partnerships (BD3-REAP) Project funded by National Institutes of Health (NIH), NIMHHD-R25; # 1R25MD010397–01.
+
+Table 1 Differences in Potential Confounders by Self-reported Depression
+
+Parameter	Depression = NO
+(n = 1,210)	Depression = YES
+(n = 132)	p-value1	
+Age [mean (SE)]	46.9 (0.56)	47.3 (0.71)	0.67	
+Male [% (SE)]	52.0 (1.77)	34.9 (6.30)	0.04	
+Race/Ethnicity [% (SE)]			0.003	
+ White	74.4 (3.06)	68.9 (4.95)		
+ Hispanic	12.1 (2.59)	9.0 (2.39)		
+ African American	9.0 (0.86)	19.5 (3.96)		
+ Other	4.5 (0.92)	2.6 (1.70)		
+Education Level [% (SE)]			0.01	
+ &lt; High School	16.0 (1.46)	29.4 (5.07)		
+ High School Grad/GED	21.0 (1.89)	24.4 (4.13)		
+ Some College	32.1 (1.20)	31.6 (5.58)		
+ College Grad	30.9 (1.74)	14.6 (6.3)		
+Income-to-Poverty Ratio Tertile [% (SE)]			&lt; 0.0001	
+ &lt; 2.18	30.3 (1.23)	55.3 (5.43)		
+ 2.18 – 4.35	35.2 (2.09)	22.9 (4.44)		
+ &gt; 4.35	34.5 (1.44)	21.9 (3.11)		
+Body Mass Index (kg/m2) [mean (SE)]	28.7 (0.24)	31.4 (0.94)	0.02	
+Used Anti-Depressants in Past Month [% (SE)]	9.4 (1.18)	41.0 (4.93)	&lt; 0.0001	
+Metabolic Hours Tertile [% (SE)]			0.07	
+ &lt; 7.8	29.8 (1.89)	47.1 (5.49)		
+ 7.8 – 45.7	36.7 (1.83)	24.6 (4.18)		
+ &gt; 45.7	33.5 (1.88)	28.3 (5.68)		
+Smoking Status [% (SE)]			0.004	
+ Never	54.0 (1.03)	35.5 (6.03)		
+ Former	26.9 (1.05)	25.3 (4.47)		
+ Current	19.2 (0.88)	39.2 (5.36)		
+Alcoholic Drinks/Day Tertile [% (SE)]			0.002	
+ &lt; 0.5	17.8 (1.42)	33.1 (4.05)		
+ 0.5 – 1.8	29.1 (1.31)	27.5 (4.59)		
+ &gt; 1.8	53.0 (1.75)	39.5 (5.36)		
+Total Energy Intake Tertile (kcal/day) [% (SE)]			0.14	
+ &lt; 1706	32.3 (1.56)	37.8 (4.44)		
+ 1706 – 2434	33.9 (1.48)	36.1 (5.78)		
+ &gt; 2434	33.8 (1.58)	26.1 (6.25)		
+1 Based on SAS procedure SURVEYREG for continuous variables (including tertile) and SURVEYLOGISTIC for categorical variables.
+
+Table 2 Multivariable Logistic Regression of Associations between Depression, Dietary Caffeine and AAMU Caffeine
+
+		CRUDE		ADJUSTED1	
+Parameter	OR	(95% CI)	p	OR	(95% CI)	
+Dietary Caffeine Quartile of Residual	
+2nd	1.49	(0.61, 3.63)	0.36	1.64	(0.69, 3.90)	
+3rd	1.45	(0.57, 3.68)	0.41	1.33	(0.59, 3.03)	
+4th	1.57	(0.66, 3.73)	0.29	1.40	(0.63, 3.11)	
+p-trend			0.32			
+AAMU Quartile	
+2nd	0.98	(0.55, 1.73)	0.93	1.01	(0.59, 1.73)	
+3rd	1.61	(0.78, 3.31)	0.18	1.62	(0.85, 3.10)	
+4th	1.67	(0.63, 4.43)	0.28	1.68	(0.65, 4.35)	
+p-trend			0.13			
+1 Adjusted for gender, race/ethnicity, smoking status, and use of anti-depressants.
+
+
+   References
+Bergin JE  &amp; Kendler KS  (2012 ). Common psychiatric disorders and caffeine use, tolerance, and withdrawal: An examination of shared genetic and environmental effects . Twin Research and Human Genetics , 15 (4 ). 473 –482 . doi:10.1017/thg.2012.25 22854069 
+Brady KT  &amp; Sinha R  (2005 ). Co-occurring mental and substance use disorders: the neurobiological effects of chronic stress . American Journal of Psychiatry , 162 (8 ). 1483 –1493 . 10.1176/appi.ajp.162.8.1483 16055769 
+Cappelletti S , Daria P , Sani G , &amp; Aromatario M  (2015 ). Caffeine: Cognitive and physical performance enhancer or psychoactive drug? . Current Pharmacology , 13 (1 ). 71 –88 . doi:10.2174/1570159X13666141210215655 
+Centers for Disease Control and Prevention . (2018 ). National health and nutrition and examination survey . In National Center for Health Statistics 
+Retrieved from http://www.cdc.gov/nchs/nhanes.htm 
+Food and Drug Administration . (2013 ). Caffeine and kids: FDA takes a closer look . In U.S. Department of Health and Human Services 
+Retrieved from https://www.fda.gov/ForConsumers/ConsumerUpdates/ucm350570.htm 
+Grosso G , Micek A , Castellano S , Pajak A , &amp; Galvano F  (2015 ). Coffee, tea, caffeine and risk of depression: A systematic review and dose-response meta-analysis of observational studies . Molecular Nutrition &amp; Food Research , 60 (1 ). 223 –234 . doi: 10.1002/mnfr.201500620 26518745 
+Jin M , Yoon C , Ko H , Kim H , Kim A , Moon H , &amp; Jung S  (2016 ). The relationship of caffeine intake with depression, anxiety, stress, and sleep in Korean adolescents . Korean Journal of Family Medicine , 37 (2 ). 111 –116 . 10.4082/kjfm.2016.37.2.111 27073610 
+Kendler KS , Myers J , Gardner CO  (2006 ). Caffeine intake, toxicity and dependence and lifetime risk for psychiatric and substance use disorders: An epidemiologic and co-twin control analysis . Psychology and Medicine , 36 
+1717 –1725 .
+Lucas M , Mirzaei F , Pan A , Okereke OI , Willett WC , O’Reilly ÉJ , Koenen K , Ascherio A  (2011 ). Coffee, caffeine, and risk of depression among women . Archives of Internal Medicine , 171 (17 ):1571 –1578 . doi: 10.1001/archinternmed.2011.393 21949167 
+Manea L , Gilbody S , &amp; McMillan D  (2012 ). Optimal cut-off score for diagnosing depression with the Patient Health Questionnaire (PHQ-9): a meta-analysis . Canadian Medical Association Journal , 184 (3 ). E191 –196 . doi: 10.1503/cmaj.110829 22184363 
+Mitchell DC , Knight CA , Hockenberry J , Teplansky R , &amp; Hartman J  (2014 ). Beverage caffeine intakes in the U.S . Food and Chemical Toxicology , 63 
+136 –142 . doi:10.1016/j.fct.2013.10.042 24189158 
+National Center for Biotechnology Information . (2017 ). AAMU . In National Institutes of Health 
+Retrieved from https://pubchem.ncbi.nlm.nih.gov/compound/aamu#section=Top 
+National Health and Nutrition Examination Survey . (2014 ). 2009–2010 data documentation, codebook, and frequencies caffeine &amp; caffeine metabolites – urine (CAFE_F) . Retrieved from https://wwwn.cdc.gov/Nchs/Nhanes/2009-2010/CAFE_F.htm 
+Okuro M , Fujiki N , Kotorii N , Ishimaru Y , Sokoloff P , &amp; Nishino S  (2010 ). Effects of paraxanthine and caffeine on sleep, locomotor activity, and body temperature in orexin/ataxin-3 transgenic narcoleptic mice . Sleep , 33 (7 ). 930 –942 .20614853 
+Richards G  &amp; Smith AP  (2014 ). Caffeine consumption and self-assessed stress, anxiety, and depression in secondary school children . Journal of Pharmacology , 29 (12 ). 1236 –1247 . doi: 10.1177/0269881115612404 
+Smith AP  (2009 ). Caffeine, cognitive failures and health in a non-working community sample . Human Psychopharmacology 
+24 (1 ). 29 –34 . doi: 10.1002/hup.991 19016251 
+United States Department of Agriculture . (n.d. ). Food surveys research group : Beltsville, MD 
+Retrieved from http://www.ars.usda.gov/ba/bhnrc/fsrg 
+United States Department of Agriculture . (n.d. ). Nutrient data laboratory : Beltsville, MD 
+Retrieved from http://www.ars.usda.gov/nutrientdata 
+Willett WC , Howe GR , Kushi LH  (1997 ). Adjustment for total energy intake in epidemiologic studies . American Journal of Clinical Nutrition , ;65 (4 Suppl ):1220S –1228S ; discussion 1229S-1231S .9094926 
+Yu ZM , Parker L , &amp; Dummer TJB  (2017 ). Associations of coffee, diet drinks, and non-nutritive sweetener use with depression among populations in Eastern Canada . Scientific Reports , 7 
+1 –10 . doi: 10.1038/s41598-017-06529-w 28127051 
+

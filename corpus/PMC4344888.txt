@@ -1,0 +1,398 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10157392039705J Acad Nutr DietJ Acad Nutr DietJournal of the Academy of Nutrition and Dietetics2212-267225541065434488810.1016/j.jand.2014.10.018NIHMS650700ArticleMonitoring Changes in the Nutritional Content of Ready-To-Eat Grain-Based Dessert Products Manufactured and Purchased Between 2005 and 2012 Mathias Kevin C. MSdoctoral studentUniversity of North Carolina at Chapel Hill, 137 E Franklin St., Room 6202, Chapel Hill, NC 27516, Fax: (919) 966-9159, kmathias@unc.eduWen Shu Ng, PhDResearch Assistant ProfessorUniversity of North Carolina at Chapel Hill, 137 E Franklin St., Room 6506, Chapel Hill, NC 27516, Tel: (919)-962-6188, Fax: (919) 966-9159, shuwen@unc.eduPopkin Barry PhDKenan W.R. Jr.Distinguished ProfessorUniversity of North Carolina at Chapel Hill, 137 E Franklin St., Room 6311, Chapel Hill, NC 27516, Tel: (919)-962-6139, Fax: (919) 966-9159, popkin@unc.eduAuthor to whom correspondence and reprint requests should be addressed: Barry M. Popkin, Ph.D., 137 E Franklin Street, Room 6311, Chapel Hill, NC 27516-3997, Phone: 919-962-6139, Fax: 919-966-9159, popkin@unc.edu24 12 2014 22 12 2014 3 2015 01 3 2016 115 3 360 368 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+Monitoring changes in the nutritional content of food/beverage products and shifts in consumer purchasing behaviors is needed to measure the effectiveness of efforts by both food manufacturers and policy makers to improve dietary quality in the United States.
+
+Objective
+Examine changes in the nutritional content (e.g., energy, saturated fat, and sugar density) of Ready-To-Eat (RTE) Grain-Based Dessert (GBD) products manufactured and purchased between 2005 and 2012.
+
+Design
+Nutrition facts panel information from commercial databases was linked to RTE GBD products purchased by households (n=134,128) in the Nielsen Homescan longitudinal dataset 2005–2012.
+
+Statistical Analysis
+Linear regression models were utilized to examine changes in the energy, saturated fat, and sugar density of RTE GBD products manufactured in each year between 2005 and 2012. Random effects models controlling for demographics, household composition/size, and geographic location were utilized to examine changes in household purchases of RTE GBD products (grams) and the average energy, saturated fat, and sugar density of RTE GBD products purchased.
+
+Results
+The saturated fat density (g/100 g) of RTE GBD products increased significantly from 6.5 ± 0.2 in 2005 to 7.3 ± 0.2 and 7.9 ± 0.2 for pre-existing and newly introduced products in 2012, respectively. Between 2005 and 2012, the energy density (kcal/100 g) of RTE GBD products purchased decreased significantly from 433 ± 0.2 to 422 ± 0.2, the saturated fat density (g/100 g) of products purchased increased significantly from 6.3 ± 0.01 to 6.6 ± 0.01, the sugar density (g/100 g) of products purchased decreased significantly from 32.4 ± 0.03 to 31.3 ± 0.02, and household purchases of RTE GBD products (grams) decreased by 24.1 ± 0.4%.
+
+Conclusions
+These results highlight an opportunity for both food manufacturers and public health officials to develop new strategies to shift consumer purchases towards products with lower energy, saturated fat, and sugar densities in addition to decreasing overall purchases of RTE GBDs.
+
+consumer behaviordiet methodologyenergy densityfood purchasesfood manufacturers
+   Introduction
+The obesity epidemic1,2 has resulted in an interest among food retailers3 and food manufacturers4,5 to develop strategies to reduce excess caloric intake and improve dietary quality in the United States (US). In 2005, The Institute of Medicine released a report on food marketing to children recommending shifts towards new and reformulated youth-oriented products with less energy, fat, salt and added sugar.6 Recent large scale initiatives by Walmart3 and the Healthy Weight Commitment Foundation,5 whose members include 16 of the nation's leading food manufacturers, demonstrate intent within the food industry to improve dietary quality in the US; however, current methods to monitor changes to manufactured food products and consumers’ responses to these changes are limited.
+
+Grain-Based Dessert (GBD) products (e.g., cakes, cookies and pies) were chosen for this study because they constitute 7.2% of calories in the US diet and are the largest or one of the largest contributors of calories to children, adolescents, and adults.7–10 GBDs are also the largest source of solid fats (10.8%), and the 2nd largest source of added sugar (12.9%);11 both of which are targeted by the 2010 Dietary Guidelines for Americans as components of foods to limit as a strategy to control caloric intake, manage body weight, and prevent increased risk of many chronic diseases. A complexity with researching the entire GBD category is that dry cake/brownie mixes, frozen/refrigerated sweet-rolls, and Ready-To-Eat (RTE) products such as cookies are all categorized as GBDs. This analysis focused on RTE GBD products so that all products analyzed were in the same format (i.e., all products were in the form that is consumed).
+
+Reformulation of existing products or new product development by food manufacturers can provide products with lower concentrations of saturated fat, sugar, salt and energy to consumers. Additional tactics to modify purchases include public health campaigns, taxation/subsidies, and shifts in marketing strategies to promote healthier products. With the introduction of front-of-package labeling systems rating the healthfulness of products12–14 and initiatives to decrease marketing of less healthy products to children,4 monitoring changes in consumer purchases is essential to determine the effectiveness of these initiatives. Currently, researchers utilize the National Health and Nutrition Examination Surveys (NHANES) to examine changes in intake of food/beverage groups or nutrients across time. A difficulty with measuring changes in the nutritional content of foods/beverages manufactured and purchased using NHANES is that with the exception of RTE cereals,15 and a few other items, the nutrition information for the products reported consumed is not at the brand-level.16 An alternative approach taken by this analysis was to use the Nutrition Facts Panel (NFP) information from consumer packaged foods/beverages purchased by consumers in the US. Utilizing the NFP information from products purchased allows for a more detailed examination of changes to the nutritional content of products manufactured and monitoring if consumers are shifting purchases within categories towards products with lower concentrations of energy, saturated fat, and sugar. For this study, two levels of analysis using NFP information were conducted. The product level analysis reported distributions of energy, saturated fat, and sugar density of RTE GBD products manufactured in 2005 through 2012. The purchase level analysis determined if households purchased fewer RTE GBD products across time or purchased RTE GBD products with lower energy, saturated fat, or sugar densities.
+
+Methods
+Household Sample
+The sample of households (n=134,128) was obtained from the Nielsen Homescan panel (2005–2012), a longitudinal dataset on household purchases of foods/beverages from supermarkets, grocery stores, convenience stores, and other food retail outlets.5, 17–20 A convenience sample of households is continually recruited by Nielsen using direct mailing and Internet advertising. On average, households in the panel between 2005 and 2012 provided 14 quarters (quarter is equivalent to 3 months) of purchase data. Households selected to participate were geographically dispersed with a total of 76 markets included in the analysis. Each participating household was provided with a scanner to record the Universal Product Code (UPC) of each purchase and quantity of each item. Purchases from each household were aggregated for each quarter. Reports from single person households with food/beverage purchases less than $45 per quarter and households with 2 or more individuals with food/beverage purchases less than $135 per quarter were excluded from the analysis. Based on this criteria, 2.8% of the quarterly reports by households were excluded. The characteristics of the final household sample in 2005 and 2012 are provided in (Table 1).
+
+Ready-To-Eat Grain-Based Dessert Definition
+Ready-to-eat products such as cakes, cookies, pies, pastries, sweet strudels, doughnuts, granola/yogurt bars, and graham crackers were classified as RTE GBDs. Products that are specifically grouped with breakfast products such as toaster pastries and breakfast bars were excluded. Dry mixes and frozen/refrigerated products were excluded because information on the final product consumed was not available. Products from service outlets (e.g., restaurants and bakeries) and products baked on location at food retail stores were not included in this analysis.
+
+Nutrition Facts Panel Information
+Each year, commercial data sources5 collected up-to-date NFP information on a new sample of products from the RTE GBD product population. The UPC for a product purchased by a household in Homescan was linked with NFP information obtained from the commercial databases with the exact UPC. If NFP information was not available for a product in the year it was purchased then NFP information from the subsequent year or the next closest previous year was assigned. For RTE GBD products without an exact UPC match, NFP information was obtained by a series of steps: 1) match NFP information from a product of the same brand and product description, but different size package; 2) match NFP information by brand, product type, and similar attributes in the product description; 3) match NFP information based on similar product type and product description. Products with infeasible NFP information (e.g., ≥100% sugar) were removed from all analyses utilizing NFP information (1.4% of products with NFP information across all years had infeasible NFP information). It should be noted that in some analyses, not all of the steps mentioned above to match NFP information to RTE GBD products were utilized; rationalization for these decisions is provided below.
+
+For the product level analysis only exact UPC matches with NFP information updated in the same year the product was purchased were utilized. While these restrictions minimized the sample of products with available NFP, using only up-to-date NFP information combined with repeated sampling of RTE GBD products in each year between 2005 and 2012 increased the likelihood of detecting changes in the distribution of RTE GBD products across time. In order to examine new product development, the products with updated 2012 NFP information were divided into two categories: 1) pre-existing products prior to 2012; 2) new products that only existed in 2012. New products in 2012 were identified as UPCs that were not purchased by any household in any year between 2000 and 2011.
+
+For the purchase level analyses, all NFP information available was assigned to the products to maximize the amount of products purchased with NFP information. The number of RTE GBD products with NFP information in the product level and purchase level analyses; the percent of total purchases those products represent; and the total number of unique RTE GBD products manufactured in each year are presented in (Table 2). It should be noted that the total number of unique RTE GBD products with UPCs available to consumers each year might be underestimated if a particular product was not purchased or scanned by any household in the sample in a given year.
+
+Statistical Analysis
+All analyses were conducted using Stata (version 12.0, 2011, StataCorp, College Station, TX) with a significance criteria of (P&lt;0.05). This secondary data analysis was deemed exempt by the University of North Carolina at Chapel Hill Institutional Review Board.
+
+Product Level Analysis
+Each year, the percentage of products with available up-to-date NFP information from commercial data sources differed between types of RTE GBD products (e.g., in 2005, 5% of cookie products had NFP information versus 9% of granola bars). Inverse probability weights for having NFP information were applied to each type of RTE GBD in each year so that the distribution of products with NFP information reflected the distribution of all RTE GBD products manufactured. The distribution of RTE GBD products manufactured in 2005 through 2012 was separately analyzed for energy density (kcal / 100 g), saturated fat density (g / 100 g), and sugar density (g / 100 g). In order to calculate percentiles that represent the distribution of RTE GBD products manufactured, replicates of products within each type of RTE GBD corresponding to the inverse probability weight were generated. In a separate analysis, linear regression models applying the inverse probability weights were used to determine if the mean energy, saturated fat, or sugar density of RTE GBD products changed over time.
+
+Purchase Level Analysis
+For each household, the quarterly reports were averaged within each year. Random effects models, clustering at the household level, were used to examine changes over time (2005–2012) of RTE GBD purchases (grams) and the average energy, saturated fat, and sugar density of RTE GBD products purchased by households. Due to the positive skewness in the distribution of RTE GBDs purchased (grams), log-linear models (logged outcome) were utilized resulting in interpreting coefficients as percent change rather than absolute change. Across all years, the average percentage of non-consumers was 2.2%, with a range of 1.93–2.44%. Given the similarity in percentage of non-consumers across years, non-consumers (zeros) were excluded from the log-linear models. Covariates listed in (Table 1) were included in all models along with dummy variables for year and the 76 markets. Household composition and household size was controlled for by including sex specific variables for the number of individuals in the household belonging to particular age groups. A second set of models including interactions between year (dummy variable) and the covariates in (Table 1) were analyzed to determine if changes across time were different between household characteristics. Due to the large sample size, both statistical and meaningful differences needed to be considered; therefore, interactions were only reported if a difference in change over time between household characteristics was greater than 5% and statistically significant. To provide context for the magnitude of change in the log-linear models, survey commands applying sampling weights were used to generate estimates of nationally representative average per capita daily purchases for each year.
+
+Results
+Product Level Results
+Significant differences in the average energy and sugar density of RTE GBD products available to consumers in 2005 and 2012 were not observed (Table 3). The average saturated fat density (g / 100 g) of RTE GBD products increased significantly from 6.5 ± 0.2 in 2005 to 7.3 ± 0.2 and 7.9 ± 0.2 for pre-existing RTE GBD products and new RTE GBD products in 2012, respectively. The average saturated fat density was significantly higher in all years following 2005 except in 2007.
+
+Purchase Level Results
+The average energy density (kcal / 100 g) of RTE GBD products purchased decreased significantly from 433 ± 0.2 in 2005 to 422 ± 0.2 in 2012 (Table 4). The average saturated fat density (g / 100 g) of RTE GBD products purchased increased significantly from 6.3 ± 0.01 in 2005 to 6.6 ± 0.01 in 2012. The average sugar density (g / 100 g) of RTE GBD products purchased decreased significantly from 32.4 ± 0.04 in 2005 to 31.3 ± 0.02 in 2012. Households significantly decreased their purchases of RTE GBD products by 24.1 ± 0.4% from 2005 to 2012 (Table 5). A significant interaction (p&lt;0.05) between household composition and year with respect to percent change in RTE GBD purchases was shown. Significant differences in changes over time between singleton males, singleton females, and multiple adults without children were not observed (data not shown); therefore, those three groups were aggregated to form a reference group of all households without children. Households without children decreased their purchases of RTE GBD products from 2005 to 2012 by 21 ± 1%, whereas, households with only 2–11 year olds and households with only 12–18 year olds decreased by 28 ± 2%, and 36 ± 1%, respectively (Table 6).
+
+Discussion
+The average energy and sugar density of RTE GBD products manufactured did not change between 2005 and 2012, whereas, an increase in the average saturated fat density of RTE GBD products was shown. Consumers purchased RTE GBD products with lower energy and sugar densities, and RTE GBD products with higher saturated fat density. Overall purchases of RTE GBD products decreased between 2005 and 2012.
+
+Previous studies have examined changes in the nutritional content of items sold at fast-food and restaurant chains over time.21,22 This study demonstrates a new approach to estimate changes in the distribution of RTE GBD products manufactured in the US based on energy, saturated fat, and sugar densities with the intention of providing measures on the healthfulness of these products to public health officials, food manufacturers, and food retailers. The Grocery Manufacturers Association reported that reformulations to food/beverage products reducing energy, saturated fat, and/or sugar occurred between 2002 and 2009.23 The results from this study did not detect decreases in the mean energy, saturated fat, or sugar density of RTE GBD products; indicating that larger wide-scale efforts are needed among all manufacturers of RTE GBDs. While an increase in the density of saturated fat in RTE GBD products was shown, this increase coincides with the mandatory labeling of trans fats on the NFP label effective in 2006.24 Product reformulations lowering trans fats have been shown to increase the saturated fat content of products.25 A limitation of this analysis is that listing of the trans fats content on NFP labels is limited prior to 2006; therefore, it is not possible using this dataset to determine if the increase in saturated fat density was a result of reformulations to remove or decrease trans fats in RTE GBD products. Introduction of new products is another strategy to improve the healthfulness of products available to consumers. The results from this analysis show that the new RTE GBD products released in 2012 did not have lower energy, saturated fat, or sugar densities than the products already existing on the market. Future reformulations and development of new products should focus on the product categories that are the largest sources of energy, saturated fat, and sugars.
+
+The purchase level analyses indicated that between 2005 and 2012, consumers made shifts towards less energy and sugar dense RTE GBD products and purchased products with higher saturated fat densities. While the decreases in energy and sugar density of RTE GBD products purchased is encouraging, the magnitude of the decreases (&lt;4%) indicates that efforts to promote consumption of RTE GBD products with lower energy, saturated fat, and sugar density have had limited effectiveness. Front-of-package labeling systems12–14 are currently in use or being developed to assist consumers with identifying healthier foods and have been shown to promote development of healthier products by food manufacturers.26 Introduction of shelf-tag nutrition labeling systems such as the Guiding Stars Program increased demand for RTE cereals that were considered more nutritious.27 In order to determine the effectiveness of front-of-package labeling systems and other initiatives to improve dietary quality in the US it is important to measure changes both between product categories (e.g., shifts from RTE GBD to fruits) and within product categories (e.g., shifts from energy dense RTE GBDs to lower energy dense RTE GBDs). The new approach presented in this paper addresses a limitation of current dietary surveys by using NFP information from store purchases to identify if consumers are shifting within product categories to products with lower energy, saturated fat, or sugar densities. The results from this study identify an opportunity to develop new strategies to shift purchases towards RTE GBD products with lower energy, saturated fat, and sugar density in addition to decreasing overall purchases of RTE GBDs. A potential concern of shifting purchases of RTE GBD towards products with lower energy, saturated fat or sugar densities is that consumers could potentially purchase more RTE GBD products if they are perceived to be healthier. Stealth reformulations by which changes in the product composition are conducted unbeknownst to consumers is one option to circumvent this issue.28 Alternatively, the lack of evidence that reformulations to RTE GBD products occurred might be due to consumer preferences for products with higher energy, saturated fat, or sugar densities. Future studies are need to understand how consumers respond to product reformulations or changes in marketing strategies; these potential issues highlight the importance of monitoring both the changes in the nutritional content of purchases as well as the overall purchases of RTE GBD products.
+
+All household compositions decreased purchases of RTE GBD products between 2005 and 2012, with households with 12–18 year olds having the largest decreases. This decrease in purchases was also reflected by decreases in GBD intake among 2–18 year olds in NHANES between 2005 and 2010.7 Decreases in marketing of baked goods to children, adolescents, and all consumers were reported between 2006 and 2009.29 A difficulty with attributing changes in marketing to decreases in purchases is that both occurred during the recession (2007–2009) and households in the Homescan panel have been consistently decreasing purchases of foods and beverages since 2003.30 Continual monitoring of both the nutritional content of products manufactured and purchased by consumers is needed to determine the effectiveness of future efforts to shift consumer purchases towards healthier products.31,32
+
+A limitation of this study is that changes in the package size of products and shelf-space given to products cannot be monitored using information from Nielsen or NFP labels. Future research on changes in package size and shelf-space in stores is needed to further examine the efforts of food manufacturers to improve dietary quality and reduce excess caloric intake in the US. Another limitation is the low percentage of up-to-date NFP information for RTE GBD products each year; however, the similarities in the distributions from the eight different samples between 2005 and 2012 further support the findings that only small changes have been made to RTE GBD products with respect to energy, saturated fat, and sugar density. It is important to note that reformulations and/or release of new healthier products may have been conducted by individual companies; however, the results of this analysis focused on the RTE GBD market as a collective to best capture the food environment that consumers experience. For the household level analysis, it has been previously reported that the Homescan sample does not perfectly match the US population based on demographics, and that males and individuals with low education are underrepresented.33 Ideally, the sample should represent the population of US food/beverage shoppers rather than the overall US population. Without knowledge of the true US food/beverage shopper population, generalizing the results from this sample of shoppers should be made with caution. Finally, given that households volunteered to participate, there is always the possibility of participation bias;33 therefore, when possible, it is important to compare the results of Homescan with other dietary surveys (e.g., NHANES).
+
+In conclusion, the results from both the product and purchase level analyses highlight an opportunity for both food manufactures and public health officials to work together to develop strategies to shift consumer purchases towards products with lower energy, saturated fat, and sugar densities in addition to decreasing overall purchases of RTE GBDs.
+
+We thank the Robert Wood Johnson Foundation (grants 67506, 68793, 70017, 71837), the National Institutes of Health (grant R01DK098072) and the Carolina Population Center (grant 5 R24 HD050924) for financial support. The authors wish to thank Dr. Donna Miles for exceptional assistance with the data management and Ms. Frances L. Dancy for administrative assistance.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Table 1 Characteristics of the Nielsen Homescan household sample in 2005 and 2012
+
+	2005	2012	
+
+	
+Household Characteristics	n	Weighted Percent of Sample	n	Weighted Percent of Sample	
+Race/Ethnicity	
+ Non-Hispanic White	40,102	74	47,259	71	
+ Non-Hispanic Black	4,390	11	5,548	11	
+ Non-Hispanic Other Races	1,906	4	2,894	6	
+ All Hispanics	2,968	10	3,095	12	
+Household Income as % Poverty Level	
+ 0% – 185%	10,536	26	12,709	30	
+ 186% – 300%	12,022	20	14,706	24	
+ &gt;300%	26,808	54	31,381	46	
+Male Head of Household Education	
+ &lt; High school	2,422	6	2,072	5	
+ = High school	9,615	25	10,442	23	
+ &lt; High school	24,077	40	31,036	42	
+ No male head of household	13,252	29	15,246	30	
+Female Head of Household Education	
+ &lt; High school	1,638	4	1,272	3	
+ = High school	12,746	31	12,753	27	
+ &lt; High school	30,068	46	39,132	49	
+ No female head of household	4,914	18	5,639	20	
+Household Composition	
+ Singleton (male)	3,837	12	4,168	12	
+ Singleton (female)	9,199	14	10,299	13	
+ Multiple adults no children	23,588	37	30,801	40	
+ Adult(s) with children- (only 2–11 year olds)	4,759	17	5,268	16	
+ Adult(s) with children- (only 12–18 year olds)	5,200	13	5,531	12	
+ Adult(s) with children- (2–18 year olds)a	2,783	8	2,729	7	
+Values are the number of households and percent of the sample after sampling weights were applied to create a nationally representative sample of households in the United States.
+
+a Excludes households with only 2–11 year olds and households with only 12–18 year olds.
+
+Table 2 Ready-to-eat Grain-Based Dessert (GBD) products with available Nutrition Facts Panel (NFP) information for the product and purchase level analyses in 2005–2012
+
+Product Level Analysisa	Purchase Level Analysisb	
+
+	
+Year	GBD Products with NFP	% of Total GBD Products	Total GBD Productsc	Year	GBD Products with NFP	% of Total GBD Products	% of Total GBD Purchases (grams)d	
+2005	1,038	3.8%	27,587	2005	15,942	58%	87%	
+2006	1,537	5.4%	28,347	2006	16,537	58%	87%	
+2007	1,391	4.9%	28,181	2007	16,608	59%	88%	
+2008	872	3.1%	27,994	2008	17,105	61%	89%	
+2009	1,208	4.5%	26,832	2009	16,892	63%	91%	
+2010	1,610	5.9%	27,276	2010	17,147	63%	91%	
+2011	1,131	4.4%	25,551	2011	16,133	63%	89%	
+2012e	920	4.5%	20,627	2012	17,428	64%	88%	
+2012f	583	8.6%	6,805	-	-	-	-	
+Values are the number of products and the percentage of total products or percentage of total purchases (grams) those products with NFP information represent.
+
+a For the product level analysis examining the energy, saturated fat, and sugar density of manufactured GBD products, only GBD products with available up-to-date NFP information in a given year were included.
+
+b For the purchase level analyses examining changes over time in the average energy, saturated fat, or sugar density of GBD purchases, all NFP information available was assigned to the GBD products to maximize the number of GBD products purchased with NFP information.
+
+c Total number of unique manufactured GBD products with universal product codes (barcodes).
+
+d Percent of total purchases (grams) was calculated as follows: grams of GBD products purchased with NFP information divided by the total grams of GBD products purchased.
+
+e GBD products available for purchase in 2012 and prior to 2012.
+
+f GBD products newly introduced to consumers in 2012.
+
+Table 3 Distributions of the ready-to-eat Grain-Based Dessert (GBD) products available to consumers by energy, saturated fat, and sugar density in 2005–2012
+
+Energy Density (kcal / 100 g) of GBD Products
+	
+Percentiles
+	
+Year	5th	10th	25th	50th	75th	90th	95th	Meana	
+2005	246	314	378	424	469	500	529	411 ± 4	
+2006	252	307	368	423	465	508	537	411 ± 3	
+2007	246	293	358	413	462	512	535	404 ± 4	
+2008	251	300	362	423	467	506	533	408 ± 3	
+2009	256	320	370	423	462	500	529	410 ± 3	
+2010	250	300	363	417	466	504	527	408 ± 3	
+2011	235	299	362	415	463	500	522	405 ± 4	
+2012b	226	292	363	417	471	514	536	412 ± 7	
+2012c	235	306	370	424	470	510	529	413 ± 5	
+Saturated Fat Density (g / 100 g) of GBD Products
+	
+Year	5th	10th	25th	50th	75th	90th	95th	Meana	
+2005	0.1	1.8	3.5	5.5	8.8	12.8	15.0	6.5 ± 0.2	
+2006	0.0	1.6	3.8	6.3	9.7	14.1	16.7	7.2 ± 0.1*	
+2007	0.0	1.5	3.5	6.0	9.0	14.1	16.7	6.9 ± 0.2	
+2008	0.0	1.5	3.7	6.4	9.6	14.1	16.6	7.2 ± 0.2*	
+2009	0.0	1.8	4.0	6.6	10.0	13.4	16.5	7.3 ± 0.2*	
+2010	0.0	1.6	4.1	7.0	10.1	14.1	16.6	7.5 ± 0.1*	
+2011	0.0	1.8	3.9	7.0	10.1	13.0	15.0	7.2 ± 0.2*	
+2012b	0.0	1.3	3.5	6.4	10.1	14.8	17.5	7.3 ± 0.2*	
+2012c	0.0	2.1	4.4	7.1	10.6	14.5	17.6	7.9 ± 0.2*	
+Sugar Density (g / 100 g) of GBD Products
+	
+Year	5th	10th	25th	50th	75th	90th	95th	Meana	
+2005	2.7	13.8	24.1	32.1	39.7	44.7	47.2	30.9 ± 0.5	
+2006	0.0	11.0	23.0	31.3	38.8	44.1	47.0	29.6 ± 0.4*	
+2007	2.6	13.6	22.6	30.1	37.0	43.5	47.0	29.3 ± 0.5*	
+2008	8.7	17.6	24.0	30.1	37.7	43.8	45.9	30.1 ± 0.5	
+2009	7.1	15.9	24.7	31.3	38.2	44.3	47.6	30.6 ± 0.4	
+2010	6.7	15.0	22.5	30.4	38.5	44.3	48.8	30.0 ± 0.4	
+2011	10.5	17.6	24.4	31.0	38.8	44.2	47.0	30.7 ± 0.5	
+2012b	10.2	19.3	25.4	31.4	38.8	44.6	48.5	31.2 ± 0.6	
+2012c	6.6	16.1	24.7	32.4	40.0	45.7	48.6	31.5 ± 0.7	
+a Means were generated from linear regression model coefficients using the STATA post-estimation –margins- command.
+
+b products available for purchase in 2012 and prior to 2012.
+
+c products newly introduced to consumers in 2012.
+
+* Indicates a significant difference (P&lt;0.05) from 2005.
+
+Table 4 The average energy, saturated fat, and sugar density of ready-to-eat Grain-Based Dessert (GBD) products purchased by households in 2005–2012
+
+Year	Energy Density (kcal / 100 g of GBD) ± SE	Saturated Fat Density (g / 100 g of GBD) ± SE	Sugar Density (g / 100 g of GBD) ± SE	
+2005	433 ± 0.2	6.3 ± 0.01	32.4 ± 0.03	
+2006	429 ± 0.2*	6.4 ± 0.01*	32.3 ± 0.02*	
+2007	423 ± 0.2*	6.3 ± 0.01*	31.8 ± 0.02*	
+2008	423 ± 0.2*	6.2 ± 0.01*	31.5 ± 0.02*	
+2009	421 ± 0.2*	6.4 ± 0.01*	31.1 ± 0.02*	
+2010	423 ± 0.2*	6.5 ± 0.01*	31.2 ± 0.02*	
+2011	422 ± 0.2*	6.5 ± 0.01*	30.9 ± 0.02*	
+2012	422 ± 0.2*	6.6 ± 0.01*	31.3 ± 0.02*	
+Means ± SE were generated using the STATA post-estimation –margins- command from the coefficients generated by the random effects models. All models were adjusted by the following household characteristics: race/ethnicity, federal poverty status, education, household composition/size, and geographical location.
+
+* Indicates a significant difference (P&lt;0.05) from 2005.
+
+Table 5 Nationally representative average per capita daily ready-to-eat Grain-Based Dessert (GBD) purchases, and the percent change in ready-to-eat GBD purchases from 2005–2012 using a log-linear random effects model
+
+Year	GBD Purchasesa (grams/person/day)	% Changeb ± SE	
+2005	18.6	Reference	
+2006	18.5	−3.2 ± 0.4*	
+2007	18.0	−8.3 ± 0.4*	
+2008	17.5	−13.2 ± 0.4*	
+2009	16.9	−16.7 ± 0.4*	
+2010	16.8	−19.1 ± 0.4*	
+2011	15.7	−26.1 ± 0.4*	
+2012	15.9	−24.1 ± 0.4*	
+a Per capita GBD purchases (grams/person/day) using household sampling weights were calculated as follows: household average quarterly purchases/household size/91 days.
+
+b The coefficients of the log-linear model are interpreted as the percent change in purchases using 2005 as the reference year and were adjusted by covariates for race/ethnicity, federal poverty status, education, household composition/size and geographical location.
+
+* Indicates a significant difference (P&lt;0.05) in the percent change in GBD purchases from 2005.
+
+Table 6 The percent decrease in grams of ready-to-eat Grain-Based Dessert (GBD) products purchased from 2005–2012 between households with and without children using a log-linear random effects model
+
+	2005	2006	2007	2008	2009	2010	2011	2012	
+
+	
+% decrease from 2005 ± SE	
+Households without children	Ref	−3 ± 1	−8 ± 1	−12 ± 1	−15 ± 1	−18 ± 1	−24 ± 1	−21 ± 1	
+Adult(s) with children- (only 2–11 year olds)	Ref	−3 ± 1	−8 ± 1	−17 ± 1*	−22 ± 1*	−23 ± 2*	−30 ± 2*	−28 ± 2*	
+Adult(s) with children- (only 12–18 year olds)	Ref	−4 ± 1	−12 ± 1*	−17 ± 1*	−20 ± 1*	−24 ± 1*	−35 ± 1*	−36 ± 1*	
+Adult(s) with children- (2–18 year olds)a	Ref	−5 ± 1	−13 ± 1*	−18 ± 1*	−24 ± 2*	−25 ± 2*	−36 ± 2*	−35 ± 2*	
+a Excludes household with only 2–11 year olds and households with only 12–18 year olds. A significant interaction between household composition and year was observed using a random effects log-linear model with covariates for race/ethnicity, federal poverty status, education, and geographical location of the households. The percent change ± SE were generated using the STATA post-estimation –margins- command to estimate the marginal effect of year on the change from 2005 within each household composition.
+
+* Indicates a significant difference (P&lt;0.05) between the percent decrease in purchases of GBD (grams) from 2005 for a particular household composition as compared to households without children. Statistical significance was determined from the interaction term coefficients in the random effects log-linear model.
+
+
+   1 
+            Ogden CL  
+            Carroll MD  
+            Curtin LR  
+            Lamb MM  
+            Flegal KM  
+           Prevalence of high body mass index in US children and adolescents, 2007–2008 JAMA 2010 303 3 242 9 20071470 
+2 
+            Flegal KM  
+            Carroll MD  
+            Kit BK  
+            Ogden CL  
+           Prevalence of obesity and trends in the distribution of body mass index among US adults, 1999–2010 JAMA 2012 307 5 491 7 22253363 
+3 Walmart Launches Major Initiative to Make Food Healthier and Healthier Food More Affordable 
+            http://news.walmart.com/news-archive/2011/01/20/walmart-launches-major-initiative-to-make-food-healthier-healthier-food-more-affordable 
+           Accessed October 19, 2013 
+4 Better Business Bureau Children's Food and Beverage Advertising Initiative 
+            http://www.bbb.org/us/about-the-initiative/ 
+           Accessed October 19, 2013 
+5 
+            Slining MM  
+            Ng SW  
+            Popkin BM  
+           Food companies' calorie-reduction pledges to improve U.S. diet Am J Prev Med 2013 44 2 174 84 23332336 
+6 Institute of Medicine Food Marketing to Children and Youth: Threat or Opportunity? 
+            http://www.iom.edu/Reports/2005/Food-Marketing-to-Children-and-Youth-Threat-or-Opportunity.aspx 
+           Accessed October 19, 2013 
+7 
+            Slining MM  
+            Mathias KC  
+            Popkin BM  
+           Trends in food and beverage sources among US children and adolescents: 1989–2010 J Acad Nutr Diet 2013 113 12 1683 94 23916972 
+8 
+            Reedy J  
+            Krebs-Smith SM  
+           Dietary sources of energy, solid fats, and added sugars among children and adolescents in the United States J Acad Nutr Diet 2010 110 10 1477 84 
+9 
+            Keast DR  
+            Fulgoni VL 3rd  
+            Nicklas TA  
+            O'Neil CE  
+           Food sources of energy and nutrients among children in the United States: National Health and Nutrition Examination Survey 2003–2006 Nutrients 2013 5 1 283 301 23340318 
+10 
+            Huth PJ  
+            Fulgoni VL 3rd  
+            Keast DR  
+            Park K  
+            Auestad N  
+           Major food sources of calories, added sugars, and saturated fat and their contribution to essential nutrient intakes in the U.S. diet: data from the national health and nutrition examination survey (2003–2006) Nutr J 2013 12 1 116 23927718 
+11 U.S. Department of Agriculture and U.S. Department of Health and Human Services Dietary Guidelines for Americans, 2010 7 Washington, DC U.S. Government Printing Office 12 2010 3 
+12 
+            Roodenburg AJ  
+            Popkin BM  
+            Seidell JC  
+           Development of international criteria for a front of package food labelling system: the International Choices Programme Eur J Clin Nutr 2011 65 11 1190 200 21697817 
+13 
+            Lupton JR  
+            Balentine DA  
+            Black RM  
+            Hildwine R  
+            Ivens BJ  
+            Kennedy ET  
+            Packard PT  
+            Sperber BR  
+            Steffen D  
+            Story M  
+           The Smart Choices front-of-package nutrition labeling program: rationale and development of the nutrition criteria Am J Clin Nutr 2010 91 4 1078S 89S 20181813 
+14 Grocery Manufacturers Association and Food Marketing Institute Facts Up Front 
+            http://www.factsupfront.org 
+           Accessed November 5, 2013 
+15 
+            Thomas RG  
+            Pehrsson PR  
+            Ahuja JKC  
+            Smieja E  
+            Miller KB  
+           Recent trends in ready-to-eat breakfast cereals in the US Procedia Food Science 2013 2 1 20 6 
+16 National Health and Nutrition Examination Survey Dietary Interview: Description File – Food Codes 
+            http://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Dietary&amp;CycleBeginYear=2009 
+           Accessed July 10, 2014 
+17 
+            Ng SW  
+            Popkin BM  
+           Monitoring foods and nutrients sold and consumed in the United States: dynamics and challenges J Acad Nutr Diet 2012 112 1 41 5 e4 22389873 
+18 
+            Zhen C  
+            Taylor JL  
+            Muth MK  
+            Leibtag E  
+           Understanding differences in self-reported expenditures between household scanner data and diary survey data: a comparison of Homescan and consumer expenditure survey Rev Agric Econ 2009 31 3 470 92 
+19 
+            Einav L  
+            Leibtag E  
+            Nevo A  
+           On the accuracy of the Nielsen Homescan data Washington DC U.S. Department of Agriculture 2008 
+20 
+            Einav L  
+            Leibtag E  
+            Nevo A  
+           Recording discrepancies in Nielsen Homescan data: are they present and do they matter? Quant Marketing Econ 2010 8 2 2007 39 
+21 
+            Bauer KW  
+            Hearst MO  
+            Earnest AA  
+            French SA  
+            Oakes JM  
+            Harnack LJ  
+           Energy content of U.S. fast-food restaurant offerings Am J Prev Med 2012 43 5 490 7 23079171 
+22 
+            Wu HW  
+            Sturm R  
+           Changes in the energy and sodium content of main entrees in the US chain restaurants from 2010 to 2011 J Acad Nutr Diet 2014 114 2 209 219 24095622 
+23 Grocery Manufacturers Association 2010 GMA Health and Wellness Survey 
+            http://www.gmaonline.org/issues-policy/health-nutrition/providing-innovative-and-healthy-choices/product-reformulation/ 
+           Accessed November 5, 2013 
+24 Food and Drug Administration Trans fat now listed with saturated fat and cholesterol 
+            http://www.fda.gov/food/ingredientspackaginglabeling/labelingnutrition/ucm274590.htm 
+           Accessed November 12, 2013 
+25 
+            Mozaffarian D  
+            Jacobson MF  
+            Greenstein JS  
+           Food reformulations to reduce trans fatty acids N Engl J Med 2010 362 21 2037 9 20505187 
+26 
+            Vyth EL  
+            Steenhuis IH  
+            Roodenburg AJ  
+            Brug J  
+            Seidell JC  
+           Front-of-pack nutrition label stimulates healthier product development: a quantitative analysis Int J Behav Nutr Phy Act 2010 7 1 65 
+27 
+            Rahkovsk I  
+            Lin BW  
+            Lin CTJ  
+            Lee JY  
+           Effects of the Guiding Stars Program on ready-to-eat cereals with different nutritional attributes Food Policy 2013 44 100 107 
+28 
+            Savio S  
+            Mehta K  
+            Udell T  
+            Coveney J  
+           A survey of the reformulations of Australian child-oriented food products BMC Public Health 2013 13 836 24025190 
+29 Federal Trade Commission A Review of Food Marketing to Children and Adolescents 
+            http://ftc.gov/os/2012/12/121221foodmarketingreport.pdf 
+           Accessed November 5, 2013 
+30 
+            Ng SW  
+            Slining MM  
+            Popkin BM  
+           Turning point for US diets? Recessionary effects or behavioral shifts in foods purchased and consumed Am J Clin Nutr 2014 10.3945/ajcn.113.072892 
+31 
+            Gortmaker SL  
+            Story M  
+            Powell LM  
+            Krebs-Smith SM  
+           Building infrastructure to document the U.S. food stream Am J Prev Med 2013 44 2 192 193 23332339 
+32 Food Monitoring Group Progress with a global branded food composition database Food Chem 2013 140 3 451 7 23601391 
+33 
+            Lusk JL  
+            Brooks K  
+           Who participates in the household scanning panels? Am J Agr Econ 2011 93 1 226 240 
+

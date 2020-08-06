@@ -1,0 +1,296 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   02453313611Eur J Clin InvestEur. J. Clin. Invest.European journal of clinical investigation0014-29721365-236225444088431439210.1111/eci.12378NIHMS642685ArticlePacket Randomized Experiments for Eliminating Classes of Confounders Pavela Greg PhD1Wiener Howard PhD2Fontaine Kevin R. PhD3Fields David A. PhD4Voss Jameson D. MD, MPH5Allison David B. PhD11 Office of Energetics, Nutrition Obesity Research Center, University of Alabama at Birmingham, Birmingham2 Department of Epidemiology, University of Alabama at Birmingham, Birmingham3 Department of Health Behavior, University of Alabama at Birmingham4 Department of Pediatrics, University of Oklahoma Health Sciences5 Epidemiology Consult Division, U.S. Air Force School of Aerospace MedicineCorresponding Author and Address for Reprints: David B. Allison, PhD, University of Alabama at Birmingham, Ryals Building, Room 140J, 1665 University Boulevard, Birmingham, Alabama 35294, Phone: (205) 975-9167, Dallison@uab.edu18 11 2014 1 2015 01 1 2016 45 1 45 55 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+Although randomization is considered essential for causal inference, it is often not possible to randomize in nutrition and obesity research. To address this, we develop a framework for an experimental design—packet randomized experiments (PREs), which improves causal inferences when randomization on a single treatment variable is not possible. This situation arises when subjects are randomly assigned to a condition (such as a new roommate) which varies in one characteristic of interest (such as weight), but also varies across many others. There has been no general discussion of this experimental design, including its strengths, limitations, and statistical properties. As such, researchers are left to develop and apply PREs on an ad hoc basis, limiting its potential to improve causal inferences among nutrition and obesity researchers.
+
+Methods
+We introduce PREs as an intermediary design between randomized controlled trials and observational studies. We review previous research that used the PRE design and describe its application in obesity-related research, including random roommate assignments, heterochronic parabiosis, and the quasi-random assignment of subjects to geographic areas. We then provide a statistical framework to control for potential packet-level confounders not accounted for by randomization.
+
+Results
+PREs have successfully been used to improve causal estimates of the effect of roommates, altitude, and breastfeeding on weight outcomes. When certain assumptions are met, PREs can asymptotically control for packet-level characteristics. This has the potential to statistically estimate the effect of a single treatment even when randomization to a single treatment did not occur.
+
+Conclusions
+Applying PREs to obesity-related research will improve decisions about clinical, public health, and policy actions insofar as it offers researchers new insight into cause and effect relationships among variables.
+
+Causal InferenceStatisticsExperimental DesignMethodsMultidisciplinary
+   INTRODUCTION
+Two major methods for studying causality are ordinary association studies and randomized controlled experiments or trials (RCTs). Each has their advantages and disadvantages. The greatest disadvantage of association studies is that “association does not necessarily imply causation” (to which we might add the less often acknowledged corollary that “a lack of association does not necessarily imply a lack of causation”). The reasons for this indeterminacy are also well known: the possible presence of confounding variables and the possibility that the cause-effect relationship could be reversed (i.e. that instead of X causing Y, Y causes X). RCTs overcome the problems of endogeneity and confounding by randomly assigning subjects to levels of the independent variable (e.g., X1), thereby assuring that the population distribution of X1 is independent of all known and unknown (measured and unmeasured) pre-randomization variables that might otherwise be confounders (4). The greatest limitations of RCTs are that they are often impractical, prohibitively expensive, unethical, or simply impossible because subjects cannot be randomly assigned to levels of X1.
+
+Majumdar and Soumerai (5) have argued that a false dichotomy exists in which RCTs and association studies are often treated as the only alternatives; consequently, researchers do not consider other study designs that occupy an intermediary inferential position between the pure RCT and the ordinary observational association study. The result is that decisions about clinical, public health, and policy actions are founded on a less-than-optimal understanding of the relationship between causes and effects, interventions and outcomes.
+
+Herein, we introduce general principles of an intermediary experimental design that is inferentially stronger than an ordinary association because it can rule out entire classes of both measured and unmeasured potential confounders, but is not as inferentially strong as a pure RCT, which can rule out all potential confounders. Although specific cases of this design have been used in the past, including by us (6), a systematic explication of its general form and inferential properties has, to our knowledge, never been published.
+
+As such, we: (a) introduce the idea of packet randomized experiments (PREs) and their inferential properties; (b) give examples of the use of PREs from both published and planned studies (Table 1); (c) discuss genetic linkage analysis as a special case of a PRE; (d) explain how, in some PREs, conditioning on particular covariates can indirectly and asymptotically control for some of the confounders left uncontrolled by the design; and (e) end with a general discussion.
+
+INTRODUCTION TO PRES AND THEIR INFERENTIAL PROPERTIES
+Let Si (for i = 1 to N) denote the subjects (units of observation) in a study, with N being the number of subjects. In biomedical and behavioral research, subjects most often will be individual humans or individual model organisms (e.g., mice) but in principle could be clusters of individuals (e.g., classrooms, cities, mouse litters, ant colonies) or inanimate objects (e.g., buildings, airplanes, etc.). Let Y be some outcome variable of interest measured on S1 to SN. Y could be continuous (e.g., height, BMI, IQ), dichotomous (e.g., dead or not dead), ordinal (e.g., number of sales made), or time to event (e.g., survival time). Let X1 denote some independent variable of interest—some variable hypothesized to have a causal effect on Y. X1 could be a characteristic of a blood sample with which a subject is transfused, a subject’s college roommate, a characteristic of a book one is assigned to read, a characteristic of a car one has rented, a dietary constituent of a fruit one is assigned to eat, and so on. Suppose that, for some reason, we are not willing or able to randomly assign S’s to levels of X1 and only X1. However, we can randomly assign S’s to objects or situations that differ in their values of X1, as well as in their values of other variables, X2 to XK, with the identities of X2 to XK not necessarily being known and, indeed, the value of K being unknown in most cases. We will refer to the objects or situations to which the S’s can be assigned as “packets” (P), because they are packets of the variables X1 to XK. For example, the random assignment of a subject to a roommate constitutes a treatment that includes the myriad of characteristics of the assigned roommate. Although our independent variable of interest may be the academic performance of the roommate, we must also contend with the cleanliness, social habits, or any other characteristic of the roommate that may impact the outcome of interest.
+
+One can easily imagine experiments in which each S was assigned to more than one P or more than one S was assigned to each P (see our example on altitude in section 4), but, for simplicity, for the remainder of this section, we will assume that each S is assigned to one and only one P. Hence, let Pi (for i = 1 to N) denote the packets in the experiment. Following our examples of potential variables for X1 above, packets could be blood samples with which subjects are transfused, subjects’ college roommates, books subjects are assigned to read, cars subjects are assigned to rent, fruits subjects are assigned to eat, and so on. Let W1 to Wc denote characteristics of S that, by definition, are not within the set of X2 to Xk. Examples of W’s could include intrinsic subject characteristics (e.g., genotypes, parental occupation, personality traits, wealth, tastes, preferences, behaviors) and contextual factors. When randomization of S’s to X’s is not used, the subject characteristics W1…c may be correlated with the levels of X1 to which S’s were exposed (e.g., a correlation between academic achievement of the roommate (X1) and prior valuation of academic achievement by the subject (W). If W1…c are observed and measured, they can be statistically controlled. If they are unobserved, as they often are, they may confound the relationship between X1 and the outcome of interest. In contrast, when S’ are randomized to X’s, the random assignment helps eliminates the possibility of confounding due to observed and unobserved W1…c variables. This is the key strength of PREs and distinguishes a PRE from an observational study. It does not, however, eliminate potential correlations between the treatment of interest X1 and other packet characteristics X2…k. This is the key limitation of PREs and distinguishes a PRE from a standard randomized controlled trial.
+
+Suppose we were to study S-P pairings created by means other than random assignment (e.g., by allowing S’s to choose packets with which to be paired) and fit a model of the form f(Yi) = g(X1,i)+ei, where f(Y) denotes some link function of Y, g(X1) denotes some function of X1, and ei denotes an error term (7). Could we then assume that the fitted model represents a model of causation? No. This is because the true model might be f(Yi)= g(X1,i)+h(X2,…XK)+m(W1,…WC)+ei, where h and m are unspecified functions of packet and subject characteristics, respectively. Under such a model, if X2 to XK and W1 to WC are not independent of X1, then the observed relation between X1 and Y will be confounded and may not represent a causal effect. However, if we randomly assign S’s to P’s, then X1 must be independent of W1 to WC, and, therefore, W1 to WC cannot be confounders of any relation between X1 and Y. This follows from the same logic of randomization that underlies the use of standard randomized controlled trials (RCTs) to eliminate confounders. PREs and standard RCTs do not differ in their use of randomization to eliminate the possibility of confounding due to subject variables; rather, they differ only in whether subjects are assigned to a single treatment or to a “packet” of treatments. The degree to which PREs improve causal inferences via randomization is directly related to the proportion of any confounding that occurs which is due to W1…c. As the proportion of confounding due to W1…c approaches 1, so too do PREs approach the inferential strength (ability to rule out causation) possessed by standard RCTs. Unfortunately, the proportion of confounding due to W1…c vs X1…k will usually be unknowable, thus one of the key limitations of PREs is that the exact degree of improvement in causal inferences will usually be unknown and variable among studies. Nonetheless, because PREs eliminate potential confounders (W1 to WC), they strengthen causal inferences relative to standard observational studies of associations between X1 and Y. An additional limitation of PREs is that they cannot rule out potential confounding from X2 to XK, As will be discussed later, sometimes such potential confounding can be mitigated using the more familiar methods of statistical adjustment in association studies and, in some situations, this potential confounding actually has utility. PREs have been used to improve causal inferences in a variety of disciplines, as discussed in the following section.
+
+EXAMPLES OF PRES
+1. Holt adoptee analysis
+For over 50 years an inverse association between socio-economic status (SES) and obesity has been observed. Multiple potential causal relations might underlie this association (e.g., lower SES causes obesity, obesity causes a decline in SES through factors related to the rearing environment), but randomly assigning children to families to articulate these potential causal relations is unethical. However, voluntary adoptions, in which young children are randomly assigned to rearing environments differing in SES, is essentially a natural experiment that can be used to estimate the possible causal effects of rearing environment SES on the development of obesity. In these studies, young children are subjects with a set of observed and unobserved characteristics (W1…Wc), randomly assigned to rearing environments that vary in level of SES (X1) as well as a range of observed and unobserved characteristics (X2…Xk). Association studies estimating the causal effect of SES on weight are limited by an inability to control for unobserved subject characteristics that plausibly affect weight, including genetic factors, sense of control, or ability to delay gratification, etc. PREs address this limitation by eliminating all possible subject confounders that could influence weight via randomization. Our group (6) used data from The Survey of Holt Adoptees and Their Families (HOLT) to investigate whether there might be a causal relationship between the SES of the rearing environment and obesity in the offspring. The HOLT data was derived from families who adopted a Korean-American child through Holt International Children’s Services from 1970 to 1980.
+
+Insofar as assignment of the adoptee to a family was independent of the adoptee’s weight and all other variables, we can treat the family rearing environment as a “packet” to which a subject has been randomly assigned. The association between the rearing family’s SES and the weight of their children was then measured for both the biological and adopted children. While this association is usually confounded with the shared genetic background of the parent’s and their offspring, in the case of the adopted children, neither shared genetic background, nor any subject-level characteristic, can confound the relationship. Thus, by comparing the magnitude of the association between the rearing family’s SES on their biological and adopted children, we can get an estimate of the contribution of family environment’s effect on weight. After controlling for relevant covariates (e.g., adoptee sex), the association between rearing family’s SES and BMI of the adoptee was approximately half that of the association between family SES and BMI of the biological child. As such, biological factors and the rearing environment appear to contribute roughly equally to offspring obesity, a conclusion strengthened by the PRE design of the data.
+
+2. Judges
+PRE designs have been used in the analysis of judge- or court-level factors that influence case outcomes. In these designs, the judge or court is the packet of interest with a set of packet-specific characteristics (X1…XK) such as average sentencing length handed down by the judge. In determining the causal effects of factors at the judge or court level, a key issue is comparability between cases—the subjects of this particular PRE design. Because each case will necessarily differ along innumerable factors, it is difficult to determine whether any observed effect of a judge is due to factors at the level of the judge or the level of the case. The random assignment of criminal cases to judges helps ensure that any differences in cases heard by judges are due to chance, strengthening causal inferences about the overall effect of court-level factors (8). Federal judges in the same location are randomly assigned cases to ensure fair procedures and to limit the ability to select judges with a reputation for leniency or strictness (9). Random assignment helps ensure that observed differences in sentence length, plaintiff win rate, or recidivism are related to differences at the level of the court, not individual differences at the level of the case. Over time, the random assignment of cases to judges creates similar caseloads among judges, making it possible to compare averages of judge-level factors (10). Outcomes of interest have included plaintiff win rate (8) and sentencing disparities (11). In particular, researchers and policymakers have used PREs to determine whether federal sentencing guidelines have reduced sentencing differences among judges.
+
+Nonetheless, the use of PREs in the criminological literature is limited by one factor that cannot be randomized—the distribution of offense types across time periods. Anderson, et al. (12) find that the share of drug offenses increased over time with a concomitant decrease in other offenses. If sentencing disparities in drug offenses are lower relative to other offenses, the observed effect of federal sentencing guidelines is confounded with the increasing share of drug offenses. Packet randomization studies that depend on comparisons at two different time points must thus consider supra-packet effects, such as time, and whether they plausibly confound the independent variable of interest. Supra-packet effects are any effects independent from packet characteristics and are not controlled for via the randomization of subjects to a packet. When analyzing the effect of federal sentencing guidelines on sentencing disparities, time is a supra-packet effect because it may confound the relationship between sentencing guidelines and sentencing disparities, is not accounted for via randomization, and is not a characteristic of the packet.
+
+3. Human milk to mice
+Significant ethical considerations in designing breastfeeding RCTs make it difficult to study the purported benefits of breastfeeding exposure while disentangling both genetic and environmental factors that influence (both directly and indirectly vis-à-vis maternal contact) breastfeeding behavior and breast milk composition. Wide-ranging benefits of breastfeeding, including a protective effect against obesity, have been touted by public health and professional organizations throughout the world based primarily on observational evidence. The observed benefits, however, are diminished when known modulators are controlled (i.e., infant exposure to smoking, socio-economic status, etc.) (13–15). Our conceptualized PRE specifically related to breast feeding studies offers a method to control for a significant number of modulators that breastfeeding studies to date have not, and ethically cannot, control for, namely eh (uncontrolled human external confounders with direct effects on the infant), τh (baby phenotype attributed to maternal factors), αh human maternal factors directly impacting the composition of breast milk); thus, the criteria to make causal claims about the effect of breast milk on obesity is not met (Figure 1).
+
+Our group (Fields and Allison) is proposing a breastfeeding PRE that eliminates ethical constraints while improving statistical inference that most studies cannot achieve by introducing a study design (Figure 1) where mice will be randomized to human breast milk obtained from breastfeeding mothers who vary greatly in a diverse range of physiological (fatness), sociological (socioeconomic status, education, urban vs. rural), and genetic confounders that human correlational studies could not remove. By randomizing mice (subjects) to differing sets of human breast milk (packets), the PRE design eliminates τm (mouse phenotype attributable to mouse maternal factors given all mice have the same mother), αh (impact of human maternal factors on the composition of breast milk), and em (external confounders directly affecting the mouse phenotype, given all mice are housed and raised in the same tightly regulated/controlled environment). All three sources (τm, αh, and em) of confounding cannot be eliminated in human studies; however, the proposed PRE allows for greater inferential power than associational inferences currently being conducting in human studies by eliminating all classes of confounders while retaining physiological relevance in the proposed animal study.
+
+4. Roommate randomization
+Randomized roommate assignments are natural experiments that have been used to examine peer influence on a range of student health and behavioral outcomes. In these studies, the roommate is the packet of interest with a set of packet-specific characteristics such as roommate weight or study habits. This type of study design addresses a key difficulty in making causal inferences about peer influence—selection. Random assignment to treatment groups helps ensure that the observed effect of a roommate or peer is due to the treatment and not a consequence of selection. For example, a student who values academic performance may select peers who likewise value academic performance, confounding the effect of peer valuation of academics with that student’s peer preferences. More generally, the non-randomness of peer associations makes it possible (and likely) that unobserved factors that affect an individual outcome of interest (e.g., weight) also may be systematically related to the characteristics of one’s chosen peers (16). This poses a serious challenge to research on peer influence; however, several studies have used PREs to eliminate potential subject-level confounders by utilizing the random assignment of roommates.
+
+Randomly assigning individuals to roommates or dormitories helps ensure that unobserved subject characteristics (W1…WC) are not confounded with the overall observed effect of a particular roommate with the set of characteristics (X1…XK). Taking advantage of roommate randomization, Yakusheva and Kapinos, et al. (17) found that the amount of weight gained by a subject during freshman year was inversely related to their roommate’s weight. Although randomization of subjects to roommates helps to account for all observed and unobserved subject factors, it cannot control for unobserved factors at the level of the “packet” — not all conceivable roommate characteristics that might exert an influence on a subject’s weight could be measured and included in the model. Thus, the observed effect of a roommate’s weight on a subject’s weight is potentially confounded with roommate characteristics not included in the model and associated with both the roommate and the subject’s weight.
+
+5. Military relocation and altitude
+Looking beyond a roommate’s influence, residential exposures that vary on a macrogeographic (regional, national, or global) scale also may influence a range of outcomes Previously, an inverse relationship between altitude of residence and obesity prevalence was found in the United States (18), but, as in the case of peer influence, disentangling the causal order of residential exposure and health outcome is difficult. The semi-random assignment of U.S. military service members to geographic locations is an opportunity to overcome many of these limitations. The U.S. military assigns service members to geographic locations using a semi-random process similar to dorm-room assignment, but on a much larger spatial scale. Although the assignment of service members to geographic locations does not follow a pure randomization process, it can be treated “as if” random for the purposes of some analyses (1). In the language of PRE, the packet of interest is the combination of observed and unobserved characteristics (X1…XK) found at the service member’s new residential location. The unit of (semi) randomization is the individual member assigned to a new duty station with the set of observed and unobserved characteristics (W1…WC). To investigate the relationship between residential altitude and obesity, overweight service members at risk of transitioning to obesity could be followed as they are assigned from one duty location to the next (19). As obesity incidence shows spatial variation by altitude, causal inferences about the packet of exposures at each location are stronger than purely observational data. Semi-randomization of service members helps ensure that subject characteristics (W1…WC) are not associated with packet characteristics (X1…XK), eliminating the risk of confounding at the subject level. Although such an investigation would not isolate a specific exposure (e.g., high altitude), it virtually eliminates reverse causation as an explanation for the geographic variation in obesity incidence.
+
+6. Old-young mouse parabiosis
+Packet exposures need not exist solely outside the subject’s physical body. Packet exposures also may include exposure to a set of factors within the body, such as the circulatory system. Parabiosis surgically pairs two subjects such that they develop a single circulatory system (20). In the language of packet randomization, each subject also contains a packet of interest (the circulatory system) with a set of packet-specific characteristics. Just as human subjects can be randomly paired with roommates to share the same dormitory environment, animal subjects have been paired with other animals to share a circulatory system. Parabiosis has been used to study a range of health outcomes, including tumor growth (21) cholesterol (22) and diabetes (23). Parabiosis experiments helped lay the foundation for the discovery of leptin after work by Coleman (24) suggested that a satiety factor found in db/db mice but not ob/ob mice could regulate appetite.
+
+More recently, researchers have used heterochronic parabiosis, pairing an old mouse with a young mouse, to study aging. Conboy, et al. (25) hypothesized that factors in the circulatory system of a young mouse help regulate tissue regeneration, and that, by pairing an old mouse with a young mouse, the molecular pathways of the older mouse could be “rejuvenated.” The randomization of old mice to young mice controls for all subject-level characteristics (W1…WC), ruling out the possibility that variation in the old mice, such as size or diet, accounts for the observed differences in tissue rejuvenation. Conboy, et al. (25) acknowledge that further experimental research is necessary to identify individual circulatory factors that regulate age-related processes. Such research is necessary because packet randomization does not control for packet-level characteristics that are correlated with the packet characteristic of interest (X1).
+
+GENETIC LINKAGE AND FAMILY-BASED ASSOCIATION STUDIES AS SPECIAL CASES OF PRES
+In genetic studies, the potential sources of confounding are numerous, encompassing the entire genome. Within any genetic population—that is, a group of individuals who could theoretically mate randomly—actual matings are natural experiments that can be taken advantage of analytically. Two types of analysis do this; linkage analysis and family-based association testing. In both cases, the genomes of the two parents are the source of all possible genomes of any offspring. From a theoretical standpoint, we can consider the nuclear family to have been “randomized” to the set of genomes determined by the parental genomes. These analyses are thus special cases of packet randomization in which the packet is identified with the nuclear family.
+
+The practical difference between these types of studies and previously given examples of packet randomization is a matter of perspective. Previous examples considered the definition of a packet to be the primary variable of interest. In the cases of these types of genetic analysis, the primary variable of interest can vary over the genome. Linkage analysis seeks evidence that the inheritance of a particular chromosomal segment from a parent will be associated with some observable trait. Family-based association analysis seeks evidence that the inheritance of a specific allele at a specific locus from a parent will be associated with some observable trait. Central to both analyses is the packet: because all genomes in all children have to be derived from just the two genomes of the parents, there is always a probability of ½ that a particular allele or chromosomal segment came from the same parental source in two siblings. The analysis is thus done on the background of this average sharing, giving us a powerful way of controlling for confounding on an immense scale.
+
+Linkage analysis attempts to determine whether the degree of local genetic sharing at a specific position on a chromosome is correlated with the observed concordance of the trait of interest. We can consider this to be a question of the form, “All other (genetic) factors being (roughly) equal, does concordance of inheritance at one position correlate with concordance of some observed trait?” The degree of correlation of the trait is decomposed into a portion that is proportional to the overall sharing of the entire genome and a portion that is proportional to the degree of genetic sharing at a specific position in the genome. Thus unlike previously discussed examples of packet randomization, the primary variable of interest in linkage analysis (the inherited chromosomal segment, which can include multiple variants that all influence the trait) believed to be associated with a particular phenotype) is itself unobserved and must be inferred through statistical analysis.
+
+CONDITIONING ON PARTICULAR COVARIATES TO CONTROL FOR PACKET CONFOUNDERS
+The major limitation of PREs is the inability to eliminate confounders at the level of the packet. PREs are not alone in having this limitation—any non-randomized analysis in which dependent variables are a function of independent variables is at risk of confounding due to unobserved independent variables not included in the model. In this section we propose a method in which controlling for certain packet-level covariates can reduce the risk of confounding due to omitted variables.
+
+Section 5 described a PRE in which service members were quasi-randomly assigned to a city, and change in weight was observed. The benefit of this research design is the elimination of endogeneity and subject factors as threats to the observed changes in weight. However, causal inferences about the effect of the new city’s characteristics on weight can be made only for the city as whole, not for a specific characteristic of the city. Suppose that the effect of altitude (A) on weight change (Y) among subjects is of interest. Standard PREs are unable to distinguish between the effect of altitude and the myriad other city-level characteristics that may affect weight. Temperature, sunlight exposure, and cultural norms all vary across cities and plausibly confound the relationship between altitude and weight change. Even if we were to include all known or measured characteristics of a city, it is unlikely that we have accounted for all variables that vary across cities, are associated with altitude, and have an effect on weight.
+
+Nonetheless, it may be possible to identify a variable that plausibly serves as a vector of all unobserved city-level characteristics and can asymptotically control for all packet-level characteristics left uncontrolled by the design. In the case of investigating the effects of city characteristics on weight, we propose that mean weight of a city (Z) is such a variable (See Figure 2). Mean weight of a city necessarily represents the average effect of all city characteristics on the weight of all individuals living within that city. This is true regardless of whether some city characteristics have an effect on the weight of only select individuals, or whether some residents have lived in the city longer than others. For example, some individuals may live in an area of a city more conducive to physical activity than others. Although these subjects are exposed to an array of city characteristics that other subjects living in the same city are not, the uneven distribution of city characteristics and their effects on weight will be reflected in average city weight. The same is true for length of residence—although some city residents will have been exposed to that city’s environment for only a few weeks or perhaps even a few days, other city residents will have lived in the city their whole lives and therefore have been exposed to whatever aspects of the city influence weight. The uneven exposure to city characteristics due to varying lengths of residence will be reflected in the average city weight. The average city effect on weight also includes all individual-level effects on weight in that city, including average city socioeconomic status, demographics, or any other aggregate of individual-level characteristics. One important aspect of using average city weight is that it is the average of the outcome variable and, as such, it equals the city level effect plus the average of the city level random variation, plus the average of independent level effects. Thus, it is the city level effect plus a term that is O(1/N), where N is the number of observed individuals. Finally, although distinctions between individual and neighborhood-level characteristics are essential in associational studies of neighborhood characteristics, such a distinction is less important in PREs. From the perspective of the randomized subjects, aggregate individual effects are simply another type of city characteristic, while the random assignment of subjects to cities assures that between-subject variation in weight is not due to omitted subject-level variables.
+
+Figure 3 presents the model-implied variance-covariance matrix for the model in Figure 1, in which average weight is assumed to be a vector of all observed and unobserved city characteristics that affect weight. Unless otherwise defined, the symbols used in the following equation come from the variance-covariance expression in Figure 3. If we naively assume that altitude is correlated with weight change and uncorrelated with any other factor, the estimated regression coefficient of altitude on weight change (βY) is equal to the observed covariance between altitude and weight change over the variance in altitude—the standard regression coefficient formula (26): 
+ βY=COV(Y,A)VAR(A) 
+
+However, if altitude is correlated with other variables (W), and these variables are correlated with weight, failure to include them in the model results in an estimated effect of altitude that is biased by the correlation between altitude and unobserved city characteristics (ρ). Using covariance algebra, it can be shown that failure to model the correlation between altitude and unobserved characteristics biases the estimated covariance between Y and A(βY) to the extent that it incorrectly includes the covariance between Y, A, and all other variables not included in the model: 
+ βY=COV(Y,A)-γYρVAR(A) 
+
+If we regress Y on A and Z, writing the regression as Y = δAA + δZZ, the true values of the coefficients are given by: 
+ δA=γZ(βYγZ-βZγY)(ϕAϕW-ρ2)+βYϕWϕU+γYρϕUγZ2(ϕWϕA-ρ2)+ϕUϕAδZ=γYγZ(ϕAϕW-ρ2)γZ2(ϕWϕA-ρ2)+ϕUϕA 
+
+If W were observable and could be included in a regression, the “true” coefficient of A would be βY. The question of interest is the relationship between βY and δA—the coefficient that would result if we included only observable quantities and failed to adjust for all unobserved variables. If Z is close to being a good surrogate for W, the correlation between them is close to one, and the term (ϕWϕA … ρ2) will be close to zero. As (ϕWϕA … ρ2) approaches zero, the regression coefficients will approach: 
+ δA=βYϕWϕU+γYρϕUϕUϕA=βYϕW+γYρϕAδZ=0 
+
+The first term is precisely the slope of a regression line containing only the single predictor A. Thus, if the observed variable is a perfect surrogate for the unobserved “true” predictor, the other term will simply drop out of the model. The other limiting case would be if the two variables are unrelated so that ρ would be close to zero. In this limit, the coefficients would be: 
+ δA=γZηϕAϕW+βYϕWϕU+γYρϕUγZ2ϕAϕW+ϕUϕAδZ=γYγZ(ϕAϕW)γZ2(ϕWϕA)+ϕUϕA=γYγZϕWγZ2ϕW+ϕU 
+
+Conditioning on a particular covariate may thus help to adjust for packet-level factors not accounted for via randomization. Specifically, it may be possible to condition on a variable that represents the average of the outcome of interest over individuals who are within the packet but who are not themselves included in the experiment (27).
+
+DISCUSSION
+This article had three goals. First, we sought to provide a general introduction to packet randomization, an experimental design, as an intermediary between observational studies and true randomized trials. The false dichotomy between association studies and the pure RCT obscures the potential of natural experiments to improve causal claims (5). Failure to consider intermediate designs between observational studies and true randomized trials limits the quality of evidence available to policymakers. Although the internal validity of packet-randomized experiments cannot match that of randomized trials, it is a step above typical observational studies. Most notably, PREs greatly improve upon the strength of causal inferences by eliminating subject-level characteristics as potential confounders. In doing so, they compare favorably with other methods to control for confounding in non-experimental research, including instrumental variable methods and propensity score matching.
+
+Instrumental variable methods attempt to control for confounding via the identification of a variable (Z) whose effect on the outcome variable (Y) operates only through the independent variable of interest (X). Instrumental variable methods are an attempt to isolate and use the variation in X not correlated with the errors (U) (28). If the instrument is truly an exogenous predictor (uncorrelated with the error terms, U) of X, estimates of its effects on Y will be consistent (bias will reduce to zero as sample size increases (29)). A limitation of instrumental variable methods is that it is not possible to empirically determine whether Z is exogenous to U; rather, this must be determined through judgment (30). In PREs, randomization rather than judgment is used to assure the treatment X is exogenous to U for the portion of covariance between X and Y due to subject factors W1…WC. PREs cannot, however, assure that X is exogenous to U for the portion of covariance between X and Y due to unmeasured packet-characteristics X2…Xk. Additional methods, including instrumental variable approaches, may be considered to potentially reduce confounding from packet characteristics.
+
+Another method frequently used to improve causal inferences in observational studies is propensity score analysis. Propensity scores indicate the estimated probability that an individual has a particular level of the independent variable of interest conditional on other characteristics of that individual (30). Propensity scores can then be used reduce bias in the estimated independent variable effect by conditioning on differences among S’s in propensity. This method is, in effect, an attempt to use a single scalar variable (the propensity score) to match participants as closely as possible on all covariates and who differ only on whether they received the treatment. The model used to match participants and estimate a propensity score can include a large number of covariates and interactions; allowing the analyst to estimate a simpler final model (31). Propensity score methods and more standard multiple regression methods will produce the same estimates of a treatment effect so long as the model used to estimate the propensity score is used in the multiple regression analysis (31). Despite the advantages of reducing bias in the estimated treatment effect using a single scalar variable, propensity score matching still depends on the inclusion of all relevant variables, measuring them without error, and modeling their functional form correctly to provide unbiased effect estimates. If relevant variables are unmeasured (or poorly measured) or unknown, confounding can remain despite use of propensity scores. In contrast, PREs use randomization to ensure that S’s characteristics do not systematically differ in association with levels of the independent variable.
+
+The second goal of this paper was to describe the application of PREs across a range of disciplines and to demonstrate their potential to investigate any outcome within almost any discipline. PREs have been applied in animal, genetic, and social scientific research. The lack of a general introduction to PREs makes it more likely that researchers within specific disciplines must spend unnecessary time reinventing for themselves a method that already has been employed and developed by researchers in multiple disciplines. With this comes the risk that insights of past researchers will be overlooked, or that old mistakes will be repeated. Relatedly, we hope that greater awareness of the PREs among researchers across all disciplines, especially those in human behavioral disciplines, will encourage the search for opportunities whereby PREs can be used to improve causal claims previously made using only observational data.
+
+Third, this paper sought to describe a situation in which conditioning on a covariate can plausibly control for packet-level confounders. Although such an approach cannot address packet-level confounding variables as convincingly as randomization of subjects to packets, it enables researchers to better isolate the effect of a single packet characteristic from the overall effect of the set of packet characteristics. The inability to isolate a single causal factor within a complex system is typically viewed as a limitation; however, we believe that, in some situations, it may be a strength. The interactions of variables within highly complex systems such as a brain or a city initially may require consideration of their effects as a whole rather than understanding the effect of any particular factor in isolation. Multifactorial outcomes such as obesity provide an excellent example of the utility in assessing a packet of exposures simultaneously. If the entire packet of exposures is beneficial, from a public health perspective, it may not be immediately necessary to isolate the specific exposure within the packet that is most helpful. Rather, the entire packet might be applied.
+
+Although PREs combine many of the strengths of associational and true RCT studies, they are not a panacea. Researchers must continue to pay attention to the assumption of randomization, generalize causal claims only to the population of subjects for whom randomization actually occurred, and consider the possibility of “supra-packet” factors such as time—any factors not accounted for by randomization. The assumption of randomization is most important, and those who wish to use PREs in their own analyses may wish to follow the example of Anderson et al. (8), who provided both deductive and empirical evidence to support their assumption that randomization of cases to judges occurred. If evidence for randomization cannot be provided, PREs cannot be claimed to generate causal inferences superior to that of observational studies. Researchers must also be careful about generalizing claims (about either causation or association) beyond the population of subjects studied with a PRE, lest they introduce another confound into their analysis—whether or not subjects were randomized. Students who opt not to participate in the random assignment of roommates, districts in which case randomization was more plausible than others, and service members randomized to a city to live, may, likely do, systematically vary from the students, districts, and non-service members where randomization did not occur. The usefulness of PREs, as with standard RCTS, thus depends on whether the assumption of randomization is correct for the population of interest, or whether those randomized resemble the population of interest. If randomization is plausible for the population of interest, and supra-packet factors such as time are accounted for, well designed PRE’s can offer inferentially superior and more useful results than association studies.
+
+The views expressed in this article are those of the authors and do not necessarily reflect the official policy or position of the U.S. Air Force, the Department of Defense, or the U.S. government.
+
+We’d like to thank Dr. Mikako Kawaii, at the University of Alabama at Birmingham, for making Figure 1.
+
+
+        Grant Support
+      
+
+Research reported in this publication was supported by the National Institute of Diabetes and Digestive and Kidney Diseases of the National Institutes of Health under Award Numbers T32DK062710, P30DK056336, and R25DK099080. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institute of Diabetes and Digestive and Kidney Diseases or the National Institutes of Health.
+
+
+          Disclosures
+        
+
+None.
+
+Glossary of Terms Used Herein
+Experiment The systematic empirical observation of phenomena following the manipulation of some variable(s). True experiments must involve randomization to levels of the independent variable.
+
+Quasi-ExperimentA method in which the response of experimental subjects is compared to a control group; however, assignment to group is not presumed to be random or as if random (1).
+
+Natural Experiment A method in which the response of experimental subjects receiving a treatment is compared to a control group and assignment to group is random or as if random; however, the manipulation of the treatment is not under the control of the researcher (1).
+
+Randomized Controlled Trial An experimental design that involves at least one test treatment and one control treatment and in which treatments to be administered are selected via a random process (2).
+
+Confounder Any variable related to two factors of interest that falsely obscures or accentuates the relationship between the factors (2).
+
+Subject The unit of observation with the set of characteristics (W1…WC) and randomized to a packet. Subjects could be humans, court cases, or mice.
+
+Packet The unit of analysis with the set of characteristics (X1…XK), at least one of which is believed to exert a causal effect on the outcome of interest at the level of the subject.
+
+Dependent Variable A variable (Y) in which the expected variable is presumed to be dependent on one or more other variables (independent variables) (X1, X2…) (3).
+
+Figure 1 Diagram of an experimental model in which mice are randomized to human breast milk obtained from breastfeeding mothers who vary greatly in a diverse range of characteristics
+
+Figure 2 Diagram of a model in which mean weight of a city (Z) is assumed to be a vector of unobserved city characteristics (W) that influence that city’s weight.
+
+Figure 3 Model Implied Covariance for the model described in Figure 2.
+
+Table 1 Selected packet randomization studies
+
+Design	Reference	Packet	Subject	Key Independent Variable	Results and Comments	
+Randomized roommate assignment	Yakusheva and Kapinos, et al. (2011)	Roommate and dormitory	Student	Roommate’s weight	Subject’s weight gain during freshman year of college is inversely related to roommate’s weight.	
+Heterochronic parabiosis	Conboy, Conboy &amp; Wagers, et al. (2005)	Young mouse	Old mouse	Circulatory factors in the blood	The muscle tissues of old mice paired with young mice recovered more quickly from injury.	
+Randomized assignment of cases to judges	Anderson, Kling &amp; Smith (1999)	Judge	Court case	Federal sentencing guidelines	Average sentencing differences between judges declined from 4.9 months to 3.9 months after implementation of federal sentencing guidelines.	
+Holt adoptee analysis	Fontaine, et al. (2011)	Adopters	Adoptee	Socioeconomic status	Biological and rearing environment contribute roughly equally to offspring obesity.	
+
+   1 
+            Dunning T  
+           Natural Experiments in the Social Sciences New York Cambridge University Press 2012 
+2 
+            Meinert C  
+           Clinical Trials - Design, Conduct, and Analysis New York Oxford University Press 1986 
+3 
+            Upton G  
+            Cook I  
+           A Dictionary of Statistics (Oxford Paperback Reference) New York, United States Oxford University Press 2008 
+4 
+            Rosenthal R  
+            Rosnow R  
+           Essentials of Behavioral Research - Methods and Data Analysis New York McGraw-Hill 1991 
+5 
+            Majumdar SR  
+            Soumerai SB  
+           The Unhealthy State Of Health Policy Research Health Affairs 2009 28 w900 w8 19671571 
+6 
+            Fontaine KR  
+            Robertson HT  
+            Holst C  
+            Desmond R  
+            Stunkard AJ  
+            Sørensen TIA  
+             
+           Is Socioeconomic Status of the Rearing Environment Causally Related to Obesity in the Offspring? PLoS ONE 2011 6 e27692 22110724 
+7 
+            Nelder JA  
+            Wedderburn RWM  
+           Generalized Linear Models Journal of the Royal Statistical Society. Series A (General) 1972 135 370 84 
+8 
+            Waldfogel J  
+           The Selection Hypothesis and the Relationship between Trial and Plaintiff Victory Journal of Political Economy 1995 103 229 60 
+9 United States Sentencing Commission Fifteen Years of Guidelines Sentencing An Assessment of How Well the Federal Criminal Justice System is Achieving the Goals of Sentencing Reform 2004 
+10 
+            Waldfogel J  
+           Aggregate Inter-judge Disparity in Federal Sentencing: Evidence from Three Districts Federal Sentencing Reporter 1991 4 151 4 
+11 
+            Hofer PJ  
+            Blackwell KR  
+            Ruback RB  
+           The Effect of the Federal Sentencing Guidelines on Inter-Judge Sentencing Disparity The Journal of Criminal Law and Criminology (1973–) 1999 90 239 322 
+12 
+            Anderson J  
+            Kling J  
+            Stith K  
+           Measuring Inter-judge Sentencing Disparity Before and After the Federal Sentencing Guidelines Journal of Law &amp; Economics 1999 42 271 308 
+13 
+            Casazza K  
+            Fontaine KR  
+            Astrup A  
+            Birch LL  
+            Brown AW  
+            Bohan Brown MM  
+             
+           Myths, Presumptions, and Facts about Obesity New England Journal of Medicine 2013 368 446 54 23363498 
+14 
+            Cope MB  
+            Allison DB  
+           Critical review of the World Health Organization’s (WHO) 2007 report on ‘evidence of the long-term effects of breastfeeding: systematic reviews and meta-analysis’ with respect to obesity Obesity Reviews 2008 9 594 605 18554244 
+15 
+            Colen CG  
+            Ramey DM  
+           Is Breast Truly Best? Estimating the Effects of Breastfeeding on Long-term Child Health and Wellbeing in the United States Using Sibling Comparisons Social Science &amp; Medicine 2014 109 55 65 24698713 
+16 
+            Stinebrickner R  
+            Stinebrickner TR  
+           What can be learned about peer effects using college roommates? Evidence from new survey data and students from disadvantaged backgrounds Journal of Public Economics 2006 90 1435 54 
+17 
+            Yakusheva O  
+            Kapinos K  
+            Weiss M  
+           Peer effects and the Freshman 15: Evidence from a natural experiment Economics &amp; Human Biology 2011 9 119 32 21216679 
+18 
+            Voss JD  
+            Masuoka P  
+            Webber BJ  
+            Scher AI  
+            Atkinson RL  
+           Association of elevation, urbanization and ambient temperature with obesity prevalence in the United States Int J Obes 2013 37 1407 12 
+19 
+            Voss JD  
+            Allison DB  
+            Webber BJ  
+            Otto JL  
+            Clark LL  
+           Lower Obesity Rate during Residence at High Altitude among a Military Population with Frequent Migration: A Quasi Experimental Model for Investigating Spatial Causation PLoS ONE 2014 9 e93493 24740173 
+20 
+            Conboy MJ  
+            Conboy IM  
+            Rando TA  
+           Heterochronic parabiosis: historical perspective and methodological considerations for studies of aging and longevity Aging Cell 2013 12 525 30 23489470 
+21 
+            Kross I  
+           Parabiosis and Tumor Growth The Journal of Cancer Research 1921 6 121 6 
+22 
+            Uchida K  
+            Takase H  
+            Nomura Y  
+            Satoh T  
+            Igimi H  
+            Takeuchi N  
+           Bile acid metabolism in young-old parabiotic rats Lipids 1997 32 383 90 9113626 
+23 
+            Hummel KP  
+            Dickie MM  
+            Coleman DL  
+           Diabetes, a new mutation in the mouse Science 1966 153 1127 8 5918576 
+24 
+            Coleman DL  
+           Obese and diabetes: Two mutant genes causing diabetes-obesity syndromes in mice Diabetologia 1978 14 141 8 350680 
+25 
+            Conboy IM  
+            Conboy MJ  
+            Wagers AJ  
+            Girma ER  
+            Weissman IL  
+            Rando TA  
+           Rejuvenation of aged progenitor cells by exposure to a young systemic environment Nature 2005 433 760 4 15716955 
+26 
+            Paxton P  
+            Hipp J  
+            Marquart-Pyatt S  
+           Non-recursive Models, Endogeneity, Reciprocal Relations, and Feedback Loops Thousand Oaks, California, USA Sage Publications 
+27 
+            Hadley C  
+            Hruschka DJ  
+           Population level differences in adult body mass emerge in infancy and early childhood: Evidence from a global sample of low and lower-income countries American Journal of Physical Anthropology 2014 154 232 238 24549649 
+28 
+            Stock JH  
+            Watson MW  
+           Introduction to econometrics Boston Addison-Wesley 2011 
+29 
+            Everitt BS  
+           The Cambridge Dictionary of Statistics 2 King’s College, University of London: Cambridge University Press 
+30 
+            Rosenbaum Paul R  
+            Rubin Donald B  
+           The Central Role of the Propensity Score in Observational Studies for Causal Effects Biometrika 70 41 55 1983 
+31 
+            D’Agostino Ralph B  
+           Propensity Score Methods for Bias Reduction in the Comparison of a Treatment to a Non-Randomized Control Group Statistics in Medicine 17 2265 81 9802183 
+

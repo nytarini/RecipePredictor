@@ -1,0 +1,480 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   980846321444Public Health NutrPublic Health NutrPublic health nutrition1368-98001475-272725428800453433310.1017/S1368980014002493NIHMS708179ArticleThe impact of the 2008 financial crisis on food security and food expenditures in Mexico: a disproportionate effect on the vulnerable Vilar-Compte Mireya 1*Sandoval-Olascoaga Sebastian 1Bernal-Stuart Ana 1Shimoga Sandhya 2Vargas-Bustamante Arturo 21 Health Department, Universidad Iberoamericana, Prolongación Paseo de la Reforma 880, Lomas de Santa Fe, 01219 Mexico City, DF, Mexico2 Department of Health Policy and Management, University of California Los Angeles, Fielding School of Public Health, Los Angeles, CA, USA* Corresponding author: mireya.vilar@ibero.mx29 7 2015 27 11 2014 11 2015 01 11 2015 18 16 2934 2942 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objective
+The present paper investigated the impact of the 2008 financial crisis on food security in Mexico and how it disproportionally affected vulnerable households.
+
+Design
+A generalized ordered logistic regression was estimated to assess the impact of the crisis on households’ food security status. An ordinary least squares and a quantile regression were estimated to evaluate the effect of the financial crisis on a continuous proxy measure of food security defined as the share of a household’s current income devoted to food expenditures.
+
+Setting
+Both analyses were performed using pooled cross-sectional data from the Mexican National Household Income and Expenditure Survey 2008 and 2010.
+
+Subjects
+The analytical sample included 29 468 households in 2008 and 27 654 in 2010.
+
+Results
+The generalized ordered logistic model showed that the financial crisis significantly (P &lt; 0·05) decreased the probability of being food secure, mildly or moderately food insecure, compared with being severely food insecure (OR = 0·74). A similar but smaller effect was found when comparing severely and moderately food-insecure households with mildly food-insecure and food-secure households (OR = 0·81). The ordinary least squares model showed that the crisis significantly (P &lt; 0·05) increased the share of total income spent on food (β coefficient of 0·02). The quantile regression confirmed the findings suggested by the generalized ordered logistic model, showing that the effects of the crisis were more profound among poorer households.
+
+Conclusions
+The results suggest that households that were more vulnerable before the financial crisis saw a worsened effect in terms of food insecurity with the crisis. Findings were consistent with both measures of food security – one based on self-reported experience and the other based on food spending.
+
+Food insecurityFinancial crisisMexico
+   Food insecurity is defined as the ‘limited or uncertain availability of nutritionally adequate and safe foods, or the limited or uncertain ability to acquire acceptable foods in socially acceptable ways’(1,2). It has been associated with negative impacts on human development such as increased poverty and inequality(3) and with adverse health outcomes such as increased risk of being obese(4,5), having type 2 diabetes(6,7) and other chronic conditions(8,9), as well as mental health problems(10–12). Food insecurity has also been correlated with poor economic growth(13). The probability of being food insecure has been reported to decline with income; therefore, negative income shocks are expected to increase the probability of being food insecure(14). Sen(15) argues that individuals need entitlements to food which depend, among other things, on their income; hence, there can be food insecurity even when food supplies are sufficient. This highlights the relevance of demand-side factors linked to accessibility and affordability of foods. As the 2008 global financial crisis hit national economies, some organizations reported that the macroeconomic effects of such crisis would increase food insecurity(16) and would interfere with nutritional well-being, leading to a long-term erosion of nutritional strategies that allow access to food and other food security-related items(17–19).
+
+Studies have also shown that financial crises worsen food insecurity among vulnerable populations(20); the groups that are most vulnerable to experience a decline in their nutritional status during economic crisis are those who spend a large proportion of their income on food(21). As highlighted by Bloem et al.(18), populations that were already spending about two-thirds of their household income on food were forced to shift their consumption to energy-rich, but nutritionally poor foods due to the economic crisis. Hence, the financial crisis further intensified the vulnerability of low-income households with poor nutritional and health status(22,23).
+
+In Mexico, the impact of the crisis manifested itself in 2009 when economic activity decreased, credit shrank, inflation increased, and consumption, production and employment declined. The overall Mexican economy shrank by 6·7 % in 2009(24). We hypothesized that this phenomenon contributed to an increased prevalence of food insecurity, as food prices rose and income decreased(22). The social impact of the financial crisis had a larger effect among the poorest. Habib et al.(25) reported that in Mexico, the lower income quintile suffered more-than-average per capita income losses (even after controlling for net transfers) as a result of the crisis. Such concentrated financial effect on the most vulnerable groups can also be highlighted through the food insecurity statistics which show that while the number of food-insecure individuals between 2008 and 2010 has remained constant at around 50 million (approximately 45 % of all individuals), the number of severely food-insecure individuals grew from 9·8 million (8·9 %) in 2008 to 12·2 million (10·8 %) in 2010(26). Food expenditures have been reported to be a flexible item in household budgets(27) and it is likely that the financial crisis may have led to trade-offs between food and other needs with fixed costs such as gas and electricity, limiting food consumption and producing shifts towards cheaper foods and less balanced diets.
+
+An important research question in light of such evidence is to investigate the effects of this crisis on household food security. Few studies have investigated the effects the 2008 financial crisis had on households’ food security status in middle-income nations. To our knowledge no study has specifically investigated its effect in Mexico. The present research explores the associations between food insecurity, as well as food expenditure as a percentage of income, and the financial crisis in Mexico. This analysis adds to the literature supporting that crises disproportionately impact the food security status of the most economically vulnerable households.
+
+Methods
+Data and study sample
+The present study used data from the Mexican National Household Income and Expenditure Survey (ENIGH). This is a nationally representative probabilistic survey collected every other year since the 1980s by the Mexican Institute of Statistics. We used data from the 2008 and 2010 waves, which correspond to the years immediately before and after the financial crisis. In addition, 2008 was the first time when the survey included questions from the Mexican Food Security Scale (EMSA). Therefore, these waves of data provide a unique opportunity to study the effect of the financial crisis on food insecurity. The analytical sample included 29 468 households in 2008 and 27 654 in 2010.
+
+Outcome variable: food security
+Food security was measured through the EMSA, which is comprised of twelve items that measure households’ perceptions regarding having and obtaining enough food to meet dietary needs(28). According to prior cut-off points defined in the literature(28), households were classified as being food secure (FS), mildly food insecure (MiFI), moderately food insecure (MoFI) and severely food insecure (SFI) based on zero, one to three, four to seven and eight to twelve affirmative answers, respectively, to EMSA questions. This scale is an abbreviated version of the Latin-American and Caribbean Food Security Scale, which has been demonstrated to have excellent construct validity, face validity and psychometric properties, as well as strong convergence and criterion validity among the general population(29–31).
+
+We also included a continuous proxy measure of food insecurity, defined as the proportion of a household’s disposable income spent on food. This arises from prior research suggesting that households that spend a larger proportion of their current income on food are at higher risk of food insecurity(18,20,21). Household expenditures on food indicate the ability of households to purchase food; this indicator is an indirect measure of households’ vulnerability to price shocks (as those occurred during the financial crisis).
+
+Financial crisis
+We constructed a dichotomous term that equals 0 for individuals interviewed in ENIGH 2008 (pre-crisis) and equals 1 for individuals interviewed in ENIGH 2010, to account for the timing of the financial crisis.
+
+Covariates
+Covariates for regression analyses included residence status (rural; semi-rural; semi-urban; urban)(32), total current household income quintile(14,33,34), household size, head of household’s educational attainment (none or some primary; primary completed or some secondary; secondary completed or some high school; high school completed or more)(35) and head of household’s gender(36). In addition, dummy variables were included for having at least one member of the family with social security, having at least one member enrolled into the social health insurance, receiving cash grants from Oportunidades, enrolment in a cash assistance programme for the elderly called 70 y Más(37), remittances receipt and if the household reported any agricultural self-consumption (i.e. whether the household reported consumption of a positive value of its agricultural production)(38).
+
+Statistical analysis
+A pooled cross-sectional analysis of ENIGH 2008 and 2010 was conducted. First, we computed the distribution of food security levels according to household sociodemographic characteristics using χ2 and adjusted Wald tests. Statistics were computed separately for each of the survey years. Next, we estimated a generalized ordered logistic regression (gologit2 model)(39) to assess the impact of the financial crisis on food security status measured (experience-based measured) as an ordinal dependent variable with four levels (FS, MiFI, MoFI, SFI). This model was chosen to utilize the ordered nature of the outcome variable, after successfully testing for the model fit to proportional odds and partial lines assumptions.
+
+In addition, an ordinary least squares (OLS) regression estimated the overall association of the financial crisis with the share of a household’s current income spent on food. To test the hypothesis that the financial crisis has a greater effect among the most vulnerable, a simultaneous quantile regression was also estimated using the same dependent variable. Employing conventional least square regression methods may produce estimates that do not necessarily capture the differences in magnitude of extremes values of the distribution of households’ income and expenditures. Given the income distribution in Mexico, this may be a relevant aspect to control for, making the use of a quantile function an appropriate statistical approach to address this issue.
+
+To assess the association between experience-based food security measures (i.e. EMSA) and the proxy measurement of the proportion of income spent on food, we tested whether the means of the proxy variables differed significantly between levels of food insecurity. In addition, an OLS regression was estimated between the proxy variable and the food security scale.
+
+All analyses were performed using sample weights and survey effects to account for different sampling probabilities. Statistical analyses were performed using the statistical software package STATA version 12. All P values were two-tailed and statistical significance was set at P &lt;0·05.
+
+Results
+Table 1 displays the sample summary descriptive statistics before and after the financial crisis (2008 and 2010, respectively). According to Table 1, the share of individuals classified as food secure increased significantly between these years from approximately 57 % to 60 %. However, there was an equally significant increase among severely food-insecure households from about 8 % in 2008 to close to 10 % in 2010. Some measures of interest that may be correlated with the crisis and that showed significant changes were the decrease in the percentage of households receiving remittances from abroad, as well as the decrease in the percentage of households reporting agricultural self-consumption. Table 1 also shows a large and statistically significant increase in the percentage of households enrolled into social health insurance, which is explained by the expansion of the Seguro Popular programme between 2008 and 2010. Table 1 shows a significant difference among income quintiles between 2008 and 2010; however, these differences result from using expansion factors and survey corrections.
+
+Table 2 displays the sample’s characteristics by food security levels, which were assessed separately for each year. Food-secure households were more likely to be urban (75·6 % in 2008 and 71·5 % in 2010), to be in the higher income quintile (close to 30 % for both years), to be headed by a male (about 76 % in both years) and a more educated head of household (approximately 30 % with high-school completed or more), more likely to be affiliated to social security (64·3 % in 2008 and 62·9 % in 2010), less likely to be beneficiaries of public programmes such as the social health insurance, Oportunidades and 70 y Más, and less likely to receive remittances or rely on agricultural self-consumption, compared with food-insecure households. By contrast, a larger percentage of food-insecure households were rural and in the lower two income quintiles. In addition, they were more likely to be headed by females and adults with incomplete primary education or no schooling, and showed lower levels of affiliation to social security. All these characteristics worsened as food insecurity level increased from mild to severe. However, this was not the case in affiliation to other public programmes, which showed different patterns across years and types of programme, and may be explained by modifications in eligibility criteria and by the impact of the crisis itself. But in all cases the share of food-insecure households affiliated to public programmes was larger compared with food-secure households. In 2008, mildly and moderately food-insecure households were more likely to receive remittances (7·5 and 7·4 % respectively); however, in 2010, severely food-insecure households received the largest percentage (5·6 %). Mildly and moderately food-insecure households in both years relied more on agricultural self-consumption.
+
+Table 3 displays the ordered logistic regression results. Model 1 presents the analysis comparing food-secure with all food-insecure households (including MiFI, MFS and SFI). The year variable suggests that having greater household food security prior to the crisis was associated with maintained food security status after the crisis (OR = 1·12), proposing that they tend to be better protected against negative economic shocks. Model 2 indicates that when comparing food-secure and mildly food-insecure households (i.e. MiFI are those households mainly reporting an anxiety about not being able to buy sufficient and nutritious foods) with moderately and severely food-insecure households, the year variable was associated with a lower likelihood of being food secure and mildly food insecure (OR = 0·81), suggesting the crisis worsened food insecurity experience among vulnerable households. Model 3 compares food-secure, mildly and moderately food-insecure households (i.e. MoFI are those experiencing modifications in the quality and quantity of the diet) with severely food-insecure households (i.e. SFI are households that actually experience insufficiency of foods even among children). Here, the year variable estimate was larger (OR = 0·74), suggesting that the financial crisis was associated with a decreased likelihood of being food secure, mildly and moderately food insecure compared with being severely food insecure (the worse level of food insecurity).
+
+The OLS model (Table 4) suggests that the financial crisis significantly increased the proportion of total disposable income spent on food (coefficient of 0·02). This may imply that the crisis increased the vulnerability of households; households that spend a larger share of their current income on food are at higher risk of vulnerability from price shocks and are regarded as more prone to food insecurity(18,20,21). To assess if the financial crisis was associated with a larger impact among the proportion of income spent on food among already vulnerable households, a quantile regression was estimated (Table 4). The results suggest important differences at different points in the proportion of current income spent on food. At the lower end of the distribution where the proportion of income spent on food was smaller (i.e. suggesting less vulnerability), the year variable was significant with a coefficient of 0·013. This implies that the onset of the crisis increased the proportion of income spent on food. However, as quantiles increased (i.e. suggesting a larger proportion of income assigned to food and, therefore, increased vulnerability), the year coefficient increased and continued to be statistically significant. The largest coefficient was estimated for quantile 80 (coefficient of 0·022), suggesting that, as expected, groups spending a larger percentage of their income on food suffered from a larger impact of the financial crisis; and specifically, that the crisis led these households to spend an even larger proportion of their income on food.
+
+The association between experience-based food security measures (i.e. EMSA) and the proxy measurement of the proportion of income spent on food showed consistent findings.
+
+Discussion
+Our study identifies a positive and significant association between the timing of the 2008 financial crisis and the prevalence of food insecurity in Mexican households. Moreover, as the severity of self-reported food insecurity increased, the effect of the crisis was found to be larger. Our analysis suggests that such effect can be explained considerably by an increased share of current income spent on food, especially among those who were already spending a higher percentage of their income on food. The analysis confirms what prior studies found regarding a disproportionately large effect on food insecurity status derived from income shocks among the most vulnerable groups(20). From a methodological standpoint, it was relevant to find results in the same direction using different statistical methods and variables, which adds robustness to the findings.
+
+There are different ways of measuring food insecurity; experience-based food security scales (like EMSA) and household income and expenditure data (like ENIGH) are among the commonly acknowledged options. Traditionally, household income and expenditure data are used to measure energy consumed on average per household member per day(40); we took a different stand and measured the share of income spent on food, as we believe that the sensitivity of food expenditures to income shocks among vulnerable groups makes this an appropriate and relevant proxy measure. This measure still faces some disadvantages similar to those of the energy consumed measure; namely, that the amount of food bought is not necessarily consumed(40). However, all food insecurity measures have limitations; for example, experience-based scales have difficulties setting the cut-off points to determine different levels of food insecurity and may be biased by the time frame selected. Despite all these measurement issues it is important to highlight that we found very similar results using different food insecurity approaches and statistical methods. Such convergence in results derived from food expenditure data and the experience-based EMSA provides compelling evidence of the validity and utility of food security scales. From a policy perspective, this is a relevant finding as food security scales, such as EMSA, may provide significant insights in measuring food poverty and highlight the importance of systematically collecting food security data.
+
+Most empirical research using experience–perception food insecurity scales dichotomize the dependent variable (i.e. food-secure v. food-insecure households)(41), which in turn results in the loss of the ability to keep food insecurity as an ordinal measure. We believe that it is important to utilize the granularity of such measures and our analysis confirms that being severely and moderately food insecure is very different from being mildly food insecure. Future studies using experience–perception food insecurity scales might benefit from such analytical approach.
+
+Our findings contribute to the emerging literature on food security measurement and governance from two perspectives. First, prior studies highlight that a key step for understanding how to improve food security governance is to measure if and how economic shocks affect food insecurity(42). Our study assesses, through alternative food insecurity indicators, the effect of the crisis on Mexican households. Second, the findings highlight the relevance of measuring food insecurity directly and strongly suggest that experience-based scales coincide with food expenditure measures. In turn, such findings may help justify the relevance of including experience-based scales in national surveys as key indicators for tracking food security.
+
+The study suggests an interesting approach of the effect of social programmes in protecting households from food insecurity. Interestingly, households receiving cash transfers from Oportunidades and enrolled in the social health insurance (i.e. Seguro Popular) were not protected against food insecurity during the crisis. This probably results from the sample bias produced by the eligibility criteria of the programmes themselves, which are focalized among vulnerable groups. However, the programme that provides cash grants to the elderly population (i.e. 70 y Más) did protect households against food insecurity. These findings are in line with other empirical studies of public cash transfers(43). Nevertheless, it should also be highlighted that between 2008 and 2010, 70 y Más expanded, potentially overstating its net effect. Such mixed-bag results in terms of how social programmes affected food security during financial crisis may not arise from measurement issues of experience-based food security scales, as both proxy indicators of food insecurity led to similar results. Instead they may result from the fact that such programmes have other goals besides nutrition assistance. In the case of the USA, the expansion of benefit levels for the Supplemental Nutrition Assistance Program (SNAP) driven by the 2008 financial crisis has been reported to have led to significant improvements in food spending and food security (measured by experience-based scales) among the most vulnerable, underlining the relevance of food insecurity measures as impact indicators of government interventions(33).
+
+Receiving remittances and agricultural self-consumption protected households against food insecurity during the crisis. However, it should be stressed that a limitation of the study is that the magnitude of these variables was not accounted for, as they were coded as dummy variables. The pooled cross-sectional nature of the study also limited the assessment of remittances, as it is likely that households experienced reductions in remittances as a result of the Great Recession in the USA during the same time period.
+
+The cross-sectional nature of data does not allow for association of causality to be drawn. In our analysis, the use of pooled cross-sectional data did not allow us to follow the same households over time. In addition, we specified the financial crisis as a dichotomous variable that equalled 0 for individuals interviewed in ENIGH 2008 and equalled 1 for ENIGH 2010, while controlling for other relevant covariates. It is possible that other unknown factors could have affected food security levels among households during the same study period. However, our results are found to be robust to different specifications.
+
+Conclusions
+The results suggest that the most vulnerable households before the financial crisis suffered from a larger effect in terms of food insecurity, which may lead to deepening health and social disparities. We find no evidence that public programmes intended to minimize the impact on the poor from adverse economic shocks (i.e. conditional cash transfers and social health insurance) mitigated the pervasive impact of the economic crisis on food security status except the cash-transfer programme to the elderly. Thus, measures to mitigate the impact of the crisis among vulnerable groups should be carefully addressed in Mexico. Equally, the nutrition and health impacts of cash transfers to the elderly should be further studied to correctly inform social policy. From a methodological perspective, it is important to highlight that the findings were consistent using both a measure of food security based on self-reported experience, as well as one based on expenditure on food.
+
+The authors would like to express their gratitude to Luis Ortiz-Blas for his guidance in managing ENIGH data.
+
+Financial support: This material is based upon work supported by a grant from the University of California Institute for Mexico and the United States (UC MEXUS) and the Consejo Nacional de Ciencia y Tecnología de México (CONACYT). UC MEXUS and CONACYT had no role in the design, analysis or writing of this article.
+
+Conflict of interest: None.
+
+Authorship: M.V.-C. planned the study, wrote the paper and supervised the statistical modelling and data analysis. S.S.-O. coded and managed the data, contributed to the statistical modelling and carried out data analysis. A.B.-S. contributed to planning the study and editing of the paper. S.S. contributed to data analysis. A.V.-B. contributed to the statistical modelling and analysis.
+
+Ethics of human subject participation: This research was reviewed and approved by the Comité de Ética en la Investigación (CEI), Universidad Iberoamericana (March 2012).
+
+Table 1 Characteristics of the sample households before (2008) and after (2010) the financial crisis; pooled cross-sectional data from the Mexican National Household Income and Expenditure Survey (ENIGH) 2008 and 2010
+
+	2008
+	2010
+	Comparison 2008 v. 2010
+	
+Mean/count	SE	Mean/count	SE	P value	
+Food security (%)	
+ FS	56·9	0·005	60·5	0·006	0·001	
+ MiFI	23·8	0·004	18·1	0·004		
+ MoFI	11·1	0·003	11·5	0·003		
+ SFI	8·2	0·003	9·9	0·003		
+Residence (%)	
+ Rural	20·7	0·005	21·4	0·006	0·895	
+ Semi-rural	13·1	0·005	13·7	0·006		
+ Semi-urban	14·1	0·003	14·5	0·005		
+ Urban	52·1	0·005	50·5	0·006		
+Income quintile (%)	
+ Q1	20·1	0·004	17·6	0·004	0·001	
+ Q2	20·4	0·004	19·5	0·003		
+ Q3	19·7	0·003	20·7	0·004		
+ Q4	20·1	0·004	20·5	0·003		
+ Q5	19·7	0·003	21·7	0·004		
+Household size	3·99	0·019	3·87	0·019	0·001	
+Education (head of HH) (%)	
+ None or some primary	30·9	0·005	28·5	0·005	0·026	
+ Primary completed or some secondary	22·6	0·004	23·0	0·004		
+ Secondary completed or some high school	24·5	0·004	25·5	0·004		
+ High school completed or more	23·0	0·004	23·0	0·004		
+Gender (head of HH) (%)	
+ Female	25·0	0·004	24·6	0·004	0·504	
+Social security (%)	
+ Yes	53·5	0·006	54·4	0·006	0·469	
+Social health insurance (Seguro Popular) (%)	
+ Yes	23·4	0·006	37·1	0·006	0·001	
+Cash-transfer receipt (Oportunidades) (%)	
+ Yes	15·7	0·005	16·6	0·005	0·418	
+Cash grants for the elderly (70 y Más) (%)	
+ Yes	5·1	0·002	5·0	0·002	0·701	
+Remittances (%)	
+ Yes	5·9	0·003	4·7	0·002	0·001	
+Agricultural self-consumption (%)	
+ Yes	13·7	0·004	10·9	0·003	0·001	
+
+              n
+            	29 468		27 654			
+FS, food secure; MiFI, mildly food insecure; MoFI, moderately food insecure; SFI, severely food insecure; HH, household.
+
+Food security statistics 2010 differ slightly from other sources, since there is an over-sampled version of ENIGH 2010 (MCS-ENIGH, n 35 146) focused on portraying a more precise picture of income and sociodemographic variables; however, this alternative version does not collect data on expenditure which is key to our analysis. Ranges for income quintiles differ between 2008 and 2010 due to sampling differences. For 2008 ranges were: quintile 1, $MX 0–4214; quintile 2, $MX 4215–6709; quintile 3, $MX 6710–10 101; quintile 4, $MX 10 102–16 535; quintile 5, $MX 16 536–1 441 294. For 2010 ranges were: quintile 1, $MX 0–3645; quintile 2, $MX 3646–5838; quintile 3, $MX 5839–8707; quintile 4, $MX 8708–13 660; quintile 5, $MX 13 661–319 489 (all values expressed in real Mexican pesos ($MX), 2010). In 2008 there were five outliers with incomes higher than expected. This biases the upper limit of quintile 5. The results of further statistical analyses did not differ including or excluding these observations.
+
+Table 2 Characteristics of the sample households by food security level; pooled cross-sectional data from the Mexican National Household Income and Expenditure Survey (ENIGH) 2008 and 2010
+
+	2008
+	2010
+	
+FS	MiFI	MoFI	SFI	FS	MiFI	MoFI	SFI	
+Residence (%)	
+ Rural	13·5	29·3	31·2	31·3	16·6	27·1	29·2	31·2	
+ Semi-rural	10·9	15·9	15·5	17·6	11·9	16·8	17·0	14·2	
+ Semi-urban	14·5	14·3	12·9	12·8	14·2	15·0	15·3	14·6	
+ Urban	61·2	40·6	40·5	38·3	57·3	41·0	38·5	40·0	
+Income quintile (%)	
+ Q1	11·2	27·6	34·3	41·0	11·3	22·5	28·1	34·7	
+ Q2	16·0	26·2	25·7	27·0	15·7	23·3	25·9	27·7	
+ Q3	19·6	20·8	19·9	17·2	19·7	23·3	23·0	19·6	
+ Q4	23·9	16·7	14·0	11·3	23·3	18·7	15·5	13·1	
+ Q5	29·3	8·6	6·2	3·6	30·0	12·2	7·5	4·9	
+Household size (mean)	3·8	4·2	4·4	4·3	3·6	4·1	4·3	4·2	
+Education (head of HH) (%)	
+ None or some primary	21·6	40·2	42·7	52·6	22·0	34·3	37·8	46·7	
+ Primary completed or some secondary	20·7	25·9	25·4	22·3	20·8	26·6	27·3	25·0	
+ Secondary completed or some high school	26·7	22·4	22·3	18·4	26·6	25·2	24·9	19·7	
+ High school completed or more	31·0	11·5	9·5	6·7	30·6	13·9	10·0	8·6	
+Gender (head of HH) (%)	
+ Female	24·0	25·0	25·0	31·5	23·8	24·0	25·3	29·4	
+Social security (%)	
+ Yes	64·3	43·0	37·0	32·4	62·9	47·5	38·2	34·2	
+Social health insurance (Seguro Popular) (%)	
+ Yes	15·9	31·4	36·0	36·0	29·3	44·8	54·6	50·3	
+Cash-transfer receipt (Oportunidades) (%)	
+ Yes	8·2	23·6	28·1	28·8	10·3	22·6	30·1	28·8	
+Cash grants for the elderly (70 y Más) (%)	
+ Yes	4·2	6·5	5·3	7·3	4·4	6·2	5·3	6·3	
+Remittances (%)	
+ Yes	5·0	7·5	7·4	5·8	4·4	5·1	4·6	5·6	
+Agricultural self-consumption (%)	
+ Yes	12·0	16·1	16·1	14·9	9·9	12·8	13·1	11·2	
+FS, food secure; MiFI, mildly food insecure; MoFI, moderately food insecure; SFI, severely food insecure; HH, household.
+
+Differences in sample characteristics by food security status were assessed separately for each year. All differences were statistically significant at P &lt; 0·05, assessed by a χ2 test.
+
+For 2008 ranges for income quintiles were: quintile 1, $MX 0–4214; quintile 2, $MX 4215–6709; quintile 3, $MX 6710–10 101; quintile 4, $MX 10 102–16 535; quintile 5, $MX 16 536–1 441 294. For 2010 ranges were: quintile 1, $MX 0–3645; quintile 2, $MX 3646–5838; quintile 3, $MX 5839–8707; quintile 4, $MX 8708–13 660; quintile 5, $MX 13 661–319 489 (all values expressed in real Mexican pesos ($MX), 2010).
+
+Table 3 Ordered logistic regression on food security status; pooled cross-sectional data from the Mexican National Household Income and Expenditure Survey (ENIGH) 2008 and 2010
+
+Covariates	Comparisons
+	
+Model 1
+FS v. MiFI, MoFI, SFI
+	Model 2
+FS, MiFI v. MoFI, SFI
+	Model 3
+FS, MiFI, MoFI v. SFI
+	
+OR	95 % CI	OR	95 % CI	OR	95 % CI	
+Residence	
+ Rural	–	–	–	–	–	–	
+ Semi-rural	0·90	0·80, 1·02	0·90	0·80, 1·02	0·90	0·80, 1·02	
+ Semi-urban	0·89*	0·80, 0·99	0·89*	0·80, 0·99	0·89*	0·80, 0·99	
+ Urban	0·97	0·88, 1·06	0·81*	0·74, 0, 90	0·80*	0·71, 0·90	
+Income quintile	
+ Q1	–	–	–	–	–	–	
+ Q2	1·48*	1·37, 1·60	1·48*	1·37, 1·60	1·48*	1·37, 1·60	
+ Q3	2·12*	1·95, 2·31	2·12*	1·95, 2·31	2·12*	1·95, 2·31	
+ Q4	3·39*	3·08, 3·72	3·39*	3·08, 3·72	3·39*	3·08, 3·72	
+ Q5	7·29*	6·50, 8·17	8·20*	7·10, 9·48	9·24*	7·53, 11·33	
+Household size	0·82*	0·81, 0·83	0·82*	0·81, 0·83	0·86*	0·84, 0·88	
+Education (head of HH)	
+ None or some primary	–	–	–	–	–	–	
+ Primary completed or some secondary	1·20*	1·12, 1·29	1·27*	1·17, 1·37	1·42*	1·29, 1·57	
+ Secondary completed or some high school	1·47*	1·36, 1·58	1·44*	1·33, 1·56	1·69*	1·51, 1·89	
+ High school completed or more	2·06*	1·89, 2·25	2·06*	1·89, 2·25	2·06*	1·89, 2·25	
+Gender (head of HH)	
+ Female	–	–	–	–	–	–	
+ Male	1·19*	1·12, 1·27	1·30*	1·21, 1·39	1·41	1·28, 1·54	
+Social security	
+ Yes	1·27*	1·20, 1·35	1·27*	1·20, 1·35	1·27*	1·20, 1·35	
+ No	–	–	–	–	–	–	
+Social health insurance (Seguro Popular)	
+ Yes	0·86*	0·80, 0·92	0·85*	0·79, 0·92	1·14	0·85, 1·04	
+ No	–	–	–	–	–	–	
+Cash-transfer receipt (Oportunidades)	
+ Yes	0·76*	0·69, 0·83	0·83*	0·76, 0·91	0·91	0·81, 1·03	
+ No	–	–	–	–	–	–	
+Cash grants for the elderly (70 y Más)	
+ Yes	1·12*	1·00, 1·25	1·12*	1·00, 1·25	1·12*	1·00, 1·25	
+ No	–	–	–	–	–	–	
+Remittances	
+ Yes	1·14*	1·02, 1·28	1·14*	1·02, 1·28	1·14*	1·02, 1·28	
+ No	–	–	–	–	–	–	
+Agricultural self-consumption	
+ Yes	1·16*	1·07, 1·25	1·16*	1·07, 1·25	1·16*	1·07, 1·25	
+ No	–	–	–	–	–	–	
+Year	1·12*	1·05, 1·19	0·81*	0·75, 0·87	0·74*	0·67, 0·82	
+FS, food secure; MiFI, mildly food insecure; MoFI, moderately food insecure; SFI, severely food insecure; HH, household.
+
+For 2008 ranges for income quintiles were: quintile 1, $MX 0–4214; quintile 2, $MX 4215–6709; quintile 3, $MX 6710–10 101; quintile 4, $MX 10 102–16 535; quintile 5, $MX 16 536–1 441 294. For 2010 ranges were: quintile 1, $MX 0–3645; quintile 2, $MX 3646–5838; quintile 3, $MX 5839–8707; quintile 4, $MX 8708–13 660; quintile 5, $MX 13 661–319 489 (all values expressed in real Mexican pesos ($MX), 2010).
+
+Model 1 compares how the financial crisis affected food-secure households compared with all food-insecure ones (mildly, moderately and severely food insecure). Model 2 examines the differential effect of the crisis between food-secure and mildly food-insecure households compared with moderately and severely food-insecure ones. Model 3 assesses the effect of the financial crisis between food-secure, mildly and moderately food-insecure households compared with severely food-insecure ones.
+
+* Statistically significant at P &lt; 0·05.
+
+Table 4 Ordinary least squares (OLS) and quantile regression on the share of total household current income spend on food; pooled cross-sectional data from the Mexican National Household Income and Expenditure Survey (ENIGH) 2008 and 2010
+
+	OLS
+	Quantile
+	
+20
+	40
+	60
+	80
+	
+Coeff.	P value	Coeff.	P value	Coeff.	P value	Coeff.	P value	Coeff.	P value	
+Residence	
+ Rural	–	–	–	–	–	–	–	–	–	–	
+ Semi-rural	−0·002	0·866	0·021*	0·001	0·015*	0·001	0·010*	0·018	−0·001	0·917	
+ Semi-urban	−0·034*	0·001	0·008*	0·001	0·001	0·636	−0·012*	0·002	−0·034*	0·001	
+ Urban	−0·061*	0·001	−0·003	0·185	−0·018*	0·001	−0·038*	0·001	−0·073*	0·001	
+Household size	0·001	0·675	0·004*	0·001	0·002*	0·001	0·001	0·055	0·000	0·663	
+Education (head of HH)	
+ None or some primary	–	–	–	–	–	–	–	–	–	–	
+ Primary completed or some secondary	−0·004	0·475	0·001	0·576	−0·001	0·621	−0·004	0·138	−0·007	0·134	
+ Secondary completed or some high school	−0·010*	0·039	0·005*	0·019	0·003	0·176	−0·001	0·666	−0·008	0·080	
+ High school completed or more	−0·057*	0·001	−0·031*	0·001	−0·043*	0·001	−0·055*	0·001	−0·068	0·001	
+Gender (head of HH)	
+ Female	0·022*	0·001	0·012*	0·001	0·015*	0·001	0·022*	0·001	0·026*	0·001	
+ Male	–	–	–	–	–	–	–	–	–	–	
+Social security	
+ Yes	−0·086*	0·001	−0·028*	0·001	−0·050*	0·001	−0·076	0·001	−0·114*	0·001	
+ No	–	–	–	–	–	–	–	–	–	–	
+Social health insurance (Seguro Popular)	
+ Yes	0·014*	0·021	0·015*	0·001	0·015*	0·001	0·015*	0·001	0·017*	0·001	
+ No	–	–	–	–	–	–	–	–	–	–	
+Cash-transfer receipt (Oportunidades)	
+ Yes	0·036*	0·001	0·030*	0·001	0·039*	0·001	0·044*	0·001	0·063*	0·001	
+ No	–	–	–	–	–	–	–	–	–	–	
+Cash grants for the elderly (70 y Más)	
+ Yes	−0·049*	0·001	−0·017*	0·001	−0·024*	0·001	−0·030*	0·001	−0·041*	0·001	
+ No	–	–	–	–	–	–	–	–	–	–	
+Remittances	
+ Yes	−0·023*	0·001	−0·001	0·704	−0·008	0·055	−0·017*	0·001	−0·033*	0·001	
+ No	–	–	–	–	–	–	–	–	–	–	
+Agricultural elf-consumption	
+ Yes	−0·035*	0·001	−0·033*	0·001	−0·037*	0·001	−0·034	0·001	−0·032*	0·001	
+ No	–	–	–	–	–	–	–	–	–	–	
+Year	0·020*	0·001	0·013*	0·001	0·016*	0·001	0·016*	0·001	0·022*	0·001	
+HH, household.
+
+* Statistically significant at P &lt; 0·05.
+
+
+   1 
+            Anderson SA  
+           1990 Core indicators of nutritional state for difficult-to-sample populations J Nutr 120 1559 1599 2243305 
+2 
+            Wolfe WS  
+            Frongillo EA  
+            Valois P  
+           2003 Understanding the experience of food insecurity by elders suggests ways to improve its measurement J Nutr 133 2762 2769 12949362 
+3 
+            Gorton D  
+            Bullen CR  
+            Mhurchu CN  
+           2010 Environmental influences on food security in high-income countries Nutr Rev 68 1 29 20041997 
+4 
+            Lyons AA  
+            Park J  
+            Nelson CH  
+           2008 Food insecurity and obesity: a comparison of self-reported and measured height and weight Am J Public Health 98 751 757 17666697 
+5 
+            Christian TJ  
+           2010 Grocery store access and the food insecurity–obesity paradox J Hunger Environ Nutr 5 360 369 
+6 
+            Fitzgerald N  
+            Hromi-Fiedler A  
+            Segura-Perez S  
+             
+           2011 Food insecurity is related to increased risk of type 2 diabetes among Latinas Ethn Dis 21 328 334 21942166 
+7 
+            Gucciardi E  
+            Vogt JA  
+            DeMelo M  
+             
+           2009 Exploration of the relationship between household food insecurity and diabetes in Canada Diabetes Care 32 2218 2224 19720843 
+8 
+            Gowda C  
+            Hadley C  
+            Aiello AE  
+           2012 The association between food insecurity and inflammation in the US adult population Am J Public Health 102 1579 1586 22698057 
+9 
+            Stuff JE  
+            Casey PH  
+            Connell CL  
+             
+           2006 Household food insecurity and obesity, chronic disease, and chronic disease risk factors J Hunger Environ Nutr 1 43 61 
+10 
+            Bansah AK  
+            Holben DH  
+            Basta T  
+           2011 Food insecurity is associated with energy insecurity and depression among individuals living with HIV/AIDs in rural Appalachia FASEB J 25 770 719 
+11 
+            Holben DH  
+            Shih KP  
+            Manoogian MM  
+           2004 Relationship of food insecurity to physical and mental health of women from rural, low-income households in West Virginia FASEB J 18 A109 
+12 
+            Hromi-Fiedler A  
+            Bermudez-Millan A  
+            Segura-Perez S  
+             
+           2011 Household food insecurity is associated with depressive symptoms among low-income pregnant Latinas Matern Child Nutr 7 421 430 20735732 
+13 
+            Verpoorten M  
+            Arora A  
+            Stoop N  
+             
+           2013 Self-reported food insecurity in Africa during the food price crisis Food Policy 39 51 63 
+14 
+            Gundersen C  
+            Kreider B  
+            Pepper J  
+           2011 The economics of food insecurity in the United States Appl Econ Perspect Policy 33 281 303 
+15 
+            Sen A  
+           1981 Poverty and Famines: An Essay on Entitlement and Deprivation Oxford Clarendon Press 
+16 Food and Agriculture Organization of the United Nations 2009 Food Security and the Financial Crisis Rome FAO available at ftp://ftp.fao.org/docrep/fao/meeting/018/k6360e.pdf  
+17 
+            Drèze J  
+            Sen AK  
+           1989 Hunger and Public Action Oxford Oxford University Press 
+18 
+            Bloem MW  
+            Semba RD  
+            Kraemer K  
+           2010 Castel Gandolfo Workshop: an introduction to the impact of climate change, the economic crisis, and the increase in the food prices on malnutrition J Nutr 140 1 132S 135S 19923395 
+19 
+            Christian P  
+           2010 Impact of the economic crisis and increase in food prices on child mortality: exploring nutritional pathways J Nutr 140 1 177S 181S 19923384 
+20 
+            Hurd MD  
+            Rohwedder S  
+           2010 Effects of the Financial Crisis and Great Recession on American Households NBER Working Paper Series no. 16407 Cambridge, MA National Bureau of Economic Research available at http://www.nber.org/papers/w16407  
+21 
+            de Pee S  
+            Brinkman H-J  
+            Webb P  
+             
+           2010 How to ensure nutrition security in the global economic crisis to protect and enhance development of young children and our common future J Nutr 140 1 138S 142S 19939998 
+22 
+            Brinkman H-J  
+            de Pee S  
+            Sanogo I  
+             
+           2010 High food prices and the global financial crisis have reduced access to nutritious food and worsened nutritional status and health J Nutr 140 1 153S 161S 19939996 
+23 
+            Ruel MT  
+            Garrett JL  
+            Hawkes C  
+             
+           2010 The food, fuel, and financial crises affect the urban and rural poor disproportionately: a review of the evidence J Nutr 140 1 170S 176S 19939990 
+24 United Nations Economic Commission for Latin America and the Caribbean 2009 Preliminary Overview of the Economies of Latin America and the Caribbean Santiago UNECLAC available at http://www.cepal.org/publicaciones/xml/3/38063/documento_informativo_en.pdf  
+25 
+            Habib B  
+            Narayan A  
+            Olivieri S  
+             
+           2010 The Impact of the Financial Crisis on Poverty and Income Distribution: Insights from Simulations in Selected Countries Washington, DC World Bank available at http://siteresources.worldbank.org/INTPREMNET/Resources/EP7.pdf  
+26 Consejo Nacional de Evaluación de la Política de Desarrollo Social 2011 Anexo Estadístico del Informe de Medición de Pobreza 2010 México, DF CONEVAL available at http://www.coneval.gob.mx/Medicion/Paginas/Medición/Anexo-Estadistico-Pobreza-2010.aspx  
+27 
+            Harrison GG  
+            Sharp M  
+            Manolo-LeClair G  
+             
+           2007 Food Security Among California’s Low-Income Adults Improves, But Most Severely Affected Do Not Share in Improvement Los Angeles, CA UCLA Center for Health Policy Research available at http://healthpolicy.ucla.edu/publications/Documents/PDF/Food_Security_PB_082207.pdf  
+28 Consejo Nacional de Evaluación de la Política de Desarrollo Social 2010 Dimensiones de la Seguridad Alimentaria: Evaluación Estratégica de Nutrición y Abasto México, DF CONEVAL available at http://www.coneval.gob.mx/rw/resource/coneval/info_public/PDF_PUBLICACIONES/Dimensiones_seguridad_alimentaria_FINAL_web.pdf  
+29 
+            Perez-Escamilla R  
+           2009 The Latin American and Caribbean household food security measurement scale (ELCSA) Ann Nutr Metab 55 70 
+30 
+            Perez-Escamilla R  
+            Dessalines M  
+            Finnigan M  
+             
+           2008 Validity of the Latin American and Caribbean Household Food Security Scale (ELCSA) in South Haiti FASEB 22 abstr. 871.3 
+31 
+            Pinheiro de Toledo Vianna R  
+            Hromi-Fiedler AJ  
+            Segall-Correa AM  
+             
+           2012 Household food insecurity in small municipalities in Northeastern Brazil: a validation study Food Sec 2 295 303 
+32 
+            Quandt S  
+            Rao P  
+           1999 Hunger and food security among older adults in a rural community Hum Organ 58 28 35 
+33 
+            Nord M  
+            Prell M  
+           2012 Food Security Improved Following the 2009 ARRA Increase in SNAP Benefits Economic Research Report no. ERR-116 Washington, DC USDA, Economic Research Service available at http://www.ers.usda.gov/publications/err-economic-research-report/err116.aspx  
+34 
+            Rose D  
+           1999 Economic determinants and dietary consequences of food insecurity in the United States J Nutr 129 2S Suppl 517S 520S 10064321 
+35 
+            Olson CM  
+           1999 Nutrition and health outcomes associated with food insecurity and hunger J Nutr 129 2S Suppl 521S 524S 10064322 
+36 
+            Hanson KL  
+            Sobal J  
+            Frongillo EA  
+           2007 Gender and marital status clarify associations between food insecurity and body weight J Nutr 137 1460 1465 17513407 
+37 
+            Miller CM  
+            Tsoka M  
+            Reichert K  
+           2011 The impact of the Social Cash Transfer Scheme on food security in Malawi Food Policy 36 230 238 
+38 
+            Appendini K  
+            Liverman D  
+           1994 Agricultural policy, climate-change and food security in Mexico Food Policy 19 149 164 
+39 
+            Williams R  
+           2006 Generalized ordered logit/partial proportional odds models for ordinal dependent variables Stata J 6 58 82 
+40 
+            Pérez-Escamilla R  
+            Segall-Corrêa AM  
+           2008 Food insecurity measurement and indicators Rev Nutr 21 Suppl 15S 26S 
+41 
+            Billimek J  
+            Sorkin DH  
+           2012 Food insecurity, processes of care, and self-reported medication underuse in patients with type 2 diabetes: results from the California Health Interview Survey Health Serv Res 47 2159 2168 22998155 
+42 
+            Pérez-Escamilla R  
+           2012 Can experience-based household food security scales help improve food security governance? Glob Food Sec 1 120 125 23795344 
+43 
+            Case A  
+            Menendez A  
+           2007 Does money empower the elderly? Evidence from the Agincourt demographic surveillance site, South Africa Scand J Public Health 35 157 164 17454919 
+

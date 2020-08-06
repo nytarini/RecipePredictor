@@ -1,0 +1,559 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   87095385861Neurotoxicol TeratolNeurotoxicol TeratolNeurotoxicology and teratology0892-03621872-973824561639405170310.1016/j.ntt.2014.02.003NIHMS570020ArticleNegative Confounding by Essential Fatty Acids in Methylmercury Neurotoxicity Associations Choi Anna L a*Mogensen Ulla B. bBjerve Kristian S. cdDebes Frodi eWeihe Pal eGrandjean Philippe afBudtz-Jørgensen Esben ba Department of Environmental Health, Harvard School of Public Health, Boston, Massachusetts, USAb Department of Biostatistics, University of Copenhagen, Copenhagen, Denmarkc Department of Medical Biochemistry, St. Olavs Hospital, Trondheim University Hospital, N-7021 Trondheim, Norwayd Department of Laboratory Medicine, Children’s and Women’s Health, Norwegian University of Science and Technology, N-7491 Trondheim, Norwaye Faroese Hospital System, Torshavn, Faroe Islandsf Institute of Public Health, University of Southern Denmark, Odense, DenmarkAddress correspondence to: Anna L Choi, Department of Environmental Health, Harvard School of Public Health, Landmark Center 3E, 401 Park Dr., Boston, MA 02215, USA, Phone: +01 617 384 8646, Fax: +01 617 384 8994, achoi@hsph.harvard.edu24 4 2014 20 2 2014 Mar-Apr 2014 01 3 2015 42 85 92 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+Methylmercury, a worldwide contaminant of fish and seafood, can cause adverse effects on the developing nervous system. However, long-chain n-3 polyunsaturated fatty acids in seafood provide beneficial effects on brain development. Negative confounding will likely result in underestimation of both mercury toxicity and nutrient benefits unless mutual adjustment is included in the analysis.
+
+Methods
+We examined these associations in 176 Faroese children, in whom prenatal methylmercury exposure was assessed from mercury concentrations in cord blood and maternal hair. The relative concentrations of fatty acids were determined in cord serum phospholipids. Neuropsychological performance in verbal, motor, attention, spatial, and memory functions was assessed at 7 years of age. Multiple regression and structural equation models (SEMs) were carried out to determine the confounder-adjusted associations with methylmercury exposure.
+
+Results
+A short delay recall (in percent change) in the California Verbal Learning Test (CVLT) was associated with a doubling of cord blood methylmercury (−18.9, 95% confidence interval [CI] = −36.3, −1.51). The association became stronger after the inclusion of fatty acid concentrations in the analysis (−22.0, 95% confidence interval [CI] = −39.4, −4.62). In structural equation models, poorer memory function (corresponding to a lower score in the learning trials and short delay recall in CVLT) was associated with a doubling of prenatal exposure to methylmercury after the inclusion of fatty acid concentrations in the analysis (−1.94, 95% CI = −3.39, −0.49).
+
+Conclusions
+Associations between prenatal exposure to methylmercury and neurobehavioral deficits in memory function at school age were strengthened after fatty acid adjustment, thus suggesting that n-3 fatty acids need to be included in analysis of similar studies to avoid underestimation of the associations with methylmercury exposure.
+
+Methylmercury CompoundsNeuropsychological measuresOmega-3 fatty acidsNegative confoundingPrenatal exposure delayed effectsStructural equation modeling
+   1. Introduction
+Methylmercury (MeHg), an organic form of mercury, is primarily generated from inorganic form in micro-organisms in the aquatic environment as part of the natural global biogeochemical cycling of mercury (NRC, 2000). MeHg bioaccumulates up the aquatic food chain so that the highest concentrations occur in large, long-lived predatory species in freshwater and marine food chains. This worldwide contaminant is a well-established neurotoxicant that can have serious adverse effects on the developing nervous system. Thus, infants exposed to high prenatal methylmercury exposure in Minamata, Japan were born with serious neurological damage, even if their exposed mothers were virtually unaffected (Igata, 1993; Harada, 1995). Recent epidemiological studies have documented subtle mercury-associated neuropsychological dysfunctions in the domains of language, attention, and memory, and to a lesser extent, in visuospatial and motor functions (Grandjean et al., 1997; NRC, 2000; Debes et al., 2006).
+
+Fish and seafood, however, contain n-3 polyunsaturated fatty acids (PUFA), mainly docosahexaenoic acid (DHA, 22:6n-3) and eicosapentaenoic acid (EPA, 20:5n-3) (Hearn et al., 987; Raper et al., 1992) that are essential for normal brain development and therefore may attenuate the apparent methylmercury toxicity. DHA is a component of membrane structural lipids that are enriched in non-myelin membranes of the nervous system and certain phospholipid components of the retina. EPA is a precursor of the n-3 eicosanoids, which have a range of beneficial effects (Kinsella et al., 1990; Connor, 2000; Mahaffey, 2004). The demand for PUFA is the greatest from the beginning of the third trimester of gestation through about 18 months after birth when the human brain grows the fastest; insufficient supplies of PUFA and other nutrients may result in deficits in brain development (Innis, 1991).
+
+This creates a situation of negative confounding, where MeHg and nutrients affect the outcome in opposite directions, thus resulting in substantial underestimation of the effects of mercury toxicity and of fish benefits unless there is mutual adjustment of both (Choi et al., 2008a; Stewart et al., 2012). Among the small number of studies that examined the effects of both nutrients and MeHg at the same time as predictors of developmental outcomes, several found that the effects of both predictors were strengthened when both were included in the modeling of the outcomes (Oken et al., 2005, 2008; Budtz-Jørgensen et al., 2007; Strain et al., 2008; Boucher et al., 2011). A recent review suggested that further studies are needed to examine the association of MeHg and nutrients from fish consumption with neurological development (Dziorny et al., 2012). Without mutual adjustment of both the mercury exposure and nutrients from fish, inherent bias will result from the underestimation of both toxicants and nutrients. The bias will be greater for parameters that are measured with a larger imprecision (Budtz-Jorgensen et al. 2007). Hence there is a great need to clarify the relative risks and benefits of fish and seafood consumption.
+
+The current study was undertaken to assess the potential impact of negative confounding by n-3 PUFA on the methylmercury effects on children’s neurobehavioral performance. Faroes Islands, the study location, is a Nordic fishing community with limited social differences, and the pollutant exposures primarily originate from traditional diets that include seafood and pilot whale meat (Grandjean et al., 1992). We made use of each individual’s multiple exposure biomarkers which included prenatal mercury levels from maternal hair at parturition and cord blood samples. We also included the result of the child’s hair and blood samples at 7 years of age. We used structural equation model (SEM) analysis to ascertain the association between the combination of MeHg exposure biomarkers on groups of outcome variables, thus avoiding the multiple comparison problems and adjusting for exposure imprecision and missing data which may not be adequately addressed by standard regression analysis (Budtz-Jørgensen et al., 2002).
+
+2. Materials and methods
+2.1. Study population
+A cohort of 182 singleton term births was assembled during a 12-month period in 1994–1995 at the National Hospital in Torshavn in the Faroe Islands. The local marine diet includes also the consumption of pilot whale meat, a main source of methylmercury exposure (Steuerwald et al., 2000). Six children who had congenital neurologic disease or psychomotor retardation were excluded. A total of 176 were included in the study.
+
+The protocol of the study was approved by the Faroese ethical review committee and by the Institutional Review Board in the US. Written informed consent was obtained from all parents.
+
+2.2. Measurements of Exposure
+The mercury (Hg) concentration in whole blood from the umbilical cord was used as the primary indicator of prenatal exposure to MeHg (Grandjean et al., 1992, 1997). Cord blood samples were obtained at birth and Hg analysis was performed in duplicate by flow-injection cold-vapor atomic absorption spectrometry after digestion of the sample in a microwave oven. Hair samples were cut close to the root in the occipital area of the mother at parturition. Details of analytic methods and quality control procedures are described elsewhere (Grandjean et al., 1992, 1997).
+
+Increased exposure to polychlorinated biphenyls (PCBs) may occur in the Faroes from the ingestion of blubber from pilot whales (Grandjean et al., 1997). The concentrations of major PCB congeners were therefore measured in maternal serum obtained at the mothers’ last antenatal consultation at week 34. PCB congeners were quantified by a two-stage solid-phase extraction method, followed by gas chromatography analysis with electron capture detection (Steuerwald et al., 2000). To avoid problems with congeners not assessed and concentrations below the detection limit, a simplified total PCB concentration was calculated as the sum of congeners CB-138, CB-153, and CB-180 multiplied by 2 (Heilmann et al., 2006).
+
+2.3. Measurements of Seafood Nutrients
+Cord serum phospholipids were extracted and transmethylated before analysis on a gas chromatograph with a flame inonization detector (Bjerve et al., 1987). Results were reported as relative concentrations in weight percent of total phospholipid fatty acids for essential n-3 PUFA (DHA and EPA), arachidonic acid (AA, 20:4n-6) as an essential n-6 PUFA, and the three relevant elongation and desaturation products – eicosatrienoic acid (ETA, 20:3n-9), docosatetraenoic acid (DTA, 22:4n-6), and docosapentaenoic acid (DPA, 22:5n-6). The sum of DHA and EPA was highly correlated with the total n-3 fatty acid concentration (r=0.98, p&lt;0.001) and was used as the nutrient adjustment.
+
+Selenium in cord blood samples were determined by electrothermal atomic absorption with Zeeman background correction. Methods and procedures of the analysis have been documented (Grandjean et al., 1992). We found that selenium was only weakly correlated with the sum of DHA and EPA (r=0.27, p&lt;0.001). Selenium in cord blood showed an average of 10-fold molar excess above methylmercury (Choi et al., 2008b).
+
+2.4. Outcome measurements
+We included neuropsychological tests that would be affected by the neuropathological abnormalities that have been described in congenital methylmercury poisoning (Harada, 1995; NRC, 2000) and functional deficits seen in children with early life exposure to neurotoxicants (Kjellström et al., 1989; White et al., 1994). These tests reflect different domains of brain functions. Details of the administration and results of the tests have been published (Grandjean et al., 1997; Choi et al., 2008b). In addition, based on a priori neurobehavioral knowledge and supported by exploratory factor analysis, the outcome variables were grouped into major nervous system functions (Debes et al., 1996; Budtz-Jørgensen et al., 2002). Briefly, Boston Naming Test (Kaplan et al., 1983) for language, Neurobehavioral Evaluation System (NES) Finger Tapping (Dahl et al., 1996) for motor function, NES Continuous Performance Test and Wechsler Intelligence Scale for Children – Revised (WISC-R) digit span forward (Weschler, 1974) for attention, WISC-R Block Design, Stanford-Binet (S-B) copying and recall (Thorndike et al., 1986) for visuospatial performance, and California Verbal Language Test (Children) (Delis et al., 1994) for verbal and memory functions.
+
+2.5. Measurement of covariates
+Potential covariates were identified based on the prior knowledge of potential influence on the outcome variables and the epidemiologic setting in the Faroe Islands (Grandjean et al., 1997; Steuerwald et al., 2000). Characteristics of the cohort are described elsewhere (Steuerwald et al., 2000). Briefly, the characteristics of the child included sex, age at testing, parity, the Home Observation for Measurement of the Environment (HOME) evaluation (Caldwell and Bradley, 1985), and computer experience (for computer-assisted tests). The parental characteristics considered were maternal Raven intelligence score, and, as binary variables, maternal smoking during pregnancy, maternal and paternal vocational and professional training and paternal employment. For the socially and highly homogenous Faroese society where social status scales from other countries are not appropriate, we used vocational or professional training (versus unskilled) of each parent and the employment status of the father as binary indicators of social background (Grandjean et al. 1997). For computer-assisted tests, two binary variables (yes/no) relating to the child’s acquaintance with computers and computer games were included.
+
+Previously defined medical risk factors at birth (Grandjean et al., 1997) did not show any relationship with mercury exposure (97% of the children did not have any) and were therefore not included in the final models.
+
+2.6. Statistical analyses
+The distributions of the exposure data were skewed, and were therefore log (base 10) transformed to approximate a Gaussian distribution. Most of the neurobehavioral test scores were normally distributed, except for Block Design (transformed to the square root of the score) and the number of missed responses on the Continuous performance Test (score was transformed to the natural logarithm +1). The distributions of the nutrients approximated a Gaussian distribution. Associations of contaminant exposures and nutrient concentration with outcome parameters were determined using standard regression techniques. Residual plots were used to assess the model fit, and the significance of second- and third- order terms was determined to test linearity assumptions. Association with mercury exposure was expressed as the change (as a percentage of standard deviation) of the outcome variables for each doubling of the exposure. The corresponding 95% confidence intervals (CI) were calculated. The nutrient association was similarly expressed as the change of the outcome variables for a one-unit increase in the nutrient variable.
+
+DHA and AA are the two major PUFAs that are important in early central nervous system development (Jacobson et al. 2008; Martinez 1992). Because they compete for the same metabolic pathways, high dietary intake of DHA can result in decreased tissue AA (Jacobson et al. 2008). Studies have used the ratios of DHA to AA or total n-3 to n-6 to evaluate the degree of n-3 fatty acid enrichment (Cotogni et al. 2011; Jacobson et al. 2008; Simopoulos et al. 2002). We therefore included the ratio of sum DHA and EPA to AA as an additional nutrient parameter.
+
+A recent study found that the concentrations of the three relevant elongation and desaturation products – eicosatrienoic acid (ETA, 20:3n-9), docosatetraenoic acid (DTA, 22:4n-6), and docosapentaenoic acid (DPA, 22:5n-6) may reflect relative deficiency or a suboptimal dietary supply of essential fatty acids which might not be observed by including n-3 nutrients alone (Slagsvold et al. 2009). As a secondary analysis, we therefore included these three fatty acids in addition to DHA+EPA as the nutrients adjustment.
+
+Because of the availability of several exposure parameters and outcome variables, linear regression analysis with confounder adjustment was complemented by structural equation models (SEMs) to assess the association between an integrated set of exposure variables (cord blood and maternal hair mercury) on the one hand, and sets of outcomes (tests for each of the brain function domain) on the other, with adjustment for nutrient variables and confounders. SEMs have only recently been introduced in environmental health research, but detailed instructions are available (Bollen, 1989; Budtz-Jørgensen et al., 2002). In this approach, the neurobehavioral outcomes are considered to be manifestations of five latent neurobehavioral variables, and similarly, mercury concentrations in cord blood and maternal hair measured the child’s latent exposure. Each of the latent neurobehavioral variables was assumed to depend linearly on the latent exposure variable (See Figure 1 for the verbal function). In addition to avoiding multiple comparison problems, this method can adjust for exposure imprecision and missing data, which may not be adequately addressed by standard regression analyses (Budtz-Jørgensen et al., 2000). Information from children with incomplete data was included in the maximum likelihood estimation under the assumption that the values were missing at random (Little and Rubin, 2002; Budtz-Jørgensen et al. 2002).
+
+The outcome variables were grouped into several latent brain function domains: verbal (Boston Naming tests, California Verbal Language Test (CVLT), and Digit Span forward); motor (Finger Tapping); attention (digit span forward and Continuous Performance Test); spatial (square block design, copying, and copying recall); and memory (California Verbal Language Test and copying recall). The latent variables were determined from factor structure and consistency with response modalities where the test scores were assumed to reflect five broad functional groupings as previously described (Debes et al. 2006). In order to include a sufficient number of tests in each group, outcomes were allowed to occur in more than one group. Exposure effects on the latent outcomes can be expressed as the effect of a doubling in exposure in the units of a selected neurobehavioral test score (the so-called reference outcome) chosen before the analysis.
+
+Additional separate analyses were performed including selenium as an additional nutrient, and PCB a potential confounder.
+
+To support and enhance our current analyses, we also include as supplementary materials, a meta-analysis for SEM with the inclusion of a larger previous cohort with similar characteristics, but the fatty acid measurements were missing.
+
+3. Results
+The characteristics of the cohort are reported in Table 1. The children were born with birth weight above 2500 g and with a mean gestational age of 39.6 weeks. This population is highly dependent on fish and seafood, including pilot whale as confirmed by the dietary habits during pregnancy. Most of the pregnant women were non-smokers (69%), and 87.5% did not consume alcohol during pregnancy.
+
+Table 2 shows the geometric means and interquartile ranges of Hg and PCB concentrations among the 176 children. The exposure biomarkers showed relatively wide ranges. The interquartile range of Hg concentrations spanned almost a factor of four. Cord blood Hg was highly correlated with maternal hair Hg at parturition (r=0.84, p&lt;0.001), and moderately correlated with cord serum PCB (r=0.45, p&lt;0.001). PCB did not show any statistically significant associations with the outcomes, and including it as a confounder in the models only marginally changed the associations with mercury. We therefore report the results without PCB adjustment.
+
+Table 3 shows the distribution of mean relative concentration of fatty acids (given as weight percent) in cord serum phospholipids and cord blood selenium among the 176 subjects. As was found in our earlier study, selenium did not play a significant protective role against methylmercury neurotoxicity, and including it in the models only changed the n-3 fatty acid association by about 1–3%, the results were therefore reported without the selenium adjustment.
+
+Means of the neuropsychological tests were generally within expected limits, based on Scandinavian and similar norms for this age range (Table 4). Results of multiple regression models showed that increased cord blood methylmercury exposure was significantly associated with deficit in recall for short delay at 7 years, with marginal significant association with verbal learning (Table 4). These associations were strengthened after the adjustment of fatty acids. The Stanford-Binet immediate recall correct scores were marginally associated with methylmercury exposure but the association though in the expected direction, became non-significant after the adjustment of the nutrients. No significant or marginal significant associations between methylmercury exposure and the other outcomes were found. The nutrients were not associated with the outcomes.
+
+A SEM was constructed to determine the overall association of prenatal mercury exposure with each group of neurobehavioral tests at 7 years, with adjustment for nutrients (expressed as the sum of DHA and EPA) and confounders. Figure 1 shows the SEM to determine the association of prenatal methylmercury exposure on verbal function. Similar models were performed for the motor, attention, spatial, and memory functions. Results for the latent variables (Table 5) were in accordance with those found in the regression models. Prenatal mercury exposure was significantly associated with decreased memory performance, and its association with verbal function reached marginal significance with the adjustment of the sum DHA and EPA. In both outcomes, the associations were strengthened after adjusting for the nutrient. We also included maternal fish dinners in the models and found similar but weaker association with the memory function (see Appendix A), and we therefore report the models with the nutrient adjustments only.
+
+Results of the analyses using the ratio of sum DHA and EPA to AA were similar to those of the sum of DHA and EPA (see Appendix A). Similar results were found in the secondary analysis when the three relevant elongation and desaturation products – ETA, DTA, and DPA were adjusted as the nutrients in addition to DHA+EPA (see Appendix A).
+
+4. Discussion
+Our results showed that increased prenatal methylmercury exposure was associated with deficits in memory function at school age – a domain known to be sensitive to this neurotoxicant. The association was strengthened after adjustment for n-3 fatty acid concentrations.
+
+A major strength of the present study is that we used valid exposure biomarkers as indicators of prenatal MeHg exposure, and grouped outcome variables into major nervous system functions based on a priori neurobehavioral knowledge as previously described (Budtz-Jørgensen et al., 2002; Debes et al., 2006). Past studies have assessed the association using mercury concentrations in maternal hair (Oken et al., 2005; Strain et al., 2008) or cord blood (Boucher et al., 2011) with individual outcomes. Our SEM analyses used integrated information from all available exposure biomarkers, taking into account the imprecisions originating from both laboratory measurement error and biological variation (Budtz-Jørgensen et al., 2002). The latent exposure variable is likely to provide a better approximation to the true prenatal MeHg exposure if the model assumptions are appropriate. Similarly, the outcomes were grouped to reflect the different domains of brain functions. The SEM therefore avoids multiple comparison problems and adjusts for exposure imprecision and missing data, which may not be adequately addressed by standard regression analyses.
+
+To separate opposite impacts on the outcomes such that the true extent of developmental methylmercury neurotoxicity will not be underestimated, we assessed both the beneficial effects and adverse risks of fish intake at the same time. We used measurements of essential n-3 PUFA (DHA and EPA) and n-6 PUFA (AA) in cord serum. The average concentrations of DHA and AA in our cohort were more than twice as high as comparable data from the Inuit infants in Artic Quebec, where fish and sea mammals are the stable diet (Jacobson et al., 2008), although the different analytical methods in the separation of phospholipids between the studies might explain some of the differences. Currently there is no internationally agreed standard method on how to measure PUFA in patients or in epidemiological studies. Although all methods presently used are significantly and positively associated with the dietary intake, only a part of the variation in the measured PUFA concentrations can be explained by the dietary seafood intake. The remaining variation is explained by other factors such as variations in metabolism, genome, population characteristics, age, and sex (Lindberg et al. 2013). The high concentrations of PUFA in cord blood suggested that all Faroese children are PUFA sufficient. Thus, the lack of nutrient association with the outcomes could probably be due to a relatively flat PUFA curve at high levels. Studies have shown a non-linear association between measured relative concentrations of PUFA and outcomes, suggesting a threshold limit above which no further change of effects on outcomes is observed (Bønaa et al. 1990; Lindberg et al. 2008). Another factor that may explain the lack of nutrient association with the outcomes could be that DHA and EPA may have differential effects on the measured outcome (Bønaa et al. 1992; Mori et al. 2000). The analyses with DHA only, however, showed similar results. We also adjusted for selenium, a nutrient found in seafood, in the analyses. However, no significant associations with selenium were found, and unchanged associations of mercury with the outcomes were found after adjustment for selenium, consistent with our previous findings (Choi et al., 2008b). Again, the high selenium concentrations suggest that the Faroese are selenium sufficient.
+
+We had limited power to assess the associations in our cohort. However, the tendencies of adverse mercury-related associations with the verbal function were consistent with the advanced SEM models which combined both cohorts (as described in the supplementary materials), and the observation that the association was strengthened after the adjustment for n-3 fatty acid concentrations, thus correcting for negative confounding. In addition, significant association of mercury exposure with deficits in memory performance was strengthened after adjusting for fatty acids but not fish intake as the beneficial effects of fish consumption depend on the relative fatty acid content of the fish consumed. Thus, maternal fish consumption cannot be used as a proxy measure for the nutritional benefits of PUFA that may mask the adverse effect of Hg exposure. The relatively small changes in mercury effects with and without the adjustment of fatty acids reflect the low correlation between mercury exposure and essential fatty acids in our cohorts, and effects of adjustment for fatty acids could be greater in other populations, especially those that include subjects with a broader range of intakes. Furthermore, DHA, which is highly enriched in the brain including the hippocampus and is associated with an increase in the hippocampus-related learning and memory function (Birch et al. 2000; Diau et al. 2005), may have partially explained why the negative confounding was observed most clearly in the memory domain.
+
+In conclusion, prenatal exposure to methylmercury was associated with deficits at school age in domains known to be sensitive to this neurotoxicant, with associations being strengthened after fatty acid adjustment. These findings suggest that n-3 fatty acids need to be included in analysis of similar studies to avoid underestimation of the associations with methylmercury.
+
+Supplementary Material
+01  This study was supported by the U.S. National Institute of Environmental Health Sciences (ES009797 and ES011687). We are indebted to members of the Faroese health care system for their assistance in generating this cohort and in conducting the examinations of the children.
+
+
+          Conflict of Interest
+        
+
+None declared. In the interest of transparency, the author (PG) declares that he has provided paid expert testimony on mercury toxicology for the U.S. Department of Justice in a legal case concerning environmental pollution from coal-fired power plants.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Abbreviations
+AAarachidonic acid
+
+CVLTCalifornia Verbal Language Test
+
+DHAdocosahexaenoic acid
+
+DPAdocosapentaenoic acd
+
+DTAdocosatetraenoic acid
+
+EPAeicosapentaenoic acid
+
+ETAeicosatrienoic acid
+
+MeHgmethylmercury
+
+PCBpolychlorinated biphenyls
+
+PUFApolyunsaturated fatty acid
+
+SEMstructural equation model
+
+Appendix A
+Changes in outcomes (six groups of neurobehavioral tests) and corresponding 95% confidence intervals associated with a doubling in Hg exposure and a one unit increase in fish nutrients at age 7 years in SEM analysis with adjustment in a Faroese cohort (N=176)
+
+Figure 1 Path diagram for a structural equation model (SEM) to determine the overall association of prenatal methylmercury exposure and verbal function, with adjustment for nutrients (expressed by the sum of DHA and EPA) and covariates. The estimated true mercury exposure (Hg) is modeled as a latent parameter based on mercury concentrations in cord blood (B-Hg), and maternal hair (H-Hg). The latent verbal parameter are expressed by a series of verbal neuropsychological test results (Boston Naming Tests – BNT1, BNT2; Digit Span forward; and California Naming Tests – CVLT1, CVLT2, CVLT3, CVLT4)
+
+Table 1 Characteristics of the 176 Faroese children
+
+Variable		
+Age in years at examination (mean ± SD)	7.5 ± 0.08	
+Sex (boy/girl) [%]	50/50	
+Gestational age in weeks (mean ± SD)	39.6 ± 1.2	
+Birth weight in g (mean ± SD)	3670 ± 478	
+HOME score (mean ± SD)	43.3 ± 4.6	
+Computer experience at testing (yes/no) [%]	89/11	
+Previous births (0/1/at least 2) [%]	30/28/42	
+Maternal Raven score (mean ± SD)	47.8 ± 6.4	
+Non-smoking during pregnancy [%]	68.8	
+No alcohol consumption during pregnancy [%]	87.5	
+Monthly fish dinners consumed during pregnancy (0–1/2/at least 3) [%]	20/30/50	
+Monthly whale dinners consumed during pregnancy (0/1/at least 2) [%]	40/24/36	
+Monthly whale blubbler dinners consumed during pregnancy (0/1/at least 2) [%]	48/19/33	
+Table 2 Distribution of Hg and PCB Concentrations Among a Faroese Birth Cohort (N=176)
+
+Exposure biomarker	N	Geometric mean	Interquartile range	Total range	Correlation with cord blood Hg	
+Prenatal Hg exposure	
+ Cord blood (μg/L)	157	21.4	12.9–40.0	1.90–101.8	1.00	
+ Maternal hair (μg/g)	169	4.10	2.48–7.82	0.32–16.3	0.84	
+Serum-PCBa (μg/g lipid)	
+ Cord serum	167	1.13	0.63–1.93	0.04–18.4	0.45	
+a Total PCB concentration was calculated as twice the sum of congeners 138, 153, and 180.
+
+Table 3 Mean Relative Concentrations of Fatty Acids (weight %) in Cord Serum Phospholipids and Cord Blood Selenium (μg/L) Among a Faroese Birth Cohort
+
+Fatty Acid	N	Mean (SD)	Interquartile Range	Total Range	Correlation with DHA+EPA	
+Sum of DHA and EPA	149	9.57 (1.71)	8.22–10.9	6.40–14.5	1.00	
+Docosahexaenoic acid (DHA)	149	8.94 (1.66)	7.67–10.1	5.93–13.8	0.99	
+Eicosapentaenoic acid (EPA)	149	0.63 (0.28)	0.43–0.77	0.12–1.61	0.25	
+Total n-3a	149	10.8 (1.91)	9.32–12.0	6.97–16.7	0.98	
+Arachidonic acid (AA)	149	16.5 (1.63)	15.4–17.4	9.28–21.8	−0.02	
+Total n-6b	149	32.0 (1.69)	30.9–33.3	28.3–36.1	−0.52	
+DHA+EPA/AA ratio	149	0.59 (0.12)	0.50–0.67	0.35–0.92	0.86	
+Total n-3/Total n-6 ratio	149	0.34 (0.07)	0.28–0.38	0.20–0.55	0.96	
+Seleniumc	136	103.0 (1.14)	93.8–112.3	77.1–157.5	0.27	
+a Total n-3 included fatty acids 18:3n3, 20:5n3, 22:5n3 and 22:6n3
+
+b Total n-6 included fatty acids 18:2n6, 20:2n6, 20:3n6, 20:4n6, 22:4n6, and 22:5n6
+
+c Geometric mean and SD
+
+Table 4 Association of Neurobehavioral Test Performance (Expressed as Percent Change) and Corresponding 95% Confidence Intervals (CI) at 7 Years With one Unit increase of Fatty Acids (DHA+EPA), and a Doubling of the Cord Blood Hg Exposure With Adjustment for Covariatesa Among a Faroese Cohort (N=176)
+
+Test	Mean	Model 1:
+Hg only	Model 2:
+Fatty acids only	Model 3: Hg with Fatty acids	
+Hg	Fatty acids	
+NES2 Finger Tapping	
+ Preferred hand	52	13.1 (−4.36, 30.6)	−0.07 (−0.89, 0.74)	14.0 (−3.25, 31.3)	−0.14 (−0.94, 0.66)	
+ Non-preferred hand	46	6.40 (−10.4, 23.2)	−0.32 (−0.98, 0.33)	7.62 (−9.16, 24.4)	−0.34 (−0.98, 0.31)	
+ Both hands	70	4.01 (−13.4, 21.4)	0.28 (−1.29, 1.85)	4.34 (−13.5, 22.2)	0.30 (−1.25, 1.85)	
+NES2 CPT	
+ Average RT (ms)b	653	8.59 (−9.67, 26.9)	4.56 (−3.58, 12.7)	7.59 (−11.1, 26.3)	3.79 (−4.65, 12.2)	
+ Log total false negative	1.16	11.4 (−7.35, 30.2)	0.02 (−0.07, 0.11)	10.3 (−9.01, 29.6)	0.006 (−0.08, 0.10)	
+ Log total false positive	1.49	−6.92 (−25.2, 11.3)	−0.02 (−0.10, 0.06)	−7.81 (−26.6, 10.7)	−0.02 (−0.10, 0.06)	
+WISC-R	
+ Digit spans	4.17	−2.07 (−20.8, 16.6)	−0.12 (−0.26, 0.01)†	0.11 (−18.8, 19.0)	−0.13 (−0.26, 0.01)†	
+ Similarities	9.73	−10.3 (−26.8, 6.14)	0.15 (−0.11, 0.41)	−13.0 (−29.4, 3.39)	0.18 (−0.07, 0.43)	
+ Sqrt block designs	4.61	0.08 (−17.9, 18.0)	0.04 (−0.10, 0.18)	0.84 (−17.2, 18.9)	0.04 (−0.10, 0.18)	
+Boston Naming Test	
+ No cues	27.6	−12.6 (−30.3, 5.06)	−0.21 (−0.78, 0.36)	−10.5 (−28.4, 7.47)	−0.16 (−0.74, 0.42)	
+ With cues	30.7	−12.5 (−30.3, 5.16)	−0.24 (−0.81, 0.32)	−9.81 (−27.7, 8.04)	−0.20 (−0.77, 0.37)	
+CVLT	
+ Learning	36.5	−14.3 (−30.4, 1.87)†	−0.01 (−0.95, 0.93)	−15.7 (−32.3, 0.83)†	0.11 (−0.83, 1.05)	
+ Short delay, free recall	6.36	−18.9 (−36.3, −1.51)*	0.22 (−0.11, 0.55)	−22.0(−39.4, −4.62)*	0.28 (−0.05, 0.60)	
+ Long delay, free recall	6.54	−7.15 (−25.0, 10.7)	0.12 (−0.21, 0.45)	−7.26 (−25.2, 10.7)	0.14 (−0.19, 0.47)	
+ Long delay, recognition	12.8	0.40 (−14.7, 15.5)	−0.02 (−0.24, 0.19)	0.12 (−15.7, 16.0)	−0.02 (−0.24, 0.20)	
+Stanford-Binet	
+ Copying block design	2.87	−5.0 (−22.0, 12.0)	−0.03 (−0.23, 0.18)	−7.28 (−24.8, 10.3)	−0.02 (−0.22, 0.18)	
+ Immediate recall correct	5.93	−16.0 (−34.6, 2.56)*	0.05 (−0.21, 0.32)	−15.7 (−34.9, 3.48)	0.08 (−0.18, 0.35)	
+a Age at testing, sex, parity, maternal Raven score, maternal and paternal training, paternal employment, maternal smoking during pregnancy, and HOME score. For computer assisted tests, the child’s acquaintance with computers and computer games were included.
+
+b Higher scores indicate worst performance.
+
+† p&lt;0.10,
+
+* p≤0.05
+
+Table 5 Changea in Outcomes (six Groups of Neurobehavioral Tests) and Corresponding 95% Confidence Intervals Associated With a Doubling in Hg Exposure (With and Without Serum Fatty Acids, DHA+EPA) and a one Unit Increase in Fatty Acids at age 7 Years in Structural Equation Model (SEM) Analysis With Covariate Adjustmentb in a Faroese Cohort (N=176)
+
+	Mercury only (95% CI)
+No fatty acids	Mercury with fatty acids (95% CI)	
+Mercury	Fatty acids	
+Verbal	−0.42 (−1.17, 0.32)	−0.50 (−1.06, 0.06)†	0.15 (−0.12, 0.43)	
+ Boston Naming with cues				
+ Boston Naming no cues				
+ Digit span forward				
+ CVLT learning				
+ CVLT short delay, free recall				
+ CVLT long delay, free recall				
+ CVLT recognition				
+Motor	−0.33 (−1.12, 0.46)	0.15 (−0.95, 1.25)	−0.14 (−0.68, 0.39)	
+ NES2 FT preferred				
+ NES2 FT non-preferred				
+ NES2 FT both hands				
+Attention	−0.07 (−0.20, 0.06)	−0.05 (−0.21, 0.11)	−0.07 (−0.16, 0.02)	
+ WISC-R digit spans				
+ NES2 CPT mean RT (ms)				
+ NES2 CPT log false negative				
+ NES2 CPT log false positive				
+Spatial	−0.13 (−0.32, 0.07)	−0.16 (−0.37, 0.05)	0.04 (−0.07, 0.15)	
+ WISC-R sqrt block designs				
+ S-B copying designs (16)				
+ S-B immediate recall correct				
+Memory	−1.01 (−2.21, 0.20)	−1.94 (−3.39, −0.49)*	0.67 (−0.03, 1.36)†	
+ CVLT learning				
+ CVLT short delay, free recall				
+ CVLT long delay, free recall				
+ CVLT recognition				
+ S-B immediate recall correct				
+a Change is expressed in the units of the reference outcome. Verbal: Boston Naming with cues; Motor: NES2 FT preferred; Attention: WISC-R digit spans; Spatial: WISC-R sqrt block designs; Memory: CVLT learning.
+
+b Each structural equation model included confounders: sex, age at testing, parity, maternal Raven score, maternal and paternal training, paternal employment, maternal smoking during pregnancy, HOME score, and monthly whale dinners during pregnancy. For computer assisted tests, the child’s acquaintance with computers and computer games were included.
+
+† p&lt;0.10,
+
+* p 0.05
+
+Highlights
+Fish and seafood contain toxic contaminants such as methylmercury, but also provide essential nutrients including n-3 fatty acids
+
+We measured prenatal methylmercury exposure in cord blood and maternal hair at parturition, and n-3 polyunsaturated fatty acids in cord serum phospholipids in a birth cohort
+
+Neuropsychological performance in verbal, motor, attention, spatial, and memory functions was assessed at 7 years of age
+
+Decreased memory function was associated with prenatal methylmercury exposure
+
+The association was strengthened by the inclusion of fatty acid concentrations in the analysis, suggesting that negative confounding will likely result in the underestimation of mercury toxicity unless nutrient benefits are adjusted in the analysis
+
+
+   
+            Birch EE  
+            Garfield S  
+            Hoffman DR  
+            Uauy R  
+            Birch DG  
+           A randomized controlled trial of early dietary supply of long-chain polyunsaturated fatty acids and mental development in term infants Dev Med Child Neurol 2000 42 174 181 10755457 
+
+            Bjerve KS  
+            Fischer S  
+            Alme K  
+           Alpha-linolenic acid deficiency in man: effect of ethyl linolenate on plasma and erythrocyte fatty acid composition and biosynthesis of prostanoids Am J Clin Nutr 1987 46 4 570 576 3310599 
+
+            Bollen KA  
+           Structural Equations with Latent Variables New York John Wiley 1989 
+
+            Bønaa KH  
+            Bjerve KS  
+            Straume B  
+            Gram IT  
+            Thelle D  
+           Effect of eicosapentaenoic and docosahexaenoic acids on blood pressure in hypertension N Engl J Med 1990 322 795 801 2137901 
+
+            Bønaa KH  
+            Bjerve KS  
+            Nordøy A  
+           Docosahexaenoic and eicosapentaenoic acids in plasma phospholipids are divergently associated with high density lipoproteins in humans Arterioscler Thromb 1992 12 675 681 1534256 
+
+            Boucher O  
+            Burden MJ  
+            Muckle G  
+            Saint-Amour D  
+            Ayotte P  
+            Dewailly E  
+             
+           Neurophysiologic and neurobehavioral evidence of beneficial effects of prenatal omega-3 fatty acid intake on memory function at school age Am J Clin Nutr 2011 93 5 1025 1037 21389181 
+
+            Budtz-Jørgensen E  
+            Keiding N  
+            Grandjean P  
+            Weihe P  
+           Estimation of health effects of prenatal mercury exposure using structural equation models Environ Health 2002 1 2 10.1186/1476-069X-1-2 Online 14 October 2002 12513702 
+
+            Budtz-Jørgensen E  
+            Grandjean P  
+            Weihe P  
+           Separation of risks and benefits of seafood intake Environ Health Perspect 2007 115 3 323 327 17431478 
+
+            Budtz-Jørgensen E  
+            Debes F  
+            Weihe P  
+             
+           Structural equation models for meta-analysis in environmental risk assessment Environmetrics 2010 21 5 510 527 2010 
+
+            Caldwell BM  
+            Bradley RH  
+           Home Observation for Measurement of the Environment New York Dorsey 1985 
+
+            Choi AL  
+            Cordier S  
+            Weihe P  
+            Grandjean P  
+           Negative confounding in the evaluation of toxicity: the case of methylmercury in fish and seafood Crit Rev Toxicol 2008a 38 10 877 893 19012089 
+
+            Choi AL  
+            Budtz-Jørgensen E  
+            Jørgensen PJ  
+            Stuerwald U  
+            Debes F  
+            Weihe P  
+             
+           Selenium as a potential protective factor against mercury developmental neurotoxicity Environ Res 2008b 107 1 45 52 17854796 
+
+            Cotogni P  
+            Muzio G  
+            Trombetta A  
+            Ranieri VM  
+            Canuto RA  
+           Impact of the ω-3 to ω-6 polyunsaturated fatty acid ratio on cytokine release in human alveolar cells J Parenter Enteral Nutr 2011 35 114 121 
+
+            Connor WE  
+           Importance of n-3 fatty acids in health and disease Am J Clin Nutr 2000 71 Suppl 171S 175S 10617967 
+
+            Dahl R  
+            White RF  
+            Weihe P  
+            Sørensen N  
+            Letz R  
+            Hudnell HK  
+             
+           Feasibility and validity of three computer-assisted neurobehavioral tests in 7-year-old children Neurotoxicol Teratol 1996 18 4 413 419 8866532 
+
+            Debes F  
+            Budtz-Jørgensen E  
+            Weihe P  
+            White RF  
+            Grandjean P  
+           Impact of prenatal methylmercury toxicity on neurobehavioral function at age 14 years Neurotoxicol Teratol 1996 28 5 536 547 17067778 
+
+            Delis DC  
+            Kramer JH  
+            Kaplan E  
+             
+           California Verbal Learning Test (Children) San Antonio, TX Psychological Corp 1994 
+
+            Diau GY  
+            Hsieh AT  
+            Sarkadi-Nagy EA  
+            Wijendran V  
+            Nathanielsz PW  
+            Brenna JT  
+           The influence of long chain polyunsaturated supplementation on docosahexaenoic acid and arachidonic acid in baboon neonate central nervous system BMC Med 2005 3 11 15975147 
+
+            Dzirony AC  
+            Orlanda MS  
+            Strain JJ  
+            Davidson PW  
+            Myers GJ  
+           Neurophysiologic measures of auditory function in fish consumers: Associations with long chain polyunsaturated fatty acids and methylmercury Neurotoxicology 2012 
+            http://dx.doi.org/10.1016/j.neuro.2012.10.002 
+           
+
+            Grandjean P  
+            Weihe P  
+            Jørgensen PJ  
+            Clarkson T  
+            Cernichiari E  
+            Viderø T  
+           Impact of maternal seafood diet on fetal exposure to mercury, selenium, and lead Arch Environ Health 1992 47 3 182 185 
+
+            Grandjean P  
+            Weihe P  
+            White RF  
+            Debes F  
+            Araki S  
+            Yokoyama K  
+             
+           Cognitive deficit in 7-year-old children with prenatal exposure to methylmercury Neurotoxicol Teratol 1997 19 6 417 428 9392777 
+
+            Grandjean P  
+            Jorgensen PJ  
+            Weihe P  
+           
+            Wilson SH  
+            Suk WA  
+           Validity of mercury exposure biomarkers Biomarkers of Environmentally Associated Disease 235 247 Boca Raton, FL CRC Press/Lewis Publishers 2002 
+
+            Grandjean P  
+            Budtz-Jorgensen E  
+           Total imprecision of exposure biomarkers: implications for calculating exposure limits Am J Ind Med 2007 50 712 719 17492658 
+
+            Harada M  
+           Minamata disease: methylmercury poisoning in Japan caused by environmental pollution Crit Rev Toxicol 1995 25 1 1 24 7734058 
+
+            Hearn TL  
+            Sgoutas SA  
+            Hearn JA  
+             
+           Polyunsaturated fatty acids and fat in fish flesh for selecting species for health benefits J Food Sci 1987 52 5 1209 1211 
+
+            Heilmann C  
+            Grandjean P  
+            Weihe P  
+            Nielsen F  
+            Budtz-Jørgensen  
+           Reduced antibody responses to vaccinations in children exposed to polychlorinated biphenyls PLoS 2006 3 8 e311 
+
+            Igata A  
+           Epidemiological and clinical features of Minamata disease Environ Res 1993 63 1 157 169 8404770 
+
+            Innis SM  
+           Essential fatty acids in growth and development Prog Lip Res 1991 30 1 39 103 
+
+            Jacobson JL  
+            Jacobson SW  
+            Muckle G  
+            Kaplan-Estrin M  
+            Ayotte P  
+            Dewailly E  
+           Beneficial effects of a polysaturated fatty acid on infant development: evidence from the Inuit of Artic Quebec J Pediatr 2008 152 3 356 364 18280840 
+
+            Kaplan E  
+            Goodglass H  
+            Weintraub S  
+           The Boston Naming Test Philadelphia Lea and Febiger 1983 
+
+            Kinsella JE  
+            Lokesh B  
+            Stone RA  
+           Dietary n-3 polyunsaturated fatty acids and amelioration of cardiovascular disease: possible mechanism Am J Clin Nutr 1990 52 1 1 28 2193500 
+
+            Kjellström T  
+            Kennedy P  
+            Wallis S  
+           Physical and mental development of children with prenatal exposure to mercury from fish Stage 2, interviews and psychological tests at age 6 (Report 3642) Stockholm National Swedish Environmental Protection Board 1989 
+
+            Lindberg M  
+            Saltvedt I  
+            Sletvold O  
+            Bjerve KS  
+           Long-chain n-3 fatty acids and mortality in elderly patients Am J Clin Nutr 2008 88 722 729 18779289 
+
+            Lindberg M  
+            Midthjell K  
+            Bjerve KS  
+           Long-term tracking of plasma phospholipid fatty acid concentrations and their correlation with the dietary intake of marine foods in newly diagnosed diabetic patients: results from a follow-up of the HUNT study, Norway Brit J Nutr 2013 109 1123 1134 22846205 
+
+            Little RJA  
+            Rubin DB  
+           2002 Statistical Analysis with Missing Data 2 Hoboken, NJ Wiley 
+
+            Mahaffey KR  
+           Fish and shellfish as dietary sources of methylmercury and the ω-3 fatty acids, eicosahexaenoic acid and docosahexaenoic acid: risks and benefits Environ Res 2004 95 3 414 428 15220075 
+
+            Martinez M  
+           Tissue levels of polyunsaturated fatty acids during early human development J Pediatr 1992 120 S129 138 1532827 
+
+            Mori TA  
+            Watts GF  
+            Burke V  
+            Hilme E  
+            Puddey IB  
+            Beilin LJ  
+           Differential effects of eicosapentaenoic acid and docosahexaenoic acid on vascular reactivity of the forearm microcirculation in hyperlipidemic, overweight men Circulation 2000 102 1264 1269 10982541 
+NRC (National Research Council) Toxicological effects of methylmercury Washington, D.C National Academy Press 2000 
+
+            Oken E  
+            Wright RO  
+            Kleinman KP  
+            Bellinger DC  
+            Amarasiriwardena CJ  
+            Hu H  
+             
+           Maternal fish consumption, hair mercury, and infant cognition in a US cohort Environ Health Perspect 2005 113 1376 1380 16203250 
+
+            Oken E  
+            Radesky JS  
+            Wright RO  
+            Bellinger DC  
+            Amarasiriwardena CJ  
+            Kleinman KP  
+             
+           Maternal fish intake during pregnancy, blood mercury levels, and child cognition at age 3 years in a US cohort Am J Epidemiol 2008 88 289 796 
+
+            Raper NR  
+            Cronin FJ  
+            Exler J  
+           Omega-3 fatty acid content of the US food supply J Am Coll Nutr 1992 11 304 308 1619182 
+
+            Simopoulos AP  
+           The importance of the ratio of omega-6/omega-3 essential fatty acids Biomed Pharmacother 2002 56 365 379 12442909 
+
+            Slagsvold JE  
+            Thorstensen K  
+            Kvitland M  
+            Erixon D  
+            Knagenhjelm N  
+            Mack M  
+            Bjerve KS  
+           Fatty acid desaturase expression in human leucocytes correlates with plasma phospholipid fatty acid status Scan J Clin Lab Invest 2009 69 496 504 
+
+            Stewart PW  
+            Reihman J  
+            Lonky E  
+             
+           Issues in the interpretation of associations of PCBs and IQ Neurotoxicol Teratol 2012 34 96 107 22146557 
+
+            Strain JJ  
+            Davidson PW  
+            Bonham MP  
+            Duffy EM  
+            Stokes-Riner A  
+            Thurston SA  
+             
+           Associations of maternal long-chain polyunsaturated fatty acids, methyl mercury, and infant development in the Seychelles Child Development Nutrition Study Neurotoxicol 2008 29 5 776 782 
+
+            Steuerwald U  
+            Weihe P  
+            Jørgensen PJ  
+            Bjerve K  
+            Brock J  
+            Heinzow B  
+             
+           Maternal seafood diet, methylmercury exposure, and neonatal neurologic function J Pediatr 2000 136 599 605 10802490 
+
+            Thorndike RL  
+            Hagen EP  
+            Sattler JM  
+           Stanford-Binet Intelligence Scale 4 Chicago, IL Riverside 1986 
+
+            Weschler D  
+           1974 Wechsler Intelligence Scale for Children-Revised New York, NY Psychological Corp 1974 
+
+            White RF  
+            Debes F  
+            Dahl R  
+            Grandjean P  
+           Development and field testing of a neuro-psychological test battery to assess the effects of methylmercury exposure in the Faroe Islands Proceedings of the International Symposium on Assessment of Environmental Pollution and Health Effects of Methylmercury Kumamoto 1994 127 140 
+

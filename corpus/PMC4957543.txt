@@ -1,0 +1,402 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10089336621673J Nutr Health AgingJ Nutr Health AgingThe journal of nutrition, health &amp; aging1279-77071760-478823299377495754310.1007/s12603-012-0387-3NIHMS601614ArticleSIMPLE KCAL/KG FORMULA IS COMPARABLE TO PREDICTION EQUATIONS FOR ESTIMATING RESTING ENERGY EXPENDITURE IN OLDER COGNITIVELY IMPAIRED LONG TERM CARE RESIDENTS SILVER H.J. 1WALL R. 2HOLLINGSWORTH E. 2PRUITT A. 2SHOTWELL M. 3SIMMONS S. 241  Division of Gastroenterology, Hepatology &amp; Nutrition, Department of Medicine, Vanderbilt University School of Medicine, Nashville, Tennessee2  Division of General Internal Medicine and Public Health, Department of Medicine, Vanderbilt University School of Medicine, Nashville, Tennessee3  Department of Biostatistics, Vanderbilt University School of Medicine, Nashville, Tennessee4  Tennessee Valley Healthcare System, Veterans Administration, Geriatric Research Education and Clinical Center, Nashville, Tennessee.6 7 2016 1 2013 22 7 2016 17 1 39 44 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objective
+Assessment of energy needs is a critical step in developing the nutrition care plan, especially for individuals unable to modulate their own energy intakes. The purpose of this study was to assess precision and accuracy of commonly used prediction equations in comparison to measured resting energy expenditure in a sample of “oldest old” adults residing in long term care (LTC).
+
+Subjects and Design
+Resting energy expenditure (mREE) was measured by indirect calorimetry in 45 residents aged 86.1 ± 7.3 years, and compared to frequently used prediction equations (pREE): Mifflin St.Jeor, Harris Benedict, World Health Organization and Owen. Precision and accuracy were determined by concordance correlation coefficients and number of individuals within ± 10% of mREE. Bland Altman plots with linear dependence trends were constructed to visualize agreement. To complete analyses, the common 25 kcal/kg formula was assessed and alternative formulas were determined for best fit by regressing adjusted mREE on body weight.
+
+Results
+mREE averaged 976.2 ± 190.3 kcal/day for females and 1260.0 ± 275.9 kcal/d for males. The strength of the relationships between pREE and mREE were only moderate (r = 0.41 – 0.72). In examining linear trends in the Bland Altman plots, significant systematic deviation from mREE was detected for all pREE. Two kcal/kg formulas were generated: 20.6 kcal/kg for females and 22.7 kcal/kg for males, which were not significantly different.
+
+Conclusion
+None of the prediction equations adequately estimated energy needs in this sample of the “oldest old.” A simple formula using 21-23 kcal/kg may be a more practical and reliable method to determine energy needs in the LTC setting.
+
+Long term careolder adultenergy expenditure
+   Introduction
+With increased life expectancy, the fastest growing segment of the U.S. population is the “oldest old.” In fact, the number of people aged ≥ 80 years is expected to triple to ~19 million by 2050 (1). As older persons are highly susceptible to chronic disease, illness and injury, over 40% need long term care services (2). Thus, spending for long term care is over $206 billion annually. Further compromising their health status, only 1/3 of long term care (LTC) residents are well nourished (3), regardless of weight status. Malnutrition in the elderly profoundly impacts quality of life as it is significantly associated with dehydration (4-6), physical disability and functional decline (7, 8), and pressure ulcers and delayed wound healing (9) - all of which contribute substantially to health care resource use, health care costs (10), and earlier mortality (7).
+
+The maintenance of adequate nutritional status in older age is influenced by the metabolic adaptations occurring during the physiological process of aging. Chemosensory changes alter taste and smell, anatomical changes in the gastrointestinal tract influence gastric emptying and satiety, and thus, food intakes are reduced by 100-200 kcal/day per decade of adult life (11, 12). This “anorexia of aging” (13) potentiates an energy deficit of 600-1200 kcal/day in later years (11). Simultaneously, body composition changes characterized by increased body fat and decreased lean mass (14-16), along with decreased mass of metabolically active organs (ie, liver, kidneys, spleen and brain) (17), reduces resting energy expenditure (REE), regardless of whether or not weight loss occurs (18-23). As REE is the single largest component (~70-80%) of total energy expenditure (TEE), longitudinal data indicate TEE decreases as much as 6-7.5% per decade of life (24, 25). While the reduction in energy intake should counterbalance the reduction in energy expenditure, the presence of hypermetabolic chronic disease, illness or injury complicates energy homeostasis. For example, chronic obstructive pulmonary disease, congestive heart failure, dialysis-treated chronic kidney disease, and advanced pressure ulcers increase REE by 7-18% kcal/day (26-29). However, in reviewing the evidence on sick older adults compared to healthy older adults, Gaillard et al (30) detected no difference in REE. Hence, accurate estimation of energy requirements in older adults is quite challenging, especially for persons with multiple comorbidities.
+
+Nevertheless, determining caloric intake goals and designing appropriate nutrition interventions is necessary for improving weight and health status. Either measured or predicted REE can be used to prescribe energy intakes. For measured REE (mREE), it is most common to use portable indirect calorimeters. However, the cost of indirect calorimetry equipment and supplies, the training necessary to acquire reliable data, and the difficulty of performing measurements in older populations limits widespread usage beyond the research environment (31). Additionally, indirect calorimetry protocol typically imposes artificial conditions of being in a post-absorptive and thermoneutral state. Therefore, equations that predict REE (pREE) are more common in clinical and community practice settings.
+
+Systematic review of the literature and clinical practice guidelines allowed identification of four prediction equations frequently used in LTC practice for individual nutrition assessment: World Health Organization/Food and Agriculture Organization/United Nations University (32), Mifflin-St Jeor (33), Harris and Benedict (34), and Owen (35, 36). While using prediction equations may be a more efficient tool, they are based on demographic factors (sex, weight, height and age) that may not account for all of the variability in REE. Furthermore, as the population samples used in deriving these formulas had limited numbers of older adults and very few individuals from the “oldest old” age group (37), they are likely to result in prediction error that significantly underestimates or overestimates energy needs (38). A mismatch between prescribed energy intake and energy expenditure would promote unintentional weight change and further complicate health status, particularly in persons unable to modulate their own dietary intakes.
+
+Since there is little evidence of the precision and accuracy of prediction equations compared to mREE in the “oldest old”, especially those in the long term care setting, the present study was designed to compare prediction equations commonly used in LTC practice to mREE via indirect calorimetry in a sample of older adults of varying body mass. We hypothesized that the prediction equations would underestimate or overestimate energy needs by a clinically significant amount regardless of body weight. Thus, we also sought to determine whether estimated energy requirements in LTC residents were sufficiently precise and accurate using body weight as the sole predictor in a kilocalorie-based formula, that is, kilocalories per kg of bodyweight (kcal/kg/bw).
+
+Methods
+Subjects for the present study were a subset of adults residing in two LTC facilities in Southern California who were enrolled in a randomized clinical trial to improve urinary incontinence and mobility (39, 40). The sub-study on REE was conducted with 45 long-stay residents who were aged ≥ 65 years, incontinent of urine but catheter-free, not receiving tube feeding, not on a weight loss diet, and not in hospice care. As the inter-individual variation in energy expenditure within any group of individuals is thought to reflect differences in body weight, no body mass index (BMI) category was excluded. Written informed consent was obtained from the resident or the resident's responsible party as designated in their medical record. The study was approved by the Institutional Review Board of the University of California, Los Angeles.
+
+Demographic and medical information was obtained from subjects’ medical records. Cognitive status was assessed with the standardized version of the Folstein Mini-Mental State Exam (MMSE) with scores from “0-9” indicating severe cognitive impairment, “10-20” moderate impairment, “21-24” mild impairment, and “25-30” cognitively intact (41). BMI was calculated from weights obtained by study staff using the calibrated LTC facility chair scale in the morning after incontinence care and the height documented in the medical record.
+
+Resting energy expenditure was measured using a Deltatrac respiratory gas analyzer (Sensormedics Corporation, Yorba Linda, CA), an open-circuit, ventilated-canopy system that is considered the gold standard for measurement of REE as it has proven to be the most accurate and reliable instrument (38). Analyzers were calibrated using a gas mixture of 95% oxygen / 5% carbon dioxide prior to each use. Measurements were obtained in basal conditions early in the morning in a quiet room set at ambient temperature with subjects fasted overnight and lying quietly in bed at a semi-recumbent position (head of the bed at 300). After habituation, data were collected every 30 seconds for a total of 15 minutes and the first three minutes of data were excluded from analyses (42). To confirm the reliability of the Deltatrac protocol, a sub-sample of 18 residents had repeated measures at the same time of the morning on three non-consecutive days within one week. Pearson correlation coefficients between these three values ranged from .77 to .86 (p &lt; 0.001) indicating good data reliability.
+
+Statistical analysis
+Statistical analyses were performed using SPSS (version 17, 2008, SPSS Inc. Chicago, IL) and R (version 2.13.1, 2011, R Foundation for Statistical Computing, Vienna, Austria). P values &lt;0.05 were considered statistically significant. The Kolmogorov-Smirnov statistic was used to assess normality for continuous outcomes. Descriptive data were summarized by means and standard deviations or counts and frequencies. The bias (difference) between mREE and pREE was calculated using actual body weight and percent bias was computed as (mREE – pREE / mREE) x 100%.
+
+The concordance correlation coefficient (CCC), a measure of agreement between quantitative methods (43), was used to assess the accuracy of pREE by deviation in the relationship between mREE and pREE from the line of concordance (a 45 degree line passing through the origin), and precision by the magnitude of deviations from the line. The CCC (rc) is related to the more common Pearson correlation coefficient (rr) via a bias correction factor (Cb), which is a ratio of the two coefficients (rc/rr), but while Pearson's measures precision it does not measure accuracy. The CCC, the associated 95% confidence interval, and bias correction factor for each prediction equation are reported here. Prediction accuracy was further defined as the percentage of prediction values within ± 10% of mREE (37, 38), a clinically acceptable error rate. Thus, prediction error was considered the percentage of values where pREE was underestimated at &lt; 90% mREE or overestimated at &gt; 110% mREE.
+
+The Bland–Altman method (44) was used to visually assess the limits of agreement (mean difference ± 1.96 SD of the difference) between mREE and pREE for each formula. As such, the difference in mREE and pREE (y-axis) was plotted against the mean of mREE and pREE (x-axis). Linear dependence trends in the Bland-Altman plots were computed using the method of least squares. Linear trends deviating significantly from horizontal indicate that there is systematic bias in pREE versus mREE or one measure is significantly more variable than the other. Significant deviations were assessed by computing 95% confidence intervals for the slope parameter. Confidence intervals that did not include the horizontal slope (zero) were considered statistically significant.
+
+To complete our analyses, we compared the accuracy of the 25 kcal/kg formula, which estimates TEE after multiplying mREE by a coefficient of 1.2 to adjust for the energy cost of daily activity and stress in the typical LTC environment. Visual assessment by scatterplot of body weight (kg) versus adjusted mREE suggested that 25 kcal/kg overestimated mREE in this cohort. Alternative kcal/kg formulas were assessed separately for males and females by regressing adjusted mREE on body weight. A fitted slope parameter was used to estimate the best kcal/kg formula for these data. To compare the best kcal/kg formula to the 25 kcal/kg formula, 95% confidence intervals were constructed for the slope parameters. Thus, confidence intervals that did not include the value 25 indicated significant deviation.
+
+Results
+Descriptive characteristics for the 45 (35 female and 10 male) subjects are presented in Table 1. Subjects body mass represented a range of National Heart, Lung, and Blood Institute classifications (45) with 5 (11.1%) underweight (BMI &lt; 18.5 kg/m2), 28 (62.2%) normal weight (BMI 18.5-24.9 kg/m2) and 12 (26.7%) overweight/obese (BMI ≥ 25 kg/m2). No significant difference in BMI by gender was detected (p = 0.82). The average score on the MMSE indicated most subjects had moderate to severe cognitive impairment. Their average length of stay in the LTC facility at the time indirect calorimetry was performed was about three years.
+
+Measured resting energy expenditure averaged 976.2 ± 190.3 kcal/day for females and 1260.0 ± 275.9 kcal/d for males. The performance of each prediction equation compared to mREE is presented in Table 2. The estimated mean differences in pREE as compared to mREE did not show statistical significance due to the large variability in mREE within this sample. As the prediction equations use common demographic variables, the strength of the relationships between pREE and mREE were moderate (rc = 0.41 – 0.72).
+
+The Bland Altman plots presented in Figure 1 illustrate the agreement between indirect calorimetry and the MSJ, HB, WHO and Owen equations, respectively. As demonstrated in the plots, construction of the limits of agreement had to be very wide so that &gt;95% of the data points lay within ± 1.96SD for all prediction equations (MSJ:−376.5 to 321.5, HB:-271.9 to 373.2, WHO:−168.6 to 536.3, Owen:−114.8 to 583.1 kcal/d). In examining the linear trends, a significant systematic deviation from mREE was detected for all prediction equations. The slope for HB showed a significant negative bias for female subjects, the slope for MSJ showed a significant negative bias for male subjects, and the slopes for the WHO and Owen equations showed significant negative bias for both genders (Table 2). Mean bias ranged from −27.5 kcal (MSJ) to 234.1 kcal (Owen). No significant improvements in accuracy of the prediction equations were detected when comparing subjects by BMI.
+
+The significant variability in the prediction bias prompted consideration of its clinical relevance. As shown in Table 3, only 24.5% - 37.8% of subjects had pREE within the range of ±10% of mREE whether using one of the estimation equations or the 25 kcal/kg formula. Thus, in construction of best fit lines to the trends in body weight versus mREE (Figure 2) it was revealed that 22.7 kcal/kg (95% CI: 20.5, 25.0) for males and 20.6 kcal/kg (95% CI: 19.1, 22.0) for females offered better estimation of mREE. Overall, using these best fit kcal/kg formulas places 60% of subjects within the range of ±10% mREE. In calculating the 95% confidence interval for the difference between male and female best fit kcal/kg formulas (a difference of 2.18 kcal/kg), it was determined that this difference is not statistically significant (95% CI: 4.95, −0.58 kcal/kg).
+
+Discussion/Conclusion
+The estimation of energy needs is a critical element of nutrition assessment that determines the nutrition intervention, outcomes evaluation, monitoring and follow-up components of the nutrition care plan. There remains little investigation of the precision and accuracy of commonly used equations to predict energy requirements in LTC residents, especially those who are aged ≥80 years of varying BMI. The key finding in the present study is that none of the prediction equations we tested adequately estimated energy needs in this sample of the “oldest old.” Further, while it may be considered likely that the 12 subjects who were overweight/obese in the study sample influenced the accuracy of prediction equations, we detected no significant improvements in pREE when considering BMI as a factor.
+
+Although the modest correlations observed between pREE and mREE in the current dataset are consistent with those described in the original datasets (32-36), the extent of error had not been evaluated for all populations. For a prediction equation to be considered adequate for clinical use in a given population it not only should predict within 10% of mREE, but the bias should be small. On average, precision of pREE deviated from mREE by 171 – 293 kcal/day. While the lowest bias between pREE and mREE was observed with the Mifflin St Jeor equation for females and the Harris Benedict for males, these equations were only clinically accurate (±10% of mREE) for 27-38% of the 45 subjects. If energy needs were underestimated by just 10% for the other 28-33 subjects, these individuals could be expected to lose ≥ 4% body weight in less than 3 months (46) – which is likely to increase their mortality risk by as much as 243% (47).
+
+The inadequacy of prediction equations is not entirely unexpected as these formulas were derived from adults of dissimilar age and health status to LTC residents. The MSJ was derived from 498 adults of varying BMI and mean age of 44.5 ± 14.1 years, the HB equations were developed in women aged 31 ± 14 years and men aged 27 ± 9 years, and the Owen equations were developed in women aged 35 ± 12 years and men 38 ± 15.6 years. The WHO formula was derived from the Schofield equations which included individuals 19 – 82 years old. While a systematic review of these four predictive equations showed that MSJ was most likely to estimate within 10% mREE in healthy adults, the expert panel recommended that dietetics practitioners use clinical judgment due to the potential for significant error - especially in older individuals and those who are overweight/obese (37). It is expected that prediction error would be great with aging and/or chronic disease related alterations in energy homeostasis and metabolism.
+
+In an effort to address the gap in evidence for an equation that can be reliably used in the LTC setting, we furthered our analyses to examine the performance of the commonly used 25 kcal/kg formula. In plotting mean mREE against body weight, it was observed that the 95% confidence interval for the average kcal/kg included the value 25 only in male subjects. Hence, the 25 kcal/kg formula might be used reliably for male LTC residents similar to those studied herein, but this formula significantly overestimated REE in females. In fact, the overall best fit was determined to be 22.7 kcal/kg for male subjects and 20.6 kcal/kg for female subjects. However, since the 95% confidence interval of the difference between these two best fit formulas did include the value zero, the present data agree with prior evidence that gender is not a significant factor in REE in older adults (48-49). Additionally, providing an average of 21-23 kcal/kg to meet REE would be consistent with the range determined to be accurate for other groups of frail elderly (48).
+
+In sum, the finding that commonly used prediction equations are inadequate for estimating REE in LTC residents is important and consistent with findings in other groups of older adults, such as those who are community-residing adults and aged ≥70 years (47). Although indirect calorimetry remains the gold standard, it also remains impractical for common use. The present results suggest that it will be more clinically applicable to use a simple kcal/kg formula to estimate energy needs in LTC settings – and that a similar kcal/kg formula (ie, 21-23 kcal/kg) can be used for both older males and females to estimate REE.
+
+Use of a more accurate estimation formula offers the opportunity to provide more adequate caloric prescription for meeting the energy requirements of LTC residents regardless of the type of nutrition support being provided. While it is likely that clinical outcomes are more often used to adjust energy provision and determine the effectiveness of nutrition intervention in residents on enteral or parenteral nutrition support, it is just as necessary to prevent adverse changes in body mass (ie, weight loss in those at risk for underweight and weight gain in those at risk for overweight/obesity) in residents able to consume orally. A resident who is involuntarily losing weight is most likely being underfed, while one who is unintentionally gaining weight is most likely being overfed.
+
+In view of the increasing body mass status of the entire adult population, it is also of great importance to pay closer attention to the occurrence of overweight/obesity in LTC residents. Thus, more evidence is needed regarding the energy requirements of clearly defined individuals by higher BMI categories to be better able to determine the optimal kcal/kg formula for the entire range of BMI represented in the present day (and future) LTC environment. Regardless of whether a prediction equation or a kcal/kg formula is used, it must also be recognized that most LTC residents are unable to modulate their dietary intakes to meet energy and nutrient needs, and thus, continuous monitoring of food intakes and body weight is necessary not only to evaluate the adequacy of energy intakes on an individual basis but to prevent serious morbidity and mortality in the LTC setting.
+
+Acknowledgments
+This study was supported by NIH Grant AG13013 and National Institute on Aging, UCLA Claude D. Pepper Older Americans Independence Center, Grant AG10415.
+
+Figure 1 Bland Altman Plots Comparing Predicted to Measured Resting Energy Expenditure
+In each plot, the solid line represents the mean difference between pREE and mREE. The large-dashed lines flanking this solid line represent the 95% confidence interval for the mean difference. The small-dashed lines represent the limits (±1.96 SD) of agreement. Separating males and females allowed detection of systematic bias in a prediction equation.
+
+Figure 2 Examination of potential error in estimating energy needs using 25 kcal/kg formula
+In this plot, the solid line represents the 25 kcal/kg formula. The large-dashed line just below the solid line represents the best fit formula for males, 22.7 kcal/kg (95% CI: 20.5, 25.0). The small-dashed line represents the best fit formula for females, 20.6 kcal/kg (95% CI: 19.1, 22.0). Separating males and females allowed detection of bias in the 25 kcal/kg formula, as the 95% CI includes the value 25 for males but not females.
+
+Table 1 Descriptive Characteristics of Long Term Care Subjects (n = 45)
+
+	Mean ± SD	Range	
+Age (years)	86.1 ± 7.3	66.0 - 101.0	
+Height (cm)	158.1 ± 10.4	134.6 - 186.7	
+Weight (kg)	57.8 ± 13.4	36.4 - 104.6	
+BMI (kg/m2)	23.0 ± 4.0	16.7 - 39.5	
+Length of Stay (months)	33.0 ± 31.3	3.2 - 209.2	
+Number of Daily Medications	8.4 ± 4.0	0 - 19	
+	
+Frequency
+	
+Percent
+	
+Gender is Female	35	77.8	
+Race is Caucasian	41	91.1	
+Dementia Diagnosed	17	37.8	
+Depression Diagnosed	13	28.9	
+Table 2 Difference Between Estimation Equations for REE in Comparison to Indirect Calorimetry
+
+	Mean ± SD
+Kcal/ Day	Mean Difference ± SD
+Kcal/ Day	Concordance
+Correlation	Bland Altman Linear Trend
+Slope (95% Confidence Interval)**	
+	Females	Males	Females	Males	Coefficient*	Females	Males	
+Indirect Calorimetry	976.2 ± 190.3	1260.0 ± 275.9	n/a	n/a	n/a	n/a	n/a	
+Mifflin-St Jeor	923.8 ± 166.9	1319.3 ± 179.8	−52.3 ± 183.1	59.3 ± 132.6	0.72	−0.18 (−0.57, 0.22)	−0.44 (−0.71, −0.17)	
+Harris Benedict	1040.5 ± 142.1	1262.8 ± 211.4	64.3 ± 174.3	2.8 ± 119.7	0.68	−0.39 (−0.77, −0.01)	−0.28 (−0.56, 0.01)	
+WHO	1176.9 ± 134.3	1384.8 ± 163.7	200.7 ± 178.7	124.8 ± 180.2	0.44	−0.48 (−0.88, −0.07)	−0.57 (−1.01, −0.13)	
+Owen	1192.2 ± 91.8	1557.3 ± 123.7	216.1 ± 171.4	297.3 ± 195.5	0.41	−0.93(−1.28, −0.58)	−0.84 (−1.24, −0.44)	
+* Presented here is the concordance correlation coefficient (CCC); CCC is related to the Pearson correlation coefficient (r) by a bias correction factor (Cb), which is the ratio of the two coefficients. CCC represents the association between two measures by assessing whether the relationship deviates from the line of concordance (a 45 degree line passing through the point of origin.
+
+** Slopes for which the 95% confidence interval does not include the value 0 indicate there is no significant systematic bias.
+
+Table 3 Clinical Accuracy of Common Estimation Equations in Comparison to Indirect Calorimetry
+
+	&lt; 10% mREE*	&gt; 10% mREE*	Accurate**	
+Mifflin-St Jeor	33.3%	28.9%	37.8%	
+Harris Benedict	15.6%	57.7%	26.7%	
+WHO	4.4%	68.9%	26.7%	
+Owen	4.4%	71.1%	24.5%	
+25 kcal/kg Formula	17.8%	57.7%	24.5%	
+* Underestimation of measured REE defined as &lt; 10% of mREE kcal/d, Overestimation defined as &gt; 10% of mREE kcal/d by indirect calorimetry.
+
+** Percent of subjects within ± 10% of mREE kcal/d by indirect calorimetry.
+
+
+   References
+1 
+            US Census Bureau 
+           US Population Projections http://www.census.gov/population/www/projections/projectionsagesex.html . June 13th, 2011 
+2 The Official U.S. Government Site for Medicare http://www.medicare.gov . July 24th, 2011 
+3 
+            Kaiser M  
+            Bauer J  
+            Rämsch C  
+             
+           Frequency of malnutrition in older adults: A multinational perspective using the Mini Nutritional Assessment. J Am Geriatr Soc 2010 58 1734 1738 20863332 
+4 
+            Chidester J  
+            Spangler A  
+           Fluid intake in the institutionalized elderly. J Am Diet Assoc 1997 97 23 28 8990413 
+5 
+            Gaspar P  
+           Water intake of nursing home residents. J Gerontol Nurs 1999 25 23 29 10426031 
+6 
+            Holben D  
+            Hassell J  
+            Williams J  
+            Helle B  
+           Fluid intake compared with established standards and symptoms of dehydration among elderly residents of long term care facility. J Am Diat Assoc 99 1447 1450 199 
+7 
+            Zuliani G  
+            Romagnoni F  
+            Satin L  
+            Leoci V  
+            Volpato S  
+            Fellin R  
+           Predictors of two year mortality in older nursing home residents. The IRA study. Aging Clinical and Experimental Research 2001 13 3 7 
+8 
+            Buttar A  
+            Blaum C  
+            Fries B  
+           Clinical characteristics and six-month outcomes of nursing home residents with low activities of daily living dependency. J Gerontol A Bio Sci Med Sci 2001 56 292 297 
+9 
+            Bergstrom N  
+            Smout R  
+            Horn S  
+            Spector W  
+            Hartz A  
+            Limcangco MR  
+           Stage 2 pressure ulcers healing in nursing homes. J Am Geriatr Soc 2008 56 7 1252 8 18482291 
+10 
+            Institute of Medicine 
+           Committee on Nutrition Services for Medicare Beneficiaries. The role of nutrition in maintaining health in the nation's elderly evaluating coverage of nutrition services for the Medicare population 2000 National Academy Press Washington, DC 
+11 
+            Wakimoto P  
+            Block G  
+           Dietary intake, dietary patterns, and changes with age: An epidemiological perspective. J Gerontol A Biol Sci Med Sci 2001 56 65 80 11730239 
+12 
+            Morley JE  
+           Decreased food intake with aging. J Gerontol A Bio Sci Med Sci 2001 56 2 81 8 11730241 
+13 
+            Morley J  
+            Silver A  
+           Anorexia in the elderly. Neurobiol Aging 1988 9 9 16 2898107 
+14 
+            Gallagher D  
+            Visser M  
+            Sepulveda D  
+            Pierson R  
+            Harris T  
+            Heymsfield S  
+           How useful is Body Mass Index for comparison of body fatness across age, sex, and ethnic groups? Am J Epidemiol 1996 143 228 239 8561156 
+15 
+            Obisesan T  
+            Aliyu M  
+            Bond V  
+            Adams R  
+            Akomolafe A  
+            Rotimi C  
+           Ethnic and age-related fat free mass loss in older Americans: The National Health and Nutrition Examination Survey (NHAMES III). BMC Public Health 2005 5 41 50 15840167 
+16 
+            Goodpaster B  
+            Park S  
+            Harris T  
+             
+           The loss of skeletal muscle strength, mass, and quality in older adults: The Health Aging and Body Composition Study. J Gerontol A Bio Sci Med Sci 2006 61 1059 1064 17077199 
+17 
+            He Q  
+            Heshka S  
+            Albu J  
+             
+           Smaller organ mass with greater age, except for heart. J Appli Physiol 2009 106 1780 1784 
+18 
+            Abassi AA  
+            Rudman MD  
+           Undernutrition in the nursing home: Prevalence, consequences, causes and prevention. Nutrition Reviews 1994 52 113 122 8028816 
+19 
+            Elia M  
+            Ritz P  
+            Stubbs RJ  
+           Total energy expenditure in the elderly. Eur J Clin Nutr 2000 54 S92 S103 11041080 
+20 
+            Evans WJ  
+           Exercise and nutritional needs of elderly people: Effects on muscle and bone. Gerodontolog 1998 15 15 24 
+21 
+            Piers LS  
+            Soares MJ  
+            McCcormack LM  
+             
+           Is there evidence for an age-related reduction in metabolic rate? J App Physiol 1998 85 2196 2204 
+22 
+            Krems C  
+            Lührmann P  
+            Straβburg A  
+            Hartmann B  
+            Neuhäuser-Berthold M  
+           Lower resting metabolic rate in the elderly may not be entirely due to charges in body composition. European Journal of Clinical Nutrition 2005 59 255 262 15494736 
+23 
+            Frisard M  
+            Broussard A  
+            Davies S  
+             
+           Aging, resting metabolic rate, and oxidative damage; Results from the Louisiana healthy aging study. J Gerontol A Bio Sci Med Sci 2007 62 752 759 17634323 
+24 
+            Lührmann P  
+            Bender R  
+            Edelmann-Schafer B  
+            Neuhäuser-Berthold M  
+           Longitudinal changes in energy expenditure in an elderly German population: A 12-year follow-up. European Journal of Clinical Nutrition 2009 63 986 992 19190667 
+25 
+            Rothenburg E  
+            Bosaeus I  
+            Steen B  
+           Energy expenditure at age 73 and 78-A five year follow-up. Acta Diabetol 2003 40 134 138 
+26 
+            Sergi G  
+            Coin A  
+            Mulone S  
+             
+           Resting energy expenditure and body composition in bedridden institutionalized elderly women with advanced stage pressure sores. J Gerontol A Biol Sci Med Sci 2007 62 317 322 17389730 
+27 
+            Poehlman E  
+            Scheffers J  
+            Gottlieb S  
+            Fisher M  
+            Vaitekevicius P  
+           Increased resting metabolic rate in patients with congestive heart failure. Ann Intern Med 1994 121 860 862 7772113 
+28 
+            Ikizler T  
+            Wingard R  
+            Sun M  
+            Harvell J  
+            Parker R  
+            Hakim R  
+           Increased resting energy expenditure in hemodialysis patients. J Am Soc Nephrol 1996 7 2646 2653 8989743 
+29 
+            Neyra R  
+            Chen K  
+            Sun M  
+            Shyr Y  
+            Hakim R  
+            Ikizler T  
+           Increased resting energy expenditure in patients with end stage renal disease. J Parenteral and Enteral Nutrition 2003 27 36 42 
+30 
+            Gaillard C  
+            Alix E  
+            Sallé A  
+            Berrut G  
+            Ritz P  
+           Energy requirements in frail elderly people: a review of the literature. Clin Nutr 2007 26 1 16 24 17034905 
+31 
+            Takala J  
+            Keinanen O  
+            Vaisanen P  
+            Kari A  
+           Measurement of gas exchange in intensive care: laboratory and clinical evaluation of a new device. Crit Care Med 1989 17 1041 1047 2676345 
+32 
+            FAO/WHO/UNU 
+           Energy and protein requirements 1985 World Health Organ Tech Rep Ser Geneva, Switzerland 
+33 
+            Mifflin MD  
+            St Jeor ST  
+            Hill LA  
+            Scott BJ  
+            Daugherty SA  
+            Koh YO  
+           A new predictive equation for resting energy expenditure in healthy individuals. AM J Clin Nutr 1990 51 241 247 2305711 
+34 
+            Harris JA  
+            Benedict FG  
+           A biometric study of basal metabolism in man 1919 Carnegie Institute of Washington Washington, DC 
+35 
+            Owen OE  
+            Kavle E  
+            Owen RS  
+            Polansky M  
+            Caprio S  
+            Mozzoli MA  
+           A reappraisal of caloric requirements in healthy women. Am J Clin Nutr 1986 44 1 19 3728346 
+36 
+            Owen OE  
+            Holup JL  
+            D'Alessio DA  
+            Craig ES  
+            Polansky M  
+            Smalley KJ  
+           A reappraisal of the caloric requirements of men. Am J Clin Nutr 1987 46 875 85 3687821 
+37 
+            Frankenfield D  
+            Roth-Yousey L  
+            Compher C  
+           Comparison of predictive equations for resting metabolic rate in healthy nonobese and obese adults: A systematic review. J Am Diat Assoc 2005 105 775 789 
+38 
+            Schoeller D  
+           Making indirect calorimetry a gold standard for predicting energy requirements for institutionalized patients. J Am Diet Assoc 2007 107 390 392 17324655 
+39 
+            Schnelle JF  
+           Translating Clinical Research into Practice: A Randomized Controlled Trial of Exercise and Incontinence Care with Nursing Home Residents. J Am Geriatr Soc 2002 50 9 1476 83 12383143 
+40 
+            Simmons SF  
+            Schnelle JF  
+           Effects of an exercise and scheduled-toileting intervention on appetite and constipation in nursing home residents. J Nutr Health Aging 2004 8 2 116 121 14978607 
+41 
+            Molloy DW  
+            Alemayehu E  
+            Roberts R  
+           A standardized Mini-Mental State Examination (SMMSE): Its reliability compared to the traditional Mini-Mental State Examination (MMSE). Amer J Psych 1991 148 102 105 
+42 
+            Compher C  
+            Frankenfiled D  
+            Keim N  
+            Roth-Yousey  
+           Best practice methods to apply to measurement of resting metabolic rate in adults: A systematic review. J Am Diet Assoc 2006 106 881 903 16720129 
+43 
+            Li L  
+           A concordance correlation coefficient to evaluate reproducibility. Biometrics 1989 45 255 68 2720055 
+44 
+            Bland JM  
+            Altman DG  
+           Statistical methods for assessing agreement between two methods of clinical measurement. Lancet 1986 1 8476 307 10 2868172 
+45 
+            National Institutes of Health. National Heart, Lung, and Blood Institute 
+           Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults 9 1998 NIH Publication No. 98-4083 
+46 
+            Wallace JL  
+            Schwartz RS  
+            LaCroix AZ  
+            Uhlmann RF  
+            Pearlman RA  
+           Involuntary weight loss in older outpatients: incidence and clinical significance. J Am Geriatr Soc 1995 43 4 329 37 7706619 
+47 
+            Melzer K  
+            Laurie Karsegard V  
+            Genton L  
+            Kossovsky MP  
+            Kayser B  
+            Pichard C  
+           Comparison of equations for estimating resting metabolic rate in healthy subjects over 70 years of age. Clin Nutr 2007 26 4 498 505 17583391 
+48 
+            Gaillard C  
+            Alix E  
+            Salle A  
+            Berrut G  
+            Ritz P  
+           A practical approach to estimate resting energy expenditure in frail elderly people. J Nutr Health Aging 2008 12 4 277 80 18373038 
+49 
+            Alix E  
+            Berrut G  
+            Boré M  
+            Bouthier-Quintard F  
+            Buia JM  
+            Chlala A  
+            Cledat Y  
+            d'Orsay G  
+            Lavigne C  
+            Levasseur R  
+            Mouzet JB  
+            Ombredanne MP  
+            Sallé A  
+            Gaillard C  
+            Ritz P  
+           Energy requirements in hospitalized elderly people. J Am Geriatr Soc 2007 55 7 1085 9 17608883 
+

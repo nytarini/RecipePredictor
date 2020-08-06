@@ -1,0 +1,205 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10126486032902Obesity (Silver Spring)Obesity (Silver Spring)Obesity (Silver Spring, Md.)1930-73811930-739X24634397407795110.1002/oby.20741NIHMS574794ArticleTonic Hyper-Connectivity of Reward Neurocircuitry in Obese Children Black William R. 1Lepping Rebecca J. 2Bruce Amanda S. 13Powell Joshua N. 4Bruce Jared M. 1Martin Laura E. 25Davis Ann M. 36Brooks William M. 27Savage Cary R. 48Simmons W. Kyle 9101 Department of Psychology, University of Missouri-Kansas City2 Hoglund Brain Imaging Center – University of Kansas Medical Center3 Center for Children’s Healthy Lifestyles &amp; Nutrition, Children’s Mercy Hospital4 Center for Health Behavior Neuroscience – University of Kansas Medical Center5 Department of Preventive Medicine—University of Kansas Medical Center6 Department of Pediatrics—University of Kansas Medical Center7 Department of Neurology—University of Kansas Medical Center8 Department of Psychiatry—University of Kansas Medical Center9 Laureate Institute for Brain Research10 Faculty of Community Medicine – The University of TulsaCorresponding Author: W. Kyle Simmons, Ph.D., Laureate Institute for Brain Research, 6655 South Yale Ave. Tulsa Ok, 74136-3326, wksimmons@laureateinstitute.org, Phone: (918) 502-501625 4 2014 25 3 2014 7 2014 01 1 2015 22 7 1590 1593 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objective
+Obese children demonstrate less activation in prefrontal regions associated with self-control and inhibition when presented with food cues and advertisements. The current study evaluates the differences between obese and healthy weight children in resting-state functional connectivity to these brain regions.
+
+Design and Methods
+Seed regions in bilateral middle frontal gyri were chosen based on previous task-based analysis showing differences between obese and healthy weight children’s responses to food-associated stimuli. Functional connectivity to these seed regions was measured in resting-state scans collected in obese and lean children undergoing fMRI.
+
+Results
+Obese children exhibited greater resting-state functional connectivity than healthy weight children between the left middle frontal gyrus and reward-related regions in the left ventromedial prefrontal cortex, as well as the left lateral OFC.
+
+Conclusion
+Previously published results demonstrate that obese children exhibit less activity in brain regions associated with self-control when viewing motivationally salient food advertisements. Here we show that obese children also have tonically greater input to these self-control regions from reward neurocircuitry. The greater functional connectivity between reward and self-control regions, in conjunction with weaker activation of self-control neurocircuitry, may render these children more susceptible to food advertisements, placing them at elevated risk for over-feeding and obesity.
+
+childrenfunctional magnetic resonance imaging (fMRI)resting-stateimpulsivityorbitofrontal cortexventromedial prefrontal cortex
+   Introduction
+Recent research has demonstrated that differences between healthy and obese children are not limited merely to brain activity in the presence of food images per se1–3 but extend to food-associated stimuli as well. In a first-of-its-kind study, Bruce and colleagues asked obese and healthy children to view food and non-food advertising logos while undergoing functional Magnetic Resonance Imaging (fMRI).4 When viewing the food logos, healthy weight children exhibited greater activation bilaterally in the middle frontal gyrus (BA 10), a region associated with self-control and inhibition.5–7 This finding was significant because it implies that inhibitory processes may automatically mediate neural responses of healthy-weight children in the presence of food logos, thereby facilitating behavioral restraint. What remains unclear from this and previous functional neuroimaging studies of obese and healthy weight children, is whether group differences reflect only abnormal stimulus-driven activity in obese children, or rather extend to intrinsic functional differences in the brains of obese children. Put another way, is the activity in obese children’s brains abnormal only in the presence of food, and food-associated stimuli, or is the activity in their brains tonically abnormal? One tool for examining intrinsic (task-independent) brain activity is resting-state functional connectivity analysis, which measures the coupling of spontaneous fluctuations of the fMRI signal among brain regions.8
+
+To date there are no published studies of resting-state functional connectivity differences between healthy and obese children. To better understand how differences in intrinsic activity may contribute to differential responses to food-associated stimuli in obese and healthy adolescents, we examined resting-state functional connectivity to the middle frontal gyrus region identified in the earlier task-based study of responses to food and non-food logos. We hypothesized that obese children would exhibit greater resting-state functional connectivity than healthy children between this region involved in self-control and regions implicated in reward valuation processing, including the orbitofrontal and ventromedial prefrontal cortices.
+
+Methods and procedures
+Participants
+Eighteen right-handed, native English speaking children participated in the study (see Table S1 for demographics); nine healthy weight (mean BMI percentile = 51.33 ± 20.43%) and nine obese children (5 males; mean BMI percentile = 97.80 ± 1.81%). Exclusion criteria included Axis I psychiatric diagnosis or neurologic illness. The study protocol was approved by the Human Subjects Committee at the University of Kansas Medical Center. Informed consent and assent were obtained from each child’s guardian and child before study participation.
+
+fMRI Resting-state data collection
+The resting-state scan followed a structural scan and two task-based functional runs.4,9 Data were acquired with a 3-Tesla Siemens Allegra scanner. See online Supporting Information for scan parameters.
+
+Data Preprocessing
+Data preprocessing and statistical analysis were conducted using AFNI10 and a modified version of the ANATICOR method11 to reduce spurious effects related to motion and physiological noise. In addition, further motion correction procedures (i.e. ‘scrubbing’) were utilized to reduce the possibility of false group differences due to uncontrolled subject motion.12,13 See online Supporting Information for descriptions of the preprocessing.
+
+Seed Region Selection and Identification
+Seed regions were chosen based on analysis of the functional activation data from the study participants, as previously discussed.4 These analyses demonstrated greater activity in the middle frontal gyrus in healthy weight, compared to obese adolescents, when viewing food advertising logos. Because this area of the brain has been linked to cognitive control and self-control, and activation differences in this region between weight groups has already been established, the current study defined 2 mm seed regions bilaterally in middle frontal gyrus at the peak voxels identified in the analysis of the task data (Talairach coordinates 42,44,−5 and −42,44,−5).
+
+Functional Connectivity Analyses
+At the subject-level, the seed time-series for both of the seed regions was constructed by calculating the average time series during the resting-state scan within the spherical regions around the seed coordinate. Using multiple regression analysis, we produced maps of the time-course correlations between each of the seed regions separately and all brain voxels. These r-values were then transformed to z-scores. To identify voxels exhibiting differences in spontaneous BOLD fluctuations correlated with each prefrontal seed region, we implemented group-level random effects t-tests comparing healthy weight and obese subjects z-scores. The resulting statistical maps were corrected for multiple comparisons at p &lt; .05 (see online Supporting Information for detailed descriptions of multiple comparisons corrections).
+
+Results
+Compared to healthy weight children, obese children exhibited greater functional connectivity between the left middle frontal gyrus and the left vmPFC (Peak t = −5.03 at Talairach coordinate 7,−21,−14; cluster size = 30.63 mm3; see Figure 1). Though the statistical peak voxel was located in the left hemisphere, the cluster branched laterally and dorsally into the corresponding region of the right hemisphere, spanning the posterior region of Brodmann’s area 10 to the frontal and polar regions of BA10. Additionally, the obese children exhibited greater FC between the left middle frontal gyrus and the left lateral OFC (Peak t = −5.44 at Talairach coordinate 31,−33,−4; cluster size = 3.52 mm3; see Figure 1).
+
+Discussion
+Although previous functional neuroimaging studies have documented differences in healthy-weight and obese children’s response to food-associated stimuli2–4,9 prior to the present study, it was yet unknown whether these group differences reflect only abnormal stimulus-driven activity in obese children, or intrinsic functional differences in the brains of obese children’s brains. Here we observed that, even while at rest, obese children exhibit greater functional connectivity between left middle frontal gyrus and the ventromedial prefrontal cortex and OFC.
+
+The bilateral middle frontal gyrus, used as the seed region in the current analyses, is associated with cognitive control and response inhibition.5–7 This area was chosen as a seed due to findings from a previous study using the same participants, in which healthy weight children showed greater activation in this area than obese children when viewing food-related logos.4
+
+The region of the OFC exhibiting group differences in functional connectivity in the present study is associated with reward anticipation and evaluation,14 as well as the processing of emotionally latent tasks,15 and the lateral OFC more specifically is associated with cognitive aspects of emotional stimuli.2 The vmPFC region exhibiting group differences in functional connectivity has been linked to the processing of emotional stimuli and valuation of goods.16 Taken together, the findings of the present study show that obese children have increased functional connectivity between areas associated with cognitive control and those associated with the judgment of emotional stimuli and reward anticipation.
+
+Although the present study includes a relatively small sample, the results presented here survive multiple comparisons correction, which testifies to the robustness of the reported effects. The study has additional important strengths. First, the seed regions were based on group differences from an analysis of functional data within these same individuals.4 This ensured that the seeds were specific to participants in this study, which is important given previous work demonstrating that children’s brains are structurally different from adult brains, making it difficult to pick seeds from related adult studies.17,18 Second, the analyses utilized advanced procedures for motion ‘scrubbing’11,12 that account for signal artifacts due to movement.
+
+Due to the cross-sectional nature of this study, it is impossible to determine whether these differences are a cause, correlation, or consequence of the increased body weight. Another potential limitation pertains to the data collection order, as the task-based data were collected prior to resting state scans, though there is little evidence to suggest this significantly impacts functional connectivity findings.
+
+The present findings are consistent with previous studies evaluating cortical activation in obese children2 and functional connectivity in overweight and obese adults.19 Combined with previous reports from our group, we have demonstrated that though healthy weight children exhibit greater activation in the middle frontal gyrus while viewing food logos4 (see Figure 2) functional connectivity between this region and the vmPFC and OFC is greater in obese participants. Our interpretation of the findings suggests that in obese children, cognitive control regions may tonically receive greater input from reward motivation regions of the brain, perhaps resulting in less self-control and greater value assigned to food-related stimuli. An alternative account may suggest that in obese children, the middle frontal gyrus exhibits greater functional connectivity with vmPFC and lateral OFC, which have also been implicated in inhibitory control.20 Future studies should examine whether there are also functional connectivity differences present during a stimulus-based task.
+
+The present findings have important implications for society’s debate about whether, and how, to protect children from what some have described as “predatory” food marketing.21 This debate must now occur in the context of the present findings, which strongly suggest that some children have brains that predispose them to these advertisements, and thus the concomitant health consequences of obesity.
+
+Supplementary Material
+01  Acknowledgements
+This study was supported by funding from UKMC to AB and funding to WKS from NIMH (K01MH096175-01) and Oklahoma Tobacco Research Center. The Hoglund Brain Imaging Center is supported by the NIH (S10 RR29577, UL1 RR033179). Study design and data collection performed by WRB, RJL, ASB, WMB, AMD, and CRS. Data analysis performed by JMB, WRB, RJL, ASB, LEM, WKS and JNP.
+
+Competing Interests: The authors have not competing interests.
+
+Figure 1 Functional Connectivity Differences Between Obese and Healthy Weight Children
+Obese children exhibit stronger resting-state functional connectivity between orbitofrontal and ventromedial prefrontal reward regions and middle frontal gyrus regions involved in self-control.
+
+Figure 2 Differences in Neural Activation Between Obese and Healthy Weight Children When Viewing Food-Related Stimuli
+Obese children exhibit less intense activation in self-control regions (middle frontal gyrus) while viewing food-related stimuli (Bruce, et al. 2013), but greater tonic functional connectivity between those control regions and reward regions in orbitofrontal and ventromedial prefrontal cortex.
+
+WHAT IS ALREADY KNOWN ABOUT THIS SUBJECT
+fMRI studies have demonstrated obese and healthy weight children’s brain activity differs in response to food and food-related stimuli.
+
+Brain activity in regions associated with reward, motivation, and cognitive control differ between obese and healthy weight children.
+
+WHAT THIS STUDY ADDS
+This is the first evidence that brain functional connectivity during a resting state differs between obese and healthy weight children.
+
+Obese children show greater functional connectivity than healthy weight children between reward brain regions and self-control brain regions.
+
+
+   References
+1 
+            Bruce AS  
+            Holsen LM  
+            Chambers RJ  
+            Martin LE  
+            Brooks WM  
+            Zarcone JR  
+             
+           Obese children show hyperactivation to food pictures in brain networks linked to motivation, reward, and cognitive control Int J Obesity 2010 34 1494 1500 
+2 
+            Davids S  
+            Lauffer H  
+            Thoms K  
+            Jagdhuhn M  
+            Hirschfeld H  
+            Domin M  
+             
+           Increased dorsolateral prefrontal cortex activation in obese children during observation of food stimuli Int J Obesity 2010 34 94 104 
+3 
+            Stice E  
+            Spoor S  
+            Bohon C  
+            Small DM  
+           Relation between obesity and blunted striatal response to food is moderated by TaqIA1 gene Science 2008 322 5900 449 452 18927395 
+4 
+            Bruce AS  
+            Lepping RJ  
+            Bruce JM  
+            Cherry JB  
+            Martin LE  
+            Davis AM  
+             
+           Brain responses to food logos in obese and healthy weight children J Pediatr 2013 162 759.e2 764.e2 23211928 
+5 
+            Batterink L  
+            Yokum S  
+            Stice E  
+           Body mass correlates inversely with inhibitory control in response to food among adolescent girls: an fMRI study NeuroImage 2010 52 1696 1703 20510377 
+6 
+            Berkman ET  
+            Falk EB  
+            Lieberman MD  
+           In the trenches of real-world self-control: neural correlates of breaking the link between craving and smoking Psychol Sci 2011 22 498 506 21378368 
+7 
+            Buchsbaum BR  
+            Greer S  
+            Chang WL  
+            Berman KF  
+           Meta-analysis of neuroimaging studies of the Wisconsin card-sorting task and component processes Hum Brain Mapp 2005 25 35 45 15846821 
+8 
+            Fox MD  
+            Raichle ME  
+           Spontaneous fluctuations in brain activity observed with functional magnetic resonance imaging Nat Rev Neurosci 2007 8 700 711 17704812 
+9 
+            Bruce AS  
+            Bruce JM  
+            Black WR  
+            Lepping RJ  
+            Henry JM  
+            Cherry JB  
+             
+           Branding a child’s brain: an fMRI study of neural responses to logos Soc Cogn Affect Neur 2012 Epub. 
+10 
+            Cox RW  
+           AFNI: Software for analysis and visualization of functional magnetic resonance neuroimages Comput Biomed Res 1996 29 162 173 8812068 
+11 
+            Jo HJ  
+            Saad ZS  
+            Simmons WK  
+            Milbury LA  
+            Cox RW  
+           Mapping sources of correlation in resting state fMRI, with artifact detection and removal NeuroImage 2010 15 571 582 20420926 
+12 
+            Power JD  
+            Barnes KA  
+            Snyder AZ  
+            Schlaggar BL  
+            Petersen SE  
+           Spurious but systematic correlations in functional connectivity MRI networks arise from subject motion NeuroImage 2012 59 2142 2154 22019881 
+13 
+            Saad ZS  
+            Gotts SJ  
+            Murphy K  
+            Chen G  
+            Jo HJ  
+            Martin A  
+             
+           Trouble at rest: How correlation patterns and group differences become distorted after global signal regression Brain Connect 2012 2 25 32 22432927 
+14 
+            Kringelbach ML  
+            Rolls ET  
+           The functional neuroanatomy of the human orbitofrontal cortex: Evidence from neuroimaging and neuropsychology Prog Neurobiol 2004 72 341 372 15157726 
+15 
+            Ochsner KN  
+            Gross JJ  
+           The cognitive control of emotion Trends Cogn Sci 2005 9 242 249 15866151 
+16 
+            Levy DJ  
+            Glimcher PW  
+           The Root of All Value: A Neural Common Currency for Choice Curr Opin Neurobiol 2012 22 1 12 22305967 
+17 
+            Bookheimer SY  
+           Methodological issues in pediatric neuroimaging Ment Retard Dev Disabil Res Rev 2000 6 161 165 10982492 
+18 
+            Giedd JN  
+            Rappoport JL  
+           Structural MRI of pediatric brain development: What have we learned and where are we going? Neuron 2010 64 728 734 20826305 
+19 
+            Kullmann S  
+            Pape AA  
+            Heni M  
+            Ketterer C  
+            Schick F  
+            Häring HU  
+             
+           Functional network connectivity underlying food processing: disturbed salience and visual processing in overweight and obese adults Cereb Cortex 2013 23 1247 1256 22586138 
+20 
+            Lamm C  
+            Lewis MD  
+           Developmental change in the neurophysiological correlates of self-regulation in high and low emotion conditions Developmental Neuropsychology 2010 35 2 156 176 20390600 
+21 
+            Harris JL  
+            Pomeranz TL  
+            Brownell KD  
+           A crisis in the marketplace: How food marketing contributes to childhood obesity and what can be done Ann Rev Public Health 2009 30 211 225 18976142 
+

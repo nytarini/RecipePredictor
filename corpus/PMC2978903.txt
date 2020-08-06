@@ -1,0 +1,603 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10088369221501Environ MicrobiolEnvironmental microbiology1462-29121462-292019638173297890310.1111/j.1462-2920.2009.02001.xNIHMS237265ArticleLIFESTYLE OF LACTOBACILLUS PLANTARUM IN THE MOUSE CECUM Marco Maria L. 12#Peters Theodorus H.F. 1Bongers Roger S. 12Molenaar Douwe 12van Hemert Saskia 12Sonnenburg Justin L. 3Gordon Jeffrey I. 3Kleerebezem Michiel 124*1 TI Food &amp; Nutrition, Nieuwe Kanaal 9A, 6709 PA, Wageningen, The Netherlands
+2 NIZO food research, P.O. Box 20, 6710 BA, Ede, The Netherlands
+3 Center for Genome Sciences, Washington University School of Medicine, St. Louis, MO 63108.
+4 Wageningen University, Laboratory of Microbiology, Wageningen, The Netherlands
+
+* Corresponding author NIZO Food Research, P.O. Box 20, 6710 BA, Ede, The Netherlands Michiel.Kleerebezem@nizo.nl Phone: +31 318 659 629 Fax: +31 318 650 400# Current address : Department of Food Science and Technology, One Shields Avenue, Davis, CA 95616 mmarco@ucdavis.edu
+
+1 11 2010 20 7 2009 10 2009 12 11 2010 11 10 2747 2757 
+        
+          This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+        
+      Summary
+Lactobacillus plantarum is a common inhabitant of mammalian gastrointestinal tracts. Strains of L. plantarum are also marketed as probiotics intended to confer beneficial health effects upon delivery to the human gut. To understand how L. plantarum adapts to its gut habitat, we used whole genome transcriptional profiling to characterize the transcriptome of strain WCFS1 during colonization of the ceca of adult germ-free C57Bl/6J mice fed a standard low-fat rodent chow diet rich in complex plant polysaccharides or a prototypic Western diet high in simple sugars and fat. L. plantarum colonized the digestive tracts of these animals to high levels, although L. plantarum was found in 10-fold higher amounts in the ceca of mice fed the standard chow. Metabolic reconstructions based on the transcriptional datasets revealed that genes involved in carbohydrate transport and metabolism form the principal functional group that is up-regulated in vivo compared to exponential phase cells grown in three different culture media, and that a Western diet provides a more nutritionally-restricted, growth limiting milieu for the microbe in the distal gut. A set of bacterial genes encoding cell surface-related functions were differentially regulated in both groups of mice. This set included down-regulated genes required for the D-alanylation of lipoteichoic acids, extracellular structures of L. plantarum that mediate interactions with the host immune system. These results, obtained in a reductionist gnotobiotic mouse model of the gut ecosystem, provide insights about the niches (professions) of this lactic acid bacterium, and a context for systematically testing features that affect epithelial and immune cell responses to this organism in the digestive tract.
+
+
+          Lactobacillus plantarum
+        probioticshost-microbial symbiosisgut habitatgnotobiotic mouse modelsfunctional genomicscarbohydrate metabolism
+   Introduction
+Lactobacillus species are members of the Lactic Acid Bacteria (LAB), a group of phylogenetically related microorganisms belonging to the Firmicutes, the dominant phylum in the guts of humans, non-human primates, and other mammals (Vaughan et al., 2005; Ley et al., 2008). The indigenous populations of Lactobacillus in the gastrointestinal tract are regarded to be beneficial to human health (Vaughan et al., 2005) and deliberate ingestion of certain Lactobacillus strains as probiotics has been associated with prevention and/or recovery from various ailments, ranging from gastrointestinal infections to allergy (reviewed in Saxelin et al., 2005 and Marco et al., 2006). Common criteria for probiotics include that the strain is viable at the time of consumption, survives in the stomach and intestine, and improves defined health parameters during controlled clinical studies (Tuomola et al., 2001). While consumer interest in probiotics is growing (Arvanitoyannis and Van Houwelingen-Koukaliaroglou, 2005), the molecular mechanisms of probiotic activities in vivo remains obscure. To support the continued use of probiotics, it is critical to identify the bacterial cell products that have potential for influencing host responses and modulating probiotic persistence and activity levels at relevant sites in the mammalian gut. Also, given the dynamic inter-relationship between host diet and gut microbial ecology (e.g. Ley et al., 2008; Turnbaugh et al., 2008), it is relevant to address the impact of host diet on modulating the adaptive responses of probiotics to the gut environment.
+
+Complete genome sequences are publicly available for 14 Lactobacillus strains and several more sequencing projects are underway (http://www.ncbi.nlm.nih.gov) (Claesson et al., 2007). Lactobacillus plantarum WCFS1, a single colony isolate of the human pharyngeal strain NCIMB8826, has the largest genome (3.3 Mb) among these fourteen sequenced LAB (Kleerebezem et al., 2003). This strain was found to maintain relatively high levels of survival and persistence in the human gut (Vesa et al., 2000). Several studies have also highlighted the potential beneficial properties of this strain, providing the first evidence that specific components of Lactobacillus can confer quantitative effects on defined host physiologic parameters (de Vos, 2005; Grangette et al., 2005).
+
+L. plantarum expresses genes for adaptation to and growth within the digestive tract. For example, 72 L. plantarum WCFS1 genes were identified using R-IVET (recombination-based in vivo expression technology) as being induced in the digestive tracts of conventionally-raised mice (Bron et al., 2004). These in vivo induced genes (ivi) are involved in sugar uptake and metabolism, adaptation to environmental stresses, nutrient transport, and transcriptional regulation (Bron et al., 2004). Transcript levels of ivi genes varied as a function of location along the length of the gut (Marco et al., 2007). A subset of these 72 genes were also found to make a major contribution to L. plantarum survival in mice (Bron et al., 2007).
+
+Complementary to genetic screens such as R-IVET, whole genome transcriptome profiling of sequenced human gut microbial species after colonization of mice has provided valuable insights about their adaptations to the gut ecosystem. Extensive differences in the total amounts and functions of genes expressed in intestinal compartments were found for probiotic Lactobacillus johnsonii NCC533 in antibiotic-treated, conventionally-raised mice (Denou et al., 2007). Studies with germ-free mice have shown substantial modifications in nutritional foraging for strains of Bacteroides thetaiotaomicron, Bifidobacterium longum, and Methanobrevibacter smithii in response to changes in host diet and the presence of other gut-colonizing microorganisms (e.g. Samuel and Gordon, 2006; Samuel et al., 2007; Sonnenburg et al., 2005; Sonnenburg et al., 2006). To investigate the adaptations of a gut-associated Lactobacillus strain to the mammalian intestine, we determined the global transcriptional profiles of L. plantarum WCFS1 in the ceca of germ-free mice. L. plantarum proliferative capacity and gene expression differed between mice fed a standard, low fat, polysaccharide-rich chow diet or a high fat/high sugar prototypic Western diet. The responses of L. plantarum WCFS1 at this location in the mouse intestine were directed towards expression of specific functional pathways in ways that were either dependent or independent of host diet, indicating its flexible adaptation to environmental conditions of host and/or nutritional origin in ways which may affect its molecular interactions with the host.
+
+Results and Discussion
+Approach to characterizing the adaptations of L. plantarum to its intestinal habitat
+Male germ-free C57Bl/6J mice, maintained on a standard chow diet or a prototypic Western-style diet (Turnbaugh et al., 2008; see Supplemental Table 1 for compositional information), were gavaged with a single dose of 109 CFU L. plantarum WCFS1. Animals (n=5) were sacrificed 15 d later, after sufficient time had passed for several cycles of turnover of the intestinal epithelium and its overlying mucus layer. L. plantarum WCFS1 was distributed along the length of the gastrointestinal tract in both groups of mice. In chow fed mice, the highest densities of L. plantarum were recorded in the cecum and colon (11.34 ± 0.37 log10 cfu/ml) and lowest in the duodenum (7.23 ± 1.16 log10 cfu/ml) (Fig. 1). L. plantarum was similarly distributed in the digestive tracts of mice on the Western diet: however, L. plantarum colonized the cecum and colon of these mice at approximately 10-fold lower levels (Fig 1). Although the differences in colonization levels between the two diets is provocative with regard to the potential relationships between host diet and probiotic function in the gut, this possibility requires additional investigation to determine if lower colonization levels of L. plantarum in the mice fed the Western diet were the result of the specific composition of that mouse diet in the germ-free mouse system rather than an indication probiotic functionality in humans.
+
+Given the robustness of its colonization of the distal gut, we focused on characterizing the adaptations of L. plantarum WCFS1 to its cecal habitat. The cecum is a well-defined structure, interposed between the large intestine and the distal small intestine (ileum), and is a site known to house large amounts of L. plantarum in conventionally-raised mice (Marco et al., 2007). Sufficient amounts of RNA (10 – 40 μg) were isolated from cecal contents of individual animals for transcript profiling. cDNA was prepared from each RNA sample and then hybridized to individual DNA microarrays containing oligonucleotide probes that recognize 2804 of the 3052 known or predicted protein-coding genes in this organism’s genome (Saulnier et al., 2007). ‘Reference’ whole genome transcriptional profiles were also obtained in vitro during mid-log phase growth in three distinct media: MRS (complete medium), CDM (chemically-defined medium), or Chow medium consisting of a soluble extract of the standard rodent chow diet provided to the germ-free animals. MRS and CDM contain glucose as the primary carbon and energy source and support relatively high growth rates [doubling times of 47.6 ± 2.4 and 55.9 ± 1.1 min, respectively (Stevens, 2008)]. HPLC analysis of the Chow medium revealed sucrose (3.8 mM), fructose (3.9 mM), and melibiose (1mM), as well as unidentified polysaccharides with high molecular weights. Doubling time in this medium (88 ± 9 min) was significantly slower than in MRS and CDM.
+
+Unsupervised hierarchical clustering disclosed a high degree of similarity between the transcription profiles of L. plantarum obtained from the ceca of mice fed the same diet (Supplemental Fig 1). These profiles were distinct from those obtained for L. plantarum in mice fed a different diet or grown in laboratory culture media. A total of 936 ± 208 L. plantarum genes represented on the arrays exhibited statistically significant differences in their expression within the ceca of mice fed either a standard chow or Western diet, when compared to the individual culture conditions (FDR-adjusted p-values &lt;0.05; see Fig 2 (and Supplemental Table 4 for qRT-PCR validations).
+
+A subset consisting of 243 (133 up and 110 down) and 629 (304 up and 325 down) genes were differentially expressed in the chow- and Western diet-fed mice, respectively, versus all three culture conditions (Fig 2). These genes are distributed throughout the L. plantarum genome and among the 16 main functional classes annotated for this organism (Kleerebezem et al., 2003) (Fig 3). Although the transcriptomes of L. plantarum in the chow and Western diet mouse groups were distinctive, there were also shared transcriptional responses encompassing 45 and 62 genes which were up- and down-regulated, respectively. The up-regulated genes are primarily involved in energy metabolism and transport pathways, whereas the down-regulated genes were more evenly distributed among the different functional classes (Fig 3 and Supplemental Table 2 plus below).
+
+Assessment of replication and metabolic activity in mice
+The rate at which bacteria must replicate to maintain the high steady state population of 100 billion cells/ml achieved in the cecum is not known, either in conventionally-raised animals or in various mouse gnotobiotic mouse models colonized with one or more (human) gut symbionts. The transcript profiles suggest that L. plantarum replicates at a slower rate in vivo than what is achieved during exponential growth in CDM and MRS media: i.e. levels of expression of genes involved in cell division, transcription, translation, cell membrane biosynthesis and glycolysis were significantly lower in the guts of gnotobiotic mice compared to in vitro (Fig. 2 and 3). In contrast, levels of expression of these housekeeping genes in chow-fed mice were comparable to levels documented during exponential growth in Chow medium, suggesting that these in vitro conditions simulate some features of the nutrient landscape encountered in the distal gut. Expression of genes involved in transcription, translation, and nucleotide biosynthesis was 3- to 5- fold reduced in the ceca of mice fed a Western compared to a chow diet, while genes involved in amino acid biosynthesis, and transport were up-regulated (Fig 3 and 4). These latter findings imply that in the face of a simple sugar-laden Western diet L. plantarum experiences a nutrient-limited, growth-restrictive environment in the distal gut (simple sugars are efficiently absorbed in the proximal gut by host nutrient transporters (Ferraris and Diamond, 1997)).
+
+Stress-response pathways in vivo
+According to the transcriptome profiles, L. plantarum residing in the cecum were under relatively low levels of environmental stress. Genes encoding chaperones, DNA binding proteins, and protease systems in the HrcA and CtsR regulons were down-regulated in the chow- and Western diet-fed mice compared to all culture media tested. Moreover, oxidative and low pH stresses also appear to be relatively insignificant: e.g., genes encoding thioredoxin (lp_0761, lp_2270) and glutathione reductase (lp_0369) were expressed at lower levels in vivo.
+
+Carbohydrate metabolism: the largest functional category of genes up-regulated in vivo
+In vitro studies have shown that unlike entrenched members of the microbiota belonging to the Bacteroidetes, L. plantarum is unable to utilize most complex polysaccharides for growth (Saulnier et al., 2007) (J. van Hylckama Vlieg, personal communication). Our previous GC-MS analyses have shown that arabinose, rhamnose, amino sugars, mannose, xylose, and fucose are found in large amounts in the ceca of germ-free mice fed a standard chow diet (Sonnenburg et al., 2005). Fittingly, the largest set of L. plantarum functionally-related genes up-regulated in vivo is involved in carbohydrate transport and metabolism (within Energy Metabolism, Fig 3). Denou et al found similar results for L. johnsonii NCC533 in antibiotic-treated (Denou et al., 2007) and germ-free mice (Denou et al., 2008). In these studies, the presence or absence of L. johnsonii transcripts were measured in mouse intestinal compartments. Transcripts for sugar Phosphotransferase System (PTS) transporters and digestive enzymes were detected in vivo and energy metabolism was specifically enriched in the jejunum and cecum (Denou et al., 2007; Denou et al., 2008). A sugar PTS was also identified in L. johnsonii NCC533 which is absent in a related strain that survives poorly in the gut (Denou et al., 2008). This locus was found to be required for the long-gut-persistence phenotype of L. johnsonii NCC533 (Denou et al., 2008).
+
+Although some genes were responsive to the mouse diet [e.g., the N - acetylgalactosamine phosphoenolpyruvate-dependent phosphotransferase (PTS) system operon (lp_2647 - lp_2651) was induced in chow fed mice and had been previously identified as gut-inducible by R-IVET in conventionally-raised mice (Bron et al., 2004)], numerous C-metabolism pathways were up-regulated in the ceca of both Western- and chow-fed mice (Fig 5). The affected C-metabolism pathways are involved in transport and metabolism of raffinose, cellulose, maltose, lactose/galactose, sucrose, and melibiose (Fig 5) - sugars present in both mouse diets (e.g. sucrose represents 18% of the weight of the Western-diet).
+
+A number of genes involved in sugar alcohol metabolic pathways for galactitol, myo-inositol, and glycerol were also up-regulated in vivo: those involved in metabolism of galactitol, a product of galactose metabolism, and myo-inositol, are linked together in a 13-gene locus (lp_3599 to lp_3614) that is coordinately induced in vivo. Components of the glycerol metabolic pathway, including the DhaT and the Dak system (lp_0168 – lp_0171) and glycerol transporters, were also up-regulated (Supplemental Table 2). The metabolism of glycerol as an energy source, alone or together with carbohydrates has been reported for a number of Lactobacillus species (Dacunha and Foster, 1992; Alvarez et al., 2004). Moreover, glycerol has been detected in human fecal material (Saric et al., 2008) as well as in increased amounts in the blood plasma of formerly germ-free mice after colonization with a human infant microbiota (Martin et al., 2007). Together, these results suggest that glycerol represents a fermentable energy source utilized by L. plantarum in its distal gut habitat.
+
+Finally, nanA, encoding an N -acetylneuraminate lyase, and several other genes in a locus encoding sialic acid metabolism (lp_3563 – lp_3570) exhibited significantly higher levels of expression in both chow- and Western diet-fed animals compared to in vitro growth in the various media. Sialic acid is a common component of human gut-glycoproteins (Vimr et al., 2004). The capacity to turn to host glycans as a nutrient source, especially during times when dietary polysaccharides are limiting, is a feature of bacterial members of the distal human gut microbiota, such as B. thetaiotaomicron, and likely contributes to ecosystem stability (e.g., Sonnenburg et al., 2005; Bjursell et al., 2006; Martens et al., in press). Notably, genes involved in sialic acid and galactitol/myo-inositol metabolism are located in a ‘lifestyle island’ in the L. plantarum chromosome that has an distinctive base composition and high degree of genome plasticity in different L. plantarum strains (Molenaar et al., 2005). These features, together with the relative over-representation of genes involved in sugar metabolism in this island, suggest that this island is an important site for genomic evolution and adaptation to distinctive gut habitats.
+
+L. plantarum fermentation in vivo
+Nutrient restrictions, and the availability of energy sources other than simple sugars, result in the production of mixed-acid fermentation end-products by homo-fermentative LAB species (Neves et al., 2005). In the ceca of chow- and Western diet-fed mice, genes involved in fumarate and ethanol production were up-regulated. Induction of these pathways is exemplified by fum [fumarate hydratase], pfl [pyruvate formate lyase], and adhE [bifunctional alcohol/acetaldehyde dehydrogenase]. At up to 130-fold induced, these genes were among the most highly up-regulated genes in chow diet mice. Moreover, adhE was previously identified as gut-inducible by R-IVET (Bron et al., 2004), and is expressed at high levels in the intestines of conventionally-raised mice (Marco et al., 2007). The transcript profiles of L. plantarum WCFS1 in gnotobiotic mice indicate that the fermentation pathways of Lactobacillus likely modify the gut nutritional environment, both by consumption of dietary polysaccharides and by production of multiple metabolic end-products that are typically not observed during growth of this organism in sugar-replete culture conditions in vitro.
+
+Cell surface modifications of L. plantarum in vivo
+Out of 223 L. plantarum WCFS1 genes analyzed on the microarrays with designated cell envelope- and wall- localized functions, 9 and 32 of these genes were induced in the ceca of the chow- and Western-diet fed mice, respectively, compared to during growth in all in vitro culture conditions tested. Remarkably, the in vivo induced genes primarily encoded putative cell-wall anchored and lipoproteins with unknown functions, rather than polysaccharide, peptidoglycan, or teichoic acid biosynthetic capacities also included in this gene category. Comparison of the chow and Western diet fed mice datasets showed an overlap of 5 genes induced in all mice (Supplemental Table 2). These five genes consisted of lp_0209, encoding a C-terminal truncated homologue of fibronectin binding proteins, and lp_1539, encoding an extracellular lipoprotein with a propeptide domain common to the M4 peptidase family of proteins common among pathogenicity factors in human pathogens (e.g. pseudolysin) (Yeats et al., 2004). The three other genes are components of cell surface complex operons (csc, cscVII and cscVIII) (Siezen et al., 2006). Homologs of the Csc systems are present in only a limited number of Gram-positive bacteria, primarily those associated with plants (Siezen et al., 2006). The Csc contain sugar binding and degradation domains, including Concanavalin A-like lectin/glucanase motifs and are regulated in part by catabolite repression through a network that involves CcpA (Siezen et al., 2006). Specific Csc encoding clusters of L. plantarum are down-regulated in the presence of bile (cscII) (Bron et al., 2006) and up-regulated under lactate stress (cscIX) (Pieterse et al., 2005). Induction of the other csc in vivo may facilitate L. plantarum’s ability to utilize host or dietary glycans in its distal gut habitat.
+
+Five of the 7 cell-surface associated genes that were down-regulated in both the chow- and Western diet-fed mice groups are in the pbpX2-dltXABCD locus encoding the biosynthetic pathway responsible for addition of D-alanyl substituents to lipoteichoic acids (LTA). (Supplemental Tables 2 and 4). These genes were strongly down-regulated (8 to 12-fold) in mice, whereas the expression levels of teichoic acid biosynthetic genes remained relatively unchanged. The fact that the machinery for D-alanylation of LTA is strongly down-regulated is intriguing, considering that D-alanylation of LTA is relevant for host-microbe interactions, including adhesion and virulence (Weidenmaier and Peschel, 2008). A L. plantarum dltABCD mutant lacking the ability to add D-alanine to LTA elicits strong anti-inflammatory responses in conventionally raised mice compared to the wild-type strain (Grangette et al., 2005). Our study indicates that wild-type L. plantarum also modifies its gene expression in ways designed to minimize the levels of D-alanylated LTA present on the cell surface in vivo, and therefore limit its exposure to components of the host’s innate and/or adaptive immune system.
+
+Comparison of gnotobiotic mouse-derived dataset to in vivo expression profiling by R-IVET
+As noted in the Introduction, a promoter trapping R-IVET screen identified 72 L. plantarum genes that were poorly expressed in culture but induced during transit through the guts of conventionally-raised mice (Bron et al., 2004). Seven of these genes, including (i) pts19A (lp_2647) and pts1BCA (lp_0185) encoding components of N-acetylgalactosamine and sucrose PTS systems, (ii) dhaT, encoding 1,3 propanediol dehydrogenase, and (iii) adhE, encoding a bifunctional alcohol dehydrogenase and acetaldehyde dehydrogenase, were also induced in chow-fed mice compared to growth in MRS, the same medium used for in vitro comparisons in the R-IVET screen (for the other genes, see Supplemental Table 3). In Western diet-fed mice, 19 of the ivi genes were up-regulated, including adhE and pts1BCA, as well as several other genes also confirmed to be up-regulated in conventionally-raised mice by real-time RT-PCR (Marco et al., 2007).
+
+The other R-IVET-identified genes did not appear to be induced in the cecum of gnotobiotic animals. These apparent differences likely reflect the fact that the R-IVET study used mice with a complete gut microbiota: as such, L. plantarum genes responsive to interactions with other members of the Firmicutes, or to other phyla represented in the gut community, would have been ‘captured’ in the R-IVET screen. Moreover, R-IVET identifies gene induction in single cells and only requires that a single stimulatory event occurs at any site along the length of the digestive tract, whereas the analysis presented here represents a response of a mono-component L. plantarum community at one specific site (the cecum). Indeed, follow-up studies have shown that a subset of the L. plantarum genes identified by R-IVET are preferentially expressed in the small intestine rather than the cecum (Marco et al., 2007). Because the R-IVET the genetic screen and transcript profiling using genome-wide DNA microarrays yielded overlapping but distinct results, these methods provide complementary information that is valuable for dissecting the influence of the gut compartment, indigenous microbiota, and host diet on probiotic function.
+
+Prospectus: comparative genomics of the human gut-associated lactic acid bacteria
+Transcript profiles of L. plantarum WCFS1 residing in the ceca of germ-free mice showed that this organism was responding to the gut environment in ways which differed dramatically between the two host diets. Dietary regimes may alter the physiological characteristics of lactobacilli (or other microbes) in the intestine, both at the level of growth but more importantly at the level of their specific activities and molecular characteristics which may strongly affect their capacities to communicate with host mucosal tissues. These findings should be validated by measuring L. plantarum responses to (a) other host diets in vivo, (b) different gastrointestinal sites (e.g. the stomach, small intestine, and colon), and (c) other mouse (or mammalian) model systems. To determine the actual contributions of host diet on L. plantarum – host interactions, follow-up studies should include examination of down-stream effects of L. plantarum on the gut contents and host epithelial and immune cell responses. Although the value of transcript profiling in the field of gut microbiology has been proven in numerous studies, continued advancements in the field will require targeted follow-up measures which investigate specific hypotheses of probiotic function and molecular interactions in the mammalian gut.
+
+Lactobacillus species are found in plant, dairy, and digestive tract environments. The specific adaptations of Lactobacillus for gut environments will be identified by cross-species comparisons of genome content and gene expression in this habitat. This is illustrated by significant activation of sugar metabolism by L. plantarum WCFS1 and L. johnsonii NCC533 in mice digestive tracts, even though these two strains differ extensively in their genome content and organization (Boekhorst et al., 2004). Moreover, 18% of the L. plantarum genes induced in the guts of mice fed chow and western diets have homologues among intestinal lactobacilli and not other LAB for which genome sequences are available (Makarova et al., 2006) (these genes are indicated in Supplemental Table 2). Most of these genes encode unknown functions and/or are predicted to be localized to the cell-surface. Additionally, several of these genes are located in the lifestyle adaptation region of the L. plantarum chromosome spanning lp_3488-lp_3669, encoding almost exclusively for the regulation, transport, and metabolism of sugar uptake and degradation. The importance of these genes and other so-called lifestyle adaptation regions in the L. plantarum WCFS1 genome for adaptation to the digestive tract is underscored by the fact that over 64% of L. plantarum WCFS1 genes up-regulated in both chow- and Western diet-fed gnotobiotic mice are located at these sites (Molenaar et al., 2005). This observation, together with the fact that R-IVET screens in conventionally-raised mice and whole genome transcriptional profiling in mono-colonized gnotobiotic mice yielded datasets enriched for genes involved in carbohydrate transport and degradation, underscore the importance of glycan metabolism for adaptation of this Lactobacillus species to the gut.
+
+Experimental Procedures
+Strain and culture conditions
+L. plantarum WCFS1 (Kleerebezem et al., 2003) was grown in Mann-Rogusa Sharpe (MRS) broth (Merck, Darmstadt, Germany), Chemically Defined medium (CDM, (Teusink et al., 2005), and a mouse-Chow medium under microaerobic conditions in bottles at 37 °C. The latter was prepared by pulverizing chow pellets (Zeigler; 7378000, B&amp;K universal, East Yorkshire, United Kingdom), and then dissolving the resulting powder in water (pH 6.2; 10% w/v). Large particles were removed from the suspension by centrifugation (20 min 6000 × g, at room temperature, followed by filtration over a 595½ folder filter (Schleichner &amp; Shuell, Hertogenbosch, The Netherlands), and sterilization for 20 min at 121°C.
+
+Sugars present in the Chow medium were determined by High Performance Liquid Chromotography (HPLC) coupled to a refractive index detector (model ERC-7510, Erma Optical Works, Tokyo, Japan) and two cation exchange columns (Aminex Carbohydrate HPX-42A (300 mm × 7.8 mm), Bio-Rad, Veenendaal, The Netherlands) at 80°C, at a flow rate of 0.6 ml /min using water as the eluant.
+
+Colonization of germ-free mice
+Eleven week old male, germ free C57BL/6 mice were housed in flexible film gnotobiotic isolators under a strict 12h light cycle. Mice (n=5 per group) were fed an autoclaved standard polysaccharide-rich mouse chow diet (Zeigler 7378000; B&amp;K Universal, East Yorkshire, United Kingdom), or an irradiated high fat/high sugar diet (TD88137; Harlan Teklad, Madison, WI, USA). Mice were inoculated by gavage (109 cfu of mid-log phase L. plantarum WCFS1 in 100 μl of MRS medium). Fifteen days after inoculation, mice were sacrificed, and their intestinal tracts quickly dissected (Sonnenburg et al., 2006). Aliquots of the intestinal luminal contents were harvested for cfu determination (serial dilution plating on MRS agar plates). Ceca were snap-frozen in liquid nitrogen and stored at −80°C prior to RNA isolation from luminal contents.
+
+RNA isolation
+L. plantarum RNA was isolated from log-phase cultures using standard protocols (methanol-quenching step, bead beating for cell disruption, and purification with the Roche-High Pure RNA isolation kit) (Saulnier et al., 2007).
+
+Ceca were thawed and luminal contents recovered by removing/pealing off cecal tissue into 2-3 volumes (750-1500 μl) of RNAprotect (Qiagen, Valencia, CA, USA). The resulting suspension was mixed (vortexing for 10 sec at 21 °C), incubated (5 min at room temperature), and centrifuged (5000 × g for 10 min at 10 °C). The pellet was mixed with 750 μl Tris-EDTA buffer (10 mM Tris, 1 mM EDTA, pH 8) containing lysozyme (1 mg/ml; Sigma, St.Louis, MO) and mutanolysin (500 U/ml; Sigma, St. Louis, MO) and incubated, while shaking, for 20 min at room temperature. An equal volume of the RLT buffer (RNeasy MIDI Kit, Qiagen) was added to the cell lysates and centrifuged for 5 min at 1650 × g. Total RNA was purified with RNeasy MIDI kit according to the manufacturer’s protocol, including an on-column DNase (Qiagen) treatment step. Analysis using a 2100 Bioanalyzer (Agilent Technologies, Amstelveen, The Netherlands) revealed that RNA samples from the cecal microbiota contained &lt;1% mouse RNA.
+
+DNA microarrays
+RNA (5 μg) from each cecal and culture sample was introduced into a Cyanine 5 (Cy5) labeling reaction (indirect labeling of synthesized cDNA with the CyScribe Post-Labeling and Purification kit; Amsersham Biosciences, Buckinghamshire, United Kingdom). The Cy5-labeled cDNA product (0.5 μg) was hybridized to Agilent Technologies L. plantarum WCFS1 DNA microarrays . The array design and DNA microarray data are available at the Gene Expression Omnibus (http://www.ncbi.nlm.nih.gov/geo/) under accession numbers GPL4318 and GSE11383, respectively. Conditions for hybridization and scanning have been described previously (Saulnier et al., 2007).
+
+Data analysis
+After blank probe spots were removed, fluorescence intensities were first normalized using quantile normalization in R (http://www.r-project.org). The genomic DNA standard was not included in the final analysis. Raw intensity readings from all arrays were quantile-normalized (Bolstad et al., 2003). For hierarchical clustering, Pearson’s correlation coefficient between normalized microarray data was used as a distance metric [specifically, the “hclust” function with Ward’s minimum variance agglomeration method in R (http://www.r-project.org) (Hastie, 2001)]. The statistical significance of differences between the quantile-normalized data was calculated from the variation in the biological replicates using Student’s t-test on log(ratio) values. A false discovery rate (FDR) adjustment of the p-values was performed (Smyth, 2004), and only genes with FDR adjusted p-values less than 0.05, corresponding to at most 5% false positives were displayed.
+
+The list of differentially expressed genes were projected onto the metabolic pathways known for L. plantarum (Teusink et al., 2006) using the Simpheny software (Reed et al., 2003) and Cluster (Eisen et al, 1998) to display the gene expression patterns. Analysis was also assisted by metabolic pathway reconstructions of L. plantarum WCFS1 at LacPlantCyc (http://www.lacplantcyc.nl/) (Teusink et al., 2005).
+
+Real-time RT-PCR
+Primers were designed, and RT-PCR was performed as previously described (Marco et al., 2007). All primers used in this study are provided in Supplemental Table 5. Quantitative PCR amplification was performed in a 7500 Fast System (Applied Biosystems), using SYBR Green for product detection. Aliquots of 200 ng RNA and 0.5 μg of random hexamers (Invitrogen) were included in the RT reactions. 1 μl of a 1:10 dilution of the RT product was added to a 19 μl solution containing SYBR Green Master Mix (Applied Biosystems) and 200 nM of the forward and reverse primer. Amplification was initiated at 95°C for 10 min, followed by 40 cycles of 95°C for 15 sec and 60°C for 60 sec. All samples were measured in duplicate. Control PCRs were included to detect background contamination (no-template control) and verify that there was no contaminating chromosomal DNA (Superscript III omitted from RT reactions).
+
+All real-time PCR assays amplified a single product as determined by melting curve analysis. PCR reaction efficiency was defined as previously described (Rasmussen, 2001). Relative gene expression was calculated using GeNorm (Vandesompele et al., 2002), an approach whereby the geometric mean of the four most stably expressed housekeeping genes (prcA, sigH, proA, and fusA1) served as a normalization factor to compare cecal samples to L. plantarum grown in MRS, CDM and Chow medium.
+
+Supplementary Material
+Supp Table S1,s4,s5 &amp; Fig s1  Supp Table s2  Supp Table s3  Acknowledgements
+We thank Janaki Lelwala-Guruge for her assistance with microbiological assays, Maria Karlsson and David O’Donnell for gnotobiotic mouse husbandry, Sabrina Wagoner and Jill Manchester for technical support, Marc Stevens for reference samples of L. plantarum WCFS1 RNA, Rene van der Heijden for assistance with the DNA microarray data analysis, and Bas Teusink and Michiel Wels for their critical comments on the manuscript. This work was supported in part by grants from the National Institutes of Health (DK52574) and TI Food &amp; Nutrition, Wageningen, The Netherlands (http://www.tifn.nl/).
+
+Figures
+Fig 1 Population sizes of L. plantarum WCFS1 colonizing the digestive tracts of germ-free mice fed a standard chow diet (open circles) or Western diet (black squares). Each point represents the average of the log-transformed population size ± standard deviation for 5 mice. The asterisks indicate significant differences in L. plantarum population sizes in a given region of the gut (*, p&lt;0.05, **, p&lt;0.01, according to a two-tailed student’s t-test assuming unequal variances).
+
+Fig 2 Venn diagram of up-regulated / down-regulated genes in the ceca of gnotobiotic mice fed a (A) standard chow or (B) Western diet, compared to mid-log phase growth in MRS, CDM, and Chow media.
+
+Fig 3 Percentage of L. plantarum genes in functional classes that were up- and down-regulated in mice on standard chow (black bars) and Western (white bars) diets, and in both (grey bars), compared to growth in all laboratory culture media tested (MRS, CDM and Chow-medium). The total number of genes per category is provided next to the category title. Classes that were significantly overrepresented among the up- and down-regulated genes compared to the genome are indicated with an asterisk (*), (p &lt; 0.05 according to the Chi-square test).
+
+Fig 4 Up- (red) and down-(green) regulated L. plantarum WCFS1 housekeeping and growth related genes in the ceca of mice consuming a standard chow diet compared to laboratory culture conditions (MRS, CDM and Chow medium), and to Western Diet (WD) fed animals. The heat-map was generated using Cluster (Eisen et al, 1998).
+
+Fig 5 Expression of L. plantarum WCFS1 genes involved in carbohydrate uptake and degradation pathways in gnotobiotic mice fed a chow or Western diet versus growth in different in vitro culture conditions. Red, green, and black (or empty arrows) denote up-regulated, down-regulated, and not differentially expressed in the cecum compared to in vitro culture conditions, respectively. Pathways for which the genes were differentially expressed in chow-fed mice compared to growth in Chow medium are color-coded in the reaction arrows. The regulation of these genes in vivo compared to bacteria cultured in MRS and CDM is provided next to the pathway arrows. Pathways differentially expressed in Western diet-fed mice compared to all culture conditions are indicated by the colored font of the sugar substrate.
+
+
+   References
+
+          Alvarez MD Medina R Pasteris SE de Saad AMS Sesma F  
+          Glycerol metabolism of Lactobacillus rhamnosus ATCC 7469: cloning and expression of two glycerol kinase genes 
+          J Mol Microbiol Biotechnol 
+          2004 
+          7 
+          170 
+          181 
+          15383715 
+        
+
+          Arvanitoyannis IS Van Houwelingen-Koukaliaroglou M  
+          Functional foods: a survey of health claims, pros and cons, and current legislation 
+          Crit Rev Food Sci Nut 
+          2005 
+          45 
+          385 
+          404 
+        
+
+          Bjursell MK Martens EC Gordon JI  
+          Functional genomic and metabolic studies of the adaptations of a prominent adult human gut symbiont, Bacteroides thetaiotaomicron, to the suckling period 
+          J Biol Chem 
+          2006 
+          281 
+          36269 
+          36279 
+          16968696 
+        
+
+          Boekhorst J Wels M Kleerebezem M Siezen RJ  
+          The predicted secretome of Lactobacillus plantarum WCFS1 sheds light on interactions with its environment 
+          Microbiology 
+          2006 
+          152 
+          3175 
+          3183 
+          17074889 
+        
+
+          Boekhorst J Siezen RJ Zwahlen MC Vilanova D Pridmore RD Mercenier A  
+          The complete genomes of Lactobacillus plantarum and Lactobacillus johnsonii reveal extensive differences in chromosome organization and gene content 
+          Microbiology 
+          2004 
+          150 
+          3601 
+          3611 
+          15528649 
+        
+
+          Bolstad BM Irizarry RA Astrand M Speed TP  
+          A comparison of normalization methods for high density oligonucleotide array data based on variance and bias 
+          Bioinformatics 
+          2003 
+          19 
+          185 
+          193 
+          12538238 
+        
+
+          Bron PA Molenaar D de Vos WM Kleerebezem M  
+          DNA micro-array-based identification of bile-responsive genes in Lactobacillus plantarum 
+          J Appl Microbiol 
+          2006 
+          100 
+          728 
+          738 
+          16553727 
+        
+
+          Bron PA Grangette C Mercenier A de Vos WM Kleerebezem M  
+          Identification of Lactobacillus plantarum genes that are induced in the gastrointestinal tract of mice 
+          J Bacteriol 
+          2004 
+          186 
+          5721 
+          5729 
+          15317777 
+        
+
+          Bron PA Meijer M Bongers RS de Vos WM Kleerebezem M  
+          Dynamics of competitive population abundance of Lactobacillus plantarum ivi gene mutants in faecal samples after passage through the gastrointestinal tract of mice 
+          J Appl Microbiol 
+          2007 
+          103 
+          1424 
+          1434 
+          17953553 
+        
+
+          Claesson MJ van Sinderen D O’Toole PW  
+          The genus Lactobacillus - a genomic basis for understanding its diversity 
+          FEMS Microbiol Lett 
+          2007 
+          269 
+          22 
+          28 
+          17343688 
+        
+
+          Dacunha MV Foster MA  
+          Sugar-glycerol cofermentations in lactobacilli - the fate of lactate 
+          JBacteriol 
+          1992 
+          174 
+          1013 
+          1019 
+          1732191 
+        
+
+          Denou E Berger B Barretto C Panoff J-M Arigoni F Brussow H  
+          Gene expression of a commensal Lactobacillus johnsonii strain NCC533 during in vitro growth and in the murine gut 
+          J. Bacteriol 
+          2007 
+          189 
+          8109 
+          19 
+          17827285 
+        
+
+          Denou E Pridmore RD Berger B Panoff J-M Arigoni F Brussow H  
+          Identification of genes associated with the long gut persistence phenotype of the probiotic Lactobacillus johnsonii strain NCC533 using a combination of genomics and transcriptome analysis 
+          J. Bacteriol 
+          2008 
+          190 
+          3161 
+          3168 
+          18223069 
+        
+
+          de Vos WM  
+          Lipotechoic acid in lactobacilli: D-Alanine makes the difference 
+          Proc Natl Acad Sci U S A 
+          2005 
+          102 
+          10763 
+          10764 
+          16046536 
+        
+
+          Eisen MB Spellman PT Brown PO Botstein D  
+          Cluster analysis and display of genome-wide expression patterns 
+          Proc Natl Acad Sci U S A 
+          1998 
+          95 
+          14863 
+          14868 
+          9843981 
+        
+
+          Ferraris RP Diamond J  
+          Regulation of intestinal sugar transport 
+          Physiological Reviews 
+          1997 
+          77 
+          257 
+          302 
+          9016304 
+        
+
+          Grangette C Nutten S Palumbo E Morath S Hermann C Dewulf J  
+          Enhanced antiinflammatory capacity of a Lactobacillus plantarum mutant synthesizing modified teichoic acids 
+          Proc Natl Acad Sci U S A 
+          2005 
+          102 
+          10321 
+          10326 
+          15985548 
+        
+
+          Hastie T Tibshirani R Friedman J  
+          The elements of statistical learning: Datamining, Inference, and Prediction 
+          2001 
+          Springer 
+          New York 
+        
+
+          Kleerebezem M Boekhorst J van Kranenburg R Molenaar D Kuipers OP Leer R  
+          Complete genome sequence of Lactobacillus plantarum WCFS1 
+          Proc Natl Acad Sci U S A 
+          2003 
+          100 
+          1990 
+          1995 
+          12566566 
+        
+
+          Ley RE Hamady M Lozupone C Turnbaugh PJ Ramey RR Bircher JS  
+          Evolution of mammals and their gut microbes 
+          Science 
+          2008 
+          320 
+          1647 
+          1651 
+          18497261 
+        
+
+          Makarova K Slesarev A Wolf Y Sorokin A Mirkin B Koonin E  
+          Comparative genomics of the lactic acid bacteria 
+          Proc Natl Acad Sci U S A 
+          2006 
+          103 
+          15611 
+          15616 
+          17030793 
+        
+
+          Marco ML Pavan S Kleerebezem M  
+          Towards understanding molecular modes of probiotic action 
+          Curr. Opin. Biotechnol 
+          2006 
+          17 
+          204 
+          210 
+          16510275 
+        
+
+          Marco ML Bongers RS de Vos WM Kleerebezem M  
+          Spatial and temporal expression of Lactobacillus plantarum genes in the gastrointestinal tracts of mice 
+          Appl Environ Microbiol 
+          2007 
+          73 
+          124 
+          132 
+          17071785 
+        
+
+          Martens EC Chiang HC Gordon JI  
+          Mucosal glycan foraging enhances fitness and transmission of a saccharolytic human gut bacterial symbiont 
+          Cell Host and Microbe 
+          (in press) 
+        
+
+          Martin FP Dumas ME Wang Y Legido-Quigley C Yap IK Tang H  
+          A top-down systems biology view of microbiome-mammalian metabolic interactions in a mouse model 
+          Mol Syst Biol 
+          2007 
+          3 
+          112 
+          17515922 
+        
+
+          Molenaar D Bringel F Schuren FH de Vos WM Siezen RJ Kleerebezem M  
+          Exploring Lactobacillus plantarum genome diversity by using microarrays 
+          J Bacteriol 
+          2005 
+          187 
+          6119 
+          6127 
+          16109953 
+        
+
+          Neves AR Pool WA Kok J Kuipers OP Santos H  
+          Overview on sugar metabolism and its control in Lactococcus lactis - the input from in vivo NMR 
+          FEMS Microbiol Rev 
+          2005 
+          29 
+          531 
+          554 
+          15939503 
+        
+
+          Pieterse B Leer RJ Schuren FH van der Werf MJ  
+          Unravelling the multiple effects of lactic acid stress on Lactobacillus plantarum by transcription profiling 
+          Microbiology 
+          2005 
+          151 
+          3881 
+          3894 
+          16339934 
+        
+
+          Rasmussen R  
+          Meuer S Wittwer C Nakagawara K  
+          Quantification on the LightCycler 
+          Rapid cycle real-time PCR, methods and applications 
+          2001 
+          21 
+          34 
+          Springer Press 
+          Heidelberg 
+        
+
+          Reed JL Vo TD Schilling CH Palsson BO  
+          An expanded genome-scale model of Escherichia coli K-12 
+          Genome Biol 
+          2003 
+          4 
+          R54 
+          12952533 
+        
+
+          Samuel BS Gordon JI  
+          A humanized gnotobiotic mouse model of host-archaeal-bacterial mutualism 
+          Proc Natl Acad Sci U S A 
+          2006 
+          103 
+          10011 
+          10016 
+          16782812 
+        
+
+          Samuel BS Hansen EE Manchester JK Coutinho PM Henrissat B Fulton R  
+          Genomic and metabolic adaptations of Methanobrevibacter smithii to the human gut 
+          Proc Natl Acad Sci U S A 
+          2007 
+          104 
+          10643 
+          10648 
+          17563350 
+        
+
+          Saric J Wang Y Li J Coen M Utzinger J Marchesi JR  
+          Species variation in the fecal metabolome gives insight into differential gastrointestinal function 
+          J Proteome Res 
+          2008 
+          7 
+          352 
+          360 
+          18052033 
+        
+
+          Saxelin M Tynkkynen S Mattila-Sandholm T de Vos WM  
+          Probiotic and other functional microbes: from markets to mechanisms 
+          Curr Opin Biotechnol 
+          2005 
+          16 
+          204 
+          211 
+          15831388 
+        
+
+          Saulnier DMA Molenaar D de Vos WM Gibson GR Kolida S  
+          Identification of prebiotic fructooligosaccharide metabolism in Lactobacillus plantarum WCFS1 through microarrays 
+          Appl Environ Microbiol 
+          2007 
+          73 
+          1753 
+          1765 
+          17261521 
+        
+
+          Siezen R Boekhorst J Muscariello L Molenaar D Renckens B Kleerebezem M  
+          Lactobacillus plantarum gene clusters encoding putative cell-surface protein complexes for carbohydrate utilization are conserved in specific gram-positive bacteria 
+          BMC Genomics 
+          2006 
+          7 
+          126 
+          16723015 
+        
+
+          Smyth GK  
+          Linear models and empirical Bayes methods for assessing differential expression in microarray experiments 
+          Stat Appl Genet Mol Biol 
+          2004 
+          3 
+          article 3 
+        
+
+          Sonnenburg JL Chen CT Gordon JI  
+          Genomic and metabolic studies of the impact of probiotics on a model gut symbiont and host 
+          PLoS Biol 
+          2006 
+          4 
+          2213 
+          2226 
+        
+
+          Sonnenburg JL Xu J Leip DD Chen C-H Westover BP Weatherford J  
+          Glycan foraging in vivo by an intestine-adapted bacterial symbiont 
+          Science 
+          2005 
+          307 
+          1955 
+          1959 
+          15790854 
+        
+
+          Stevens M  
+          Transcriptome response of Lactobacillus plantarum to global regulatory deficiency, stress, and other environmental conditions 
+          Wageningen Centre for Food Sciences 
+          2008 
+          192 
+          Wageningen University and Research Centre 
+          Wageningen, The Netherlands 
+        
+
+          Teusink B van Enckevort FH Francke C Wiersma A Wegkamp A Smid EJ Siezen RJ  
+          In silico reconstruction of the metabolic pathways of Lactobacillus plantarum: comparing predictions of nutrient requirements with those from growth experiments 
+          Appl Environ Microbiol 
+          2005 
+          71 
+          7253 
+          7262 
+          16269766 
+        
+
+          Teusink B Wiersma A Molenaar D Francke C de Vos WM Siezen RJ Smid EJ  
+          Analysis of growth of Lactobacillus plantarum WCFS1 on a complex medium using a genome-scale metabolic model 
+          J Biol Chem 
+          2006 
+          281 
+          40041 
+          40048 
+          17062565 
+        
+
+          Tuomola E Crittenden R Playne M Isolauri E Salminen S  
+          Quality assurance criteria for probiotic bacteria 
+          Am J Clin Nutr 
+          2001 
+          73 
+          393S 
+          398 
+          11157347 
+        
+
+          Turnbaugh PJ Backhed F Fulton L Gordon JI  
+          Diet-induced obesity is linked to marked but reversible alterations in the mouse distal gut microbiome 
+          Cell Host Microbe 
+          2008 
+          3 
+          213 
+          223 
+          18407065 
+        
+
+          Vandesompele J De Preter K Pattyn F Poppe B Van Roy N De Paepe A Speleman F  
+          Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes 
+          Genome Biol 
+          2002 
+          3 
+          34.31 
+          34.11 
+        
+
+          Vaughan EE Heilig HGHJ Ben-Amor K de Vos WM  
+          Diversity, vitality and activities of intestinal lactic acid bacteria and bifidobacteria assessed by molecular approaches 
+          FEMS Microbiol Rev 
+          2005 
+          29 
+          477 
+          490 
+          16125009 
+        
+
+          Vesa T Pochart P Marteau P  
+          Pharmacokinetics of Lactobacillus plantarum NCIMB 8826, Lactobacillus fermentum KLD, and Lactococcus lactis MG 1363 in the human gastrointestinal tract 
+          Aliment Pharmacol Ther 
+          2000 
+          14 
+          823 
+          828 
+          10848668 
+        
+
+          Vimr ER Kalivoda KA Deszo EL Steenbergen SM  
+          Diversity of microbial sialic acid metabolism 
+          Microbiol Mol Biol Rev 
+          2004 
+          68 
+          132 
+          153 
+          15007099 
+        
+
+          Weidenmaier C Peschel A  
+          Teichoic acids and related cell-wall glycopolymers in Gram-positive physiology and host interactions 
+          Nature Reviews Microbiology 
+          2008 
+          6 
+          276 
+          287 
+        
+
+          Yeats C Rawlings ND Bateman A  
+          The PepSY domain: a regulator of peptidase activity in the microbial environment? 
+          Trends in Biochemical Sciences 
+          2004 
+          29 
+          169 
+          172 
+          15124630 
+        
+

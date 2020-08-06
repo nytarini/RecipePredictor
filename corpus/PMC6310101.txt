@@ -1,0 +1,32 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   88040703570Eur J Clin NutrEur J Clin NutrEuropean journal of clinical nutrition0954-30071476-564029946116631010110.1038/s41430-018-0197-8NIHMS981746ArticleIncorrect analyses were used in “Different enteral nutrition formulas have no effect on glucose homeostasis but on diet-induced thermogenesis in critically ill medical patients: a randomized controlled trial” and corrected analyses are requested Dickinson Stephanie 1Brown Andrew 2Mehta Tapan 3Heymsfield Steven 4Ebbeling Cara 5Ludwig David 5Allison David 11 Department of Epidemiology and Biostatistics, School of Public Health – Bloomington, Indiana University, Bloomington, IN, USA2 Department of Applied Health Science, School of Public Health – Bloomington, Indiana University, Bloomington, IN, USA3 Department of Health Services Administration, School of Health Professions, University of Alabama at Birmingham, Birmingham, AL, USA4 Pennington Biomedical Research Center, Louisiana State University, Baton Rouge, LA, USA5 New Balance Foundation Obesity Prevention Center, Boston Children’s Hospital, Boston, MA, USA18 7 2018 27 6 2018 1 2019 01 1 2020 73 1 152 153 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+   Wewalka et al. conducted a valuable parallel, randomized clinical cohort study investigating glucose homeostasis in response to continuous fat-based (group A) or glucose-based (group B) enteral nutrition formulas in medical critically ill patients [1]. Because of the rigorous control of nutrient intake, such feeding studies offer a unique capability to address a hypothesis that we are also interested in [2] about the effects of macronutrient composition on energy expenditure at isocaloric levels. Unfortunately, we believe the analyses presented in the published manuscript do not test the effects of the interventions.
+
+Analyses for all outcomes in the article are presented as a combination of comparisons between groups, separately at each time point, as well as within groups, across time points. For example, for Resting Energy Expenditure (REE), results showed energy expenditure “significantly increased in the group receiving fat-based [treatment], whereas it remained unchanged in the patients receiving glucose-based [treatment]” which led to the conclusion that “diet-induced thermogenesis was substantially higher in critically ill patients receiving fat-based enteral nutrition.” In other words, there was a significant change for group A (p&lt;0.05) but not in group B (p&gt;0.05), so the article concluded that group A increased more than group B. However, informal comparison of the nominal significance of change in each within-group comparison is not the same as a significance test of the difference in changes between the two groups. Using the within-group comparisons to imply differences between groups is known as the Differences in Nominal Significance (DINS) error [3]. This approach is statistically invalid and can lead to false positives, where the expected Type I error rate of 0.05 may actually inflate to as high as 50% [4, 5, 6, 7] when only two groups with equal sample sizes are used. With more groups or unequal sample sizes, type 1 error rates can approach 1.0. Use of the DINS error has led to the correction [8] or retraction [9] of multiple papers within nutrition and obesity research [6]. In absence of a valid and more powerful test such as that based on ANCOVA or repeated measures, readers are limited to making inferences from valid but less powerful post-only analyses at Day 7, which are not statistically significant and therefore qualitatively contradict the authors’ findings about REE.
+
+We contacted the authors to ask for the raw data so that we could conduct corrected analyses, but they declined to provide such data. We therefore ask that they conduct and present the results of the proper statistical analysis in the Journal. It is possible that correcting the analyses may not change the conclusions, but it is valuable to have corrected analyses and results in the literature to buttress the conclusions even if the conclusions are not altered.
+
+Conflict of Interest.
+
+The work of the authors of this correspondence is supported in part by NIH grants R25DK099080, R25HL124208, and P30DK056336. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health or any other organization.
+
+
+   References
+1. Wewalka M , Drolz A , Seeland B , Schneeweiss M , Schmid M , Schneeweiss B , 
+Different enteral nutrition formulas have no effect on glucose homeostasis but on diet-induced thermogenesis in critically ill medical patients: a randomized controlled trial . European journal of clinical nutrition . 2018 :1 .28876334 
+2. Ebbeling CB , Swain JF , Feldman HA , Wong WW , Hachey DL , Garcia-Lago E , 
+Effects of dietary composition on energy expenditure during weight-loss maintenance . JAMA 
+2012 
+6 
+27 ;307 (24 ):2627 –34 22735432 
+3. Allison DB , Brown AW , George BJ , Kaiser KA . Reproducibility: A tragedy of errors . Nature . 2016 ;530 (7588 ):27 –9 .26842041 
+4. Bland JM , Altman DG . Comparisons against baseline within randomised groups are often used and can be highly misleading . Trials . 2011 ;12 :264 .22192231 
+5. Gelman A , Stern H . The Difference Between “Significant” and “Not Significant” is not Itself Statistically Significant . The American Statistician . 2006 ;60 (4 ):328 –31 .
+6. George BJ , Beasley TM , Brown AW , Dawson J , Dimova R , Divers J , 
+Common scientific and statistical errors in obesity research . Obesity (Silver Spring) . 2016 ;24 (4 ):781 –90 .27028280 
+7. Bland JM , Altman DG . Best (but oft forgotten) practices: testing for treatment effects in randomized trials by separate analyses of changes from baseline in each group is a misleading approach . Am J Clin Nutr . 2015 ;102 (5 ):991 –4 .26354536 
+8. Allison DB , Antoine LH , George BJ . Incorrect statistical method in parallel-groups RCT led to unsubstantiated conclusions . Lipids Health Dis . 2016 ;15 :77 .27083538 
+9. Cassani RS , Fassini PG , Silvah JH , Lima CM , Marchini JS . Retraction Note: Impact of weight loss diet associated with flaxseed on inflammatory markers in men with cardiovascular risk factors: a clinical study . Nutr J . 2016 ;15 (1 ):59 .27267967 
+

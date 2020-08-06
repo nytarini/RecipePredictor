@@ -1,0 +1,424 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10157392039705J Acad Nutr DietJ Acad Nutr DietJournal of the Academy of Nutrition and Dietetics2212-267227046061482363210.1016/j.jand.2015.08.021NIHMS730049ArticleSchool Breakfast Receipt and Obesity among American Fifth- and Eighth-Graders Sudharsanan Nikkil MPHPhD candidateDemography, Population Studies Center, University of Pennsylvania, PhiladelphiaRomano Sebastian MPHMPH candidateGlobal Health, Rollins School of Public Health, Emory University, Atlanta, GACunningham Solveig A. PhDassistant professorHubert Department of Global Health, Rollins School of Public Health, Emory University, Atlanta, GAAddress correspondence to: Nikkil Sudharsanan, MPH, Population Studies Center, University of Pennsylvania, 239 McNeil Building, 3718 Locust Walk, Philadelphia, PA 19104. nsud@sas.upenn.edu17 10 2015 14 10 2015 4 2016 01 4 2017 116 4 599 607.e3 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+School breakfast consumption can improve children's nutrition, but the implications of breakfast at school for children's weight remains unclear.
+
+Objective
+The aim of this study was to determine whether receiving breakfast at school is related to changes in children's weight between the fifth and eighth grades, and whether the relationship between school breakfasts and obesity varies for children of different socioeconomic backgrounds.
+
+Design
+This was a longitudinal study of children observed in the fifth and eighth grades.
+
+Participants
+Data are from the Early Childhood Longitudinal Study, Kindergarten Class of 1998-99, a nationally representative prospective cohort of children in the United States. The analytic sample consisted of 6,495 children interviewed in the fifth and eighth grades.
+
+Main outcome measure
+Standard thresholds from the Centers for Disease Control and Prevention were used to classify children as not obese or obese based on direct-measured height and weight.
+
+Statistical analyses performed
+Difference-in-difference propensity score matching and fixed-effect logistic regression models were used to estimate the relationship between receipt of school breakfast and change in obesity between the fifth and eighth grades, adjusting for child, household, and school characteristics.
+
+Results
+School breakfast receipt was not associated with a change in obesity status between the fifth and eighth grades for children overall (odds ratio=1. 31; P=0.129). In the propensity score model, receiving school breakfasts more than doubled the odds of becoming obese (odds ratio=2.31; P=0.0108) for children from families below the federal poverty line compared with children of similar socioeconomic backgrounds who did not regularly receive school breakfasts.
+
+Conclusions
+School breakfast receipt was not independently related to obesity for most children. Receiving school breakfasts in the fifth grade may be associated with weight gain between the fifth and eighth grades for children from families below the federal poverty line compared with children of similar socioeconomic status who did not receive breakfasts.
+
+Childhood obesitySchool breakfastNutrition
+   Childhood obesity is one of the most pressing health concerns today and has been linked with diabetes and cardiovascular disease.1, 2 According to recent estimates, 17% of American children are obese.3 School is a key environment for children, where many behaviors relevant to weight develop4 and where children consume, on average, 35% of their daily calories.5 Therefore, regulations requiring better nutrition in schools offer a promising strategy for improving health among American children.6
+
+Eating breakfast has been associated with better nutrition. A nationally representative study of children aged 5 to 16 years in the United States found that children who ate breakfast had lower daily dietary fat intake and healthier levels of serum vitamin C and folate than those who did not.7 Eating breakfast has also been associated with healthier eating patterns. For example, a study of preschoolers in Quebec, Canada, found that children who skipped breakfast at least once a week ate larger lunches, dinners, and more snacks than those who ate breakfast.8 Eating breakfast can also reduce the risk of unhealthy weight. Another study of preschool children in Quebec reported that not eating breakfast nearly doubled the odds for obesity at age 4.5 years.9 Among Belgian elementary school students, frequency of eating breakfast was negatively associated with body mass index (BMI) z scores.10 Among American teenagers, frequency of eating breakfast was negatively associated with BMI.11
+
+Despite the potential benefits of eating breakfast, it is still the meal most often skipped by young people.12 Offering breakfast at school can improve nutrition-related health by encouraging children to eat breakfast regularly. In the United States, many schools offer breakfast through the School Breakfast Program (SBP); 72.2% of eighth-grade children attend participating schools (authors' calculations). Still, not all schools participate in the SBP, and even children at SBP schools can purchase and consume breakfast outside of the SBP program.13 To date, three studies have examined the relationship between school breakfast and children's weight in the United States, with all three focused on the SBP. Due to differences in scope and data, the findings from these articles leave uncertain the potential of school breakfast as an anti-obesity strategy.
+
+Using the nationally representative cross-sectional School Nutrition Dietary Assessment Study, Gleason and Dodd14 found that 1st- through 12th-grade children who ate SBP school breakfasts had lower raw BMIs and BMI z scores than those who did not; however, they did not find an association between SBP school breakfast and obesity. Using cross-sectional data, the study could not identify the relationship between breakfast consumption and changes in weight over time. Bhattacharya and colleagues7 used data from the 1988 and 1992 National Health and Nutrition Examination Survey to study the relationship between SBP availability at school and nutrition-related outcomes for children aged 5 to 16 years. The study used a difference-in-difference approach with cross-sectional data comparing the difference in weight of children interviewed during and outside the school year for children attending schools that did and did not participate in the SBP. The study did not find a relationship between attending an SBP-participating school and BMI z score or overweight. However, the periods when school is and is not in session might be too short for changes in weight categories to occur. Millimet and colleagues15 used data from the nationally representative Early Childhood Longitudinal Study, Kindergarten cohort of 1998-99 (ECLS-K) to estimate the relationship between availability of SBP breakfasts at schools and change in children's weight between first and third grade. Children attending schools participating in the SBP grew heavier between the 2 years compared with those attending schools without the program. However, when the authors simulated the effect of different levels of unmeasured selection of heavier children into schools where the SBP is offered, they found that with moderate levels of selection (between 10% and 20%), attending a school participating in the SBP was related to a decrease in weight. This study made an important advance in studying the relationship between the school environment and obesity, suggesting that some of the lack of associations reported in the previous studies might be due to selective placement of breakfast programs. The primary focus of the study was on the policy impact of the SBP on children's weight and, as such, the authors focused on SBP availability, not receipt of school breakfast.
+
+The current study provides new evidence on the relationship between school breakfast and children's weight. In contrast to Bhattacharya and colleagues7 and Millimet and colleagues,15 we focus on children's receipt of school breakfast rather than on the availability of the SBP at the child's school. Adding to the cross-sectional associations found by Gleason and Dodd14 and Bhattacharya and colleagues, longitudinal data were used to examine change in weight over time and to adjust for unobserved differences between children. This study also uses more recent data than the previous three articles and focuses on older children at the ages when children have increasing food autonomy and are more likely to skip breakfast.16,17 Using the ECLS-K, the aim of this study was to determine whether school breakfast receipt is related to changes in children's weight between the fifth and eighth grades.
+
+Methods
+Data are from the ECLS-K,18 a nationally representative multistage probability sample of children first interviewed as kindergarteners in 1998 and followed to the end of eighth grade.19 Data for this study are from waves 6 and 7 of data collection, when the children were in the fifth and eighth grade, and include all children with valid information on school breakfast receipt, BMI, age, sex, and race/ethnicity.
+
+The height and weight of children were measured twice per wave by trained assessors and averaged to ensure accurate measurement. For this analysis, each child's BMI z score was calculated and standardized to the 2000 Centers for Disease Control and Prevention Growth Reference population for the child's age and sex.20 Dichotomous indicators for whether a child was obese were created for the fifth and eighth grades. The Centers for Disease Control and Prevention cutoffs were used to classify children as obese (≥95th percentile) or not obese. Underweight, overweight, and healthy-weight children were classified as not obese. The primary dependent variable was the change in obesity status between the two grades. Results are consistent when using a linear measure of BMI z score and a dichotomous indicator of overweight or obese (≥85th percentile).
+
+Based on the following ECLS-K question to parents— “During the last five days (child) was in school, how many school breakfasts did (he/she) receive?”—a dichotomous indicator of school breakfast receipt was created if a child received any school breakfast in the past week. In alternative analyses, a measure of the availability of school breakfasts was used by creating a dichotomous indicator equal to one if parents answered yes to the question, “Does (child)'s school offer breakfast for its students?” The ECLS-K does not ask parents whether the breakfast received was through the SBP, but 96% of children who received breakfast attended a school with the SBP (authors' calculations).
+
+Multivariate models were adjusted for the following child, household, and school characteristics that may be associated with both weight and breakfast consumption: sex; race/ethnicity (non-Hispanic white, non-Hispanic black, Hispanic, and non-Hispanic Asian/other race); age (9.2 to 10.9, 11 to 11.4, and 11.5 to 13.8 years); number of days in the past week the child exercised ≥20 minutes (0 to 7); family socioeconomic status (SES) quintile (0 to 5); whether the child's family was below the federal poverty line (0/1); whether the child's parents were married (0/1); whether the child's mother was employed full-time (0/1), part-time (0/1), or unemployed (0/1); number of breakfasts and dinners the family ate together in a typical week (both range from 0 to 7); school type (public/private); census region (Midwest, South, Northeast, West); and urbanicity (large/mid-size city; large/mid-size suburb and large town; small town/rural). Family SES quintiles were created in the ECLS-K using a composite of father/male guardian's education, mother/female guardian's education, father/male guardian's occupation, mother/female guardian's occupation, and household income.
+
+Of the 7,304 children with information on school breakfast receipt for the fifth- and eighth-grade waves, 809 children were dropped due to missing information on these covariates, for an analytic sample of 6,495 children (88.9%).
+
+Descriptive statistics were calculated for weight status and school breakfast receipt. Bivariate associations were tested using two sample t tests to determine which child, household, and school characteristics were significantly different between children who did and did not receive school breakfast. Because many of these characteristics might be related to both school breakfast receipt and obesity, multivariate models were used to determine whether school breakfast receipt was related to obesity net of confounding from observed characteristics.
+
+In addition to observed differences between children, associations between school breakfast receipt and obesity can be affected by unobserved selection. For example, children who receive school breakfasts might be more likely to be from low SES families and have poor overall diets, so observed relationships between school breakfast and obesity could be due to unobserved characteristics of children who receive school breakfasts. A strong approach to reduce bias from unobserved selection is to utilize longitudinal data to difference out unobserved time-invariant characteristics between children who did and did not receive school breakfasts. This approach was applied through two analytic strategies: propensity score matching and fixed-effects logistic regression.
+
+Propensity Score Matching
+Propensity score matching seeks to simulate a randomized controlled trial by matching children who received school breakfasts to children who did not receive school breakfasts, but are otherwise similar on observed characteristics. The “effect” of school breakfast receipt on obesity is then a function of the difference in obesity status across the matched sets. In a randomized trial, this effect could be interpreted as causal because the randomization process would ensure that children who did and did not receive school breakfasts were similar on all observed and unobserved characteristics. In an observational setting, the propensity score estimate may still be affected by unobserved differences between children. To address this problem, the longitudinal structure of the data was used to difference out bias from unobserved characteristics: children who did and did not consume breakfast were first matched on their fifth-grade obesity status and the observed child, household, and school characteristics using an “optimal full match” algorithm. This algorithm forms matched sets of children who did and did not receive school breakfasts, while minimizing the mean within-matched set difference for observed characteristics. Covariate balance was then examined by comparing the standardized mean difference in each covariate between children who did and did not receive school breakfasts across the matched sets. Balance was considered acceptable when the standardized difference of a covariate between children who did and did not receive school breakfasts was &lt;0.2 (Table 1, available online at www.andjrnl.org). Then, the odds of obesity in the eighth grade were estimated using a Mantel-Haenszel odds ratio (OR). By matching on fifth-grade obesity, the Mantel-Haenszel estimate is a difference-in-difference estimate of the effect of school breakfast receipt on the change in obesity status between the fifth and eighth grades accounting for unobserved differences between children.
+
+The benefit of school breakfast might be concentrated among children who are at risk for poor nutrition, as school breakfasts are often made available specifically to address their needs. To determine whether the effect of school breakfast receipt differed for children according to the SES of their household, the Mantel-Haenszel OR was then estimated separately for children from the following risk groups: children from families below the federal poverty line, children from families above the federal poverty line, children from families in the bottom two SES quintiles, and children from families in the top three SES quintiles. The four risk groups are not mutually exclusive; children from families above and below the federal poverty line were present across SES quintiles, so poverty and SES capture different dimensions of social and economic well-being, motivating the need to examine both groups of children.
+
+Regression Analysis
+Although the propensity score approach adjusts for time-invariant differences between children, children who did and did not receive school breakfast may experience different individual and structural changes between the fifth and eighth grade, such as changes in parents' marital status or employment, which might also be related to their health. Multivariate longitudinal fixed-effects models were used to estimate the effect of a change in school breakfast receipt on the change in obesity status between the fifth and eighth grades, both overall and by socioeconomic risk group. These models adjust for both observed and unobserved time-invariant differences between children who did and did not receive school breakfasts. The models also adjust for the following observed time-varying characteristics: whether the child's parents were married, number of breakfasts and dinners the family ate together in a typical week, mother's employment status, school type, urban status, and grade.
+
+Analyses were conducted in Stata (release 12, 2011, Stata-Corp LP) and R (version 3.0.3, 2014, R Core Team) using the packages optmatch (version 0.9-5, 2015, Ben B. Hansen, PhD, and colleagues) and RItools (version 0.1-11, 2014, Jake Bowers, PhD, and colleagues). This study was exempt from Institutional Review Board approval because it used publically available de-identified data. All the results were survey weighted to be representative of children who had been in kindergarten in 1998 or in first grade in 1999 in the United States.
+
+Results
+When children were in both the fifth and eighth grades, the prevalence of obesity was around 12% (Table 2). School breakfasts were positively associated with obesity: in both grades, children who received breakfast at school were more likely to be obese than children who did not.
+
+Children who were and were not obese in fifth grade also experienced different weight trajectories over time (Table 3): children who were not obese were far less likely to change weight categories between the fifth and eighth grades. Of the 12.4% of students who were obese in the fifth grade, 74.7% remained obese in the eighth grade and 25.3% became not obese. Nearly all the children who were not obese in the fifth grade remained not obese, with only 3.5% becoming obese by the eighth grade.
+
+Table 4 describes school breakfast receipt among fifth-graders. Although most of the children attended schools that offered school breakfasts (75.8%), less than one-quarter of the children had eaten a school breakfast in the past week (23.1%) and, on average, children only had about one school breakfast per week (1.05). These results highlight that the availability of school breakfasts does not necessarily mean that children are consuming them.
+
+Table 5 presents child, household, and school characteristics for children in the fifth grade who did and did not have school breakfasts. On average, children who received at least one school breakfast were nearly 7 percentage points more likely to be obese compared with children who did not receive any school breakfasts (17.8% vs 10.8%; P&lt;0.001). There are large socioeconomic differences in the receipt of school breakfasts, with disadvantaged students more often receiving school breakfasts. For example, children who received school breakfast were &gt;45 percentage points more likely to be below the federal poverty line (55.4% vs 9.4%; P&lt;0.001) and 30 percentage points more likely to be in the lowest wealth quintile compared with children who did not receive school breakfasts (47.9% vs 9.4%; P&lt;0.001). Children who received school breakfasts were more likely to be non-Hispanic black or Hispanic (both, P&lt;0.001) and were less likely to have married parents and more likely to have an unemployed mother (both, P&lt;0.001). They were more likely to attend schools in large and mid-sized cities (P&lt;0.001) in poorer regions of the country (21.1% points more likely to attend a school in the South; P&lt;0.001). These patterns underscore the importance of adjusting for differences between children when testing whether school breakfast affects obesity.
+
+Propensity Score Matching
+Table 6 presents the results from the propensity score matching analysis for the overall sample and separately for each of the four risk groups. The coefficients in the table are the OR of obesity in the eighth grade for children who received breakfast at school compared with children who did not. After adjusting for time-invariant differences and comparing children who only differed on whether they received school breakfasts, results indicate that receipt of school breakfast was not associated with obesity (OR=1.31; P=0.129).
+
+Table 6 also presents the relationship between school breakfast receipt and obesity within four socioeconomic risk groups. The goal of this stratified analysis is to determine whether the effect of school breakfast receipt on obesity was different for children from different socioeconomic backgrounds. The magnitude of the OR was very similar for children above the federal poverty line, children in the bottom two SES quintiles, and children in the top three SES quintiles (OR=1.41, 1.44, and 1.55, respectively). Although these ORs were not significantly different from 1, the direction of the OR suggests that receiving breakfast may increase the odds of becoming obese. For children from families below the federal poverty line, receipt of school breakfast more than doubled the odds of becoming obese (OR=2.31; P=0.0108) compared with children of similar SES who did not receive school breakfast.
+
+Multivariate Fixed-Effects Regression
+Table 7 shows the results of multivariate longitudinal fixed-effects models estimating the effect of a change in school breakfast receipt on the change in obesity status between the fifth and eighth grades. After adjusting for both observed time varying and unobserved time-invariant differences between children, a change in school breakfast receipt was not statistically associated with a change in weight status overall (OR=0.72; P=0.285) or for any of the risk groups.
+
+Other characteristics were associated with the odds of children becoming obese between fifth and eighth grade. For example, an increase in the number of dinners a family ate together increased the odds of becoming obese (OR=1.12; P=0.029) while a child's parents marrying between the two grades greatly reduced the odds of becoming obese (OR=0.51; P=0.035).
+
+Sensitivity Analyses
+Sensitivity analyses were conducted, and the results are available on request. Our finding of no relationship between receiving school breakfasts and children's weight was consistent when using a continuous measure of BMI z score and a dichotomous indicator of overweight or obese as outcome variables (Table 8, available online at www.andjrnl.org). These results were also unchanged when a continuous variable for the number of school breakfasts received per week was used instead of a dichotomous indicator for any breakfast (Table 8, available online at www.andjrnl.org). Results were also consistent when using school breakfast availability as the exposure. In propensity score models, the increased odds of becoming obese for children below the federal poverty line were consistent when children were not matched on family SES quintiles. Results were consistent for the logistic regression model when estimated for only children attending schools that participated in the SBP (Table 9, available online at www.andjrnl.org). In the propensity score model, relationship between breakfast and obesity was positive but not significant when estimated for only children attending schools that participated in the SBP (Table 10, available online at www.andjrnl.org).
+
+Discussion
+Providing breakfast to children at school may be an opportunity to address obesity by improving nutrition. This study used longitudinal data from a nationally representative cohort of children in US schools in their early teens to assess whether breakfast at school is related to changes in children's weight between the fifth and eighth grades. Children who received school breakfasts were more often obese compared with children who did not regularly receive breakfast at school; however, after adjusting for differences between children, eating breakfast at school was not related to changes in weight between the fifth and eighth grades for most students. Children from families below the federal poverty line were the exception; in some models, regular receipt of at least one school breakfast per week increased the odds of becoming obese between the fifth and eighth grades compared with children who had similar parental characteristics and were from families below the poverty line but did not receive school breakfast.
+
+The results of this study are consistent with those from previous studies that did not find an association between school breakfast and obesity in children using cross-sectional data.7,14 The finding that school breakfast receipt increased the odds of obesity for children in poverty is consistent with the findings of a previous study showing that consumption of school lunches was related to an increase in obesity for children below the federal poverty line.21 While another longitudinal study of the ECLS-K cohort at younger ages reported that school breakfast may be protective against obesity, that study was focused on availability of the SBP at a child's school rather than a child's receipt of breakfast at school15; the results here have shown that many children attend schools with the SBP, but do not regularly receive school breakfast.
+
+This study has some limitations. The analysis relied on parents' reports of children's school breakfast receipt. If parents do not know how many breakfasts their child received or whether they actually ate those meals, results might be downwardly biased by error in the measurement of school breakfast receipt. Using data from both parents and children about children's school breakfast consumption, Gleason and Dodd14 found that parent reports are highly correlated with children's reports, still, both children's and parents' reports can be inaccurate. This study did not have access to information on the type and quantity of food consumed by children. The result that receipt of school breakfast increased the odds of obesity for children below the poverty line could be explained by differences in food quality across schools or by differences in the quality or quantity of food eaten during the course of the day by children. The results should be interpreted as an average effect over an unknown distribution of quality and quantity of school breakfasts and the other food children consume during the day.
+
+By taking a long-term perspective focused on change over 3 years, our analysis does not capture shorter-term fluctuations in weight. The null associations can result if the effect of breakfast patterns in the fifth grade disappeared by the time children reached the eighth grade. This analysis relies on the classic difference-in-difference assumption that the trends in obesity and characteristics related to obesity for children who did and did not receive school breakfasts were parallel before the fifth grade. Because poverty status was measured once in the fifth grade, this analysis could not explore the relationship between a change in poverty and a change in obesity using fixed-effects regressions. While the propensity score exploited the longitudinal data for the outcome, it did not utilize change in the explanatory variables. This might explain differences in the results between the two modeling approaches. Finally, BMI and obesity are imperfect indicators of adiposity, but when combined with age and sex as we did here, they are closely related to adiposity in children22,23 and are feasible to collect in large-scale studies like the ECLS-K.24
+
+This analysis presents several advances. The ECLS-K is the only nationally representative, longitudinal dataset to include direct measures of weight and height for school-aged children and the only study of its size to collect detailed information on both meal availability and children's receipt of breakfast at school. Extending prior research, this analysis utilized measures of the receipt of breakfast rather than the availability of breakfasts at school; also, it focused on older children in early adolescence, an age when children are increasingly autonomous and are more likely to skip meals. Using longitudinal data, we estimated the relationship between school breakfast receipt and the change in weight between fifth and eighth grade in a national cohort, adjusting for unobserved differences between children who did and did not receive school breakfast. By stratifying the analysis into socioeconomic risk groups, this analysis examined the effect of school breakfast receipt across children with different risks of poor nutrition.
+
+Future research would benefit from investigating the dietary quality and quantity of breakfasts consumed in school, especially if children at disadvantaged schools are more likely to consume lower-quality breakfasts compared with children at less disadvantaged schools. In addition, data on breakfasts from home would help separate the effect of school breakfast.
+
+Conclusions
+Children in the fifth and eighth grades who received breakfast at school were more often obese than children who did not. After considering differences between children who did and did not receive school breakfast, receiving school breakfast was not related to changes in obesity for most children. However, for children from families below the federal poverty line, receiving school breakfast in the fifth grade may be linked with unhealthy weight gain between the fifth and eighth grades.
+
+Funding/Support: This project was supported by grant no. R03 HD061509-01A and T32 HD007242 from the Eunice Kennedy Shriver National Institute of Child Health &amp; Human Development and by Emory University's University Research Committee. The content is solely the responsibility of the authors and does not necessarily represent the official views of the Eunice Kennedy Shriver National Institute of Child Health &amp; Human Development or the National Institutes of Health.
+
+Supplementary materials: Tables 1, 8, 9, and 10 are available online at www.andjrnl.org
+
+Statement of Potential Conflict of Interest: No potential conflict of interest was reported by the authors.
+
+Table 2 Prevalence of obesity by breakfast receipt in the fifth and eighth grade among a cohort of American children (n=6,495)a
+	Fifth Grade	Eighth Grade	
+	
+	
+	
+	nb	%c	SEd	nb	%c	SE	
+Obesee							
+Total	757	12.4	0.6	678	12.3	0.7	
+No breakfast receipt	564	10.8	0.6	498f	10.6	0.7	
+Any breakfast receipt	193	17.8	1.8	168f	19.3	2.4	
+a Data from the Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999.
+
+b Counts are unweighted.
+
+c The prevalence of obesity is weighted to be nationally representative of American fifth-and eighth-grade children.
+
+d SE=standard error.
+
+e Children were classified as obese if their body mass index z score was in the 95th percentile or greater.
+
+f Twelve individuals were missing information on breakfast receipt in the eighth grade.
+
+Table 3 Changes in obesity status between fifth and eighth grade among a cohort of American children (n=6,495)a
+	Nonobese in Eighth Grade	Obese in Eighth Grade	
+	
+	
+	
+Obesity status	nb	%c	SEd	nb	%c	SE	
+Nonobese in fifth gradee,f	5,579	96.5	0.4	159	3.5	0.4	
+Obese in fifth gradee,f	238	25.3	2.2	519	74.7	2.2	
+a Data from the Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999.
+
+b Counts are unweighted.
+
+c The prevalence of obesity is weighted to be nationally representative of American fifth-and eighth-grade children.
+
+d SE=standard error.
+
+e Children were classified as obese if their body mass index z score was in the 95th percentile or greater.
+
+f Percentages and counts shown are among children who were nonobese/obese in the fifth grade.
+
+Table 4 School breakfast availability and receipt among a cohort of American fifth graders (n=6,495)a
+	nb	% or Meanc	Standard error	
+Child attends a school that serves breakfastsd	4,289	75.8%	1.4%	
+Child received any school breakfasts in the past week	1,106	23.1%	1.5%	
+No. of school breakfasts received per week	—	1.05	0.07	
+a Data from the Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999.
+
+b Counts are unweighted.
+
+c Percentages and means are weighted to be nationally representative of American fifth-grade children.
+
+d Only 6,410 children had information on the availability of school breakfasts.
+
+Table 5 Child, household, and school characteristics stratified by school breakfast receipt among a cohort of American fifth-grade children (n=6,495)a,b
+	Overall	No breakfast receiptc	Any breakfast receiptc	P valued	
+	
+              % (standard error)
+            		
+
+              Child characteristics
+            					
+Obesee	12.44 (0.6)	10.84 (0.59)	17.78 (1.83)	&lt;0.001	
+Male	50.33 (1.02)	49.13 (1.12)	54.25 (2.42)	0.059	
+Age groups					
+ 9.2 to 10.9 y	30.96 (1.11)	30.65 (1.24)	32.00 (2.35)	0.609	
+ 11 to 11.4 y	45.33 (1.32)	45.86 (1.46)	43.56 (2.16)	0.332	
+ 11.5 to 13.8 y	23.71 (1.15)	23.49 (1.27)	24.44 (2.06)	0.677	
+Race/ethnicity					
+ Non-Hispanic white	58.71 (1.77)	68.40 (1.43)	26.40 (3.21)	&lt;0.001	
+ Non-Hispanic black	16.31 (1.3)	10.43 (1.02)	35.93 (4.03)	&lt;0.001	
+ Hispanic	17.99 (1.37)	14.35 (1.17)	30.12 (2.98)	&lt;0.001	
+ Non-Hispanic Asian and otherf	6.99 (0.94)	6.82 (0.55)	7.54 (3.16)	0.814	
+	
+              mean (standard error)
+            		
+Days child exercised in a week	3.75 (0.04)	3.76 (0.04)	3.72 (0.10)	0.67	
+
+              Household characteristics
+            					
+	% (standard error)		
+Below the federal poverty line SESg quintilesh	19.87 (1.50)	9.37 (0.66)	55.38 (3.36)	&lt;0.001	
+ 1 (lowest)	18.28 (1.32)	9.40 (0.73)	47.91 (3.11)	&lt;0.001	
+ 2	18.19 (0.87)	16.37 (0.98)	24.26 (2.11)	0.001	
+ 3	19.32 (0.79)	19.77 (0.90)	17.80 (1.84)	0.348	
+ 4	21.39 (0.88)	25.54 (0.96)	7.58 (1.29)	&lt;0.001	
+ 5 (highest)	22.82 (1.07)	28.93 (1.17)	2.45 (0.82)	&lt;0.001	
+Parents are married	71.95 (1.44)	79.41 (1.07)	47.58 (2.96)	&lt;0.001	
+	
+              mean (standard error)
+            		
+Breakfasts family ate together in a week	3.53 (0.05)	3.83 (0.06)	2.53 (0.09)	&lt;0.001	
+Dinners family ate together in a week	5.44 (0.03)	5.40 (0.04)	5.60 (0.08)	0.044	
+	% (standard error)		
+Mother's employment status					
+ Unemployed	25.33 (1.01)	22.37 (0.95)	35.18 (2.36)	&lt;0.001	
+ Part time	22.57 (0.89)	24.78 (0.97)	15.23 (1.71)	&lt;0.001	
+ Full time	52.10 (1.05)	52.85 (1.25)	49.59 (2.12)	0.204	
+
+              School characteristics
+            					
+Public school	87.67 (0.88)	84.33 (1.14)	98.73 (0.65)	&lt;0.001	
+Census region					
+ Northeast	19.10 (1.18)	21.71 (1.38)	10.41 (1.70)	&lt;0.001	
+ Midwest	25.31 (1.47)	27.66 (1.56)	17.48 (3.29)	0.004	
+ South	36.97 (1.53)	32.10 (1.70)	53.21 (3.73)	&lt;0.001	
+ West	18.61 (0.96)	18.52 (1.04)	18.91 (2.38)	0.884	
+	
+              % (standard error)
+            		
+Urban status					
+ Large and mid-sized city	34.52 (1.59)	32.13 (1.74)	42.51 (3.72)	0.01	
+ Large and mid-sized suburb and large town	41.49 (3.07)	45.77 (2.68)	27.22 (5.29)	&lt;0.001	
+ Small town and rural	23.99 (2.91)	22.10 (2.09)	30.27 (6.49)	0.123	
+a Data from the Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999.
+
+b All results were weighted to be nationally representative of American fifth- and eighth-grade children.
+
+c Any breakfast receipt was defined if parents reported that their child received at least one school breakfast in the past week.
+
+d P value is for a test in the difference in means/percentages of each variable between children who did and did not receive school breakfasts.
+
+e Children were classified as obese if their body mass index z score was in the 95th percentile or greater.
+
+f The other group included multiracial children and Native Americans.
+
+g SES=socioeconomic status.
+
+h Family socioeconomic status quintiles were created by the Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999 using a composite of father/male guardian's education, mother/female guardian's education, father/male guardian's occupation, mother/female guardian's occupation, and household income.
+
+Table 6 Difference-in-difference propensity score matching estimates of associations between school breakfast receipt and obesity, overall and stratified by socioeconomic status, among a cohort of American fifth- and eighth-gradersa,b
+		SESc Quintile	Poverty Line	
+		
+	
+	
+Outcome=obesity in eighth grade	Overall	Bottom 2	Top 3	Below	Above	
+	odds ratiod
+(95% CI)	
+Any school breakfasts received in the last week	1.31 (0.92-1.87)	1.40 (0.92-2.14)	1.55 (0.85-2.81)	2.31** (1.25-4.28)	1.44 (0.87-2.34)	
+ne	6,495	1,955	4,540	963	5,532	
+a Data from the Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999.
+
+b Children are matched on obesity status in fifth grade, age, sex, race, exercise level, socioeconomic status quintiles, poverty status, parental marital status, number of breakfasts family eats together, the number of dinners family eats together, mother's employment status, public/private school, census region, and urban status.
+
+c SES=socioeconomic status.
+
+d Mantel-Haenszel.
+
+e Sample sizes shown are the total number of children used in each match; the number of matched sets varies for each match.
+
+** P&lt;0.01.
+
+Table 7 Logistic longitudinal fixed-effects regression of the change in school breakfast receipt on the change in obesity between the fifth and eighth grade, overall and stratified by socioeconomic status, for a cohort of American childrena,b,c
+		Wealth Quintiles	Poverty Line	
+		
+	
+	
+Outcome=obese	Overall	Bottom 2	Top 3	Below	Above	
+	
+              odds ratio (95% CI)
+            	
+
+              Any school breakfasts received in the past week
+            	0.72 (0.39-1.31)	0.63 (0.29-1.37)	0.85 (0.27-2.68)	1.25 (0.52-3.01)	0.51 (0.21-1.26)	
+
+              Household characteristics
+            						
+Parents are married	0.51* (0.27-0.95)	0.74 (0.31-1.74)	0.36 (0.13-1.01)	0.54 (0.17-1.77)	0.47 (0.21-1.03)	
+No. of breakfasts family ate together in a week	0.92 (0.84-1.01)	0.93 (0.81-1.08)	0.88* (0.78-0.99)	1.04 (0.87-1.24)	0.90* (0.81-1.00)	
+No. of dinners family ate together in a week	1.12* (1.01-1.24)	1.02 (0.88-1.18)	1.25** (1.08-1.45)	1.05 (0.87-1.25)	1.17* (1.03-1.33)	
+Mother's employment status (ref: unemployed)						
+ Part time	0.99 (0.51-1.91)	1.13 (0.45-2.84)	0.82 (0.29-2.31)	1.93 (0.67-5.60)	0.60 (0.24-1.48)	
+ Full time	0.79 (0.41-1.53)	0.95 (0.38-2.37)	0.54 (0.18-1.59)	1.12 (0.37-3.44)	0.60 (0.25-1.44)	
+
+              School characteristics
+            						
+Public school	0.50 (0.17-1.49)	0.60 (0.05-7.43)	0.73 (0.19-2.81)	—d	0.34 (0.10-1.20)	
+Urban status (ref: large and midsize city)						
+Large and mid-size suburb and small town	0.78 (0.30-2.03)	0.52 (0.12-2.23)	0.80 (0.20-3.13)	—d	1.29 (0.39-4.22)	
+Small town and rural	0.42 (0.11-1.60)	0.39 (0.06-2.76)	0.28 (0.04-1.93)	—d	0.49 (0.08-2.89)	
+Eighth grade	0.67*** (0.53-0.83)	0.85 (0.60-1.21)	0.48*** (0.35-0.66)	0.86 (0.54-1.35)	0.62*** (0.47-0.81)	
+n	742	278	438	186	556	
+a Data from the Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999.
+
+b Only time-variant covariates were included because time-invariant characteristics are automatically dropped due to no variation between the fifth and eighth grade.
+
+c Fixed-effects models are only identified for the subset of children who switched obesity status between the fifth and eighth grade.
+
+d Omitted due to no variation.
+
+* P&lt;0.05.
+
+** P&lt;0.01.
+
+*** P&lt;0.001.
+
+
+   1 
+            Benjamin RM  
+           The surgeon general's vision for a healthy and fit nation Public Health Rep 2010 125 4 514 20597448 
+2 
+            Freedman DS  
+            Khan LK  
+            Serdula MK  
+            Dietz WH  
+            Srinivasan SR  
+            Berenson GS  
+           The relation of childhood BMI to adult adiposity: The Bogalusa Heart Study Pediatrics 2005 115 1 22 27 15629977 
+3 
+            Ogden CL  
+            Carroll MD  
+            Kit BK  
+            Flegal KM  
+           Prevalence of childhood and adult obesity in the United States, 2011-2012 JAMA 2014 311 8 806 814 24570244 
+4 
+            Crosnoe R  
+            Muller C  
+           Body mass index, academic achievement, and school context: Examining the educational experiences of adolescents at risk of obesity J Health Soc Behav 2004 45 4 393 407 15869112 
+5 
+            Briefel RR  
+            Wilson A  
+            Gleason PM  
+           Consumption of low-nutrient, energy-dense foods and beverages at school, home, and other locations among school lunch participants and nonparticipants J Am Diet Assoc 2009 109 2 suppl S79 S90 19166676 
+6 
+            Gostin LO  
+           Law as a tool to facilitate healthier lifestyles and prevent obesity JAMA 2007 297 1 87 90 17200479 
+7 
+            Bhattacharya J  
+            Currie J  
+            Haider SJ  
+           Breakfast of champions? The School Breakfast Program and the nutrition of children and families J Human Res 2006 41 3 445 466 
+8 
+            Dubois L  
+            Girard M  
+            Potvin Kent M  
+            Farmer A  
+            Tatone-Tokuda F  
+           Breakfast skipping is associated with differences in meal patterns, macronutrient intakes and overweight among pre-school children Public Health Nutr 2009 12 1 19 28 18346309 
+9 
+            Dubois L  
+            Girard M  
+            Potvin Kent M  
+           Breakfast eating and overweight in a pre-school population: Is there a link? Public Health Nutr 2006 9 4 436 442 16870015 
+10 
+            Haerens L  
+            Vereecken C  
+            Maes L  
+            De Bourdeaudhuij I  
+           Relationship of physical activity and dietary habits with body mass index in the transition from childhood to adolescence: A 4-year longitudinal study Public Health Nutr 2010 13 10A 1722 1728 20883572 
+11 
+            Timlin MT  
+            Pereira MA  
+            Story M  
+            Neumark-Sztainer D  
+           Breakfast eating and weight change in a 5-year prospective analysis of adolescents: Project EAT (Eating Among Teens) Pediatrics 2008 121 3 e638 e645 18310183 
+12 
+            Pearson N  
+            Biddle SJ  
+            Gorely T  
+           Family correlates of breakfast consumption among children and adolescents. A systematic review Appetite 2009 52 1 1 7 18789364 
+13 
+            Frisvold DE  
+           Nutrition and cognitive achievement: An evaluation of the School Breakfast Program J Public Econ 2015 124 91 104 25918449 
+14 
+            Gleason PM  
+            Dodd AH  
+           School breakfast program but not school lunch program participation is associated with lower body mass index J Am Diet Assoc 2009 109 2 suppl S118 S128 19166666 
+15 
+            Millimet DL  
+            Tchernis R  
+            Husain M  
+           School nutrition programs and the incidence of childhood obesity J Human Res 2010 45 3 640 654 
+16 
+            Bassett R  
+            Chapman GE  
+            Beagan BL  
+           Autonomy and control: The co-construction of adolescent food choice Appetite 2008 50 2 325 332 17936413 
+17 
+            Videon TM  
+            Manning CK  
+           Influences on adolescent eating patterns: The importance of family meals J Adolesc Health 2003 32 5 365 373 12729986 
+18 US Department of Education. National Center for Education Statistics ECLS-K Longitudinal Kindergarten-Fifth Grade Public-Use Data File and Electronic Codebook [CD-ROM] Washington, DC US Department of Education, National Center for Education Statistics 2006 
+19 
+            Tourangeau K  
+            Nord C  
+            Lê T  
+            Pollack JM  
+            Atkins-Burnett S  
+           ECLS-K: Combined User's Manual for the ECLS-K Fifth-Grade Data Files and Electronic Codebooks (NCES 2006-032) Washington, DC National Center for Education Statistics 2006 
+20 
+            Vidmar S  
+            Caelin J  
+            Hesketh K  
+            Cole TJ  
+           Standardizing anthropometric measures in children and adolescents with new functions for egen Stata J 2004 4 1 50 55 
+21 
+            Schanzenbach DW  
+           Do school lunches contribute to childhood obesity? J Human Res 2009 44 3 684 709 
+22 
+            Johnson-Taylor WL  
+            Everhart JE  
+           Modifiable environmental and behavioral determinants of overweight among children and adolescents: Report of a workshop Obesity 2006 14 6 929 966 16861599 
+23 
+            Gallagher D  
+            Visser M  
+            Sepulveda D  
+            Pierson RN  
+            Harris T  
+            Heymsfield SB  
+           How useful is body mass index for comparison of body fatness across age, sex, and ethnic groups? Am J Epidemiol 1996 143 3 228 239 8561156 
+24 
+            Must A  
+            Dallal GE  
+            Dietz WH  
+           Reference data for obesity: 85th and 95th percentiles of body mass index (wt/ht2) and triceps skinfold thickness Am J Clin Nutr 1991 53 4 839 846 2008861 
+

@@ -1,0 +1,717 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10119026131733Nat Rev MicrobiolNat. Rev. Microbiol.Nature reviews. Microbiology1740-15261740-153427140688564834510.1038/nrmicro.2016.43NIHMS910188ArticleGut Microbial Communities of Social Bees Kwong Waldan K. Moran Nancy A. Department of Integrative Biology, University of Texas, Austin, Texas 78712, USACorrespondence to N.A.M. nancy.moran@austin.utexas.edu6 10 2017 03 5 2016 6 2016 19 10 2017 14 6 374 384 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Preface
+The gut microbiota can have profound effects on hosts, but studying these relationships in humans presents challenges. The specialized gut community of honey bees parallels the mammalian microbiota, as both are mostly composed of host-adapted, facultative anaerobes and microaerophiles. The bee gut community, however, is far simpler, being dominated by only nine bacterial species clusters that are only associated with bees and that are transmitted through social interactions between individuals. Recent developments, including the discovery of extensive strain-level variation, evidence of protective and nutritional functions, and reports of eco-physiological or disease-associated community perturbations, have drawn attention to the microbiota’s role in bee health, as well as its potential as a model for studying gut symbiont ecology and evolution.
+
+Graphical abstract
+
+
+
+
+   Introduction
+The microorganisms within animal guts can benefit their hosts, by helping to digest food, detoxifying harmful molecules, providing essential nutrients, protecting against invasion by pathogens and parasites, and modulating development and immunity1–3. But, while the importance of gut microbial communities is increasingly appreciated, the processes that govern these communities are far from clear. Gut community composition varies enormously within and between species. For example, individual humans can harbour dramatically different gut communities4,5, and humans as a host species have communities distinct from those of our closest relatives, the chimpanzees and gorillas6. Neither the causes nor the consequences of these differences are well understood, although certain shifts in the gut microbiota are correlated with disease states and with diet7.
+
+The human gastrointestinal tract contains hundreds of bacterial species, making it difficult to reliably characterize the community roles in hosts, using both inferences from genomic data and results from in vitro microbiological assays and in vivo experiments in live bees. Although the focus is on the honey bee gut community, where applicable, we also discuss pertinent insights gleaned from related bee species and point out parallels to mammalian systems. Our review is limited to Bacteria, the primary constituents of the normal bee gut microflora, but pathogenic microorganisms, including trypanosomids, fungi, and viruses, sometimes also infect bees16,17.
+
+The honey bee, Apis mellifera, provides a particularly useful model of a hostadapted gut community: its microbiota exhibits close parallels to those of mammals but is simpler in composition. Honey bees live in large colonies consisting of thousands of non-reproductive female workers and a single reproductive queen (Box 1). Guts of adult workers contain a distinctive and specialized microbiota, dominated by only nine bacterial species clusters10 each representing a complex of related strains. Some evidence exists for roles in digestion of food and protection against parasites11,12. As for humans, these gut communities are dominated by host-adapted species that are largely intolerant of atmospheric oxygen levels, and transmission occurs through social interactions between hosts13,14 (see Box 2 for comparison of the bee and human microbiota). However, in contrast to mammalian microbiomes, all of the species in the bee gut can be cultured in the laboratory and used to inoculate symbiont-free bees, allowing for powerful experimental studies15.
+
+In this review, we summarize recent findings on the composition and transmission of gut communities in honey bees. We then consider evidence for their roles in hosts, using both inferences from genomic data and results from in vitro microbiological assays and in vivo experiments in live bees. Although the focus is on the honey bee gut community, where applicable, we also discuss pertinent insights gleaned from related bee species and point out parallels to mammalian systems. Our review is limited to Bacteria, the primary constituents of the normal bee gut microflora, but pathogenic microorganisms, including trypanosomids, fungi, and viruses, sometimes also infect bees16,17.
+
+Characterizing the bee gut microbiota
+Community composition
+Guts of honey bee workers are dominated by nine bacterial species clusters that comprise 95% to 99.9% of the bacteria in almost all individuals, based on 16S ribosomal RNA community surveys10,18–22 (Fig. 1A) and on metagenomics of total DNA in gut samples12. The two ubiquitous Gram-negative species are Snodgrassella alvi and Gilliamella apicola, members of the phylum Proteobacteria23. Among Gram-positives, two species clusters within phylum Firmicutes are also ubiquitous and abundant; these have been referred to as the Lactobacillus Firm-4 and Lactobacillus Firm-5 groups19,20. Although often lower in abundance, the Bifidobacterium asteroides species cluster24,25 belonging to phylum Actinobacteria, is also found in most adult individuals. These five bacteria form the core of the honey bee gut community.
+
+Less numerous and of lower prevalence are the Proteobacteria species Frischella perrara26, Bartonella apis27, Parasaccharibacter apium28, and a Gluconobacter-related species group designated Alpha2.120. These species have restricted niches in the bee gut (F. perrara) or are generalists that are also found in the hive environment (P. apium, Alpha2.1), which may explain their comparatively lower frequency in honey bee gut surveys. Together, the five core bacteria and the four rarer members constitute the dominant set of what can be found in the honey bee gut. While other bacteria may occasionally be present (see below), these nine represent bacterial lineages particularly adapted to life alongside their bee hosts. Differences among these species in abundance and prevalence are likely due to highly specialized localizations or metabolic niches within the gut, as is common in other animals29.
+
+Such organization within the bee gut community has been examined in honey bee workers (Fig. 1B). Few bacteria occur in the crop, which is used for the storage and transport of nectar for feeding larvae and honey production13. Correspondingly, the limited numbers of crop bacteria mostly consist of species, such as Enterobacteriaceae, Lactobacillus kunkeei, and P. apium, that occur in nectar and hive materials and that can be cultured under atmospheric oxygen concentrations28,30,31. There are also few bacteria in the midgut13. The insect midgut, which functions in food digestion and absorption, does not provide a stable substrate for bacterial colonization, as it is lined by a continuously shed chitinous material, the peritrophic matrix1.
+
+In contrast, the hindgut is lined with a stable layer of cuticle and contains a large bacterial community of between 108 and 109 cells, comprising &gt;99% of the bacteria in adult workers, based on 16S rRNA profiling13. The hindgut is divided into two discrete regions, the ileum and the rectum, with distinct community compositions. The ileum, a narrow tube with six longitudinal folds, is dominated by the main Gram-negative species: within the lumen of the folds, S. alvi forms a layer directly on the gut wall, on top of which is a layer of G. apicola13,14. This community extends into the pylorus, a small region at the junction of the midgut, ileum, and Malpighian tubules32. Here, F. perrara can be abundant, localizing adjacent to the gut epithelium32.
+
+The distal hindgut region, the rectum, is where faecal waste is stored before defaecation, and may function in reabsorption of water and salts as well. The community here is dominated by the fermentative Gram-positive bacteria: Lactobacillus Firm-4, Lactobacillus Firm-5, and Bifidobacterium. The two Lactobacillus species groups also occur within the lumen of the ileum, but are most frequent in the rectum13,14. So far, the molecular mechanisms that enable colonization of the bee gut have not been elucidated, but genes implicated in adhesion and biofilm formation are prevalent in the genomes of several gut species12,33.
+
+Specificity to host species
+Besides the common Western honey bee (Apis mellifera), related corbiculate bees also harbour stable gut communities consisting of many of the same bacterial species groups. These include the eusocial bumble bees (Bombus spp.) and other Apis species; however, solitary bees and non-corbiculate social bees have thus far not been found to possess this gut community20,34–36. Most of the five core honey bee (A. mellifera) gut species clusters can also be found in multiple Bombus and Apis species20,37–44. A bee-specific Bacteroidetes species, Apibacter adventoris45, has been found in both Apis and Bombus hosts, though its abundance in A. mellifera is consistently very low19,21,39,46,47. Other microbiota lineages appear more host-restricted: B. apis and F. perrara have only been found in Apis spp., while the gut symbionts Schmidhempelia bombi48 related to G. apicola, and Bombiscardovia coagulans49 have mostly been found in Bombus species. Distinct species of Bifidobacterium also occur in Apis versus Bombus species50–55.
+
+Different host species can harbour different strains of gut symbionts, and related hosts tend to harbour related strains, suggestive of possible co-diversification and co-adaptation over deep evolutionary timescales40. This specificity may be reinforced by an inability for divergent symbiont strains to cross host boundaries: for example, transplantation experiments on strains of S. alvi showed that strains from honey bees cannot colonize bumble bees, and vice-versa33,56. However, the contributions of specialist bacteria versus generalists (those able to colonize many bee species as well as the broader environment) to overall gut microbiome structure and function are yet unclear. A comparative genomic study of L. kunkeei, which is common in nectar and in hive materials but rare in the gut, revealed that it frequently moves between host species and shows no evidence of co-diversification with bee hosts57. Species of Acetobacteraceae, which include P. apium and Alpha2.1, can sometimes be abundant in adult guts of multiple bee species, but they are also present in nectar, pollen, hive materials, and larvae, and appear to be aerotolerant20,22,31,28,58,59.
+
+The dedicated, core gut bacterial species clusters have not been consistently found in environments outside the bee gut. This niche restriction is likely enforced in part by the inability of these bacteria to replicate under atmospheric oxygen concentrations. They are primarily facultative anaerobes or microaerophiles15,23 and hence depend largely on social interactions for transmission among hosts (Box 3). Such interactions are analogous to the routes by which mammals acquire their microbiota, and this is reflected in the pattern of development of the gut microbiota through the life of the bee.
+
+Variation with age, caste, and season
+New honey bee larvae are devoid of bacteria, but are fed by workers (first royal jelly, then honey, nectar, and pollen) throughout their development. These interactions may lead to an accumulation in their closed guts of bacteria present in hive materials, as well as of some species usually found in adult guts; however, both the composition and abundance of this larval gut microbiota appears erratic13,37,47,60,61. The discrepancies in larval gut communities between studies and among sites may reflect variation in colony condition or diet. During metamorphosis, the gut lining is shed: newly emerged adult bees have few or no gut bacteria and are colonized by the normal gut community within the first few days of adult life, before leaving the hive13,14,47 (Fig. 2, Box 3).
+
+In addition to numerous female worker bees, a single queen and multiple males (drones) are also present in a typical colony. 16S rRNA profiles of adult queen gut communities shows striking differences from those of workers; they vary in size and composition and often lack certain distinctive species of the worker gut62,63. Queen guts are often dominated by Acetobacteraceae, including P. apium and Alpha2.1. The differences in gut community composition are probably due to the unique physiology and diet of queens, which feed exclusively on highly nutritious secretions produced by attendant workers. Community profiling using 16S rRNA genes shows that drones have a microbiota composition more similar to that of workers, although more variable and with higher abundance of Lactobacillus spp.47,62; the reason for these differences is not yet clear.
+
+Adult workers have a relatively stable set of gut bacterial species compared to males or queens47,62,63 and compared to other insects generally1,64. Nonetheless, even workers of the same age within a colony can harbour very different proportions of the core gut species10,14,62. Colonies might also undergo age-related or seasonal shifts in relative proportions of the core species47,65. The extent to which these shifts are specific to particular geographic regions or conditions is not clear, partly because it is not possible to directly compare community profiles generated by different laboratories using different nucleic acid extraction and amplification protocols. Older foraging workers may exhibit a lower abundance of the core bacteria than young adult bees47. Some studies using 16S rRNA gene profiling have reported slight differences in gut community composition between colonies from different locations10,47,66. Regarding seasonal trends, a longitudinal study of worker midguts found microbiome shifts over the course of 6 months65; however, midguts may give erratic results since they contain so few bacteria. Another study reported minimal differences in communities from whole guts between fall and spring foragers22.
+
+Disruption of the bee gut microbiota
+Occasionally in individual worker adults, there is substantial deviation from the characteristic composition of the gut community. This shift often involves a higher content of opportunistic environmental bacteria, including Enterobacteriaceae (e.g., species within the genera Klebsiella, Pantoea, Enterobacter, Serratia, and Hafnia) and other Gammaprotoebacteria10,21,22,63. Potentially these shifts reflect disruption or disease; in some ways, they parallel the invasion of the human gut by opportunistic Proteobacteria, a phenomenon characteristic of several disease states including Crohn’s disease67. Bumble bees appear to be more prone than honey bees to such shifts. In a study of gut community composition in three native bumble bee species in New Jersey, USA, all species carried S. alvi, G. apicola, Lactobacillus Firm-4, and Lactobacillus Firm-546. However, some individual bees contained disrupted communities, with erratic compositions featuring low incidence of bee-specific species and high levels of environmental Acetobacteraceae and Enterobacteraceae. These perturbed communities were found in all three host species but varied in frequency among them46 and were positively correlated with the presence of eukaryotic intestinal parasites46,68. Similarly, in a 16S rRNA survey of 28 bumble bee species in China, gut communities fell into two distinct compositional types, distributed at different frequencies across species43. One type was the normal corbiculate bee-specific community represented by S. alvi, G. apicola, Lactobacillus Firm-4 and Lactobacillus Firm-5. The other was dominated by a variety of Enterobacteriaceae and other Proteobacteria, and by environmental Lactobacillus spp.
+
+In-depth studies using experimental colonies of a European bumble bee, Bombus terrestris, suggest that the shift to non-core species occurs in bees exposed to stress and environmental sources of invasive colonizers, as wild bees were more likely to contain non-core gut Enterobacteriaceae than bees from indoor colonies69,70. Together, these studies indicate that the characteristic gut symbionts are acquired by young adults within the colony, yielding a relatively stable ‘normal’ community of co-adapted bacteria, but that individual communities can eventually be overtaken by opportunistic bacteria. The cause of such perturbations is unclear. In honey bees, the immune responsiveness of gut epithelia was not found to be different between young nurse bees, which are confined to the hive, and older foragers, which encounter diverse microbes in the surrounding environment71, although this does not necessarily rule out community shifts due to nutritional or other stressors.
+
+Another possible disruptor is the use of antibiotics, which has become widespread in many parts of the global commercial honey bee industry. Beekeepers in the United States have used oxytetracycline since the 1950’s to combat Paenibacillus larvae and Melissococcus plutonius, the causative agents of larval foulbrood disease72. Correspondingly, analysis of the characteristic gut microbiota from US honey bee colonies, via functional screening of cloned metagenomic libraries, revealed high frequencies of multiple tetracycline resistance genes73. These resistance genes are present in both Gram-positive and Gram-negative gut bacteria and are sometimes associated with mobile elements73,74. Resistance loci were detected in all US colonies, although they were fewer in feral colonies and colonies managed without antibiotic exposure for several years; in contrast, they were absent or rare in wild-caught bumble bees and in honey bees from several countries that ban antibiotic use in apiculture. Thus, antibiotic treatments can be a strong selective force in bees, paralleling the antibiotic-driven selection proposed to be acting in the human gut microbiota75.
+
+Diversification of strains within and between hosts
+We define the nine major groups of bacteria that form the bee gut community as “species clusters” – interrelated strains that are largely monophyletic and which occupy the same general ecological niche. In 16S rRNA surveys, these clusters mostly coalesce into single operational taxonomic units at 97% identity, indicative of their close relationship. Nonetheless, each cluster can span considerable genomic diversity, with great sequence divergence in protein-coding genes and distinct gene repertoires between strains12,33. Extensive strain-level variation, even within a single host individual, also occurs within characteristic species of the human gut community5.
+
+That strain variation is the norm for the core species clusters of the bee gut is revealed by full length 16S rDNA sequences for S. alvi and G. apicola10, by metagenomic datasets12, and by single cell genomic sequencing76. Some studies have assigned separate species names for the different strains within bee gut species clusters, such as those within Lactobacillus Firm-4 and Firm-577–79. Drawing taxonomic boundaries should be done cautiously, however, given the poorly characterized genomic and functional diversity in the bee gut community. A more fundamental challenge will be to understand the processes that drive the diversification and maintenance of strains, and the consequential biological relevance. As summarized in the next sections, this genomic variation involves capabilities that are likely important for the ecology and nutrition of bee hosts.
+
+Functions and metabolism in hosts
+Effects on bee health
+Direct evidence for a role of gut microbiota in bee health was obtained for a European bumble bee, Bombus terrestris. Workers experimentally deprived of gut symbionts (through antibiotic treatment or aseptic rearing) showed elevated susceptibility to Crithidia bombi, a common trypanosomatid parasite, compared to workers colonized by the normal gut community through exposure to nestmate faeces11. This protective effect was supported indirectly by surveys of three North American Bombus species, where parasite presence was negatively correlated with G. apicola46. Furthermore, inter-colony microbiota transplant experiments show that different gut communities may differ in the ability to resist Crithidia strains, suggesting that variation in microbiota composition or bacterial strain diversity can impact host health80. Other roles in defending hosts are suggested by microbiological assays showing that some bee-derived bacteria (including Lactobacillus and Bifidobacterium) can inhibit other microorganisms on culture plates, possibly via anti-microbial compounds78,81–83.
+
+One route through which the gut microbiota might affect host susceptibility to pathogens or parasites is by activation of the innate immune system84. Honey bees possess similar signaling pathways and effectors to those first characterized for the innate immune system of Drosophila melanogaster85. While it is known that gut bacteria induce immune responses in D. melanogaster86 this has yet to be investigated in honey bees. However, the gut bacteria in bees should not be assumed to be entirely beneficial to hosts. Experiments on F. perrara indicate that it induces melanization in the pylorus region of the gut32; melanization is an insect innate immunity response typically associated with tissue damage and pathogen invasion. F. perrara can also cause DNA damage in eukaryotic cells. Assays in mammalian cell culture show that this is due to an encoded biosynthetic gene cluster homologous to that for colibactin, a small molecule metabolite produced by certain E. coli strains in the human gut, which causes double-stranded DNA breaks associated with tumor induction87. F. perrara is found in a majority of sampled honey bees21,32, and its overall impact on bee health has not yet been determined.
+
+Potentially, the honey bee gut bacteria have roles in neutralizing dietary toxins, biosynthesis of needed nutrients, or digestion of food components, including fermentation of complex carbohydrates and sugars indigestible by the bee itself. For example, some strains of G. apicola possess genes for the degradation of pectin, a component of the cell wall of pollen grains. Pollen is an essential part of the bee diet, and this activity, which can be shown in vitro12, may help in its digestion, since bees and most other animals cannot produce pectinases themselves. Other roles in processing food or neutralizing ingested toxins have limited experimental evidence but are plausible on the basis of recent genomic studies12,33,88, which are beginning to reveal the metabolic activities and inter-bacterial interactions within the bee gut community.
+
+Metabolic characterization
+Metagenomic and metatranscriptomic datasets, as well as complete genome sequences for most members of the honey bee gut microbiota, are now available, giving insight into their lifestyles and potential functional roles12,55,88,89. As in the human gut, a substantial fraction of the bee microbiota carries out fermentation of dietary carbohydrates (Fig. 3). These include bee-specific bacterial species within Lactobacillus and Bifidobacterium, two genera with representatives commonly found in mammalian guts.
+
+The bee Bifidobacterium group encodes highly abundant and diverse genes for carbohydrate utilization, compared to both its relatives and to other bee gut members; experimental tests have verified this metabolic versatility25,55. Phylogenetically, the bee-associated Bifidobacterium strains branch basally to the major groups of mammal-associated Bifidobacterium, and thus present an evolutionary parallel with which to examine gut microbe adaptation to hosts52. Indeed, striking differences, such as the ability for aerobic respiration in bee-derived Bifidobacterium25,55 may be indicative of distinct selective forces acting in the bee gut environment (e.g. different oxic conditions).
+
+Bee-associated Lactobacillus are also distinct from their mammal-associated relatives, and generally fall into two phylogenetically separate clades, Firm-4 and Firm-5 (a third, Firm-3, is occasionally found19). Recent sequencing of their genomes55,89 revealed numerous phosphotransferase systems involved in the uptake of sugars, particularly in Lactobacillus Firm-5. Both bee-associated Bifidobacterium and Lactobacillus possess large putative cell surface proteins of unknown function, but which may be related to adhesion or degradation of plant compounds55,89. Bee-associated Bifidobacterium and Lactobacillus Firm-5 also possess gene clusters for biosynthesis and utilization of trehalose, a disaccharide used for energy storage in insects. In contrast, mammals utilize glycogen instead of trehalose for energy storage, and mammalian Bifidobacterium and Lactobacillus typically have genes for glycogen biosynthesis and degradation, which are lacking in the bee-associated species55.
+
+Another dominant fermenter in the honey bee gut is G. apicola, a member of a recently described bacterial order, Orbales, that appears largely associated with insects23. Genomic analysis of G. apicola strains uncovered a large repertoire of genes for the uptake and fermentation of sugars, but an incomplete tricarboxylic acid cycle and a degenerate aerobic respiratory chain33. Two other related Orbales found in bees, S. bombi and F. perrara, are similarly carbohydrate fermenters26,48,87.
+
+Considering the carbohydrate-rich diet of bees (nectar, honey, pollen), it is perhaps unsurprising that the gut microbiota comprises members that have evolved to thrive on this resource. G. apicola, F. perrara, Lactobacillus Firm-4, Lactobacillus Firm-5, and bee-associated Bifidobacterium are all able to utilize glucose and fructose, the most abundant sugars in the bee diet26,55,77. Furthermore, certain strains carry genes for utilization of scarcer sugars, including some (e.g. mannose, arabinose, raffinose, galactose, and lactose) that are indigestible by the bee and that can be toxic to bees90. The ability to assimilate these more exotic carbohydrates depends on having the appropriate transporters and enzymes, and presence of these varies widely among strains within each group of fermenters33,55,76. In each of the fermenter species, a substantial proportion of the pan-genome comprises accessory genes (those not found in every strain), of which the largest classifiable fraction (~20–40%) are genes involved in carbohydrate metabolism55,76. This dynamic genome composition suggests that gaining or losing the ability to utilize diverse substrates may not be difficult, and also points to the potential for different fermenter strains to specialize to distinct niches within the bee gut12, and for the gut community as a whole to adapt to changing dietary conditions.
+
+The end products of microbial fermentation in the bee gut vary depending on the species (Fig. 3), but usually include lactic acid and acetate. Metagenomic studies based on both DNA and RNA sequencing reveal high representation and expression of genes for fermentation12,88, and this activity has been supported by culture-based assays26,55,77,88,91. In many mammals, fermentation products, including short chain fatty acids (acetate, propionate, butyrate), are absorbed and oxidized, substantially contributing to host nutrition92. Hindgut absorption of microbially produced short chain fatty acids occurs in some insects93; however, this possibility has not been tested in bees.
+
+The final core member of the honey bee microbiota is S. alvi, a member of the family Neisseriaceae and an obligate microaerophile. The localization of S. alvi to the periphery of the lumen (Fig. 1B) is consistent with dependence on aerobic respiration, as oxygen concentrations in insect guts are usually highest at the epithelial surface93,94. Remarkably, S. alvi has lost all pathways for the uptake and glycolytic breakdown of carbohydrates, and instead relies on the aerobic oxidation of carboxylates (citrate, malate, acetate, lactic acid) for energy production23,33. The utilization of separate sets of resources appears to be a case of niche partitioning within the microbial community, enabling S. alvi and the fermentative bacterial species to stably co-exist in the same gut environment. These metabolic differences are also suggestive of a syntrophic interaction, as some of the substrates used by S. alvi (lactic acid, acetate, formate) are those provided in abundance by the fermentation of carbohydrates.
+
+P. apium is likely another bacterium with a specialized niche. Although rare in the adult worker gut, P. apium appears relatively abundant in hive food stores, larvae, and queen guts28,31,63. Interestingly, it can thrive on royal jelly, an environment toxic to most bacteria, and can also be found in the royal jelly-producing glands of worker bees28. Evidence from its genome95 and from the phenotypic traits of close relatives59,96 suggests that, although a member of the family Acetobacteraceae, P. apium cannot produce acetic acid from the oxidation of sugars and alcohols. However, it seems well adapted to tolerate the aerobic conditions, acidity, and high sugar osmolarities found in royal jelly, nectar, and honey.
+
+Conclusions and Future Questions
+This review summarizes a resurgence of research into the bee microbiome, first starting with early culture-independent analyses16,18,19,60, and followed in recent years by genomics-enabled studies. In this time, the core constituents of the honey bee gut community have been identified. At least 5 bacterial species groups (S. alvi, G. apicola, Bifidobacterium spp., Lactobacillus Firm-4, and Lactobacillus Firm-5) are ubiquitous in almost all adult workers, and also occur in related bee species, such as bumble bees. Several other bacteria, including F. perrara, B. apis, and certain species of Acetobacteraceae and Bacteroidetes, also appear uniquely associated with bees, but may vary in abundance with particular hosts or ecological conditions. Together, these bacteria represent a specialized microbial community that has coevolved and diversified with its bee hosts over millions of years.
+
+Genomic, transcriptomic, and culture-based studies have begun to reveal the extensive adaptations permitting this unique microbial consortium to thrive in the bee gut environment. Most striking are metabolic shifts towards the breakdown and fermentation of sugars in many gut species, enabling them to take advantage of the hosts’ carbohydrate-rich diet12,33,88. Within the fermenter species, different strains possess distinct carbohydrate degradation capabilities; meanwhile, in the non-fermenter S. alvi, the ability to use sugars has been completely lost33. This niche partitioning through differential utilization of resources indicates a level of self-organization in the microbiota that may enhance the stability and persistence of the characteristic bee gut community.
+
+However, this community can also be disrupted, through invasion by environmentally derived bacteria or opportunistic pathogens10,43. The gut community also differs between castes and may change with the age of the individual and the colony, likely reflecting the effects of host physiology, diet, and the environment in shaping microbiome composition14,62,63,68,69,97. A similarly dynamic gut microbiome is evident in many animals, and hence should be considered the norm rather than the exception67. Bees provide an excellent case for studying the forces that influence microbiome assembly and composition.
+
+As an emerging system with extensive parallels to human and other mammalian microbiomes, studies of the bee gut community are poised for rapid breakthroughs in the near future. This system presents an intriguing model with a number of advantages – both practical and for the development of symbiotic theory (Box 2). As in many mammals, sociality is central for the continuous passage of the microbiota from one generation to the next. This reliable form of transmission has likely allowed the bee gut microbiota to diversify and specialize to particular host species40,56 as well as to distinct ecological niches within gut microhabitats12. Thus far, studies into the role of host sociality in microbiota transmission and evolution have been mainly correlative98–100; these questions can now be investigated empirically in the corbiculate bee system. All bee gut bacteria can be cultivated in vitro, and substantial progress has been made in developing gnotobiotic experimental setups to study specific host-microbe interactions11,33. There is also the prospect of genetically manipulating these bacteria to directly test hypotheses and, perhaps eventually, to engineer them for host benefit101,102.
+
+Honey bees, and their bumble bee cousins, are of global importance due to their pollination of much of the world’s crops and wild flowering plants. Recent bee population declines have drawn attention to potential agents affecting their health, including their microbiota16,103,104. Indeed, there is evidence that the bee gut bacteria help defend against pathogen infection, in ways that are still poorly understood11,80. Considering the uniqueness and stability of the bee gut microbiome, it should be considered a fundamental part of bee biology. As such, understanding this community will undoubtedly offer novel insights towards improving bee health and, more generally, crucial unresolved aspects of host-microbe symbiosis.
+
+This work was supported by the US National Institutes of Health award R01 GM108477 and the US National Science Foundation Dimensions of Biodiversity awards 1046153 and 1415604 to N.A.M.
+
+Glossary
+Species clustergroup containing closely related strains or species
+
+Cuticlethe outer layer of insect integument, primarily composed of chitin
+
+Malpighian tubulespart of the insect excretory system, moving waste from the body cavity to the digestive tract for excretion
+
+Eusociala type of social organization exemplified by cooperative brood care, reproductive division of labour, and cohabitation of overlapping generations
+
+Foulbroodbacterial disease caused by infection of the gut of honey bee larvae, resulting in death of the brood
+
+Royal jellya highly nutritious secretion produced by worker bees, and initially fed to all larvae continued feeding after 3 days results in development of queens.
+
+Corbiculate beesa related group of bees that are characterized by the presence of corbicula (pollen baskets) on their hind limbs, and which include the social honey bees, bumble bees, and stingless bees
+
+Core microbiomethe set of microbial species that is present in most members of a host species
+
+Pan genomethe entire gene set of a group of related bacteria, such as that of a bacterial ‘species’
+
+Syntrophycross-feeding, whereby metabolic interactions between two organisms enhance each other’s growth
+
+Trophallaxistransfer of food, fluids, or secretions between individuals through direct contact
+
+Gnotobiotican organism in which the strains of microorganisms present are fully known
+
+Figure 1 Composition and spatial organization of bacterial communities within the honey bee gut. (A) The microbiota composition of a typical adult worker, based on an averaged community profile using 16S rRNA gene amplicons from whole guts10. (B) Localization of different bacteria within the gut compartments, based on fluorescent in situ hybridization and qPCR studies.
+
+Figure 2 Honey bee life history and associated changes in the gut microbiota. The microbiota of the worker caste (top) is best understood; studies of reproductive castes suggest their microbiota composition differs from that of workers. Naïve workers harbour no or very few bacteria and acquire the normal gut microbiota primarily though contact with faecal material, although other transmission routes may play a role as well (see Box 3). Total numbers of bacteria at any given life stage, estimated using qPCR with universal bacterial primers, vary between studies; given numbers are based on reasonable maximal estimates. Likewise, abundances of dominant species may differ among individual bees and sampling methods.
+
+Figure 3 Metabolic activities of the core bee gut microbiota, as inferred from genomic, metagenomic, and metatranscriptomic data, and from experimentally verified activities from cultured bacterial strains. Fermenters (G. apicola, Bifidobacterium, Lactobacillus) dominate; some can break down plant polysaccharides found in pollen, such as pectin and xylan. Sugars are fermented to various end products (lactic acid, acetate, etc.), depending on the species and strain. De novo biosynthetic capabilities for these fermenters are limited. Fermentation products may be taken up and oxidized by Snodgrassella alvi for energy and carbon. Plausibly, the bee host also gains access to products of microbe-assisted carbohydrate breakdown.
+
+Box 1 Biology of Bees and their Microbiota
+The Western honey bee, Apis mellifera, was domesticated in Egypt and the Levant over 4000 years ago for honey and wax production105,106 and was subsequently spread worldwide. Honey bees are a critical element in global food production, as pollinators of many crops. Their economic value in the United States alone is estimated at $17 billion annually107. Other bee species also pollinate crops and wild plants; these include bumble bees (genus Bombus) and other Apis species, which are also social and which contain gut communities dominated by some of the same bacterial species clusters as those found in A. mellifera. Since 2006, honey bee colonies have been suffering high mortality, and many wild bumble bee populations are declining as well103,108. Deteriorating bee health appears to stem from multiple causes, including toxins, poor nutrition, and disease109. The movement of viral, bacterial and eukaryotic pathogens between bee species as a result of anthropogenic species introductions may be another critical factor110. All of these stressors on bees might be modulated by their gut microorganisms. Thus, besides offering general insights into gut community processes relevant to understanding the human microbiota, research on the honey bee microbiota may help to elucidate why bee populations are declining.
+
+Box 2 Some parallels and contrasts between the gut microbiota of honey bees and humans
+
+                Similarities between human and honey bee gut communities
+              	
+                Citation
+              	
+ Transmission between hosts through social interactions	honey bees13,14; bumble bees40,111	
+ Dominated by host-adapted species that are not typically found outside the gut	
+                20–22,31
+              	
+ Grow best under oxygen concentrations lower than those in air	
+                23,26,112
+              	
+ Extensive strain diversification within resident bacterial species	
+                10,12,55,76
+              	
+ Spatially organized community, with greatest abundance in the distal regions of the gut, past the area of most host digestive activity	
+                
+                  13
+                
+              	
+ Impact of chronic antibiotic exposure on resistance levels	
+                
+                  73
+                
+              	
+
+                Features of bee gut communities that differ from those of humans
+              		
+ Simple community, with &lt;10 bacterial species clusters comprising over 95% of the community	
+                10,16,20–22,37,62
+              	
+ All major species cultivable in the laboratory	
+                15,23,24,26,27,77
+              	
+ Relative ease of experimentally manipulating gut communities in live hosts	honey bees14,32,33; bumble bees11,80	
+Box 3 Transmission of the honey bee microbiota
+Sociality, including the sharing of the hive environment by a social group, is central to between-host transmission of the bee gut microbiota (Fig. 2). After pupating in capped cells within colonies, honey bee adults emerge with germ-free guts14,33. If removed manually from the cells and maintained under sterile lab conditions, their guts do not acquire substantial communities, as estimated using qPCR with universal bacterial primers. Newly emerged bees that chew out on their own may be inoculated by residual gut symbionts on the frame surface.
+
+The stages of development of the gut microbiota have been characterized by sampling marked cohorts of workers from colonies and using amplicons of 16S rDNA to estimate the size and composition of distinct gut regions13,14. Initially the community is small and erratic in composition, dominated by environmental bacteria and lacking differentiation between gut regions. By day 3, the communities contain &gt;107 bacteria mostly from the characteristic bee gut species, and the ileum and rectum begin displaying “normal” community compositions. These communities plateau at about 109 bacteria by day 8. Once established, gut communities are generally stable as workers transition through different behavioural stages62. This shift from an initial erratic community to one dominated by “adult” bacteria, largely mirrors the development of the gut microbiota observed in human infants113.
+
+Establishment of a stable community occurs before workers leave the hive, implying transmission through nest mates or hive components, such as wax surfaces. In experimental tests, the most typical gut communities developed when bees were exposed directly to older bees or were fed their macerated hindguts14. Based on experiments manipulating potential transmission sources, oral trophallaxis, a common behaviour for communication and food transfer, is not a major route for transmission, consistent with observations that the foregut harbours few bacteria13,22. A faecal route appears important14, particularly for S. alvi, G. apicola and F. perrara, although members of the gut community also may be acquired through contact with hive components that have been in recent contact with live bees14,114. Acetobacteraceae strains might be transmitted through the stored pollen food supply31.
+
+
+   1 
+            Engel P  
+            Moran NA  
+           The gut microbiota of insects - diversity in structure and function FEMS Microbiol Rev 37 699 735 2013 23692388 
+2 
+            Flint HJ  
+            Scott KP  
+            Louis P  
+            Duncan SH  
+           The role of the gut microbiota in nutrition and health Nat Rev Gasteroenterol Hepatol 9 577 89 2012 
+3 
+            Hooper LV  
+            Littman DR  
+            Macpherson AJ  
+           Interactions between the microbiota and the immune system Science 336 1268 73 2012 22674334 
+4 
+            Arumugam M  
+             
+           Enterotypes of the human gut microbiome Nature 473 174 80 2011 21508958 
+5 
+            Schloissnig S  
+             
+           Genomic variation landscape of the human gut microbiome Nature 493 45 50 2013 23222524 
+6 
+            Moeller AH  
+             
+           Rapid changes in the gut microbiome during human evolution Proc Natl Acad Sci U S A 111 16431 16435 2014 25368157 
+7 
+            Sankar SA  
+            Lagier JC  
+            Pontarotti P  
+            Raoult D  
+            Fournier PE  
+           The human gut microbiome, a taxonomic conundrum Syst Appl Microbiol 38 276 286 2015 25864640 
+8 
+            Chandler JA  
+            Lang JM  
+            Bhatnagar S  
+            Eisen JA  
+            Kopp A  
+           Bacterial communities of diverse Drosophila species: ecological context of a host–microbe model system PLoS Genet 7 e1002272 2011 21966276 
+9 
+            Wong AC  
+            Chaston JM  
+            Douglas AE  
+           The inconstant gut microbiota of Drosophila  species revealed by 16S rRNA gene analysis ISME J 7 1922 1932 2013 23719154 
+10 
+            Moran NA  
+            Hansen AK  
+            Powell JE  
+            Sabree ZL  
+           2012 Distinctive gut microbiota of honey bees assessed using deep sampling from individual worker bees PloS One 7 e36393 2012 22558460 
+11 
+            Koch H  
+            Schmid-Hempel P  
+           Socially transmitted gut microbiota protect bumble bees against an intestinal parasite Proc Natl Acad Sci U S A 108 19288 19292 2011 22084077 
+12 
+            Engel P  
+            Martinson VG  
+            Moran NA  
+           Functional diversity within the simple gut microbiota of the honey bee Proc Natl Acad Sci U S A 109 11002 11007 2012 This metagenomics study revealed the broad sets of functions attributable to each member of the honey bee gut community, and provided the first evidence of extensive strain diversity within each species of the community; strains essentially identical in 16S rRNA can be highly divergent at protein-coding loci. 22711827 
+13 
+            Martinson VG  
+            Moy J  
+            Moran NA  
+           Establishment of characteristic gut bacteria during development of the honeybee worker Appl Environ Microbiol 78 8 2830 40 2012 22307297 
+14 
+            Powell JE  
+            Martinson VG  
+            Urban-Mead K  
+            Moran NA  
+           Routes of acquisition of the gut microbiota of Apis mellifera Appl Environ Microbiol 80 7378 7387 2014 Using experimental treatments and deep 16S rRNA sequencing, the transmission routes and temporal progression of bacterial colonization in the adult worker gut were determined. 25239900 
+15 
+            Engel P  
+             
+           Standard methods for research on Apis mellifera gut symbionts J Apic Res 52 10.3896/IBRA.1.52.4.07 2013 
+16 
+            Cox-Foster DL  
+             
+           A metagenomic survey of microbes in honey bee colony collapse disorder Science 318 283 87 2007 Large-scale honey bee die-offs occurred in 2006–2007: this study used early NextGen technology in an attempt to identify a causative agent. Although bee deaths could not be attributed to a single disease, this analysis revealed the widespread presence of the core members of the bacterial gut community across diverse honey bee populations. 17823314 
+17 
+            Genersch E  
+           Honey bee pathology: current threats to honey bees and beekeeping Appl Microbiol Biotechnol 87 87 97 2010 20401479 
+18 
+            Jeyaprakash A  
+            Hoy MA  
+            Allsopp MH  
+           Bacterial diversity in worker adults of Apis mellifera capensis  and Apis mellifera scutellata  (Insecta: Hymenoptera) assessed using 16S rRNA sequences J Invertebr Pathol 84 96 103 2003 14615218 
+19 
+            Babendreier D  
+            Joller D  
+            Romeis J  
+            Bigler F  
+            Widmer F  
+           Bacterial community structures in honeybee intestines and their response to two insecticidal proteins FEMS Microbiol Ecol 59 600 610 2007 17381517 
+20 
+            Martinson VG  
+             
+           A simple and distinctive microbiota associated with honey bees and bumble bees Mol Ecol 20 619 628 2011 21175905 
+21 
+            Sabree ZL  
+            Hansen AK  
+            Moran NA  
+           Independent studies using deep sequencing resolve the same set of core bacterial species dominating gut communities of honey bees PloS One 7 e41250 2012 22829932 
+22 
+            Corby-Harris V  
+            Maes P  
+            Anderson KE  
+           The bacterial communities associated with honey bee (Apis mellifera ) foragers PLoS ONE 9 e95056 2014 24740297 
+23 
+            Kwong WK  
+            Moran NA  
+           Cultivation and characterization of the gut symbionts of honey bees and bumble bees: description of Snodgrassella alvi  gen. nov., sp. nov., a member of the family Neisseriaceae  of the Betaproteobacteria , and Gilliamella apicola  gen. nov., sp. nov., a member of Orbaceae  fam. nov., Orbales  ord. nov., a sister taxon to the order ‘Enterobacteriales ’ of the Gammaproteobacteria  Int J Syst Evol Microbiol 63 2008 2018 2013 23041637 
+24 
+            Scardovi V  
+            Trovatelli D  
+           New Species of Bifidobacteria  from Apis mellifica  and Apis indica  F. A contribution to the taxonomy and biochemistry of the genus Bifidobacterium  Zentralblatt für Bakteriologie, Parasitenkunde, Infektionskrankheiten und Hygiene Abteilung II 123 64 88 1969 
+25 
+            Bottacini F  
+             
+           Bifidobacterium asteroides  PRL2011 genome analysis reveals clues for colonization of the insect gut PloS One 7 e44229 2012 23028506 
+26 
+            Engel P  
+            Kwong WK  
+            Moran NA  
+           Frischella perrara  gen. nov., sp. nov., a gammaproteobacterium isolated from the gut of the honeybee, Apis mellifera  Int J Syst Evol Microbiol 63 3646 3651 2013 23606484 
+27 
+            Kešnerová L  
+            Moritz R  
+            Engel P  
+           Bartonella apis  sp. nov., a honey bee gut symbiont of the class Alphaproteobacteria Int J Syst Evol Microbiol 10.1099/ijsem.0.000736 Epub ahead of print 2015 
+28 
+            Corby-Harris V  
+             
+           Origin and effect of Alpha 2.2 Acetobacteraceae  in honey bee larvae and description of Parasaccharibacter apium  gen. nov., sp. nov Appl Environ Microbiol 80 7460 72 2014 25239902 
+29 
+            Donaldson GP  
+            Lee SM  
+            Mazmanian SK  
+           Gut biogeography of the bacterial microbiota Nat Rev Microbiol 10.1038/nrmicro3552 Epub ahead of print 2015 
+30 
+            Anderson KE  
+             
+           Microbial ecology of the hive and pollination landscape: bacterial associates from floral nectar, the alimentary tract and stored food of honey bees (Apis mellifera ) PloS One 8 e83125 2013 24358254 
+31 
+            Anderson KE  
+             
+           Hive-stored pollen of honey bees: many lines of evidence are consistent with pollen preservation, not nutrient conversion Mol Ecol 23 5904 5917 2014 It has long been suspected that hive-stored pollen was gradually degraded into a more nutritious food source by microbial action. However, this study found few bacteria in stored pollen, implying that digestion occurs within the worker gut. 25319366 
+32 
+            Engel P  
+            Bartlett KD  
+            Moran NA  
+           The bacterium Frischella perrara  causes scab formation in the gut of its honeybee host mBio 6 e00193 15 2015 25991680 
+33 
+            Kwong WK  
+            Engel P  
+            Koch H  
+            Moran NA  
+           Genomics and host specialization of honey bee and bumble bee gut symbionts Proc Natl Acad Sci U S A 111 11509 11514 2014 Sequencing of S. alvi  and G. apicola  isolates from honey bees and bumble bees indicated that they occupy distinct metabolic niches and have diverse gene sets. Experiments demonstrated barriers to host-switching for S. alvi  strains, suggesting specialization to hosts. 25053814 
+34 
+            McFrederick QS  
+             
+           Environment or kin: whence do bees obtain acidophilic bacteria? Mol Ecol 21 1754 68 2012 22340254 
+35 
+            McFrederick QS  
+             
+           Specificity between Lactobacilli and Hymenopteran hosts is the exception rather than the rule Appl Environ Microbiol 79 1803 1812 2013 23291551 
+36 
+            McFrederick QS  
+            Wcislo WT  
+            Hout MC  
+            Mueller UG  
+           Host species and developmental stage, but not host social structure, affects bacterial community structure in socially polymorphic bees FEMS Microbiol Ecol 88 398 406 2014 Although sociality appears key to microbiota transmission in the corbiculate bees, the same was not found to be true in halictid bees, which vary in extent of sociality, as their gut communities were dominated by environmentally acquired bacteria. 24579829 
+37 
+            Ahn JH  
+             
+           Pyrosequencing Analysis of the Bacterial Communities in the Guts of Honey Bees Apis Cerana  and Apis Mellifera  in Korea J Microbiol 50 735 45 2012 23124740 
+38 
+            Disayathanoowat T  
+            Young JP  
+            Helgason T  
+            Chantawannakul P  
+           T-RFLP analysis of bacterial communities in the midguts of Apis mellifera  and Apis cerana  honey bees in Thailand FEMS Microbiol Ecol 79 273 281 2012 22092273 
+39 
+            Koch H  
+            Schmid-Hempel P  
+           Bacterial communities in central European bumblebees: low diversity and high specificity Microb Ecol 62 121 213 2011 21556885 
+40 
+            Koch H  
+            Abrol DP  
+            Li J  
+            Schmid-Hempel P  
+           Diversity and evolutionary patterns of bacterial gut associates of corbiculate bees Mol Ecol 22 2028 2044 2013 23347062 
+41 
+            Yoshiyama M  
+            Kimura K  
+           Bacteria in the gut of Japanese honeybee, Apis cerana japonica , and their antagonistic effect against Paenibacillus larvae , the causal agent of American foulbrood J Invertebr Pathol 102 91 96 2009 19616552 
+42 
+            Lim HC  
+            Chu CC  
+            Seufferheld MJ  
+            Cameron SA  
+           Deep sequencing and ecological characterization of gut microbial communities of diverse bumble bee species PLoS ONE 10 e0118566 2015 25768110 
+43 
+            Li J  
+             
+           Two gut community enterotypes recur in diverse bumblebee species Curr Biol 25 R652 3 2015 26241138 
+44 
+            Saraithong P  
+            Li Y  
+            Saenphet K  
+            Chen Z  
+            Chantawannakul P  
+           Bacterial community structure in Apis florea  larvae analyzed by denaturing gradient gel electrophoresis and 16S rRNA gene sequencing Insect Sci 22 606 618 2015 25393530 
+45 
+            Kwong WK  
+            Moran NA  
+           Apibacter adventoris  gen. nov., sp. nov., a member of the phylum Bacteroidetes isolated from honey bees Int J Syst Evol Microbiol Epub ahead of print 2016 
+46 
+            Cariveau DP  
+            Powell JE  
+            Koch H  
+            Winfree R  
+            Moran NA  
+           Variation in gut microbial communities and its association with pathogen infection in wild bumble bees (Bombus ) ISME J 12 2369 2379 2014 
+47 
+            Hroncova Z  
+             
+           Variation in honey bee gut microbial diversity affected by ontogenetic stage, age and geographic location PloS One 10 e0118707 2015 25768309 
+48 
+            Martinson VG  
+            Magoc T  
+            Koch H  
+            Salzberg SL  
+            Moran NA  
+           Genomic features of a bumble bee symbiont reflect its host environment Appl Environ Microbiol 80 3793 3803 2014 24747890 
+49 
+            Killer J  
+             
+           Bombiscardovia coagulans  gen. nov., sp. nov., a new member of the family Bifidobacteriaceae  isolated from the digestive tract of bumblebees Syst Appl Microbiol 33 359 366 2010 20950979 
+50 
+            Killer J  
+             
+           Bifidobacterium actinocoloniiforme  sp. nov. and Bifidobacterium bohemicum  sp. nov. from the bumblebee digestive tract International Int J Syst Evol Microbiol 61 1315 1321 2011 
+51 
+            Wu M  
+             
+           Characterization of bifidobacteria in the digestive tract of the Japanese honeybee, Apis cerana japonica J Invertebr Pathol 112 88 93 2013 23069130 
+52 
+            Lugli GA  
+             
+           Investigation of the evolutionary development of the genus Bifidobacterium  by comparative genomics Appl Environ Microbiol 80 6383 6394 2014 25107967 
+53 
+            Praet J  
+             
+           Bifidobacterium commune  sp. nov. isolated from the bumble bee gut Antonie Van Leeuwenhoek 107 1307 1313 2015 25753540 
+54 
+            Praet J  
+             
+           Novel lactic acid bacteria isolated from the bumble bee gut: Convivina intestini  gen. nov., sp. nov., Lactobacillus bombicola sp. nov. and Weissella bombi sp. nov Antonie Van Leeuwenhoek 107 1337 1349 2015 25783976 
+55 
+            Ellegaard KM  
+            Tamarit D  
+            Javelind E  
+           Extensive intra-phylotype diversity in Lactobacilli  and Bifidobacteria  from the honeybee gut BMC Genomics 16 10.1186/s12864-015-1476-6 2015 Genomic analysis of honey bee Lactobacillus  and Bifidobacterium  species showed extensive variation in gene content between different isolates, particularly for genes affecting carbohydrate use and exopolysaccharide biosynthesis. 
+56 
+            Kwong WK  
+            Moran NA  
+           Evolution of host specialization in gut microbes: the bee gut as a model Gut Microbes 6 214 220 2015 26011669 
+57 
+            Tamarit D  
+             
+           Functionally structured genomes in Lactobacillus kunkeei  colonizing the honey crop and food products of honeybees and stingless bees Genome Biol Evol 7 1455 1473 2015 25953738 
+58 
+            Mohr KI  
+            Tebbe CC  
+           Field study results on the probability and risk of a horizontal gene transfer from transgenic herbicide-resistant oilseed rape pollen to gut bacteria of bees Appl Microbiol Biotechnol 75 573 582 2007 17273854 
+59 
+            Li L  
+           Bombella intestini  gen. nov., sp. nov., an acetic acid bacterium isolated from bumble bee crop Int J Syst Evol Microbiol 65 267 273 2015 25336723 
+60 
+            Mohr KI  
+            Tebbe CC  
+           Diversity and phylotype consistency of bacteria in the guts of three bee species (Apoidea ) at an oilseed rape field Environ Microbiol 8 258 272 2006 16423014 
+61 
+            Vojvodic S  
+            Rehan SM  
+            Anderson KE  
+           Microbial gut diversity of Africanized and European honey bee larval instars PLoS One 8 e72106 2013 23991051 
+62 
+            Kapheim KM  
+             
+           Caste-specific differences in hindgut microbial communities of honey bees (Apis mellifera ) PloS One 10 e0123911 2015 25874551 
+63 
+            Tarpy DR  
+            Mattila HR  
+            Newton IL  
+           Development of the honey bee gut microbiome throughout the queen-rearing process Appl Environ Microbiol 81 3182 3191 2015 Honey bee queens were sampled throughout development, showing that queens have a different gut microbiome composition from that of workers. 25724964 
+64 
+            Yun JH  
+             
+           Insect gut bacterial diversity determined by environmental habitat, diet, developmental stage, and phylogeny of host Appl Environ Microbiol 80 5254 5264 2014 24928884 
+65 
+            Ludvigsen J  
+             
+           Shifts in the midgut/pyloric microbiota composition within a honey bee apiary throughout a season Microbes Environ 30 235 244 2015 26330094 
+66 
+            Tozkar CÖ  
+            Kence M  
+            Kence A  
+            Huang Q  
+            Evans JD  
+           Metatranscriptomic analyses of honey bee colonies Front Genet 6 10.3389/fgene.2015.00100 2015 
+67 
+            Cho I  
+            Blaser MJ  
+           The human microbiome: at the interface of health and disease Nat Rev Genet 13 260 70 2012 22411464 
+68 
+            Koch H  
+            Cisarovsky G  
+            Schmid-Hempel P  
+           Ecological effects on gut bacterial communities in wild bumblebee colonies J Anim Ecol 81 1202 1210 2012 22708631 
+69 
+            Meeus I  
+             
+           16S rRNA amplicon sequencing demonstrates that indoor-reared bumblebees (Bombus terrestris ) harbor a core subset of bacteria normally associated with the wild host PLoS One 10 e0125152 2015 25923917 
+70 
+            Parmentier L  
+            Meeus I  
+            Mosallanejad H  
+            de Graaf DC  
+            Smagghe G  
+           Plasticity in the gut microbial community and uptake of Enterobacteriaceae (Gammaproteobacteria) in Bombus terrestris bumblebees’ nests when reared indoors and moved to an outdoor environment Apidologie 10.1007/s13592-015-0393-7 2015 
+71 
+            Jefferson JM  
+            Dolstad HA  
+            Sivalingam MD  
+            Snow JW  
+           Barrier immune effectors are maintained during transition from nurse to forager in the honey bee PLoS ONE 8 e54097 2013 23320121 
+72 
+            Reybroeck W  
+            Daeseleire E  
+            De Brabander HF  
+            Herman L  
+           Antimicrobials in beekeeping Vet Microbiol 158 1 11 2012 22342494 
+73 
+            Tian B  
+            Fadhil NH  
+            Powell JE  
+            Kwong WK  
+            Moran NA  
+           Long-term exposure to antibiotics has caused accumulation of resistance determinants in the gut microbiota of honeybees mBio 3 e00377 12 2012 23111871 
+74 
+            Alippi AM  
+            León IE  
+            López AC  
+           Tetracycline-resistance encoding plasmids from Paenibacillus  larvae, the causal agent of American foulbrood disease, isolated from commercial honeys Int Microbiol 17 49 61 2014 25296446 
+75 
+            Blaser MJ  
+           Missing Microbes: How the Overuse of Antibiotics Is Fueling Our Modern Plagues Henry Holt New York 2014 
+76 
+            Engel P  
+            Stepanauskas R  
+            Moran NA  
+           hidden diversity in honey bee gut symbionts detected by single-cell genomics PLoS Genetics 10 e1004596 2014 25210772 
+77 
+            Olofsson TC  
+            Alsterfjord M  
+            Nilson B  
+            Butler E  
+            Vasquez A  
+           Lactobacillus apinorum  sp. nov., Lactobacillus mellifer  sp. nov., Lactobacillus mellis  sp. nov., Lactobacillus melliventris  sp. nov.., Lactobacillus kimbladii  sp. nov., Lactobacillus helsingborgensis  sp. nov. and Lactobacillus kullabergensis  sp. nov., isolated from the honey stomach of the honeybee Apis mellifera  I Int J Syst Evol Microbiol 64 3109 3119 2014 24944337 
+78 
+            Killer J  
+            Dubná S  
+            Sedláček I  
+            Svec P  
+           Lactobacillus apis  Sp. Nov., from the stomach of honeybees (Apis mellifera ), having an in vitro inhibitory effect on the causative agents of American and European foulbrood Int J Syst Evol Microbiol 64 152 157 2014 24096349 
+79 
+            Killer J  
+             
+           Lactobacillus bombi  sp. nov., from the digestive tract of laboratory-reared bumblebee queens (Bombus terrestris ) Int J Syst Evol Microbiol 64 2611 2617 2014 24824637 
+80 
+            Koch H  
+            Schmid-Hempel P  
+           Gut microbiota instead of host genotype drive the specificity in the interaction of a natural host-parasite system Ecol Lett 15 1095 1103 2012 Infection of bumble bees by different strains of a trypanosomatid parasite is more dependent on the source of the gut microbiota than on host genotype, suggesting that bee gut bacteria are undergoing a co-eutionary arms race with the parasites. 22765311 
+81 
+            Butler È  
+             
+           Proteins of novel lactic acid bacteria from Apis mellifera mellifera: an insight into the production of known extracellular proteins during microbial stress BMC Microbiology 13 235 2013 24148670 
+82 
+            Forsgren E  
+            Olofsson TC  
+            Vásquez A  
+            Fries I  
+           Novel lactic acid bacteria inhibiting Paenibacillus  larvae in honey bee larvae Apidologie 41 99 108 2009 
+83 
+            Vásquez A  
+             
+           Symbionts as major modulators of insect health: lactic acid bacteria and honeybees PLoS One 7 e33188 2012 22427985 
+84 
+            Schwarz RS  
+            Huang Q  
+            Evans JD  
+           Hologenome Theory and the honey bee pathosphere Curr Opin Insect Sci 10 1 7 2015 
+85 
+            Evans JD  
+             
+           Immune pathways and defence mechanisms in honey bees Apis mellifera  Insect Mol Biol 15 645 656 2006 17069638 
+86 
+            Buchon N  
+            Broderick NA  
+            Poidevin M  
+            Pradervand S  
+            Lemaitre B  
+           Drosophila  intestinal response to bacterial infection: activation of host defense and stem cell proliferation Cell Host Microbe 5 200 211 2009 19218090 
+87 
+            Engel P  
+            Vizcaino MI  
+            Crawford JM  
+           Gut symbionts from distinct hosts exhibit genotoxic activity via divergent colibactin biosynthetic pathways Appl Environ Microbiol 81 1502 1512 2015 This paper explores the intriguing honey bee gut species F. perrara , which synthesizes a complex peptide-polyketide homologous to colibactin, a tumorigenic compound produced by some E. coli  strains in the human gut. 25527542 
+88 
+            Lee FJ  
+            Rusch DB  
+            Stewart FJ  
+            Mattila HR  
+            Newton IL  
+           Saccharide breakdown and fermentation by the honey bee gut microbiome Environ Microbiol 17 796 815 2014 24905222 
+89 
+            Kwong WK  
+            Mancenido AL  
+            Moran NA  
+           Genome sequences of Lactobacillus  sp. strains wkB8 and wkB10, members of the Firm-5 clade, from honey bee guts Genome Announc 13 e01176 14 2014 
+90 
+            Barker RJ  
+            Lehner Y  
+           Acceptance and sustenance value of naturally occurring sugars fed to newly emerged adult workers of honey bees (Apis mellifera  L.) J Exp Zool 187 277 85 1974 
+91 
+            Olofsson TC  
+           &amp; Alejandra Vásquez, A. Detection and identification of a novel lactic acid bacterial flora within the honey stomach of the honeybee Apis mellifera  Curr Microbiol 57 356 363 2008 18663527 
+92 
+            den Besten G  
+             
+           The role of short-chain fatty acids in the interplay between diet, gut microbiota, and host energy metabolism J Lipid Res 54 2325 40 2013 23821742 
+93 
+            Brune A  
+           Symbiotic digestion of lignocellulose in termite guts Nat Rev Microbiol 12 168 180 2014 24487819 
+94 
+            Egert M  
+             
+           Structure and topology of microbial communities in the major gut compartments of Melolontha melolontha  larvae (Coleoptera: Scarabaeidae) Appl Environ Microbiol 71 4556 4566 2005 16085849 
+95 
+            Chouaia B  
+             
+           Acetic acid bacteria genomes reveal functional traits for adaptation to life in insect guts Genome Biol Evol 6 912 20 2014 24682158 
+96 
+            Jojima Y  
+             
+           Saccharibacter floricola  gen. nov., sp. nov., a novel osmophilic acetic acid bacterium isolated from pollen Int J Syst Evol Microbiol 54 2263 2267 2004 15545468 
+97 
+            Guo J  
+             
+           Characterization of gut bacteria at different developmental stages of Asian honey bees, Apis cerana  J Invertebr Pathol 127 110 114 2015 25805518 
+98 
+            Degnan PH  
+             
+           Factors associated with the diversification of the gut microbial communities within chimpanzees from Gombe National Park Proc Natl Acad Sci U S A 109 13034 13039 2012 22826227 
+99 
+            Song SJ  
+             
+           Cohabiting family members share microbiota with one another and with their dogs Elife 2 e00458 2013 23599893 
+100 
+            Tung J  
+             
+           Social networks predict gut microbiome composition in wild baboons eLife 4 e05224 2015 
+101 
+            Favia G  
+             
+           Bacteria of the genus Asaia  stably associate with Anopheles stephensi , an Asian malarial mosquito vector Proc Natl Acad Sci U S A 104 9047 9051 2007 17502606 
+102 
+            Rangberg A  
+            Diep DB  
+            Rudi K  
+            Amdam GV  
+           Paratransgenesis: an approach to improve colony health and molecular insight in honey bees (Apis mellifera )? Integr Comp Biol 52 89 99 2012 22659204 
+103 
+            Fürst MA  
+            McMahon DP  
+            Osborne JL  
+            Paxton RJ  
+            Brown MJ  
+           Disease associations between honeybees and bumblebees as a threat to wild pollinators Nature 506 364 366 2014 24553241 
+104 
+            Crotti E  
+             
+           Microbial symbionts of honeybees: a promising tool to improve honeybee health N Biotechnol 30 716 722 2013 23727340 
+105 
+            Crane E  
+           The world history of beekeeping and honey hunting Routledge New York 1999 
+106 
+            Bloch G  
+             
+           Industrial apiculture in the Jordan valley during biblical times with Anatolian honeybees Proc Natl Acad Sci U S A 107 11240 4 2010 20534519 
+107 
+            Calderone NW  
+           Insect-pollinated crops, insect pollinators and us agriculture: trend analysis of aggregate data for the period 1992–2009 PLoS ONE 7 e37235 2012 22629374 
+108 
+            Cameron SA  
+             
+           Patterns of widespread decline in North American bumble bees Proc Natl Acad Sci U S A 108 662 7 2011 21199943 
+109 
+            Vanbergen AJ  
+            The Insect Pollinators Initiative 
+           Threats to an ecosystem service: pressures on pollinators Front Ecol Environ 11 251 259 2013 
+110 
+            Klee J  
+             
+           Widespread dispersal of the microsporidian Nosema ceranae, an emergent pathogen of the western honey bee, Apis mellifera  J Invertebr Pathol 96 1 10 2007 17428493 
+111 
+            Billiet A  
+             
+           Colony contact contributes to the diversity of gut bacteria in bumblebees (Bombus terrestris) Insect Sci 10.1111/1744-7917.12284 Epub ahead of print 2015 
+112 
+            Kawasaki S  
+            Mimura T  
+            Satoh T  
+            Takeda K  
+            Niimura Y  
+           Response of the microaerophilic Bifidobacterium  species, B. boum  and B. thermophilum , to oxygen Appl Environ Microbiol 72 6854 8 2006 16950914 
+113 
+            Palmer C  
+            Bik EM  
+            DiGiulio DB  
+            Relman DA  
+            Brown PO  
+           Development of the human infant intestinal microbiota PLoS Biol 5 e177 2007 17594176 
+114 
+            Anderson KE  
+            Rodrigues PA  
+            Mott BM  
+            Corby-Harris V  
+           Ecological succession in the honey bee gut: shift in Lactobacillus strain dominance during early adult development Microbial Ecol Epub ahead of print 2016 10.1007/s00248-015-0716-2 
+

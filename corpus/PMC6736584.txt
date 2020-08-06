@@ -1,0 +1,635 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10163461442750Microbiol SpectrMicrobiol SpectrMicrobiology spectrum2165-049730238869673658410.1128/microbiolspec.GPP3-0003-2017NIHMS1041666ArticleEnterotoxic Clostridia: Clostridium perfringens Enteric Diseases Shrestha Archana 1Uzal Francisco A. 2McClane Bruce A. 1*1 Department of Microbiology and Molecular Genetics, University of Pittsburgh School of Medicine, Pittsburgh PA 152192 California Animal Health and Food Safety Laboratory, San Bernardino Branch, School of Veterinary Medicine, University of California-Davis, San Bernardino CA 92408* Corresponding author contact information: Dr. Bruce A. McClane, 450 Technology Drive, Room 420, Pittsburgh, PA 15219, Phone: 412-648-9022, bamcc@pitt.edu23 7 2019 9 2018 10 9 2019 6 5 10.1128/microbiolspec.GPP3-0003-2017This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.CHAPTER SUMMARY
+In humans and livestock, Clostridium perfringens is an important cause of intestinal infections that manifest as enteritis, enterocolitis or enterotoxemia. This virulence is largely related to the toxin producing ability of C. perfringens. This chapter primarily focuses on the C. perfringens type F strains that cause a very common human food poisoning and many cases of nonfoodborne human gastrointestinal (GI) diseases. The enteric virulence of type F strains is dependent upon their ability to produce C. perfringens enterotoxin (CPE). CPE has a unique amino acid sequence, but belongs structurally to the aerolysin pore-forming toxin family. The action of CPE begins with binding of the toxin to claudin receptors, followed by oligomerization of the bound toxin into a prepore on the host membrane surface. Each CPE molecule in the prepore then extends a β-hairpin to form, collectively, a β-barrel membrane pore that kills cells by increasing calcium influx. The cpe gene is typically encoded on the chromosome of type F food poisoning strains but is encoded by conjugative plasmids in nonfoodborne human GI disease type F strains. During disease, CPE is produced when C. perfringens sporulates in the intestines. Beyond type F strains, C. perfringens type C strains producing beta toxin and type A strains producing a toxin named CPILE or BEC have been associated with human intestinal infections. C. perfringens is also an important cause of enteritis, enterocolitis and enterotoxemia in livestock and poultry due to intestinal growth and toxin production.
+
+
+   INTRODUCTION
+Clostridium perfringens is a Gram-positive, spore-forming rod with a ubiquitous environmental distribution, including a presence in the soil and sewage [1–3]. Given its anaerobic nature, it is unsurprising that C. perfringens is also a component of the normal gastrointestinal (GI) tract microbiota of humans and other animals [1, 2, 4]. Additionally, this bacterium is an important cause of intestinal and histotoxic infections in human and other animals [2, 5, 6].
+
+The pathogenicity of C. perfringens largely reflects the toxin-producing proficiency of this bacterium, which can make at least 20 different toxins, including many with GI tract activity [6–10]. However, toxin production patterns vary greatly amongst different strains. This variability permits classification of C. perfringens isolates based upon their production of certain toxins referred to as typing toxins. Historically, five C. perfringens types were recognized, but this system was recently expanded (11) to include seven types (A-G), as shown in Table 1.
+
+Due to their medical importance, this chapter will primarily focus on type F strains of C. perfringens. It will also briefly mention other C. perfringens strains causing human or livestock GI diseases.
+
+C. perfringens TYPE F FOOD POISONING
+Epidemiology
+Type F strains are the causative agent of C. perfringens type F food poisoning (formerly referred to as C. perfringens type A food poisoning prior to the recent typing system revision), which is the 2nd most common bacterial food-borne illness [12, 13]. A million cases of this disease occur annually in the USA, involving ~$400 million in economic losses [12–14]. The high prevalence of C. perfringens type F food poisoning is attributable to several factors [1]. First, type F strains are common in foods [15, 16], providing ample opportunity for infection if that food is incompletely cooked or held prior to ingestion. Second, this bacterium has a very short doubling time of ~10 minutes, which allows it to grow quickly in contaminated food to reach the bacterial load (&gt;106 vegetative cells/gram of food) needed to initiate GI disease. Last, most C. perfringens type F food poisoning strains have an outstanding ability to survive in incompletely cooked or improperly held foods due to: i) the heat tolerance of their vegetative cells, which grow up to at least 50°C [17] and ii) the even greater heat, cold and food preservative resistance of their spores, as discussed later.
+
+C. perfringens type F food poisoning outbreaks are typically large, averaging ~100 cases [1]. This large outbreak size is attributable to at least two factors. First, C. perfringens type F food poisoning is strongly associated with institutional settings because such facilities need to prepare and store foods in advance of serving, which provides sufficient time for C. perfringens to grow and reach pathogenic loads in improperly cooked or held foods. Second, public health officials often overlook small food poisoning outbreaks not involving fatalities; therefore, small outbreaks of this food poisoning typically go unidentified.
+
+The most important contributing factor to C. perfringens type F food poisoning outbreaks is holding foods under improper temperatures [1, 13]. Because of the relative heat tolerance of C. perfringens vegetative cells, food should either be stored under refrigeration or held at temperatures &gt;65°C to prevent growth of this bacterium. Incomplete cooking is the 2nd leading contributor to development of this food poisoning since it allows C. perfringens spores to survive and then germinate in undercooked foods. Beef roasts and turkey are among the most common vehicles for this food poisoning because those large food items are difficult to cook thoroughly [1, 13].
+
+The laboratory plays an important role in identifying C. perfringens type F food poisoning outbreaks [1]. The most reliable approach to identify this food poisoning involves serologic demonstration of C. perfringens enterotoxin (CPE) in feces from food poisoning victims. Several commercial assays for fecal CPE detection are available. Alternatively, it can also be informative to demonstrate, by PCR, the presence of cpe-positive C. perfringens in foods or feces.
+
+Pathogenesis
+C. perfringens type F food poisoning begins with the ingestion of food contaminated with vegetative cells of a type F strain [1]. Most of those bacteria die upon exposure to gastric acid but, if the ingested food was heavily contaminated (i.e., &gt;106 to 107 vegetative cells/gram of food), some survive to pass into the intestines. After initial growth, those C. perfringens cells then undergo in vivo sporulation. The trigger for this response is unclear but may involve exposure of ingested C. perfringens cells to low pH in the stomach or to bile salts or phosphate in the intestines [18–20].
+
+Considerable evidence implicates CPE as the toxin responsible for the GI symptoms of C. perfringens type F food poisoning (reviewed in [1]). First, this toxin is detectable in the feces of nearly all C. perfringens food poisoning victims, but is absent from the feces of healthy people. Second, the CPE concentrations present in feces of food poisoning victims are similar to the CPE concentrations that cause GI effects in animal models. Third, type F strains are much more virulent in animal intestinal disease models than are most CPE-negative type A strains, which (like type F strains) produce alpha toxin but (unlike type F strains) do not produce CPE. Importantly, the GI effects of type F strains can be neutralized with a CPE antibody. Fourth, human volunteers fed purified CPE developed the GI symptoms of C. perfringens type A food poisoning. Last, and perhaps most persuasive, are studies fulfilling molecular Koch’s postulates, which showed that an isogenic cpe null mutant of a type F food poisoning strain is fully attenuated in a rabbit small intestinal loop model of GI disease and complementation of that mutant to regain CPE production also fully restored virulence [21]
+
+Only sporulating C. perfringens cells produce CPE [1, 22, 23]. Once made, this toxin is not secreted but is instead freed into the intestinal lumen only when the mother cell lyses to release its mature endospore upon the completion of sporulation [24]. CPE then binds to the intestinal epithelium and exerts its cytotoxic action, described later, causing villus shortening and intestinal epithelial desquamation. Animal model studies suggest this intestinal damage is responsible for the onset of the GI symptoms associated with C. perfringens type F food poisoning [25–27], although contributions by other processes (such as CPE effects on paracellular permeability) cannot be excluded.
+
+All regions of the small intestine respond to CPE, but the ileum is particularly sensitive [28, 29]. Interestingly, while CPE binds to, and initially damages, villus tips in the small intestine, the toxin eventually damages the entire villus [25]. Recent cell culture studies, described later, identified a bystander killing effect that may help to explain this in vivo observation [30].
+
+Based upon an initial study where CPE did not affect the rabbit colon [31], it was originally believed that C. perfringens type F food poisoning only involves the small intestine. However, later studies demonstrated that purified CPE does affect the rabbit colon [32] and it can also damage human colonic tissue ex vivo [33]. Furthermore, colonic damage has been observed in some human C. perfringens type F food poisoning victims [34]. Recent studies suggest that CPE acts focally in the human colon, mainly damaging cells with exposed receptors [35].
+
+Clinically, C. perfringens type F food poisoning usually involves diarrhea and abdominal cramps that develop within ~8–16 h of ingesting contaminated food [1]. This incubation period largely reflects the ~8–12 h needed for C. perfringens to complete sporulation and then release CPE into the intestinal lumen. In most cases, the GI symptoms of this food poisoning persist for 12–24 h before self-resolving. However, it has long been recognized that this disease can be fatal in the elderly or debilitated; it is estimated that ~26 people die from C. perfringens type F food poisoning every year in the USA [12].
+
+In addition, two unusually severe C. perfringens type F food poisoning outbreaks occurred during the past 15 years, resulting in deaths of several relatively healthy and younger people [34, 36]. Both outbreaks involved psychiatric institutions, which is relevant because the severity of these outbreaks appears attributable to the victims having predisposing medical conditions prior to contracting C. perfringens type F food poisoning. Specifically, the severely affected individuals in both outbreaks had been receiving psychoactive medications that can induce severe constipation or fecal impaction side-effects. Those side-effects likely prevented the GI tract flushing effects of the diarrhea that typically occurs during C. perfringens type F food poisoning. The absence of diarrhea in these cases is thought to have prolonged intestinal contact with CPE, thus enhancing disease severity. Studies with a mouse model [37] supported this hypothesis by showing that prolonged intestinal contact with purified CPE increases uptake of this toxin into the circulation. This allowed CPE to damage internal organs, such as the liver and kidneys, resulting in a hyperpotassemia that induces cardiac arrest. Those mouse model studies suggest that pre-existing severe constipation or fecal impaction can facilitate development of a lethal enterotoxemia following C. perfringens type F food poisoning [37].
+
+The CPE Protein
+CPE is a single 319 amino acid polypeptide (Mr 35,317, pI 4.3) [38]. Its primary amino acid sequence lacks significant sequence homology with other proteins, except for some limited sequence homology (of unknown significance) with a non-neurotoxic protein of C. botulinum [39]. The secondary structure of CPE is ~80% β-pleated sheet and ~20% random coil [28].
+
+The structure of CPE was solved in a series of studies that began with crystallization and x-ray diffraction analysis of the C-terminal domain of CPE, which mediates binding of the toxin to receptors, as discussed below. That initial study [40] showed this CPE domain consists of a nine-stranded β-sandwich, with most strands in an antiparallel arrangement. Tyrosine and leucine residues implicated ([41] and as described later) in receptor binding line a pocket located on the surface of this C-terminal CPE domain, where they can readily interact with receptors [40].
+
+The complete structure of native CPE was then solved independently by two groups in 2011 [42, 43]. Those structural analyses (Fig. 1, left panel) revealed that, in addition to the C-terminal domain mediating receptor binding activity, this pore-forming enterotoxin also has an N-terminal domain required for CPE oligomerization and pore formation. The 34 N-terminal amino acids of CPE appear to be disordered, explaining why their presence reduces CPE-induced cytotoxicity (see below). Although lacking primary sequence homology with other proteins, CPE structurally belongs to the aerolysin pore-forming toxin family, which also includes C. perfringens epsilon toxin. A region in the N-terminal domain named TM1 (for transmembrane 1), which is important for pore formation (as discussed later), is largely present in an α helix when the native CPE monomer is in solution. This is distinctive since comparable sequences in other members of the aerolysin pore-forming toxin family are present in a β strand [42, 43].
+
+Structure vs function relationships have been extensively mapped for the CPE protein. Early deletion mutagenesis research [44], coupled with chemical cleavage analyses [45], revealed that the C-terminal domain of the toxin is sufficient for receptor binding. That research also showed the N-terminal domain must also be present to obtain cytotoxicity and cause GI tract pathology. Later studies using recombinant CPE fragments and synthetic peptides showed that even the 30 C-terminal amino acids of CPE alone possess some receptor binding activity [46]. Subsequent site-directed mutagenesis results identified three tyrosine residues (Y306/Y310/Y312) and a leucine triplet (L223/L254/L315) in the C-terminal half of CPE as being important for receptor binding [41].
+
+While full-length CPE (amino acids 1–319) is cytotoxic, removing up to the first 45 amino acids from CPE by deletion mutagenesis increases cytotoxic activity by 2–3 fold [47]. This activation effect, which does not correspond to removal of a leader sequence since CPE is not a secreted protein, may have pathologic relevance, i.e., purified trypsin and chymotrypsin also induce a 2–3 fold increase in CPE-induced cytotoxic activity by removing the first 25 or 37, respectively, N-terminal amino acids from the native toxin [48, 49]. However, deleting amino acids beyond residue 45 renders CPE noncytotoxic [50]. Subsequent site-directed mutagenesis studies identified several amino acids located between residues D45 and G53 of the native toxin as mediating CPE oligomerization [51]. In particular, residue D48A is required for both CPE oligomerization and cytotoxicity [51].
+
+Besides oligomerization, the N-terminal domain of CPE mediates a second function during CPE-induced cytotoxicity. This CPE domain contains TM1, a region consisting of alternating hydrophobic and hydrophilic residues spanning from amino acids 80 to 106 of native CPE [52, 53]. As mentioned earlier, the TM1 region is mainly localized within an alpha helix in the N-terminal domain of native CPE. However, once CPE oligomerizes, the TM1 α helix is thought to unwind to form a β-hairpin loop that participates in pore formation (as described in the next section).
+
+CPE-induced Cytotoxicity
+CPE binding
+The cytotoxic action of CPE begins (Fig. 2) with binding of this toxin to its receptors [54]. Conclusive insights into CPE receptors were provided by expression cloning studies that identified two CPE-binding host proteins, later determined to be claudins-3 and −4 [55, 56]. Claudins are a family of ~21 to 27 kDa single polypeptides that play a critical role in maintaining the normal barrier and fence properties of the tight junction [54]. Humans are thought to produce 27 different claudins [54]. Structural analyses [57] revealed that claudins consist of a four transmembrane domain bundle and two extracellular loops, referred to as ECL-1 and ECL-2. Claudins also possess a short (~7 amino acid) N-terminal sequence and a C-terminal tail (~20–60 amino acid), both of which are located in the host cell cytoplasm. The sequence of the C-terminal tail is variable, allowing discrimination between different claudins using antibodies raised against synthetic peptides with a claudin tail sequence.
+
+Experiments established that, in addition to claudins-3 and −4, CPE can use claudins −6, −7, −8-, −9 and −14 as receptors [54, 58, 59]. The CPE binding affinity amongst those claudin receptors varies greatly, with some (e.g., claudin-3 and −4) binding CPE strongly, but others (e.g., claudin-8 and −14) binding CPE with only moderate affinity [59]. Furthermore, not all claudins are CPE receptors, as claudins-1, −2, −5, −10, −13 and 20–24 cannot bind significant amounts of CPE at physiologically-relevant toxin concentrations [54, 58, 59, 61, 62].
+
+Substantial research has investigated the basis for the different CPE binding abilities between claudins. Early studies used chimeric claudins [54, 58] to demonstrate the importance of ECL-2 for CPE binding. Later work [54, 59, 62] identified specific amino acids in ECL-2 that contribute to CPE binding. In particular, an N residue is conserved in the ECL-2 of receptor binding claudins, while the corresponding residue is never an N (usually it is a D or S) in claudins unable to bind the toxin [62]. Site-directed mutagenesis studies [62] directly confirmed the importance of this conserved N residue for CPE binding. ECL-2 residues adjacent to the essential N residue vary among the receptor claudins and those variations modulate the CPE binding affinity of different receptor claudins [62–64]. Structural biology studies demonstrated that the N residue and adjacent P and L/S residues dock tightly in the tyrosine pocket of the C-terminal CPE domain [57, 65].
+
+Recently, the structure of the CPE C-terminal domain bound to a claudin receptor was solved [57, 66] (Fig. 1, right panel), which provided a major surprise by showing that CPE interacts with ECL-1, as well as with ECL-2. ECL-1 sequences are conserved in all claudins, explaining why previous chimeric claudin studies did not pick up CPE interactions with ECL-1. The strong sequence conservation amongst the ECL-1 of different claudins is also consistent with a model where ECL-2 is the primary determinant of CPE binding ability amongst the claudins, although CPE does also interact with the conserved ECL-1 in receptor claudins. Supporting the importance of CPE interactions with ECL-1 for receptor binding were site-directed mutagenesis studies showing that mutation of ECL-1 residues A39-I41 affects CPE binding to claudin receptors [57].
+
+Post binding steps in CPE action
+Binding of CPE to a claudin receptor results in the formation of a small complex of ~90 kDa [67]. Co-immunoprecipitation and electroelution results [68] suggest this small complex can contain a non-receptor claudin (e.g., claudin-1), as well as CPE bound to the claudin receptor. Heteromer gel shift studies [68] indicated that 6 small CPE complexes then oligomerize to form the CH-1 large complex, with a molecular mass of ~425–500 kDa. It is believed that CH-1 is initially present as a prepore on the membrane surface of host cells but each CPE in the prepore then unwinds its TM1 α helix to form a β-hairpin loop [52, 53]. Similar loops likely extend from each of the 6 CPE molecules present in the prepore oligomer, forming a β-barrel that inserts into the membrane to create an active pore. In support of this model, site-directed mutagenesis identified several TM1 variants that have normal binding and oligomerization properties but are impaired for membrane insertion or for formation of a functional pore [52].
+
+CPE pore formation leads to a rapid efflux of some cytoplasmic ions (e.g., potassium), but an influx of other extracellular ions, including calcium [28, 69–72]. CPE-induced calcium influx is particularly important since it activates, in a toxin dose-dependent manner, calpain and calmodulin to cause cell death [70, 73]. At low CPE doses (~1 μg/ml), modest pore formation occurs to cause a limited calcium influx and a mild activation of calpain that triggers caspase-3 dependent apoptosis [70, 73]. However, high CPE doses (~10 μg/ml) form large numbers of pores, allowing a massive calcium influx that results in strong calpain activation to cause a necrotic death involving oncosis [70, 73].
+
+Cells affected by CPE develop morphologic damage [71, 74]. This allows even more CPE binding to the abundant claudin receptors present on the basolateral cell surface [75]. In Caco-2 cells, CPE-induced cell damage also permits some receptor-bound CPE to interact with another tight junction protein named occludin to form an ~600 kDa complex named CH-2 [68, 75, 76]. The importance of this complex for CPE activity, particularly in vivo, is not clear since only the CH-1, (i.e., not the CH-2) complex is detectable in CPE-treated rabbit small intestine [37].
+
+CPE Induces a Bystander Killing Effect
+The human body is a complex mixture of host cells, including cells that produce claudin CPE receptors and respond to this toxin, as well as other cells that do not make CPE receptors and are not directly sensitive to this toxin. Therefore, a recent study [30] asked whether CPE effects on sensitive host cells might impact nearby CPE-insensitive host cells. When a co-culture of CPE-sensitive and CPE-insensitive cells was treated in vitro with the enterotoxin, many of the CPE-insensitive cells died. This bystander killing effect was shown to involve a factor, possibly a 10–30 kDa serine protease, that is released from CPE-sensitive cells when they undergo CPE-induced, caspase 3-mediated apoptosis. The cytotoxic host factor released from those dying cells then induces a caspase 3-mediated apoptosis in the naturally CPE-insensitive cells. Collectively, these results suggest that a similar bystander killing effect may amplify CPE action in vivo and thus contribute to disease.
+
+CPE Genetics
+Less than 5% of global C. perfringens isolates carry the gene (cpe) encoding the enterotoxin [77]. Those cpe-positive strains belong to types C, D and E, as well at type F [77–81]. In type F strains, the cpe gene can be present on either the chromosome or large plasmids [82–84]; no single type F strain has been found that carries both a chromosomal and plasmid-borne cpe gene. In other types, the cpe gene is always present on large (&gt;70 kb) plasmids [78, 79, 82, 85].
+
+Whether located on plasmids or the chromosome, the cpe open reading frame sequence is highly conserved amongst type C, D and F strains [84, 86]. However, type E strains can possess either silent cpe sequences (due to loss of the cpe promoter and the presence of mutations, including a nonsense mutation, in the cpe ORF) or a functional cpe gene that encodes a variant CPE with ~10 amino acid sequence differences from the classical cpe ORF found in type C, D and F strains [85, 87]. Whether those amino acid sequence differences affect CPE cytotoxic activity is unknown.
+
+Most (~70%) type F food poisoning strains carry a chromosomal cpe gene [1, 88–91]. This association is not due to the chromosomal cpe strains producing either more CPE or a CPE variant with greater cytotoxicity [84]. Instead, it is attributable to at least two factors, i) the exceptional resistance of the spores made by most chromosomal cpe strains [17], which likely facilitates their survival in incompletely cooked foods and ii) the vast majority of cpe-positive strains present in retail raw meats/fish having a chromosomal vs. plasmid-borne cpe gene, providing the chromosomal cpe strains with much greater opportunity to cause food poisoning [1, 16]. The reason for the greater prevalence of chromosomal cpe strains in meats/fish is unknown.
+
+Genome sequencing of strain SM101, a transformable derivative of the type F food poisoning strain NCTC8798, showed that its cpe gene is located in a highly variable region of the chromosome [92]. Other chromosomal cpe strains appear to carry a similarly organized cpe locus [86, 93, 94]. The presence of the cpe gene in a highly variable chromosomal region is likely due to the integration of Tn5565, a putative 6.4 kb transposon where the cpe gene and an upstream IS1469 sequence are both flanked by IS1470 sequences [95]. The putative Tn5565 insertion event apparently occurred in the chromosomal locus between nadC, encoding a putative quinolate phosphoryltransferase gene, and uapC, encoding a putative purine permease (Fig. 3). The ability of adjacent insertion sequences to mobilize the chromosomal cpe gene is suggested by PCR studies, which detected circular DNA species carrying the cpe gene in DNA extracted from chromosomal cpe strains; those circular DNAs may be transposition intermediates carrying the cpe gene [95].
+
+MLST studies [80, 97] showed that, beyond their cpe gene location, chromosomal cpe type F strains differ phylogenetically from type F plasmid cpe strains and most other C. perfringens strains, with the exception of the type C strains causing a form of enteritis necroticans known as Darmbrand in post-World War II Germany (further discussion later). Type F chromosomal cpe strains and type C Darmbrand strains are both also unusual [80] among C. perfringens strains by, i) lacking the pfoA gene that encodes perfringolysin O and ii) carrying a sasp4 gene that encodes a variant small acid soluble protein-4 to impart exceptional spore heat resistance (further description later). However, an important distinction between the type F chromosomal cpe strains and the type C Darmbrand strains is that, when Darmbrand strains carry a cpe gene, it is located on a large plasmid rather than on the chromosome [80].
+
+The cpe plasmids of type F strains belong predominantly to the pCPF5603 and pCPF4969 plasmid families [82, 98]. Both of those plasmid families likely evolved from a common precursor plasmid. The pCPF5603 family later acquired a cluster of metabolic genes, as well as the gene encoding beta2 toxin, while the pCPF4969 family picked up genes encoding a VirS/VirR-like two component regulatory system and a putative bacteriocin. The cpe gene in both of these cpe plasmid families is associated with insertion sequences (Fig. 3), including the presence of a 5′ IS1469 sequence near their cpe genes. However, the cpe loci in these two cpe plasmids lack the upstream IS1470 sequence upstream found in the chromosomal cpe locus. In addition, while an IS1470 sequence is located downstream of the cpe gene in pCPF4969 plasmids, that insertion sequence is absent from the cpe locus of the pCPF5603 plasmids. Instead, pCPF5603 plasmids carry an IS1151 sequence downstream of their cpe gene. The presence of these insertion sequences near these cpe genes may help to mobilize this toxin gene into circular forms that could be transposition intermediates, as shown for type C and D strains carrying cpe plasmids [86].
+
+Insertion sequences are also located adjacent to the plasmid cpe gene (Fig.2) in type C, D and E isolates [85, 86], as well as the silent cpe sequences present on plasmids in some type E strains [86]. However, the cpe locus is organized differently in those strains vs type F strains (Fig. 2). In addition, the plasmids carrying cpe genes or silent cpe sequences in non-type F strains are often larger, ranging up to ~135 Kb, than the pCPF5603 or pCPF4949 plasmids [82, 99]. Some cpe plasmids in type C-E strains share partial similarity with pCPF5603 or pCPF4969 and they can also carry other toxin genes [78, 79, 99], e.g., the cpb gene encoding beta toxin, the etx gene encoding epsilon toxin or the iap and ibp genes encoding iota toxin [78, 79, 82, 99].
+
+Nearly all cpe plasmids, including the pCPF5603 and pCPF4969 plasmids, carry a region named tcp, for transfer of clostridial plasmids [82]. This carriage is important because the tcp locus has been shown to mediate conjugative transfer of another C. perfringens plasmid named pCP13 [82, 100]. Those pCP13 results predicted that the pCPF5603 and pCPF4969 cpe plasmids should also be conjugative. This postulate was confirmed for pCPF4969 when mixed mating studies demonstrated conjugative plasmid transfer of this cpe plasmid [83, 101].
+
+In summary, both the chromosomal and plasmid cpe genes are associated with insertion sequences, which may facilitate mobilization of the cpe gene within a C. perfringens cell. Additionally, the cpe gene is often present on conjugative plasmids, which allows transfer of the cpe gene from one C. perfringens strain to another. If this conjugative transfer happens during infection, it could contribute to pathogenesis, as explained later in the nonfoodborne human GI disease section of this chapter.
+
+Regulation of CPE Production
+When CPE is produced during sporulation it can account for &gt;15% of the total protein inside the sporulating C. perfringens cell [1]. This abundant CPE production is not attributable to a gene dosage effect since most food poisoning strains carry only a single copy of the cpe gene. Instead, Northern blot and reporter studies indicated that cpe expression is primarily regulated at the transcriptional level, with the cpe gene transcribed as a monocistronic message that becomes detectable soon after the onset of sporulation [1, 28, 102–104].
+
+The presence of three promoters upstream of the cpe start codon likely explains the strong production of CPE during sporulation [1, 103]. The close association between CPE production and sporulation is attributable to those cpe promoters sharing significant homology with SigK-or SigE-dependent promoters in Bacillus subtilis [103]. Those promoter sequence homologies are important because SigK and SigF are sporulation-associated sigma factors in many Bacillus and Clostridium spp [105]. A direct role for SigK and SigE in regulating both CPE production and C. perfringens sporulation was demonstrated experimentally using sigK and sigE null mutants [106].
+
+A later study [107] established a role for SigF, another sporulation-associated sigma factor, in regulating both CPE production and C. perfringens sporulation. In contrast to early PCR studies [106] suggesting that SigK is the first sporulation-associated sigma factor made during C. perfringens sporulation, the later study [107] using Western blots detected no SigK or SigE production by a sigF null mutant. Those Western blot results indicate that, during early sporulation either, i) SigF controls production of both SigK and SigE or ii) only very low (below Western blot levels of detection) SigK levels are produced before SigF is made. In addition, those Western blot studies [107] demonstrated that SigF controls production of a fourth sporulation-associated sigma factor named SigG. It was also shown that SigG is necessary for C. perfringens sporulation, but not for CPE production [107]. An emerging model from these and other studies is shown in Fig. 4. Briefly, C. perfringens sporulation initiates with phosphorylation of Spo0A by an unknown kinase. Phosphorylation of Spo0A [108], a master regulator of stationary phase gene expression, leads to production of SigF [107]. Once produced, SigF signals the sporulating cell to make SigE, SigG and SigK. SigE and SigK then direct expression of the cpe gene in the sporulating C. perfringens cell. All four sporulation-associated sigma factors contribute to the gene expression needed for sporulation [106, 107].
+
+Several other regulators, i.e., CcpA, CodY and the Agr-like quorum sensing system, have been shown to regulate sporulation and CPE production, but the precise nature of their involvement is unclear at present [109–111].
+
+Other Virulence Factors: Small Acid Soluble Protein-4
+The vegetative cells and, especially, spores of type F strains carrying a chromosomal cpe gene are usually much more resistant to heating (cooking), cold (storage in refrigerators/freezers) and food preservatives than cells and spores of most other C. perfringens strains [17, 112, 113]. The exceptions are type C Darmbrand strains, which also form highly-resistant spores and cause human food-borne disease [80]. For example, the spores of both type F chromosomal cpe strains and type C Darmbrand strains have a D100 value (D100 is the time needed at 100°C to reduce viability by one log) of ~1 h vs. a D100 value of only ~1–2 min for spores made by other C. perfringens strains [17, 80].
+
+Small acid soluble proteins (SASPs) provide important protection to spore DNA. C. perfringens produces four SASPs [114, 115]. Early studies [114] showed that differences in SASPs 1–3 do not explain the exceptional heat resistance properties of spores made by type A chromosomal cpe strains or type C Darmbrand strains. Instead, later studies demonstrated that those chromosomal cpe type F strains and type C Darmbrand strains forming highly heat-resistant spores produce a variant SASP-4 with an Asp at residue 36, unlike the SASP-4 of other C. perfringens strains which have a Gly at this residue [80, 115]. Studies with isogenic mutants and complementing strains confirmed the importance of this variant SASP-4 for the extreme spore resistance properties of type F chromosomal cpe stains and, presumably, type C Darmbrand strains [114]. The greater protection offered by the SASP-4 Asp36 variant appears to involve tighter DNA binding, particularly to AT-rich DNA sequences, by the Asp36 vs. Gly36 SASP-4 variant [116]. While their SASP-4 variant plays a major role in the strong spore resistance properties of type A chromosomal cpe strains, other factors may also contribute [117, 118].
+
+Immunology
+There is no evidence that immune responses contribute substantially to the rapid resolution of most C. perfringens type F food poisoning cases. Instead, symptoms of this illness are thought to quickly abate due to CPE-induced diarrhea flushing unbound toxin and C. perfringens from the GI tract. Most people have CPE antibodies in their serum but there is no evidence that prior exposure to C. perfringens type F food poisoning provides long-term protection against future acquisition of this illness [119, 120].
+
+Treatment and Prevention
+Treatment of C. perfringens type F food poisoning is symptomatic. However, recent studies showed that mepacrine could be a potential therapeutic since it can inhibit CPE action in vitro [121].
+
+As mentioned earlier, the best approach to prevent this food poisoning is to thoroughly cook foods and then hold them at temperatures &lt;4°C or &gt;65°C. No vaccine is licensed for prevention of C. perfringens type F food poisoning studies. However, the C-terminal domain of CPE, which is noncytotoxic and does not cause GI tract effects, contains a neutralizing epitope [1, 48]. Immunization of mice with a conjugate consisting of a peptide containing this CPE epitope coupled to a thyroglobulin carrier induced high titers of CPE-neutralizing antibodies in mice, suggesting this epitope could be a vaccine candidate [122].
+
+CPE-ASSOCIATED NON-FOODBORNE HUMAN GI DISEASES
+C. perfringens type F isolates are also responsible for 5–15% of all non-foodborne human GI disease cases [2, 123, 124], which include antibiotic-associated diarrhea (AAD) and sporadic diarrhea. In CPE-associated AAD, patients receiving antibiotics become colonized, often from the nosocomial environment, by type F strains of C. perfringens [124–126]. CPE-associated nonfoodborne GI disease cases often last longer (up to several weeks) and are typically more severe than most cases of C. perfringens type F food poisoning, particularly in the elderly [124–126].
+
+The more chronic duration of CPE-associated nonfoodborne GI diseases may be attributable to their superior intestinal colonizing ability compared to type F food poisoning strains. In vitro studies [127] showed that nonfoodborne human GI disease strains adhere much better than type F chromosomal cpe strains to human enterocyte-like Caco-2 cells. This enhanced adherence correlates with the ability of the CPE-associated nonfoodborne GI disease strains, but not chromosomal cpe type F food poisoning strains, to produce NanI sialidase [127]. Studies [127] with nanI null mutants of a nonfoodborne human GI disease strain confirmed a role for this sialidase in Caco-2 cell adherence, where it likely trims the host cell surface to promote bacterial adherence via a combination of surface charge reduction and exposure of adhesin receptors. In addition, sialic acid generated by NanI from host sources such as enterocyte/colonocyte surfaces or GI tract mucus may facilitate the intestinal growth of C. perfringens [128]. Interestingly, NanI can also increase the activity of CPE and several other intestinally-active C. perfringens toxins by enhancing their binding to host cells [129, 130].
+
+As mentioned earlier, virtually all C. perfringens type F isolates causing CPE-associated nonfoodborne human GI diseases carry a plasmid cpe gene, in contrast to the chromosomal cpe gene present in most C. perfringens type F food poisoning isolates [82, 83, 89, 93, 94]. The presence of the cpe gene on plasmids, which are conjugative [101], may contribute to the development of CPE-associated nonfoodborne diseases. Unlike C. perfringens type F food poisoning, which develops following the ingestion of massive numbers of bacteria, CPE-associated nonfoodborne GI diseases likely involve ingestion of low numbers of C. perfringens[2]. Therefore, inside the GI tract, the presence of the cpe gene on plasmids may result in conjugative transfer of this toxin gene to C. perfringens in the normal intestinal microbiota, thereby helping to establish and amplify the infection during CPE-associated nonfoodborne GI disease.
+
+OTHER HUMAN GI DISEASES CAUSED BY C. perfringens
+Enteritis necroticans
+C. perfringens type C strains cause a disease named enteritis necroticans (EN), which was first identified in malnourished people in post-World War II Germany, where it was known as Darmbrand [80]. EN, known locally as pigbel, was the leading cause of childhood death in Papua New Guinea during the 1960’s-70’s [131, 132]. For special occasions, villagers in the Papua New Guinea highlands would barbecue a pig in a pit dug in the ground, thus allowing contamination of the meat with type C strains present in the environment (soil or pigs). When that food is ingested, beta toxin (CPB) was produced in the intestines and then caused both a necrohemorrhagic enteritis and enterotoxemia. While the presence of high trypsin levels in the intestines of well-fed people with a normal diet rapidly inactivates CPB, the diet in the highlands population was poor in protein (which reduces trypsin production) but rich in sweet potatoes (which have a trypsin inhibitor), rendering the local people (especially children) highly susceptible to CPB. Type C-induced EN outbreaks occur sporadically in malnourished populations in other developing countries [131]. Individual cases are observed occasionally in developed countries, particularly in people with underlying pancreatic diseases such as diabetes [133].
+
+Beta toxin (CPB) is necessary for type C strains to cause EN [134]. However, some strains (including many Darmbrand strains) produce only low amounts of CPB, often along with low amounts of CPE [135]. For those strains, it has been shown [135] that CPB and CPE can act synergistically in the intestines to cause pathology. CPB, also a pore-forming toxin [6], has been poorly studied. For example, the receptor for this toxin remains unknown.
+
+The cpb gene is always plasmid-borne in type C strains; occasionally this gene is located on the same plasmid carrying a cpe gene [79, 82]. Plasmids carrying the cpb gene are predicted to be conjugative since they typically carry the tcp locus; however, this has not yet been evaluated [82]. Adjacent to the cpb gene are insertion sequences that may mobilize the cpb gene [79, 82].
+
+The only treatment for EN is prompt intestinal surgery to remove affected portions of the small intestine [131]. Immunization with a CPB toxoid during the 1980’s-90’s greatly reduced the prevalence of EN in Papua New Guinea [131, 132].
+
+Another C. perfringens foodborne human disease?
+Recently, there were reports [7, 8] of several Japanese food poisoning outbreaks that apparently involved cpe-negative C. perfringens type A strains. Analysis of those strains determined they produce a binary toxin whose A and B components share 44% and 37% identity, respectively, with C. perfringens iota toxin. This new binary toxin (named CPILE or BEC by different groups) structurally resembles iota toxin and, like iota toxin, can ADP-ribosylate actin [136, 137]. It causes fluid accumulation in rabbit ileal loops and null mutants that do not produce the binary toxin lose their intestinal virulence, however, complementation of those mutants has not yet performed [7]. Additional research is needed to address the overall importance of strains producing CPILE/BEC for human foodborne disease, e.g., how common are outbreaks caused by these bacteria both inside and outside of Japan?
+
+C. perfringens ANIMAL DISEASES OF INTESTINAL ORIGIN
+C. perfringens type B, C and D strains, and perhaps certain type A and E strains, can cause enteritis, colitis, enterocolitis and/or enterotoxemia in livestock, while some type A strains are responsible for necrotic enteritis of poultry (Table 2). Like C. perfingens human enteric diseases, these animal diseases are not intoxications but true infections resulting from C. perfringens producing toxins in the intestines. Molecular Koch’s postulate analyses have confirmed a role for epsilon toxin in type D infections, beta toxin in type C infections and NetB toxin in avian necrotic enteritis [9, 134, 138]. Each of those pore-forming toxins is plasmid-encoded [82]. Detailed discussion of these animal diseases is beyond the scope of this chapter, so readers are directed to several recent reviews on this subject [6, 139–141].
+
+Acknowledgments
+Preparation of this chapter was generously supported, in part, by grant R01 AI019844–35 from the National Institute of Allergy and Infectious Diseases. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+
+Because of page limitations, this chapter has cited published reviews for many older studies.
+
+Figure 1. Structure of CPE (Panel A) and the C-terminal CPE structure bound to a claudin-4 receptor (Panel B).
+Panel A: structure of the CPE monomer, colored from blue at the N-terminus to red at the C-terminus. Note the presence of two distinct domains, including the C-terminal domain (red/yellow) mediating receptor binding and the blue-green N-terminal domain mediating oligomerization, membrane insertion, and pore formation. The alpha helix labeled alpha A is located at the TM1 region that becomes a β-hairpin when CPE is assembled in the prepore. β-hairpins from the seven CPE molecules in the prepore are then thought to form a β-barrel that inserts into membranes to form the active pore. Panel B: Structure of the C-terminal CPE region (C-CPE) bound to the human claudin-4 receptor. The claudin receptor is rainbow-colored while C-CPE is purple. The membrane orientation of the claudin receptor, including the transmembrane helices, is also shown. Panels A and B are reproduced with permission from [42, 66] respectively.
+
+Figure 2. Model for the CPE mechanism of action.
+Top left, CPE binds to receptors forming a small complex that contains both receptor claudins and nonreceptor claudins, as well as CPE. At 37°C, several small complex interact to form a prepore on the membrane surface. Portions of CPE in the prepore insert into the membrane to form a pore that allows Ca+2 entry into the cytoplasm. With high CPE doses, there is a massive Ca+2 entry that causes strong calpain activation to trigger oncosis (a form of necrotic cell death). At low CPE doses, there is a more limited Ca+2 entry that causes a mild calpain activation; this results in mitochondrial membrane depolarization, cytochrome C release and caspase-3 activation to cause death by apoptosis. Dying CPE-treated cells undergo morphologic damage that exposes their basolateral surface to CPE, resulting in formation of a second large complex containing occludin (as well as CPE and claudins), which induces internalization of these molecules. This effect may contribute to paracellular permeability changes, at least in cultured cells. Reproduced with permission from [54].
+
+Figure 3. Organization of cpe loci in type C, D, E and F strains of C. perfringens.
+(A) Organization of plasmid-borne cpe loci in type F, E, C, and D strains. (B) Organization of the type F chromosome cpe locus. Asterisks indicate a region with similarity to sequences present downstream of the cpe gene in F4969, except for the absence of an IS1470-like gene. Modified with permission from [82].
+
+Figure 4: Model of C. perfringens sporulation and enterotoxin production.
+Via the Agr-like quorum sensing system, CcpA and CodY and unidentified intermediates, a histidine kinase(s) affects spooA expression and/or possibly Spo0A phosphorylation to initiate sporulation. This triggers a sigma factor cascade, where SigF controls production of three other sporulation-associated sigma factors (SigE, SigG and SigK). SigE and SigK then regulate CPE production during sporulation by enhancing cpe expression. All four sigma factors are needed for sporulation. Reproduced with permission from [142].
+
+Table 1. Revised C. perfringens toxin-based typing scheme.
+
+Toxinotype	Toxin Production	
+α-toxin (plc or cpa)	β-toxin (cPb)	ε-toxin (etx)	ι-toxin (iap and ipb)	CPE (cpe)	NetB (netB)	
+A	+	
+              -
+            	
+              -
+            	
+              -
+            	
+              -
+            	
+              -
+            	
+B	+	+	+	
+              -
+            	
+              -
+            	
+              -
+            	
+C	+	+	
+              -
+            	
+              -
+            	+/−	
+              -
+            	
+D	+	−	+	−	+/−	−	
+E	+	
+              -
+            	
+              -
+            	+	+/−	
+              -
+            	
+F	+	
+              -
+            	
+              -
+            	
+              -
+            	+	
+              -
+            	
+G	+	−	−	−	−	+	
++ means this toxin is produced by all strains of this type; − means this toxin is produced by no strains of this type ; +/− means this toxin is produced by some strains of this type
+
+Table 2: Clostridium perfringens enteric diseases of livestock and poultry
+
+Type	Main enteric disease	Toxin	
+A	Necrotic enteritis in chickens, turkeys and possibly other avian species	NetB (necrotic enteritis B-like toxin)	
+Possible necrotizing and hemorrhagic enteritis in dogs and foals	NetF ? (necrotic enteritis F-like toxin)	
+B	Lamb dysentery; possible necrotizing enteritis in horses	CPB (beta-toxin), ETX (epsilon toxin)	
+C	Necrotizing enteritis in neonatal calves, foals, lambs, piglets and possibly other species	CPB (CPE may be synergistic in some cases)	
+D	Enterotoxemia in sheep, goats and cattle	ETX	
+E	Possible hemorrhagic enteritis in cattle and rabbits	ITX (iota toxin)	
+F	Possible enteric disease in horses, dogs and other species	CPE (enterotoxin ?)	
+G	Avian Necrotic Enteritis	NetB	
+
+   References
+1. McClane BA , Robertson SL , Li J . 2013 
+Clostridium perfringens, p. 465 –89 . In Doyle MP  and Buchanan RL  (ed.), Food Microbiology: Fundamentals and Frontiers , 4th ed. 
+ASM press , Washington D.C .
+2. McClane BA , Uzal FA , Miyakawa MF , Lyerly D , Wilkins TD . 2006 
+The Enterotoxic Clostridia, p. 688 –752 . In Dworkin M , Falkow S , Rosenburg E , Schleifer H  and Stackebrandt E  (ed.), The Prokaryotes ., 3rd ed 
+Springer NY press , New York .
+3. Li J , Sayeed S , McClane BA . 2007 
+Prevalence of enterotoxigenic Clostridium perfringens isolates in Pittsburgh (Pennsylvania) area soils and home kitchens . Appl Environ Microbiol 
+73 :7218 –7224 .17905877 
+4. Carman RJ , Sayeed S , Li J , Genheimer CW , Hiltonsmith MF , Wilkins TD , McClane BA . 2008 
+Clostridium perfringens toxin genotypes in the feces of healthy North Americans . Anaerobe 
+14 :102 –108 .18353695 
+5. Rood JI . 2007 
+Clostridium perfringens and histotoxic disease, p. 753 –70 . In Dworkin M , Falkow S , Rosenberg E , Schleifer KH  and Stackebrandt E  (ed.), The Prokaryotes: A handbook on the biology of bacteria. , 3 ed , vol. 4 
+Springer , New York .
+6. Uzal FA , Freedman JC , Shrestha A , Theoret JR , Garcia J , Awad MM , Adams V , Moore RJ , Rood JI , McClane BA . 2014 
+Towards an understanding of the role of Clostridium perfringens toxins in human and animal disease . Future Microbiol 
+9 :361 –377 .24762309 
+7. Yonogi S , Matsuda S , Kawai T , Yoda T , Harada T , Kumeda Y , Gotoh K , Hiyoshi H , Nakamura S , Kodama T , Iida T . 2014 
+BEC, a novel enterotoxin of Clostridium perfringens found in human clinical isolates from acute gastroenteritis outbreaks . Infect Immun 
+82 :2390 –2409 .24664508 
+8. Irikura D , Monma C , Suzuki Y , Nakama A , Kai A , Fukui-Miyazaki A , Horiguchi Y , Yoshinari T , Sugita-Konishi Y , Kamata Y . 2015 
+Identification and characterization of a new enterotoxin produced by Clostridium perfringens isolated from food poisoning outbreaks . PLoS One 
+10 :e0138183 . doi:10.1371/journal.pone.0138183 . 26584048 
+9. Keyburn AL , Boyce JD , Vaz P , Bannum TL , Ford ME , Parker D , Di Rubbo A , Rood JI , Moore RJ . 2008 
+NetB, a new toxin that is associated with avian necrotic enteritis caused by Clostridium perfringens . PLoS Pathog 
+4 :e26 . doi:10.1371/journal.ppat.0040026 . 18266469 
+10. Mehdizadeh Gohari I , Parreira VR , Timoney JF , Fallon L , Slovis N , Prescott JF . 2016 
+NetF-positive Clostridium perfringens in neonatal foal necrotising enteritis in Kentucky . Vet Rec 
+178 :216 . doi:10.1136/vr.103606 . 
+11. Rood JI , Adams V , Lacy J , Lyras D , McClane BA , Melville SB , Moore RJ , Popoff MR , Sarker M , Songer JG , Uzal FA , and Van Immerseel F . 2018 
+Expansion of the Clostridium perfringens toxin-based typing scheme . Anaerobe . In press. 
+12. Scallan E , Hoekstra RM , Angulo FJ , Tauxe RV , Widdowson M , Roy S , Jones JL , Griffin PM . 2011 
+Foodborne illness acquired in the United States-major pathogens . Emerg Infect Dis 
+17 :7 –15 .21192848 
+13. Centers for Disease Control and Prevention . https://www.cdc.gov/foodsafety/diseases/clostridium-perfringens.html .
+14. Hoffmann S , Batz MB , Morris JG Jr.
+2012 
+Annual cost of illness and quality-adjusted life year losses in the United States due to 14 foodborne pathogens . J Food Protect 
+75 :1292 –1302 .
+15. Yibar A , Cetin E , Ata Z , Erkose E , Tayar M . 2018 
+Clostridium perfringens contamination in retail meat and meat based products in Bursa, Turkey . Foodborne Pathog Dis  doi: 10.1089/fpd.2017.2350 . 
+16. Wen Q , McClane BA . 2004 
+Detection of enterotoxigenic Clostridium perfringens type A isolates in American retail foods . Appl Environ Microbiol 
+70 :2685 –2691 .15128519 
+17. Sarker MR , Shivers RP , Sparks SG , Juneja VK , McClane BA . 2000 
+Comparative experiments to examine the effects of heating on vegetative cells and spores of Clostridium perfringens isolates carrying plasmid versus chromosomal enterotoxin genes . Appl Environ Microbiol 
+66 :3234 –3240 .10919775 
+18. Wrigley D , Hanwella H , Thon B . 1995 
+Acid exposure enhances sporulation of certain strains of Clostridium perfringens . Anaerobe 
+1 :163 –269 .
+19. Philippe V , Mendez M , Huang IH , Orsaria L , Sarker MR , Grau RR . 2006 
+Inorganic phosphate induces spore morphogenesis and enterotoxin production in the intestinal pathogen Clostridium perfringens . Infect Immun 
+74 :3651 –3666 .16714597 
+20. Yasugi M , Okuzaki D , Kuwana R , Takamatsu H , Fujita M , Saker MR , Miyake M . 2016 
+Transcriptional profile during deoxycholate-induced sporulation in a Clostridium perfringens isolate causing foodborne illness . Appl Environ Microbiol 
+82 :2929 –2942 .26969700 
+21. Sarker MR , Carman RJ , McClane BA . 1999 
+Inactivation of the gene (cpe) encoding Clostridium perfringens enterotoxin eliminates the ability of two cpe-positive C. perfringens type A human gastrointestinal disease isolates to affect rabbit ileal loops . Mol Microbiol 
+33 :946 –958 .10476029 
+22. Duncan CL , Strong DH . 1969 
+Ileal loop fluid accumulation and production of diarrhea in rabbits by cell-free products of Clostridium perfringens . J Bacteriol 
+100 :86 –94 .4310083 
+23. Hauschild AH , Niilo L , Dorward WJ . 1970 
+Enteropathogenic factors of food-poisoning Clostridium perfringens type A . Can J Microbiol 
+16 :331 –338 .4315944 
+24. Duncan CL . 1973 
+Time of enterotoxin formation and release during sporulation of Clostridium perfringens type A . J Bacteriol 
+113 :932 –936 .4347930 
+25. Smedley JG 3rd, Saputo J , Parker JC , Fernandez-Miyakawa ME , Robertson SL , McClane BA , Uzal FA . 2008 
+Noncytotoxic Clostridium perfringens enterotoxin (CPE) variants localize CPE intestinal binding and demonstrate a relationship between CPE-induced cytotoxicity and enterotoxicity . Infect Immun 
+76 :3793 –3800 .18505809 
+26. Sherman S , Klein E , McClane BA . 1994 
+Clostridium perfringens type A enterotoxin induces concurrent development of tissue damage and fluid accumulation in the rabbit ileum . J Diarrheal Dis Res 
+12 :200 –207 .
+27. McDonel JL , Duncan CL . 1977 
+Regional localization of activity of Clostridium perfringens type A enterotoxin in the rabbit ileum, jejunum and duodenum . J Infect Dis 
+136 :661 –666 .199674 
+28. Freedman JC , Shrestha A , McClane BA . 2016 
+Clostridium perfringens enterotoxin: action, genetics, and translational applications . Toxins 
+8 :pii: E73.  doi: 10.3390/toxins8030073 . 
+29. McDonel JL . 1986 
+Toxins of Clostridium perfringens types A, B, C, D, and E, p. 477 –517 . In Dorner F  and Drews H  (ed.), Pharmacology of Bacterial Toxins . Pergamon Press , Oxford .
+30. Shrestha A , Henderick MR , Bomberger JM , McClane BA . 2016 
+Bystander host cell killing of Clostridium perfringens enterotoxin . mBio 
+7 :pii:e02015 –16 .27965452 
+31. McDonel JL , Demers GW . 1982 
+In vivo effects of enterotoxin from Clostridium perfringens type A in rabbit colon: binding vs. biologic activity . J Infect Dis 
+145 :490 –494 .6279735 
+32. Garcia JP , Li J , Shrestha A , Freedman JC , Beingesser J , McClane BA , Uzal FA . 2014 
+Clostridium perfringens type A enterotoxin damages the rabbit colon . Infect Immun 
+82 :2211 –2218 .24643537 
+33. Fernandez Miyakawa ME , Pistone Creydt V , Uzal FA , McClane BA , Ibarra C . 2005 
+Clostridium perfringens enterotoxin damages the human intestine in vitro . Infect Immun 
+73 :8407 –8410 .16299340 
+34. Bos J , Smithee L , McClane BA , Distefano RF , Uzal F , Songer JG , Mallonee S , Crutcher JM . 2005 
+Fatal necrotizing colitis following a foodborne outbreak of enterotoxigenic Clostridium perfringens type A infection . Clin Infect Dis 
+40 :E78 –E83 .15844055 
+35. Eichner M , Augustin C , Fromm A , Piontek A , Walther W , Bucker , Fromm M , Krause G , Schulzke JD , Gunzel D  and Piontek J . 2017 
+In colon epithelia, Clostridium perfringens enterotoxin causes focal leaks by targeting claudin which are apically accessible due to tight junction derangement . J Infect Dis 
+217 :147 –157  doi: 10.1093/infdis/jix485 . 28968861 
+36. Centers for Disease Control and Prevention . 2010 
+Fatal foodborne Clostridium perfringens illness at a state psychiatric hospital--Louisiana, 2010 . Morb Mortal Wkly Rep 
+61 :605 –608 .
+37. Caserta JA , Robertson SL , Saputo J , Shrestha A , McClane BA , Uzal FA . 2011 
+Development and application of a mouse intestinal loop model to study the in vivo action of Clostridium perfringens enterotoxin . Infect Immun 
+79 :3020 –3027 .21628512 
+38. Czeczulin JR , Hanna PC , McClane BA . 1993 
+Cloning, nucleotide sequencing, and expression of the Clostridium perfringens enterotoxin gene in Escherichia coli . Infect Immun 
+61 :3429 –3439 .8335373 
+39. Melville SB , Collie RE , McClane BA . 1997 
+Regulation of enterotoxin production in Clostridium perfringens, p. 471 –87 . In Rood JI , McClane BA , Songer JG  and Titball R  (ed.), The Molecular Genetics and Pathogenesis of the Clostridia . London, London .
+40. Van Itallie CM , Betts L , Smedley JG 3rd, McClane BA , Anderson JM . 2008 
+Structure of the claudin-binding domain of Clostridium perfringens enterotoxin . J Biol Chem 
+283 :268 –274 .17977833 
+41. Takahashi A , Komiya E , Kakutani H , Yoshida T , Fujii M , Horiguchi Y , Mizuguchi H , Tsutsumi Y , Tsunoda S , Koizumi N , Isoda K , Yagi K , Watanabe Y , Kondoh M . 2008 
+Domain mapping of a claudin-4 modulator, the C-terminal region of C-terminal fragment of Clostridium perfringens enterotoxin, by site-directed mutagenesis . Biochem Pharmacol 
+75 :1639 –1648 .18342294 
+42. Briggs DC , Naylor CE , Smedley JG 3rd, Lukoyanova N , Robertson S , Moss DS , McClane BA , Basak AK . 2011 
+Structure of the food-poisoning Clostridium perfringens enterotoxin reveals similarity to the aerolysin-like pore-forming toxins . J Mol Biol 
+413 :138 –149 .21839091 
+43. Kitadokoro K , Nishimura K , Kamitani S , Fukui-Miyazaki A , Toshima H , Abe H , Kamata Y , Sugita-Konishi Y , Yamamoto S , Karatani H , Horiguchi Y . 2011 
+Crystal structure of Clostridium perfringens enterotoxin displays features of beta-pore-forming toxins . J Biol Chem 
+286 :19549 –19555 .21489981 
+44. Hanna PC , Wnek AP , McClane BA . 1989 
+Molecular cloning of the 3’ half of the Clostridium perfringens enterotoxin gene and demonstration that this region encodes receptor-binding activity . J Bacteriol 
+171 :6815 –6820 .2556374 
+45. Horiguchi Y , Akai T , Sakaguchi G . 1987 
+Isolation and function of a Clostridium perfringens enterotoxin fragment . Infect Immun 
+55 :2912 –2915 .2890582 
+46. Hanna PC , Mietzner TA , Schoolnik GK , McClane BA . 1991 
+Localization of the receptor-binding region of Clostridium perfringens enterotoxin utilizing cloned toxin fragments and synthetic peptides. The 30 C-terminal amino acids define a functional binding region . J Biol Chem 
+266 :11037 –11043 .1645721 
+47. Kokai-Kun JF , McClane BA . 1997 
+Deletion analysis of the Clostridium perfringens enterotoxin . Infect Immun 
+65 :1014 –1022 .9038311 
+48. Hanna PC , Wieckowski EU , Mietzner TA , McClane BA . 1992 
+Mapping functional regions of Clostridium perfringens type A enterotoxin . Infect Immun 
+60 :2110 –2114 .1373406 
+49. Granum PE , Whitaker JR , Skjelkvale R . 1981 
+Trypsin activation of enterotoxin from Clostridium perfringens type A . Biochim Biophys Acta 
+668 :325 –332 .6165395 
+50. Kokai-Kun JF , Benton K , Wieckowski EU , McClane BA . 1999 
+Identification of a Clostridium perfringens enterotoxin region required for large complex formation and cytotoxicity by random mutagenesis . Infect Immun 
+67 :6534 –6541 .
+51. Smedley JG 3rd, McClane BA . 2004 
+Fine-mapping of the N-terminal cytotoxicity region of Clostridium perfringens enterotoxin by site-directed mutagenesis . Infect Immun 
+72 :6914 –6923 .15557612 
+52. Chen J , Theoret JR , Shrestha A , Smedley JG 3rd, McClane BA . 2012 
+Cysteine scanning mutagenesis supports the importance of Clostridium perfringens enterotoxin amino acids 80–106 for membrane insertion and pore formation . Infect Immun 
+80 :4078 –4088 .22966051 
+53. Smedley JG 3rd, Uzal FA , McClane BA . 2007 
+Identification of a prepore large-complex stage in the mechanism of action of Clostridium perfringens enterotoxin . Infect Immun 
+75 :2381 –2390 .17307943 
+54. Shrestha A , Uzal FA , McClane BA . 2016 
+The interaction of Clostridium perfringens enterotoxin with receptor claudins . Anaerobe 
+41 :18 –26 .27090847 
+55. Katahira J , Sugiyama H , Inoue N , Horiguchi Y , Matsuda M , Sugimoto N . 1997 
+Clostridium perfringens enterotoxin utilizes two structurally related membrane proteins as functional receptors in vivo . J Biol Chem 
+272 :26652 –26658 .9334247 
+56. Katahira J , Inoue N , Horiguchi Y , Matsuda M , Sugimoto N . 1997 
+Molecular cloning and functional characterization of the receptor for Clostridium perfringens enterotoxin . J. Cell Biol . 136 :1239 –1247 .9087440 
+57. Saitoh Y , Suzuki H , Tani K , Nishikawa K , Irei K , Ogura Y , Tamura A , Tsukita S , Fujiyoshi Y . 2015 
+Structural insight into tight junction disassembly by Clostridium perfringens enterotoxin . Science 
+347 :775 –778 .25678664 
+58. Fujita K , Katahira J , Horiguchi Y , Sonoda N , Furuse M , Tskuita S . 2000 
+Clostridium perfringens enterotoxin binds to the second extracellular loop of claudin-3, a tight junction membrane protein . FEBS Lett 
+476 :258 –261 .10913624 
+59. Winkler L , Gehring C , Wenzel A , Muller SL , Piehl C , Krause G , Blasig IE , Piontek J . 2009 
+Molecular determinants of the interaction between Clostridium perfringens enterotoxin fragments and claudin-3 . J Biol Chem 
+284 :18863 –18872 .19429681 
+60. Shrestha A , McClane BA . 2013 
+Human claudin-8 and −14 are receptors capable of conveying the cytotoxic effects of Clostridium perfringens enterotoxin . mBio 
+4 :pii:e00594–12. 
+61. Sonoda N , Furuse M , Sasaki H , Yonemura S , Katahira J , Horiguchi Y , Tsukita S . 1999 
+Clostridium perfringens enterotoxin fragments removes specific claudins from tight junction strands: evidence for direct involvement of claudins in tight junction barrier . J Cell Biol 
+147 :195 –204 .10508866 
+62. Robertson SL , Smedley JG 3rd, McClane BA . 2010 
+Identification of a claudin-4 residue important for mediating the host cell binding and action of Clostridium perfringens enterotoxin . Infect Immun 
+78 :505 –517 .19884339 
+63. Piontek J , Winkler L , Wolburgh H , Muller SL , Zuleger N , Piehl C , Wiesner B , Krause E , Blasig IE . 2008 
+Formation of tight junction:determinants of homophilic interaxtion between classic claudins . FASEB J 
+1 :146 –158 .
+64. Veshnyakova A , Protze J , Rossa J , Blasig IE , Krause G , Piontek J . 2010 
+On the interaction of Clostridium perfringens enterotoxin with claudins . Toxins 
+2 :1336 –1356 .22069641 
+65. Yelland TS , Naylor CE , Bagoban T , Savva CG , Moss DS , McClane BA , Blasig IE , Popoff M , Basak AK . 2014 
+Structure of a C. perfringens enterotoxin mutant in complex with a modified claudin-2 extracellular loop2 . J Mol Biol 
+426 :3134 –3147 .25020226 
+66. Shinodo T , Shinya N , Ito K , Ohsawa N , Terada T , Hirata K , Kawano Y , Yamamoto M , Kimura-Someya T , Yokoyama S  and Shirouzu M . 2016 
+Structural basis for disruption of claudin assembly in tight junctions by an enterotoxin . Sci Rep 
+6 :33632 . doi: 10.1038/srep33632 27647526 
+67. Wieckowski EU , Wnek AP , McClane BA . 1994 
+Evidence that an ~50kDa mammalian plasma membrane protein with receptor-like properties mediates the amphiphilicity of specifically-bound Clostridium perfringens enterotoxin . J Biol Chem 
+269 :10838 –10848 .8144671 
+68. Robertson SL , Smedley JG 3rd, Singh U , Chakrabarti G , Van Itallie CM , Anderson JM , McClane BA . 2007 
+Compositional and stoichiometric analysis of Clostridium perfringens enterotoxin complexes in Caco-2 cells and claudin 4 fibroblast transfectants . Cell Microbiol 
+9 :2734 –2755 .17587331 
+69. McClane BA . 1984 
+Osmotic stabilizers differentially inhibit permeability alterations induced in Vero cells by Clostridium perfringens enterotoxin . Biochim Biophys Acta 
+777 :99 –106 .6487622 
+70. Chakrabarti G , McClane BA . 2005 
+The importance of calcium influx, calpain and calmodulin for the activation of CaCo-2 cell death pathways by Clostridium perfringens enterotoxin . Cell Microbiol 
+7 :129 –146 .15617529 
+71. Matsuda M , Sugimoto N . 1979 
+Calcium-independent and calcium-dependent steps in action of Clostridium perfringens enterotoxin . Biochem Biophys Res Commun 
+91 :629 –636 .229852 
+72. Sugimoto N , Ozutsumi K , Matsuda M . 1985 
+Morphological alterations and changes in cellular cations induced by Clostridium perfringens type A enterotoxin in tissue culture cells . Eur J Epidemiol 
+1 :264 –273 .2429863 
+73. Chakrabarti G , Zhou X , McClane BA . 2003 
+Death pathways activated in CaCo-2 cells by Clostridium perfringens enterotoxin . Infect Immun 
+71 :4260 –4270 .12874301 
+74. McClane BA , McDonel JL . 1979 
+The effects of Clostridium perfringens enterotoxin on morphology, viability and macromolecular synthesis . J Cell Physiol 
+99 :191 –200 .222780 
+75. Singh U , Mitic LL , Wieckowski E , Anderson JM , McClane BA . 2001 
+Comparative biochemical and immunochemical studies reveal differences in the effects of Clostridium perfringens enterotoxin on polarized CaCo-2 cells versus Vero cells . J Biol Chem 
+276 :33402 –33412 .11445574 
+76. Singh U , Van Itallie CM , Mitic LL , Anderson JM , McClane BA . 2000 
+CaCo-2 cells treated with Clostridium perfringens enterotoxin form multiple large complex species, one of which contains the tight junction protein occludin . J Biol Chem 
+275 :18407 –18417 .10749869 
+77. Kokai-Kun JF , Songer JG , Czeczulin JR , Chen F , McClane BA . 1994 
+Comparison of western immunoblots and gene detection assays for identification of potentially enterotoxigenic isolates of Clostridium perfringens . J Clin Microbiol 
+32 :2533 –2539 .7814493 
+78. Sayeed S , Li J , McClane BA . 2007 
+Virulence plasmid diversity in Clostridium perfringens type D isolates . Infect Immun 
+75 :2391 –2398 .17339362 
+79. Gurjar A , Li J , McClane BA . 2010 
+Characterization of toxin plasmids in Clostridium perfringens type C isolates . Infect Immun 
+78 :4860 –4869 .20823204 
+80. Ma M , Li J , McClane BA . 2012 
+Genotypic and phenotypic characterization of Clostridium perfringens isolates from Darmbrand cases in post-World War II Germany . Infect Immun 
+80 :4354 –4363 .23027533 
+81. Sayeed S , Li J , McClane BA . 2010 
+Characterization of virulence plasmid diversity among Clostridium perfringens type B isolates . Infect Immun 
+78 :495 –504 .19858300 
+82. Li J , Adams V , Bannam TL , Miyamoto K , Garcia JP , Uzal FA , Rood JI , McClane BA . 2013 
+Toxin plasmids of Clostridium perfringens . Microbiol Mol Biol Rev 
+77 :208 –233 .23699255 
+83. Cornillot E , Saint-Joanis B , Daube G , Katayama S , Granum PE , Carnard B , Cole ST . 1995 
+The enterotoxin gene (cpe) of Clostridium perfringens can be chromosomal or plasmid-borne . Mol Microbiol 
+15 :639 –647 .7783636 
+84. Collie RE , Kokai-Kun JF , McClane BA . 1998 
+Phenotypic characterization of enterotoxigenic Clostridium perfringens isolates from non-foodborne human gastrointestinal diseases . Anaerobe 
+4 :69 –79 .16887625 
+85. Miyamoto K , Yumine N , Mimura K , Nagahama M , Li J , McClane BA , Akimoto S . 2011 
+Identification of novel Clostridium perfringens type E strains that carry an iota toxin plasmid with a functional enterotoxin gene . PLoS One 
+6 :e20376 .21655254 
+86. Li J , Miyamoto K , Sayeed S , McClane BA . 2010 
+Organization of the cpe locus in CPE-positive Clostridium perfringens type C and D isolates . PLoS One 
+5 :e10932 .20532170 
+87. Billington SJ , Wieckowski EU , Sarker MR , Bueschel D , Songer JG , McClane BA . 1998 
+Clostridium perfringens type E animal enteritis isolates with highly conserved, silent enterotoxin sequences . Infect Immun 
+66 :4531 –4536 .9712814 
+88. Miyamoto K , Wen Q , McClane BA . 2004 
+Multiplex PCR genotyping assay that distinguishes between isolates of Clostridium perfringens type A carrying a chromosomal enterotoxin gene (cpe) locus, a plasmid cpe locus with an IS1470-like sequence, or a plasmid cpe locus with an IS1151 sequence . J Clin Microbiol 
+42 :1552 –1558 .15071003 
+89. Collie RE , McClane BA . 1998 
+Evidence that the enterotoxin gene can be episomal in Clostridium perfringens isolates associated with nonfoodborne human gastrointestinal diseases . J Clin Microbiol 
+36 :30 –36 .9431915 
+90. Lindstorm M , Heikinheimo A , Lahti P , Korkeala H . 2011 
+Novel insight into the epidemiology of Clostridium perfringens type A food poisoning . Food Microbiol 
+12 :192 –198 .
+91. Grant KA , Kenyon S , Nwafor I , Plowman J , Ohai C , Halford-Maw R , Peck MW , McLauchlin J . 2008 
+The identification and characterization of Clostridium perfringens by real-time PCR, location of enterotoxin gene, and heat resistance . Foodborne Pathog Dis 
+5 :629 –639 .18681798 
+92. Myers GS , Rasko DA , Cheung JK , Ravel J , Seshadri R , DeBoy RT , Ren Q , Varga J , Awad MM , Brinkac LM , Daugherty SC , Haft DH , Dodson RJ , Madupu R , Nelson WC , Rosovitz MJ , Sullivan SA , H. K , Dimitrov GI , Watkins KL , Mulligan S , Benton J , Radune D , Fisher DJ , Atkins HS , Hiscox T , Jost BH , Billington SJ , Songer JG , McClane BA , Titball RW , Rood JI , Melville SB , Paulsen IT . 2006 
+Skewed genomic variability in strains of the toxigenic bacterial pathogen, Clostridium perfringens . Genome Res 
+16 :1031 –1040 .16825665 
+93. Wen Q , Miyamoto K , McClane BA . 2003 
+Development of a duplex PCR genotyping assay for distinguishing Clostridium perfringens type A isolates carrying chromosomal enterotoxin (cpe) genes from those carrying plasmid-borne enterotoxin (cpe) genes . J Clin Microbiol 
+41 :1494 –1498 .12682135 
+94. Miyamoto K , Wen Q , McClane BA . 2004 
+Multiplex PCR genotyping assay that distinguishes between isolates of Clostridium perfringens type A carrying a chromosomal enterotoxin gene (cpe) locus, a plasmid cpe locus with an IS1470-like sequence or a plasmid cpe locus with an IS1151 sequence . J Clin Microbiol 
+41 :1552 –1558 .
+95. Brynestad S , Granum PE . 1999 
+Evidence that Tn5565, which includes the enterotoxin gene in Clostridium perfringens, can have a circular form which may be a transposition intermediate . FEMS Microbiol Lett 
+170 :281 –286 .9919679 
+96. Brynestad S , Synstad B , Granum PE . 1997 
+The Clostridium perfringens enterotoxin gene is on a transposable element in type A human food poisoning strains . Microbiology 
+143 :2109 –2115 .9245800 
+97. Deguchi A , Miyamoto K , Kuwahara T , Miki Y , Kaneko I , Li J , McClane BA , Akimoto S . 2009 
+Genetic characterization of type A entertoxigenic Clostridium perfringens strains . PLoS One 
+4 :e5598 . doi: 10.1371/journal.pone.0005598 . 19479065 
+98. Miyamoto K , Fisher DJ , Li J , Sayeed S , Akimoto S , McClane BA . 2006 
+Complete sequencing and diversity analysis of the enterotoxin-encoding plasmids in Clostridium perfringens type A non-food-borne human gastrointestinal disease isolates . J Bacteriol 
+188 :1585 –1598 .16452442 
+99. Li J , Miyamoto K , McClane BA . 2007 
+Comparison of virulence plasmids among Clostridium perfringens type E isolates . Infect Immun 
+75 :1811 –1819 .17261608 
+100. Bannam TL , Teng WL , Bulach D , Lyras D , Rood JI . 2006 
+Functional identification of conjugation and replication regions of the tetracycline resistance plasmid pCW3 from Clostridium perfringens . J Bacteriol 
+188 :4942 –4951 .16788202 
+101. Brynestad S , Sarker MR , McClane BA , Granum PE , Rood JI . 2001 
+The enterotoxin (CPE) plasmid from Clostridium perfringens is conjugative . Infect Immun 
+69 :3483 –3487 .11292780 
+102. Melville SB , Labbe R , Sonenshein AL . 1994 
+Expression from the Clostridium perfringens cpe promoter in C. perfringens and Bacillus subtilus . Infect Immun 
+62 :5550 –5558 .7960138 
+103. Zhao Y , Melville SB . 1998 
+Identification and characterization of sporulation-dependent promoters upstream of the enterotoxin gene (cpe) of Clostridium perfringens . J Bacteriol 
+180 :136 –142 .9422603 
+104. Czeczulin JR , Collie RE , McClane BA . 1996 
+Regulated expression of Clostridium perfringens enterotoxin in naturally cpe-negative type A, B, and C isolates of C. perfringens . Infect Immun 
+64 :3301 –3309 .8757868 
+105. Fimlaid KA , Shen A . 2015 
+Diverse mechanisms regulate sporulation sigma factor activity in the Firmicutes . Curr Opin Microbiol 
+24 :88 –95 .25646759 
+106. Harry KH , Zhou R , Kroos L , Melville SB . 2009 
+Sporulation and enterotoxin (CPE) synthesis are controlled by the sporulation-specific factors SigE and SigK in Clostridium perfringens . J Bacteriol 
+191 :2728 –2742 .19201796 
+107. Li J , McClane BA . 2010 
+Evaluating the involvement of alternative sigma factors SigF and SigG in Clostridium perfringens sporulation and enterotoxin synthesis . Infect Immun 
+78 :4286 –4293 .20643850 
+108. Huang IH , Waters M , Grau RR , Sarker MR . 2004 
+Disruption of the gene (spo0A) encoding sporulation transcription factor blocks endospore formation and enterotoxin productioin in enterotoxigenic Clostridium perfringens type A . FEMS Microbiol Lett 
+233 :233 –240 .15063491 
+109. Li J , Freedman JC , Evans DR , McClane BA . 2017 
+CodY promotes sporulation and enterotoxin production by Clostridium perfringens Type A strain SM101 . Infect Immun 
+85 :pii:e00241–17.  doi: 10.1128/IAI.00241-17 
+110. Li J , Chen J , Vidal JE , McClane BA . 2011 
+The Agr-like quorum-sensing system regulates sporulation and production of enterotoxin and beta2 toxin by Clostridium perfringens type A non-food-borne human gastrointestinal disease strain F5603 . Infect Immun 
+79 :2451 –2459 .21464088 
+111. Varga J , Stirewalt VL , Melville SB . 2004 
+The CcpA protein is necessary for efficient sporulation and enterotoxin gene (cpe) regulation in Clostridium perfringens . J Bacteriol 
+186 :5221 –5229 .15292123 
+112. Li J , McClane BA . 2006 
+Comparative effects of osmotic, sodium nitrite-induced, and pH-induced stress on growth and survival of Clostridium perfringens type A isolates carrying chromosomal or plasmid-borne enterotoxin genes . Appl Environ Microbiol 
+72 :7620 –7625 .17041163 
+113. Li J , McClane BA . 2006 
+Further comparison of temperature effects on growth and survival of Clostridium perfringens type A isolates carrying a chromosomal or plasmid-borne enterotoxin gene . Appl Environ Microbiol 
+72 :4561 –4568 .16820444 
+114. Raju D , Sarker MR . 2007 
+Production of small, acid-soluble spore proteins in Clostridium perfringens nonfoodborne gastrointestinal disease isolates . Can J Microbiol 
+53 :514 –518 .17612607 
+115. Li J , McClane BA . 2008 
+A novel small acid soluble protein variant is important for spore resistance of most Clostridium perfringens food poisoning isolates . PLoS Pathog 
+4 :e1000056 . doi:10.1371/journal.ppat.1000056 . 18451983 
+116. Li J , Paredes-Sabja D , Sarker MR , McClane BA . 2009 
+Further charactrization of Clostridium perfringens small acid soluble protein-4 (Ssp4) properties and expression . PLoS One 
+4 :e6249 .doi:10.1371/journal.pone.0006249 . 19609432 
+117. Novak JS , Juneja VK , McClane BA . 2003 
+An ultrastructural comparison of spores from various strains of Clostridium perfringens and correlations with heat resistance parameters . Int J Food Microbiol 
+86 :239 –247 .12915035 
+118. Orsburn B , Melville SB , Popham D . 2008 
+Factors contributing to heat resistance of Clostridium perfringens endospores . Appl Environ Microbiol 
+74 :3328 –3335 .18378644 
+119. Kim Y , Lee K , Ryu S . 1998 
+A survey of human serum samples for antibody against Clostridium perfringens type A enterotoxin in human in Korea . Int J Food Microbiol 
+41 :239 –241 .9706792 
+120. Hobbs BC . 1979 
+Clostridium perfringens gastroenteritis, p. 131 –67 . In Riemann H  and Bryan FL  (ed.), Food-Borne Infections and Intoxications , Second Edition , second ed. 
+Academic Press , New York .
+121. Freedman JC , Hendericks MR , McClane BA . 2017 
+The potential therapeutic agent mepacrine protects Caco-2 cells against Clostridium perfringens enterotoxin action . mSphere 
+2 :pii:e00352–17.  doi:10.1128/mSphere.00352-17 
+122. Mietzner TA , Kokai-Kun JF , Hanna PC , McClane BA . 1992 
+A conjugated synthetic peptide corresponding to the C-terminal region of Clostridium perfringens type A enterotoxin elicits an enterotoxin-neutralizing antibody response in mice . Infect Immun 
+60 :3947 –3951 .1500207 
+123. Larcombe S , Hutton ML , Lyras D . 2016 
+Involvement of bacteria other than Clostridium difficile in antiboitic-associated diarrhoea . Trends Microbiol 
+24 :463 –476 .26897710 
+124. Carman RJ . 1997 
+Clostridium perfringens in spontaneous and antibiotic-associated diarrhoea of man and other animals . Rev Med Microbiol 
+8 :supplement 1 :S43 –S5 .
+125. Borriello SP . 1985 
+Newly described clostridial diseases of the gastrointestinal tract: Clostridium perfringens enterotoxin-associated diarrhea and neutropenic enterocolitis due to Clostridium septicum, p. 223 –8 . In Borriello SP  (ed.), Clostridia in Gastrointestinal Disease . CRC Press, Inc. , Boca Raton .
+126. Borriello SP . 1995 
+Clostridial diseases of the gut . Clin Infect Dis 
+20 
+Suppl 2 :S242 –250 .7548565 
+127. Li J , McClane BA . 2014 
+Contributions of NanI sialidase to Caco-2 cell adherence by Clostridium perfringens type A and C strains causing human intestinal disease . Infect Immun 
+82 :4620 –4630 .25135687 
+128. Li J , McClane BA . 2018 
+NanI sialidase can support the growth and survival of Clostridium perfringens strain F4969 in the presence of sialyated host macromolecules (Mucin) or Caco-2 cells . Infect Immun 
+86 :pii:e00547–17.  doi:10.1128/IAI.-17 . 
+129. Theoret J , Li J , Navarro MA , Garcia JP , Uzal FA , McClane BA . 2017 
+Native or proteolytically activated NanI Sialidase enhance the binding and cytotoxic activity of Clostridium perfringens enterotoxin and Beta toxin . Infect Immun 
+86 :pii:e00730–17.  doi: 10.1128/IAI.00730-17 . 
+130. Li J , Sayeed S , Robertson S , Chen J , McClane BA . 2011 
+Sialidases affect the host cell adherence and epsilon toxin-induced cytotoxicity of Clostridium perfringens type D strain CN3718 . PLoS Pathog 
+7 :e1002429 . doi: 10.1371/journal.ppat.1002429 . 22174687 
+131. Johnson S , Gerding DN . 1997 
+Enterotoxemic Infections, p. 117 –40 . In Rood JI , McClane BA , Songer JG  and Titbsall RW  (ed.), The Clostridia: Molecular Biology and Pathogenesis . Academic Press , London .
+132. Lawrence GW , Lehmann D , Anjan G , Coakley CA , Saleu G , Barker MJ , Davis MW . 1990 
+Impact of active immunisation against enteritis necroticans in Papua New Guinea . Lancet 
+336 :1165 –1167 .1978034 
+133. Petrillo TM , Beck-Sague CM , Songer JG , Abramowsky C , Fortenberry JD , Meacham L , Dean AG , Lee H , Bueschel DM , Nesheim SR . 2000 
+Enteritis necroticans (pigbel) in a diabetic child . N Engl J Med 
+342 :1250 –1253 .10781621 
+134. Sayeed S , Uzal FA , Fisher DJ , Saputo J , Vidal JE , Chen Y , Gupta P , Rood JI , McClane BA . 2008 
+Beta toxin is essential for the intestinal virulence of Clostridium perfringens type C disease isolate CN3685 in a rabbit ileal loop model . Mol Microbiol 
+67 :15 –30 .18078439 
+135. Ma M , Gurjar A , Theoret JR , Garcia JP , Beingesser J , Freedman JC , Fisher DJ , McClane BA , Uzal FA . 2014 
+Synergistic effects of Clostridium perfringens enterotoxin and beta toxin in rabbit small intestinal loops . Infect Immun 
+82 :2958 –2970 .24778117 
+136. Tonti W , Yoshida T , Tsurumura T , Irikura D , Monma C , Kamata Y , Tsuge H . 2017 
+Crystal structure and structure-based mutagenesis of actin-specific ADP-ribosylating toxin CPILE-a novel enterotoxin . PLoS One 
+12 :e0171278 . doi:10.1371/journal.pone.0171278 . 28199340 
+137. Kawahara K , Yonogi S , Munetomo R , Oki H , Yoshida T , Kumeda Y , Matsuda S , Kodama T , Ohkubo T , Iida T , Nakamura S . 2016 
+Crystal structure of the ADP-ribosylating component of BEC, the binary enterotoxin of Clostridium perfringens . Biochem Biophys Res Commun 
+480 :261 –267 .27751850 
+138. Garcia JP , Adams V , Beingesser J , Hughes ML , Poon R , Lyras D , Hill A , McClane BA , Rood JI , Uzal FA . 2013 
+Epsilon toxin is essential for the virulence of Clostridium perfringens type D infection in sheep, goats and mice . Infect Immun 
+81 :2405 –2414 .23630957 
+139. Cooper KK , Songer JG , Uzal FA . 2013 
+Diagnosing clostridial enteric disease in poultry . J Vet Diagn Invest 
+25 :314 –327 .23572451 
+140. Uzal FA , Songer JG . 2008 
+Diagnosis of Clostridium perfringens intestinal infections in sheep and goat . J Vet Diagn Invest 
+20 :253 –265 .18460610 
+141. Songer JG , Uzal FA . 2005 
+Clostridial enteric infections in pigs . J Vet Diagn Invest 
+17 :528 –536 .16475510 
+142. Li J , Paredes-Sabja D , Sarker M , McClane B . 2016 
+Clostridium perfringens sporulation and sporulation-associated toxin production . Microbiol Spectr 
+4 :doi: 10.1128/microbiolspec.TBS-0022-2015 . 
+

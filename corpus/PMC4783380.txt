@@ -1,0 +1,386 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   951006721632Health PlaceHealth PlaceHealth &amp; place1353-82921873-205424945103478338010.1016/j.healthplace.2014.04.011NIHMS744161ArticleDo minority and poor neighborhoods have higher access to fast-food restaurants in the United States? James Peter Postdoctoral Fellowpjames@hsph.harvard.eduHarvard School of Public Health, Department of Epidemiology, 401 Park Dr, 3rd Floor West, Boston, MA 02215, USA, Phone: 1-267-977-3105Arcaya Mariana C. Research Scientistmca767@mail.harvard.eduHarvard Center for Population and Development Studies, 9 Bow St, Cambridge, MA 02138, USA, Phone: 617-496-4280Parker Devin M. MPH Candidatedevinmarisaparker@gmail.comThe Dartmouth Institute for Health Policy and Clinical Practice, Geisel School of Medicine at Dartmouth, 18 N Park St Apt C, Hanover, NH 03755, USA, Phone: 319.631.9820Tucker-Seeley Reginald Assistant Professor of Social and Behavioral Sciencesretucker@hsph.harvard.eduDepartment of Social and Behavioral Sciences, 450 Brookline Ave, Dana Farber Cancer Institute, Center for Community-Based Research, LW743, Boston, Massachusetts 02115, USA, Phone: 617-582-8321Corresponding Author: S. V. Subramanian, Professor of Population Health and Geography, Department of Social and Behavioral Sciences, Harvard School of Public Health, 677 Huntington Avenue, Kresge Building 7th Floor, 716, Boston, Massachusetts 02115-6096, USA, Phone: 617.432.6299, Fax: 617.432.3123, svsubram@hsph.harvard.edu12 2 2016 17 6 2014 9 2014 09 3 2016 29 10 17 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+Disproportionate access to unhealthy foods in poor or minority neighborhoods may be a primary determinant of obesity disparities. We investigated whether fast-food access varies by Census block group (CBG) percent black and poverty.
+
+Methods
+We measured the average driving distance from each CBG population-weighted centroid to the five closest top ten fast-food chains and CBG percent black and percent below poverty
+
+Results
+Among 209,091 CBGs analyzed (95.1% of all US CBGs), CBG percent black was positively associated with fast-food access controlling for population density and percent poverty (average distance to fast food was 3.56 miles closer (95% CI: -3.64, -3.48) in CBGs with the highest versus lowest quartile of percentage of black residents). Poverty was not independently associated with fast-food access. The relationship between fast-food access and race was stronger in CBGs with higher levels of poverty (p for interaction &lt;0.0001).
+
+Conclusions
+Predominantly black neighborhoods had higher access to fast-food while poverty was not an independent predictor of fast-food access.
+
+Food accessPovertyRace
+   Background
+Substantial health disparities in obesity and obesity-related diseases exist, with individuals of black race and lower income suffering a disproportionate burden (Ogden et al., 2006, Mujahid et al., 2005). In recent years, research on distal causes of obesity have explored whether neighborhood effects, or contextual factors in the neighborhoods in which people live, might play a role in driving these disparities (Lovasi et al., 2009, Ludwig et al., 2011). Although debate continues, evidence is growing that neighborhood access to fast-food establishments may lead to a diet that is high in fat, carbohydrates, and sugar and subsequent higher obesity risk (Larson et al., 2009, Caspi et al., 2012, Reitzel et al., 2013, Richardson et al., 2011, Morland et al., 2002, Burgoine et al., 2014). If fast-food access influences dietary patterns and obesity risk, different levels of fast-food access by neighborhood income or racial composition may contribute to the observed health disparities.
+
+Researchers are beginning to examine whether neighborhood access to unhealthy food varies by neighborhood income or racial composition. Using a broad array of methods in a diverse range of settings, studies have demonstrated that low income neighborhoods with a large proportion of Black residents have higher access to unhealthy foods (Walker et al., 2010, Black et al., 2012, Block et al., 2004, Cummins et al., 2005, Kwate et al., 2009, Powell et al., 2007, Fraser et al., 2010). While the literature has elucidated variability in access to fast food by neighborhood race and poverty composition, we know little about the distribution of fast-food access relative to poverty and race across the entire US. This is due, in part, to a lack of reliable and valid measures of local food environments that can help researchers better understand the relationship between these environments and health, as well as to identify potential intervention points, such as food establishment zoning, to improve access to healthy foods (Kelly et al., 2011). The vast majority of fast-food access studies focus on small areas. Studies that have attempted to estimate the distribution of fast-food access across the US have relied on administrative boundaries and industry classification codes to determine restaurant types (Powell et al., 2007). Alternative approaches to measuring access to fast-food are necessary because individuals may obtain food outside of the administrative boundaries in which they live and research has demonstrated the inadequacy of industry classification codes to identify restaurant types (Powell et al., 2007). In order to build on the prior research, the present study identifies fast-food restaurants by their business name to reduce differential misclassification. In this analysis, we measure the average distance to the closest five fast-food restaurants from the centroid of Census block groups (CBGs), irrespective of Census boundaries, across the entire US and for each US state. We use these novel measures to estimate whether fast-food access varies according to CBG poverty and racial composition.
+
+Methods
+Data Sources
+Fast-Food Data
+We used geocoded information on businesses across the United States from the commercially available Dun &amp; Bradstreet dataset based on the ArcGIS Business Analyst Package (ESRI, Redlands, CA) from 2013. Industry classification codes for business types have been shown to have extensive misclassification. The extent of this misclassification has been demonstrated to vary by the socioeconomic status (SES) and racial makeup of neighborhoods, with greater misclassification in lower SES and high minority neighborhoods (Powell et al., 2011). Therefore, we selected fast-food restaurants based on business names to improve accuracy in classifying fast-food establishments. Fast-food restaurants were selected from the 2011 top ten “limited service restaurants” sales list, a resource compiled by the food industry consulting firm Technomic Inc. (Technomic, 2013). These restaurants were McDonalds, Burger King, Starbucks, Dunkin Donuts, Pizza Hut, Subway, Taco Bell, KFC, Chick-Fil-A, and Wendy's. Although the choice of using the names of the top ten fast-food restaurants as a measure of fast-food access does not assess access to all types of fast-food destinations, this proxy of overall fast-food access is likely to capture a more homogenous, well-characterized category (Richardson et al., 2011) and has less potential bias than using industry classification codes due to the documented differential code misclassification of fast-food establishments by neighborhood socioeconomic status (SES) (Powell et al., 2011).
+
+Neighborhood Composition
+We used US Census American Community Survey 2006-2010 and 2010 Decennial Census data to characterize CBGs according to SES, percent black, and population density.
+
+Access to Fast Food
+The outcome for the study was a measure of access to fast food for each CBG. We calculated fast-food access based on the road network distance from each CBG population-weighted centroid to the five closest restaurants (Figure 1). The population-weighted centroid is based on the mean-weighted x- and y-coordinate values of the Census block population centroids. Road network distance accounts for both the location of fast food and the feasibility of accessing it from each CBG center, and taking an average of the closest five establishments provides insight into the multiple opportunities to access fast food compared to access to the single closest establishment. To estimate this measure, we used the closest facility calculation from the ArcGIS (ESRI, Redlands, CA) network analyst package. Similar methods have been applied in previous studies of food stores (Sharkey and Horel, 2008). CBG centroids more than 50km from a road were excluded, as were CBGs in Alaska and Hawaii. Calculations of the five closest facilities were estimated independent of administrative boundaries, such that the five closest facilities could be located across CBG, tract, or state boundaries.
+
+Independent Variables
+The covariates in this study included the following characteristics of the CBG: % below poverty; % Black; and Population Density. We characterized the socioeconomic and racial composition of each CBG based on American Community Survey five-year estimates of percent of individuals below poverty (% below poverty) and percent of individuals of black or African American race from 2006-2010 (% Black) (US Census Bureau, 2013a). We defined CBG population density as persons per square mile based on Census 2010 values (Population Density) (US Census Bureau, 2010).
+
+Study Population
+The US Census Bureau provides data for 219,831 CBGs across the United States and Puerto Rico. We excluded CBGs in Alaska, Hawaii, or Puerto Rico (n=3,940), CBGs with missing census data (n=5,984), and CBGs that did not have a road within 50km of their geometric center (n=816), retaining 209,091 (95.1% of all CBGs in the US, comprising 95.1% of the 2010 US population) CBGs for this analysis. Because we conceptualize each CBG's geometric center as its population center, we retained CBGs with roads located within 10 km of their geometric centers. CBG centroids farther than 6.2 miles from a road were assumed to be poor measures of population centers and were therefore excluded.
+
+Statistical Analysis
+We estimated fixed effects linear regression models to analyze the association between fast-food access and percent poverty and percent Black. The unit of analysis was the CBG. The CBG percent black was analyzed by quartiles and the CBG poverty rate was analyzed according to the cutoffs for estimating concentrated poverty as defined by the US Census (US Census Bureau, 2011). Fixed effects regression coefficients can be interpreted as the difference in road network miles between CBG centroids and the average distance to the five closest fast-food facilities as defined above for each poverty and race category compared to the reference category (&lt;13.8% below poverty or lowest quartile of percent black (&lt;0.01%)). Covariates for analyses included Census block population density, as well as fixed effects for states. Analyses were additionally stratified by state and rural/urban status as defined by rural-urban commuting area (RUCA) from the 2000 Census based on population density, urbanization, and daily commuting (US Census Bureau, 2000).
+
+Results
+Table 1 shows descriptive statistics according to quartiles of average distance to the closest five fast food facilities. The mean average distance to fast food in the first quartile (highest access to fast food) was 0.86 miles compared to 13.25 miles in the fourth quartile (lowest access to fast food). Areas of concentrated poverty had higher fast-food access compared to less impoverished CBGs. The CBG distribution across the categories of percent black and percent poverty is shown in Web Appendix Table 1. The distribution of % Black, % below poverty, access to fast food, and population density across the CBGs included in this analysis is presented in Figure 2. Generally, higher percent black CBGs are located in the southeast and higher poverty concentrations are seen in the southeast and southwestern states. Fast food access is highest on the coasts, which are the areas where population density is highest in the US.
+
+Table 2 shows the results of the fixed effects linear regression analyses. Fast-food access was higher across neighborhoods that fell above the 25th percentile of concentration of black residents (0.04-100% black). . Crude models indicated that fast-food outlets were roughly 3.5 miles closer (95% Confidence Interval (CI): -3.58, -3.42) to the centroid of CBGs with the highest versus lowest percentages of black residents. This relationship attenuated somewhat after adjustment for population density, but a difference of about 3.23 miles persisted (95% CI: -3.31, -3.16). CBGs in the highest poverty category had higher fast-food access in crude and population adjusted models compared to the lowest poverty category, as indicated by a half-mile shorter difference in average distance to nearby fast food (95% CI: -0.64, -0.38) in the poorest versus least poor CBGs after adjustment for population density.
+
+In models simultaneously adjusted for percent poverty and percent black, the relationship between CBG percent black and fast-food access grew stronger such that average distance to fast food was more than three miles closer in neighborhoods with the highest versus lowest concentration of black residents (-3.56 miles (95% CI: -3.64, -3.48)). In this fully adjusted model, the effect of poverty had a nonlinear relationship with fast-food access. Compared to CBGs with the lowest levels of poverty (&lt;13.8% below poverty), CBGs with 13.8-20%, 20-40%, and &gt;40% below poverty had lower access to fast food.
+
+In analyses stratified by rural and urban CBG status (Web Appendix Tables 2-5), results were generally similar. The predicted average distance to fast food by poverty category and quartiles of race distribution after adjusting for population density are shown in Figure 3. There was an interaction between race and poverty, where the relationship between fast-food access and race was stronger with higher levels of poverty (p for interaction &lt;0.0001).
+
+Figure 4 shows the relationship between percent black and fast-food access adjusted for population density and percent poverty stratified by state. Some states had few (Montana, South Dakota, North Dakota, Wyoming, and Idaho) CBGs in the fourth quartile of percentage of black residents, therefore the y-axis has been adjusted to display confidence intervals for the majority of states. Point estimates below the reference line of 0 indicate that within a state, CBGs in the fourth quartile of percent black had greater access to fast food than the first quartile. Differences between the average distance to fast food between the fourth and first quartile of percent black varied between -16.28 and 0.22 miles, with 48 out of 48 states showing higher fast-food access for CBGs with higher percentages of black residents. For example, in New York the average distance to fast food was 2.45 miles closer (95% CI: -2.64, -2.27) comparing the top quartile of percent black CBGs to the bottom quartile. Only the District of Columbia showed an association between higher concentrations of black residents and lower fast-food access (average distance to fast food was 0.22 miles greater comparing CBGs in the highest quartile of percent black to the lowest quartile (95% CI: 0.03, 0.40).
+
+Conclusions
+In this analysis of national data, we found that racial composition of CBGs is positively associated with higher fast-food access, with higher concentrations of black residents associated with higher access to fast food, net of population density and poverty of the CBG. These results were consistent across the majority of states in the country and did not vary greatly by rural or urban CBG status. Although concentrated poverty appeared to be a risk factor to fast-food access in crude models and population density-adjusted models, it was not associated with shorter distance to nearby fast food after accounting for CBG percent black.
+
+Limitations of this analysis include the use of CBG population-weighted centroids as a proxy for the residential environment. Although this is a concern associated with conducting any analyses based on administrative boundaries, the CBG is the smallest available Census-defined area and therefore represents the best nationally available geography for constructing the residential environment. Second, we assume that each mile of road network is equivalent as a measure of access. Depending on numerous factors, such as access to automobiles or public transit, sidewalk availability, and crime, street network distance may have different meanings for different neighborhoods in terms of fast-food access. Third, we relied on commercially available data to locate fast-food restaurants, which have been argued to have poor validity for assessing establishment type (Powell et al., 2011). Some studies have demonstrated 37-59% undercounts of franchised limited-service restaurants or fast food chains from commercial databases compared to ground-truthed data (Liese et al., 2010, Powell et al., 2011, Liese et al., 2013), while others have shown high correlation for fast food outlets comparing commercial databases and ground-truthed data (Gustafson et al., 2012). In our study we aimed to reduce the error in misclassifying business types by searching based on business name rather than on industry codes (Simon et al., 2008, Ohri-Vachaspati et al., 2011). We attempted to address this misclassification by using a name-based method to identify the top chain fast food restaurants in the US, which should lead to fewer missing outlets, fewer false-positives (restaurants identified as fast food that do not serve fast food), and reduced systematic bias due to differential classification of fast food establishments. Despite this, the name-based approach cannot completely overcome misclassification, as studies have shown a 30% undercount when comparing the name-based commercial database to food inspection databases (Simon et al., 2008). Finally, we did not explore neighborhood racial composition beyond percent black/African American race within the CBG.
+
+As the first nationwide study in the US to examine area-level racial composition (% black/African American) as a predictor of fast-food access, our analysis makes several contributions to the literature. First, we use network distances to measure fast-food access, which provides a more realistic metric of the ease of reaching fast-food establishments compared to measures based on straight-line distance. Further, averaging distances to the five closest fast-food restaurants serves as a more stable measure of fast-food access compared to estimating access based on a single closest establishment. Third, unlike previous analyses that have used density measures within Census tracts and are therefore affected by the modifiable areal unit problem (Powell et al., 2007), our network distance calculation estimates access to fast-food establishments independent of arbitrary administrative boundaries that may have no bearing on the spatial scale of an individual's food environment. Finally, CBGs are a small spatial unit of analysis representing an approximation of the neighborhood for 1,500 individuals (US Census Bureau, 2013b), and may be a more relevant central indicator of neighborhood access compared to larger geographic units.
+
+Our results are consistent with previous findings that highlight the importance of historical determinants (such as racial segregation) of area-level racial composition in shaping food environments (Kwate, 2008). Evidence is growing that access to unhealthy food establishments increases consumption of fast food (Boone-Heinonen et al., 2011) and fast food consumption is a risk factor for obesity (Anderson et al., 2011, Garcia et al., 2012, Duffey et al., 2007). Studies have demonstrated a U-shaped relationship between income and fast food consumption, with the highest consumption occurring among middle-income individuals (Kim and Leigh, 2011). This may explain the absence of an association between CBG percent poverty and fast food access. Conversely, studies have shown that black individuals are more likely to consume fast food than other races (Moore et al., 2009). The results of the present study indicate that access might be a likely determinant of this association. The associations observed in our study may reflect the increased demand for fast food in predominantly black neighborhoods, as the lack of association between poverty and fast-food access suggests that price may not be a main determinant of access to fast food. Alternatively, aggressive advertising by the fast food industry could be creating demand in neighborhoods with a higher concentration of Black residents (Grier and Kumanyika, 2008, Grier et al., 2007). We cannot determine the mechanism underlying the association in this study but future research should continue to explore the factors that influence neighborhood food environments, as well as the health implications of easy access to fast food.
+
+With municipalities across the county currently revisiting controls on fast-food establishments, such as zoning restrictions and menu labeling (Medina, 2011, Centers for Disease Control and Prevention, 2013), our finding that racial composition (% black) is an independent risk fact for fast-food access may help inform public discourse on how to improve neighborhood food environments that may have a disproportionate impact on racial/ethnic minority populations. Efforts should focus on neighborhoods with a high concentration of racial/ethnic minorities, in particular with a high percentage of black residents, rather than high-poverty areas to address disparities in fast-food access.
+
+The research conducted for this manuscript was supported by the Harvard NHLBI Cardiovascular Epidemiology Training Grant T32 HL 098048 and the Robert Wood Johnson Investigator Award in Health Policy Research (PI Subramanian). Dr. Reginald Tucker-Seeley is supported by an NCI K01 Career Development grant (1K01CA169041).
+
+Peter James: Created measures, conducted analysis, wrote manuscript
+
+Mariana C. Arcaya: Aided with analysis, edited manuscript
+
+Devin M. Parker: Created measures, aided with analysis
+
+Reginald Tucker-Seeley: Aided with concept development, edited manuscript
+
+S. V. Subramanian: Aided with concept development, edited manuscript
+
+Web Appendix
+Appendix Table 1 Numbers for each Percent Poverty and Percent Black Category included in this analysis
+	&lt;13.8% Below Poverty Level	13.8-20% Below Poverty Level	20-40% Below Poverty Level	&gt;40% Below Poverty Level	Total	
+Quartile 1 % Black N (%)	55,176 (26.39)	9,566 (4.58)	10,838 (5.18)	2,214 (1.06)	77,794 (37.21)	
+Quartile 2 % Black N (%)	18,875 (9.03)	3,464 (1.66)	3,691 (1.77)	698 (0.33)	26,728 (12.78)	
+Quartile 3 % Black N (%)	33,779 (16.16)	7,039 (3.37)	9,349 (4.47)	2,129 (1.02)	52,296 (25.01)	
+Quartile 4 % Black N (%)	20,492 (9.8)	7,739 (3.7)	16,412 (7.85)	7,630 (3.65)	52,273 (25)	
+Total N (%)	128,322 (61.37)	27,808 (13.3)	40,290 (19.27)	12,671 (6.06)	209,091 (100)	
+Appendix Table 2 Fast-food access by poverty category adjusted for population density stratified by urban/rural CBGs
+Poverty Category	Average Distance to Fast-food (miles) and 95% Confidence Interval	
+	Urban CBGs	Rural CBGs	
+	
+	
+&lt;13.8% Below Poverty Level	3.89 (3.85, 3.92)	20.96 (20.52, 21.41)	
+13.8-20% Below Poverty Level	4.83 (4.76, 4.91)	21.63 (20.92, 22.33)	
+20-40% Below Poverty Level	4.36 (4.30, 4.43)	20.64 (19.96, 21.32)	
+&gt;40% Below Poverty Level	3.51 (3.41, 3.62)	23.71 (21.84, 25.57)	
+Appendix Table 3 Fast-food access by quartiles of percent black adjusted for population density stratified by urban/rural CBGs
+Percent Black Quartile	Average Distance to Fast-food (miles) and 95% Confidence Interval	
+Urban CBGs	Rural CBGs	
+	
+	
+Quartile 1 % Black	5.56 (5.52, 5.60)	22.33 (21.92, 22.73)	
+Quartile 2 % Black	4.33 (4.26, 4.41)	21.22 (20.40, 22.05)	
+Quartile 3 % Black	2.93 (2.88, 2.99)	18.19 (17.22, 19.17)	
+Quartile 4 % Black	2.98 (2.93, 3.04)	16.97 (16.01, 17.93)	
+Appendix Table 4 Fast-food access by percent black and poverty adjusted for population density for urban CBGs
+Poverty Category	&lt;13.8% Below Poverty Level	13.8-20% Below Poverty Level	20-40% Below Poverty Level	&gt;40% Below Poverty Level	
+Percent Black Quartile	Average Distance to Fast-food (miles) and 95% Confidence Interval	Average Distance to Fast-food (miles) and 95% Confidence Interval	Average Distance to Fast-food (miles) and 95% Confidence Interval	Average Distance to Fast-food (miles) and 95% Confidence Interval	
+Quartile 1 % Black	5.00 (4.95, 5.05)	7.01 (6.88, 7.13)	6.88 (6.76, 6.99)	7.10 (6.85, 7.35)	
+Quartile 2 % Black	4.01 (3.92, 4.09)	5.40 (5.20, 5.61)	5.13 (4.93, 5.32)	3.98 (3.53, 4.43)	
+Quartile 3 % Black	2.77 (2.71, 2.84)	3.46 (3.32, 3.60)	3.27 (3.15, 3.39)	2.32 (2.07, 2.58)	
+Quartile 4 % Black	2.76 (2.68, 2.85)	3.32 (3.18, 3.45)	3.22 (3.13, 3.31)	2.76 (2.63, 2.90)	
+Appendix Table 5 Fast-food access by percent black and poverty adjusted for population density for rural CBGs
+Poverty Category	&lt;13.8% Below Poverty Level	13.8-20% Below Poverty Level	20-40% Below Poverty Level	&gt;40% Below Poverty Level	
+Percent Black Quartile	Average Distance to Fast-food (miles) and 95% Confidence Interval	Average Distance to Fast-food (miles) and 95% Confidence Interval	Average Distance to Fast-food (miles) and 95% Confidence Interval	Average Distance to Fast-food (miles) and 95% Confidence Interval	
+Quartile 1 % Black	21.99 (21.46, 22.51)	22.65 (21.75, 23.55)	22.41 (21.48, 23.34)	28.16 (25.35, 30.96)	
+Quartile 2 % Black	20.34 (19.23, 21.44)	22.15 (20.46, 23.85)	22.13 (20.25, 24.02)	27.19 (20.88, 33.50)	
+Quartile 3 % Black	17.28 (15.86, 18.69)	19.88 (17.85, 21.91)	18.19 (16.34, 20.03)	20.50 (13.78, 27.22)	
+Quartile 4 % Black	15.83 (13.85, 17.81)	17.47 (15.46, 19.49)	16.86 (15.40, 18.33)	18.83 (15.94, 21.73)	
+Figure 1 Example of Closest Fast-Food Establishment by Street Network Distance
+Figure 2 Percent black composition (2a), poverty composition (2b), access to fast-food (2c), and population density (2d) by CBG
+Figure 3 Predicted average distances to fast food by poverty category and percent black, adjusted for population density
+Figure 4 Access to fast-food by percent black adjusted by percent poverty and population density, stratified by state
+Table 1 Mean (standard deviation) for selected CBG characteristics by top ten fast-food restaurant distance quartile (n=209,091)
+	Fast-food Distance Quartile 1 N=52,273	Fast-food Distance Quartile 2 N=52,272	Fast-food Distance Quartile 3 N=52,273	Fast-food Distance Quartile 4 N=52,273	
+	
+	
+Average Driving Distance to Five Closest Fast-Food Restaurants (miles)	0.86 (0.23)	1.50 (0.20)	2.86 (0.79)	13.25 (10.35)	
+Percent Below Poverty Line	0.17 (0.15)	0.15 (0.15)	0.11 (0.13)	0.13 (0.11)	
+Percent Black	0.16 (0.25)	0.17 (0.27)	0.13 (0.23)	0.06 (0.15)	
+Population Density (persons/sqmi)	13,209 (21148)	5,491 (5032)	3,332 (8788)	682 (4951)	
+Table 2 Model results for average distance in miles to five closest fast-food restaurants
+	Model 1: Percent Black Crude	Model 2: Percent Poverty Crude	Model 3: Percent Black and Population Density	Model 4: Percent Poverty and Population Density	Model 5: Percent Black, Percent Poverty, and Population Density	
+Intercept	6.54 (6.49, 6.59)	4.44 (4.40, 4.48)	6.66 (6.61, 6.72)	4.67 (4.62, 4.71)	6.26 (6.20, 6.31)	
+Q2 (0.04%, 2.1%) v Q1 (0%) % Black	-1.55 (-1.65, -1.45)		-1.47 (-1.57, -1.38)		-1.48 (-1.57, -1.38)	
+Q3 (2.1%, 12.9%) v Q1 (0%) % Black	-3.39 (-3.47, -3.32)		-3.26 (-3.34, -3.18)		-3.34 (-3.41, -3.26)	
+Q4 (12.9%, 100%) v Q1 (0%) % Black	-3.50 (-3.58, -3.42)		-3.23 (-3.31, -3.16)		-3.56 (-3.64, -3.48)	
+13.8-20% v &lt;13.8% Below Poverty Level		1.22 (1.12, 1.31)		1.32 (1.23, 1.42)	1.67 (1.58, 1.76)	
+20-40% v &lt;13.8% Below Poverty Level		0.37 (0.29, 0.45)		0.63 (0.55, 0.71)	1.30 (1.22, 1.38)	
+&gt;40% v &lt;13.8% Below Poverty Level		-0.88 (-1.01, -0.75)		-0.51 (-0.64, -0.38)	0.58 (0.45, 0.71)	
+Highlights
+Fast-food access has been linked to obesity in low income and black populations.
+
+Most studies cover small areas and use administrative boundaries to define access.
+
+Do these populations have greater access to fast-food across the United States?
+
+Neighborhood poverty was not independently linked to fast-food access.
+
+Higher proportion black neighborhoods had higher fast-food access.
+
+
+   
+            Anderson B  
+            Rafferty AP  
+            Lyon-Callo S  
+            Fussman C  
+            Imes G  
+           2011 Fast-food consumption and obesity among Michigan adults Prev Chronic Dis 8 A71 21672395 
+
+            Black C  
+            Ntani G  
+            Kenny R  
+            Tinati T  
+            Jarman M  
+            Lawrence W  
+            Barker M  
+            Inskip H  
+            Cooper C  
+            Moon G  
+            Baird J  
+           2012 Variety and quality of healthy foods differ according to neighbourhood deprivation Health Place 18 1292 9 23085202 
+
+            Block JP  
+            Scribner RA  
+            Desalvo KB  
+           2004 Fast food, race/ethnicity, and income: a geographic analysis Am J Prev Med 27 211 7 15450633 
+
+            Boone-Heinonen J  
+            Gordon-Larsen P  
+            Kiefe CI  
+            Shikany JM  
+            Lewis CE  
+            Popkin BM  
+           2011 Fast food restaurants and food stores: longitudinal associations with diet in young to middle-aged adults: the CARDIA study Archives of internal medicine 171 1162 70 21747011 
+
+            Burgoine T  
+            Forouhi NG  
+            Griffin SJ  
+            Wareham NJ  
+            Monsivais P  
+           2014 Associations between exposure to takeaway food outlets, takeaway food consumption, and body weight in Cambridgeshire, UK: population based, cross sectional study BMJ 348 g1464 24625460 
+
+            Caspi CE  
+            Sorensen G  
+            Subramanian SV  
+            Kawachi I  
+           2012 The local food environment and diet: a systematic review Health Place 18 1172 87 22717379 
+Centers for Disease Control and Prevention 2013 Menu Labeling [Online] Atlanta, GA Centers for Disease Control and Prevention Available: http://www.cdc.gov/phlp/winnable/menu_labeling.html  July 5 2013 
+
+            Cummins SC  
+            Mckay L  
+            Macintyre S  
+           2005 McDonald's restaurants and neighborhood deprivation in Scotland and England Am J Prev Med 29 308 10 16242594 
+
+            Duffey KJ  
+            Gordon-Larsen P  
+            Jacobs DR Jr  
+            Williams OD  
+            Popkin BM  
+           2007 Differential associations of fast food and restaurant food consumption with 3-y change in body mass index: the Coronary Artery Risk Development in Young Adults Study The American journal of clinical nutrition 85 201 8 17209197 
+
+            Fraser LK  
+            Edwards KL  
+            Cade J  
+            Clarke GP  
+           2010 The geography of Fast Food outlets: a review International journal of environmental research and public health 7 2290 308 20623025 
+
+            Garcia G  
+            Sunil TS  
+            Hinojosa P  
+           2012 The fast food and obesity link: consumption patterns and severity of obesity Obesity surgery 22 810 8 22271359 
+
+            Grier SA  
+            Kumanyika SK  
+           2008 The context for choice: health implications of targeted food and beverage marketing to African Americans American journal of public health 98 1616 29 18633097 
+
+            Grier SA  
+            Mensinger J  
+            Huang SH  
+            Kumanyika SK  
+            Stettler N  
+           2007 Fast-food marketing and children's fast-food consumption: exploring parents' influences in an ethnically diverse sample Journal of Public Policy &amp; Marketing 26 221 235 
+
+            Gustafson AA  
+            Lewis S  
+            Wilson C  
+            Jilcott-Pitts S  
+           2012 Validation of food store environment secondary data source and the role of neighborhood deprivation in Appalachia, Kentucky BMC public health 12 688 22914100 
+
+            Kelly B  
+            Flood VM  
+            Yeatman H  
+           2011 Measuring local food environments: an overview of available methods and measures Health Place 17 1284 93 21908229 
+
+            Kim D  
+            Leigh JP  
+           2011 Are meals at full-service and fast-food restaurants “normal” or “inferior” Population Health Management 14 307 315 21827320 
+
+            Kwate NO  
+           2008 Fried chicken and fresh apples: racial segregation as a fundamental cause of fast food density in black neighborhoods Health &amp; Place 14 32 44 17576089 
+
+            Kwate NO  
+            Yau CY  
+            Loh JM  
+            Williams D  
+           2009 Inequality in obesigenic environments: fast food density in New York City Health &amp; Place 15 364 73 18722151 
+
+            Larson NI  
+            Story MT  
+            Nelson MC  
+           2009 Neighborhood environments: disparities in access to healthy foods in the U.S Am J Prev Med 36 74 81 18977112 
+
+            Liese AD  
+            Barnes TL  
+            Lamichhane AP  
+            Hibbert JD  
+            Colabianchi N  
+            Lawson AB  
+           2013 Characterizing the food retail environment: impact of count, type, and geospatial error in 2 secondary data sources J Nutr Educ Behav 45 435 42 23582231 
+
+            Liese AD  
+            Colabianchi N  
+            Lamichhane AP  
+            Barnes TL  
+            Hibbert JD  
+            Porter DE  
+            Nichols MD  
+            Lawson AB  
+           2010 Validation of 3 food outlet databases: completeness and geospatial accuracy in rural and urban food environments American journal of epidemiology 172 1324 33 20961970 
+
+            Lovasi GS  
+            Hutson MA  
+            Guerra M  
+            Neckerman KM  
+           2009 Built environments and obesity in disadvantaged populations Epidemiol Rev 31 7 20 19589839 
+
+            Ludwig J  
+            Sanbonmatsu L  
+            Gennetian L  
+            Adam E  
+            Duncan GJ  
+            Katz LF  
+            Kessler RC  
+            Kling JR  
+            Lindau ST  
+            Whitaker RC  
+            Mcdade TW  
+           2011 Neighborhoods, obesity, and diabetes--a randomized social experiment The New England Journal of Medicine 365 1509 1519 22010917 
+
+            Medina J  
+           2011 In South Los Angeles, New Fast-Food Spots Get a ‘No, Thanks’ The New York Times, January 15 2011 
+
+            Moore LV  
+            Diez Roux AV  
+            Nettleton JA  
+            Jacobs DR  
+            Franco M  
+           2009 Fast-food consumption, diet quality, and neighborhood exposure to fast food: the multi-ethnic study of atherosclerosis American journal of epidemiology 170 29 36 19429879 
+
+            Morland K  
+            Wing S  
+            Diez Roux A  
+           2002 The contextual effect of the local food environment on residents' diets: the atherosclerosis risk in communities study American journal of public health 92 1761 7 12406805 
+
+            Mujahid MS  
+            Diez Roux AV  
+            Borrell LN  
+            Nieto FJ  
+           2005 Cross-sectional and longitudinal associations of BMI with socioeconomic characteristics Obes Res 13 1412 21 16129724 
+
+            Ogden CL  
+            Carroll MD  
+            Curtin LR  
+            Mcdowell MA  
+            Tabak CJ  
+            Flegal KM  
+           2006 Prevalence of overweight and obesity in the United States, 1999-2004 JAMA 295 1549 55 16595758 
+
+            Ohri-Vachaspati P  
+            Martinez D  
+            Yedidia MJ  
+            Petlick N  
+           2011 Improving data accuracy of commercial food outlet databases American journal of health promotion : AJHP 26 116 22 22040393 
+
+            Powell LM  
+            Chaloupka FJ  
+            Bao Y  
+           2007 The availability of fast-food and full-service restaurants in the United States: associations with neighborhood characteristics Am J Prev Med 33 S240 5 17884571 
+
+            Powell LM  
+            Han E  
+            Zenk SN  
+            Khan T  
+            Quinn CM  
+            Gibbs KP  
+            Pugach O  
+            Barker DC  
+            Resnick EA  
+            Myllyluoma J  
+            Chaloupka FJ  
+           2011 Field validation of secondary commercial data sources on the retail food outlet environment in the U.S Health &amp; Place 17 1122 31 21741875 
+
+            Reitzel LR  
+            Regan SD  
+            Nguyen N  
+            Cromley EK  
+            Strong LL  
+            Wetter DW  
+            Mcneill LH  
+           2013 Density and proximity of fast food restaurants and body mass index among African Americans American Journal of Public Health 
+
+            Richardson AS  
+            Boone-Heinonen J  
+            Popkin BM  
+            Gordon-Larsen P  
+           2011 Neighborhood fast food restaurants and fast food consumption: a national study BMC Public Health 11 543 21740571 
+
+            Sharkey JR  
+            Horel S  
+           2008 Neighborhood socioeconomic deprivation and minority composition are associated with better potential spatial access to the ground-truthed food environment in a large rural area The Journal of Nutrition 138 620 7 18287376 
+
+            Simon PA  
+            Kwan D  
+            Angelescu A  
+            Shih M  
+            Fielding JE  
+           2008 Proximity of fast food restaurants to schools: do neighborhood income and type of school matter? Preventive medicine 47 284 8 18448158 
+Technomic 2013 Technomic Web Site [Online]. Available: www.technomic.com  
+Us Census Bureau 2000 US Census 2000 
+Us Census Bureau 2010 US Census 2010 
+Us Census Bureau 2011 Areas with Concentrated Poverty: 2006-2010 American Community Survey Briefs US Census Bureau, US Department of Commerce, Economics and Statistics Administration 
+Us Census Bureau 2013a American Community Survey Five-Year Estimates 2006-2010 
+Us Census Bureau 2013b Geographic Terms and Concepts - Block Groups [ Online]. Available: http://www.census.gov/geo/reference/gtc/gtc_bg.html  
+
+            Walker RE  
+            Keane CR  
+            Burke JG  
+           2010 Disparities and access to healthy food in the United States: A review of food deserts literature Health Place 16 876 84 20462784 
+

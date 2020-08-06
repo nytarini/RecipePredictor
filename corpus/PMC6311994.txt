@@ -1,0 +1,235 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8006808696AppetiteAppetiteAppetite0195-66631095-830429601921631199410.1016/j.appet.2018.03.024NIHMS1000668ArticleThe family child care home environment and children’s diet quality Benjamin-Neelon Sara E. a*Vaughn Amber E. bTovar Alison cØstbye Truls dMazzucca Stephanie beWard Dianne S. bea Department of Health, Behavior and Society, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USAb Center for Health Promotion and Disease Prevention, University of North Carolina at Chapel Hill, NC, USAc Department of Nutrition and Food Sciences, University of Rhode Island, Kingston, RI 02881, USAd Department of Community and Family Medicine, Duke University Medical Center, Durham, NC, USAe Department of Nutrition, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, NC, USA* Corresponding author.13 12 2018 27 3 2018 01 7 2018 31 12 2018 126 108 113 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background:
+Developing healthy eating behaviors and food preferences in early childhood may help establish future healthy diets. Large numbers of children spend time in child care, but little research has assessed the nutritional quality of meals and snacks in family child care homes. Therefore, it is important to assess foods and beverages provided, policies related to nutrition and feeding children, and interactions between providers and children during mealtimes. We examined associations between the nutrition environments of family child care homes and children’s diet quality.
+
+Methods:
+We assessed the nutrition environments of 166 family child care homes using the Environment and Policy Assessment and Observation (EPAO) (scores range: 0-21). We also recorded foods and beverages consumed by 496 children in care and calculated healthy eating index (HEI) (scores range: 0-100). We used a mixed effects linear regression model to examine the association between the EPAO nutrition environment (and EPAO sub-scales) and child HEI, controlling for potential confounders.
+
+Results:
+Family child care homes had a mean (standard deviation, SD) of 7.2 (3.6) children in care, 74.1% of providers were black or African American, and children had a mean (SD) age of 35.7 (11.4) months. In adjusted multivariable models, higher EPAO nutrition score was associated with increased child HEI score (1.16; 95% CI: 0.34, 1.98; p = 0.006). Higher scores on EPAO sub-scales for foods provided (8.98; 95% CI: 3.94, 14.01; p = 0.0006), nutrition education (5.37; 95% CI: 0.80, 9.94; p = 0.02), and nutrition policy (2.36; 95% CI: 0.23, 4.49; p = 0.03) were all associated with greater child HEI score.
+
+Conclusions:
+Foods and beverages served, in addition to nutrition education and nutrition policies in family child care homes, may be promising intervention targets for improving child diet quality.
+
+Child careDietEarly yearsNutrition
+   1. Introduction
+Child care attendance has been associated with obesity in children in a number of cross-sectional and longitudinal studies in Canada, China, Denmark, the United Kingdom (UK), and the United States (US), although other studies have found no association (Benjamin Neelon, Burgoine, Hesketh, &amp; Monsivais, 2015a, 2015b; Benjamin et al., 2009; Geoffroy et al., 2013; Kim &amp; Peterson, 2008; Lin, Leung, Hui, Lam, &amp; Schooling, 2011; Maher, Li, Carter, &amp; Johnson, 2008; McGrady, Mitchell, Theodore, Sersion, &amp; Holtzapple, 2010; McLaren, Zarrabi, Dutton, Auld, &amp; Emery, 2012; Pearce et al., 2010). Many of these previous studies found that use of the less formal types of care, in-cluding family child care homes, accounted for most of the observed associations with obesity (Benjamin et al., 2009; Geoffroy et al., 2013; Kim &amp; Peterson, 2008; Lin et al., 2011; Maher et al., 2008; McLaren et al., 2012; Pearce et al., 2010). Little is known about the potential mechanisms linking child care with obesity, if such a relationship exists. The nutrition environment at child care may be an important mechanism to explore given recent studies in the US, the UK, and the Netherlands that highlight the nutritional inadequacy of foods and beverages commonly served to children in child care; specifically, meals and snacks lack sufficient fruits, vegetables, and whole grains and include excessive fats and sugars (Copeland, Benjamin Neelon, Howald, &amp; Wosje, 2013; Frampton et al., 2014; Gubbels et al., 2014, 2015; Maalouf, Evers, Griffin, &amp; Lyn, 2013; Neelon et al., 2015; Parker, LloydWilliams, Weston, Macklin, &amp; McFadden, 2011).
+
+Few studies, however, have assessed foods and beverages served or the nutrition environment in less formal types of care like family child care homes. Family child care homes are a particular type of licensed child care where non-relative providers typically care for children in their own homes rather than in a separate facility (i.e., child care center). In countries outside of the US, these providers may be known as “family day care” (in Australia) or “childminders” (in the UK). An analysis of menus from family child care homes in Washington showed that meals and snacks were deficient in key nutrients needed for child health, providing only 60% of the daily reference intakes after adjustment for calories consumed (Monsivais &amp; Johnson, 2012). A survey of family child care home providers in Rhode Island found that most were motivated to serve healthy foods; however, it is unclear whether this motivation translated into actual foods served (Tovar et al., 2015). This same survey also showed that while most providers sat with children during meals, few ate the same foods as children, thus missing out on an important opportunity for role modeling. An observational study of family child care homes in Rhode Island found that providers often offered positive reinforcement in response to children’s acceptance of food; however, providers also responded with controlling practices when children requested second helpings of food (Tovar et al., 2016). The low number of studies conducted with family child care homes highlights the need to conduct both observational and intervention research in this area to help improve foods and beverages served and mealtime feeding practices.
+
+While there is growing evidence for how foods served and feeding practices in child care centers impact children’s diet quality in the US and the Netherlands (Gubbels et al., 2015; Kharofa, Kalkwarf, Khoury, &amp; Copeland, 2016), similar studies in family child care homes are lacking. There appears to be substantial room for improvement; however, few studies have targeted family child care homes (Ward, Belanger, Donovan, &amp; Carrier, 2015; Zhou, Emerson, Levine, Kihlberg, &amp; Hull, 2014). Here, we address this gap by examining associations between the nutrition environments of family child care homes and children’s diet quality while in care. We first examine how the overall quality of the family child care home environment is associated with children’s diet quality. We hypothesized that children cared for in family child care homes with higher quality nutrition environments would have better diet quality while in care. We further examine, in secondary analyses, which specific components within the nutrition environment are most associated with children’s diet quality.
+
+2. Materials and methods
+2.1. Study design and population
+We used baseline data from the Keys to Healthy Family Child Care Homes (Keys) study conducted from 2013 to 2016 with family child care homes across North Carolina (Ostbye et al., 2015). Keys was a cluster-randomized controlled trial that evaluated the efficacy of an intervention designed to help providers become healthy role models, improve nutrition and physical activity environments, and implement effective business practices in family child care homes. The study enrolled and measured a convenience sample of 166 family child care homes and 496 children (approximately three children per home) from central North Carolina. Eligible family child care homes had to have at least two children currently enrolled between the ages of 18 months and 4 years, serve at least one meal and one snack to children, and have been in business for two years with no plans to close in the coming year. To evaluate the Keys intervention, trained data collectors conducted two-day onsite observations to assess the nutrition environment and children’s dietary intake. Data collectors were blinded to the study aims and group assignment. Detailed information about the full Keys study design and protocols have been reported in prior publications (Benjamin Neelon, Ostbye, Hales, Vaughn, &amp; Ward, 2016a, 2016b; Ostbye et al., 2015). Briefly, to recruit family child care homes we first contacted local community partners (e.g., Health Departments) to provide information about the study. We then mailed letters of invitation to all family child care homes providers in the area and followed up with a telephone call to assess interest. Just over half (56%) were interested in participating and 75% of those family child care homes met our eligibility criteria. Of those eligible, about 25% ultimately enrolled in the study. Additional information about recruitment and consent is available elsewhere (Ward, Vaughn, Burney, &amp; Ostbye, 2016). Child care providers and parents of children in care provided written informed consent to participate in the Keys study. All study protocols were approved by the Institutional Review Boards of the University of North Carolina at Chapel Hill and Duke University Medical Center.
+
+2.2. Exposure: nutrition environments of family child care homes
+We used the previously developed Environment and Policy Assessment and Observation (EPAO) (Ward et al., 2008) instrument that was modified to assess the family child care home nutrition environment (Vaughn et al., 2017). The instrument has been used in numerous previous studies to assess child care environments (Benjamin Neelon et al., 2016b; Messiah et al., 2017; LaRowe et al., 2016; O’Neill, Dowda, Benjamin Neelon, Neelon, &amp; Pate, 2017). We collected EPAO data during two-day onsite visits to family child care homes. The EPAO was conducted by data collectors who had been trained (4-h workshop) and certified (4-h certification) by an EPAO “gold standard observer” employed by the developers of the instrument. The observation portion of the EPAO was conducted on both days, starting with the time children were served their first meal, generally the first activity of the day, and continued until children left the family child care home for the day. The EPAO includes 145 multi-part questions organized into 10 sections: morning meal, activities before lunch, lunch, naptime, afternoon snack, activities after lunch, activities in general, equipment/environment/ space, food preparation, and additional food details. The document review was conducted during naptime, if possible, when child observation was not needed. The document review portion of the EPAO includes 12 multi-part questions organized into two sections: training and education, and policy. We focused on the EPAO total nutrition score, which uses a combination of observation and document review data, as the primary exposure.
+
+The nutrition-related sections of the EPAO are used to assess compliance with 38 nutrition best practices, each of which is rated on a scale of 0-3, where higher scores indicate closer compliance. These best practices are then grouped into 7 sub-scales reflecting various aspects of the overall nutrition environment within family child care homes. Scores on individual best practices are averaged to determine the subscales score; hence, sub-scale scores range between 0 and 3. Sub-scale scores are then summed to determine the total score, with scores ranging from 0 to 21 and higher scores indicating better quality nutrition environments. In secondary analyses, we examined each of the 7 nutrition sub-scales within the EPAO, including foods provided (12 items), beverages provided (5 items), feeding environment (7 items), feeding practices (8 items), menus and variety (1 item), nutrition education (4 items), and nutrition policy (1 item) (Table 1). In both the original development and in the recent modification of the EPAO, we conducted inter-rater but not internal consistency reliability testing, because these sub-scales included such diverse items (Ward et al., 2008).
+
+2.3. Outcome: child diet quality in the family child care home
+To assess children’s diet quality in the family child care home we conducted the Diet Observation at Child Care (DOCC) over 2 full days of child care (Ball, Benjamin, &amp; Ward, 2007). The DOCC is an adaptation of instruments that have been used previously with preschool and elementary school children (Baxter, Thompson, Litaker, Frye, &amp; Guinn, 2002; Gittelsohn, Shankar, Pokhrel, &amp; West, 1994), and has been tested for validity and reliability in children in child care (Ball et al., 2007).
+
+Using the DOCC protocol, trained observers recorded all meals and snacks served to participating children during the two-day onsite visit. Generally, this included breakfast or a morning snack, lunch, and an afternoon snack. Observers estimated the amount of foods and beverages served, wasted, exchanged, and remaining at the end of each meal and snack in order to calculate the quantity consumed by children. When food details were not obvious (e.g., preparation of mixed dishes), the data collector asked the provider for clarification or to see any packages or food labels associated with the food served. If a child was absent and at least one meal and one snack could not be captured, data collectors conducted an additional visit to obtain diet observation data for that child. Per DOCC protocol, observers could assess up to 3 children at one time. While most family child care homes required only one observer each day of data collection, a second observer was sent to family child care homes with more than 3 study children. We analyzed the dietary data using the Nutrition Data System for Research software (Nutrition Coordinating Center, University of Minnesota, Minnesota) and calculated an average daily Healthy Eating Index (HEI) score (based on all meals and snacks observed during those 2 days) (Guenther et al., 2013), standardized per 1000 calories, for all study children within each family child care home. The total HEI score is a sum of 12 dietary components sub-scores including dairy (10), whole fruit (5), total fruit (5), greens/beans (5), total vegetables (5), whole grain (10), total protein foods (5), seafood and plant protein (5), refined grains (10), empty calories (20), fatty acids (10), sodium (10). Health Eating Index scores range from 0 to 100, with higher scores indicating better diet quality (Guenther et al., 2013).
+
+2.4. Other measures
+We collected demographic information from family child care home providers and parents of participating children via self-administered questionnaires. Provider surveys captured characteristics of the family child care home, including years of operation, number of children enrolled, participation in federal subsidy programs and the Child and Adult Care Food Program (CACFP), and personal demographics, including sex, age, race (black/African American, white, Asian/Asian American, or multiple race), and education (high school degree, associate’s degree, college degree, or graduate degree). Parent surveys captured the child’s sex, age, and race. We also collected physical measures on providers and children as part of the onsite visit. Trained data collectors measured providers’ and children’s standing height and weight using standard techniques (Shorr), which we used to calculate BMI z-score for children and weight status (normal weight, overweight, or obese) for providers.
+
+2.5. Analysis
+We included only those covariates that were of a priori interest based on previous evidence or theoretical associations, including child sex, age, race, and BMI z-score, as well as provider race, education, BMI, and number of children in care. We selected covariates a priori to help reduce confounding and the risk of including variables that could increase bias in our analyses. In secondary analyses, we examined sub-scales within the EPAO individually to assess the extent to which each was associated with child HEI score, using the same covariates. We present linear regression results as parameter estimates, 95% confidence intervals (CI), and two-sided p values. We conducted all analyses using SAS version 9.7 (SAS Institute, Cary, North Carolina) and a significance level of 0.05.
+
+3. Results
+Complete baseline data were available on 166 family child care homes and 492 children. Family child care homes had a mean (standard deviation, SD) of 7.2 (3.6) children enrolled and 91.0% participated in CACFP (Table 2). Providers were all women with a mean (SD) age of 49.4 (9.1) years, and 74.1% were black or African American. Of providers, 24.1% were overweight and 65.7% were obese. The children included similar numbers of boys and girls; they were a mean (SD) age of 35.7 (11.4) months and 63.3% were black or African American. Among children, mean (SD) BMI z-score was 0.8 (1.2).
+
+The mean (SD) EPAO nutrition score was 9.1 (1.7) among family child care homes and the mean (SD) HEI score among children was 58.9 (9.9). In multivariable models, higher total nutrition score on the EPAO was associated with increased child HEI score (estimate 1.16 per each additional one-point increase on the EPAO; 95% CI: 0.34, 1.98; p = 0.006) (Table 3). Mean (SD) sub-scores were 2.1 (0.3) for foods provided, 2.0 (0.3) for beverages provided, 1.4 (0.2) for feeding environment, 1.4 (0.3) for feeding practices, 0.7 (1.3) for menus and variety, 0.6 (0.3 for nutrition education, and 0.9 (0.7) for nutrition policy within a possible range of 0-3. In secondary analysis of EPAO nutrition sub-scales, we found that higher scores on the foods provided (8.98; 95% CI: 3.94, 14.01; p = 0.0006), nutrition education (5.37; 95% CI: 0.80, 9.94; p = 0.02), and nutrition policy (2.36; 95% CI: 0.23, 4.49; p = 0.03) sub-scales were all associated with greater HEI score in children. We did not observe associations among any of the other nutrition sub-scales.
+
+4. Discussion
+We found that better overall nutrition environments were associated with higher child diet quality in our sample of family child care homes. Three sub-scales within the nutrition environment appeared to be driving this result. In secondary analysis, we found that higher scores on the foods provided, nutrition education, and nutrition policy subscales were all positively associated with greater HEI score in children. Thus, only certain aspects of the family child care home nutrition environment appeared to be related to child diet quality in our study.
+
+Although the association between the foods provided sub-scale and child diet quality was somewhat anticipated, nutrition education and nutrition policy may be less so based on previous research (Erinosho, Hales, McWilliams, Emunah, &amp; Ward, 2012). In our study, we found that higher scores on the nutrition education sub-scale, which captures nutrition-related education for children and parents as well as professional development training for providers, was associated with improved diet quality in children. Additionally, higher scores on the policy sub-scale was also associated with increased child diet quality. The policy sub-scale measures formal written policies that govern aspects of nutrition, including providing healthy foods and beverages, creating a healthy feeding environment, using positive feeding practices, providing nutrition education for children and parents, engaging in professional development for nutrition, and limiting unhealthy foods allowed for holidays and celebrations. However, we did not assess the quality of the individual policies.
+
+While our results suggest that nutrition policies are an important contributor to child diet quality, it is still unclear if it is the policies themselves or if the presence of policies is simply a marker for better nutrition practices. In a previous study of child care centers in North Carolina (the same state where our study took place), having a policy was not associated with provider feeding practices, including modeling healthy eating, sitting with children during meals and snacks, and consuming unhealthy foods in front of children (Erinosho et al., 2012). However, in family child care homes, the owner is setting policy and is also serving as the primary child care provider. Thus, the owner is setting and implementing the policy. While these providers may see less of a need for formal policies, policies that are in place are likely reflected in practice. Thus, future intervention studies should explore strategies that help family child care home providers not only improve their nutrition practices, but also solidify those practices into formal policies.
+
+The environments in which young children spend time play a crucial role in shaping children’s eating behaviors. Although there are biological underpinnings for food preferences, much of it is likely learned behavior. Caregivers may use certain feeding practices to engage with children during mealtimes. Most of the literature, which has focused primarily on parents, suggests that more responsive practices and less restriction and pressure are associated with better child diet and weight outcomes (Mennella &amp; Ventura, 2011). Therefore, the finding that more responsive feeding practices (like prompts to eat healthy food, helping children respect their own hunger and satiety cues, and not using food for reward or comfort) were not associated with children’s diet quality in our sample is somewhat surprising. A handful of prior studies have examined the relationship between mealtime interactions and child diet quality, although all have been conducted in child care centers and how they measure feeding practices is variable. They found that providers’ enthusiastic role modeling of healthy eating (experimental design) (Hendy, 1999; Hendy &amp; Raudenbush, 2000) and conversations with children about healthy eating (Gubbels et al., 2010) were associated with better child diet quality. Furthermore, a study that examined provider feeding style via observation and child diet quality in Head Start Program children found that indulgent feeding was associated with increased consumption of vegetables, dairy foods, and starches (Hughes et al., 2007). Another study conducted in centers in the Netherlands found that several self-reported practices were associated with child diet. For example, when staff explained to children the process of food preparation and allowed children to assist in the process, children ate more fruit and fewer sweet snacks; additionally, when staff encouraged children to continue eating, they ate more vegetables (Gubbels et al., 2015). While these studies have been conducted in child care centers, some have used self-reported measures of feeding practices or the measurement tools have not been consistent. This may add to the variability in findings. Future studies within family child care homes are still needed but should consider using valid, reliable and consistent tools.
+
+Findings from this study also reinforce the need to identify strategies to improve the quality of children’s diets while at child care. Child HEI score in our sample of children attending family child care homes is similar to findings from another study of children in North Carolina child care centers. The mean HEI score was 58.9 among children in our sample, compared to 59.1 in the sample of children in center-based care (Erinosho, Ball, Hanson, Vaughn, &amp; Ward, 2013). These mean HEI scores are well below the recommended minimum score of 80 that indicates good diet quality (Kennedy, Ohls, Carlson, &amp; Fleming, 1995). However, few previous studies have even attempted to quantify the nutritional quality of foods and beverages provided to or consumed by children in family child care homes. A study of family child care homes in Washington found that higher daily food expenditures were associated with greater nutritional quality of menus, as well as with the number of whole grains and fresh fruits and vegetables served to children in care (Monsivais &amp; Johnson, 2012). The authors concluded that improving the nutritional quality of foods in family child care homes may require additional spending to provide healthier foods.
+
+Our study has some limitations. First, we did not assess child dietary intake over the course of the entire day, but instead focused on consumption in child care only. While HEI scores are meant to capture overall diet quality, the HEI scores in our study are indicative of diet quality in the family child care home only. Children may consume more or less healthy foods and beverages at home, and we were not able to assess the relationship between diet quality in the family child care home compared children’s intakes at home. Thus, we standardized the HEI per 1000 calories based on calories consumed in child care only. Additionally, we used HEI-2010 (Guenther et al., 2013), as HEI-2015 was not available when we conducted this analysis. However, HEI-2015 has been modified only slightly from the earlier version, so we would not expect our findings to change. We also conducted our dietary assessment over two full days of care, which may not be indicative of usual intake. There is also a chance that the family child care home providers altered the foods and beverages served or their mealtime interactions with children in response to being observed, so results are subject to social desirability bias. We also adjusted for both known confounders and theoretical associations in our analyses, such as provider BMI. Although prior studies have not included this potential confounder, we hypothesized that the provider’s weight status may play a role in feeding children and perhaps even children’s weight status. However, we were not able to assess causation in this cross-sectional study. Additionally, our results may not be generalizable to larger populations of family child care homes across North Carolina or in other states. Finally, state licensing and administrative regulations can differ substantially for family child care homes across states, which may impact the quality of foods and beverages served to children in care (Benjamin Neelon et al., 2015b;Benjamin, Cradock, Walker, Slining, &amp; Gillman, 2008).
+
+5. Conclusions
+Policy and intervention efforts to improve the quality of the nutrition environments of family child care homes may enhance children’s diet quality. Given the associations observed in this study, focusing directly on the foods and beverages served to children while in care may be most effective. However, additional studies should explore potential costs associated with improving the nutritional quality of meals and snacks in family child care homes compared to less expensive approaches. Enhancing the amount and quality of nutrition education and the number of nutrition policies in family child care homes may also help improve children’s diet quality. These efforts may be especially useful as they both reach parents and engage parents in the process of promoting healthy eating for their children in child care.
+
+Funding
+
+This study was supported by a grant from the National Institutes of Health (R01HL108390). The funders did not play a role in the study design; in the collection, analysis, and interpretation of data; in the writing of the manuscript; and in the decision to submit the manuscript for publication.
+
+Appendix A. Supplementary data
+
+Supplementary data related to this article can be found at http://dx.doi.org/10.1016/j.appet.2018.03.024.
+
+Table 1: The Environment and Policv Assessment and Observation (FPAO) instrument sub-scales to assess the familv child care home nutrition environment.
+
+EPAO nutrition sub-scale (# of best practice 
+items)	Description	
+
+              
+            	
+Foods provided (12)	Amount, type, and quality of foods provided to children during meals and snacks	
+Beverages provided (5)	Amount, type, and quality of beverages provided to children during meals and snacks	
+Feeding environment (7)	The general meal environment, including how foods are served to children, whether or not a TV is on during meals, what providers eat in front of children, use of enthusiastic role modelling, and presence of posters or visual prompts for healthy and unhealthy foods	
+Feeding practices (8)	Use of various feeding practices, including practices that are responsive to children’s cues of satiety and hunger including praise, asking children if they are still hungry before serving seconds, and discouraging use of food as a bribe or to comfort	
+Menus and variety (1)	Length of menu cycle	
+Nutrition education (4)	Nutrition-related education for children, professional development training for providers and other staff, and parent nutrition education through workshops, communications, and other messaging	
+Nutrition policy (1)	Presence of formal written policies that govern aspects of nutrition, including providing healthy foods and beverages, creating a healthy feeding environment, using positive feeding practices, providing nutrition education for children and parents, engaging in professional development for nutrition, and limiting unhealthy foods allowed for holidays and celebrations	
+Table 2: Characteristics of the family child care homes, providers, and children in the Keys to Healthy Family Child Care Homes study at baseline.
+
+Family child care home characteristics 
+(n = 166)	Mean (standard deviation)	
+
+              
+            	
+Number of children enrolled	7.2 (3.6)	
+Number of children receiving subsidy	3.4 (1.8)	
+Number of hours children spend in care each day	9.7 (1.4)	
+Number of staff members in addition to owner/primary provider	0.6 (0.7)	
+	
+              Percent (number)
+            	
+CACFP participation	91.0 (151)	
+
+              
+            	
+
+              Provider characteristics (n = 166)
+            	
+              Mean (standard deviation)
+            	
+
+              
+            	
+Age in years	49.4 (9.1)	
+Years employed in early care and education field	15.3 (8.1)	
+	
+              Percent (number)
+            	
+Sex, female	100.0 (166)	
+Race		
+ Black/African American	74.1 (123)	
+ White	18.1 (30)	
+ Asian/Asian American	1.2 (2)	
+ Multiple race/other race	6.6 (11)	
+Latina/Hispanic	4.8 (8)	
+BMI		
+ Normal weight	10.2 (17)	
+ Overweight	24.1 (40)	
+ Obese	65.7 (109)	
+Education		
+ High school diploma	24.5 (40)	
+ Associates degree or equivalent college credits	41.7 (81)	
+ College degree	22.7 (37)	
+ Graduate degree	3.1 (5)	
+
+              
+            	
+
+              Child characteristics (n = 496)
+            	
+              Mean (standard deviation)
+            	
+
+              
+            	
+Age in months	35.7 (11.4)	
+BMI z-score	0.8 (1.2)	
+	
+              Percent (number)
+            	
+Sex, female	50.4 (250)	
+Race		
+ Black/African American	63.3 (314)	
+ White	27.2 (135)	
+ Asian/Asian American	0.8 (4)	
+ Multiple race/other race	8.7 (43)	
+Latino(a)/Hispanic	4.0 (20)	
+BMI, body mass index; CACFP, Child and Adult Care Food Program.
+
+Table 3 Adjusteda estimates and 95% confidence intervals (CI) of family child care home nutrition environment total score and sub-section scores and child healthy eating index in the Keys to Healthy Family Child Care Homes study at baseline.
+
+Environment and Policy Assessment and 
+Observation (EPAO)	Child Healthy Eating Index	
+Estimate (CI)	P value	
+
+              
+            	
+Nutrition Environment - Total Score	1.16 (0.34, 1.98)	0.006	
+Foods Provided	8.98 (3.94, 14.01)	0.0006	
+Beverages Provided	4.36 (−0.20,	0.06	
+	8.92)		
+Feeding Environment	2.79 (−3.57,	0.39	
+	9.15)		
+Feeding Practices	2.31 (−2.86,	0.38	
+	7.50)		
+Menus and Variety	0.28 (−0.86,	0.63	
+	1.42)		
+Nutrition Education	5.37 (0.80, 9.94)	0.02	
+Nutrition Policy	2.36 (0.23, 4.49)	0.03	
+a Adjusted for child age, child sex, child body mass index z-score, child race, provider race, provider education, provider body mass index, and number of children in care.
+
+
+   References
+Ball SC , Benjamin SE , &amp; Ward DS  (2007 ). Development and reliability of an observation method to assess food intake of young children in child care . Journal of the American Dietetic Association , 107 (4 ), 656 –661 .17383271 
+Baxter SD , Thompson WO , Litaker MS , Frye FH , &amp; Guinn CH  (2002 ). Low accuracy and low consistency of fourth-graders’ school breakfast and school lunch recalls . Journal of the American Dietetic Association , 102 (3 ), 386 –395 .11905461 
+Benjamin Neelon SE , Duncan DT , Burgoine T , Mayhew M , &amp; Platt A  (2015b ). Promoting breastfeeding in child care through state regulation . Maternal and Child Health Journal . 19 (4 ), 745 –754 .25001500 
+Benjamin Neelon SE , Mayhew M , O’Neill JR , Neelon B , Li F , &amp; Pate RR  (2016b ). Comparative evaluation of a South Carolina policy to improve nutrition in child care . Journal of the Academy of Nutrition and Dietetics , 116 (6 ), 949 –956 .26777469 
+Benjamin Neelon SE , Ostbye T , Hales D , Vaughn A , &amp; Ward DS  (2016a ). Preventing childhood obesity in early care and education settings: Lessons from two intervention studies . Child: Care, Health and Development , 42 (3 ), 351 –358 .
+Benjamin Neelon SE , Schou Andersen C , Schmidt Morgen C ,  (2015a ). Early child care and obesity at 12 months of age in the Danish National Birth Cohort . International Journal of Obesity , 39 (1 ), 33 –38 .25233894 
+Benjamin SE , Cradock A , Walker EM , Slining M , &amp; Gillman MW  (2008 ). Obesity prevention in child care: A review of U.S. State regulations . BMC Public Health . 8 ,188 .18513424 
+Benjamin SE , Rifas-Shiman SL , Taveras EM ,  (2009 ). Early child care and adiposity at ages 1 and 3 years . Pediatrics , 124 (2 ), 555 –562 .19651579 
+Copeland KA , Benjamin Neelon SE , Howald AE , &amp; Wosje KS  (2013 ). Nutritional quality of meals compared to snacks in child care . Childhood Obesity , 9 (3 ), 223 –232 .23635311 
+Erinosho TO , Ball SC , Hanson PP , Vaughn AE , &amp; Ward DS  (2013 ). Assessing foods offered to children at child-care centers using the Healthy Eating Index-2005 . Journal of the Academy of Nutrition and Dietetics , 113 (8 ), 1084 –1089 .23773561 
+Erinosho TO , Hales DP , McWilliams CP , Emunah J , &amp; Ward DS  (2012 ). Nutrition policies at child-care centers and impact on role modeling of healthy eating behaviors of caregivers . Journal of the Academy of Nutrition and Dietetics , 112 (1 ), 119 –124 .22709641 
+Frampton AM , Sisson SB , Horm D , Campbell JE , Lora K , &amp; Ladner JL  (2014 ). What’s for lunch? An analysis of lunch menus in 83 urban and rural Oklahoma childcare centers providing all-day care to preschool children . Journal of the Academy of Nutrition and Dietetics , 114 (9 ), 1367 –1374 .24332085 
+Geoffroy MC , Power C , Touchette E ,  (2013 ). Childcare and overweight or obesity over 10 years of follow-up . The Journal of Pediatrics , 162 (4 ), 753 –758 e751 .23140878 
+Gittelsohn J , Shankar AV , Pokhrel RP , &amp; West KP Jr. (1994 ). Accuracy of estimating food intake by observation . Journal of the American Dietetic Association , 94 (11 ), 1273 –1277 .7963171 
+Gubbels JS , Gerards SM , &amp; Kremers SP  (2015 ). Use of food practices by childcare staff and the association with dietary intake of children at childcare . Nutrients , 7 (4 ), 2161 –2175 .25825829 
+Gubbels JS , Kremers SP , Stafleu A , Dagnelie PC , de Vries NK , &amp; Thijs C  (2010 ). Child-care environment and dietary intake of 2- and 3-year-old children . Journal of Human Nutrition and Dietetics : The Official Journal of the British Dietetic Association . 23 (1 ), 97 –101 .19943841 
+Gubbels JS , Raaijmakers LG , Gerards SM , &amp; Kremers SP  (2014 ). Dietary intake by Dutch 1- to 3-year-old children at childcare and at home . Nutrients , 6 (1 ), 304 –318 .24406847 
+Guenther PM , Casavale KO , Reedy J ,  (2013 ). Update of the healthy eating index: HEI-2010 . Journal of the Academy of Nutrition and Dietetics , 113 (4 ), 569 –580 .23415502 
+Hendy HM  (1999 ). Comparison of five teacher actions to encourage children’s new food acceptance . Annals of Behavioral Medicine : A Publication of the Society of Behavioral Medicine . 21 (1 ), 20 –26 .18425650 
+Hendy HM , &amp; Raudenbush B  (2000 ). Effectiveness of teacher modeling to encourage food acceptance in preschool children . Appetite , 34 (1 ), 61 –76 .10744893 
+Hughes SO , Patrick H , Power TG , Fisher JO , Anderson CB , &amp; Nicklas TA  (2007 ). The impact of child care providers’ feeding on children’s food consumption . Journal of Developmental and Behavioral Pediatrics : Journal of Developmental and Behavioral Pediatrics , 28 (2 ), 100 –107 .17435460 
+Kennedy ET , Ohls J , Carlson S , &amp; Fleming K  (1995 ). The healthy eating index: Design and applications . Journal of the American Dietetic Association , 95 (10 ), 1103 –1108 .7560680 
+Kharofa RY , Kalkwarf HJ , Khoury JC , &amp; Copeland KA  (2016 ). Are mealtime best practice guidelines for child care centers associated with energy, vegetable, and fruit intake? 
+Childhood Obesity (Print) . 12 (1 ), 52 –58 .26699096 
+Kim J , &amp; Peterson KE  (2008 ). Association of infant child care with infant feeding practices and weight gain among US infants . Archives of Pediatrics &amp; Adolescent Medicine . 162 (7 ), 627 –633 .18606933 
+LaRowe TL , Tomayko EJ , Meinen AM ,  (2016 ). Active early: One-year policy intervention to increase physical activity among early care and education programs in Wisconsin . BMC Public Health , 16 , 607 .27439770 
+Lin SL , Leung GM , Hui LL , Lam TH , &amp; Schooling CM  (2011 ). Is informal child care associated with childhood obesity? Evidence from Hong Kong’s “Children of 1997” birth cohort . International Journal of Epidemiology . 40 (5 ), 1238 –1246 .21624932 
+Maalouf J , Evers SC , Griffin M , &amp; Lyn R  (2013 ). Assessment of mealtime environments and nutrition practices in child care centers in Georgia . Childhood Obesity , 9 (5 ), 437 –445 .24050433 
+Maher EJ , Li G , Carter L , &amp; Johnson DB  (2008 ). Preschool child care participation and obesity at the start of kindergarten . Pediatrics , 122 (2 ), 322 –330 .18676550 
+McGrady ME , Mitchell MJ , Theodore SN , Sersion B , &amp; Holtzapple E  (2010 ). Preschool participation and BMI at kindergarten Entry: The case for early behavioral intervention . J Obes . 2010 .
+McLaren L , Zarrabi M , Dutton DJ , Auld MC , &amp; Emery JC  (2012 ). Child care: Implications for overweight/obesity in canadian children? 
+Chronic Dis Inj Can . 33 (1 ), 1 –11 .23294916 
+Mennella JA , &amp; Ventura AK  (2011 ). Early feeding: Setting the stage for healthy eating habits . Nestle Nutr Workshop Ser Pediatr Program . 68 , 153 –163 
+discussion 164-158. 
+Messiah SE , Lebron C , Moise R ,  (2017 ). Healthy caregivers-healthy children (HC2) phase 2: Integrating culturally sensitive childhood obesity prevention strategies into childcare center policies . Contemporary Clinical Trials . 53 , 60 –67 .27979753 
+Monsivais P , &amp; Johnson DB  (2012 ). Improving nutrition in home child care: Are food costs a barrier? 
+Public Health Nutrition . 15 (2 ), 370 –376 .22014448 
+Neelon SE , Burgoine T , Hesketh KR , &amp; Monsivais P  (2015 ). Nutrition practices of nurseries in England. Comparison with national guidelines . Appetite , 85 , 22 –29 .25450898 
+O’Neill JR , Dowda M , Benjamin Neelon SE , Neelon B , &amp; Pate RR  (2017 ). Effects of a new state policy on physical activity practices in child care centers in South Carolina . American Journal of Public Health , 107 (1 ), 144 –146 .27854537 
+Ostbye T , Mann CM , Vaughn AE ,  (2015 ). The keys to healthy family child care homes intervention: Study design and rationale . Contemporary Clinical Trials . 40 , 81 –89 .25460337 
+Parker M , Lloyd-Williams F , Weston G , Macklin J , &amp; McFadden K  (2011 ). Nursery nutrition in liverpool: An exploration of practice and nutritional analysis of food provided . Public Health Nutrition . 14 (10 ), 1867 –1875 .21729488 
+Pearce A , Li L , Abbas J ,  (2010 ). Is childcare associated with the risk of overweight and obesity in the early years? Findings from the UK Millennium Cohort Study . International Journal of Obesity , 34 (7 ), 1160 –1168 .20142828 
+Shorr I . How to weigh and measure children . New York : United Nations .
+Tovar A , Risica P , Mena N , Lawson E , Ankoma A , &amp; Gans KM  (2015 ). An assessment of nutrition practices and attitudes in family child-care homes: Implications for policy implementation . Preventing Chronic Disease . 12 
+E88 .26043303 
+Tovar A , Vaughn AE , Fallon M ,  (2016 ). Providers’ response to child eating behaviors: A direct observation study . Appetite , 105 , 534 –541 .27328098 
+Vaughn AE , Mazzucca S , Burney R ,  (2017 ). Assessment of nutrition and physical activity environments in family child care homes: Modification and psychometric testing of the environment and policy assessment and observation . BMC Public Health . 17 (1 ), 680 .28851348 
+Ward S , Belanger M , Donovan D , &amp; Carrier N  (2015 ). Systematic review of the relationship between childcare educators’ practices and preschoolers’ physical activity and eating behaviours. Obesity reviews . An Official Journal of the International Association for the Study of Obesity . 16 (12 ), 1055 –1070 .
+Ward D , Hales D , Haverly K ,  (2008 ). An instrument to assess the obesogenic environment of child care Centers . American Journal of Health Behavior . 32 (4 ), 380 –386 .18092898 
+Ward DS , Vaughn AE , Burney RV , &amp; Ostbye T  (2016 ). Recruitment of family child care homes for an obesity prevention intervention study . Contemporary clinical trials communications . 3 , 131 –138 .27617326 
+Zhou YE , Emerson JS , Levine RS , Kihlberg CJ , &amp; Hull PC  (2014 ). Childhood obesity prevention interventions in childcare settings: Systematic review of randomized and nonrandomized controlled trials. 
+American Journal of Health Promotion : Amercan Journal of Hospital Pharmacy , 28 (4 ), e92 –103 .
+

@@ -1,0 +1,406 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10125610832579Int J Obes (Lond)Int J Obes (Lond)International journal of obesity (2005)0307-05651476-549727200502505007910.1038/ijo.2016.97NIHMS786951ArticleChanging national guidelines is not enough: The impact of 1990 IOM recommendations on gestational weight gain among U.S. women Hamad Rita aCohen Alison K. bRehkopf David H. cb University of California Berkeley, School of Public Health, Division of Epidemiology, 101 Haviland Hall, Berkeley, CA 94720c Stanford University, School of Medicine, Division of General Medical Disciplines, 1070 Arastradero Road, Palo Alto, CA 94304a Corresponding author: Stanford University, School of Medicine, Division of General Medical Disciplines, 1070 Arastradero Road, Palo Alto, CA 94304; rhamad@stanford.edu; Tel: +1-512-636-145119 5 2016 20 5 2016 10 2016 20 11 2016 40 10 1529 1534 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background and Objectives
+Gestational weight gain (GWG) is associated with both long- and short-term maternal and child health outcomes, particularly obesity. Targeting maternal nutrition through policies is a potentially powerful pathway to influence these outcomes. Yet prior research has often failed to evaluate national policies and guidelines that address maternal and child health. In 1990, the U.S. Institute of Medicine (IOM) released guidelines recommending different GWG thresholds based on women’s pre-pregnancy body mass index (BMI), with the goal of improving infant birth weight. In this study, we employ quasi-experimental methods to examine whether the release of the IOM guidelines led to changes in GWG among a diverse and nationally representative sample of women.
+
+Methods
+Our sample included female participants of the National Longitudinal Survey of Youth who self-reported GWG for pregnancies during 1979–2000 (N = 7,442 pregnancies to 4,173 women). We compared GWG before and after the guidelines were released using difference-in-differences (DID) and regression discontinuity (RD) analyses.
+
+Results
+In DID analyses we found no reduction in GWG among overweight/obese women relative to normal/underweight women. Meanwhile, RD analyses demonstrated no changes in GWG by pre-pregnancy BMI for either overweight/obese or normal/underweight women. Results were similar for women regardless of educational attainment, race, or parity.
+
+Conclusions
+The findings suggest that national guidelines had no effect on weight gain among pregnant women. These results have implications for the implementation of policies targeting maternal and child health via dietary behaviors.
+
+
+   INTRODUCTION
+Gestational weight gain (GWG) is strongly associated with both long- and short-term maternal and child health outcomes. In the short-term, excessive GWG is associated with Cesarean delivery and large-for-gestational-age birth weight infants.1–4 In the long-term, excessive GWG is associated with maternal weight retention,5–8 which is in turn associated with long-term morbidity and mortality.9
+
+Targeting maternal nutrition through policies and other systemic interventions is a potentially powerful pathway to influence maternal and child health, as evidenced by federal food assistance programs and folate fortification policies.10, 11 However, policies can be difficult to evaluate rigorously. Public health researchers are increasingly calling for analyses to take advantage of natural policy experiments,12, 13 and there are a few examples of using such quasi-experimental approaches to assess the impacts of nutrition-related interventions and interventions to reduce obesity.14
+
+In 1990, the Institute of Medicine (IOM) released national guidelines recommending different GWG ranges tailored to four categories of maternal pre-pregnancy body mass index (BMI) (Table 1).15 Prior guidelines in 1970 had recommended GWG of 20–25lbs (9–11kg) for all women,16 and the new recommendations indicated that normal and underweight women should be gaining more weight during pregnancy, and that overweight and obese women should target lower ranges of GWG. The 1990 guidelines were primarily focused on improving infant birth weight; inadequate GWG leads to small-for-gestational-age (SGA) infants, and the guidelines were primarily focused on increasing weight gain among normal and underweight mothers.15 At the same time, they relied on evidence that fetal growth requires less pregnancy weight gain in heavier women and aimed to minimize risks of antenatal complications and maternal obesity.17
+
+This change in national guidelines in 1990 presents a unique natural experiment through which to examine the effects of guidelines on maternal weight gain, an important predictor of pediatric obesity. Specifically, the implementation of these new guidelines created a temporal discontinuity in the recommendations for weight gain in pregnancy. This discontinuity was unassociated with individual-level characteristics, and can therefore be considered an exogenous exposure. Moreover, the IOM report outlined different recommendations for different sub-groups, suggesting that a divergence in outcomes might be expected after the issuance of the guidelines. In this study, we employ several quasi-experimental methods to examine the effects of this discontinuity on GWG among a diverse and nationally representative longitudinal panel of women. We hypothesize that overweight and obese women experienced a reduction in GWG after the implementation of the IOM guidelines, with a possible increase in GWG among underweight and normal women. The findings represent an innovative contribution to the literature on interventions to address the childhood obesity epidemic.
+
+METHODS
+Data Set
+Our sample was drawn from the 1979 National Longitudinal Survey of Youth (NLSY), a nationally representative cohort study of women and men who were born during 1957–1964 (N = 6,283 women). Data were collected annually during 1979–1994, and biennially thereafter, although women also reported on pregnancies that occurred during non-survey years. Male participants were not surveyed about their partners’ pregnancies. We included all women who self-reported GWG for at least one of their pregnancies during 1979–2000 (N = 8,869 pregnancies to 4,573 women). Since the IOM recommendations were for term births, we included pregnancies that went to term based on a self-reported gestational length of at least 37 weeks (87.5% of pregnancies). We excluded pregnancies after 2000 (0.3% of pregnancies), as these older women are likely to differ in important ways from those who became pregnant earlier. The final sample size was 7,442 pregnancies (N = 4,173 women), with an average of 1.78 pregnancies per woman. While a power calculation is typically not conducted for a DID analysis, in this case we found that the sample size would allow us to detect a difference-in-difference in GWG of 0.5kg among overweight/obese women relative to normal/underweight women in the post-period relative to the pre-period, at an alpha of 5% and a power of 80% using a two-tailed test.
+
+Measures
+The primary outcome, GWG, was the self-reported weight gained during the pregnancy (i.e., weight at delivery minus pre-pregnancy weight). Women reported this value in pounds, and in this analysis we convert this to kilograms. The secondary outcome reported by participants was a dichotomous variable representing whether a woman’s doctor advised her to reduce calories during the pregnancy.
+
+The primary predictor was a dichotomous variable indicating whether the pregnancy took place before or after the change in IOM guidelines for GWG. The guidelines were released in May of 1990, but required some time to be disseminated and implemented into prenatal care. We therefore consider pregnancies to fall during the “pre” period if the child was born before July 1, 1991, while those born on or after July 1, 1991 fall during the “post” period. This allows for six months of dissemination followed by a nine-month pregnancy, after which we would expect to begin seeing effects of the guidelines.
+
+For each pregnancy, women reported their height and weight at the beginning of the pregnancy. From this information, we calculate a variable representing pre-pregnancy BMI (kg/m2), categorized as underweight (less than 18.5), normal (18.5 to 24.9), overweight (25 to 29.9), or obese (30 or more).
+
+Covariates included a categorical variable for educational attainment (less than high school, high school, some college, college or more), a dichotomous variable for marital status, a categorical variable for census region of residence (Northeast, North Central, South, West), a categorical variable representing parity (first child, second child, third child or more), whether a woman smoked during pregnancy, and child gender. Race was coded by the NLSY as a categorical variable – black, Hispanic, and white/other – with the latter group including over 90% white individuals. Mother’s age was included as a second-degree polynomial to allow for non-linear associations (i.e., age and age-squared). We included fixed effects (dummy variables) for child’s year of birth to control for secular trends. During the latter part of the study period in which surveys were conducted biennially, a woman’s covariates from the prior year were carried forward if the pregnancy took place during a non-survey year.
+
+Ethics Approval
+Ethics approval for the NLSY was provided by the institutional review boards of Ohio State University and the National Opinion Research Center at the University of Chicago, and by the U.S. Office of Management and Budget.
+
+Data Analysis
+We employed three types of quasi-experimental analyses to examine whether the change in policy guidelines were associated with GWG. We first conducted a difference-in-differences (DID) analysis. This technique compares the average change in the outcome over time in a “treatment” group to the average change over time in the “control” group before and after the intervention of interest.18 In this case, the intervention was the change in policy, which we modeled as taking place on July 1, 1991. The treatment group was overweight and obese women, for whom the new guidelines recommended a decrease in the range of GWG (Table 1). While the range of recommended weight gain after 1990 overlapped with recommendations prior to 1990 (15–25lbs compared with 20–25lbs, or 7–11kg compared to 9–11kg), we hypothesized that the decrease in the lower limit might lead to a decrease in GWG on average in this group. The comparison group was underweight and normal women, for whom the guidelines recommended increased GWG. The hypothesized graphical representation of this DID analysis is shown in Supplemental Figure 1, in which the hypothesized effect on the treatment group as a result of the intervention is represented by T. In other words, we expect a decrease in GWG among overweight/obese women relative to normal/underweight women. An important assumption underlying DID models is that the slopes among the treatment and control groups prior to the intervention are parallel, as shown in Supplemental Figure 1, which we test empirically. Another assumption is that no other policies or interventions occurred at exactly the same time as the change in IOM guidelines that would have differentially affected GWG among these two subgroups. The analysis was conducted by including an interaction term between the intervention (i.e., pre- or post-July 1991) and treatment vs. control status (i.e., underweight/normal vs. overweight/obese) (see Supplement for equation). As the treatment and control groups may differ in characteristics other than pre-pregnancy BMI, we also adjusted for the covariates listed above. Graphical analysis was conducted by fitting linear segments and locally weighted scatterplot smoothing regressions (i.e., lowess).
+
+The second quasi-experimental method we employed was sharp regression discontinuity (SRD). In this analysis, we separately examined overweight/obese women and underweight/normal women, as we hypothesized that GWG in these subgroups would have been influenced differently by the guidelines. For each group, two segments were fit to the data, before and after the designated cut-off at which treatment occurs.19 The treatment effect is represented as the differences in the intercept between these two lines at the cut-off, which in this case is July 1, 1991 (Supplemental Figure 2). Observations were grouped into temporal “bins” of three-month intervals. Narrower bin widths led to increased noise, while wider bin widths prevented the visualization of trends in the data. We confirmed selection of this bin width by calculating an F-statistic to determine whether changes in the width significantly increased the explanatory power of the model.19 To estimate the treatment effect, we included a dichotomous variable in the model that was valued 0 for births before the cut-off, and 1 for births after the cut-off. A statistically significant coefficient on this variable would suggest an effect of the policy guidelines on GWG (see Supplement for model). An underlying assumption of SRD analyses is that the other covariates that determine the outcome must be evolving smoothly with respect to the primary predictor (in this case, time); to improve model precision, we therefore included the covariates described above.
+
+Finally, the third type of quasi-experimental model was a fuzzy regression discontinuity (FRD) design. Unlike SRD, FRD does not assume that there is a sharp discontinuity at the cut-off, but rather an increase in the probability of treatment at the cut-off using an approach based on a two-stage least-squares instrumental variables (IV) analysis.19 As with SRD, we conducted separate analyses for overweight/obese and underweight/normal women. In the first stage, probability of treatment was predicted using a woman’s sociodemographic covariates and an indicator variable for whether the pregnancy occurred before or after July 1, 1991. The outcome variable in the first stage was a variable indicating whether a woman’s doctor discussed calorie reduction with her during her pregnancy. This predicted probability of treatment was then used as the independent variable in the second stage, in which the outcome variable was a continuous variable representing GWG. The estimate of interest was the coefficient on the predicted treatment variable in the second stage. In both stages, we controlled for the covariates described above. SRD and FRD models in this study were implemented using the rd package for Stata.20
+
+In all models, robust standard errors were clustered at the level of the mother, as some women had multiple pregnancies during the study period. Fixed effects (dummy variables) for child’s birth year were included to control for secular trends. We did not include sample weights, as the role of weighting is diminished when the goal of analysis is causal inference rather than population estimates.21 We did not include fixed effects for each woman, as this would limit the interpretation of the results to women with multiple children, it would substantially reduce the sample size, and because we expect a natural increase in weight gain with subsequent pregnancies at the within-person level.
+
+Finally, to examine whether there were heterogeneous effects by subgroup, we tested for effect modification by education. To do so, we included an interaction term between education and the predictor variable. Similarly, we also tested for effect modification by race and parity. This was only done for the DID model, as the small cell sizes in the FRD and SRD models precluded the ability to conduct this additional analysis.
+
+Alternative Specifications
+We conducted sensitivity analyses to test the robustness of our findings. First, we employed the BMI cut-offs described in the IOM report, which differed slightly from the standard definitions used in medical practice. Underweight was defined as a BMI of under 19.8, normal as 19.8–26.0, overweight as 26.1–29.0, and obese as greater than 29.0.15
+
+Next, we compared the proportion of women who were “in compliance” with recommendations – i.e., whose GWG was within the recommended range for their pre-pregnancy BMI – before and after July 1991.
+
+RESULTS
+Sample Characteristics
+The mean age of women in the sample was 25.4 years (Table 2). Over two-thirds were married, and about two-thirds had a high school education or less. Fifty-seven percent were white, 25.2% were black, and 16.5% were Hispanic. About three-quarters were underweight or normal at the beginning of their pregnancies. Mean GWG was 14.2kg (SD 6.9kg). About 61% of the overall sample stated that their physician advised them to reduce their calorie intake while pregnant. About one-fifth of pregnancies occurred after the cut-off of July 1, 1991. Trends in GWG by birth year are shown in Supplemental Figure 3.
+
+Difference-in-Differences Analysis
+The slopes representing change in GWG over time among overweight/obese and normal/underweight women prior to the intervention were parallel (Figure 1); this was similar when line segments were modeled using lowess regressions (Supplemental Figure 4). DID models demonstrated no difference in GWG among overweight and obese women relative to normal and underweight women in the post-policy relative to the pre-policy period (Supplemental Table 1, Figure 1). There were no heterogeneous effects by education, race, or parity (data available upon request).
+
+Regression Discontinuity Analyses
+A graphical examination of the data was not suggestive of a change in GWG at the cut-off of July 1991 among overweight/obese women (Figure 2A), nor for normal/underweight women (Figure 2B). This was confirmed by the SRD analysis, with no significant discontinuity identified at this cut-off for overweight/obese women (β = −2.85; 95% CI: −8.17, 2.48) or underweight/normal women (β = 0.77; 95% CI: −2.45, 4.00).
+
+In the FRD analysis, the first stage demonstrated no significant change in doctors advising overweight/obese women to reduce their calorie intake during the post period relative to the pre period, nor was there a difference for normal/underweight women. Unsurprisingly, the second stage therefore demonstrated no significant change in GWG for overweight/obese women (β = 28.73, 95% CI: −69.69, 127.2) or underweight/normal women (β = 7.15, 95% CI: −109.7, 124.0).
+
+Alternative Specifications
+When we constructed the BMI categorical variable using the definition as implemented in the IOM report, there were no significant effects of the change in guidelines in either the DID or RD analyses (data available upon request). Similarly, there was no significant difference in the proportion of women who were in compliance with the relevant recommendations before and after July 1991.
+
+DISCUSSION
+In this study, we examine the association of a change in national guidelines in 1990 with weight gain during pregnancy among a large diverse sample of women in the U.S. We find that overweight and obese women did not experience reductions in weight gain relative to normal and underweight women, and there were no heterogeneous effects by race, education, or parity. Neither did overweight/obese or underweight/normal women experience a change in GWG during the post-guideline period relative to the pre-guideline period. Although the data were collected during a time period when GWG and body weight more generally were increasing in the U.S.,22 our analytic strategy examines whether there was a specific discontinuity in this overall trend in the aftermath of the updated IOM guidelines, and we fail to find evidence of a departure from the overall trend. This study highlights the need to evaluate the effects of national policies on population health, in order to guide future implementation to maximize effectiveness. In this case, our results suggest that national guidelines from the IOM had no substantial impact on weight gain among pregnant women.
+
+There are several possible reasons for these null findings. First, at the time the guidelines were released, the focus was largely on increasing weight gain among normal and underweight women in order to prevent low birth weight outcomes. In fact, the committee did not even recommend an upper limit for obese women, and actively discouraged calorie restriction.17 This may have resulted in mixed messages for overweight and obese women: by recommending lower ranges of GWG for these women while at the same time discouraging calorie restriction, this may have limited the feasibility of reducing weight gain during their pregnancies. This is confirmed by our finding in the FRD models that overweight and obese women not only did not reduce their GWG, but they also do not report a change in whether their doctor advised a reduction in calorie intake. We find no changes among underweight/normal women either, for whom the guidelines recommended stable or increased weight gain; this suggests that even the primary focus of the IOM guidelines – increasing GWG among women at high risk of SGA infants – may not have been achieved.
+
+Another explanation is that the recommendations were not adequately disseminated to providers. A search of LexisNexis reveals fewer than 10 news articles regarding the recommendations during the decade of the 1990s. One prior study found that obstetrics providers demonstrated poor knowledge of and compliance with IOM recommendations and guidelines from the American College of Obstetricians and Gynecologists (ACOG), with limited knowledge of the definition of obesity and limited referrals of obese women to nutritionists.23 ACOG itself was likely delayed in adopting the guidelines; the organization did not endorse the more recent 2009 IOM recommendations until 2013.24 Unfortunately, online archiving of ACOG committee opinions did not begin until 1998, so similar documentation is not available for the 1990 recommendations. Alternatively, even if the guidelines were disseminated to providers who took action on the recommendations, randomized controlled trials suggest that interventions to prevent excessive GWG are not consistently successful at doing so, particularly in overweight and obese women.25–31 This study is therefore consistent with the literature demonstrating the difficulty in supporting weight management during pregnancy.
+
+The results of this study contrast with findings from other studies of policy changes targeting maternal and child health. For example, a quasi-experimental analysis found that providing a voucher to recipients of the Women, Infants, and Children food assistance program led to a decrease in the price of fruits and vegetables at participating markets.11 Another study of the earned income tax credit using a DID methodology found decreased low birth weight outcomes among recipient families.32 Notably, these policies involved more concrete interventions compared with the more abstract change in guidelines examined in this study; this suggests that updated recommendations do not necessarily result in improved outcomes, especially in the absence of other tangible modifications to other contributing factors. While the 1990 IOM guidelines called for provision of individualized nutrition assessment and counseling during prenatal care, these changes were not implemented nationally, and additional tools to aid clinicians in addressing a patient’s nutritional status were not provided until several years later.33, 34 Thus, while this study focuses on a historical policy change, it has important implications for public health: the findings suggest that changes in guidelines or policies in the future should be accompanied by more specific guidance and resources for implementation, as well as evaluations to assess whether the policies have their intended effect. This is especially pertinent for the updated GWG guidelines that were announced in 2009, for which sufficient data may soon be available to conduct a similar analysis to this one. Future studies could evaluate more recent policies, whose impacts may differ due to the evolution of how information is transmitted and communicated among and between patients and providers, although we are unaware of an existing national representative data set such as the NLSY that would allow for such a study to be conducted presently. Future research can also examine the impacts of these guidelines on other outcomes, such as birth weight and childhood health, although an effect on these outcomes is unlikely in the setting of no observable changes in the primary target of these guidelines, which was GWG.
+
+This study has several limitations, some of which may have contributed to the null findings. Given that pregnancy outcomes are self-reported, often in the year after the pregnancy, there may be measurement error in the measures employed here. While some suggest that there may be differential misclassification by pre-pregnancy BMI,35, 36 which might bias our estimates, others have shown that women self-reported estimates of gestational age, GWG, and pre-pregnancy weight are reasonably accurate.37–40 Moreover, as surveys were conducted biennially in later years, this may mean that self-reported measures may be less accurate later on, biasing our results towards the null. The mean length of time between delivery and interview date was 7.3 months. On the other hand, if women were aware of the guidelines, they may have been more likely to report GWG in the recommended ranges, due to social desirability bias; this would be more likely to demonstrate that the guidelines were effective. Yet we fail to find a significant effect, suggesting that this was not the case. Another limitation is that the NLSY does not include a question about whether a woman’s physician recommended an increase in caloric intake, so we are unable to examine this aspect of the policy. Also, the study sample included a panel of women over a 21-year period; while we flexibly modeled age in these analyses and included year fixed effects, this nevertheless may have not sufficiently controlled for secular trends in weight gain in this aging sample, thereby potentially making it difficult to detect changes in GWG. Similarly, although the NLSY does constitute a nationally representative sample, it does not capture the experiences of younger women during the latter part of the study period. Additionally, while the quasi-experimental methods that we employ are likely an improvement over simpler multivariate regression methods, they nevertheless are not ideal in inferring a causal relationship between the guidelines and resulting GWG. For example, the DID relies on the comparability during the pre-period among the “treatment” and “control” groups, and overweight and obese women may differ in important ways from underweight and normal women. Similarly, we are not able to rule out the possibility of another event occurring simultaneously in the year of the release of the guidelines that would have counteracted their effect, although to our knowledge there were no major concurrent changes in determinants of GWG. Finally, the diffusion of the policy to practitioners and patients may have been slower than we have assumed here. Unfortunately, given that there are fewer births in the later part of the study period, we are not able to account for this possibility by conducting additional sensitivity tests in which we model the cut-off in later years, due to the instability of subsequent estimates.
+
+This study employs several quasi-experimental methods, providing evidence that a change in national guidelines regarding GWG did not result in changes in weight gain during pregnancy among overweight/obese or normal/underweight women. This may be because the policy change did not involve concrete changes to women’s social and physical environments that would support this change. In the future, policymakers might consider tying changes in recommendations with more tangible programs, such as financial incentives, regulating the advertising of food products, or modifying urban environments to promote physical activity.41 This study also highlights the need to regularly conduct evaluations of the impacts of policies on population health.
+
+Supplementary Material
+1  FUNDING: This work was supported by a grant from the National Institute of Minority Health and Health Disparities (R01MD6104). RH is supported by a KL2 Mentored Career Development Award through the Stanford Clinical and Translational Science Award to Spectrum (KL2TR001083). DHR is supported by the National Institute of Aging (K01AG047280).
+
+CONFLICTS OF INTEREST: The authors have no conflicts of interest to disclose.
+
+Figure 1 Graphical representation of difference-in-differences analysis, comparing overweight/obese women to normal/underweight women before and after cut-off of July 1991
+N = 7,133 pregnancies. Vertical line represents cut-off of July 1991.
+
+Figure 2 Graphical analysis of regression discontinuity, comparing women before and after cut-off of July 1991, by pre-pregnancy BMI
+BMI = body mass index. N = 1,848 pregnancies in panel A; and 5,285 pregnancies in panel B.
+
+Table 1 Change in IOM recommendations for gestational weight gain
+
+BMI Category	Recommended GWG
+	
+Before 1990	After 1990	
+
+	
+	Pounds	Kilograms	Pounds	Kilograms	
+
+	
+Underweight	20–25	9–11	28–40	13–18	
+Normal	20–25	9–11	25–35	11–16	
+Overweight	20–25	9–11	15–25	7–11	
+Obese	20–25	9–11	At least 15a	At least 7a	
+Source: Institute of Medicine, 1990.
+
+IOM = Institute of Medicine; GWG = gestational weight gain.
+
+a While the report did not recommend a specific ceiling of GWG for obese women, investigators typically use the same upper limit as recommended for overweight women (29, 40).
+
+Table 2 Sample characteristics
+
+Sociodemographic characteristics	N (%)	Mean (SD)	
+
+	
+Age		25.4 (5.1)	
+Married	5,128 (68.9)		
+Education			
+ Less than high school	1,764 (23.7)		
+ High school	3,252 (43.7)		
+ Some college	1,414 (19.0)		
+ College or more	1,012 (13.6)		
+Race			
+ White/Other	4,339 (58.3)		
+ Black	1,875 (25.2)		
+ Hispanic	1,228 (16.5)		
+Parity			
+ First child	3,051 (41.0)		
+ Second child	2,538 (34.1)		
+ Third or greater child	1,853 (24.9)		
+Region			
+ Northeast	1,228 (16.5)		
+ North central	1,816 (24.4)		
+ South	2,828 (38.0)		
+ West	1,570 (21.1)		
+Smoked during pregnancy	2,054 (27.6)		
+
+	
+
+              Pregnancy Characteristics
+            	
+
+	
+Pre-pregnancy BMI			
+ Underweight		566 (7.6)	
+ Normal		4,956 (66.6)	
+ Overweight		1,287 (17.3)	
+ Obesity		633 (8.5)	
+Doctor advised calorie reduction		61.1	
+Gestational weight gain (kg)	14.2 (6.9)		
+Date of pregnancy			
+ Jan 1979 – Jun 1991		5,998 (80.6)	
+ Jul 1991 – Dec 2000		1,444 (19.4)	
+N = 4,173 women and 7,442 pregnancies. N(%) above refers to number of pregnancies. Women from the 1979 NLSY cohort were included if they provided information for at least one pregnancy during the study period.
+
+
+   1 
+            Haugen M  
+            Brantsæter AL  
+            Winkvist A  
+            Lissner L  
+            Alexander J  
+            Oftedal B  
+             
+           Associations of pre-pregnancy body mass index and gestational weight gain with pregnancy outcome and postpartum weight retention: a prospective observational cohort study BMC Pregnancy Childbirth 2014 14 1 201 24917037 
+2 
+            Chung JG  
+            Taylor RS  
+            Thompson JM  
+            Anderson NH  
+            Dekker GA  
+            Kenny LC  
+             
+           Gestational weight gain and adverse pregnancy outcomes in a nulliparous cohort European Journal of Obstetrics &amp; Gynecology and Reproductive Biology 2013 167 2 149 153 23266206 
+3 
+            Margerison-Zilko CE  
+            Shrimali BP  
+            Eskenazi B  
+            Lahiff M  
+            Lindquist AR  
+            Abrams BF  
+           Trimester of maternal gestational weight gain and offspring body weight at birth and age five Maternal and child health journal 2012 16 6 1215 1223 21735140 
+4 
+            Ferraro Z  
+            Barrowman N  
+            Prud'Homme D  
+            Walker M  
+            Wen S  
+            Rodger M  
+             
+           Excessive gestational weight gain predicts large for gestational age neonates independent of maternal body mass index Journal of Maternal-Fetal and Neonatal Medicine 2012 25 5 538 542 22081936 
+5 
+            Cohen AK  
+            Chaffee BW  
+            Rehkopf DH  
+            Coyle JR  
+            Abrams B  
+           Excessive gestational weight gain over multiple pregnancies and the prevalence of obesity at age 40 Int J Obes 2014 38 5 714 718 
+6 
+            Chaffee BW  
+            Abrams B  
+            Cohen AK  
+            Rehkopf DH  
+           Socioeconomic disadvantage in childhood as a predictor of excessive gestational weight gain and obesity in midlife adulthood Emerging themes in epidemiology 2015 12 1 4 25755672 
+7 
+            Robinson CA  
+            Cohen AK  
+            Rehkopf DH  
+            Deardorff J  
+            Ritchie L  
+            Jayaweera RT  
+             
+           Pregnancy and post-delivery maternal weight changes and overweight in preschool children Prev Med 2014 60 77 82 24370455 
+8 
+            Sridhar SB  
+            Darbinian J  
+            Ehrlich SF  
+            Markman MA  
+            Gunderson EP  
+            Ferrara A  
+             
+           Maternal gestational weight gain and offspring risk for childhood overweight or obesity Am J Obstet Gynecol 2014 211 3 259.e1 259.e8 24735804 
+9 
+            Flegal KM  
+            Graubard BI  
+            Williamson DF  
+            Gail MH  
+           Excess deaths associated with underweight, overweight, and obesity JAMA 2005 293 15 1861 1867 15840860 
+10 
+            Sumar N  
+            McLaren L  
+           Impact on social inequalities of population strategies of prevention for folate intake in women of childbearing age Am J Public Health 2011 101 7 1218 21566037 
+11 
+            Zenk SN  
+            Powell LM  
+            Odoms-Young AM  
+            Krauss R  
+            Fitzgibbon ML  
+            Block D  
+             
+           Impact of the revised Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) food package policy on fruit and vegetable prices Journal of the Academy of Nutrition and Dietetics 2014 114 2 288 296 24183996 
+12 
+            Craig P  
+            Cooper C  
+            Gunnell D  
+            Haw S  
+            Lawson K  
+            Macintyre S  
+             
+           Using natural experiments to evaluate population health interventions: new Medical Research Council guidance J Epidemiol Community Health 2012 jech-2011–200375 
+13 
+            Petticrew M  
+            Cummins S  
+            Ferrell C  
+            Findlay A  
+            Higgins C  
+            Hoy C  
+             
+           Natural experiments: an underused tool for public health? Public Health 2005 119 9 751 757 15913681 
+14 
+            Mayne S  
+            Auchincloss A  
+            Michael Y  
+           Impact of policy and built environment changes on obesity-related outcomes: a systematic review of naturally occurring experiments Obes Rev 2015 16 5 362 375 25753170 
+15 Institute of Medicine Nutrition during pregnancy: part I, weight gain: part II, nutrient supplements Washington, D.C 1990 Report no.: 0309041384 
+16 Committee on Maternal Nutrition Maternal nutrition and the course of pregnancy National Academy of Sciences Washington, D.C 1970 
+17 
+            Abrams B  
+            Altman SL  
+            Pickett KE  
+           Pregnancy weight gain: still controversial The American journal of clinical nutrition 2000 71 5 1233s 1241s 10799396 
+18 
+            Meyer BD  
+           Natural and Quasi-Experiments in Economics Journal of Business &amp; Economic Statistics 1995 13 2 151 161 
+19 
+            Jacob RT  
+            Zhu P  
+            Somers M-A  
+            Bloom HS  
+           A practical guide to regression discontinuity MDRC 2012 
+20 
+            Nichols A  
+           rd 2.0: Revised Stata module for regression discontinuity estimation 2014 
+21 
+            Solon G  
+            Haider SJ  
+            Wooldridge JM  
+           What Are We Weighting For? J Hum Resour 2015 50 2 301 316 
+22 
+            Gunderson EP  
+            Abrams B  
+           Epidemiology of Gestational Weight Gain and Body Weight Changes After Pregnancy Epidemiol Rev 1999 21 2 261 275 10682262 
+23 
+            Herring SJ  
+            Platek DN  
+            Elliott P  
+            Riley LE  
+            Stuebe AM  
+            Oken E  
+           Addressing Obesity in Pregnancy: What Do Obstetric Providers Recommend? J Womens Health 2010 19 1 65 70 
+24 Obstetricians ACo, Gynecologists Weight gain during pregnancy: committee opinion no. 548 Obstet Gynecol 2013 121 210 2 23262962 
+25 
+            Guelinckx I  
+            Devlieger R  
+            Mullie P  
+            Vansant G  
+           Effect of lifestyle intervention on dietary habits, physical activity, and gestational weight gain in obese pregnant women: a randomized controlled trial The American Journal of Clinical Nutrition 2010 91 2 373 380 19955397 
+26 
+            Olson CM  
+            Strawderman MS  
+            Reed RG  
+           Efficacy of an intervention to prevent excessive gestational weight gain Am J Obstet Gynecol 2004 191 2 530 536 15343232 
+27 
+            Polley BA  
+            Wing R  
+            Sims C  
+           Randomized controlled trial to prevent excessive weight gain in pregnant women International journal of obesity and related metabolic disorders: journal of the International Association for the Study of Obesity 2002 26 11 1494 1502 
+28 
+            Wolff S  
+            Legarth J  
+            Vangsgaard K  
+            Toubro S  
+            Astrup A  
+           A randomized trial of the effects of dietary counseling on gestational weight gain and glucose metabolism in obese pregnant women Int J Obes 2008 32 3 495 501 
+29 
+            Phelan S  
+            Phipps MG  
+            Abrams B  
+            Darroch F  
+            Schaffner A  
+            Wing RR  
+           Randomized trial of a behavioral intervention to prevent excessive gestational weight gain: the Fit for Delivery Study The American Journal of Clinical Nutrition 2011 93 4 772 779 21310836 
+30 
+            Streuling I  
+            Beyerlein A  
+            von Kries R  
+           Can gestational weight gain be modified by increasing physical activity and diet counseling? A meta-analysis of interventional trials The American Journal of Clinical Nutrition 2010 
+31 
+            Skouteris H  
+            Hartley-Clark L  
+            McCabe M  
+            Milgrom J  
+            Kent B  
+            Herring SJ  
+             
+           Preventing excessive gestational weight gain: a systematic review of interventions Obes Rev 2010 11 11 757 768 20880128 
+32 
+            Hoynes HW  
+            Miller DL  
+            Simon D  
+           Income, the Earned Income Tax Credit, and Infant Health American Economic Journal: Economic Policy 2015 7 1 172 211 
+33 Institute of Medicine Nutrition During Pregnancy and Lactation: An Implementation Guide National Academy Press Washington, D.C 1992 
+34 Institute of Medicine Nutrition Services in Perinatal Care 2 National Academy Press Washington, D.C 1992 
+35 
+            Mandujano A  
+            Huston-Presley L  
+            Waters TP  
+            Catalano PM  
+           Women’s reported weight: is there a discrepancy? The Journal of Maternal-Fetal &amp; Neonatal Medicine 2012 25 8 1395 1398 22067020 
+36 
+            McClure CK  
+            Bodnar LM  
+            Ness R  
+            Catov JM  
+           Accuracy of Maternal Recall of Gestational Weight Gain 4 to 12 Years After Delivery Obesity 2011 19 5 1047 1053 21164507 
+37 
+            Bodnar L  
+            Abrams B  
+            Bertolet M  
+            Gernand A  
+            Parisi S  
+            Himes K  
+             
+           Validity of Birth Certificate-Derived Maternal Weight Data Paediatr Perinat Epidemiol 2014 28 203 212 24673550 
+38 
+            Buka S  
+            Goldsten J  
+            Spartosa E  
+            Tsuang M  
+           The retrospective measurement of prenatal and perinatal events: accuracy of maternal recall Schizophr Res 2004 71 417 426 15474913 
+39 
+            Hinkle S  
+            Sharma A  
+            Schieve L  
+            Ramakrishnan U  
+            Swan D  
+            Stein A  
+           Reliability of Gestational Weight Gain Reported Postpartum: A Comparison to the Birth Certificate Maternal and Child Health Journal 2013 17 756 765 22706998 
+40 
+            Shin D  
+            Chung H  
+            Weatherspoon L  
+            Song W  
+           Validity of Prepregnancy Weight Status Estimated from Self-reported Height and Weight Maternal and Child Health Journal 2014 18 1667 1674 24337814 
+41 
+            Frieden TR  
+            Dietz W  
+            Collins J  
+           Reducing Childhood Obesity Through Policy Change: Acting Now To Prevent Obesity Health Aff (Millwood) 2010 29 3 357 363 20194973 
+

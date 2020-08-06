@@ -1,0 +1,388 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10089200521821J Acquir Immune Defic SyndrJ. Acquir. Immune Defic. Syndr.Journal of acquired immune deficiency syndromes (1999)1525-41351944-788427116046502345110.1097/QAI.0000000000001034NIHMS777052ArticleLinear Growth Faltering Among HIV-Exposed Uninfected Children Sudfeld Christopher R. ScD1Lei Quanhong PhD3Chinyanga Yvonne 4Tumbare Esther MBChB, MPH5Khan Nealia MPH2Dapaah-Siakwan Fredrick MD6Sebaka Abia 4Sibiya Jacinta 4van Widenfelt Erik 7Shapiro Roger L. MD, MPH27Makhema Joseph MBChB7Fawzi Wafaie W. MBBS, DrPH1Powis Kathleen M. MD, MPH2781 Department of Global Health and Population, Harvard T.H. Chan School of Public Health, Boston, MA, USA2 Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, MA, USA3 TransMedics, Andover, MA, USA4 Botswana Ministry of Health, Division of Nutrition and Food Control, Gaborone, Botswana5 Elizabeth Glaser Pediatric AIDS Foundation, Masero, Lesotho6 University of Miami, Holtz Children’s Hospital, Miami, FL, USA7 Botswana Harvard AIDS Institute Partnership, Gaborone, Botswana8 Departments of Internal Medicine and Pediatrics, Massachusetts General Hospital, Boston, MA, USAAddress for correspondence and reprints: Kathleen M. Powis, kpowis@mgh.harvard.edu, Address: 125 Nashua St, Office 8426, Boston, MA 02114, Phone: (617) 643-2054/Fax: (617) 643-910521 4 2016 1 10 2016 01 10 2017 73 2 182 189 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+HIV-exposed uninfected (HEU) children experience increased mortality compared with their HIV-unexposed uninfected (HUU) peers. It is unclear whether HEU children are also at increased risk for undernutrition, a modifiable risk factor for mortality.
+
+Methods
+We conducted a cross-sectional, population-based survey of children under 5 years of age in five health districts in Botswana. Linear mixed-effects models were used to assess continuous outcomes while generalized estimating equations were used to estimate relative risks of stunting, wasting, and underweight between HEU (n=396) and HUU (n=1,109) children. Secondary analyses examined potential mediation by low birthweight.
+
+Results
+The association between maternal HIV-exposure and child stunting varied significantly by child age (p&lt;0.01). HEU children &lt;1 year and ≥2 years of age had 1.85 (95% CI: 1.03–3.31; p=0.04) and 1.41 (95% CI: 1.06–1.88; p=0.02) times the risk of stunting compared with HUU children after multivariate adjustment, respectively. During the period of 1–2 years of age, when breastfeeding cessation occurred among HUU children, HUU children had increased risk of stunting compared with HEU children who were predominantly formula fed (RR: 1.56; 95% CI: 1.05–2.32; p=0.03). A mediation analysis estimated 67% of the excess risk of stunting among HEU children ≥2 years was attributable to low birthweight (p=0.02). There was no difference in risk of wasting or underweight.
+
+Conclusion
+HEU children are at increased risk of stunting compared with their HUU peers; however, interventions to increase birthweight may significantly ameliorate this excess risk. Interventions to support optimal growth during weaning are needed for all breastfed children.
+
+HIVchildmalnutritionstuntingbirthweightinfant
+   Introduction
+In 2013 the World Health Organization’s guidelines for the prevention of mother-to-child HIV transmission (PMTCT) were changed to recommend all HIV-infected women initiate triple antiretrovirals in pregnancy and continue antiretrovirals for their lifetime, including throughout breastfeeding.1 If this plan is implemented consistently worldwide, this public health approach holds the promise of virtually eliminating mother-to-child HIV transmission, but will also translate to over 1.5 million children being born HIV-exposed uninfected (HEU) on an annual basis.2,3 In resource-limited settings, HEU children experience 2- to 3-fold higher mortality compared with children born to HIV-uninfected women.4–7 Unless the etiologies underlying this health disparity and interventions to ensure the health and survival of HEU children in resource-limited settings are identified, PMTCT successes and the expansion of antiretroviral use in pregnancy may be partially overshadowed by excess mortality among HEU children.
+
+An estimated 3.1 million children under the age of 5 years (U5) died in 2011 as a result of underlying undernutrition, or ~45% of total U5 deaths.8 In sub-Saharan Africa, undernutrition has been associated with one-third of all U5 deaths.9 In addition to the mortality consequences, restricted linear growth or stunting during early childhood has also been linked to reduced cognition, educational attainment, and lower lifetime earnings.10,11 There is significant overlap in sub-Saharan Africa between geographic areas where U5 undernutrition predominates and generalized HIV epidemics. Higher mortality among HEU children in resource-limited settings like sub-Saharan Africa, where undernutrition is a leading cause of mortality, highlights the importance of understanding the association, if any, between HIV-exposure and undernutrition.
+
+In this study we utilize data from a cross-sectional population-based survey of U5 children in Botswana to examine differences in anthropometric growth, comparing HEU children with HIV-unexposed uninfected (HUU) children. We also investigate whether the strength of the associations differ by child age and explore if differences in birthweight between HEU and HUU children potentially mediates differences in postnatal growth.
+
+Methods
+Study design
+The Determinants of Malnutrition (DoM) study was conducted between September 2013 and February 2014 within five health districts in Botswana experiencing medium to high rates of undernutrition: Francistown, Ghanzi, Kgalagadi South, Kweneng East and Selebi Phikwe. The Republic of Botswana’s Ministry of Health collaborated with Botswana Harvard AIDS Institute Partnership to carry-out the study funded by the United States Centers for Disease Control and Prevention. The DoM study was a cross-sectional study enrolling U5 children and their caregivers as they attended child welfare clinics (CWCs). Parents or guardians, referred to as caregivers, provided informed written consent to participate in the study with the child or children they accompanied to CWCs. This study of HIV-exposure is limited to children enrolled in the DoM study whose mothers’ HIV status during the pregnancy was known and, if the child was born to an HIV-infected mother, the child had HIV testing that was negative for HIV. HIV-infected children and children with unknown HIV status were excluded from this analysis.
+
+Botswana has an extensive network of government run hospitals, clinics, health posts and mobile stops. CWCs are held at almost all of these health locations and are free of charge for Botswana citizens. CWCs are structured to be attended monthly by U5 children as well-child clinics. During CWCs, a child’s weight is evaluated monthly, length/height is evaluated twice a year, and children receive scheduled immunizations. In addition, caregivers are provided with age specific nutritional supplements for children, so long as the children are between the ages of 6 months and 5 years. As part of the national PMTCT strategy, exclusive formula feeding is promoted for all HIV-exposed infants, with provision of free infant formula throughl 12 months of age. Formula feeding has high uptake among HIV-infected women in Botswana.
+
+Health facility and participant selection
+A two-stage stratified sampling process using probability proportional to size (PPS) sampling technique was used. The sampling frame was obtained from Botswana’s Ministry of Health and it comprised all the 176 health facilities and active mobile stops that conduct CWCs in the 5 districts. In the first stage facilities with average monthly under-5 CWC attendance of 75 or higher were divided by district and type of the health facility (hospital, clinic, health post, and mobile stop). A total of 36 health facilities (primary sampling unit) across five districts were then selected. The number of selected primary sampling units in each district was proportional to the average monthly volume in all facilities in the district. Within each district, the number of units sampled by each type of health facility was fixed at 55 children, except for the highest volume health clinic located in Mogoditshane, within the Kweneng East District Clinic, where a sample size of 110 was assigned. Facility classification as urban, peri-urban, or rural was based upon analysis provided by Botswana’s Department of Town and Regional Planning housed within the Ministry of Local Government and Rural Development. In the second stage, caregivers attending CWCs were randomly selected each day until the target number of U5 children was reached. Children were only allowed to be sampled once during the study.
+
+Survey instrument and data collection
+Study activities included a questionnaire for the caregiver and chart abstraction from the child’s under-5 health booklet to obtain birth weight, immunization records, sick visit and hospitalization data, HIV testing results of the child, if born to an HIV-infected mother, and maternal HIV status during the pregnancy. Data collected included sex and age of the child at enrollment, birth weight, birth order of the child, feeding choice in infancy as either breast, formula feeding or a combination of breast and formula feeding, duration of infant breastfeeding, history of up to the last five episodes of diarrheal illness or respiratory infection requiring outpatient care or hospitalization of the child if applicable, location of facility, maternal marital status, primary caregiver (i.e. mother, grandmother, aunt), household income, access to tap water, flush toilet, electricity and refrigerator in the home where the child resides, and access to gas or electricity as a cooking source compared with paraffin stove or wood in the home where the child resides. Additional data included number individuals in the household where the child resides eating from the same pot (communal eating), report of food insecurity in the household where the child resides either on the day of the study visit or within the past month, and maternal age at time of the child’s birth. Food insecurity was assessed by caregiver-report of insufficient access to food either on the day of the study visit or in the past month. These two food insecurity questions have been used in past Botswana surveys, but are not part of a validated food security instrument.
+
+Study staff trained in the acquisition of anthropometric measures used calibrated scales for weight assessment, length boards for recumbent assessment of length for children &lt; 24 months of age, and stadiometers for height assessment of children ≥ 24 months of age. Study procedures required assessment of the child’s weight and length/height three consecutive times at the same visit and the average of the three results was used as the final weight and length/height for the child. Length/height-for-age z score (LAZ/HAZ), weight-for-length z-score (WLZ/WHZ), and weight-for-age z score (WAZ) were calculated using WHO child growth standards.12 Stunting, wasting, and underweight were defined as a LAZ/HAZ, WLZ/WHZ, and WAZ of 2 or more standard deviations below the WHO population median, respectively.
+
+Statistical methods
+Maternal, caregiver, and child characteristics were compared between HEU and HUU children using the Wilcoxon rank-sum test for continuous variables and the χ2 test for categorical variables. We then assessed mean differences in LAZ/HAZ, WLZ/WHZ, and WAZ for HEU versus HUU children using linear mixed effects models (PROC MIXED) to account for clustering by facility due to sampling methods. Generalized estimating equations (GEEs) (PROC GENMOD) with log-links and exchangeable correlation matrices were used to account for clustering by facility and obtain relative risk estimates for the binomial outcomes of stunting, wasting, and underweight.13,14 Multivariate models were defined a priori and included covariates for maternal age (&lt;25, 25–30, and 30+ years), maternal marital status (married, single, divorces/widowed), location of enrollment (urban, peri-urban, rural), household income &lt;1,000 Pula per month (yes/no), electricity (yes/no), refrigerator (yes/no), tap water (yes/no), electric or gas cooking (yes/no), flush toilet (yes/no), child sex, and birth order (first born, 2–4, or 5+). We also examined child age as an effect modifier using interaction terms in multivariate models with statistical significance of effect modification assessed using the likelihood ratio test. If statistically significant effect modification was determined, all models were presented stratified by child age.
+
+We conducted an exploratory mediation analyses to determine the potential of low birthweight (LBW), defined as a birthweight of &lt;2500 grams, to mediate differences in risk of child stunting between HEU and HUU children. In order to do so, we first created a multivariate base model to estimate the independent association of maternal HIV-exposure with the binary outcome of stunting. Next, we added a covariate for LBW to the base model to evaluate the potential mediating effect of LBW on the association between HEU children and stunting. We then calculated the mediation proportion and its p-value using the publicly available %Mediate macro (http://www.hsph.harvard.edu/donna-spiegelman/software/mediate/).15 The mediation proportion is defined as the proportion of excess risk of stunting for HEU children relative to HUU children that can be attributed to elevated prevalence of low birth weight among HEU children. We also present the relationship of LBW with stunting stratified by maternal HIV status, in order to confirm the assumption of no effect modification by the mediation variable.
+
+In all analyses, missing data for covariates was retained in the analysis using the missing indicator method for variables missing greater than 1% of the observations. All p-values were 2-sided and p&lt;0.05 was considered statistically significant. Statistical analyses were performed using the SAS v 9.4 (SAS Institute Inc., Cary, NC, USA).
+
+Ethics
+The study was approved by the Botswana Health Research Development Committee, Center for Global Health at the Centers for Disease Control in Atlanta, USA and the Massachusetts General Hospital’s Human Subjects Committee.
+
+Results
+At total of 1,703 children &lt;5 years of age were enrolled in the DoM study, of these 1,109 (65.1%) were born to HIV-uninfected mothers, 432 (25.4.8%) to HIV-infected mothers, and 162 (9.5%) to mothers with unknown HIV status in pregnancy. Among HIV-exposed children, 396 (91.7%) were HEU, 7 (1.6%) HIV-infected, and 29 (6.7%) were never tested or had an unknown HIV status at the time of the study visit. This study provides an evaluation of growth for the 396 HEU children and 1,109 HUU children.
+
+Table 1 presents maternal, caregiver, and child characteristics for HEU and HUU children. Mothers of HEU children tended to be older than mothers of HUU children (30.1 versus 25.9 years) and slightly more HEU children attended CWCs in urban areas (47.1% versus 42.0%). HEU children also tended to have lower socioeconomic status compared with HUU children. A significantly higher proportion of HEU children resided in households where the monthly household income was less than 1000 pula per month (equivalent to ~$120 US Dollars) (37.5% versus 25.5%) and HEU households were less likely to have electricity, tap water, and refrigeration. As for child characteristics, HEU children tended to have higher birth order and were more likely to be born with low birthweight (&lt;2500g) compared with HUU children (18.3% versus 10.8%). In addition, 94.7% of HEU children were exclusively formula fed from birth due to the national PMTCT strategy, while only 21.7% of HUU children received infant formula.
+
+We examined the association of HIV-exposure with linear growth (LAZ/HAZ) and determined the strength of association significantly varied by child age (p-value for effect modification: &lt;0.01). As shown in Figure 1, the prevalence of stunting was greater for HEU children compared with HUU children during the first year of life and from 2–5 years of age. During the period of 1–2 years of age, HUU children had increased prevalence of stunting. Table 2 presents univariate and multivariate mean differences in LAZ/HAZ and relative risk of stunting for HEU versus HUU children stratified by child age. Among children &lt;1 year of age, HEU children had significantly increased risk of stunting compared with HUU children after multivariate adjustment (RR: 1.91; 95% CI: 1.17–3.09; p=0.01). For children 1–2 years of age, HEU children had reduced risk of stunting (RR: 0.64; 95% CI: 0.43–0.95; p=0.03) compared with HUU children in multivariate models. Among children 2–5 years of age, multivariate models indicated HEU children had significantly increased risk of stunting (RR: 1.42; 95% CI: 1.07–1.87; p=0.01) compared with HUU children.
+
+In order to explore potential mechanisms leading to this qualitative change in the direction of the association by child age, we examined the relationship of time since breastfeeding cessation with stunting among HUU children. Among HUU children aged 1–3 years, those who were currently breastfed had a prevalence of stunting of 18.9%, while among similarly aged children who had stopped breastfeeding for &lt;3 months the prevalence of stunting sharply increased to 36.0% (see Supplemental Table 1, which shows stunting prevalence by time since breastfeeding cessation). The prevalence of stunting gradually decreased with increased time since breastfeeding cessation to 22.5% for HUU children who had not breastfed for &gt;12 months. In multivariate analyses, HUU children who had stopped breastfeeding within the last 3 months had 1.76 times the risk of being stunted at the time of the study visit (95% CI: 0.96–3.22; p=0.07) compared with similarly aged breastfed HUU children (see Supplemental Table 2, which shows the association of time since breastfeeding cessation with stunting).
+
+We also conducted exploratory analyses to determine the potential for low birthweight to mediate the observed increased risk of child stunting among HEU children &lt;1 years and ≥ 2 years. Table 3 presents mediation analysis results. HEU children &lt;1 year and ≥ 2 years had roughly twice the prevalence of LBW (&lt;2500g) compared with similarly aged HUU children, and within both age strata, LBW was strongly associated with increased risk of stunting. Among children &lt;1 years, LBW was found to be a significant mediator of the relationship of HIV-exposure with stunting and the estimated mediation proportion was 35% (p=0.04). For children ≥ 2 years, 67% of the excess risk of stunting for HEU children relative to HUU children could be attributed to LBW (p=0.02). We found no significant difference in the association of LBW with stunting among HEU children 2–5 years (RR: 1.77; 95% CI: 0.57–5.53) versus HUU children 2–5 years (RR: 2.33; 95% CI: 1.33–4.14) (p-value for interaction: 0.22), which confirms the assumption of no effect modification by the mediation variable.
+
+In Table 4 we present mean differences in WLZ/WHZ and WAZ, along with relative risk of wasting and underweight for HEU versus HUU children. We found no significant evidence of effect modification by child age for all analyses (all p-values for interaction &gt; 0.05) and therefore results are presented without age stratification. There was no significant difference in risk of wasting or underweight or difference in WLZ/WHZ for HEU versus HUU children in multivariate models (all p-values &gt;0.05). In univariate analyses HEU children had significantly decreased mean WAZ (−0.15; 95% CI: −0.29 – −0.01; p=0.03), and a similar magnitude of the association was found in multivariate models but the results did not reach statistical significance (−0.13; 95% CI: −0.27–0.02; p=0.09).
+
+Discussion
+In this study we found maternal HIV-exposure increased the risk of stunting for Botswana children who were under 1 year or greater than 2 years of age. In secondary mediation analyses, increased prevalence of LBW among HEU children was found to be a significant mediator of the stunting association. During the period of 1–2 years of age, when weaning typically occurs in Botswana among children born to HIV-uninfected mothers, HUU children had an increased prevalence of stunting compared with HEU children. We did not find significant differences in risk of wasting and underweight between HEU and HUU children in multivariate analyses.
+
+In this study we determined maternal HIV-exposure was associated with increased risk of stunting, but the strength of the relationship was dependent on child age. Previous studies comparing linear growth of HEU and HUU children have reported mixed results, but the majority of studies have found no association.16–23 Nevertheless, there are a few studies which have noted growth deficits in HEU children, including a recent cross-sectional survey of HEU Ugandan infants (mean age 5 months) which found significantly increased risk of both stunting and wasting.18 A Kenyan study also found significantly lower HAZ for HEU infants as compared to HUU infants at 1.5 months after birth.19 A few potential mechanisms, independent of maternal sociodemographic differences, which may have led to increased risk of linear growth faltering among HEU children compared with HUU children include: exposure to antiretroviral drugs, deficits in immune responses to vaccination as well as pathogens, and increased exposure to other infections.24–29
+
+To our knowledge we are the first study to utilize mediation analyses to estimate the proportion of stunting attributable to low birthweight, a potentially modifiable risk factor. In our cohort, we estimated 67% of the excess risk of stunting for HEU children over 2–5 years of age could be attributed to increased prevalence of LBW compared with HUU children. We have previously found that HEU children in Botswana exposed to combined antiretroviral treatment (cART) in utero had lower length at birth, 6 and 24 months of age compared with zidovudine monotherapy-exposed HEU infants.29,30 Accordingly, there may be a greater impact on linear growth when triple antiretrovirals are provided to HIV-infected mothers in pregnancy compared with monotherapy. The majority of previous HEU child growth studies were conducted before the availability of cART in resource-limited settings, which may partially explain their null associations.16,20–23 Nevertheless, a few of these studies noted lower birthweights among HEU children compared with HUU children20,21. Research is urgently needed to identify mechanisms by which cART during pregnancy influences birth weight and impairs postnatal linear growth, so that the safest combination of triple antiretrovirals for HIV-infected pregnant women and their children can be identified.
+
+In this study, we noted a sharp increase in the prevalence of stunting among HUU children 1–2 years of age, particularly during the initial months after cessation of breastfeeding. There is a large body of literature indicating the importance of continuing breastfeeding and providing nutritious complementary foods during the first 2 years of life for child survival and growth.32–36 A prospective cohort study of Kenyan children (mean age of 14 months at cohort entry) found children who continued breastfeeding throughout a 6 month follow-up period had significantly better length and weight outcomes compared with children who breastfed for &lt;3 months of the follow-up period.35 As almost all HEU children were formula fed in our study population, we were not able to examine breastfeeding cessation as a risk factor for stunting among HEUs; however, there is evidence that continued breastfeeding during the first two years of life also improves growth among HEU breastfed populations.36 Overall, there is a strong programmatic need for monitoring growth and providing support during the period of complementary feeding introduction and breastfeeding cessation regardless of the HIV-exposure status of the child.
+
+There are a few limitations to this study. First, due to the HIV-testing algorithm there may be a small amount of misclassification of child HIV status. The HIV testing algorithm in this population is a DNA PCR at 6 weeks with a follow-up ELISA at 18 months for non-breastfed HEU infants. As a result, there is a possibility that a very small number of children became HIV-infected after a 6 week negative HIV test but were not yet retested at 18 months; however in this population of almost all formula fed HEU infants, the number of children who seroconverted after 6 weeks is likely very small. In addition, due to the cross-sectional nature of the study, we did not have information on the duration and type of antiretrovirals received by HIV-infected mothers during pregnancy. Further, we also did not have access to other maternal health indicators including height, body mass index, and anemia. As a result, poorer maternal health in pregnancy for HEU children may partially explain our observed differences in linear growth. Given the fact that an individual’s overall growth and health is strongly influenced by the first 1,000 days of life, from conception to their second birthday, it is imperative to optimize maternal health, if we want optimize the growth of children. We also did not have data on the birth length of the child, which may be a significant mediator of postnatal growth, independent of LBW. In a previous study we found HEU children exposed to cART in utero had lower length at birth compared with zidovudine monotherapy-exposed children.30,31 The cross-sectional nature of the study has some limitations but we also note that the children sampled in this survey are likely more representative of the general HEU child population than other studies using secondary analyses of clinical trials and follow-up studies which often provide improved medical care and growth monitoring.
+
+Overall, we found HEU Botswana children under 1 year and 2–5 years of age had increased risk of stunting compared with their HUU peers. A mediation analysis indicated that a significant proportion of this excess risk appears to be linked to increased prevalence of low birthweight among HEU children. As a result, future research needs to determine the underlying mechanisms leading to low birthweight among children of HIV-infected mothers, which includes determining optimal cART regimens for the health of pregnant women as well as growth of their HEU children. This research is urgently needed as the number of HEU children is rapidly expanding due to continued success of PMTCT programs and the increasing number of countries transitioning to Option B+ in their national PMTCT guidelines.
+
+Supplementary Material
+On-Line Supporting Material  Source of Funding: The study was funded by the Centers for Disease Control and Prevention. K.M.P. received salary support from the National Institute of Child Health and Human Development (K23HD070774).
+
+Presented in Part: Powis K, Lei Q, Chinyanga Y, Tumbare E, Khan N, Sibiya J, van Widenfelt E, Makhema J, Shapiro RL. Malnutrition among HIV-Exposed Uninfected Infants in Botswana. 22nd Conference on Retroviruses and Opportunistic Infections, Seattle, Washington, United States, Feb 23rd to 26th, 2015.
+
+Figure 1 Prevalence of stunting (HAZ &lt; −2) for HEU vs HUU children by child age
+Abbreviations: HAZ: height-for-age z-score; HEU: HIV-exposed uninfected; HUU: HIV-unexposed uninfected
+
+Table 1 Maternal, caregiver, and child characteristics for HEU (n=396) and HUU (n=1,109) children &lt;5 years of age.
+
+	HEU children (n=396)
+Mean ± SD or Frequency (%)	HUU children (n=1,109)
+Mean ± SD or Frequency (%)	p-value	
+
+	
+
+              Maternal and household characteristics
+            				
+Maternal age in years	30.1 ± 5.7	25.9 ± 6.0	&lt;0.01	
+Marital status				
+ Single	331 (85.5)	932 (84.0)	0.18	
+ Married	52 (13.5)	174 (15.7)		
+ Divorced or widowed	4 (1.0)	4 (0.3)		
+Primary caregiver is parent or grandparent	336 (86.7)	975 (87.9)	0.53	
+Location of enrollment health facility				
+ Urban	182 (47.1)	466 (42.0)	0.04	
+ Peri-urban	138 (35.5)	384 (34.6)		
+ Rural	67 (17.4)	259 (23.4)		
+Household income &lt;1,000 Pula per month	145 (37.5)	282 (25.5)	&lt;0.01	
+No electricity in the home	165 (42.7)	383 (34.5)	&lt;0.01	
+No refrigerator in the home	197 (51.0)	484 (43.6)	0.01	
+No electric or gas cooking source	131 (33.8)	326 (29.4)	0.11	
+No tap water in the home	258 (66.5)	677 (61.0)	0.05	
+No flush toilet	242 (62.5)	642 (57.8)	0.10	
+Report of food insecurity in past month	112 (29.0)	251 (22.8)	0.01	
+				
+
+              Child characteristics
+            				
+Male	213 (55.1)	509 (45.9)	&lt;0.01	
+Child age in years	2.1 ± 1.3	2.1 ± 1.4	0.37	
+Birth order				
+ Firstborn	78 (20.3)	496 (44.7)	&lt;0.01	
+ 2–4th child	268 (67.7)	552 (49.8)		
+ 5+ child	41 (10.5)	62 (5.6)		
+Low birthweight &lt;2500grams	71 (18.3)	120 (10.8)	&lt;0.01	
+Exclusively formula fed	375 (94.7)	241 (21.7)	&lt;0.01	
+Abbreviations: HEU: HIV-exposed uninfected; HUU: HIV-unexposed uninfected; SD: standard deviation
+
+Table 2 Mean difference in LAZ/HAZ and relative risk of stunting for HEU children (n=396) as compared to HUU children (n=1,109) stratified by child age (p-value for effect modification by age &lt;0.01).
+
+	Mean, LAZ/HAZ ± SD or % stunting	Univariate1 mean difference or relative risk (95% CI)	p-value	Multivariate1,2 mean difference or relative risk (95% CI)	p-value	
+
+	
+
+              Mean difference LAZ/HAZ
+            						
+Under 1 year of age						
+ HEU children (n=100)	−0.54 ± 1.8	−0.20 (−0.58–0.18)	0.30	−0.22 (−0.64–0.19)	0.30	
+ HUU children (n=283)	−0.25 ± 1.6	Ref.		Ref.		
+1–2 years of age						
+ HEU children (n=109)	−1.13 ± 1.3	+0.03 (−0.29 – 0.35)	0.86	+0.07 (−0.28–0.41)	0.71	
+ HUU children (n=282)	−1.18 ± 1.6	Ref.		Ref.		
+2–5 years of age						
+ HEU children (n=187)	−1.44 ± 1.3	−0.25 (−0.45– −0.06)	0.01	−0.20 (−0.41–0.01)	0.06	
+ HUU children (n=544)	−1.19 ± 1.2	Ref.		Ref.		
+
+	
+
+              Relative risk of stunting
+            						
+Under 1 year of age						
+ HEU children (n=100)	20.0%	1.76 (1.12–2.76)	0.01	1.91 (1.17–3.09)	0.01	
+ HUU children (n=283)	11.0%	Ref.		Ref.		
+1–2 years of age						
+ HEU children (n=109)	22.9%	0.76 (0.53–1.08)	0.13	0.64 (0.43–0.95)	0.03	
+ HUU children (n=282)	29.8%	Ref.		Ref.		
+2–5 years of age						
+ HEU children (n=187)	31.0%	1.47 (1.18–1.83)	&lt;0.01	1.42 (1.07–1.87)	0.01	
+ HUU children (n=544)	20.8%	Ref.		Ref.		
+1 Univariate and multivariate models accounted for clustering by facility.
+
+2 Multivariate models accounted for clustering by facility and adjusted for maternal age (&lt;25, 25–30, and 30+ years), maternal marital status (married, single, divorces/widowed), location of enrollment (urban, peri-urban, rural), household income &lt;1,000 Pula per month (yes/no), electricity (yes/no), refrigerator (yes/no), tap water (yes/no), electric or gas cooking (yes/no), flush toilet (yes/no), child sex, and birth order (first born, 2–4, or 5+)
+
+Abbreviations: CI: confidence interval; HAZ: height-for-age z-score; HEU: HIV-exposed uninfected; HUU: HIV-unexposed uninfected; LAZ: length-for-age z-score; SD: standard deviation
+
+Table 3 Mediation analysis of the association of child HIV-exposure with stunting by low birth weight stratified by child age
+
+Child age	% Stunted	% LBW &lt;2500g	Multivariate1,2 adjusted relative risk (95% CI) of stunting for LBW of &lt;2500g versus birth weight ≥2500g	Multivariate1 adjusted relative risk (95% CI) of stunting for HEU vs. HUU (not adjusted for LBW)	Multivariate2,3 adjusted relative risk of stunting for HEU vs. HUU (adjusted for LBW)	Estimated mediation proportion for LBW (p-value)	
+&lt;1 year
+(HEU n=100)
+(HEU n=283)	HEU: 20.0%
+HUU: 11.0%	HEU: 15.0%
+HUU: 8.1%	2.81 (1.45–5.34)	1.63 (1.07–2.47)	1.49 (0.88–2.52)	35% (p=0.04)	
+2–5 years
+(HEU n=187)
+(HEU n=544)	HEU: 31.0%
+HUU: 20.8%	HEU: 21.1%
+HUU: 11.6%	2.02 (1.41–2.88)	1.43 (1.08–1.90)	1.12 (0.85–1.49)	67% (p=0.02)	
+1 Models restricted to children with a non-missing birth weights. Multivariate models were adjusted for maternal age (&lt;25, 25–30, and 30+ years), maternal marital status (married, single, divorces/widowed), location of enrollment (urban, peri-urban, rural), household income &lt;1,000 Pula per month (yes/no), electricity (yes/no), refrigerator (yes/no), tap water (yes/no), electric or gas cooking (yes/no), flush toilet (yes/no), child sex, birth order (first born, 2–4, or 5+).
+
+2 Includes adjustment for maternal HIV status
+
+3 Includes low birth weight (&lt;2500g)
+
+Abbreviations: CI: confidence interval; HEU: HIV-exposed uninfected; HUU: HIV-unexposed uninfected; LBW: low birth weight
+
+Table 4 Mean difference in WHZ and WAZ and relative risk of wasting and underweight for HEU children (n=396) as compared to HUU children (n=1,109)
+
+	Mean z-score ± SD or %	Univariate1 mean difference or relative risk (95% CI)	p-value	Multivariate1,2 mean difference or relative risk (95% CI)	p-value	
+
+	
+Mean difference WLZ/WHZ						
+ HEU children (n=396)	−0.20 ± 1.5	−0.06 (−0.22–0.10)	0.44	−0.03 (−0.21–0.14)	0.69	
+ HUU children (n=1,109)	−0.15 ± 1.4	Ref.		Ref.		
+Relative risk of wasting3						
+ HEU children (n=396)	9.6%	1.29 (0.96–1.72)	0.09	1.15 (0.95–1.38)	0.15	
+ HUU children (n=1,109)	7.5%	Ref.		Ref.		
+Mean difference WAZ						
+ HEU children (n=396)	−0.79 ± 1.2	−0.15 (−0.29–−0.01)	0.03	−0.13 (−0.27–0.02)	0.09	
+ HUU children (n=1,109)	−0.63 ± 1.3	Ref.		Ref.		
+Relative risk of underweight2						
+ HEU children (n=396)	15.9%	1.26 (1.00–1.58)	0.05	1.02 (0.80–1.29)	0.87	
+ HUU children (n=1,109)	12.5%	Ref.		Ref.		
+1 Univariate and multivariate models accounted for clustering by facility.
+
+2 Multivariate models adjusted for maternal age (&lt;25, 25–30, and 30+ years), maternal marital status (married, single, divorces/widowed), location of enrollment (urban, peri-urban, rural), household income &lt;1,000 Pula per month (yes/no), electricity (yes/no), refrigerator (yes/no), tap water (yes/no), electric or gas cooking (yes/no), flush toilet (yes/no), child sex, birth order (first born, 2–4, or 5+).
+
+3 Wasting defined as WHZ &lt; −2 and underweight defined as WAZ &lt; −2.
+
+Abbreviations: CI: confidence interval; HEU: HIV-exposed uninfected; HUU: HIV-unexposed uninfected; SD: standard deviation; WAZ: weight-for-age z-score; WHZ: weight-for-height z-score; WLZ: weight-for-length z-score
+
+
+   1 World Health Organization Consolidated guidelines on the use of antiretrovirals for treating and preventing HIV infection: Recommendations for a public health approach 2013 World Health Organization 2013 
+2 Joint United Nations Programme on HIV/AIDS Global plan towards the elimination of new HIV infections among children by 2015 and keeping their mothers alive 2011 UNAIDS 2011 
+3 Joint United Nations Programme on HIV/AIDS 2013 Progress report on the global plan towards the elimination of new HIV infections among children by 2015 and keeping their mothers alive UNAIDS 2011 
+4 
+            Brahmbhatt H  
+            Kigozi G  
+            Wabwire-Mangen F  
+             
+           Mortality in HIV-infected and uninfected children of HIV-infected and uninfected mothers in rural Uganda J Acquir Immune Defic Syndr 2006 41 504 508 16652060 
+5 
+            Marinda E  
+            Humphrey JH  
+            Iliff PJ  
+             
+           Child mortality according to maternal and infant HIV status in Zimbabwe Pediatr Infect Dis J 2007 26 519 526 17529870 
+6 
+            Shapiro RL  
+            Lockman S  
+            Kim S  
+             
+           Infant morbidity, mortality, and breast milk immunologic profiles among breastfeeding HIV-infected and HIV-uninfected women in Botswana J Infect Dis 2007 196 562 569 17624842 
+7 
+            Chilongozi D  
+            Wang L  
+            Brown L  
+             
+           Morbidity and mortality among a cohort of human immunodeficiency virus type 1-infected and uninfected pregnant women and their infants from Malawi, Zambia and Tanzania Pediatr Infect Dis J 2008 27 808 814 18679152 
+8 
+            Black RE  
+            Victora CG  
+            Walker SP  
+             
+           Maternal and child undernutrition and overweight in low-income and middle-income countries Lancet 2013 382 427 51 23746772 
+9 
+            Kinney MV1  
+            Kerber KJ  
+            Black RE  
+             
+           Sub-Saharan Africa’s mothers, newborns, and children: where and why do they die? PLoS Med 2010 7 e1000294 20574524 
+10 
+            Sudfeld CR  
+            McCoy DC  
+            Danaie G  
+             
+           Linear growth and child development and low- and middle-income countries: a meta-analysis Pediatrics 2015 135 e1266 75 25847806 
+11 
+            Adair LS  
+            Fall CH  
+            Osmond C  
+             
+           Associations of linear growth and relative weight gain during early life with adult health and human capital in countries of low and middle income: findings five birth cohort studies Lancet 2013 382 525 34 23541370 
+12 WHO Multicentre Growth Reference Study Group WHO child growth standards: length/height-for-age, weight-for-age, weight-for-length, weight-for-height and body mass index-for-age: methods and development WHO 2006 
+13 
+            Wacholder S  
+           Binomial regression in GLIM: estimating risk ratios and risk differences Am J Epidemiol 1986 123 174 84 3509965 
+14 
+            Spiegelman D  
+            Hertzmark E  
+           Easy SAS calculations for risk or prevalence ratios and differences Am J Epidemiol 2005 162 199 200 15987728 
+15 
+            Lin DY  
+            Fleming TR  
+            De Gruttola V  
+           Estimating the proportion of treatment effect explained by a surrogate marker Stat Med 1997 16 1515 1527 9249922 
+16 
+            Isanaka S  
+            Duggan C  
+            Fawzi WW  
+           Patterns of postnatal growth in HIV-infected and HIV-exposed children Nutr Rev 2009 67 343 59 19519675 
+17 
+            Nicholson L  
+            Chisenga M  
+            Siame J  
+             
+           Growth and health outcomes at school age in HIV-exposed, uninfected Zambian children: follow-up of two cohorts studied in infancy BMC Pediatr 2015 15 66 26048411 
+18 
+            Osterbauer B  
+            Kapisi J  
+            Bigira V  
+             
+           Factors associated with malaria parasitaemia, malnutrition, and anaemia among HIV-exposed and unexposed Ugandan infants: a cross-sectional survey Malar J 2012 11 432 23270614 
+19 
+            Sherry B  
+            Embree JE  
+            Mei Z  
+             
+           Sociodemographic characteristics, care, feeding practices, and growth of cohorts of children born to HIV-1 seropositive and seronegative mothers in Nairobi, Kenya Trop Med Int Health 2000 5 678 86 11044261 
+20 
+            Lepage P  
+            Msellati P  
+            Hitimana DG  
+             
+           Growth of human immunodeficiency type 1-infected and uninfected children: a prospective cohort study in Kigali, Rwanda, 1988 to 1993 Pediatr Infect Dis J 1996 15 479 85 8783343 
+21 
+            Bailey RC  
+            Kamenga MC  
+            Nsuami MJ  
+             
+           Growth of children according to maternal and child HIV, immunological and disease characteristics: a prospective cohort study in Kinshasa, Democratic Republic of Congo Int J Epidemiol 1999 28 532 540 10405861 
+22 
+            Henderson RA  
+            Miotti PG  
+            Saavedra JM  
+             
+           Longitudinal growth during the first 2 years of life in children born to HIV-infected mothers in Malawi, Africa Pediatr AIDS HIV Infect 1996 7 91 97 11361486 
+23 
+            Makasa M  
+            Kasonka L  
+            Chisenga M  
+             
+           Early growth of infants of HIV-infected and uninfected Zambian women Trop Med Int Health 2007 12 594 602 17445127 
+24 
+            Filteau S  
+           The HIV-exposed, uninfected African child Trop Med Int Health 2009 14 276 87 19171011 
+25 
+            Chen JY  
+            Ribaudo HJ  
+            Souda S  
+             
+           Highly active antiretroviral therapy and adverse birth outcomes among HIV-infected women in Botswana J Infect Dis 2012 206 1695 705 23066160 
+26 
+            Afran L  
+            Garcia Knight M  
+            Nduati E  
+             
+           HIV-exposed uninfected children: a growing population with a vulnerable immune system? Clin Exp Immunol 2014 176 11 22 24325737 
+27 
+            Gompels UA  
+            Larke N  
+            Sanz-Ramos M  
+             
+           Human cytomegalovirus infant infection adversely affects growth and development in maternally HIV-exposed and unexposed infants in Zambia Clin Infect Dis 2012 54 434 42 22247303 
+28 
+            Mazzola TN  
+            da Silva MT  
+            Abramczuk BM  
+             
+           Impaired Bacillus Calmette-Guerin cellular immune response in HIV-exposed, uninfected infants AIDS 2011 25 2079 87 21866040 
+29 
+            Jones CE  
+            Naidoo S  
+            De Beer C  
+             
+           Maternal HIV infection and antibody responses against vaccine-preventable diseases in uninfected infants JAMA 2011 305 576 84 21304083 
+30 
+            Powis KM  
+            Smeaton L  
+            Ogwu A  
+             
+           Effects of in utero antiretroviral exposure on longitudinal growth of HIV-exposed uninfected infants in Botswana J Acquir Immune Defic Syndr 2011 56 131 8 21124227 
+31 
+            Powis KM  
+            Smeaton L  
+            Hughes MD  
+             
+           In-utero triple antiretroviral exposure associated with decreased growth among HIV-exposed uninfected infants in Botswana AIDS 2016 30 211 20 26684818 
+32 
+            Dewey KG  
+           Nutrition, growth, and complementary feeding of the breastfed infant Pediatr Clin North Am 2001 48 87 104 11236735 
+33 
+            Sankar MJ  
+            Sinha B  
+            Chowdhury R  
+             
+           Optimal breastfeeding practices and infant and child mortality: a systematic review and meta-analysis Acta Paediatr Suppl 2015 104 3 13 
+34 
+            Imdad A  
+            Yakoob MY  
+            Bhutta ZA  
+           Impact of maternal education about complementary feeding and provision of complementary foods on child growth in developing countries BMC Public Health 2011 11 Suppl 3 S25 21501443 
+35 
+            Onyango AW  
+            Esrey SA  
+            Kramer MS  
+           Continued breastfeeding and child growth in the second year of life: a prospective cohort study in western Kenya Lancet 1999 354 2041 5 10636370 
+36 
+            Arpadi S  
+            Fawzy A  
+            Aldrovandi GM  
+             
+           Growth faltering due to breastfeeding cessation in uninfected children born to HIV-infected mothers in Zambia Am J Clin Nutr 2009 90 344 53 19553300 
+

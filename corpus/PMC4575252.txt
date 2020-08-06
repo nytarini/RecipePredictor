@@ -1,0 +1,439 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   03706251170BiometricsBiometricsBiometrics0006-341X1541-042025939421457525210.1111/biom.12318NIHMS680637ArticleThe Direct Integral Method for Confidence Intervals for the Ratio of Two Location Parameters Wang Yanqing ywang237@fredhutch.orgDepartment of Biostatistics, Fred Hutchinson Cancer Research Center, Seattle WA 98109, U.S.AWang Suojin sjwang@stat.tamu.eduDepartment of Statistics, Texas A&amp;M University, 3143 TAMU, College Station, TX 77843-3143, U.S.ACarroll Raymond J. carroll@stat.tamu.eduDepartment of Statistics, Texas A&amp;M University, 3143 TAMU, College Station, TX 77843-3143, and Department of Mathematics and Statistics, University of Technology Sydney, Australia20 6 2015 01 5 2015 9 2015 18 9 2015 71 3 704 713 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Summary
+In a relative risk analysis of colorectal caner on nutrition intake scores across genders, we show that, surprisingly, when comparing the relative risks for men and women based on the index of a weighted sum of various nutrition scores, the problem reduces to forming a confidence interval for the ratio of two (asymptotically) normal random variables. The latter is an old problem, with a substantial literature. However, our simulation results suggest that existing methods often either give inaccurate coverage probabilities or have a positive probability to produce confidence intervals with infinite length. Motivated by such a problem, we develop a new methodology which we call the Direct Integral Method for Ratios (DIMER), which, unlike the other methods, is based directly on the distribution of the ratio. In simulations, we compare this method to many others. These simulations show that, generally, DIMER more closely achieves the nominal confidence level, and in those cases that the other methods achieve the nominal levels, DIMER has comparable confidence interval lengths. The methodology is then applied to a real data set, and with follow up simulations.
+
+Confidence IntervalDirect Integral Method for RatiosDIMERFieller’s intervalHayya’s methodRatios of location parameters
+   1. Introduction
+We use data on the relationship between diet and colorectal cancer from a subset of the NIH-AARP Study of Diet and Health (Reedy et al., 2008), which itself is a large cohort study with approximately 250,000 men and 200,000 women. The data subset that we have access to includes 1,075 males that developed colorectal cancer during the course of the study, along with 479 females who also developed colorectal cancer. In addition, the data set includes 3,225 randomly selected men and 1,437 randomly selected women who did not develop colorectal cancer. Hence, there are 4,300 males and 1,916 females in the data set.
+
+It is traditional in nutritional epidemiology to examine the risk of cancer from single foods or nutrients normalized by energy (caloric) intake, e.g., the percentage of calories coming from fat, the amount of whole grants per 1,000 calories, etc. However, nutritionists have increasingly turned to dietary indices, which account for the patterns of energy-adjusted intake for multiple foods and nutrients. There are many such indices, e.g., the Healthy Eating Index - 2005 (HEI-2005, see Guenther et al., 2008), the Alternative Healthy Eating Index, the Mediterranean Index, etc., and they have been shown to be related to many chronic diseases and cancers. We use here the HEI-2005, which is based on the intakes of 12 interrelated dietary components, adjusted for energy intake. These intakes are then scored individually, and their sum is the HEI-2005, which is then used to predict disease. The Supplementary Material Table S.3 describes the components and how they are scored.
+
+In our analysis of colorectal cancer, we fit a model where the scores are weighted and summed, but the weights are common for men and women, as in any dietary index. We show in Section 4.1 that, surprisingly, when comparing the relative risks for men and women based on this common index, the problem reduces to forming a confidence interval for the ratio of two (asymptotically) normal random variables. The latter is an old problem, with a substantial literature, one that we revisit based on our example.
+
+One popular method for computing a confidence interval for the ratio of two location parameters is due to Fieller (Fieller, 1932; Fieller, 1954). Details of this method are described in the Supplementary Material Appendix S.1.
+
+Consequently, other methods have been developed, most of which are based on the distribution of the ratio of the estimates of two location parameters (see for example recent papers by Beyene and Moineddin, 2005; Pham-Gia et al., 2006; Sherman et al., 2011). Most often, a normal approximation to the distribution is used, with subsequent intervals formed by Wald’s method. Hayya et al. (1975) showed that, under certain conditions, the distribution for the ratio of two estimators can be treated as a normal distribution with a second order Taylor expansion. This method is also defined in the Supplementary Material Appendix S.3. In addition, parametric and nonparametric bootstrap methods are also used. However, our empirical investigations suggest that confidence intervals constructed by these existing methods for the ratio often give inaccurate and sub-nominal coverage probabilities.
+
+Motivated by such a problem, in this work we construct a new methodology, which we call the Direct Integral Method for Ratios (DIMER). This methodology is also based on the distribution of the ratio of the estimates of the two location parameters, a distribution that is Cauchy-like and has heavy tails. We show that DIMER can be computed easily by numerical integration. In our simulation studies, we show that DIMER closely achieves nominal coverage, unlike the Wald method and the method of Hayya et al. (1975). DIMER is also much faster computationally than bootstrap methods, which is important in large cohort studies, where the model is a nonlinear logistic regression based on samples of sizes in the tens of thousands or more.
+
+In Section 2 we describe the methodology, while Section 3 compares various methods via simulation studies. Section 4 describes the analysis of the NIH-AARP Study. Simulations based on the actual data reinforce the conclusions of the simulations in Section 3 and shed more light on the data analysis. Technical details, proofs, definitions and additional simulations are given in the Supplementary Material.
+
+2. Methodology
+2.1 Basic Definitions
+Consider two random variables T1 and T2 which have density functions f1{(t1 − μ1)/υ1} and f2{(t2 − μ2)/υ2}, respectively, with means μ1 and μ2 and standard deviations υ1 and υ2. In other words, f1(x) and f2(x) are the density functions of the standardized versions of T1 and T2, respectively. Let F1(·) and F2(·) denote the corresponding distribution functions. We are interested in making inference for the ratio μ1/μ2. We will outline a series of cases where it is possible to compute easily the cumulative distribution function of r̂ = T1/T2. All proofs are given in the Supplementary Material Section S.2.
+
+2.2 Independent Case
+Suppose that T1 and T2 are independent.
+
+Lemma 1
+Define
+ g(z∣x,μ1,μ2,υ1,υ2)={(1−F1[{x(μ2+υ2z)−μ1}/υ1])f2(z)exp(z2)ifz≤−μ2/υ2,F1[{x(μ2+υ2z)−μ1}/υ1]f2(z)exp(z2)ifz&gt;−μ2/υ2. Then the cumulative distribution function of r̂ = T1/T2 is given by
+ pr(r^≤x)=∫−∞∞g(z∣x,μ1,μ2,υ1,υ2)exp(−z2)dz, a quantity that is easily computed by Gauss-Hermite quadrature.
+
+In Lemma 1 x denotes a value of r̂ and z denotes a value of T2, and similarly in Sections 2.3-2.4.
+
+If the parameters υ1 and υ2 are unknown, we can apply Lemma 1 using their estimated values. However, we have found that a more numerically efficient approximation can be developed in the case of normally distributed T1 and T2. We present this result in the following setting. Suppose the estimated variances are 
+υ^12 and 
+υ^22 which are independent of each other, and independent of T1 and T2, and have degrees of freedom d1 and d2, respectively. Thus, both (T1 − μ1)/υ̂1 and (T2 − μ2)/υ̂2 follow the t-distribution with d1 and d2 degrees of freedom, respectively. In addition, assume that d = min(d1, d2) increases to infinity, which is implied when the sample sizes increase to infinity. Suppose that 
+υ^12=υ12+Op(d1−1/2) and 
+υ^22=υ22+Op(d2−1/2). Then we have the following lemma.
+
+Lemma 2
+With an error of order Op(d−1/2), g(z∣x, μ1, μ2, 
+υ^12, 
+υ^22) defined in Lemma 1 can be approximated by
+ h(z∣x,μ1,μ2,υ^12,υ^22)={(1−Ft,d1[{x(μ2+υ^2z)−μ1}/υ^1])ft,d2(z)exp(z2)ifz≤−μ2/υ^2,Ft,d1[{x(μ2+υ^2z)−μ1}/υ^1]ft,d2(z)exp(z2)ifz&gt;−μ2/υ^2, where ft,d(·) and Ft,d(·) are the t-density with d degrees of freedom and the corresponding cumulative distribution function, respectively.
+
+2.3 Dependent Case of Two Normally Distributed Variables with Known Covariance Matrix
+Suppose now that (T1, T2) are jointly normally distributed with means (μ1, μ2), variances (
+υ12, 
+υ22), covariance υ12 and suppose that (
+υ12, 
+υ22, υ12) are known. Let ϕ(·) and Φ(·) denote the standard normal density and distribution function.
+
+Lemma 3
+Define g(z∣x, μ1, μ2, 
+υ12, 
+υ22, υ12) as follows. If z ≤ −μ2/υ2, then
+ g(z∣x,μ1,μ2,υ12,υ22,υ12)=(2π)−1/2(1−Φ[{x(μ2+υ2z)−(μ1+zυ12/υ2)}υ2/υ12υ22−υ122])exp(z2/2). 
+
+If z &gt; −μ2/υ2, then
+ g(z∣x,μ1,μ2,υ12,υ22,υ12)=(2π)−1/2Φ[{x(μ2+υ2z)−(μ1+zυ12/υ2)}υ2/υ12υ22−υ122]exp(z2/2). 
+
+Then the distribution function of r̂ is
+ pr(r^≤x)=∫−∞∞g(z∣x,μ1,μ2,υ12,υ22,υ12)exp(−z2)dz, which again can be computed by Gauss-Hermite quadrature.
+
+Of course, when υ12 = 0, Lemma 3 is a special case of Lemma 1.
+
+2.4 Dependent Case of Two Normally Distributed Variables with Estimated Covariance Matrix
+Here we discuss the cumulative distribution of the ratio r̂ = T1/T2 when T1 and T2 are jointly normally distributed with jointly estimated variance and covariance which have the same number of degrees of freedom d, and these estimates are independent of T1 and T2. These are the same assumptions noted in Fieller (1954). Define the estimates of the variances and covariance of T1 and T2 as 
+υ^12, 
+υ^22 and υ̂12. Let 
+η=υ12/υ22. For fixed η, write W = T1 − ηT2, Then W and T2 are independent. In addition, if 
+υ^12, 
+υ^22 and υ̂12 are computed from the sample covariance matrix of normal random variables from a sample of size d + 1, then we also have that T1 − ηT2 and T2 are independent of their estimated variances 
+υ^12−2ηυ^12+η2υ^22 and υ̂2, which are independent of each other and also have d degrees of freedom.
+
+We use the following algorithm, based on the approximation used in Section 2.2. Under our assumptions, the variables 
+Z1={(T1−ηT2)−(μ1−ημ2)}/υ^12−2ηυ^12+η2υ^22 and Z2 = (T2 − μ2)/υ̂2 are independent and both have t-distributions with d degrees of freedom. As in Lemma 2, we then make the approximation that the density of (T1, T2), having fixed the estimated covariance matrix, is approximately
+ υ^2−1(υ^12−2ηυ^12+η2υ^22)−1/2ft,d[{(t1−ηt2)−(μ1−ημ2)}/υ^12−2ηυ^12+η2υ^22]ft,d{(t2−μ2)/υ^2}. 
+
+If z ≤ −μ2/υ̂2, define
+ g(z∣x,μ1,μ2,υ^12,υ^22,υ^12,η)=(1−Ft,d[{(x−η)(μ2+υ2z)−(μ1−ημ2)}/υ^12−2ηυ^12+η2υ^22])ft,d(z)exp(z2), while if z &gt; −μ2/υ̂2, define
+ g(z∣x,μ1,μ2,υ^12,υ^22,υ^12,η)=Ft,d[{(x−η)(μ2+υ2z)−(μ1−ημ2)}/υ^12−2ηυ^12+η2υ^22]ft,d(z)exp(z2). 
+
+Then, using the same device as in Lemma 2, we have that
+ (1) pr(r^≤x)=∫−∞∞g(z∣x,μ1,μ2,υ^12,υ^22,υ^12,η)exp(−z2)dz+Op(d−1/2). 
+
+In practice, η is unknown, so we use 
+η^=υ^12/υ^22 to estimate it.
+
+2.5 Algorithm for Computing the Confidence Interval of Ratios
+In Sections 2.2-2.4, we express the distribution function of r̂ as F(x; r) = pr(r̂ ≤ x; r = μ1/μ2) when μ2 ≠ 0. The ratio μ̂1/μ̂2 is an estimate of r = μ1/μ2, so that we can view F(x; μ̂1/μ̂2) as an estimate of the population distribution function F(x; r). Efron (1981) and Benton and Krishnamoorthy (2002) pointed out that if we generate values r̂i, i = 1,…, m, from F(x; μ̂1/μ̂2), we can make inference about r using the distribution of the generated r̂i’s.
+
+The main difference between our approach and that of Benton and Krishnamoorthy is that instead of generating a larger number of r̂i’s and then obtaining its percentiles, we compute the percentile of r̂i directly. Consequently, our method is much faster computationally. Specifically, our simulation results indicate that DIMER usually needs less than 30 iteration steps to obtain the quantile of a distribution, but in Benton and Krishnamoorthy (2002), they used m = 100, 000 r̂i’s to get the quantiles.
+
+Define the α/2 quantile for F(x; μ̂1/μ̂2) as r̂α/2∣μ̂1/μ̂2. Then an approximate 100(1 − α)% confidence interval for r is (r̂α/2|μ̂1/μ̂2, r̂1−α/2| μ̂1/μ̂2). Here we give the steps of our iterative, bisection-based algorithm to obtain the quantiles.
+
+Step 1. Give two initial values of r̂α/2∣μ̂1/μ̂2 as r̂α1 &lt; 0 &lt; r̂α2 and both have sufficiently large absolute values to make sure that r̂α/2∣μ̂1/μ̂2 is inside the interval (r̂α1, r̂α2). How we did this is described in the Supplementary Material Appendix S.4. Our method, being based on bisection, is not sensitive to these starting values.
+
+Step 2. Apply the Gauss-Hermit quadrature to the cumulative distribution function of r̂ to obtain cα/2 = pr{r̂ ≤ (r̂α1 + r̂α2)/2}. If cα/2 &lt; α/2, let r̂α1 = (r̂α1 + r̂α2)/2; if cα/2 &gt; α/2, let r̂α2 = (r̂α1 + r̂α2)/2; if cα/2 = α/2, stop the iteration and let r̂α/2∣μ̂1/μ̂2 = (r̂α1 + r̂α2)/2.
+
+Step 3. Repeat Step 2 until cα/2 is close to α/2 and/or the difference |r̂α2 − r̂α1| is negligible. Then we have r̂α/2∣μ̂1/μ̂2 = (r̂α1 + r̂α2)/2, the lower limit of interval.
+
+Step 4. Repeat Steps 1–3 to obtain r̂1−α/2∣μ̂1/μ̂2, the upper limit of the interval.
+
+3. Simulations
+3.1 Overview
+We performed simulations on two simple linear regression models. The first (Section 3.4) is to illustrate an application of the formulas in Section 2.2 where the two variables are independent. The second (in Supplementary Material Appendix Section S.6) is an example to demonstrate the performance of our method developed in Section 2.4 when the two variables are dependent. In both simulations, some other possible methods are outlined and compared with DIMER. Since the dependent case is developed with the normality assumption, it is important to evaluate how sensitive DIMER is to the violation of this assumption. Therefore, we also considered such a case in the second part of our simulations.
+
+3.2 Comments Upon and Applications of Fieller’s Intervals
+Fieller’s interval, defined in Supplementary Material Section S.1, is sometimes of infinite length, being either the entire real line or the union of two disconnected infinite length intervals, e.g., when the denominator of the ratio is not significantly different from zero.
+
+Fieller’s intervals have been used in a variety of contexts. Here are three cases, the first two of which are illustrated in our simulations. The simulation of the first case appears here, while the second in the Supplementary Material, Section S.6.
+
+In a slope ratio assay (Finney, 1978; Hubert, 1984; Redmond, 2005c), data are fit to a standard and treatment, observing YS = αS + XSβS + εS for the standard, while the treatment is fit to the model YT = αT + XTβT + εT. The relative potency ρ is a function of βT/βS, where the estimates of βT and βS are independent. In a common setting, it is assumed that αS = αT but the doses XS = XT = X, and by centering X the described model holds with different intercepts. This is an example of two independent slope estimates.
+
+In a radioimmunoassay (Finney, 1978; Redmond, 2005b) with dose denoted by X and response Y, if one is in the linear part of the calibration cure a reasonable model is Y = α + Xβ + ε. The logarithm of ID50, the dose required for 50% of binding inhibition, is given by log(ID50) = α/β. The parameter estimates (α̂, β̂) are generally correlated, and this is an example of estimating the ratio of the intercept to the slope when the parameter estimates are correlated.
+
+In a parallel line assay (Finney, 1978; Redmond, 2005a), a standard is fit to the linear model YS = αS + XSβ + εS while the treatment is fit to the model YT = αT + XTβ + εT : the slope is the same in both, hence parallel line. The log-relative potency in this assay is log(ρ) = (αT − αS)/β. In the homoscedastic case, unless XS = XT, the estimates of the numerator and denominator are not independent.
+
+In radioimmunoassays, it is often the case that the variance of the responses is proportional to a power θ of the mean, but with 1 &lt; θ &lt; 2. Generalized least squares can then be used to estimate θ (Davidian, et al., 1988), but once the estimates in these examples are obtained, we still have a problem of forming a confidence interval for a ratio of two parameters.
+
+3.3 Comments on Sample Sizes and Parameter Choices
+Fieller intervals for a ratio θ1/θ2 are of infinite length if the null hypothesis H0 : θ2 = 0 cannot be rejected. If the power for rejecting this hypothesis is low, Fieller intervals will have terrible properties. In simulations not reported here, the behavior of the alternative methods is also very poor. If the power for rejecting the hypothesis is essentially 100%, then all the methods will be essentially the same, with minor fluctuations depending on the sample size. The interesting cases lie on the boundary between low and perfect power, e.g., 80%-90% power with Type I error 0.05. Our simulations include settings with low power, perfect power and in between.
+
+In our simulations, which are based on linear regression with error standard deviation υε, we have set the covariates to be Normal(0, 1), and we set υε = 1, so that the standard error of the slope is roughly n−1/2υε/sx, where sx is the sample standard deviation of the covariates. On average, 
+sx−1≈1.0, so the standard error of the slope estimate ≈ n−1/2. Consequently, the sample sizes we have chosen, n = 18, 25 and 50, result in reasonable standard errors that illustrate a range of powers for the test that the slope = 0.0. In Table 2, had we changed υε = 2, 3 and 4, the sample sizes needed to get roughly the same percentage of infinite length Fieller intervals are roughly 60, 130 and 225, respectively. In the Supplementary Material, Table S.4, we show what happens to Table 1 when we set (n, υε) = (55, 2) and (115, 3), showing that roughly the same results apply in this setting.
+
+3.4 Linear Model When the Two Estimates are Independent
+3.4.1 Setup
+Consider the 2-group linear regression model
+ Y1i=β10+X1iβ11+ε1i,i=1,…,n1;Y2j=β20+X2jβ21+ε2j,j=1,…,n2, where (Y1i, X1i) and (Y2j, X2j) are the same outcomes and predictors from different populations. See Section 3.2 for an example. Also ε1i and ε2j are independently normally distributed with mean zero and variances 
+υε12 and 
+υε22, respectively. Our interest is in the ratio of the two slopes β21/β11.
+
+The model can be rewritten as follows in order to use a simple expression for the ratio:
+ (2) Y1i=β10+X1iω+ε1i,i=1,…,n1;Y2j=β20+β21X2jω+ε2j,j=1,…,n2. Then the ratio of the slopes now is β21 and ω is the slope for the first group.
+
+Our interest is to construct a confidence interval for β21. Let (β̂21, ω̂) denote the maximum likelihood estimate (mle) of (β21, ω), and define λ = β21ω and its estimate λ̂ = β̂21ω̂. Both (λ̂ − λ)/υ̂λ and (ω̂ − ω)/υ̂ω follow independent t-distributions with degrees of freedom n2 − 2 and n1 − 2, respectively, where υ̂λ and υ̂ω are corresponding estimated standard deviations.
+
+The estimated cumulative distribution function of β̂21 is obtained as in Section 2.2. We can then apply the DIMER algorithm in Section 2.5 to obtain confidence intervals. To compare with other methods, in Section 3.4.2 we outline an application of Fieller’s interval. In addition, we apply the Wald interval by inverting the Fisher score matrix, Hayya’s method, the nonparametric bootstrap, the parametric bootstrap, and the likelihood ratio test; see the details in the Supplementary Material, Appendices S.1, S.3 and S.5.
+
+3.4.2 Comparison with the Fieller’s Interval
+To form a confidence interval for β21, one common method in practice is Fieller’s interval. However, in this linear regression setting, it cannot be applied directly since 
+υ^ω^2 and 
+υ^λ^2 are obtained independently. In this case, by the Welch-Satterthwaite equation (Satterthwaite, 1946; Welch, 1947), the degrees of freedom of (
+υ^λ^2+β212υ^ω^2) are approximately given by 
+dF=(υ^λ^2+β212υ^ω^2)2/{(υ^λ^2)2/(n2−2)+(β212υ^ω^2)2/(n1−2)}. We use β̂21 instead of β21 in the expression to obtain the estimated degrees of freedom 
+dF∗=(υ^λ^2+β^212υ^ω^2)2/{(υ^λ^2)2/(n2−2)+(β^212υ^ω^2)2/(n1−2)}. Then we have 
+a=ω^2−tdF∗,α/22υ^ω^2, b = −2ω̂λ̂ and 
+c=λ^2−tdF∗,α/22υ^λ^2 used in the Supplementary Material. Here ρ = 0 since ω̂ and λ̂ are independent.
+
+3.4.3 Simulation Results
+Our simulations for model (2) compare the seven methods mentioned in Section 3.4.1. For simplicity, in all settings, we first fixed 
+υε12=υε22=1, and without loss of generality, let the intercepts β10 and β20 be 0. Supplementary Material Table S.4 gives some additional results when 
+υε12=υε22=2 and 3. We generated X1i and X2j independently from the standard normal distribution.
+
+We considered two parameter configurations: (β10, β20, β21, ω) = (0, 0, 1, 1), (0, 0, 1, 0.75). For each parameter setting, we report simulation results for (n1, n2) = (18, 18), (25, 25), (50, 50) with 2000 runs. In our experience in linear regression cases, and with these effect sizes, sample sizes higher than that typically lead to good numerical performances for all methods. Following Efron and Tibshirani (1994, p. 52), we used B = 400 bootstrap replications for all the bootstrap results reported in this article.
+
+The results for the first parameter configuration (β10, β20, β21, ω) = (0, 0, 1, 1) are given in Table 1 while Table 2 presents the results for setting (β10, β20, β21, ω) = (0, 0, 1, 0.75). QQ plots (not shown here) comparing the quantiles of β̂21 with the quantiles of the standard normal distribution in the two parameter configurations with n1 = n2 = 18 clearly show that for small to moderate sample sizes, normal approximations are not appropriate.
+
+Table 2 shows that when n1 = n2 = 18 the empirical mean of β̂21 is 2.85 when the true value is 1.00. The reason for this difference is that β̂21 follows a Cauchy like distribution, and one of characteristics for this distribution is that it has severely heavy tails. For example, the maximum of the absolute values of β̂21 reached 3, 138 over the 2,000 runs in this case. Therefore, some severe outliers dramatically affected the empirical mean. In sharp contrast, the empirical median of β̂21 is 1.00.
+
+Table 2 also displays the percentage of times the Fieller and likelihood ratio confidence intervals have infinite length.
+
+The inverse Fisher information matrix algorithm has the lowest coverage probabilities. Hayya’s method and the likelihood ratio test also have sub-nominal coverage probabilities when the sample sizes are small. Moreover, the latter has a positive probability to get infinite length. The performance of the two bootstrap methods is acceptable when the sample sizes are relatively large. When the sample sizes are small to moderate, the coverage rate of the bootstrap methods for the 90% confidence intervals are higher than 90%, while the coverage rate of the 99% confidence intervals is lower than 99%.
+
+Fieller’s interval has good performance overall in coverage. Here we focus on cases that the sample sizes are small and moderate (n1 = n2 = 18 and n1 = n2 = 25), where Fieller’s interval can be the real line or otherwise of infinite length. The inverse Fisher information method produced the shortest confidence interval lengths, not surprising, since its coverage rates are below the nominal values. Hayya’s method remains stable but has a low coverage when the sample sizes are small. Compared with the two bootstrap methods, our method obviously has markedly shorter lengths in the 90% and 95% confidence intervals when the sample sizes are small and moderate, especially when (n1, n2) = (18, 18). When the sample sizes are small, DIMER and Fieller’s interval have similar median and interquartile ranges of lengths, but our method is much shorter in terms of mean and 90th percentile of length.
+
+4. Empirical Example and Further Simulations
+4.1 Method and Data Analysis
+The HEI-2005 and the NIH-AARP data available to us were described in Section 1. The sample sizes were 4,300 males and 1,916 females. Let H (x) = exp(x)/{1 + exp(x)} be the logistic distribution function. Let ℓ = 1, 2 denote men and women, respectively. Let Yiℓ denote the binary outcome of colorectal cancer for person i = 1, …, nℓ in sample ℓ and let Xijℓ for j = 1, …, J = 12 denote the HEI-2005 score for the jth dietary component. The traditional HEI-2005 analysis then posits a model 
+pr(Yiℓ=1∣Xi1ℓ,…,XiJℓ)=H(αℓ+βℓ∑j=1JXijℓ), in other words, the HEI-scores are equally weighted. Notice here that the same predictor, 
+∑j=1JXijℓ, is to be used both for men and for women. In our case, we allow for the possibility that the predictor is the same in both populations, but the scores are weighted to be based on the data, so that our model is
+ (3) pr(Yiℓ=1∣Xi1ℓ,…,XiJℓ)=H(αℓ+βℓ∑j=1JωjXijℓ), where the weights (ω1, …, ωJ) are estimated through the data. The model as such is not identified, but if we make the restriction that β1 = −1, then it is identified: the negative value is because higher HEI-2005 scores, i.e., better diets, lead to lower rates of colon cancer. Thus, with β1 = −1, (3) becomes
+ pr(Yi1=1∣Xi11,…,XiJ1)=H(α1−∑j=1JωjXij1);pr(Yi2=1∣Xi12,…,XiJ2)=H(α2+β2∑j=1JωjXij2). 
+
+If we write 
+Tiℓ=∑j=1JωjXijℓ, then we see that if the relative risk in men for changing Tiℓ is R, the same change in women has a relative risk R−β2. Hence we wish to form a confidence interval for β2. We fit model (3) by maximum likelihood, and the asymptotic covariance matrix Σ of (β2, ω1, …, ωJ)T was estimated using the Fisher information matrix.
+
+To see how this relates to the Fieller problem, let ω = (ω1, …, ωJ)T, λ = β2ω, and e be the J × 1 vector of ones. From Σ and the delta method, the asymptotic covariance matrix for (ω̂, λ̂) can be constructed, and the covariance matrix of (eT
+λ, eT
+ω) is easily computed. Also, β2 = eT
+λ/eT
+ω and β̂2 = eT
+λ̂/eT
+ω̂. Thus, we see that β̂2 is the ratio of two asymptotically normal random variables, and hence DIMER, Fieller’s method, etc. can be applied.
+
+In the NIH-AARP study, the rate of colorectal cancer for men is 0.73%, while it is 0.48% for women. In the data analysis, we found that β̂2 = −0.747, so that if relative risk of 0.60 for men who improve their diet by a fixed amount, it is 0.68 for women who improve their diet the same amount. Thus, for colorectal cancer, the indication is that men are more susceptible, a well-known fact, and that they will have greater benefit for the same change in diet.
+
+In the top panel of Table 3, we present the confidence intervals for the various methods. We see there that the confidence intervals for the inverse Fisher score method and Hayya’s method are noticeably shorter than the others, the nonparametric bootstrap is quite a bit longer, and the parametric bootstrap, Fieller’s interval, DIMER, and the likelihood ratio test are intermediate. The nonparametric bootstrap does not suggest differences in risk between men and women even at 90% confidence. With the exception of the nonparametric bootstrap, whose intervals we believe are much too long, see Section 4.2, all indications are that the risk for men and women for the same change in diet is statistically significant, with a p-value of &lt; 0.01 for DIMER.
+
+In the next subsection, we study whether the different lengths of the confidence intervals are reproducible in simulations, and through these simulations, which methods attained nominal coverage.
+
+4.2 Simulation
+The sample sizes were the same as in the data set, namely 4,300 males and 1,916 females. We used a bootstrap resample of the HEI-2005 scores in the NIH-AARP data as the covariates, separately for men and women, and generated 2,000 data sets with binary outcome data according to the fit to the model (3), the parameter estimates of which are given in the caption to Table 3. The mean confidence intervals across the 2,000 simulations are given in the bottom panel of Table 3. The result reflects the same phenomenon that was observed in the actual data set, namely the inverse Fisher score method and Hayya’s method are noticeably shorter than the others, the nonparametric bootstrap is quite a bit longer, and the parametric bootstrap, DIMER, and the likelihood ratio test are intermediate. As seen in the previous simulations, the mean lengths of Fieller’s interval in this case are infinite for 90%, 95% and 99% intervals.
+
+In Table 4, we show the confidence interval coverage performance of the various methods. The inverse Fisher score method and Hayya’s method both have short confidence intervals generally, but also much less than nominal coverage probability. The likelihood ratio test has longer intervals than the inverse Fisher score and Hayya’s method, but it is still under coverage. The nonparametric bootstrap had by far the longest intervals, and here we see great over coverage. The parametric bootstrap, Fieller’s method and DIMER have close to nominal coverage. For 95% confidence intervals, Fieller’s method was of infinite length for almost 4% of the simulations. In this simulation, the parametric bootstrap performed somewhat better than DIMER, with its confidence intervals being somewhat shorter, although computationally it is, on average, 35 times slower to compute for data sets of this size.
+
+For comparison purposes, the average computational time in these simulations for the Fisher Score, Hayya, nonparametric bootstrap, parametric bootstrap, Fieller’s interval, DIMER, and likelihood ratio test were 0.07, 0.15, 75.94, 55.25, 0.15, 1.02, and 54.29 seconds, respectively. To do a more severe time test, we also generated cohort data similar in size to the NIH-AARP Study data (293, 615 males and 198, 245 females). For one such data set, the computational time for the six former methods (without the likelihood ratio test) was 9.80, 19.25, 8709.00, 3223.44, 19.25, and 20.34 seconds, respectively, indicating that the time of the parametric bootstrap was 159 times larger than that of DIMER.
+
+5. Discussion
+We have developed DIMER for constructing confidence intervals for the ratio of two location parameters. The method, based on analytical results and further approximations to account for nuisance parameters, is computationally fast. Our simulations indicated that compared with other methods in the literature, DIMER achieves coverage probabilities close to the nominal levels in all the different scenarios under consideration while providing competitive confidence interval lengths.
+
+While we have no definitive explanation, it is a reasonable conjecture that an important reason why the DIMER method works well is that the distribution of the estimated ratio is heavy tailed. Our DIMER method appeared to be less affected by this problem due to its direct probability computation, although it is not unaffected, see below.
+
+However, there are obvious cases that any of the intervals, including DIMER, may have poor performance. In particular, in the cases that Fieller intervals are of infinite length, we found in our simulations that DIMER intervals also increase in length, sometimes dramatically, especially when the p-value for testing the denominator being 0 or not is large. We found the same thing to happen to the other methods we have discussed: the results were poor, although in some cases better than DIMER. In the case of normality, only Fieller’s interval is guaranteed to achieve its nominal coverage probability, at the potential cost of intervals of infinite length.
+
+All the methods we have considered, other than Fieller’s interval, are first-order correct, i.e., their actual coverage probability is the nominal one +O(n−1/2). There is a literature on second order correctness, i.e., nominal level +O(n−1), such as Laplace approximations, second order bootstrap, etc. It would be interesting to see how and whether these methods can be applied to our problem of finding a confidence interval for the ratio of two parameters. The properties of such methods such as confidence interval lengths and actual coverage in the settings we have considered are not at all clear.
+
+Supplementary Material
+Supp Material 6. Supplementary Material
+The NIH-AARP Study of Diet and Health references in Section 4.1 can be accessed from the National Cancer Institute, but they require a proposal and a Material Transfer Agreement. The Supplementary Material includes a representative simulated data set for men and for women as in Section 4.2. The Supplementary Material referenced in Sections 2.1-2.5 and Sections 3.1-3.4 also includes a simulation when the slope and the intercept are dependent, a series of additional simulations including two with skew-normal regression errors, and definition of the HEI-2005 scores. Matlab programs implementing our method are also available at the Biometrics web site on Wiley Online Library.
+
+ This work was supported by a grant from the National Cancer Institute (R37-CA057030). We thank the patient associate editor and two patient referees for their useful comments.
+
+Table 1 Confidence intervals for β21 in a simulation study with 2000 replications and true parameter values (β10, β20, β21, ω) = (0.00, 0.00, 1.00, 1.00) for the linear regression model
+
+	Mean of Coverage	Mean of Length	Median of Length	90% Quantile of Length	
+
+	
+Method	90% CI	95% CI	99% CI	90% CI	95% CI	99% CI	90% CI	95% CI	99% CI	90% CI	95% CI	99% CI	
+n1 = n2 = 18, cv(ω̂) = 0.26, cv(λ̂) = 0.26	
+mean(β̂10, β̂20, β̂21, ω̂) = (0.01, 0.01, 1.10, 1.00), median(β̂10, β̂20, β̂21, ω̂) = (0.01, 0.01, 1.00, 1.00)	
+IF	84.05	89.40	94.60	1.63	1.95	2.56	1.09	1.30	1.71	2.83	3.38	4.44	
+HM	88.50	92.90	96.70	1.74	2.08	2.73	1.15	1.37	1.80	2.31	2.75	3.61	
+NB	92.15	94.50	97.75	20.66	24.62	32.35	1.67	1.98	2.61	31.39	37.40	49.15	
+PB	92.00	94.20	97.35	38.84	46.28	60.83	1.49	1.78	2.34	22.75	27.10	35.62	
+FI	89.85	95.05	99.35	∞	∞	∞	1.39	1.80	3.08	4.28	8.25	∞	
+DIMER	91.45	95.90	99.50	2.69	4.92	63.53	1.43	1.88	3.35	3.74	6.12	37.32	
+LR Test	86.50	92.00	97.85	∞	∞	∞	1.27	1.65	2.78	3.72	6.50	∞	
+INL–LR	3.2%	6.6%	17.3%										
+INL–FI	2.9%	5.7%	14.8%										
+
+	
+n1 = n2 = 25, cv(ω̂) = 0.21, cv(λ̂) = 0.21	
+mean(β̂10, β̂20, β̂21, ω̂) = (−0.00, 0.00, 1.05, 1.00), median(β̂10, β̂20, β̂21, ω̂) = (0.00, 0.00, 1.00, 1.00)	
+IF	86.15	92.15	96.50	1.35	1.60	2.11	0.95	1.13	1.49	2.17	2.59	3.41	
+HM	90.15	94.75	98.20	1.12	1.33	1.75	0.97	1.16	1.52	1.65	1.97	2.59	
+NB	92.55	95.30	98.45	10.25	12.21	16.05	1.17	1.40	1.83	7.55	8.99	11.82	
+PB	92.55	95.45	98.40	7.23	8.61	11.31	1.13	1.35	1.77	3.84	4.57	6.01	
+FI	90.15	95.90	99.60	∞	∞	∞	1.10	1.38	2.12	2.17	3.02	6.92	
+DIMER	91.15	96.30	99.70	1.78	2.75	10.96	1.12	1.42	2.23	2.20	3.06	6.74	
+LR Test	88.25	93.85	98.70	∞	∞	∞	1.04	1.31	1.99	2.02	2.79	6.15	
+INL–LR	0.6%	1.2%	5.9%										
+INL–FI	0.5%	1.0%	4.5%										
+
+	
+n1 = n2 = 50, cv(ω̂) = 0.14, cv(λ̂) = 0.15	
+mean(β̂10, β̂20, β̂21, ω̂) = (0.00, 0.00, 1.02, 1.00), median(β̂10, β̂20, β̂21, ω̂) = (−0.00, 0.01, 1.00, 1.00)	
+IF	90.00	93.10	97.25	0.94	1.12	1.47	0.67	0.79	1.04	1.38	1.64	2.15	
+HM	90.65	95.50	98.65	0.71	0.84	1.11	0.67	0.79	1.04	0.95	1.13	1.48	
+NB	92.15	95.40	98.55	0.84	1.00	1.32	0.70	0.84	1.10	1.10	1.31	1.72	
+PB	92.15	96.10	98.65	0.80	0.95	1.25	0.71	0.84	1.11	1.09	1.29	1.70	
+FI	91.20	95.75	99.00	0.76	0.93	1.35	0.70	0.86	1.19	1.04	1.29	1.90	
+DIMER	91.50	95.80	99.10	0.77	0.94	1.36	0.71	0.87	1.21	1.05	1.31	1.94	
+LR Test	90.20	95.00	98.95	0.74	0.91	∞	0.69	0.83	1.16	1.01	1.26	1.85	
+INL–LR	0.0%	0.0%	0.1%										
+INL–FI	0.0%	0.0%	0.0%										
+Y1i = β10 + X1iω + ε1i; Y2j = β20 + β21 X2jω + ε2j.”INL–LR” depicts the % of times that the interval by the likelihood ratio test was of infinite length, and “INL–FI” depicts the % of times that Fieller’s interval was infinite length, either the entire real line or two infinite length disconnected intervals.
+
+Here the acronyms are IF–Inverse Fisher score method, HM–Hayya’s Method, NB–Nonparametric Bootstrap, PB–Parametric Bootstrap, FI–Fieller’s Interval, DIMER–Direct Integral Method for Ratios and LR Test—Likelihood ratio test.
+
+Table 2 Confidence intervals for β21 in a simulation study with 2000 replications and true parameter values (β10, β20, β21, ω) = (0.00, 0.00, 1.00, 0.75) for the linear regression model
+
+	Mean of Coverage	Mean of Length	Median of Length	90% Quantile of Length	
+
+	
+Method	90% CI	95% CI	99% CI	90% CI	95% CI	99% CI	90% CI	95% CI	99% CI	90% CI	95% CI	99% CI	
+n1 = n2 = 18, cv(ω̂) = 0.35, cv(λ̂) = 0.35	
+mean(β̂10, β̂20, β̂21, ω̂) = (0.01, 0.01, 2.85, 0.75), median(β̂10, β̂20, β̂21, ω̂) = (0.01, 0.01, 1.00, 0.75)	
+IF	83.60	88.60	94.15	4.51	5.38	7.07	1.46	1.74	2.29	4.59	5.47	7.19	
+HM	86.45	91.65	95.55	2975	3544	4658	1.54	1.83	2.41	4.06	4.84	6.36	
+NB	93.35	95.10	97.75	74.05	88.24	116.0	4.54	5.41	7.11	105.1	125.2	164.6	
+PB	93.05	94.55	97.35	1634	1948	2559	3.55	4.23	5.56	94.25	112.3	147.6	
+FI	91.50	96.10	99.40	∞	∞	∞	2.13	2.97	7.75	∞	∞	∞	
+DIMER	92.80	96.55	99.55	7.57	15.87	56.16	2.15	3.05	8.28	10.03	25.88	105.1	
+LR Test	86.55	92.00	97.85	∞	∞	∞	1.92	2.70	7.84	∞	∞	∞	
+INL–LR	11.8%	18.8%	44.5%										
+INL–FI	11.8%	18.2%	39.2%										
+
+	
+n1 = n2 = 25, cv(ω̂) = 0.28, cv(λ̂) = 0.28	
+mean(β̂10, β̂20, β̂21, ω̂) = (−0.00, 0.00, 1.17, 0.75), median(β̂10, β̂20, β̂21, ω̂) = (0.00, 0.00, 1.00, 0.75)	
+IF	85.65	91.40	96.30	2.02	2.40	3.16	1.27	1.51	1.99	3.20	3.81	5.01	
+HM	89.45	94.15	97.75	5.06	6.03	7.92	1.30	1.55	2.03	2.69	3.20	4.21	
+NB	93.40	95.55	98.25	42.36	50.47	66.33	2.07	2.47	3.24	45.18	53.84	70.75	
+PB	93.10	95.50	98.30	53.39	63.62	83.61	1.91	2.28	2.99	35.70	42.54	55.90	
+FI	91.05	96.50	99.65	∞	∞	∞	1.59	2.11	3.90	5.72	15.03	∞	
+DIMER	92.40	96.95	99.75	4.53	9.82	35.54	1.62	2.16	4.15	4.64	7.96	61.76	
+LR Test	88.25	93.90	98.75	∞	∞	∞	1.49	1.96	3.65	5.14	11.50	∞	
+INL–LR	4.5%	8.0%	24.6%										
+INL–FI	4.2%	7.1%	20.2%										
+
+	
+n1 = n2 = 50, cv(ω̂) = 0.19, cv(λ̂) = 0.20	
+mean(β̂10, β̂20, β̂21, ω̂) = (0.00, 0.00, 1.04, 0.75), median(β̂10, β̂20, β̂21, ω̂) = (−0.00, 0.01, 1.00, 0.75)	
+IF	89.20	93.00	97.25	1.19	1.41	1.86	0.89	1.07	1.40	2.00	2.38	3.13	
+HM	90.80	95.30	98.45	0.99	1.17	1.54	0.89	1.06	1.39	1.43	1.70	2.23	
+NB	93.00	95.60	98.35	2.57	3.06	4.02	1.01	1.20	1.58	2.33	2.77	3.64	
+PB	92.75	96.10	98.65	3.79	4.52	5.93	1.00	1.19	1.57	2.19	2.61	3.43	
+FI	91.30	95.80	99.10	∞	∞	∞	0.97	1.21	1.77	1.73	2.28	4.13	
+DIMER	91.55	96.05	99.10	1.16	1.52	3.70	0.98	1.22	1.81	1.75	2.31	4.23	
+LR Test	90.20	95.00	98.95	∞	∞	∞	0.95	1.18	1.73	1.68	2.20	3.98	
+INL–LR	0.1%	0.4%	1.9%										
+INL–FI	0.1%	0.2%	1.3%										
+Y1i = β10 + X1iω + ε1i; Y2j = β20 + β21X2jω + ε2j. “INL–LR” depicts the % of times that the interval by the likelihood ratio test was of infinite length, and “INL–FI” depicts the % of times that Fieller’s interval was infinite length, either the entire real line or two infinite length disconnected intervals.
+
+Here the acronyms are IF–Inverse Fisher score method, HM–Hayya’s Method, NB–Nonparametric Bootstrap, PB–Parametric Bootstrap, FI–Fieller’s Interval, DIMER–Direct Integral Method for Ratios and LR Test—Likelihood ratio test.
+
+Table 3 Top Panel: confidence intervals for β2 with the actual case-control data set of Section 4.1. The estimated values for parameter are (β̂2, α̂1, α̂2) = (−0.747,−1.115,−1.024), ω̂ = (0.030, 0.018, 0.083, 0.033, −0.001, 0.081, 0.094, −0.043, 0.068, −0.020, 0.041, 0.098)T. Bottom panel: average confidence intervals for β2 in the simulation study of Section 4.2 for a logistic regression model with 2000 simulated case control data sets.
+
+Data Analysis
+	
+Method	90% CI	95% CI	99% CI	
+IF	(−1.17, −0.33)	(−1.25, −0.25)	(−1.40, −0.09)	
+HM	(−1.18, −0.35)	(−1.26, −0.27)	(−1.41, −0.11)	
+NB	(−1.67, 0.18)	(−1.85, 0.35)	(−2.20, 0.70)	
+PB	(−1.26, −0.23)	(−1.36, −0.13)	(−1.56, 0.06)	
+FI	(−1.26, −0.33)	(−1.41, −0.24)	(−1.84, −0.02)	
+DIMER	(−1.26, −0.33)	(−1.41, −0.24)	(−1.84, −0.02)	
+LR Test	(−1.28, −0.30)	(−1.41, −0.22)	(−1.69, −0.05)	
+
+	
+Simulation: Average Confidence Intervals
+	
+Method	90% CI	95% CI	99% CI	
+
+	
+IF	(−1.17, −0.37)	(−1.24, −0.29)	(−1.39, −0.15)	
+HM	(−1.18, −0.38)	(−1.26, −0.31)	(−1.40, −0.16)	
+NB	(−1.46, −0.08)	(−1.59, 0.06)	(−1.85, 0.32)	
+PB	(−1.26, −0.27)	(−1.36, −0.18)	(−1.55, 0.01)	
+FI	∞	∞	∞	
+DIMER	(−1.28, −0.35)	(−1.47, −0.22)	(−2.52, 0.53)	
+LR Test	(−1.28, −0.36)	(−1.40, −0.29)	(−1.67, −0.14)	
+Here the acronyms are IF–Inverse Fisher score method, HM–Hayya’s Method, NB–Nonparametric Bootstrap, PB–Parametric Bootstrap, FI–Fieller’s Interval, DIMER–Direct Integral Method for Ratios and LR Test—Likelihood ratio test.
+
+Table 4 Analysis of the confidence intervals for β2 in a simulation study of Section 4.2 for a logistic regression model with 2000 simulated data sets. There are 4300 males with 1075 individuals with colorectal cancer and 1916 females with 479 having the disease. “INL–LR” depicts the % of times that the interval by the likelihood ratio test was of infinite length, and “INL–FI” depicts the % of times that Fieller’s interval was infinite length, either the entire real line or two infinite length disconnected intervals.
+
+Mean Coverage	Mean Length	Median Length	90% Quantile Length	
+
+	
+Method	90% CI	95% CI	99% CI	90% CI	95% CI	99% CI	90% CI	95% CI	99% CI	90% CI	95% CI	99% CI	
+IF	84.10	91.65	97.20	0.79	0.95	1.24	0.76	0.91	1.19	0.99	1.18	1.55	
+HM	83.35	91.25	97.25	0.79	0.95	1.24	0.76	0.91	1.19	0.99	1.18	1.55	
+NB	96.55	98.45	99.60	1.38	1.65	2.17	1.19	1.41	1.86	2.08	2.48	3.26	
+PB	92.05	96.15	99.25	0.99	1.18	1.56	0.98	1.17	1.54	1.08	1.29	1.70	
+FI	87.60	94.30	99.00	∞	∞	∞	0.87	1.09	1.68	1.22	1.61	∞	
+DIMER	87.70	94.20	98.95	0.94	1.25	3.05	0.87	1.10	1.74	1.23	1.70	4.22	
+LR Test	86.85	92.80	98.25	0.92	1.11	1.53	0.87	1.05	1.43	1.18	1.44	2.01	
+INL–LR	0.0%	0.0%	0.0%										
+INL–FI	1.6%	3.5%	10.4%										
+Here the acronyms are IF–Inverse Fisher score method, HM–Hayya’s Method, NB–Nonparametric Bootstrap, PB–Parametric Bootstrap, FI–Fieller’s Interval, DIMER–Direct Integral Method for Ratios and LR Test—Likelihood ratio test.
+
+
+   
+            Benton D  
+            Krishnamoorthy K  
+           2002 Performance of the parametric bootstrap method in small sample interval estimates Advances and Applications in Statistics 2 269 285 
+
+            Beyene J  
+            Moineddin R  
+           2005 Methods for confidence interval estimation of a ratio parameter with application to location quotients BMC Medical Research Methodology 5 1 7 15636638 
+
+            Davidian M  
+            Carroll RJ  
+            Smith W  
+           1988 Variance functions and the minimum detectable concentration in assays Biometrika 75 549 556 
+
+            Efron B  
+           1981 Nonparametric standard errors and confidence intervals The Canadian Journal of Statistics 9 139 172 
+
+            Efron B  
+            Tibshirani RJ  
+           1994 An Introduction to the Bootstrap First Edition Chapman and Hall CRC Press 
+
+            Fieller EC  
+           1932 The distribution of the index in a bivariate normal distribution Biometrika 24 428 440 
+
+            Fieller EC  
+           1954 Some problems in interval estimation Journal of the Royal Statistical Society, B 16 175 185 
+
+            Finney DJ  
+           1978 Statistical Methods in Biological Assay 3 Griffin London 148178, 297315 
+
+            Guenther PM  
+            Reedy J  
+            Krebs-Smith SM  
+           2008 Development of the Healthy Eating Index-2005 Journal of the American Dietetic Association 108 1896 1901 18954580 
+
+            Hayya J  
+            Armstrong D  
+            Gressis N  
+           1975 A note on the ratio of two normally distributed variables Management Science 21 1338 1341 
+
+            Hubert JJ  
+           1984 Bioassay 2 Kendall-Hunt Dubuque 2639 
+
+            Pham-Gia T  
+            Turkkan N  
+            Marchand E  
+           2006 Density of the ratio of two normal random variables and applications Communications in Statistics: Theory and Methods 35 1569 1591 
+
+            Redmond CK  
+           2005a Parallel line assay Encyclopedia of Biostatistics Wiley New York 10.1002/0470011815.b2a06020 Online 
+
+            Redmond CK  
+           2005b Radioimmunoassay Encyclopedia of Biostatistics Wiley New York 10.1002/0470011815.b2a06021 Online 
+
+            Redmond CK  
+           2005c Slope-ratio assay Encyclopedia of Biostatistics Wiley New York 10.1002/0470011815.b2a06023 Online 
+
+            Reedy J  
+            Mitrou PN  
+            Krebs-Smith SM  
+            Wirfält E  
+            Flood A  
+            Kipnis V  
+            Leitzmann M  
+            Mouw T  
+            Hollenbeck A  
+            Schatzkin A  
+            Subar AF  
+           2008 Index-based dietary patterns and risk of colorectal cancer: the NIH-AARP Diet and Health Study American Journal of Epidemiology 168 38 48 18525082 
+
+            Satterthwaite FE  
+           1946 An approximate distribution of estimates of variance components Biometrics Bulletin 2 110 114 20287815 
+
+            Sherman M  
+            Maity A  
+            Wang S  
+           2011 Inferences for the ratio: Fieller’s interval, log ratio, and large sample based confidence intervals AStA Advances in Statistical Analysis 95 313 323 
+
+            Welch BL  
+           1947 The generalization of “student’s” problem when several different population variances are involved Biometrika 34 28 35 20287819 
+

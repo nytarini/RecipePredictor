@@ -1,0 +1,404 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   93029578479Support Care CancerSupport Care CancerSupportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer0941-43551433-733925218607437185610.1007/s00520-014-2406-xNIHMS665186ArticleGWAS of 972 autologous stem cell recipients with multiple myeloma identifies 11 genetic variants associated with chemotherapy-induced oral mucositis Coleman Elizabeth Ann College of Nursing, University of Arkansas for Medical Sciences, 4301 W. Markham St, Slot 529, Little Rock, AR 72205, USALee Jeannette Y. Department of Biostatistics, University of Arkansas for Medical, Sciences, Little Rock, AR, USAErickson Stephen W. Department of Biostatistics, University of Arkansas for Medical, Sciences, Little Rock, AR, USAGoodwin Julia A. GoodwinJuliaA@uams.eduUAMS Medical Center, University of Arkansas for Medical, Sciences, 4301 W. Markham St, Slot 721-13, Little Rock, AR 72205, USASanathkumar Naveen Myeloma Institute for Research and Therapy, University of Arkansas for Medical Sciences, Little Rock, AR, USARaj Vinay R. Department of Genetics, University of Arkansas for Medical Sciences, Little Rock, AR, USAZhou Daohong Pharmaceutical Sciences, University of Arkansas for Medical Sciences, Little Rock, AR, USAMcKelvey Kent D. Department of Genetics, University of Arkansas for Medical Sciences, Little Rock, AR, USAApewokin Senu Myeloma Institute for Research and Therapy, University of Arkansas for Medical Sciences, Little Rock, AR, USAStephens Owen Myeloma Institute for Research and Therapy, University of Arkansas for Medical Sciences, Little Rock, AR, USAEnderlin Carol A. College of Nursing, University of Arkansas for Medical Sciences, 4301 W. Markham St, Slot 529, Little Rock, AR 72205, USAVangsted Annette Juul Department of Hematology, Roskilde University Hospital, Roskilde, DenmarkReed Patty J. College of Nursing, University of Arkansas for Medical Sciences, 4301 W. Markham St, Slot 529, Little Rock, AR 72205, USAAnaissie Elias J. College of Medicine, University of Cincinnati, Cincinnati, OH, USA21 2 2015 14 9 2014 3 2015 01 3 2016 23 3 841 849 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Purpose
+High-dose chemotherapy and autologous stem cell transplant (ASCT) to treat multiple myeloma (MM) and other cancers carries the risk of oral mucositis (OM) with sequelae including impaired nutritional and fluid intake, pain, and infectious complications. As a result of these problems, cancer treatment may have to be interrupted or delayed. In this study we looked beyond OM's known risk factors of renal function and melphalan dose with a genome-wide association study (GWAS) to evaluate whether genetic variants in conjunction with clinical risk factors influence predisposition for OM.
+
+Methods
+Genotyping was performed using Illumina HumanOmnil-Quad vl.O BeadChip and further assessed for data quality. We tested 892,589 germline single-nucleotide polymorphisms (SNPs) for association with OM among 972 Caucasian patients treated with high-dose melphalan and ASCT in Total Therapy clinical trials (TT2, TT3, TT4) for newly diagnosed MM. Statistical analyses included t tests, stepwise regression modeling, and logistic regression modeling to find baseline clinical factors and genotypes associated with OM.
+
+Results
+We found that 353 (36.3 %) patients had grades 2–4 OM. Type of treatment protocol, baseline estimated glomerular filtration rate, and melphalan dose along with baseline serum albumin and female gender predicted 43.6 % of grades 2–4 OM cases. Eleven SNPs located in or near matrix metalloproteinase 13, JPH3, DHRS7C, CEP192, CPEB1/LINC00692, FBN2, ALDH1A1, and DMRTA1/FLJ35282 were associated with grades 2–4 OM. The addition of these SNPs increased sensitivity in detecting grades 2–1 OM cases to 52 %.
+
+Conclusions
+These SNPs may be important for their roles in inflammatory pathways, epithelial healing, and chemotherapy detoxification.
+
+Oral mucositisMultiple myelomaChemotherapy-induced oral mucositisGenetic variantsGWASSNPs
+   High-dose chemotherapy with autologous stem cell transplantation (HD-ASCT) provides a survival benefit for patients with various hematologic cancers, particularly those with multiple myeloma receiving melphalan-based conditioning regimens [1]. Although higher melphalan doses are associated with increased remission rates and event-free and overall survival compared to lower melphalan doses [1,2], the substantial toxicity burden of this regimen, particularly mucosal damage, may limit feasible use. Oral mucositis (OM), the dose-limiting toxicity of high-dose melphalan (HD-MEL), is common, frequently severe [3], and associated with various complications including pain, malnutrition, severe infections, and even death [4–7]. Treatment for these complications increases the costs of care [4, 8], and severe OM may lead to chemotherapy dose reduction or discontinuation that jeopardizes patient outcomes [8]. An effective mucoprotective agent [9] recently became available, again increasing the cost of care, but we lack a precise predictive model to target this expensive therapy to those at highest risk for severe OM.
+
+Independent risk factors for severe OM include renal dysfunction and melphalan dose, as we have previously shown among 381 myeloma patients receiving HD-MEL in which 75 % developed OM and 21 % developed severe OM [10]. We developed a model for severe OM using renal dysfunction and milligrams per kilogram melphalan dose as independent risk factors. However, significant differences in OM rates among patients with normal kidney function receiving the same milligrams per kilogram melphalan dose strongly suggest that additional factors such as genetic variability may play an important role in the pathogenesis of OM.
+
+We herein report the results of an Institutional Review Board-approved comprehensive study to test our hypothesis that genetic variants play a role in susceptibility of multiple myeloma patients to chemotherapy-induced OM using genome-wide associations study (GWAS) together with clinically relevant factors for OM. The study included a homogenous population of 972 Caucasian patients with newly diagnosed multiple myeloma and at risk for OM as a result of therapy with HD-MEL.
+
+Methods
+Patients and treatment regimens
+Data were collected from medical records on 972 Caucasian adults with newly diagnosed multiple myeloma cared for at the Myeloma Institute for Research and Treatment (MTRT) between March 1998 and September 2010. All except 134 patients were enrolled in one of three consecutive clinical trials of Total Therapy (TT2, TT3, and TT4) [11–13]. All underwent HD-MEL-based ASCT and the data are related to the first transplant. To be transplant-eligible, patients were required to have good oral health. The Institutional Review Board approved the study; GWAS data available in dbGAP (phs000545.vl.pl).
+
+The chemotherapy agents used in induction for each type of protocol are shown in Table 1. Following induction, patients received HD-MEL (140–200 mg/m2) based on body surface area (BSA), calculated according to Mosteller's formula [14], MEL at 140 mg/m2 was based on the age of &gt;70 years. Patients were managed according to MIRT-predefmed standards of care including oral antimicrobial prophylaxis with acyclovir, fluconazole, and fluoroquinolone throughout neutropenia [10]. Recombinant keratinocyte growth factor-1 prophylaxis was not used. Symptoms of OM were treated with topical agents, often in combination (aluminum hydroxide and magnesium hydroxide, diphenhydramine and/or viscous lidocaine) with the addition of opiates for severe pain.
+
+The time period for the observation of OM began on the day stem cells were infused (day 0) and concluded on day + 21, thereby encompassing the days when patients are at risk for chemotherapy-induced mucositis. Clinicians (physicians, mid-level providers, and nurses) experienced in the management of patients with myeloma treated with HD-MEL conducted the patient assessments every other day, or daily as clinically indicated, until engraftment and resolution of complications.
+
+Mucositis grading
+Although mucositis grading was done prospectively by experienced nurses and physicians for all patients during their treatment, all patient files were reviewed again retrospectively for this study by two physicians and two nurses who individually graded mucositis based on the Common Terminology Criteria for Adverse Events (CTCAE) version 4.0 for Gastrointestinal Events [15]. Any differences in grading were discussed and finalized for uniformity. Grades refer to the severity of mucositis with grade 1 = mild, grade 2 = moderate, grade 3 = severe, grade 4 = life-threatening, and grade 5 = death. We used grade 0 for no mucositis; grade 1 for mild symptoms like oral pain but intervention not indicated; grade 2 for moderate pain, interfering with oral intake, diet-modified; grade 3 for severe pain, interfering with oral intake, switched to liquid diet/medications switched to intravenous; and grade 4 hospitalized for severe pain requiring hospitalization, all medications intravenously, no oral intake.
+
+Clinical risk factor data
+Several baseline variables obtained immediately prior to the infusion of HD-MEL were evaluated including age, body mass index (BMI), BSA, weight, gender, type of treatment protocol, hematocrit, hemoglobin, renal function [estimated glomerular filtration rate (GFR)], serum albumin, C-reactive protein, melphalan dose received (in milligrams per kilogram), β2-microglobulin (β2-M), and myeloma isotype.
+
+Genetic data
+DNA for this study was obtained from the MIRT bank of germline DNA samples prepared from leukapheresis products. Genotyping was performed using the Illumina® Whole Genome Genotyping Infinium chemistry and HumanOmnil-Quad BeadChip that contains over 1.1 million single-nucleotide polymorphisms (SNPs) and CNVs (Illumina, San Diego, CA). SNP genotypes were scored with the Genotyping Module of the Illumina GenomeStudio Data Analysis software. Individual samples with genotype call rates less than 98 % and SNPs with call rates less than 97 % were removed.
+
+We randomly selected 2 % of the DNA samples to be plated in duplicate for quality control checks, and the average concordance rate for duplicate genotyping was 99.95 %. Furthermore, 953 DNA samples from the patient population of 972 patients (excludes 19 samples which were exhausted or of insufficient quantity) were sent to LGC Genomics for independent verification of genotypes using quantitative PCR (qPCR), and there was perfect concordance between the Illumina and LGC Genomics genotype calls at each of the significant SNPs. Of the 983,062 SNPs genotyped, there was sufficient information to conduct the statistical analysis for 892,589 SNPs in 972 patients, 619 patients with grades 0–1 OM, and 353 patients with grades 2–4 OM.
+
+Statistical methods
+The proportion of patients who developed grades 2–4 OM was estimated with the binomial proportion and its exact confidence interval. The t test for independent samples and chi- square test were used to compare the patients who had grades 0–1 OM with those who had grades 2–4 OM with respect to baseline characteristics. Estimated GFR was used to assess renal function [16] for each SNP, and the Cochran-Armitage trend test [17, 18] was used to compare genotypes with respect to proportion of patients who developed grades 2–4 OM. The false discovery rate (FDR) approach [19] was used on the significance levels (p values) for the analyses to determine which were significantly associated with grades 2–4 OM at the overall 0.05 significance level. Because hemoglobin is highly correlated with hematocrit and body mass index and body surface area and body weight are highly correlated, only hematocrit and body surface area were used in the multivariate analysis. A stepwise regression model was used to find baseline clinical factors associated with OM risk; logistic regression models were used to evaluate the association of genotypes with OM after adjusting for clinical factors significantly associated with OM risk.
+
+Results
+The study population consisted of 972 Caucasian adults with newly diagnosed multiple myeloma who underwent melphalan-based HD-ASCT. Mean age was 57.65 years, 64 % were males, and all patients were Caucasian. Grades 2–4 OM developed in 36.3 % of patients (95 % confidence interval 33.3–39.4 %). Factors significantly (p&lt;0.001) different by univariate analyses between patients with grades 0–1 and 2–4 OM were smaller BMI and BSA, lower weight, female gender, Total Therapy II protocol, higher albumin, renal dysfunction (lower estimated GFR), and higher milligrams per kilogram melphalan dose (Table 2). Females received higher doses of milligrams per kilogram melphalan (mean 4.72, SD 0.82) than men (mean 4.29, SD 0.73) (p&lt;0.001, t test for independent samples), but there were no significant gender differences in type of treatment protocol nor in estimated GFR. BSA was not a significant baseline clinical factor when entered into a stepwise logistic regression model along with other clinical factors (p&gt;0.05). The clinical factors associated with OM were type of treatment protocol (p&lt;0.001), estimated GFR (p&lt;0.001), melphalan dose (p&lt;0.001), serum albumin (p&lt;0.001), and gender (p= 0.002). Concordance between observed and predicted levels of OM occurred in 46.5 % with type of treatment protocol, 70.9 % of the cases with the addition of estimated GFR, 72.8 % with the addition of melphalan dose (milligrams per kilogram), and 73.7 % with the addition of gender.
+
+Of the 892,589 SNPs that were evaluated to determine if they were associated with oral mucositis, 110 SNPs met the overall 0.05 significance level using the false discovery rate approach (Table 3). None achieved significance at the 5× 10−8. Using logistic regression analyses, and after adjusting for type of treatment protocol, estimated GFR, melphalan dose, serum albumin, and gender, each of these SNPs was assessed for association with oral mucositis. Because 99 of the SNPs were markers for gender, they were not included in the multivariate analysis.
+
+The remaining 11 SNPs located on seven chromosomes were significantly associated with grades 2–4 OM, and odds ratios with 95 % confidence intervals indicate a significant difference between genotypes for all the SNPs with respect to incidence of grades 2–4 OM (Table 4). Concordance between observed and predicted levels of OM ranged from 74.6 to 75.5 % for those SNPs that were estimable (p&lt;.001) and was 78.9 % when all 11 SNPs were included in the multivariate analysis (Table 5). There are three loci (near the genes matrix metalloproteinase 13 (MMP13), LINC00692, and DMRTA1/FLJ35282) with pairs of significant SNPs shown in Table 4, and these SNP pairs have high rates of linkage disequilibrium (R2 &gt;0.84). Odds ratios demonstrated that homozygosity was positively associated with grades 2–4 oral mucositis. There were no significant gender differences between genotypes for any of the SNPs with respect to incidence of grades 2–4 OM.
+
+Clinical risk factors alone correctly predicted 43.6 % of grades 2–4 OM cases and 89 % of the grades 0–1 OM cases (Table 5). Adding individual SNPs to the model increased sensitivity of detecting grades 2–4 OM cases by only 2.1 % with little changes to the specificity in identifying grades 0–1 OM cases. When all 11 SNPs were added to clinical risk factors, sensitivity in detecting grades 2–4 OM increased to 52 %. Thus, the statistical model combining clinical risk factors and genetic variants correctly predicted 52 % of the patients with grades 2–4 oral mucositis and 86.9 % of the patients with grades 0–2 mucositis.
+
+Discussion
+Comparing groups with grades 0–1 vs grades 2–4 OM, our study revealed that 11 SNPs located on seven chromosomes were significantly associated with grades 2–4 OM. Six of these SNPs reside in introns of genes, two SNPs reside in a long terminal repeat region (LTR) and in a long interspersed repeated DNA (LINE), and three SNPs reside in large intergenic noncoding RNAs (lincRNAs) of the associated genes, and all may affect gene regulation. The position of the SNP in the LINE region may not be accurate due to its high homology (up to 87.7 % UCSC blat) to many other regions in the genome, and therefore, its exact location would need to be verified by sequencing. LincRNAs are classified as noncoding RNAs (over 200 bases) and have been found to be involved in gene regulation using either cis or trans mechanisms [20]. It has also been established that SNPs in lincRNAs can affect their structural folding and binding of the RNA to its target and therefore influence gene activity [21]. We suspect that the mucositis-associated SNPs in these lincRNAs could affect expression of target genes, but this needs to be validated experimentally. Sonis [22] mapped 40 OM-associated SNPs to 29 genes; although some of the genes were associated ontologically with transcription regulation, RNA metabolic process regulation, and cell membrane integrity, none of the 29 genes were associated with OM in our study.
+
+While type of treatment protocol and renal function represent the majority of risk predisposition, several of these genetic loci could have effects on OM development. In the Sonis model [23], the complex pathogenesis of chemotherapy-induced mucositis can be viewed as consisting of five interrelated phases: initiation, upregulation with generation of messengers, signaling and amplification, ulceration and inflammation, and healing.
+
+It is plausible that the patients carrying different mucositis-associated SNPs may express variable levels of fibrillin 2 and matrix metalloproteinase 13 (MPP-13), and thus, they may exhibit different sensitivities to melphalan-induced OM. Fibrillin 2 encoded by FBN2 is expressed in keratinocytes [24], is one of the components of the extracellular matrix, and has been shown to play an important role in the regulation of the bioavailability of TGFβ in a tissue [25, 26]. Dietary supplementation of TGFβ-2 reduced methotrexate-induced intestinal mucositis in rats [27], but the effects of TGFβ-2 and TGFβ-3 administration on chemotherapy-induced mucositis in humans have yet to be demonstrated [28, 29]. In contrast, a recent study showed that Smad7 can reduce radiation-induced OM by dampening TGFβ signaling [30], It remains to be determined whether patients with a different SNP rsl0072361 exhibit a differential expression of fibrillin 2 and different TGFβ activity in correlation with their susceptibility to melphalan-induced OM.
+
+Additionally, it has been shown that expression of MMP13 is upregulated in oral epithelial cells during inflammation [31]. Given the role that MPP-13 plays in epithelial wound healing via regulating keratinocyte migration, angiogenesis, and inflammation [32, 33], patients with different alleles for SNPs (rsl940228 and rs948695) may exhibit different sensitivities to melphalan-induced OM if these alleles can affect the expression of MPP13.
+
+All our patients received melphalan and cyclophosphamide (CTX) as part of their total therapy regimens [11–13]. Patients on the Total Therapy II protocol received a cumulative dose of 1,400 mg/m2 of CTX for induction vs 400–800 mg/m2 for patients on the other protocols, and more patients on Total Therapy II protocol had more severe OM. Dehydrogenases such as aldehyde dehydrogenase 1A1 (ALDH1A1) may detoxify CTX [34, 35]; therefore, if patients with different alleles for SNP rsl469167 express variable levels of ALDH1A1, they could develop OM with different severities after CTX treatment. Finally, possible participation in CTX detoxification by DHRS7c, which also encodes a short-chain dehydrogenase/reductase [36], has yet to be determined. Therefore, the significance of SNP rsll078818 located in the intron region of DHRS7c in the development of OM in MM patients after chemotherapy remains to be investigated.
+
+In our sample, females received significantly higher doses of melphalan than males and the incidence and severity of mucositis was significantly higher among females than among males (p&lt;0.001, Table 2); however, there were no gender differences in the genetic findings to account for the increased risk of OM. We have previously shown that BSA dosing of melphalan results in a wide variation in milligrams per kilogram melphalan dose given, with females receiving the higher doses [10], and others found this similar variation [3]. Unfortunately, current dosing methods used in clinical practice understate the impact gender difference plays in drug metabolism. There is the need to recognize this more often, and more effort needs to be directed towards providing clinicians with tools to adjust doses accordingly.
+
+Because multiple myeloma is more common among African-Americans, our findings from a sample of 972 Caucasians may not be applicable to the general multiple myeloma population. However, the homogeneity of our sample with regard to race is a strength of the study. Population stratification, a special confounder in disease association studies, occurs when allele frequency of the gene under study and a true risk factor for a disease in question vary considerably across subgroups of the population with a different risk for the disease. Therefore, the influence of population stratification on our results, if any, should be minor.
+
+The current cohort of myeloma patients is the largest examined to date with little heterogeneity; all patients had newly diagnosed multiple myeloma, received a similar treatment regimen that included HD-MEL, and were cared for at a single institution. In addition, grading of mucositis was carefully evaluated by individuals trained in and experienced with mucositis assessment and was based on an accepted grading system (CTCAE version 4.0). Our findings may not be applicable to other patient populations treated with non-melphalan-based regimens. We nevertheless identified 11 SNPs statistically significant at an FDR of 0.05 which remained significant (p&lt;0.001) when included as covariates in a logistic regression model of multiple baseline clinical characteristics. That none of the mucositis-associated SNPs reached the most stringent levels of genome-wide multiplicity adjustment (typically, 5 × 10) [37] is likely related to sample size limitations. In a separate study, we plan to validate these results in a different sample of patients with chemotherapy-induced OM.
+
+In conclusion, we have discovered previously unreported genetic associations for OM risk in a locus that is plausible for effect given its known role in the inflammation cascade. Although these findings may not be readily applicable clinically, they help provide some insight into the pathophysiology of OM. Patients carrying different mucositis-associated SNP alleles may express variable levels of fibrillin 2, MPP13, ALDH1A1, and/or DHRS7c and thus exhibit altered sensitivity to OM induced by melphalan and other chemo therapeutical agents such as CTX. We suspect that the mucositis-associated SNPs could affect expression of adjacent genes through the noncoding RNA and this pathway may eventually represent a novel drug target for the prevention of this devastating condition. This hypothesis will be tested in our future studies. Our clinical findings complement earlier reports of genetic findings and may help us understand the pathophysiology of OM.
+
+Financial support Primary support was given by the National Institutes of Health (NIH)/National Institute of Nursing Research (NINR) 5 RC2NR011945, and for the additional support, the Translational Research Institute at UAMS (grant #1UL1RR029884) and the Elizabeth Stanley Cooper Chair in Oncology Nursing.
+
+This work was performed at the University of Arkansas for Medical Sciences, Little Rock, AR.
+
+Conflict of interest The authors have no conflict of interest to report. Author/COI Disclosure Forms were submitted along with the manuscript.
+
+Author contributions EJ Anaissie, EA Coleman, JY Lee, JA Goodwin, CA Enderlin, and VR Raj are responsible for the conception and design; N Sanathkumar, EA Coleman, EJ Anaissie, and JA Goodwin for the collection and verification of clinical data; VR Raj, O Stephens, and SW Erickson for the generation and verification of GWAS data; JY Lee, SW Erickson, EA Coleman, D Zhou, VR Raj, JA Goodwin, and N Sanathkumar for data analysis and interpretation; PJ Reed for the administrative support; KD McKelvey for serving as a consultant on medical genetics; EA Coleman, JY Lee, D Zhou, SW Erickson, JA Goodwin, VR Raj, N Sanathkumar, S Apewokin, and AJ Vangsted for writing the manuscript; and EA Coleman, JY Lee, SW Erickson, JA Goodwin, N Sanathkumar, D Zhou, KD McKelvey, VR Raj, S Apewokin, O Stephens, CA Enderlin, AJ Vangsted, P J Reed, and EJ Anaissie fo the final approval of the manuscript.
+
+Table 1 Chemotherapy agents received at the time of transplant in the Total Therapy protocols
+Regimen type	Medication	Total dose received by treatment protocol	
+
+	
+TT2	TT3	TT4	
+Induction	Cisplatin	30 mg/m2	20 mg/m2	20 mg/m2	
+	Cyclophosphamide	1,400 mg/m2	800 mg/m2	800 mg/m2	
+	Dexamethasone	160 mg	160 mg	160 mg	
+	Doxorubicin	25 mg/m2	20 mg/m2	10 mg/m2	
+	Etoposide	80 mg/m2	80 mg/m2	80 mg/m2	
+	Vincristine	0.5 mg	-	-	
+	Bortezomib	-	2 mg/m2	2 mg/m2	
+	Thalidomide	-	1,600 mg	1,600 mg	
+	Melphalan	-	-	20 mg/m2	
+Conditioning	Melphalan	140–200 mg/m2	140–200 mg/m2	140–200 mg/m2	
+m2: Based on body surface area (BSA) calculated according to Mosteller's formula
+
+Table 2 Oral mucositis clinical risk factors
+Baseline characteristics	All patients (N=972)	OM		
+
+	
+Grades 0–1 (N=619)	Grades 2–4 (N=353)	Probability for 
+comparing groups	
+Age in years, mean (SD)	57.65(9.16)	57.81 (9.35)	57.36(8.81)	0.460a	
+Body mass index, mean (SD)	27.55 (5.10)	27.97 (5.01)	26.82(5.18)	&lt;0.001a	
+Body surface area (m2), mean (SD)	1.87(0.23)	1.90(0.24)	1.82(0.21)	&lt;0.001a	
+Weight (kg), mean (SD)	81.11 (18.02)	83.27(18.15)	77.32(17.17)	&lt;0.001a	
+Gender					
+ Male (%)	63.68	69.47	53.54	&lt;0.001b	
+ Female (%)	36.32	30.53	46.46		
+Hematocrit (%), mean (SD)	33.40 (4.44)	33.65 (4.23)	32.97 (4.77)	0.027a	
+Hemoglobin (g/dL), mean (SD)	11.01 (1.44)	11.09(1.38)	10.89(1.53)	0.037a	
+Estimated GFR, mean (SD)	80.44 (28.40)	84.44 (23.28)	73.43 (30.58)	&lt;0.001a	
+Albumin (g/dL), mean (SD)	3.85 (0.50)	3.81 (0.47)	3.93 (0.53)	&lt;0.001a	
+C-reactive protein (mg/L), mean (SD)	9.36 (13.68)	9.02 (10.38)	9.96(18.07)	0.373a	
+Melphalan dose (mg/kg), mean (SD)	4.44 (0.79)	4.36 (0.79)	4.59 (0.78)	&lt;0.001a	
+β2-microglobulin, median (IQR)	3.43(4.31)	2.95 (2.26)	4.26 (6.42)	0.091a	
+Myeloma isotype					
+ FLC (%)	20.58	57.50	46.48	0.319b	
+ IgA(%)	22.53	65.75	34.25		
+ IgD (%)	0.72	71.43	28.57		
+ IgG(%)	54.01	64.76	35.24		
+ Other (%)	2.16	71.43	28.57		
+Treatment protocol					
+ TT2 (%)	310(31.89)	135 (43.55)	175 (56.45)	&lt;0.001b	
+ TT, other (%)	528 (54.32)	393 (74.43)	135 (25.57)		
+ Non-TT (%)	134 (13.78)	91 (67.91)	43 (32.09)		
+a Based on t test for independent samples
+
+b Based on chi-square test
+
+Table 3 Frequency of single-nucleotide polymorphisms (SNPs) associated with grades 2–4 oral mucositis
+Chromosome	Gene symbol or nearby gene symbol	SNP frequency	
+1	PLD5	3	
+PPP1R12B	1	
+3	LINC00692	2	
+5	FBN2	1	
+PTGER4	1	
+11	SHANK2	1	
+MMP13	2	
+9	ALDH1A1	1	
+DMRTA1	2	
+16	JPH3	1	
+17	DHRS7C	1	
+18	CEP 192	1	
+XY	CD99	1	
+CPXCR1	3	
+PABPC5	9	
+PCDH11X	58	
+TGIF2LX	19	
+XG	2	
+Y	TTTY3	1	
+Table 4 Single-nucleotide polymorphisms (SNPs) associated with grades 2–4 oral mucositis
+Gene symbol or nearby gene symbol
+(chromosome location)	SNP	Genotype	All N (%)	Grades 2–4 oral
+mucositis N (%)	OR (95 % CI)	
+CPEB1/LINC00692 (3p24.2)	rs1426765	AA	773 (79.53)	251 (32.47)	AA vs AG, 0.45(0.32, 0.65)	
+AG	186(19.14)	95(51.08)	AA vs GG, 0.42(0.13, 1.36)	
+GG	13(1.34)	7 (53.85)	AGvs GG, 0.92(0.27, 3.09)	
+rs6804277	AA	773 (79.53)	251 (32.47)	AA vs AG, 0.44(0.30, 0.63)	
+AG	184(18.93)	95(51.63)	AA vs GG, 0.65(0.21, 1.99)	
+GG	15(1.54)	7 (46.67)	AG vs GG, 1.50(0.48,4.72)	
+FBN2 (5q23-q31)	rs10072361	AA	649 (67.39)	266 (40.99)	AA vs AG, 1.80(1.29,2.51)	
+AG	280 (29.08)	82 (29.29)	AA vs GG, 6.42(2.16, 19.07)	
+GG	34(3.53)	4(11.76)	AG vs GG, 3.56 (1.18, 10.81)	
+ALDH1A1(9q21.13)	rs1469167	AA	881 (90.64)	300 (34.05)	AA vs AG, 0.36(0.22, 0.58)	
+AG	90 (9.26)	52 (57.78)	AA vs GG (nonestimable)	
+GG	1 (0.10)	1 (100)	AG vs GG (nonestimable)	
+DMRTA1/FLJ35282 (9p21.3)	rs62572481	CC	912 (93.83)	315(34.54)	CCvs CT, 0.32(0.18,0.58)	
+TC	59 (6.07)	37(62.71)	CC vs TT (nonestimable)	
+TT	1 (0.10)	1 (100)	TC vs TT (nonestimable)	
+rs62572531	CC	1 (0.10)	1 (100)	CC vs TC (nonestimable)	
+TC	60(6.18)	38 (63.33)	CC vs TT (nonestimable)	
+TT	910 (93.72)	314(34.51)	TC vs TT, 3.26(1.81, 5.84)	
+MMP13(11q22.3)	rs1940228	AA	928 (95.57)	323 (34.81)	AA vs AG, 0.27(0.13, 0.56)	
+AG	43 (4.43)	30 (69.77)		
+rs948695	AA	925 (95.16)	320 (34.59)	AA vs AG, 0.25(0.12, 0.49)	
+AG	47 (4.84)	33 (70.21)		
+JPH3 (16q24.3)	rs4843257	AA	220 (22.63)	104 (47.27)	AA vs AG, 1.55(1.08,2.21)	
+AG	458 (47.12)	170 (37.12)	AA vs GG, 2.56(1.70, 3.84)	
+GG	294 (30.25)	79 (26.87)	AG vs GG, 1.66(1.17,2.34)	
+DHRS7C(17p13.1)	rs11078818	AA	29 (2.99)	17(58.62)	AA vs AG, 1.37(0.58,3.26)	
+AG	263 (27.09)	120 (45.63)	AA vs GG, 2.58(1.11,5.98)	
+GG	679 (69.93)	216(31.81)	AG vs GG, 1.88(1.37,2.60)	
+CEP192(18p11.21)	rs12606033	AA	12(1.23)	7 (58.33)	AA vs AG, 1.06(0.29,3.94)	
+AG	220 (22.63)	106(48.18)	AA vs GG, 2.10(0.58, 7.59)	
+GG	740 (76.13)	240 (32.43)	AG vs GG, 1.97(1.41,2.77)	
+Table 5 Logistic regression model for OM: sensitivity to detect grades 2–4 and specificity to detect grades 0–1
+Model components	Sensitivity (%)a	Specificity (%)b	Concordance (%)c	
+Clinical risk factors (CRFs) only	43.6	84.3	73.7	
+CRF+rs1940228 (gene MMP13)	43.9	85.0	74.6	
+CRF+rs948695 (gene MMP13)	44.5	85.0	74.9	
+CRF+rs4843257 (gene JPH3)	43.9	83.0	75.1	
+CRF+rs11078818 (gene DHRS7C)	44.8	86.4	75.1	
+CRF+rs12606033 (gene CEP192)	42.8	85.1	75.0	
+CRF+rs1426765 (gene LOC64506)	43.6	85.5	74.8	
+CRF+rs6804277 (gene LOC64506)	44.2	85.5	74.8	
+CRF+rs10072361 (geneFBN2)	45.7	83.8	75.5	
+CRF+rs1469167 (gene ALDH1A1)	43.3	86.3	74.9	
+CRF+SNP9–22707406 (gene DMRTA1)	45.3	84.6	74.7	
+CRF+SNP9–22735471 (gene DMRTA1)	45.6	84.8	74.8	
+CRF+A1111 SNPs	52.00	86.9	78.9	
+a Proportion of patients with grades 2–4 oral mucositis predicted by the statistical model
+
+b Proportion of patients with grades 0–1 oral mucositis predicted by the statistical model
+
+c Proportion of patients whose oral mucositis was predicted by the model
+
+
+   1 
+            Barlogie B  
+            Shaughnessy J  
+            Tricot G  
+             
+           2004 Treatment of multiple myeloma Blood 103 1 20 32 10.1182/blood-2003-04-1045 12969978 
+2 
+            Giralt S  
+            Bensinger W  
+            Goodman M  
+             
+           2003 166 Ho-DOTMP plus melphalan followed by peripheral blood stem cell transplantation in patients with multiple myeloma: results of two phase 1/2 trials Blood 102 7 2684 2691 10.1182/blood-2002-10-3250 12730103 
+3 
+            Blijlevens N  
+            Schwenkglenks M  
+            Bacon P  
+             
+           2008 Prospective oral mucositis audit: oral mucositis in patients receiving high-dose melphalan or BEAM conditioning chemotherapy. European Blood and Marrow Transplantation Mucositis Advisory Group J Clin Oncol 26 9 1519 1525 10.1200/JCO.2007.13.6028 18268357 
+4 
+            Clarkson JE  
+            Worthington HV  
+            Furness S  
+             
+           2010 Interventions for treating oral mucositis for patients with cancer receiving treatment Cochrane Database Syst Rev 8 CD001973 10.1002/14651858.CD001973.pub4 20687070 
+5 
+            McCann S  
+            Schwenkglenks M  
+            Bacon P  
+             
+           2009 The prospective oral mucositis audit: relationship of severe oral mucositis with clinical and medical resource use outcomes in patients receiving high-dose melphalan or BEAM-conditioning chemotherapy and autologous SCT Bone Marrow Transplant 43 2 141 147 10.1038/bmt.2008.299 18776926 
+6 
+            Epstein JB  
+           2007 Mucositis in the cancer patient and immunosuppressed host Infect Dis Clin North Am 21 2 503 522 10.1016/j.idc.2007.03.003 vii 17561080 
+7 
+            Sharma SK  
+            Handoo A  
+            Choudhary D  
+            Dhamija G  
+            Gupta N  
+           2013 Severe gastrointestinal mucositis following high dose melphalan therapy for multiple myeloma World J Gastroenterol 19 5 784 785 10.3748/wjg.v19.i5.784 
+            http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3574610/pdf/WJG-19-784.pdf 
+           23429569 
+8 
+            Murphy BA  
+           2007 Clinical and economic consequences of mucositis induced by chemotherapy and/or radiation therapy J Support Oncol 5 9 Suppl 4 13 21 
+            http://www.oncologypractice.com/jso/journal/articles/0509s413.pdf 
+           18046994 
+9 
+            Tsirigotis P  
+            Triantafyllou K  
+            Girkas K  
+             
+           2008 Keratinocyte growth factor is effective in the prevention of intestinal mucositis in patients with hematological malignancies treated with high-dose chemotherapy and autologous hematopoietic SCT: a video-capsule endoscopy study Bone Marrow Transplant 42 5 337 343 10.1038/bmt.2008.168 18560408 
+10 
+            Grazziutti ML  
+            Dong L  
+            Miceli MH  
+             
+           2006 Oral mucositis in myeloma patients undergoing melphalan-based autologous stem cell transplantation: incidence, risk factors and a severity predictive model Bone Marrow Transplant 38 7 501 506 10.1038/sj.bmt.1705471 16980998 
+11 
+            Barlogie B  
+            Tricot G  
+            Anaissie E  
+             
+           2006 Thalidomide and hematopoetic-cell transplantation for multiple myeloma N Engl J Med 354 10 1021 1030 10.1056/NEJMoa053583 16525139 
+12 
+            Barlogie B  
+            Anaissie E  
+            van Rhee F  
+             
+           2007 Incorporating bortezomib into upfront treatment for multiple myeloma: early results of Total Therapy 3 Br J Haematol 138 2 176 185 10.1111/j.1365-2141.2007.06639.x 17593024 
+13 
+            Anaissie EJ  
+             
+           2010 Comparing toxicities and survival outcomes with total therapy 4 (TT4) for 70-gene (R70)-defined low-risk multiple myeloma (MM) to results obtained with Total Therapy 3 Protocols TT3A and TT3B Blood (ASH Annu Meet Abstr) 116 21 Abstract 368, http://abstracts.hematologylibrary.org/cgi/content/abstract/116/21/368?maxtoshow=&amp;hits=10&amp;RESULTFORMAT=&amp;fulltext=368+&amp;searchid=1&amp;FIRSTINDEX=0&amp;volume=l16&amp;issue=21&amp;resourcetype=HWCIT  
+14 
+            Mosteller RD  
+           1987 Simplified calculation of body surface area N Engl J Med 317 17 1098 10.1056/NEJM198710223171717 3657876 
+15 Common Terminology Criteria for Adverse Events (CTCAE) version 4 
+            http://www.acrin.Org/Portals/0/Administration/Regulatory/CTCAE_4.02_2009-09-15_QuickReference_5x7.pdf 
+           
+16 
+            Levey AS  
+            Greene T  
+            Kusek JW  
+             
+           2000 A simplified equation to predict glomerular filtration rate from serum creatinine [abstract] J Am Soc Nephrol 11 A0828 155A 
+17 
+            Cochran WG  
+           1954 Some methods for strengthening the common chi-squared tests Biometrics (IntBiom Soc) 10 4 417 451 10.2307/3001616 
+18 
+            Armitage P  
+           1955 Tests for linear trends in proportions and frequencies Biometrics (Int Biom Soc) 11 3 375 386 10.2307/3001775 
+19 
+            Benjamimi Y  
+            Hochberg Y  
+           1995 Controlling the false discovery rate: a practical and powerful approach to multiple testing JR Stat Soc B 57 1 289 300 
+            http://www.jstor.org/stable/2346101 
+           
+20 
+            Guttman M  
+            Rinn JL  
+           2012 Modular regulatory principles of large non-coding RNAs Nature 482 7385 339 346 10.1038/nature10887 22337053 
+21 
+            Chen G  
+            Qiu C  
+            Zhang Q  
+             
+           2013 Genome-wide analysis of human SNPs at long intergenic noncoding RNAs Hum Mutat 34 2 338 344 10.1002/humu.22239 23065742 
+22 
+            Sonis ST  
+            Antin JH  
+            Tedaldi MW  
+            Alterovitz G  
+           2013 SNP-based Bayesian networks can predict oral mucositis risk in autologous stem cell transplant recipients Oral Dis 19 7 721 727 10.1111/odi.12146 23809011 
+23 
+            Sonis ST  
+           2011 Oral mucositis Anti Cancer Drugs 22 7 607 612 10.1097/CAD.0b013e3283462086 21709615 
+24 
+            Haynes SL  
+            Shuttleworth CA  
+            Kielty CM  
+           1997 Keratinocytes express fibrillin and assemble microfibrils: implications for dermal matrix organization Br J Dermatol 137 1 17 23 10.1046/j.1365-2133.1997.1762185.x 9274620 
+25 
+            Davis MR  
+            Summers KM  
+           2012 Structure and function of the mammalian fibrillin gene family: Implications for human connective tissue diseases Mol Genet Metab 107 4 635 647 10.1016/j.ymgme.2012.07.023 22921888 
+26 
+            Nistala H  
+            Lee-Arteaga S  
+            Smaldone S  
+             
+           2010 Fibrillin-1 and -2 differently modulate endogenous TGF-β and BMP bioavailability during bone formation J Cell Biol 190 6 1107 1121 10.1083/jcb.201003089 20855508 
+27 
+            Ben-Lulu S  
+            Pollak Y  
+            Mogilner J  
+             
+           2012 Dietary transforming growth factor-beta 2 (TGF-β2) supplementation reduces methotrexate-induced intestinal mucosal injury in a rat PLoS One 7 9 e45221 10.1371/journal.pone.0045221 22984629 
+28 
+            de Koning BAE  
+            Philipsen-Geerling B  
+            Hoijer M  
+             
+           2007 Protection against chemotherapy induced mucositis by TGF-β2 in childhood cancer patients: results from a randomized cross-over study Pediatr Blood Cancer 48 5 532 539 10.1002/pbc.20910 16767731 
+29 
+            Foncuberta MC  
+            Cagnoni PJ  
+            Brandts CH  
+             
+           2001 Topical transforming growth factor TGF-β3 in the prevention or alleviation of chemotherapy-induced oral mucositis in patients with lymphomas or solid tumors J Immunother 24 4 384 388 10.1097/00002371-200107000-00014 11565840 
+30 
+            Han G  
+            Bian L  
+            Li F  
+             
+           2013 Preventive and therapeutic effects of Smad7 on radiation-induced oral mucositis Nat Med 19 4 421 428 10.1038/nm.3118 23475202 
+31 
+            Uitto VJ  
+            Airola K  
+            Vaalamo M  
+             
+           1998 Collagenase-3 (matrix metalloproteinase-13) expression is induced in oral mucosal epithelium during chronic inflammation Am J Pathol 152 6 1489 1499 9626053 
+32 
+            Hattori N  
+            Mochizuki S  
+            Kishi K  
+             
+           2009 MMP-13 plays a role in keratinocyte migration, angiogenesis, and contraction in mouse skin wound healing Am J Pathol 175 2 533 546 10.2353/ajpath.2009.081080 19590036 
+33 
+            Toriseva M  
+            Laato M  
+            Carpen O  
+             
+           2012 MMP-13 regulates growth of wound granulation tissue and modulates gene expression signatures involved in inflammation, proteolysis, and cell viability PLoS One 7 8 e42596 10.1371/journal.pone.0042596 22880047 
+34 
+            Pinto N  
+            Ludeman SM  
+            Dolan ME  
+           2009 Drug focus: pharmacoge-netic studies related to cyclophosphamide-based therapy Pharmacogenomics 10 12 1897 1903 10.2217/pgs.09.134 19958089 
+35 
+            Hassan M  
+            Andersson BS  
+           2013 Role of pharmacogenetics in busulfan/cyclophosphamide conditioning therapy prior to hematopoietic stem cell transplantation Pharmacogenomics 14 1 75 87 10.2217/pgs.l2.185 23252950 
+36 
+            Lu B  
+            Tigchelaar W  
+            Ruifrok W  
+             
+           2012 DHRS7c, a novel cardiomyocyte-expressed gene that is down-regulated by adrenergic stimulation and in heart failure Eur J Heart Fail 14 1 5 13 10.1093/eurjhf/hfrl52 22143674 
+37 
+            Pearson TA  
+            Manolio TA  
+           2008 How to interpret a genome-wide association study JAMA 299 11 1335 1344 10.1001/jama.299.11.1335 18349094 
+

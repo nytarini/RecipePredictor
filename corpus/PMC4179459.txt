@@ -1,0 +1,121 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   04104626011NatureNatureNature0028-08361476-468723579662417945910.1038/496159aNIHMS580192ArticleDrug discovery: a jump-start for electroceuticals Famm Kristoffer vice presidentBioelectronics R&amp;D at GSK; kristoffer.h.famm@gsk.comLitt Brian professorDepartments of Neurology and Bioengineering at University of PennsylvaniaTracey Kevin J. presidentFeinstein Institute for Medical ResearchBoyden Edward S. associate professor of synthetic neurobiologyDepartments of Biological Engineering and Brain and Cognitive Sciences at Massachusetts Institute of TechnologySlaoui Moncef chairmanGlobal R&amp;D and Vaccines at GSK6 5 2014 11 4 2013 29 9 2014 496 7444 159 161 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+   Imagine a day when electrical impulses are a mainstay of medical treatment. Your clinician will administer electroceuticals that target individual nerve fibres or specific brain circuits to treat an array of conditions. These will modulate the neural impulses that control the body, repair lost function and reinstate a healthy balance. They could coax insulin from islet cells, regulate food intake, and control inflammation. They may treat pressing major ailments such as hypertension, diabetes, obesity, heart failure, pulmonary and vascular disease.
+
+All this is within reach, we argue, if researchers from disparate disciplines in academia and industry work together. We herewith outline what needs to be done to bring about electroceuticals, and unveil a public-private research initiative and award that aim to catalyse the field.
+
+Speak the language
+Electrical impulses — action potentials — are the language of our nervous system, transmitted around the body. Virtually all organs and functions are regulated through circuits made of neurons communicating through such impulses1. Two features make these circuits excellent targets for therapeutic intervention. First, they comprise discrete components – interconnected cells, fibre tracts and nerve bundles – allowing for pinpoint intervention. Second, their control is conveyed by the patterns of action potentials, which can be altered for treatment.
+
+Already, devices harness electrical impulses to treat disease. Pacemakers and defibrillators save millions of lives each year; deep brain stimulators dramatically improve the quality of life for people with Parkinson's disease and depression; sacral nerve stimulation restores some bladder control in paraplegics, and vagus nerve stimulation shows clinical benefits in diseases ranging from epilepsy to rheumatoid arthritis2. But these devices do not target specific cells within circuits, limiting their scope for expansion.
+
+Neural tissue is compact, and a range of different, often unrelated circuits run close together through brain regions and in peripheral nerves. Currently, devices activate or inhibit many cells across an area of tissue indiscriminately, muddying clinical effects. For example, electrodes that stimulate the vagus nerve enclose approximately 100,000 fibres that innervate many different internal organs. Similarly, deep brain stimulation for Parkinson's disease affects many more cells than those controlling movement, leading to emotional and cognitive side effects. In natural urinary control, opposite signals in small adjacent nerve fibres simultaneously contract the bladder and relax the urethral sphincter, an elegant process poorly mimicked by today's devices.
+
+Neither do neurostimulation devices yet generate natural patterns of action potentials. Signalling is typically blocked or stimulated in stereotyped ways, rather than modulated on the millisecond scale. Research on the neural circuit for hunger elegantly shows the importance of such precise modulation of action potentials. Full stimulation or ablation of cells in the hypothalamic arcuate nucleus shifts mice from voracious eating to anorexia. However, the level of food intake can be finely modulated by the number and frequency of action potentials triggered in specific cells3. Similarly, single action potentials in small sets of cortical neurons in mice have been shown to encode sensory input or perceptions4. In other words, a precise set of action potentials applied to small numbers of cells can define the biological control a neural circuit exerts.
+
+Path to precision
+We believe that it is now possible to transcend these constraints and create medicines that control action potentials in individual and functional groups of neurons in adaptive ways fully compatible with biological function.
+
+Many of the stepping stones are already in place, thanks to recent advances in a variety of disciplines. For example, disease-specific neural circuits are starting to be anatomically and functionally traced, as evidenced by the neural reflex that controls levels of inflammatory mediators5. Tools with cellular-level resolution, such as optogenetics, have improved our ability to analyse the signals in circuits and provide a mechanism by which future electroceuticals could elicit action potentials6. Architectures for electrodes able to interface with individual neurons are starting to emerge through efforts to control prosthetic limbs and generate brain-machine interfaces. Neuromorphic chips allowing low-power and local computation are being designed7. Neural signal processing has advanced driven by cochlear and retinal implants. Nanotechnology has delivered energy harvesting approaches to power microdevices8. And finally, percutaneous neurosurgery is making precision intervention possible, centrally and peripherally, as evidenced by precision procedures to remove herniated disc material or creating drainage within cerebral ventricles.
+
+The first logical step towards electroceuticals is to better map neural circuits associated with disease and its treatment. This mapping needs to happen at two levels. On an anatomical level, we need to map disease-associated nerves and brain areas and identify the best points for intervention. On the signalling level, we need to decode the neural language at these intervention points so that we can develop a dictionary of patterns associated with health and disease states, a project synergistic with international drives to map the human brain now being launched9. In circuits altered by disease we will also need to establish the disease effects of introduced electrical impulses and the patterns that yield the most effective therapeutic responses. Developing the technology to record from and stimulate larger set of central and peripheral neurons will be critical to this pursuit of mapping disease-associated circuits.
+
+This type of research corresponds to the target identification and validation steps that lie at the core of modern molecular drug discovery. The emerging circuit maps will provide the specifications for the design of future treatment devices. Early prototypes might use microchip-controlled electrode arrays, as are used today in interfaces for prosthetic limbs (Figure 1), whereas second generation micro- and nanoscale devices may leverage light, mechanical, magnetic, or the body's own chemical energy to control electrical impulses in specific cells within targeted circuits.
+
+Multidisciplinary journey
+How will all this come about? Disease biologists will need to work with neuroscientists on circuit mapping and bioinformaticians on identifying the action potential signatures of disease. Generating the treatment device (Figure 1) will call upon bioengineers to design biocompatible interfaces in collaboration with electrical engineers developing circuits for real time processing, nanotechnologists creating energy sources, and neurosurgeons ensuring these designs can be implanted and connected. Researchers need to embrace languages and tools from other fields and maybe even dream differently: much of the challenge lies in translating biological understanding into engineering specifications.
+
+We think initial progress will come from targeting circuits with accessible peripheral intervention points. For example, it has been shown that hypertension can be controlled through signals in the carotid sinus and renal nerves, and cytokine production in rheumatoid arthritis through the splenic nerve. A range of other conditions across cardiovascular, metabolic and respiratory, inflammatory and autoimmune areas should have similarly accessible intervention points, given these organs and functions are under neural control.
+
+The electroceuticals we envision should be adaptive or “closed loop”, meaning they record incoming action potentials as well as physiological parameters, analyse this data in real time, and modulate the signals in the neural circuit based on the analysis. This together with the spatial targeting of a specific set of neurons underpin the exquisite specificity and high therapeutic index we expect from electroceuticals. However, this can only be realised if the different required disciplines come together early on.
+
+Finally, we expect that the resulting interdisciplinary advances can also be brought to bear on the emerging activity maps of brain circuits. Correcting central nervous system disorders with treatment in their own language, and at a spatio-temporal resolution commensurate with our most complex of organs, could possibly, in the long run, be the most revolutionary aspect of electroceuticals.
+
+Pitfalls
+Critics will argue that we underestimate the complexity of the nervous system, the challenges in reliably, durably, and non-disruptively addressing a larger number of individual neurons, and the sheer volume of neural information flowing through these circuits. We counter that miniaturisation and handling “big data” are arguably two of the most rapid areas of scientific progress in the past decade. Further, starting with peripheral intervention points and simpler circuits should help.
+
+There are also a few noteworthy unknowns, which we will resolve only by putting the approach to test. One is to what extent mapping of the neural language translates from animal models to the human setting; a second is in which diseases the relevant neural circuits will be sufficiently dominant to reverse or control disease progression; and a third is the level of circuit redundancy or other plasticity, that could limit the efficacy of treatment.
+
+Catalyzing the field
+In academia and at GlaxoSmithKline (GSK) we are mobilizing resources for this journey. The University of Pennsylvania's new Center for Neuroengineering and Therapeutics opening this summer will span multiple schools across campus, including Medicine, Engineering and Business. Penn investigators are already mapping neural circuits in vivo, building and deploying novel nano and microscale devices to modulate circuits at the neuronal level, mining “big” neural data using cloud computing, and translating these technologies into human use, such as in new antiseizure devices.
+
+At the Feinstein Institute for Medical Research, we are trying to establish the neural code that underlies diseases of immunity and inflammation, to identify intervention points, and to conduct exploratory clinical work. Our results indicate it is feasible to identify and manipulate neural signals specific to different inflammatory mediators in standard laboratory models. At the Massachusetts Institute of Technology, we are creating and distributing the genetic codes, parts lists, software, and other technologies needed to map and modeulate neural circuits, ranging from optogenetics5 to scalable and automated electrophysiology10.
+
+Confident that this field will deliver real medicines, GSK is committed to acting as a catalyst through three immediate steps: first is the launch of a funding program in April 2013 to stimulate exploratory work mapping disease-associated neural circuits by up to 40 fully funded researchers in up to 20 labs external to the company. Initial one-year funding will be awarded after a rapid review and approval process (~1 month). Prepublication results will be shared with other researchers in the growing network and any intellectual property created will remain with the inventors. Throughout this exploratory phase, the network will be encouraged and supported to shape longer-term research and development efforts. Second, the company will organise a global forum in December 2013 for a broader set of research leaders to chart an integrated path. Third, GSK will offer a $1 million innovation prize to overcome a key hurdle in the field that will be identified collectively by this community and launched after the global forum.
+
+Clearly, open innovation and flexible ways of pooling intellectual property will be important. As the poet Cesare Pavese put it: “To travel far and fast, travel light: Take off all your envies, jealousies, unforgiveness, selfishness and fears.” Together we can bring about a new era of electroceuticals.
+
+Acknowledgement
+We thank Karen Birmingham (GSK) for her extensive editorial support in the preparation of this manuscript.
+
+Kristoffer Famm and colleagues unveil a multidisciplinary initiative to develop medicines that use electrical impulses to modulate the body's neural circuits
+
+Figure 1 
+   References
+1 
+            Kandel ER  
+            Schwartz JS  
+            Jessell TM  
+            Siegelbaum SA  
+            Hudspeth AJ  
+           Principles of Neural Science 2012 5th edition 
+2 
+            Koopman FA  
+            Miljko S  
+            Grazio S  
+            Sokolovic S  
+            Tracey K  
+            Levine Y  
+             
+           Arthritis Rheum 2012 64 Suppl 10 451 DOI: 10.1002/art.38186 
+3 
+            Aponte Y  
+            Atasoy D  
+            Sternson SM  
+           Nat Neurosci 2011 14 351 5 21209617 
+4 
+            Huber D  
+            Petreanu L  
+            Ghitani N  
+            Ranade S  
+            Hromadka T  
+            Mainen Z  
+            Svoboda K  
+           Nature 2008 451 61 4 18094685 
+5 
+            Andersson U  
+            Tracey KJ  
+           J Exp Med 2012 209 1057 68 22665702 
+6 
+            Chow BY  
+            Boyden ES  
+           Sci Transl med 2013 5 177 
+7 
+            Rapoport BI  
+            Turicchia L  
+            Wattanapanitch W  
+            Davidson TJ  
+            Sarpeshkar R  
+           PLoS ONE 2012 7 9 
+8 
+            Wang ZL  
+            Wu W  
+           Angew Chem Int Ed Engl 2012 51 11700 21 23124936 
+9 
+            Alivisatos AP  
+            Andrews AM  
+            Boyden ES  
+            Chun M  
+            Church GM  
+             
+           ACS Nano 2013 Epub 
+10 
+            Kodandaramaiah SB  
+            Franzesi GT  
+            Chow BY  
+            Boyden ES  
+            Forest CR  
+           Nat Methods 2012 9 585 7 22561988 
+

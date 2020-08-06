@@ -1,0 +1,236 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   91077828548Curr BiolCurr. Biol.Current biology : CB0960-98221879-044519576771502456910.1016/j.cub.2009.05.066NIHMS123762ArticleC. Elegans are Protected from Lethal Hypoxia by an Embryonic Diapause Miller Dana L. Roth Mark B. *Fred Hutchinson Cancer Research Center, Seattle, WA* To whom correspondence should be addressed, Phone: 206-667-5602, mroth@fhcrc.org30 8 2016 02 7 2009 28 7 2009 15 9 2016 19 14 1233 1237 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Summary
+At least 100 mammalian species exhibit embryonic diapause, where fertilized embryos arrest development in utero until suitable seasonal or nutritional environments are encountered [1, 2]. Delaying maternal investments in producing offspring allows these animals to utilize limited resources to survive while searching for better conditions, and ensures that progeny are not produced when they are unlikely to survive. In addition, embryos may be protected from external environmental vicissitudes while in utero [3]. Here we demonstrate embryonic diapause in C. elegans, and show that this diapause protects embryos from otherwise lethal hypoxia. Diapausing embryos in utero require san-1 to survive, indicating that hypoxia-induced embryonic diapause may be mechanistically related to suspended animation. Furthermore, we show that neuronal HIF-1 activity in the adult dictates the O2 tension at which embryonic diapause is engaged. We suggest that the maternal perception of hypoxia stimulates a response to protect embryos in utero by inducing diapause, a natural form of suspended animation. This response is likely to be an important strategy to improve offspring survival in harsh conditions and allow adults to find environments more suitable for reproductive success.
+
+
+   Results and Discussion
+Isolated C. elegans embryos die when exposed directly to concentrations of O2 from 100-1000 ppm [4]. In contrast to embryos dissected from adults, we found that many embryos exposed to 1000 ppm O2 for 24 h in utero survive and grow to healthy, fertile adults (Figure 1). These embryos in the uterus were produced before the adults first experienced hypoxia, indicating that embryo survival in utero does not require special maternal contributions to the oocyte. These data show that the maternal environment protects embryos in utero from otherwise lethal hypoxic damage.
+
+For embryos isolated from adults, the severity of hypoxic damage in the lethal range of O2 tensions is correlated with the extent of developmental progression. Embryos exposed to 1000 ppm O2 continue further in embryogenesis and have decreased survival relative to embryos exposed to 100 ppm O2 [4]. In the absence of O2 (anoxia, operationally defined as &lt;10 ppm O2), embryos reversibly suspend development and survive [5]. These results suggest that lethal hypoxic damage results from attempting to continue developmental activities when O2 levels are insufficient to complete embryogenesis properly. We examined embryos exposed to 1000 ppm O2 for 24 h in utero to determine how embryonic development was affected in this situation. We routinely observed embryos of early developmental stages, even 1-, 2- and 4-cell embryos, in the uterus of animals exposed to hypoxia (Figure 1 and data not shown). However, newly fertilized eggs were not produced during exposure to 1000 ppm O2 (see below, Figure 2). These data indicate that, in contrast to isolated embryos, embryos in the uterus of adults exposed to 1000 ppm O2 suspend development. This was confirmed by examining the same embryos in utero before and after exposure to 1000 ppm O2 for 24 h in utero (Figure 1). We conclude that the maternal environment protects embryos from hypoxic damage in utero by inducing them to suspend development.
+
+The arrest of embryonic development we observed in utero upon exposure to 1000 ppm O2 is reminiscent of suspended animation. Suspended animation is a conserved physiological response to anoxia in which all visible life processes reversibly arrest, including movement and development [5-7]. C. elegans does not suspend when exposed to 1000 ppm O2, insofar as adults continue to move (Supplementary Movie 1) and isolated embryos continue to develop [4]. Nevertheless, we considered the possibility that embryos exposed to hypoxia in utero arrest development by activating the suspended animation machinery. To test this hypothesis, we determined whether san-1(ok1560) mutant embryos could survive exposure to 1000 ppm O2 for 24 h in utero. SAN-1 is a component of the spindle assembly checkpoint that is required for embryos to survive anoxia-induced suspended animation [8]. We found that few san-1(ok1560) mutant embryos exposed to 1000 ppm O2
+in utero survive to adult (Figure 1C). These data suggest that embryos arrest development when exposed to hypoxia in utero by engaging a program that, if not identical, is related to suspended animation.
+
+Most, if not all, adult reproductive activities also suspend in hypoxic conditions embryonic development in utero arrests. Gravid adults exposed to 1000 ppm O2 rapidly arrested egg-laying (Figure 2A). The rate of egg-laying in hypoxia was at least 40-fold slower than in room air, as no eggs were laid during a 24 h exposure to 1000 ppm O2. In addition, the number of fertilized embryos in the uterus of adults exposed to hypoxia did not increase (Figure 2B). This indicates that ovulation and the fertilization of oocytes had also arrested. Ovulation requires a signal from sperm and animals that lack functional sperm accumulate oocytes in the proximal gonad [9]. Indeed, we observe that sperm are exquisitely sensitive to hypoxic damage (Supplemental Figure 1). However, we found that the number of differentiated oocytes in the proximal gonad did not increase during exposure to 1000 ppm O2 (5.1±1.1 oocytes before exposure, n=9; 5.2±1.3 oocyte after hypoxia, n=11; p=0.9). This result shows that oocyte growth and differentiation also arrested in hypoxia. Thus, animals neither produce embryos nor lay eggs into potentially lethal hypoxic environments. In contrast, embryo production and egg-laying continued in environments containing 5000 ppm O2 (Figure 2), conditions where isolated embryos continue development and survive [4]. The reproductive arrest may be an important strategy to ensure reproductive success, as it prevents investment in progeny production when offspring cannot survive.
+
+We refer to the hypoxia-induced arrest of embryogenesis in utero as an embryonic diapause based on its similarity to mammalian embryonic diapause. In both situations, embryonic development arrests, but the adult remains active. Adult and larval animals continue to move in 1000 ppm O2 (Supplementary Movie 1). In fact, we noticed that nematodes in hypoxia had a tendency to leave food and crawl up the side of the plate in an apparent attempt to escape. This is consistent with the report that C. elegans maintains mobility and can even increase movement in low O2 [10]. We observed no difference in the activity of animals exposed to 1000 ppm O2 (16.5±3.8 body bends/min, n=13) compared to 5000 ppm O2 (12.7±2.6 body bends/min, n=23; p&gt;0.05). However, reproduction (Figure 2) and larval development (Supplemental Figure 2) continued in 5000 ppm O2 but not in 1000 ppm O2. Although we performed our experiments in 1000 ppm O2, we observed hypoxia-induced arrest of reproduction in up to 2500 ppm O2 (data not shown). After return to normoxia, adults exposed to 1000 ppm can produce as many viable progeny after mating as untreated controls (Supplemental Figure 1), indicating that they have averted irrevocable hypoxic damage. These observations suggest that the suspension of reproductive activity is not a result of gross metabolic insufficiency. Consistent with this view, animals with mutations that affect mitochondrial function respond to hypoxia normally, continuing reproductive activity in 5000 ppm O2 and engaging diapause in 1000 ppm O2 (Supplementary Table 1). We favor the interpretation that the arrest of reproductive activity provides animals with resources to allow the adult to escape unfavorable environmental conditions.
+
+We considered the possibility that the HIF-1-mediated response was involved in the maternal response to initiate hypoxia-induced diapause. HIF-1 is a conserved, bHLHPAS domain transcription factor that coordinates a transcriptional response to hypoxia in animals [11-14]. In C. elegans, hif-1 is required for embryos to survive exposure to hypoxic environments containing 2500-10,000 ppm O2 [4, 15]. We found that post-embryonically hif-1(ia04) mutant animals survive in all hypoxic conditions tested and successfully suspend egg-laying, egg production and in utero embryogenesis when exposed to 1000 ppm O2. Thus, HIF-1 activity is not required to execute the hypoxia-induced diapause. In fact, we found that hif-1(ia04) mutant animals precociously suspend reproductive activity and arrest in utero embryonic development in 5000 ppm O2 (Figure 3), conditions where wild-type animals continue to produce and lay eggs. These results show that HIF-1 activity controls the O2 concentration at which diapause is engaged, promoting continued activity in hypoxia and antagonizing the execution of hypoxia-induced diapause.
+
+hif-1 has been shown to increase transcription of genes required for anaerobic energy production in hypoxia [12, 16]. Similarly, the AMP-activated kinase has been shown to be independently stimulated by hypoxia in Drosophila and mammalian cells to increase glycolytic activity [17-19]. In C. elegans aak-2, a homologue of the α subunit of AMP-activated kinase, is required to survive starvation and to arrest somatic development in starved L1 [20] and to arrest germline development in dauer [21]. We found aak-2 is not required for embryos or larvae to survive O2 deprivation (Supplementary Table 2). However, aak-2(ok524) mutant animals arrest egg-laying, egg-production and in utero embryonic development in 5000 ppm O2 (Figure 3 and data not shown). Thus, like HIF-1, AAK-2 activity is required to prevent precocious engagement of embryonic diapause. Based on these data, we propose a model in which O2 availability and cellular energy status are integrated to trigger the decision to engage embryonic diapause when conditions are unfavorable for successful reproduction.
+
+We hypothesized that the maternal perception of hypoxia would influence embryonic diapause. In mammals, maternal neuroendocrine cues regulate embryonic diapause by altering the uterine environment [2]. Consistent with this hypothesis, the hif-1 promoter is active in most, if not all, somatic cells, and aak-2 is also expressed in many neurons [15, 22]. To determine in which adult tissues HIF-1 acts to control embryonic diapause, we employed tissue-specific expression of a rescuing HIF-1 transgene [23]. We observed that expressing HIF-1 in muscles did not rescue precocious arrest phenotype of hif-1(ia04) mutant animals (Figure 3B). This result supports our assertion that hypoxia-induced diapause is not a result of the gross metabolic insufficiency, as muscle is a substantial fraction of the adult tissue [24]. In contrast, HIF-1 expressed from a panneuronal promoter, rescued the precocious arrest of egg production and embryonic development in utero (but not egg-laying) in 5000 ppm O2 (Figure 3C and data not shown). The neurons that control embryonic diapause are distinct from those that mediate the response to avoid higher O2 concentrations [25-28] (Supplementary Table 3). We conclude that in hypoxia, neuronal HIF-1 activity in the mother non-autonomously influences the development of embryos in utero.
+
+Neuronal responses to O2 allow animals to rapidly adjust behavior and physiology to match current environmental conditions. For instance, the mammalian ventilatory response, which occurs within seconds of exposure to hypoxia, is coordinated by stimulation of carotid body neurons and airway neuroepithelial bodies [29]. Transcriptional responses are generally considered to be slow [25, 30]. Nevertheless, our results suggest that the transcription factor HIF-1 can also influence rapid neuronal responses to hypoxia, even without a previous exposure to hypoxia. One possibility is that HIF-1 targets expressed at low level in normoxia help prepare the animal to appropriately respond to decreased O2 availability.
+
+Our data demonstrate that C. elegans adults protect embryos in utero from otherwise lethal hypoxic damage by inducing embryonic diapause, a natural form of suspended animation. Hypoxia-induced diapause results in arrest of germline activity and embryogenesis in utero, though other biological activities continue. It may be that reproductive arrest prevents irrevocable damage that would prevent future reproductive success, just as suspended animation prevents irreversible errors during embryogenesis in C. elegans [8]. In addition to arresting reproductive activity in harsh conditions, animals that carry their young may induce suspension of embryogenesis to protect offspring from the harmful environments. Mammalian embryonic diapause is often a response to insufficient food availability [1, 2]. Similarly, in some situations embryos in the uterus of starved C. elegans adults arrest development and can survive for several days (M. Van Gilst, personal communication). These observations raise the possibility that arresting embryonic development in utero may be a common strategy for animals to increase offspring survival in unfavorable conditions.
+
+Experimental Procedures
+Nematode Strains and Husbandry
+Nematode strains were grown on nematode grown medium (NGM) plates seeded with live E. coli OP50 food [31]. Alleles and transgenes used were as follows: hif-1(ia04), san-1(ok1580), gas-1(fc21), clk-1(e2519), mev-1(kn1), gcy-35(ok769), npr-1(ky13), aak-2(ok524), otIs197[unc-14::hif-1], otEx3165[unc-120::hif-1], otEx3168[hif-1::hif-1], qaIs2241[gcy-36::egl-1, gcy-35::gfp, lin-15(+)]. Both the hif-1(ia04) and the aak-2(ok524) alleles are predicted molecular null [15, 32]. Nematodes were obtained from the Caenorhabditis Genetics Center except for transgenic strains carrying otIs197, otEx3165 and otEx3168 that were kindly provided by Dr. Oliver Hobert and described in [23]. Transgenes were crossed into hif-1(ia04) using standard genetic techniques. The hif-1(ia04) deletion was followed by assaying for embryonic lethality after 24 h in 5000 ppm O2 and verified by PCR. Primer sequences are available on request. The otIs197 transgene does not rescue hif-1(ia04) embryonic lethality in hypoxia (data not shown). Strains were maintained at room temperature with special care to ensure that cultures were continuously in log phase and did not starve.
+
+To isolate synchronous populations of nematodes, first stage larvae (L1) were obtained by placing 20-50 adults into 10 μL hypochlorite solution (2.5% sodium hypochlorite, 0.5 M KOH) on an unseeded NGM plate. After 10 m, 1 mL M9 was added to the plate and embryos were allowed to hatch in room air. Starved L1 were removed by mouth pipet to seeded NGM plates after 16-20 h and allowed to develop to the desired stage at room temperature. Alternatively, first-day gravid adults were allowed to lay eggs for 1-3 h, and the embryos that had been laid were allowed to hatch and develop at room temperature until the animals had reached the desired developmental stage. Two-cell embryos were isolated by mouth pipet after chopping gravid adults with a razor blade in dH2O with 30 μg/mL kanamycin, 20 μg/mL carbenicillin and 10 μg/mL nystatin as described [4].
+
+Generating Hypoxic Environments
+Nematodes on NGM plates seeded with live OP50 were placed into environmental chambers continuously perfused with gas containing the indicated concentration of O2. Gas was delivered from compressed tanks to environmental chambers through one-eighth-inch outer diameter FEP or nylon tubing (Cole Parmer) with connections by snap connectors (Cole Parmer), quick-connect fittings or compression fittings (Seattle Fluid Systems) at constant flow rate and pressure using flow tubes (number 032-41ST; Aalborg) or mass flow controllers (model no. 810 or Smart-Trak Series 100; Sierra Instruments). Compressed gasses containing defined O2 concentrations (with balance N2) were obtained from Byrne Gas (Seattle, WA) and were certified standard to within 2% of the O2 content. For anoxic conditions, chambers were perfused with pure N2 (&lt;10 ppm O2). Environmental chambers were pyrex crystallization dishes that were drilled and fit with plastic male luer to hose barb fittings (Cole Parmer) that were secured with epoxy to provide access for gas flow in and out. Alternatively, larger cast acrylic boxes (Ellard Instrumentation) fitted with one-fourth inch male NPT fittings (Cole Parmer) were used. Glass plates were used as lids and sealed to the chambers using Dow Corning Vacuum Grease (Sigma-Aldrich).
+
+Nematode movement in hypoxia
+To monitor movement in hypoxia, plates of mixed-stage nematodes were exposed to hypoxia in a 0.4 L AnaeroPack box (Mitsubishi Gas Chemical Company) that was drilled and fit with plastic luer to hose barb fittings (Cole Parmer) secured with epoxy to allow for continuous gas flow. Worm movement was visualized by attaching a Logitech webcam to the ocular of a dissecting scope. Recordings were captured after the plates had been in each condition (anoxia and 1000 ppm O2) for 6-8 h. Different plates were used for each recording. Movavi software was used to assemble segments of each recording into Supplementary Movie 1. To quantitatively measure activity, a similar experimental setup was used: 5-10 fourth-stage larvae were picked from a mixed-stage population into 10 μL M9 on a glass cover slip and placed into the modified AnaeroPack box for 20 m, then the movement of worms in the drop was recorded for 60 s. The reported value is the average number of body bends in one minute (± SEM) from at least two independent experiments. Statistical significance was assessed using rank-sum analysis in SigmaStat (Systat).
+
+Viability and Fecundity Assays
+To determine the viability of nematodes after exposure to hypoxia, embryos or larvae were exposed to hypoxic conditions for 24 h and then returned to room air. The fraction that survived to L4/young adult was scored. Animals that could not be accounted for censored from the analysis. Statistical significance of differences between control and treated animals was determined using two-tailed t-test with unequal variance (EXCEL). To assess viability of embryos exposed to hypoxic conditions in utero, individual first-day gravid adults were exposed to hypoxia on NGM plates with OP50 food ringed with palmitic acid to prevent nematodes from escaping the surface of the agar plate. The palmitic acid (10 mg/mL in ethanol) precipitates on the plate to form a crunchy barrier that worms do not like to crawl through. Palmitic acid borders do not have effects on general worm behavior, fecundity or lifespan. After 24 h in the hypoxic conditions, the plates were returned to room air. After 10-20 embryos had been laid the adult was removed from the plate. The fraction of embryos that survived to L4/young adult was assessed after 48 h.
+
+Total fecundity was measuring by picking individual fourth-stage larvae to medium NGM plates seeded with OP50. Animals were exposed to hypoxia as young adults. Progeny produced before exposure to hypoxia (usually ~20-30) are included in the total tally. Adults were moved every day until they no longer laid fertilized eggs, and viable progeny were counted as L4/young adults. Data are from one representative experiment that was repeated at least 3 times.
+
+Measuring egg laying and egg production
+The rate of egg-laying was measured for first-day adults that were picked as fourth-stage larvae from mixed-stage population and allowed to develop in room air for 20-30 h. Individual animals (10-15 for each group) were moved to small NGM plates ringed with palmitic acid. The number of embryos laid was counted after 3-6 h in normoxia (room air), or after 24 h in hypoxia. Animals that could not be accounted for were not included in the analysis. Values reported are the average (± standard deviation) of one representative experiment.
+
+The number of oocytes in the proximal gonad and fertilized embryos in the uterus of adults was counted using Nomarski microscopy. Only mature, enlarging oocytes in a single file line in the proximal gonad were counted. To determine the number of oocytes and/or embryos produced in hypoxia, a population of synchronous young adult animals was obtained by timed egg-lays. When animals were gravid, the population was randomly divided into groups of 10-25 animals. One group was mounted on an agarose pad (2% in M9 with 20 mM sodium azide) to count the number of oocytes in the gonad and/or embryos in the uterus and determine the starting (“before”) value.
+
+Simultaneously, the other groups were introduced into hypoxic environments on seeded NGM plates ringed with palmitic acid. After 24 h, animals were removed from hypoxia and the number of oocytes and/or embryos was immediately counted as before. Results were similar whether hypoxia was experienced early, when embryos were just beginning to be produced, or if animals were older and had laid many eggs. Reported values are the average number of embryos counted in each population (± standard deviation) before and after exposure to hypoxia from one representative experiment.
+
+To visualize the same animal before and after exposure to hypoxia, a single adult nematode was moved to an agarose pad (3% in M9, no anesthetic) with some OP50 food and photographed with Nomarski imaging. The animal was then moved immediately to a seeded NGM plate ringed with palmitic acid by mouth pipet and exposed to 1000 ppm O2. After 24 h, the animal was again mounted on an agarose pad (2% in M9 with 20 mM sodium azide) and photographed.
+
+For transgenic strains carrying extrachromosomal arrays, synchronous populations of young adults were exposed to hypoxia for 24 h. Expression of ttx-3::dsRED marker on the array was assessed when the number of embryos in the uterus was counted to determine which animals were transgenic and which had lost the array. Control experiments confirmed that the otEx3165 and otEx3168 arrays did not affect the developmental rate of the animals.
+
+For all experiments, the significance of differences between conditions was evaluated with t-test statistics or non-parametric tests as appropriate using SigmaStat (Systat).
+
+Supplementary Material
+01  02  Acknowledgments
+We thank members of the Priess and Roth labs for discussion, J. Molk, C. Peichel, M. Budde and H. Frazier for comments on the manuscript, and O. Hobert for strains. Some nematodes strains used in this work were provided by the Caenorhabditis Genetics Center, which is funded by the NIH National Center for Research Resources (NCRR). This work was supported by NIH NRSA postdoctoral fellowship FM073369 to DLM and NIH R01 GM48435 to MBR.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Figure 1 Embryos in utero suspend development and survive in hypoxia
+A. Nomarsky images of embryos in the uterus of a gravid adult C. elegans prior to and immediately after being exposed to 1000 ppm O2 for 24 h. Both pictures are of the same animal, and no embryos were fertilized or laid during exposure to hypoxia. v, vulva; sp, spermatheca of anterior gonad arm. Bar is 50 μm. B. Survival of embryos to adulthood after exposure to 1000 ppm O2 for 24 h. Dissected 2-cell embryos (n=40) were removed from the adult and exposed directly to hypoxia. Embryos in utero were laid by gravid adults exposed to hypoxia after return to normoxia (n=10 adults, 145 embryos). *, p&lt;0.05. C. Viability of embryos exposed to 1000 ppm O2 for 24 h in utero. Gravid adult animals of each genotype were allowed to lay eggs exposed to hypoxia in utero upon return room air. The average number of embryos laid was 15.8±4.8 for N2 (n=18 adults), 9.4±3.6 for san-1(ok1580) (n=16 adults) and 10.7±3.8 for hif-1(ia04) (n=20 adults). The fraction of the embryos that hatched and developed successfully to L4/young adult was scored. Data are from two independent experiments. Error bars are standard deviation of the mean. *, p&lt;0.05 compared to N2 controls; ns, not significant.
+
+Figure 2 Egg-laying and egg production suspend in hypoxia
+A. The rate at which first-day adults laid eggs was measured for 3 h in normoxia (grey bar). The population was then split into two groups, which were exposed to each indicated hypoxic condition for 24 h. No eggs were laid in 1000 ppm O2 (*, p&lt;0.05 relative to rate in 5000 ppm O2). The rate of egg-laying was measured again for 3 h after recovery from the hypoxic exposure. There was no observed difference between the two groups at this time (ns, not significant). Data shown are mean values from one representative experiment, with 10-15 nematodes exposed to each condition. The rate of egg-laying was measured for each animal individually. Error bars are one standard deviation. B. The number of eggs in the uterus of animals was determined before and after 24 h exposure to the indicated hypoxic environment. Animals were from a synchronous population that had just begun to produce eggs and had not filled the uterus or laid any eggs. The reported value does not include eggs laid during exposure to 5000 ppm O2. n≥15 animals for each measurement, error bars are standard deviation of the mean. Statistical comparison was to population measured before exposure: *, p&lt;0.05; ns, not significant.
+
+Figure 3 Neuronal HIF-1 expression rescues precocious engagement of diapause in hif-1(ia04) mutant animals
+A. Nomarsky images of embryos in the uterus of hif-1(ia04) (top panels) and hif-1(ia04); unc-14::hif-1 (HIF-1 expressed only in neurons; bottom panels) animals before and after exposure to 5000 ppm O2 for 24 h. The HIF-1 transgene contains a proline to alanine mutation that results in the constitutive stabilization of the protein, but does not otherwise affect its function [23]. v, vulva; sp, spermatheca. Bar is 50 μM. B. Embryo production over 24 h in 5000 ppm O2 was measured for groups of synchronized hif-1(ia04) mutant animals that carried extrachromosomal arrays with the indicated transgene. Animals that retained the array were identified after exposure to hypoxia (black bar) and compared to non-transgenic siblings that had had lost the array (white bars). The transgene constructs express HIF-1 from its native promoter (hif-1::hif-1) or in muscles (unc-120::hif-1). C. The number of embryos in the uterus was counted before (white bar) and after (black bar) 24 h exposure to 5000 ppm O2 for each genotype. Data from before and after exposure were compared: ns, not significant; *, p&lt;0.05.
+
+
+   References
+1 
+            Clutter ME  
+            Berger R  
+           Dormancy and developmental arrest: experimental analysis in plants and animals 1978 Academic Press New York 
+2 
+            Renfree MB  
+            Shaw G  
+           Diapause. Ann, Rev. Physiol 2000 62 353 375 10845095 
+3 
+            Hamdoun A  
+            Epel D  
+           Embryo stability and vulnerability in an always changing world. PNAS 2007 104 1745 1750 17264211 
+4 
+            Nystul TG  
+            Roth MB  
+           Carbon monoxide-induced suspended animation protects against hypoxic damage in Caenorhabditis elegans . PNAS 2004 101 9133 9136 15184665 
+5 
+            Padilla PA  
+            Nystul TG  
+            Zager RA  
+            Johnson AC  
+            Roth MB  
+           Dephosphorylation of cell cycle-regulated proteins correlates with anoxia-induced suspended animation in Caenorhabditis elegans . Mol. Biol. Cell 2002 13 1473 1483 12006646 
+6 
+            Foe V  
+            Alberts B  
+           Reversible chromosome condensation induced in Drosophila  embryos by anoxia: visualization of interphase nuclear organization. J. Cell Biol 1985 100 1623 1636 3921555 
+7 
+            Padilla PA  
+            Roth MB  
+           Oxygen deprivation causes suspended animation in the zebrafish embryo. PNAS 2001 98 7331 7335 11404478 
+8 
+            Nystul TG  
+            Goldmark JP  
+            Padilla PA  
+            Roth MB  
+           Suspended animation in C. elegans  requires the spindle checkpoint. Science 2003 302 1038 1041 14605367 
+9 
+            McCarter J  
+            Bartlett B  
+            Dang T  
+            Schedl T  
+           On the Control of Oocyte Meiotic Maturation and Ovulation in Caenorhabditis elegans . Dev. Biol 1999 205 111 128 9882501 
+10 
+            Van Voorhies W  
+            Ward S  
+           Broad oxygen tolerance in the nematode Caenorhabditis elegans . J. Exp. Biol 2000 203 2467 2478 10903161 
+11 
+            Kaelin WG Jr  
+            Ratcliffe PJ  
+           Oxygen Sensing by Metazoans: The Central Role of the HIF Hydroxylase Pathway. Mol. Cell 2008 30 393 402 18498744 
+12 
+            Poellinger L  
+            Johnson RS  
+           HIF-1 and hypoxic response: the plot thickens. Curr. Opin. Genet. Dev 2004 14 81 85 15108809 
+13 
+            Semenza GL  
+           HIF-1, O2, and the 3 PHDs: How Animal Cells Signal Hypoxia to the Nucleus. Cell 2001 107 1 3 11595178 
+14 
+            Semenza GL  
+           Hypoxia-inducible factor 1 (HIF-1) pathway. Sci STKE 2007 2007 cm8 17925579 
+15 
+            Jiang H  
+            Guo R  
+            Powell-Coffman JA  
+           The Caenorhabditis elegans hif-1  gene encodes a bHLH-PAS protein that is required for adaptation to hypoxia. PNAS 2001 98 7916 7921 11427734 
+16 
+            Shen C  
+            Nettleton D  
+            Jiang M  
+            Kim SK  
+            Powell-Coffman JA  
+           Roles of the HIF-1 hypoxia-inducible factor during hypoxia response in Caenorhabditis elegans . J. Biol. Chem 2005 280 20580 20588 15781453 
+17 
+            Liu L  
+            Cash TP  
+            Jones RG  
+            Keith B  
+            Thompson CB  
+            Simon MC  
+           Hypoxia-induced energy stress regulates mRNA translation and cell growth. Mol. Cell 2006 21 521 531 16483933 
+18 
+            Hardie DG  
+            Hawley SA  
+            Scott JW  
+           AMP-activated protein kinase -development of the energy sensor concept. J. Physiol 2006 574 7 15 16644800 
+19 
+            Ramamurthy S  
+            Ronnett GV  
+           Developing a head for energy sensing: AMP-activated protein kinase as a multifunctional metabolic sensor in the brain. J. Physiol 2006 574 85 93 16690704 
+20 
+            Baugh LR  
+            Sternberg PW  
+           DAF-16/FOXO regulates transcription of cki-1 /Cip/Kip and repression of lin-4  during C. elegans  L1 arrest. Curr. Biol 2006 16 780 785 16631585 
+21 
+            Narbonne P  
+            Roy R  
+           Inhibition of germline proliferation during C. elegans  dauer development requires PTEN, LKB1 and AMPK signalling. Development 2006 133 611 619 16407400 
+22 
+            Lee H  
+            Cho JS  
+            Lambacher N  
+            Lee J  
+            Lee S-J  
+            Lee TH  
+            Gartner A  
+            Koo H-S  
+           The Caenorhabditis elegans  AMP-activated Protein Kinase AAK-2 Is Phosphorylated by LKB1 and Is Required for Resistance to Oxidative Stress and for Normal Motility and Foraging Behavior. J. Biol. Chem 2008 283 14988 14993 18408008 
+23 
+            Pocock R  
+            Hobert O  
+           Oxygen levels affect axon guidance and neuronal migration in Caenorhabditis elegans. Nat. Neurosci 2008 11 894 900 18587389 
+24 
+            Wood WB  
+           The Nematode Caenorhabditis elegans  1988 Cold Spring Harbor Laboratory Cold Spring Harbor, N.Y. 
+25 
+            Chang AJ  
+            Bargmann CI  
+           Hypoxia and the HIF-1 transcriptional pathway reorganize a neuronal circuit for oxygen-dependent behavior in Caenorhabditis elegans . PNAS 2008 105 7321 7326 18477695 
+26 
+            Chang AJ  
+            Chronis N  
+            Karow DS  
+            Marletta MA  
+            Bargmann CI  
+           A distributed chemosensory circuit for oxygen preference in C. elegans . PLoS Biol 2006 4 e274 16903785 
+27 
+            Cheung BH  
+            Cohen M  
+            Rogers C  
+            Albayram O  
+            de Bono M  
+           Experience-dependent modulation of C. elegans  behavior by ambient oxygen. Curr. Biol 2005 15 905 917 15916947 
+28 
+            Gray JM  
+            Karow DS  
+            Lu H  
+            Chang AJ  
+            Chang JS  
+            Ellis RE  
+            Marletta MA  
+            Bargmann CI  
+           Oxygen sensation and social feeding mediated by a C. elegans  guanylate cyclase homologue. Nature 2004 430 317 322 15220933 
+29 
+            Ward JPT  
+           Oxygen sensors in context. Biochim. Biophys. Acta 2008 1777 1 14 18036551 
+30 
+            Semenza GL  
+           HIF-1: mediator of physiological and pathophysiological responses to hypoxia. J. Appl. Physiol 2000 88 1474 1480 10749844 
+31 
+            Brenner S  
+           The genetics of Caenorhabditis elegans . Genetics 1974 77 71 94 4366476 
+32 
+            Apfeld J  
+            O'Connor G  
+            McDonagh T  
+            DiStefano PS  
+            Curtis R  
+           The AMP-activated protein kinase AAK-2 links energy levels and insulin-like signals to lifespan in C. elegans . Genes Dev 2004 18 3004 3009 15574588 
+

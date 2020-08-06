@@ -1,0 +1,690 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   87102191493AIDSAIDSAIDS (London, England)0269-93701473-557126990632486405710.1097/QAD.0000000000001095NIHMS775884ArticleFood insecurity is associated with HIV, sexually transmitted infections and drug use among men in the United States PALAR Kartika 1LARAIA Barbara 2TSAI Alexander C. 3JOHNSON Mallory 4WEISER Sheri D. 141  Division of HIV, ID and Global Medicine, Department of Medicine, University of California, San Francisco (UCSF), San Francisco, CA2  School of Public Health, University of California Berkeley, Berkeley, CA3  Massachusetts General Hospital, MGH Global Health, Boston, MA4  Center for AIDS Prevention Studies, Department of Medicine, UCSFCorresponding author: Kartika Palar, PhD, Division of HIV, ID and Global Medicine at San Francisco General Hospital, Department of Medicine, UCSF, San Francisco, CA, kartika.palar@ucsf.edu20 4 2016 1 6 2016 01 6 2017 30 9 1457 1465 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objective
+To examine the population-level association between food insecurity, HIV risk factors, and HIV serostatus among men, the group representing the majority of HIV diagnoses in the United States (US).
+
+Design
+Cross-sectional secondary data analysis using the National Health and Nutrition Examination Survey (NHANES) 1999-2012, a nationally representative survey of the civilian non-institutionalized US population.
+
+Methods
+Logistic regression with design weights and complex survey commands was used to estimate nationally-representative associations between food insecurity and HIV serostatus (primary outcome), herpes simplex virus 2 (HSV-2), self-reported STIs, and past-year illicit drug use among men, adjusting for potential confounders. Food security was measured using the 18-item Household Food Security Survey.
+
+Results
+We analyzed data for 9150 men representing 61 million individuals in the US. Unadjusted HIV prevalence was 1.5% among food insecure men, compared to 0.4% among food secure men (p&lt;0.001). In adjusted models, food insecure men had over 2 times higher odds of HIV seropositivity compared to food secure men (adjusted odds ratio (AOR)=2.10; 95% CI 1.01 - 4.37; p&lt;0.05). Food insecurity was associated with higher odds of HSV-2 seropositivity (AOR=1.28; 95% CI 1.04 - 1.57; p&lt;0.05), self-reported STIs (AOR=1.54; 95% CI 1.08 - 2.20; p&lt;0.05), and illicit drug use (AOR=1.57; 95% CI 1.14 - 2.15; p&lt;0.01). Results were robust to sensitivity analyses restricted to lower incomes.
+
+Conclusions
+Food insecurity is associated with prevalent HIV, STIs and illicit drug use among men in the US. Further research is needed to establish whether and through what mechanisms improved food security may help prevent new HIV infections.
+
+food insecurityHIVherpessexually transmitted infectionsdrug usemen
+   Introduction
+Food insecurity, defined as the limited or uncertain ability to access food of sufficient quality and quantity, or the inability to access these foods in socially acceptable ways [1, 2], is associated with increased frequency of HIV risk behaviors, including risky sex [3-12] and substance use [5, 13-16], across multiple settings even after accounting for income or other measures of socioeconomic status (SES). According to the Centers for Disease Control and Prevention (CDC), men represent the majority (80%) of new HIV diagnoses in the United States (US)[17]; among new HIV infections among men, men-who-have-sex-with-men (MSM) account for 78% [18]. However, the extent to which food insecurity is independently associated with prevalent HIV and sexually transmitted infections (STIs) among men in the US has not yet been determined.
+
+Food insecurity is associated with factors linked with HIV acquisition and transmission risk. In the United States (US), a cross-sectional study among recently incarcerated individuals found that food insecurity was associated with exchanging sex for money and using alcohol, heroin or cocaine before sex [5]. Population-based studies conducted primarily among women in Bostwana, Swaziland, Nepal, Brazil and the US have found food insecurity to be associated with increased frequency of sexual risk behaviors [3, 4, 10, 12], symptoms of a sexually transmitted infection (STI) [4, 10], transactional sex [3], lack of control over sexual relationships [12], and sexual victimization [6] after accounting for SES. Qualitative evidence from sub-Saharan Africa points to a potential causal mechanism whereby food insecure individuals may resort to sex exchange or unsafe sex in order to ensure subsistence needs [7, 8]. Recent qualitative work among people with HIV in the U.S. suggests that food insecurity may similarly contribute to unprotected transactional sex between men, for both homosexual and heterosexual-identified men [19]. Apart from sexual behavior, pathways such as injection drug use [20] may further link food insecurity to HIV acquisition and transmission risk [9, 21]. Together, these studies suggest that food insecurity may potentiate the acquisition of HIV and STIs.
+
+While behavioral evidence suggests that food insecurity may lead to greater risk of HIV infection among men, the association between food insecurity and HIV infection in this group remains an open question. Therefore, we undertook this study to estimate the association between food insecurity and prevalent HIV, STIs and drug use outcomes among US men, utilizing nationally representative pooled cross-sectional data from the National Health and Nutrition Examination Survey (NHANES). Using NHANES, we were able to leverage direct measures of HIV and herpes simplex virus-2 (HSV-2) serostatus collected via blood test, thereby circumventing issues of bias affecting self-report measures of HIV risk. We hypothesized that food insecurity would be associated with HIV seropositivity and increased prevalence of HIV risk factors including STIs and illicit drug use.
+
+Methods
+Data and Population
+This analysis utilizes 14 years of public-use NHANES data collected between 1999 and 2012. NHANES surveys the health and nutrition of the civilian non-institutionalized US population every 2 years, yielding a pooled cross-sectional dataset. It uses a stratified multistage probability sampling method to enable nationally representative estimates of the civilian non-institutionalized population of the US. NHANES includes both interview and examination components. For sensitive topics such as substance use and sexual behavior, a self-administered Audio Computer Assisted Self Interview (ACASI) system is used. Health examinations include both physical and laboratory examinations taken in mobile centers staffed by a physician, medical technicians and interviewers. Informed consent is obtained for all NHANES procedures. NHANES has human subjects research approval from the National Center for Health Statistics Research Ethics Review Board.
+
+Measures
+Outcomes
+HIV serostatus
+Serum specimens were collected from NHANES participants during the laboratory portion of the examination. Specimens were processed, stored, and shipped to the National Centers for Disease Control and Prevention, where they were tested by enzyme immunoassay (EIA) and confirmed by Western blot (WB). The HIV antibody result was coded as positive if both EIA and WB were positive, and coded as negative if the EIA was repeatedly negative, or if the EIA was positive or indeterminate but WB was negative.
+
+HSV-2 infection
+The presence of antibodies indicating infection with herpes simplex virus type 2 (HSV-2) was assessed via blood test during the examination portion of the NHANES interview. As a sexually transmitted infection affecting the general population at high rates, HSV-2 is used widely as a marker for sexual risk that may lead to other sexually transmitted infections, such as HIV [22].
+
+Self-reported STIs
+Self-reported STIs (genital warts, gonorrhea and chlamydia) were included in the NHANES sexual behavior questionnaire and answered using the ACASI system. Three separate questions were asked for each of the above STIs: “Has a doctor or other health care professional ever told you that you have [name of STI]?” A binary variable indicating ever having been diagnosed with genital warts, gonorrhea and/or chlamydia was constructed for analysis.
+
+Illicit drug use, past year (available for years 2005-2012 only)
+Illicit drug use in the past year was assessed in ACASI by first identifying individuals who reported any history of illicit drug use (defined as cocaine, heroin and/or methamphetamine). Respondents who responded affirmatively to having a history of use were then asked separately for each substance, “how long has it been since you used [cocaine/heroin/methamphetamine]?” For this study, we created a binary variable for illicit drug use in the past year if the respondent reported using any of these substances in the past year. From 1999-2004, NHANES did not assess the recentness of drug use, so our analyses for this outcome variable were restricted to 2005-2012.
+
+Explanatory variables
+Primary independent variable
+Food insecurity
+Food security was assessed among adult participants during the household interview using the United States Department of Agriculture (USDA) Household Food Security Survey (HFSS) module, a widely used validated scale [23] considered to be the gold-standard for measuring population food security in the US [24, 25]. The scale captures worry or anxiety over food supplies, insufficient diet quality, and insufficient food quantity over the previous 12 months. Questions refer to all household members. We used the standard HFSS scoring algorithm to categorize individuals as having high, marginal, low or very low food security. For this study, we defined food insecurity as having marginal, low or very low food security, encompassing reported experiences of anxiety over food sufficiency, disruptions in diet quality, and/or reductions in food intake.
+
+Potential confounders
+Socioeconomic status
+We used the poverty-income ratio (PIR) as a standardized measure to control for SES which may confound the relationship between food insecurity and STI and HIV prevalence. NHANES calculates the PIR by dividing family income by the poverty guidelines issued annually by the Department of Health and Human Services’ specific to the participant's household size and year. A PIR of “1” indicates a family income at 100% of the federal poverty level (FPL) (see Appendix for additional details). In addition to income, we measured educational attainment as having a high school diploma or equivalent (e.g. GED), versus less than high school education.
+
+Sociodemographic factors
+We included age categories (20-29, 30-39 or 40-49), race/ethnicity (non-Hispanic white, non-Hispanic black, Hispanic or other ethnicity), married or living with a partner (yes vs. no), and household size (continuous) as additional factors that may confound the relationship between food insecurity and HIV risk. We constructed a variable for MSM if the male participant indicated he had sex with at least one other male in his lifetime, and/or if he self-identified as gay or bisexual.
+
+Health behaviors
+Smoking (current smoker, yes vs. no) and binge drinking (consumed 5 or more drinks per day in past year, yes vs. no) may be related to sexual risk, drug use and food security and were thus considered as potential confounders. In addition, we also considered lifetime history of illicit drug use as a potential confounder for all outcomes other than past year illicit drug use. History of illicit drug use was defined as ever having used cocaine or street drugs (survey years 1999-2004), or ever used cocaine, heroin or methamphetamines (survey years 2005-2012), yes vs. no.
+
+Analysis
+We conducted cross-sectional analyses on the combined NHANES datasets from 1999-2012. All variables utilized in main analyses were defined consistently and available for all survey years represented in the combined dataset. One exception was the analysis of past-year illicit drug use as an outcome, for which data were only available from 2005-2012. Adults ages 20 to 49 were included in analyses, which was the age range for which data on key variables were available across all survey years. Following NHANES analytic guidelines, 14-year survey weights for the combined 1999-2012 dataset were created using the 4-year examination weights for survey years 1999-2002 and 2-year examination weights for survey years 2003-2012. For the 2005-2012 dataset, 8-year weights were created using the 2-year examination weights for survey years 2005-2012.
+
+Using survey commands with the appropriate design weights (14- or 8-year), we first calculated population characteristics and prevalence of our outcomes of interest: HIV, HSV-2, self-reported STIs, and illicit drug use in the past year. We then compared prevalence of these outcomes between food secure and food insecure groups using Pearson chi-squared tests with an adjustment for the complex survey design. In adjusted models, we implemented logistic regressions for each binary outcome, where the primary explanatory variable was binary food security status, controlling for the following potential confounders: age [30-39, 40-49 and 20-29]; poverty-income ratio; high school education [yes vs. no]; race/ethnicity [Hispanic, non-Hispanic black and non-Hispanic white/other]; committed relationship [yes vs. no]; household size; current smoking [yes vs. no], heavy drinking in past year [yes vs. no], history of substance use [yes vs. no] (HIV and STI models only). Results were reported as adjusted odds ratios (AORs) with 95% confidence intervals (CIs). Analyses were conducted using STATA/IC 11 (StataCorp. 2009. Stata Statistical Software: Release 11. College Station, TX: StataCorp LP).
+
+To test the robustness of our results in lower income populations (96% of all food insecure individuals in the sample were under 400% FPL) and reduce the confounding influence of income on the association between food insecurity and HIV risk, we repeated our analyses for subsets of participants under various PIR thresholds (&lt;400%, 300% 200% and 100% FPL).
+
+As a supplementary analysis (available in the Appendix), we repeated the main analyses for MSM, defined as men reporting ever having had sexual intercourse with another man, or who self-identified as gay or bisexual. We conducted this sub-group analysis despite an interaction term for MSM and food insecurity that was not statistically significant, and despite the high relative standard errors (RSEs) from these regressions, in recognition of disproportionate impact of HIV on MSM.
+
+Results
+The analytic sample for this study consisted of 9150 men aged 20-49, representing 61 million civilian non-institutionalized men in the United States. Of these men, 849 (9%) were missing data on HIV serostatus, 1,068 (12%) were missing data on HSV-2 infection, 1,905 (21%) were missing data on self-reported genital warts, gonorrhea, and chlamydia, 26 (1%) were missing data on illicit drug use in the past year, and 228 (2.5%) were missing data on food security. Missing data on HIV, HSV-2 and self-reported STIs were positively associated with increased odds of household food insecurity.
+
+Sero-prevalence of HIV was 0.65% and sero-prevalence of HSV-2 was 13.0%. Almost 5% of men self-reported gonorrhea, chlamydia and/or genital warts, and 6.8% of men reported cocaine, heroin or methamphetamine use in the past year. Approximately 1 in 5 men (22.3%) lived in food insecure households. The average PIR was 2.55, translating into an annual income of $55,778 for a family of four in 2012 (Table 1). Twenty-two percent of men fell under the income eligibility threshold for federal nutrition assistance via SNAP (130% FPL, or PIR = 1.3).
+
+Comparing food secure to food insecure men (Table 2), unadjusted HIV seroprevalence was 0.4 vs. 1.5% (p&lt;0.001), HSV-2 seroprevalence was 11.9 vs. 17.4% (p&lt;0.001), prevalence of self-reported STIs was 4.8 vs. 5.5% (p=0.289), and prevalence of illicit drug use in the past year was 5.4 vs. 11.4% (p&lt;0.001).
+
+In models adjusted for demographic, socioeconomic and behavioral health characteristics (Table 3), food insecurity was associated with over 2 times higher odds of HIV seropositivity (AOR = 2.10; 95% CI 1.01-4.37; p&lt;0.05). For HIV risk factors, food insecurity was associated with 1.28 higher odds of prevalent HSV-2 infection (95% CI 1.04-1.57; p&lt;0.05); 1.54 higher odds of having had gonorrhea, chlamydia and/or genital warts by self-report (95% CI 1.08-2.20; p&lt;0.05); and 1.57 higher odds of having used cocaine, heroin, or methamphetamine in the past year (95% CI 1.14-2.15; p&lt;0.01).
+
+Sensitivity analyses restricting the sample to individuals with lower incomes (i.e. 400, 300, 200 and 100% FPL) (Figure 1) yielded similar or larger estimates for HIV, HSV-2 and drug use outcomes compared to the main analyses, represented by the solid bar in Figure 1. Most estimates were statistically significant except associations between food insecurity and HIV, HSV-2 and other STIs at the 200% poverty line. The model for HIV at 100% poverty line did not converge and thus data are not presented.
+
+In supplementary analyses (see Appendix) comparing food secure vs. food insecure MSM, HIV seroprevalence was 5.9% vs. 14.1% (p&lt;0.05), HSV-2 seroprevalence was 17.2 vs. 30.5% (p&lt;0.05), prevalence of self-reported STIs was 9.2 vs. 15.7% (p=0.127), and prevalence of illicit drug use in the past year was 10.5 vs. 14.6% (p=0.383) (Table S2). In adjusted analysis (Table S3), the AORs for associations between food insecurity and HIV, HSV-2 and other STIs moved in the same direction as the main analyses including all men. However, none of these estimates were significant at α=0.05.
+
+Discussion
+Using nationally representative data for men in the US, we found that food insecurity was associated with over 2 times higher odds of HIV seropositivity. Food insecurity was also strongly associated with known HIV risk factors, including HSV-2 (i.e. genital herpes) seropositivity, self-reported history of other STIs (gonorrhea, chlamydia and/or genital warts), and illicit drug use in the past year. These results were robust to differences in income, indicating food insecurity is not simply a proxy for poverty. This population-based study goes beyond previous studies linking food insecurity to self-reported measures of sexual behavior and is the first to demonstrate an association between food insecurity and prevalent HIV and HSV-2 using objective biomarkers. HIV may also constitute an economic shock in individual's lives (e.g. reduced ability to work) that could lead to food insecurity [26-28], and thus associations between food insecurity and HIV infection may be bidirectional. While these cross-sectional data cannot establish causality, the strong associations between food insecurity, HIV risk factors and HIV serostatus in this study, independent of SES, suggest that food insecurity may be an important factor in the national HIV epidemic and should be addressed.
+
+Existing literature suggests food insecurity may operate through behavioral, mental health and nutritional pathways to increase risk of HIV and STI acquisition and transmission [29]. The majority of studies investigating food insecurity and HIV risk focus on behavioral pathways and demonstrate a remarkable consistency in findings across population and settings, after accounting for SES. Studies from resource poor settings have shown that food insecurity is associated with risky sexual behaviors [4, 7, 8, 10, 12], self-reported STIs [4, 10] and exposure to sexual violence and victimization among women [6]. Robust longitudinal evidence from resource-rich settings, including the United States, has further found that food insecurity is linked with risky sexual behavior among both men and women, including in homeless or marginally housed populations [3, 9, 11]. In addition, food insecurity is strongly linked with depression [30-32] and overall poor mental health[33], which have been associated with HIV transmission risk behaviors, including transactional sex, having multiple partners, and unprotected sex [34]. Finally, poor nutrition resulting from food insecurity may also contribute to HIV and STI acquisition. Damage to the gut and genital epithelial lining and the differentiation of target cells, as well as weakened host defense mechanisms, can result from micronutrient deficiencies and in turn increase susceptibility to STIs including HIV upon exposure [35].
+
+Our finding on the association between food insecurity and drug use highlights another potential behavioral and mental health pathway linking food insecurity and HIV risk. Previous studies in small non-representative samples have found that food insecurity may contribute to illicit drug use [13, 36], and to sharing injection equipment among injection drug users in particular [20]. Substance use is known to increase risky sexual behavior and can lead to HIV acquisition indirectly via risky sex or directly via injection drug use if needles are shared with an HIV-infected individual. Beyond its potential role in HIV risk, substance use also contributes significantly to morbidity and mortality in the US and globally [37, 38] indicating a broader negative impact of food insecurity on health. It is also possible the association we identified reflects drug addiction increasing the risk of food insecurity [13], for example due to spending limited resources on drugs instead of food or if job loss due to addiction compromises the ability to pay for food. [21].
+
+The strong association between food insecurity and HIV seropositivity among men in our study supports the need for both quantitative and qualitative studies to explore the mechanisms by which food insecurity may increase HIV risk specifically among men. A qualitative study in the San Francisco Bay Area found that both straight and gay-identified men reported having transactional sex with other men to alleviate food insecurity[39] , which was often unprotected because they could negotiate to receive more money or food by agreeing not to use condoms. While no studies have looked explicitly at the association between food insecurity and sexual risk behavior among MSM, a handful of studies have examined the relationship between general financial hardship and risky sexual practices among MSM [40-42]. For example, in probability samples of MSM of color in the United States, having difficulty affording basic necessities including food was associated with having unprotected anal intercourse with a casual or non-monogamous sexual partner [41] and using alcohol before or during sex [42].
+
+When considered together, the associations we identify between food insecurity, HIV serostatus and HIV risk factors provide population-level evidence that food insecurity may increase HIV risk among men in the US. While the link between food insecurity and HIV seropositivity is likely to be bidirectional (e.g. HIV may increase food insecurity as a result of decreased household earning potential [28] and reduced social support [43]), the associations between food insecurity and HSV-2 as well as other STIs are much more likely to be unidirectional. Non-HIV STIs are common outcomes of risky sexual behaviors and greatly increase the direct biological risk for HIV acquisition [22]. Yet many cases of genital herpes or warts and chlamydia are asymptomatic [44, 45], and infections with more serious consequences, such as gonorrhea, are curable [46, 47]. Consequently, non-HIV STIs induce much lower medical and productivity costs when compared with HIV [48-51], and thus are less likely to lead to food insecurity. Additionally, the existing literature in the US suggests that food insecurity is associated with HIV risk behaviors independent of other economic measures [3, 9, 11], while it is unclear that HIV would predict food insecurity independent of income or other measures of SES. Thus, the significant associations we find between food insecurity and markers of HIV risk such as drug abuse and STIs, together with previous qualitative and quantitative studies establishing a link between food insecurity and risky sexual behavior and illicit drug use, support the plausibility of food insecurity as a contributor to HIV acquisition and transmission. Nevertheless, longitudinal studies are needed to determine the potential causal direction of these associations. In particular, studies documenting the relationship between food insecurity and incident HIV and STIs are needed.
+
+Our findings should be considered in light of several limitations. First, due to low HIV prevalence, the estimate of association between food insecurity and HIV seropositivity in Table 3 may be statistically unreliable and therefore imprecise. Another limitation is that missing data on HIV and STI outcomes was positively associated with higher odds of food insecurity. Therefore observed associations may be biased towards the null, as food insecurity is associated with riskier sexual behavior and drug use. Furthermore, our findings are only applicable to civilian, non-institutionalized, 20-49 year old men in the United States. Other vulnerable groups such as teens, women, the elderly, and incarcerated individuals should be included in future research. Finally, as mentioned above, this is an associational study and does not establish causality or directionality in the relationship between food insecurity and HIV, STIs or drug use.
+
+In summary, food insecurity may contribute to increased risk of HIV acquisition and transmission and should be addressed as part of structural approaches to HIV prevention among men. Reducing vulnerability to food insecurity and increasing access to food and safety net programs may help reduce HIV and STI risk. However, further research is needed to establish whether there is a causal relationship between food insecurity and HIV, and to explore mechanisms through which improved food security may help prevent new infections.
+
+Supplementary Material
+01  Acknowledgements
+We thank Lee Lemus Hufstedler and Beth Phillips for providing research assistance on this manuscript.
+
+Sources of Support: The authors acknowledge the following sources of salary support: K01 DK107335 and AHRQ T32HS00046 (Dr. Palar), K23 MH096620 (Dr. Tsai), R01 MH095683 (Dr. Weiser), K24DA03703 (Dr. Johnson)
+
+Figure 1 Sensitivity analysis for association between food insecurity, HIV risk factors and HIV status among men age 20-49, by poverty-income ratio threshold
+
+Notes: The solid bar is the coefficient as presented in the main analysis in Table 3. N/S indicates the AOR was not statistically significant at α=0.05. The percentages of men age 20-40 comprising the income categories are: 65.1% (&lt;400% PIR); 50.3% (&lt;300 PIR); 35.2% (&lt;200% PIR); 15.0% (&lt;100% PIR). ǂ Model for food insecurity and HIV do not converge at 100% PIR given the small sample, so these results are not presented.
+
+Table 1 Population characteristics for men age 20-49 in the United States, NHANES 1999-2012 (N=9150)
+
+	
+n
+	Value	95% CI	
+
+HIV seropositive, %
+	
+8301
+	0.65	[0.48, 0.82]	
+
+HSV-2 seropositive, %
+	
+8082
+	13.0	[12.3, 14.0]	
+
+Self-reported STIs, %
+	
+7245
+	4.9	[4.28, 5.53]	
+
+Illicit drug use, past year
+b
+, % (2005-2012 only)
+	
+5549a
+	6.8	[6.1, 7.6]	
+
+Food insecure, %
+	
+8922
+	22.3	[21.3, 23.2]	
+
+MSM, %
+	
+6239
+	6.43	[5.71-7.15]	
+
+Age, %
+				
+
+ 
+ 
+ 
+ 
+20-29
+	
+9150
+	32.5	[31.3, 33.7]	
+
+ 
+ 
+ 
+ 
+30-39
+	32.6	[31.5,33.8]	
+
+ 
+ 
+ 
+ 
+40-49
+		34.9	[33.6,36.1]	
+
+High school diploma/GED, %
+	
+9140
+	81.3	[80.4,82.2]	
+
+Poverty-income ratio, mean
+	
+8451
+	2.55c	[2.52,2.59]	
+    % below SNAP income eligibility threshold (PIR = 1.30)	
+8451
+	21.6	[20.6,22.5]	
+
+Race/ethnicity, %
+				
+
+ 
+ 
+ 
+ 
+Non-Hispanic white
+		65.0	[64.0,66.1]	
+
+ 
+ 
+ 
+ 
+Non-Hispanic black
+	
+9150
+	11.2	[10.7,11.8]	
+
+ 
+ 
+ 
+ 
+Hispanic
+		17.4	[16.6,18.1]	
+
+ 
+ 
+ 
+ 
+Other ethnicity
+		6.34	[5.74,6.94]	
+
+In a committed relationship, %
+	
+9016
+	61.4	[60.2,62.7]	
+
+Household size, mean
+	
+9150
+	3.66	[3.63,3.70]	
+
+Current smoking, %
+	
+9141
+	30.8	[29.7, 32.0]	
+
+Heavy drinking, past year, %
+	
+9145
+	31.3	[30.2,32.5]	
+
+History of any illicit drug use
+d
+, %
+	
+7841
+	27.0	[25.8, 28.2]	
+Notes: Sample size: Total sample size for men aged 20-49 in the 1999-2012 dataset was 9150, representing 61,0 million non-institutionalized civilian men in the United States.
+
+a Total sample size for men aged 20-49 in the 1999-2005 dataset was 5,575, representing 35.0 million men.
+
+Variable notes:
+
+b Recentness of illicit drug use, used to assess past-year illicit drug use, was only assessed in NHANES from 2005-2012.
+
+c PIR of 2.55 represents an income of 2.55 times the income at the FPL for a family of four in 2012 ($23,050), or approximately $55,778 (i.e. 2.55 × $23,050) (See: https://aspe.hhs.gov/prior-hhs-poverty-guidelines-and-federal-register-references).
+
+d History of any illicit drug use was available for all years 1999-2012
+
+Analysis: Analyses used 14- and 8-year analytic weights for the 1999-2012 and 2005-2012 models, respectively, constructed according to NHANES guidelines and adjustments for sampling design, to yield nationally representative results.
+
+Table 2 Prevalence of HIV, sexually transmitted infections and illicit drug use by food security status among men age 20-49 in the United States, NHANES 1999-2012
+
+	Food secure (n=6248)	Food insecure (n=2674)	p-value	
+HIV seropositive, %	0.4	1.5	
+&lt;0.001
+	
+HSV 2 infection, %	11.9	17.4	
+&lt;0.001
+	
+Self-reported gonorrhea, chlamydia or genital warts, %	4.8	5.5	
+0.289
+	
+Illicit drug use, past year, %	5.4	11.4	
+&lt;0.001
+	
+Notes: Definitions: Positive HIV serostatus was defined as having a positive blood test for HIV antibodies in the NHANES examination. HSV 2 infection was defined as having a positive blood test for HSV 2 antibodies in the NHANES examination. Self-reported STIs were defined as individuals reporting ever being told they had genital warts, gonorrhea, and/or chlamydia by a doctor. Illicit drug use was defined as cocaine, heroin or methamphetamine use; use in the past year (outcome) was only available for survey years 2005-2012. Food insecurity was defined as having marginal, low or very low household food security according to the USDA's 18-item Household Food Security Survey module. Analysis: Analyses used 14- and 8-year analytic weights for the 1999-2012 and 2005-2012 models, respectively, constructed according to NHANES guidelines and adjustments for sampling design, to yield nationally representative results.
+
+Table 3 Association between food insecurity and HIV seropositivity and HIV risk factors among men age 20-49 in the United States, NHANES 1999-2012
+
+Outcome:	HIV seropositivity	HSV-2 seropositivity	Self-reported STIs	Illicit drug use, past year b
+(2005-2012 only)	
+AOR (95% CI)	AOR (95% CI)	AOR (95% CI)	AOR (95% CI)	
+
+Food insecure
+	2.10a* (1.01 - 4.37)	1.28* (1.04 - 1.57)	1.54* (1.08 - 2.20)	1.57** (1.14 - 2.15)	
+
+Age
+					
+20-29	Ref	Ref	Ref	Ref	
+30-39	2.42* (1.05 - 5.57)	2.88*** (2.24 - 3.69)	1.23 (0.86 - 1.76)	0.95 (0.69 - 1.31)	
+40-49	2.69* (1.17 - 6.22)	4.17*** (3.26 - 5.34)	1.04 (0.71 - 1.50)	0.84 (0.59 - 1.19)	
+
+Poverty-income ratio
+	0.85 (0.69 - 1.06)	0.96 (0.90 - 1.03)	1.13* (1.02 - 1.26)	0.93 (0.84 - 1.03)	
+
+High school education
+	1.63 (0.67 - 3.94)	0.81 (0.65 – 1.01)	1.36 (0.93 - 1.99)	0.76 (0.54 - 1.06)	
+
+Race/ethnicity
+					
+Non-Hispanic white/other	Ref	Ref	Ref	Ref	
+Hispanic	3.55** (1.55 - 8.14)	1.33* (1.06 - 1.66)	0.64* (0.44 - 0.92)	1.25 (0.92 - 1.70)	
+Non-Hispanic black	5.12*** (2.45 - 10.67)	5.15*** (4.28 - 6.20)	1.24 (0.91 - 1.69)	0.59** (0.42 - 0.83)	
+
+In a committed relationship
+	0.45* (0.20 - 0.98)	1.10 (0.90 - 1.34)	0.76 (0.55 - 1.03)	0.43*** (0.31 - 0.58)	
+
+Household size
+	0.68** (0.52 - 0.89)	0.94 (0.89 - 1.00)	0.91 (0.82 - 1.00)	1.02 (0.93 - 1.11)	
+
+Current smoking
+	1.89 (0.94 - 3.78)	1.47*** (1.21 - 1.78)	1.07 (0.78 - 1.48)	3.88*** (2.92 - 5.15)	
+
+Heavy drinking in past year
+	0.71 (0.35 - 1.44)	1.13 (0.92 - 1.38)	1.10 (0.79 - 1.54)	0.56*** (0.41 - 0.75)	
+
+History of any illicit drug use
+	0.95 (0.45 - 1.99)	1.89*** (1.55 - 2.31)	2.64*** (1.93 - 3.62)	--	
+
+Observations
+	
+7,246
+	
+7,098
+	
+6,935
+	
+5,132
+	
+
+          Notes:
+        
+
+*** p&lt;0.001
+
+** p&lt;0.01
+
+* p&lt;0.05.
+
+a Estimate has a relative standard error (RSE) of 35%. RSEs over 30% may not be statistically reliable per NHANES analytic guidelines.
+
+b Illicit substance use in the past year was only available for survey years 2005-2012 (however, history of use used as a covariate in the HIV and STI models was collected in all analysis years).
+
+Analysis: Analyses used 14- and 8-year analytic weights for the 1999-2012 and 2005-2012 models, respectively, constructed according to NHANES guidelines and adjustments for sampling design, to yield nationally representative results.
+
+
+   References
+1 
+            Radimer KL  
+            Olson CM  
+            Greene JC  
+            Campbell CC  
+            Habicht JP  
+           Understanding hunger and developing indicators to assess it in women and children. Journal of Nutrition Education 1992 24 36S 44S 
+2 
+            Life Sciences Research Office (LSRO) 
+            Anderson Se  
+           Core indicators of nutritional state for difficult-to-sample populations. J Nutr 1990 120 1559 1600 2243305 
+3 
+            Justman J  
+            Befus M  
+            Hughes J  
+            Wang J  
+            Golin CE  
+            Adimora AA  
+             
+           Sexual Behaviors of US Women at Risk of HIV Acquisition: A Longitudinal Analysis of Findings from HPTN 064 AIDS Behav 2015 
+4 
+            Tsai AC  
+            Weiser SD  
+           Population-based study of food insecurity and HIV transmission risk behaviors and symptoms of sexually transmitted infections among linked couples in Nepal. AIDS Behav 2014 18 2187 2197 24833522 
+5 
+            Wang EA  
+            Zhu GA  
+            Evans L  
+            Carroll-Scott A  
+            Desai R  
+            Fiellin LE  
+           A pIlot study examInIng food insecurity and HIV risk behaviors among individuals recently released from prison. AIDS Educ Prev 2013 25 112 123 23514079 
+6 
+            Tsai AC  
+            Leiter K  
+            Heisler M  
+            Iacopino V  
+            Wolfe W  
+            Shannon K  
+             
+           Prevalence and correlates of forced sex perpetration and victimization in Botswana and Swaziland. American Journal of Public Health 2011 101 1068 21493950 
+7 
+            Miller CL  
+            Bangsberg DR  
+            Tuller DM  
+            Senkungu J  
+            Kawuma A  
+            Frongillo EA  
+             
+           Food insecurity and sexual risk in an HIV endemic community in Uganda. AIDS and Behavior 2011 15 1512 1519 20405316 
+8 
+            Oyefara JL  
+           Food insecurity, HIV/AIDS pandemic and sexual behaviour of female commercial sex workers in Lagos metropolis, Nigeria. SAHARA-J: Journal of Social Aspects of HIV/AIDS 2007 4 626 635 18071614 
+9 
+            Shannon K  
+            Kerr T  
+            Milloy M- J  
+            Anema A  
+            Zhang R  
+            Montaner JS  
+             
+           Severe food insecurity is associated with elevated unprotected sex among HIV-seropositive injection drug users independent of HAART use. AIDS 2011 25 2037 2042 21811140 
+10 
+            Tsai AC  
+            Hung KJ  
+            Weiser SD  
+           Is Food Insecurity Associated with HIV Risk? Cross-Sectional Evidence from Sexually Active Women in Brazil. PLoS medicine 2012 9 e1001203 22505852 
+11 
+            Vogenthaler NS  
+            Kushel MB  
+            Hadley C  
+            Frongillo EA  
+            Riley ED  
+            Bangsberg DR  
+             
+           Food Insecurity and Risky Sexual Behaviors Among Homeless and Marginally Housed HIV-Infected Individuals in San Francisco. AIDS and Behavior 2012 1 6 21476006 
+12 
+            Weiser SD  
+            Leiter K  
+            Bangsberg DR  
+            Butler LM  
+            Percy-de Korte F  
+            Hlanze Z  
+             
+           Food insufficiency is associated with high-risk sexual behavior among women in Botswana and Swaziland. PLoS Med 2007 4 1589 1597 discussion 1598 17958460 
+13 
+            Vogenthaler N  
+            Kushel MB  
+            Hadley C  
+            Bangsberg D  
+            Riley ED  
+            Frongillo Jr EA  
+             
+           Bidrectional relationship between food insecurity and drug use among homeless and marginally housed HIV-infected individuals in San Francisco (Abstract no. TUPE489). 6th IAS Conference on HIV Pathogenesis and Treatment 2011 
+14 
+            Vogenthaler NS  
+            Hadley C  
+            Lewis SJ  
+            Rodriguez AE  
+            Metsch LR  
+            Del Rio C  
+           Food insufficiency among HIV-infected crack-cocaine users in Atlanta and Miami. Public Health Nutrition 2010 13 1478 1484 20074395 
+15 
+            Kalichman S  
+            Cherry C  
+            Amaral C  
+            White D  
+            Kalichman M  
+            Pope H  
+             
+           Health and Treatment Implications of Food Insufficiency among People Living with HIV/AIDS, Atlanta, Georgia. J Urban Health 2010 87 1 11 20187276 
+16 
+            Normén L  
+            Chan K  
+            Braitstein P  
+            Anema A  
+            Bondy G  
+            Montaner JSG  
+             
+           Food insecurity and hunger are prevalent among HIV-positive individuals in British Columbia, Canada. Journal of Nutrition 2005 135 820 825 15795441 
+17 
+            Centers for Disease Control and Prevention 
+           HIV among men in the United States 2015 from: http://www.cdc.gov/hiv/group/gender/men/index.html . . In 12/14/15 
+18 
+            Centers for Disease Control and Prevention 
+           HIV in the United States: At a Glance 2015 from http://www.cdc.gov/hiv/statistics/basics/ataglance.html . In 8/19/2015 
+19 
+            Whittle H  
+            Palar K  
+            Napoles T  
+            Hufstedler S  
+            Ching I  
+            Hecht F  
+             
+           Experiences with Food Insecurity and Risky Sex Among Low-income People Living with HIV/AIDS in the San Francisco Bay Area: A Qualitative Study (poster). 9th IAS Conference on HIV Pathogensis, Treatment and Prevention Vancouver, Canada 2015 
+20 
+            Strike C  
+            Rudzinski K  
+            Patterson J  
+            Millson M  
+           Frequent food insecurity among injection drug users: correlates and concerns. BMC Public Health 2012 12 1058 23216869 
+21 
+            Anema A  
+            Wood E  
+            Weiser SD  
+            Qi J  
+            Montaner JS  
+            Kerr T  
+           Hunger and associated harms among injection drug users in an urban Canadian setting. Substance abuse treatment, prevention, and policy 2010 5 20 20 
+22 
+            Freeman EE  
+            Weiss HA  
+            Glynn JR  
+            Cross PL  
+            Whitworth JA  
+            Hayes RJ  
+           Herpes simplex virus 2 infection increases HIV acquisition in men and women: systematic review and meta-analysis of longitudinal studies. AIDS 2006 20 73 83 16327322 
+23 
+            Frongillo EA Jr.  
+           Validation of measures of food insecurity and hunger. J Nutr 1999 129 506S 509S 10064319 
+24 
+            Bickel G  
+            Nord M  
+            Price C  
+            Hamilton W  
+            Cook J  
+           Guide to Measuring Household Food Security, Revised 2000 2000 U.S. Department of Agriculture, Food and Nutrition Service Alexandria, VA 
+25 
+            Coleman-Jensen A  
+            Rabbitt M  
+            Gregory C  
+            Singh A  
+           Household food security in the United States in 2014 2015 United States Department of Agriculture, Economic Research Service ERR-194 
+26 
+            Bukusuba J  
+            Kikafunda J  
+            Whitehead R  
+           Food security status in households of people living with HIV/AIDS (PLWHA) in a Ugandan urban setting. British Journal of Nutrition 2007 98 211 217 17381879 
+27 
+            Brooks RA  
+            Martin D  
+            Ortiz D  
+            Veniegas R  
+           Perceived barriers to employment among persons living with HIV/AIDS. AIDS Care 2004 16 756 766 15370063 
+28 
+            McIntyre D  
+            Thiede M  
+            Dahlgren G  
+            Whitehead M  
+           What are the economic consequences for households of illness and of paying for health care in low-and middle-income country contexts? Social Science &amp; Medicine 2006 62 858 865 16099574 
+29 
+            Weiser S  
+            Young S  
+            Cohen C  
+            Kushel M  
+            Tsai A  
+            Tien P  
+             
+           Conceptual Framework for Understanding the Bidirectional Links between Food Insecurity and HIV/AIDS. Am J Clin Nutr 2011 94 1729S 1739S 22089434 
+30 
+            Palar K  
+            Kushel M  
+            Frongillo EA  
+            Riley ED  
+            Grede N  
+            Bangsberg D  
+             
+           Food Insecurity is Longitudinally Associated with Depressive Symptoms Among Homeless and Marginally-Housed Individuals Living with HIV. AIDS and Behavior 2014 1 8 epub ahead of print [Oct 29, 2014] 23321946 
+31 
+            Tsai AC  
+            Tomlinson M  
+            Comulada WS  
+            Rotheram-Borus MJ  
+           Food insufficiency, depression, and the modifying role of social support: Evidence from a population-based, prospective cohort of pregnant women in peri-urban South Africa. Soc Sci Med 2016 151 69 77 26773296 
+32 
+            Tsai AC  
+            Bangsberg DR  
+            Frongillo EA  
+            Hunt PW  
+            Muzoora C  
+            Martin JN  
+             
+           Food insecurity, depression and the modifying role of social support among people living with HIV/AIDS in rural Uganda. Soc Sci Med 2012 74 2012 2019 22513248 
+33 
+            Weiser SD  
+            Bangsberg DR  
+            Kegeles S  
+            Ragland K  
+            Kushel MB  
+            Frongillo EA  
+           Food insecurity among homeless and marginally housed individuals living with HIV/AIDS in San Francisco. AIDS Behav 2009 13 841 848 19644748 
+34 
+            Carey MP  
+            Carey KB  
+            Kalichman SC  
+           Risk for human immunodeficiency virus (HIV) infection among persons with severe mental illnesses. Clin Psychol Rev 1997 17 271 291 9160177 
+35 
+            Friis H  
+           Micronutrients and HIV infection: a review of current evidence 2005 World Health Organization 
+36 
+            Himmelgreen DA  
+            Perez-Escamilla R  
+            Segura-Millan S  
+            Romero-Daza N  
+            Tanasescu M  
+            Singer M  
+           A comparison of the nutritional status and food security of drug-using and non-drug-using Hispanic women in Hartford, Connecticut. Am J Phys Anthropol 1998 107 351 361 9821498 
+37 
+            Degenhardt L  
+            Whiteford HA  
+            Ferrari AJ  
+            Baxter AJ  
+            Charlson FJ  
+            Hall WD  
+             
+           Global burden of disease attributable to illicit drug use and dependence: findings from the Global Burden of Disease Study 2010. Lancet 2013 382 1564 1574 
+38 
+            DeLorenze GN  
+            Weisner C  
+            Tsai AL  
+            Satre DD  
+            Quesenberry CP Jr.  
+           Excess mortality among HIV-infected patients diagnosed with substance use dependence or abuse receiving care in a fully integrated medical care program. Alcohol Clin Exp Res 2011 35 203 210 21058961 
+39 
+            Whittle HJ  
+            Palar K  
+            Napoles T  
+            Hufstedler LL  
+            Ching I  
+            Hecht FM  
+             
+           Experiences with food insecurity and risky sex among low-income people living with HIV/AIDS in a resource-rich setting. J Int AIDS Soc 2015 18 20293 26546789 
+40 
+            Huebner D  
+            Kegeles S  
+            Rebchook G  
+            Peterson J  
+            Neilands T  
+            Johnson W  
+             
+           Social Oppression, Psychological Vulnerability, and Unprotected Intercourse Among Young Black Men Who Have Sex With Men. Health psychology 2013 
+41 
+            Diaz RM  
+            Ayala G  
+            Bein E  
+           Sexual risk as an outcome of social oppression: data from a probability sample of Latino gay men in three US cities. Cultural Diversity and Ethnic Minority Psychology 2004 10 255 15311978 
+42 
+            Ayala G  
+            Bingham T  
+            Kim J  
+            Wheeler DP  
+            Millett GA  
+           Modeling the impact of social discrimination and financial hardship on the sexual risk of HIV among Latino and Black men who have sex with men. Journal Information 2012 102 
+43 
+            Tsai AC  
+            Bangsberg DR  
+            Emenyonu N  
+            Senkungu JK  
+            Martin JN  
+            Weiser SD  
+           The social context of food insecurity among persons living with HIV/AIDS in rural Uganda. Social Science &amp; Medicine 2011 73 1717 1724 22019367 
+44 
+            CDC. 
+           Genital Herpes - CDC Fact Sheet 2012 
+45 
+            CDC. 
+           Genital warts 2010 
+46 
+            CDC. 
+           Syphilis - CDC Fact Sheet 2013 
+47 
+            CDC. 
+           Gonorrhea - CDC Fact Sheet 2013 
+48 
+            Owusu-Edusei K Jr.  
+            Roby TM  
+            Chesson HW  
+            Gift TL  
+           Productivity costs of nonviral sexually transmissible infections among patients who miss work to seek medical care: evidence from claims data. Sex Health 2013 10 434 437 23987746 
+49 
+            Owusu-Edusei K Jr.  
+            Chesson HW  
+            Gift TL  
+            Tao G  
+            Mahajan R  
+            Ocfemia MC  
+             
+           The estimated direct medical cost of selected sexually transmitted infections in the United States, 2008. Sex Transm Dis 2013 40 197 201 
+50 
+            Schackman BR  
+            Gebo KA  
+            Walensky RP  
+            Losina E  
+            Muccio T  
+            Sax PE  
+             
+           The lifetime cost of current human immunodeficiency virus care in the United States. Med Care 2006 44 990 997 17063130 
+51 
+            Hutchinson AB  
+            Farnham PG  
+            Dean HD  
+            Ekwueme DU  
+            del Rio C  
+            Kamimoto L  
+             
+           The economic burden of HIV in the United States in the era of highly active antiretroviral therapy: evidence of continuing racial and ethnic differences. J Acquir Immune Defic Syndr 2006 43 451 457 16980906 
+

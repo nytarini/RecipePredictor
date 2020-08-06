@@ -1,0 +1,557 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10157369139703Cell RepCell RepCell reports2211-124727050525483365810.1016/j.celrep.2016.03.026NIHMS768238ArticleERRα Regulated Lactate Metabolism Contributes to Resistance to Targeted Therapies in Breast Cancer Park Sunghee 1Chang Ching-yi 1Safi Rachid 1Liu Xiaojing 1Baldi Robert 1Jasper Jeff S. 1Anderson Grace R. 1Liu Tingyu 1Rathmell Jeffrey C. 1Dewhirst Mark W. 2Wood Kris C. 1Locasale Jason W. 1McDonnell Donald P. 1*1 Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC 277102 Department of Radiation Oncology, Duke University School of Medicine, Durham, NC 27710* To whom correspondence should be addressed: Donald P. McDonnell, donald.mcdonnell@duke.edu, Phone: 919-684-6035, Fax: 919-681-713916 3 2016 31 3 2016 12 4 2016 15 4 2016 15 2 323 335 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Summary
+Imaging studies in animals and in humans have indicated that the oxygenation and nutritional status of solid tumors is dynamic. Further, the extremely low level of glucose within tumors, while reflecting its rapid uptake and metabolism, also suggests that cancer cells must rely on other energy sources in some circumstances. Here we find that some breast cancer cells can switch to utilizing lactate as a primary source of energy, allowing them to survive glucose deprivation for extended periods, and that this activity confers resistance to PI3K/mTOR inhibitors. The nuclear receptor, estrogen-related receptor alpha (ERRα), was shown to regulate the expression of genes required for lactate utilization and isotopomer analysis revealed that genetic or pharmacological inhibition of ERRα activity compromised lactate oxidation. Importantly, ERRα antagonists increased the in vitro and in vivo efficacy of PI3K/mTOR inhibitors, highlighting the potential clinical utility of this drug combination.
+
+
+   Introduction
+Increased glucose uptake and aerobic glycolysis are characteristics of transformed cells that have been exploited in the development of cancer therapeutics (Dang et al., 2011; Warburg et al., 1927). Not generally appreciated, however, is the fact that glucose levels are usually extremely low (&lt;1mM) within solid tumors (Hirayama et al., 2009; Ho et al., 2015; Urasaki et al., 2012). This implies that solid tumors are likely to be in a constant state of metabolic stress and they must have the ability to adapt to alterations in glucose availability. Interestingly, intratumoral levels of lactate (5–10mM) are much higher than glucose in many different tumor types (Kennedy et al., 2013; Schroeder et al., 2005; Walenta et al., 2003). The potential significance of this observation has been highlighted in recent studies which demonstrated that lactate produced by glycolytic cells within the hypoxic regions of tumors, or by cancer associated fibroblasts, can be taken up by cells in more oxygenated regions of the tumor where it is further oxidized to produce ATP (Boidot et al., 2012; Pavlides et al., 2009; Sonveaux et al., 2008). These findings, as well as the results of additional studies, have highlighted the importance of functional mitochondria in cancer pathogenesis (Viale et al., 2015).
+
+Under glucose replete conditions most cancer cells are glycolytic and increases in the demand for ATP production can be met by enhancing glycolytic flux (Pfeiffer et al., 2001). However, the observation that glucose is generally limiting within tumors and that oxygen tension is both spatially and temporally dynamic suggests that the ability to engage mitochondria for energy production in tumors is also likely to be important. Indeed, accumulating evidence suggests that cancer cells utilize both glycolysis and mitochondrial oxidative metabolism to satisfy their metabolic demands (Koppenol et al., 2011; Zu and Guppy, 2004). This conclusion would appear to be at odds with the observation that most cells within tumors are in regions of hypoxia where oxygen-dependent OXPHOS was assumed to be inactive. However, it has been shown that mitochondrial oxidative phosphorylation is active within cells located in environments with oxygen levels as low as 0.5% (Chandel et al., 1996; Rumsey et al., 1990; Weinberg and Chandel, 2015). This suggests that even within hypoxic regions of tumors complete oxidation of glucose (and lactate) are not only possible but also are likely to be important for tumor cell viability.
+
+The observation that mitochondria play a key role in tumorigenesis has driven efforts to identify cancer chemotherapeutics that function by targeting oxidative metabolism (Weinberg and Chandel, 2015). Notable is the interest in the potential anticancer activities of metformin, a widely prescribed anti-diabetic drug that can inhibit complex I within the mitochondrial electron transport chain (ETC) (Dowling et al., 2011; Foretz et al., 2014). Notwithstanding the potential utility of metformin in cancer there is a need for additional therapeutics that interfere with mitochondrial function in a manner that minimizes the impact on normal cells. The Estrogen-Related Receptor alpha (ERRα), a druggable transcription factor that regulates mitochondrial biogenesis and function, is thus a potentially useful therapeutic target.
+
+ERRα is expressed in most cancers and increased activity of this receptor is associated with a negative outcome in breast and ovarian cancers (Chang et al., 2011; Fujimoto et al., 2007; Lam et al., 2014; Suzuki et al., 2004). This transcription factor has been shown to be involved in mitochondrial biogenesis and in the regulation of OXPHOS (Chang et al., 2011; Charest-Marcotte et al., 2010; Huss et al., 2007). Given the restricted nature of its expression, and the subtle phenotypes in animals in which this receptor is ablated, we considered that inhibition of its activity would enable a selective disruption of mitochondrial function in cancer. In this study, it is demonstrated that the ability of breast cancer cells to oxidize lactate is essential for viability under conditions of glucose deprivation and that disruption of mitochondrial function using ERRα antagonists inhibits lactate utilization. It was further demonstrated that most breast cancer cells that actively engage OXPHOS are insensitive to the inhibitory effects of PI3K/mTOR inhibitors but that the efficacy of these targeted therapies can be enhanced by coadministration of an ERRα antagonist. The clinical utility of PI3K inhibitors has been restricted by their dose limiting toxicities (Bendell et al., 2015; Burris et al., 2010). Thus, it was significant that we could show in vivo that the effective dose of select PI3K inhibitors could be reduced using drug regimens that included an ERRα antagonist.
+
+Results
+Evaluation of the impact of lactate metabolism on processes of pathological importance in cellular models of breast cancer
+There is a high level of interest in defining metabolic vulnerabilities in cancers that can be exploited in the development of new therapeutics. Much of this effort has focused on developing strategies to effect a useful inhibition of glycolysis although the recent definition of essential roles for mitochondrial function in cancer pathogenesis has highlighted new opportunities for intervention. Notable is the observation that although cancer cells are avid consumers of glucose, intratumoral levels of glucose are usually exceedingly low (Hirayama et al., 2009). Under these circumstances of low glucose, tumor cells can take up and oxidize lactate (Sonveaux et al., 2008). However, the role(s) that lactate plays in cancer pathogenesis, its metabolic fate, the pathways that regulate its utilization and the impact of manipulating those pathways remain important issues to be addressed.
+
+Considering the paucity of therapeutics available for patients with Triple Negative Breast Cancer (TNBC) we first explored lactate biology in cellular models of this disease. In preliminary studies it was observed that when grown in different concentrations of glucose MDA-MB-436 (MDA436) cells (a model of TNBC) produced lactate but switched from net lactate producers to consumers when glucose was limiting (Figure S1A). The importance of this observation was evaluated by growing MDA436 cells in the presence of different concentrations of glucose in the absence or presence of 10mM sodium lactate and assessing cell growth/viability. As shown in Figure 1A, cell viability was unaffected by lactate in high glucose conditions (12.5mM; standard media conditions). Viability was compromised, however, when cells were grown in lower glucose concentrations but this was mitigated by supplementation with lactate or methyl pyruvate ((MP), a mitochondrial permeable form of pyruvate) (Figure 1A and S1B). Using the same experimental paradigm it was demonstrated that lactate was similarly protective in a large number of cell lines that model different subtypes of breast cancer (Figure 1B and S1C). Annexin V staining of lactate (or MP) treated cells confirms that the protection of cell viability observed can be attributed to reduced apoptosis (Figure 1C and S1D). Not unexpectedly, cellular ATP levels were maintained by lactate supplementation when glucose was withdrawn from cells (Figure 1D). The potential biological significance of these findings was revealed in studies where cells were maintained in the absence or presence of lactate for 6 days (without media change), at which time they were supplemented with glucose. As shown in Figure 1E and S1E, those cells that were maintained in lactate (or MP) were able to proliferate upon glucose refeeding suggesting that lactate serves to maintain cell viability until glucose becomes available.
+
+Lactate serves as a respiratory substrate in cancer cells when glucose is limiting
+Whereas we and others have shown that lactate can serve as a fuel source when glucose is limiting there remains disagreement in the field as to whether it enters the TCA cycle directly or if it must first be converted to glucose through gluconeogenesis (Leithner et al., 2015). Whereas some cancer cells do have the ability to support gluconeogenesis (Chen et al., 2015; Leithner et al., 2015), we demonstrated that the protective effect of lactate (and MP) in MDA436 cells was unaffected by siRNA-mediated knockdown of pyruvate carboxylase, the first anaplerotic enzyme in the gluconeogenic pathway (Figure 2A and S2A). This suggested that pyruvate was serving as a catabolic substrate in glucose deprived cells and that it relied on the activity of the pyruvate dehydrogenase (PDH) complex to enter the TCA cycle. We demonstrated that the PDH complex is active in low glucose conditions (hypophosphorylation at serine 293 of the E1 alpha subunit of the PDH complex) and that it remains active upon the addition of lactate or MP (Figure 2B). It was also shown that the protective effect of lactate on cell viability required PDH activity (Figure 2C and S2B).
+
+Demonstration that 14C-labelled CO2 is released from MDA436 cells that were incubated with [U-14C]-lactate confirms that lactate can enter the TCA cycle (Figure 2D). Further, a previously published survey of [3-13C]-lactate metabolism in vitro and in vivo using NMR also indicated that lactate can be transported into and oxidized in cancer cells (Gallagher et al., 2009; Kennedy et al., 2013). Although confirming that lactate can be utilized, these studies do not provide a quantitative assessment of lactate entry into the TCA cycle; information that would help to evaluate its importance as a respiratory substrate. Thus we undertook a comprehensive isotopomer analysis using [U-13C]-labeled lactate in MDA436 and HCC1937 cells. In MDA436 cells it was determined that that (a) under conditions of glucose deprivation, over 50% of the total cellular pool of TCA cycle intermediates were derived from lactate, (b) alanine, glutamate, and aspartate, amino acids generated from pyruvate or from other TCA cycle intermediates were also heavily enriched with the 13C label, (c) significant labeling of phosphoenolpyruvate (PEP) was observed although fructose 1,6-bisphosphate (FBP), hexose-phosphate (G6P), and glucose (Glu) were almost undetectable (d) pyrimidines (UTP and CTP), derived from aspartate, were also labeled with 13C but no labeling of purines was detected, and (e) only low amounts of the 13C label were incorporated into fatty acids (Figure 2E). Similar results were observed in HCC1937 cells (Figure S2C). Together these data suggest that in the absence of glucose, lactate contributes significantly to the TCA cycle and anaplerosis but does not undergo gluconeogenesis in these model systems.
+
+One question that arises from the results of the studies above is how cancer cells regenerate the NAD+ needed to enable the sustained production of pyruvate from lactate. It was significant therefore, that we determined that the protective effect of lactate in MDA436 cells was reduced by siRNA-mediated knockdown of malate dehydrogenase (MDH1) suggesting that the malate-aspartate shuttle was likely to play a significant role in regenerating the cytosolic NAD+ needed for lactate oxidation (Figure 2F).
+
+Lactate utilization requires glutamine to attenuate ROS production
+The production of mitochondrial ROS is a significant liability of oxidative metabolism in that it can lead to mitochondrial damage, genome instability and contribute to resistance to chemotherapeutics (Liou and Storz, 2010). It was of interest therefore, that we observed significant ROS production in cells grown in no glucose RPMI (containing 2mM glutamine), a likely consequence of the oxidation of endogenous respiratory substrates. Not unexpectedly, ROS was low under the same conditions when cells were supplemented with 12.5mM glucose. Surprisingly, using the same experimental paradigm (RPMI containing 2mM glutamine) lactate was as effective as glucose in suppressing basal ROS production (Figure 3A: left panels). A potential explanation for this observation came from the isotopomer experiments where it was determined that the reduced glutathione (GSH) pool was derived from both 13C-lactate and 13C-glutamine in glucose free conditions raising the possibility that together, lactate and glutamine present in the media, are sufficient to overcome ROS production associated with lactate oxidation (Figure S3A and S3B). To address this possibility we repeated the studies in glutamine free media (Figure 3A: center panels). The informative results of this experiment indicated that whereas glucose alone was capable of suppressing ROS production, lactate, absent glutamine, was unable to achieve the same result. The observation that the addition of GSH obviated the need for glutamine suggests that one of its roles in lactate fueled cells is to contribute reducing equivalents to attenuate ROS production (Figure 3A, right panels). Thus, whereas glutamine is important for anapleurosis and can contribute to cell biomass in proliferating cells through oxidative and reductive carboxylation, it appears that it also plays an essential role in lactate support of cell viability in low glucose conditions. This hypothesis was confirmed in lactate complementation studies where it was demonstrated that the ability of lactate to support cell viability (Figure 3B) and prevent apoptosis (Figure S3C) in the absence of glucose required glutamine or GSH supplementation. It was also demonstrated that removal of glutamine did not decrease lactate oxidation as measured by 14CO2 release from 14C-lactate ruling out the possibility that the failure of lactate alone to rescue cell viability in these assays is a result of the inability of cells to oxidize lactate in the absence of glutamine (Figure 3C). Indeed it was observed that the oxidation of lactate was actually increased when glutamine was absent, a possible consequence of an increase in the amount of lactate that was committed to oxidative metabolism by the TCA cycle/OXPHOS to compensate for the reduced flux of glutamine into this pathway. Similarly, the oxidation of glutamine was increased in cells in the absence of lactate (data not shown).
+
+Inhibition of ERRα attenuates mitochondrial oxidation of lactate
+The ability of breast cancer cells to utilize lactate as a metabolic substrate highlights the potential therapeutic utility of selectively targeting mitochondrial metabolism. This we hypothesized could be accomplished by inhibiting the activity of the Estrogen-Related Receptor alpha (ERRα), an orphan nuclear receptor that is expressed in most cancers that has been shown to play a key role in mitochondrial biogenesis and function (Gaillard et al., 2006). With respect to lactate metabolism it was significant that a reanalysis of the ERRα transcriptome, reported previously (Chang et al., 2011), revealed that the expression of the mRNAs encoding the monocarboxylate transporter 1 (MCT1), lactate dehydrogenase B (LDHB), and proteins involved in both the TCA cycle and OXPHOS were positively regulated by this receptor (Figure 4A, highlighted in red). Thus the impact of modulating ERRα activity on the expression of genes involved in glycolysis, the TCA cycle, OXPHOS and pyruvate metabolism in multiple breast cancer cell lines was undertaken.
+
+Small molecule agonists for ERRα have not yet been identified making it difficult to manipulate the activity of this receptor. However, we have previously demonstrated that this limitation can be circumvented by expressing one of the obligate ERRα coregulators (PGC1α or PGC1β) in target cells (Chang et al., 2011; Gaillard et al., 2006). As PGC1α/β can also serve as coregulators for many other transcription factors the specific role of ERRα as a mediator of the PGC-1α/β induced changes was confirmed using PGC-1α (or PGC-1β) mutants that (a) were engineered to be highly selective for ERRα (2×9) or (b) were unable to interact with any nuclear receptors (L2L3M) (Gaillard et al., 2006). Using these previously validated tools it was demonstrated that PGC1α/ERRα upregulated the expression of most of the genes involved in the TCA cycle, OXPHOS and lactate metabolism in MDA436 cells (Figure 4B and C), and in MDA231 and SKBR3 cells (Figure S4A). Two different siRNAs directed against ERRα were used to demonstrate that this receptor was required for the expression of the implicated genes in MDA436 cells (Figure 4D and E) and in MDA231 cells (Figure S4B). Not surprisingly siRNA-mediated knockdown of ERRα decreased oxygen consumption (Figure S4D) and prevented lactate support of cell viability in low glucose conditions (Figure 4F and S4C). Considering the results of several studies indicating that a significant amount of the ATP generated in cancer cells is derived from mitochondrial oxidative metabolism it was a surprise that ERRα knockdown had no significant effect on cell viability in glucose replete conditions (Figure 4F and S4C). However, it was observed that the decrease in oxygen consumption rate (OCR) observed upon ERRα knockdown was accompanied by an increase in the extracellular acidification rate (ECAR) indicative of increased lactate secretion (Figure S4E and F). This increase in extracellular lactate was likely due to increased glycolysis as treatment of cells with an ERRα antagonist resulted in increased glucose consumption and an increase in lactate production in high glucose media (Figure S4G). Taken together the results of these experiments highlight the direct role of ERRα in glucose/lactate oxidation and how decreased mitochondrial function can be compensated for by increased glycolysis.
+
+Inhibition of mitochondrial metabolism using ERRα antagonists as a therapeutic approach in cancer
+The impact of two, chemically and mechanistically distinct small molecule inhibitors of ERRα (Compound29 (Cpd29) and XCT790) on lactate-mediated rescue of glucose-deprivation induced cell death was assessed. These studies revealed that both Cpd29 (Patch et al., 2011) and XCT790 (Willy et al., 2004) inhibited the ability of lactate (or MP) to support cell viability in no/low glucose conditions (Figure 5A and S5A–C) and attenuated lactate oxidation (Figure 5B). It was also observed that the expression of those genes required for lactate metabolism was also reduced by ERRα inhibition (Figure 5C). As indicated above ERRα likely inhibits several processes that are involved in cancer pathogenesis but it is important to note that treatment with Cpd29 significantly reduced the flux of lactate into the TCA cycle as evidenced by a decrease in the enrichment of 13C-labeled lactate into TCA cycle intermediates (Figure 5D and 5E). Decreased flux of lactate into alanine, glutamate, and aspartate was observed in the Cpd29 treated cells. Interestingly, lactate flux into phosphoenolpyruvate (PEP), serine, and glycine were significantly increased in the presence of Cpd29 (Figure S5D) a result that is consistent with an increase in 13C-labeled pyruvate derived from 13C-lactate (Figure S5E).
+
+One of the most important effects of ERRα antagonism noted in our untargeted metabolite analysis was the reduction in the pool size of both GSH and the GSH precursor (γ-L-glutamyl-L-cysteine) in Cpd29 treated cells (Figure S5F). Although lactate only contributes to about 15% of the total pool of GSH, it was important to note that the flux of 13C lactate into GSH/GSSH was decreased upon ERRα inhibition (Figure S5G). These data suggest that in addition to inhibiting lactate oxidation the cytotoxic activity of Cpd29 in low/no glucose conditions may also be attributable to its ability to interfere with the ability of cells to handle oxidative (ROS) stress.
+
+Whereas there is strong rationale for developing ERRα antagonists for cancer we also wanted to explore additional pharmaceutical approaches that could be used to attenuate the protective activity of lactate in cancer cells. Recently, metformin and other biguanides, which disrupt mitochondrial function, have received considerable attention as potential cancer chemotherapeutics (Foretz et al., 2014). Thus, the ability of metformin to impact lactate dependent support of cell viability in low/no glucose conditions was assessed. The results of this study in MDA436 breast cancer cells indicate that high concentrations of metformin (1mM), but not lower doses (50 µM), were effective in this assay consistent with the findings of others who have reported a similar efficacy for this drug in cell viability assays (Figure S5H). Although in very early development the potential utility of the mitochondrial pyruvate carrier (MPC) inhibitor (Schell et al., 2014), UK5099, was also evaluated and was shown to inhibit lactate mediated cell survival in vitro (Figure S5I). Thus, while metformin and UK5099 have desirable activities the efficacy and elevated expression of ERRα in cancer make antagonists of this receptor attractive for clinical development as cancer therapeutics.
+
+Cells using lactate as a metabolic substrate are resistant to PI3K/mTOR inhibitors
+The anticancer efficacy of PI3K/mTOR inhibitors has been attributed in part to their ability to inhibit glucose uptake and/or metabolism (DeBerardinis et al., 2008). Thus, given the ability of cancer cells to switch between glycolytic and mitochondrial oxidative metabolism, the efficacy of selected inhibitors as a function of the metabolic status of cells was assessed. It was noted that breast cancer cell growth in high glucose media (12.5mM) could be inhibited by BEZ235, GDC0980 (dual PI3K/mTOR inhibitors) or LY294002 and GDC0941 (PI3K inhibitors). However, when lactate was used as the primary metabolic substrate MDA436 cells were completely resistant to these inhibitors (Figure 6A and S6A). A similar impact of lactate on sensitivity to BEZ235 was observed in other breast cancer cell lines evaluated under the same conditions (Figure S6B). The very reproducible increase in cell number observed in PI3K/mTOR inhibitors treated cells in the presence of lactate can be attributed to increased lactate dependent activation of MAPK and to the disruption of the inhibitory feedback of AKT on MAPK upon the addition of PI3K/mTOR inhibitors (our unpublished data). Lactate oxidation was not influenced by the treatment of cells with the selected PI3K/mTOR inhibitors suggesting that by utilizing lactate, cancer cells can bypass the need for glycolysis and are thus less sensitive to PI3K/mTOR inhibitors (Figure 6B). It is thus inferred that ERRα antagonists would block the adaptive responses that enable cells to escape PI3K/mTOR inhibition. As shown, the resistance to BEZ235 or LY294002 observed in breast cancer cells utilizing lactate (Figure 6C and 6D) or MP (Figure S6C) could be attenuated by co-addition of the ERRα antagonist Cpd29. Similar results were found when GDC0980 and GDC0941 were evaluated under the same conditions (Figure S6D and E), and when using a second ERRα antagonist, XCT790 (Figure S6F–I). To confirm that it was the disruption of mitochondrial function and not another component of ERRα biology that was responsible for the killing of cells resistant to PI3K/mTOR inhibitors we demonstrated that metformin and UK5099, at concentrations that blocked lactate utilization, functioned in a similar manner as ERRα antagonists (Figures S6J–L). Extension of these studies revealed that most cells that exhibited a luminal breast cancer phenotype and which expressed PIK3CA mutant (i.e. MCF-7 cells) were exquisitely sensitive to both PI3K/mTOR inhibitors and ERRα antagonists under all conditions examined (Figure S6M and N). However, as with the MDA436 cell model we observed a similar resistance to PI3K/mTOR inhibitors in other cell models of TNBC when propagated in lactate and that this resistance could be abrogated by cotreatment with Cpd29 (Figures S6O and P). It is not clear as yet why the ability to utilize lactate confers upon some cells, but not others, resistance to PI3K/mTOR inhibitors. However these studies do highlight the potential clinical utility of combining ERRα antagonists with a PI3K/mTOR inhibitor in treatments for TNBC and other cancers that are PI3Kwt.
+
+Increased anti-tumor activity by combining an ERRα antagonist with BEZ235
+There are several PI3K/mTOR inhibitors in clinical development for the treatment of a variety of cancers although it is clear that their full potential is likely to be limited by dose-limiting toxicities (Bendell et al., 2015; Burris et al., 2010). Indeed in a pilot study in mice using BEZ235 (30–50mg/kg/d; High dose), a dose that is used in most published studies, we observed profound toxicities consistent with those seen in ongoing clinical trials (Burris et al., 2010). Considering these liabilities it is clear that there is an unmet medical need for combination regimens that can increase the anti-tumor efficacy of PI3K/mTOR inhibitors while sparing other organs/systems. The results of the studies described thus far suggest that inhibition of ERRα function in tumors may result in a significant increase in tumor sensitivity to these targeted therapies. To test this hypothesis the efficacy of a low dose of BEZ235 alone (10mg/kg/d, low dose), or in combination with Cpd29, on the growth of MDA436 xenografts was assessed. The lower dose of BEZ235 used for these studies did not cause any noticeable treatment-related toxicities. As shown, tumor volume (Figure 7A) and final tumor weight (Figure 7B) in both the BEZ235 and Cpd29 treated mice were significantly reduced in comparison to those in the control (vehicle) group. The most important observation was that the combination of BEZ235 and Cpd29 was much more effective than either monotherapy alone. These data provide strong rationale for the development of ERRα antagonists for use in combination therapies for TNBC and possibly other cancers.
+
+Discussion
+The observation that most oncogenes increase glucose uptake and/or utilization supports the strongly held hypothesis that increased reliance on glycolytic metabolism is an inherent property of transformed cells. It has been determined, however, that up to 90% of the ATP generated within some cancer cells is produced by mitochondria and that complete oxidation of glucose can occur in as low as 0.5% oxygen (Chandel et al., 1996; Rumsey et al., 1990; Zu and Guppy, 2004). The results of the studies presented herein indicate that intact mitochondrial function, and the ability to oxidize lactate, confers upon breast cancer cells the ability to survive under glucose limiting conditions. Notably, inhibition of ERRα (using antagonists or siRNAs), or complex I (using metformin) have minimal effects on cell growth/viability in glucose replete conditions but induce substantial apoptosis in cells when grown at concentrations of glucose that exist in tumors. It was further demonstrated that the ability to switch from glucose to lactate as a respiratory substrate has a significant impact on the efficacy of some drugs. Most significant was the observation that PI3K or dual PI3K/mTOR inhibitors are without effect in breast cancer cells when glucose is limiting and cells are forced to oxidize lactate. These findings are in line with those of others which have indicated that resistance to (a) inhibition of Kras pathway in pancreatic cancer (Viale et al., 2014) (b) BRAF inhibitors in melanoma (Haq et al., 2013) and (c) oxaliplatin and 5-fluorouracil in colon cancer (Vellinga et al., 2015) is associated with a shift to oxidative metabolism.
+
+Lactate has been an enigmatic molecule in cancer biology and it remains unclear how it contributes to the pathobiology of tumors. Given that its production increases intratumoral acidification it has been proposed that it is a liability to tumors a conclusion that is supported by the observation that most tumors express carbonic anhydrase IX (Swietach et al., 2007). However, the acidification in tumors is no different from that which occurs in exercising muscle where it has no deleterious effects but rather may encourage a shift from glucose to fatty acid metabolism (Philp et al., 2005). Indeed our studies suggest that the ability to produce and maintain the local concentration of lactate may be beneficial to the viability of the tumor. This contention is supported by the observation that under conditions of glucose deprivation lactate can be completely oxidized by cancer cells, entering the TCA cycle and sustaining ATP levels. Importantly, no evidence for lactate-supported gluconeogenesis was observed in our isotopomer analysis; furthermore, knockdown of pyruvate carboxylase did not attenuate the protective effect of lactate. It is important to note that lactate supplementation did not protect against cell death in all cancer cells examined in this study. We have as yet been unable to define the specific pathways, proteins or processes that confer upon cells the ability to utilize lactate as a sole carbon source in glucose deprived conditions. However, we have found that lactate utilization requires GSH and thus it may be differences in the ability to produce the reducing equivalents needed to accommodate the ROS production associated with increased oxidation that determines whether or not lactate can be utilized by cancer cells.
+
+Our studies have focused primarily on lactate as a fuel source in cancer cells although the work of others has indicated that it may also play a role as a signaling molecule. Recent work has shown that lactate is a ligand for GPR81, a G protein-coupled receptor that is expressed in some cancer cell lines and in pancreatic tumors whose activation leads to increased expression of the monocarboxylate transporters and increased lactate uptake (Roland et al., 2014). We did not find appreciable expression of this receptor in the cellular models that were used in our studies and thus believe that this aspect of lactate biology is distinct from that which we have described.
+
+In addition to supporting lactate oxidation mitochondrial activity contributes to cancer pathogenesis by supporting glutaminolysis, fatty acid oxidation and by regulating autophagy (Guo and White, 2013; Wise et al., 2008). Cumulatively, these findings reinforce the importance of the mitochondria as a therapeutic target in cancer. Indeed, metformin, a safe and well-tolerated medication and an inhibitor of mitochondrial complex I, inhibits tumor growth in animals and is currently being explored as a cancer therapeutic albeit at doses higher than those used for the management of type II diabetes (Wheaton et al., 2014). Our data suggests that small molecule antagonists of ERRα may be another useful way to inhibit mitochondrial function in cancer cells. This conclusion is supported by the observation that (a) ERRα expression and activity is elevated in tumors, (b) the phenotypes manifest in ERRα knockout in mice are subtle, and (c) the existing ERRα antagonists are well tolerated in animals. It has been suggested previously that ERRα may regulate the expression of genes involved in glycolysis explaining some of the beneficial activity of ERRα antagonists (Charest-Marcotte et al., 2010). However, this was not observed in the cellular models we studied and indeed we noticed a small but robust increase in glycolysis upon administration of ERRα antagonists, an effect that we have ascribed to a compensatory increase in glycolysis. This conclusion is in line with the findings of others, which revealed that cells can revert to glycolytic energy metabolism upon the inhibition of PGC1α expression in cellular models of melanoma and colon cancer (Lim et al., 2014; Vellinga et al., 2015). Thus, we believe that ERRα antagonists, while influencing multiple aspects of tumor biology, can also function as cancer cell selective inhibitors of mitochondrial metabolism but they may also have to be used in combination with other agents that target glycolysis.
+
+One of the most remarkable findings in this study was that when utilizing lactate some breast cancer cells were found to be completely insensitive to the actions of PI3K and dual PI3K/mTOR inhibitors suggesting that by relying more on oxidative, as opposed to glycolytic metabolism, cells can by-pass the inhibitory activity of targeted therapies. It was of particular interest that we observed that cells expressing PIK3CA mutations were exquisitely sensitive to these inhibitors regardless of whether they were grown in glucose or lactate. However, in cells expressing PI3Kwt, sensitivity was only apparent in high glucose conditions. This finding may explain in part the heterogeneous response to this class of agents that has been observed in clinical trials. We conclude that (1) metabolic flexibility limits the effectiveness of interventions that target specific aspects of metabolism, (2) metabolic heterogeneity will likely impact response to drugs that inhibit oncogenes/signaling pathways that target glycolysis, and (3) the evaluation of drug efficacy in idealized metabolic conditions in vitro has significant limitations. In conclusion, the studies presented indicate that like in other metabolically active tissues lactate is an important respiratory substrate and the ability to use it efficiently confers a growth advantage upon tumors.
+
+Experimental Procedures
+Detailed experimental procedures, cell lines and reagents used in this study are provided in Supplemental Experimental Procedures.
+
+Proliferation Assays
+MDA436 (9,000 cells/well) were seeded in 96-well plates containing regular RPMI (8% FBS and 2mM glutamine) for 48hrs and subsequently replaced with glucose-free RPMI (10% dialyzed FBS and 2mM glutamine) supplemented with 10mM sodium lactate or methyl pyruvate (time zero). Cells were harvested 2, 4, 6, 8, or 10 days after treatment. Cell numbers were determined by staining with the DNA dye Hoechst 33258 (Sigma) and resulting fluorescence was read at excitation 346nm and emission 460nm using a Fusion microplate reader (PerkinElmer, Waltham, MA).
+
+Xenograft Experiments
+Animals were maintained in accordance with the National Institute of Health Guide for Care and Use of Laboratory Animals, and all procedures were approved by the Duke University Institutional Animal Care and Use Committees. MDA436 cells (2.5 × 106) in 50% Matrigel (BD Biosciences) were injected into the mammary fat pad of 8-week old female NOD.SCID.gamma (NSG) mice. When tumors reached 150mm3, mice were randomized and treated once daily by oral gavage with vehicle (10% NMP, 90% PEG300), BEZ235 (10mg/kg/day), Cpd29 (30mg/kg/day) or in combination. All drugs were solubilized in one volume of N-methylpyrrolidone (NMP) and nine volumes of PEG300. Tumor size was measured with calipers three times a week, and tumor volume was calculated as (width2 × length)/2. Statistical comparison among groups was carried out using two-way ANOVA followed by a Bonferroni multiple comparison test.
+
+U-13C lactate and U-13C glutamine isotopomer analysis
+MDA436 (3.5 × 105 cells/well) or HCC1937 (3 × 105 cells/well) cells were seeded in 6-well plates containing regular RPMI for 48hrs and then replaced with glucose-free RPMI (10% dialyzed FBS and 2mM glutamine) supplemented with 10mM sodium lactate. After incubation at 37°C for 40 hrs, cells were was hed with PBS. Glucose-free RPMI (10% dialyzed FBS and 2mM glutamine) containing 10 mM [U-13C] lactate or glucose and glutamine-free DMEM (10% dialyzed FBS) containing 10mM sodium lactate and 2mM [U-13C] glutamine was then added. After 6 and 24 hrs, the metabolites were extracted as described previously (Liu et al., 2014).
+
+Supplementary Material
+1  2  This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+
+          Author Contributions
+        
+
+S.P., C.Y.C. and D.P.M. designed the experiments. R.S. performed and analyzed ROS and apoptosis assay. R.B. provided technical assistance. J.J. performed bioinformatics analysis. X.Y. and J.W.L. performed metabolomics. T.L. and J.R. helped with lactate oxidation experiment. G.R.A. and K.R.W. assisted in drug resistance screening. S.P. performed and analyzed the majority of the experiments and C.Y.C. and M.W.D provided critical intellectual contributions throughout the project. S.P. and D.P.M. wrote the manuscript with input from all authors.
+
+We would like to thank Dr. Erik Nelson for technical help and advice with the xenograft experiments; Dr. Gayathri Devi for providing the SUM149PT cell line; Kelly M. Kennedy for discussion and advice. We also appreciate the useful discussion and assistance from members of the McDonnell lab. This work was supported by R01CA174643 (DPM), UL1TR001117 (DPM), R01DK105550 (JCR), R00CA168997 (JWL), R01CA193256 (JWL) and a Susan G. Komen Fellowship PDF12227913 (SP).
+
+Figure 1 Lactate enables cancer cells to withstand glucose deprivation
+(A) MDA436 cells were seeded in 96-well plates and 48 hrs later were changed to the media as indicated. Cells were then harvested at the time points indicated and cell numbers were determined by staining with Hoechst 33258. (B) Cells were seeded in 96-well plates and 48 hrs later were changed to glucose-free media supplemented with (Lac) or without (Veh) 10mM sodium lactate. Cells were then harvested and cell number was determined by staining with the DNA dye Hoechst 33258. (C) MDA436 cells were incubated with vehicle (Veh) or 10mM sodium lactate (Lac) in glucose-free RPMI media for 24 hrs. Harvested cells were stained with Alexa Fluor 488-AnnexinV+Sytox Red dye, and analyzed by flow cytometry. (D) ATP content was determined over time in MDA436 cells cultured in the indicated media using a bioluminescence assay. Error bars represent S.D. Statistical significance No Glc vs. No Glc+Lac (**, P &lt; 0.05). (E) MDA436 cells were cultured in glucose-free media supplemented with or without 10mM sodium lactate for 6 days and vehicle (Veh; media) or glucose (Glc; final 12.5mM) was added back to culture media at day 6 and harvested on days as indicated. Cell number was determined by staining Hoechst 33258.
+
+Figure 2 Lactate is oxidized by cancer cells
+(A) MDA436 cells were transfected with control (siCtrl), PC (siPC-B and siPC-C), or (C) PDHA-1 (siPDHA1-A and siPDHA1-B) siRNAs for 48hrs. Cells were then switched to glucose-free media with or without Lac and harvested as indicated. Cell numbers were determined by staining with the DNA dye Hoechst 33258. PDHA1: pyruvate dehydrogenase alpha 1, PC: pyruvate carboxylase. (B) MDA436 cells were incubated in the indicated media for 4 hrs and whole-cell extracts were analyzed by immunoblotting to determine the status of PDH phosphorylation by PDH-E1α (pSer293) antibody. Total PDH-E1α was used as a loading control. (D) Isotopically labeled lactate was added to MDA436 cells that were grown in glucose-free media supplemented with 10mM sodium lactate for 24 hrs and the generation of 14CO2 from [U-14C]-lactate was measured. A cell-free sample containing [U-14C]-lactate was included as a negative control (N.Ctrl). (E) Relative metabolite abundance in MDA436 cells grown in glucose-free media supplemented with 10mM of [U-13C]-lactate for 6 hrs. Data are presented as a relative amount of 13C-labeled metabolite pool. Error bars represent S.D. of three experimental replicates. (F) A schematic representation of malate-aspartate shuttle (left). MDA436 cells were transfected with control (siCtrl) or MDH1 (siMDH1-A and siMDH1-B) siRNAs for 48hrs. Cells were then switched to glucose-free media with or without Lac and harvested on days as indicated (right).
+
+Figure 3 Lactate utilization requires glutamine to protect cells from ROS
+(A) MDA436 cells were incubated with glucose and glutamine-free DMEM (10% dialyzed FBS) supplemented with vehicle (No Lac), glucose (Glc), or lactate (Lac) alone or in combination with either GSH or glutamine (Gln) for 24hrs. Cells were then incubated with CM-H2DCFDA for 60 mins and the intensity of fluorescence was measured using flow cytometry. (B) MDA436 cells were seeded in 96-well plates and 48 hrs later were changed to glucose and glutamine-free DMEM (10% dialyzed FBS) supplemented with vehicle (Veh; media), 10mM lactate (Lac), 2mM glutamine (Gln), 10mM glutathione reduced (GSH), or in combination. Cells were then harvested on days as shown and cell numbers were determined by staining with the DNA dye Hoechst 33258. (C) The generation of 14CO2 from [U-14C]-lactate was measured from MDA436 cells grown in the media as shown for 24 hrs. The data shown is representative of three independent experiments. Error bars represent S.D. Statistical significance Lac vs. Lac+Gln (**, P &lt; 0.05).
+
+Figure 4 PGC1α/ERRα regulate lactate oxidation
+(A) ERRα target genes involved in lactate oxidation. (B and C) MDA436 cells were infected with adenoviruses expressing β-gal (negative control), wild-type PGC-1α, ERRα selective PGC-1α (2×9), or the nuclear receptor-binding deficient PGC-1α (L2L3M) for 48 hrs. RNA and protein were analyzed by qRT-PCR and immnuoblotting. (D) MDA436 cells were transfected with either control (siCtrl) or ERRα (siERRα-A and siERRα-B) siRNAs for 24 hrs, followed by infection of adenoviruses expressing β-gal (negative control), wild-type PGC-1α, ERRα selective PGC-1α (2×9), or the nuclear receptor-binding deficient PGC-1α (L2L3M) for 48 hrs. The qRT-PCR data were normalized to expression of 36B4. Heat maps were derived from qRT-PCR data using R software. (E) MDA436 cells were infected as in (Figure 4D) and whole-cell extracts were analyzed by immunoblotting to determine the expression of PGC-1α and ERRα. β-actin was used as a loading control. (F) MDA436 cells were transfected with either control (siCtrl) or ERRα (siERRα) siRNA for 48 hrs and cells were then changed to the indicated experimental media with or without 10mM sodium lactate. Cells were harvested on days as shown and cell numbers were determined by staining with Hoechst 33258.
+
+Figure 5 Pharmacological inhibition of ERRα impairs lactate oxidation
+(A) MDA436 cells were cultured in the indicated media in the presence of Cpd29 and harvested on days as shown and cell numbers were determined. (B) The generation of 14CO2 from [U-14C]-lactate was measured from MDA436 cells cultured in glucose-free media containing [U-14C]-lactate for 24 hrs in the absence (DMSO) or presence of Cpd29. The data shown is representative of two independent experiments. Error bars represent S.D. Statistical significance DMSO vs. Cpd29 (**, P &lt; 0.05). (C) MDA436 cells were pre-treated with DMSO or Cpd29 for 24 hrs in 12.5mM glucose containing media and changed to glucose-fee media containing 10mM lactate. RNA was harvested 14, 24, and 48 hrs later and the expression of ERRα target genes was analyzed by qRT-PCR. Heat maps were generated using R software. (D) A schematic representation of 13C-lactate incorporation into TCA cycle intermediates. Black and red circles represent 12C and 13C, respectively. (E) Mass isotopomer distribution of the TCA cycle intermediates in MDA436 cells pre-treated with DMSO or Cpd29 for 40 hrs in 12.5mM glucose containing media and changed to glucose-fee media containing 10mM [U-13C]-lactate for 6 and 24 hrs. Error bars represent S.D. of three experimental replicates. Statistical significance Veh vs. Cpd29 (**, P &lt; 0.05).
+
+Figure 6 Cancer cells are resistant to PI3K/mTOR inhibitors when utilizing lactate
+(A) MDA436 cells were cultured in 12.5mM glucose containing media or glucose-free media supplemented with 10mM lactate for 4 days in the presence of PI3K/mTOR and PI3K inhibitors. BEZ235: PI3K/mTOR inhibitor (0.5µM), GDC0980: PI3K/mTOR inhibitor (0.5µM), LY294002: PI3K inhibitor (10µM), GDC0941: PI3K inhibitor (0.5µM). Error bars represent S.D. (B) The generation of 14CO2 from [U-14C]-lactate was measured from MDA436 cells treated with DMSO, 0.5µM BEZ235, and 10µM LY294002 for 24 hrs. The data shown is representative of two independent experiments. Error bars represent S.D. MDA436 cells cultured in glucose-free media containing 10mM lactate were treated with ERRα antagonist Cpd29 or BEZ235 (C) or LY294002 (D) alone or in combination for 14 days. Cell numbers were determined by staining with Hoechst 33258.
+
+Figure 7 Analysis of ERRα antagonist/ BEZ235 combinations in animal models of breast cancer
+(A) Animals bearing MDA436 xenografts were treated with Cpd29 (30mg/kg/day), BEZ235 (10mg/kg/day), or the combination and tumor volume was measured during the course of the experiment. (B) Tumor weight was measured at the termination of the experiment. Data are mean of tumor volume in each experimental group (n=12 per group); error bars represent SEM. Statistical significance from single agent alone (**, P &lt; 0.05).
+
+Highlights
+Oxidation of lactate allows breast cancer cells to withstand fluctuations in glucose availability
+
+ERRα antagonists disrupt mitochondrial function, inhibit lactate utilization and compromise cancer cell viability
+
+Breast cancer cells utilizing lactate are insensitive to PI3K/mTOR inhibitors
+
+ERRα antagonists increase the activity of clinically relevant PI3K/mTOR inhibitors
+
+
+   References
+
+            Bendell JC  
+            Kurkjian C  
+            Infante JR  
+            Bauer TM  
+            Burris HA  
+            Greco FA  
+            Shih KC  
+            Thompson DS  
+            Lane CM  
+            Finney LH  
+            Jones SF 3rd  
+           A phase 1 study of the sachet formulation of the oral dual PI3K/mTOR inhibitor BEZ235 given twice daily (BID) in patients with advanced solid tumors Invest New Drugs 2015 33 463 471 25707361 
+
+            Boidot R  
+            Vegran F  
+            Meulle A  
+            Le Breton A  
+            Dessy C  
+            Sonveaux P  
+            Lizard-Nacol S  
+            Feron O  
+           Regulation of monocarboxylate transporter MCT1 expression by p53 mediates inward and outward lactate fluxes in tumors Cancer Res 2012 72 939 948 22184616 
+
+            Burris H  
+            Rodon J  
+            Sharma S  
+            Herbst RS  
+            Tabernero J  
+            Infante JR  
+            Silva A  
+            Demanse D  
+            Hackl W  
+            Baselga J  
+           First-in-human phase I study of the oral PI3K inhibitor BEZ235 in patients (pts) with advanced solid tumors J Clin Oncol 2010 28 
+
+            Chandel NS  
+            Budinger GR  
+            Schumacker PT  
+           Molecular oxygen modulates cytochrome c oxidase function J Biol Chem 1996 271 18672 18677 8702521 
+
+            Chang CY  
+            Kazmin D  
+            Jasper JS  
+            Kunder R  
+            Zuercher WJ  
+            McDonnell DP  
+           The metabolic regulator ERRalpha, a downstream target of HER2/IGF-1R, as a therapeutic target in breast cancer Cancer Cell 2011 20 500 510 22014575 
+
+            Charest-Marcotte A  
+            Dufour CR  
+            Wilson BJ  
+            Tremblay AM  
+            Eichner LJ  
+            Arlow DH  
+            Mootha VK  
+            Giguere V  
+           The homeobox protein Prox1 is a negative modulator of ERR{alpha}/PGC-1{alpha} bioenergetic functions Genes Dev 2010 24 537 542 20194433 
+
+            Chen J  
+            Lee HJ  
+            Wu X  
+            Huo L  
+            Kim SJ  
+            Xu L  
+            Wang Y  
+            He J  
+            Bollu LR  
+            Gao G  
+             
+           Gain of glucose-independent growth upon metastasis of breast cancer cells to the brain Cancer Res 2015 75 554 565 25511375 
+
+            Dang CV  
+            Hamaker M  
+            Sun P  
+            Le A  
+            Gao P  
+           Therapeutic targeting of cancer cell metabolism J Mol Med (Berl) 2011 89 205 212 21301795 
+
+            DeBerardinis RJ  
+            Lum JJ  
+            Hatzivassiliou G  
+            Thompson CB  
+           The biology of cancer: metabolic reprogramming fuels cell growth and proliferation Cell Metab 2008 7 11 20 18177721 
+
+            Dowling RJ  
+            Goodwin PJ  
+            Stambolic V  
+           Understanding the benefit of metformin use in cancer treatment BMC Med 2011 9 33 21470407 
+
+            Foretz M  
+            Guigas B  
+            Bertrand L  
+            Pollak M  
+            Viollet B  
+           Metformin: from mechanisms of action to therapies Cell Metab 2014 20 953 966 25456737 
+
+            Fujimoto J  
+            Alam SM  
+            Jahan I  
+            Sato E  
+            Sakaguchi H  
+            Tamaya T  
+           Clinical implication of estrogen-related receptor (ERR) expression in ovarian cancers J Steroid Biochem Mol Biol 2007 104 301 304 17509876 
+
+            Gaillard S  
+            Grasfeder LL  
+            Haeffele CL  
+            Lobenhofer EK  
+            Chu TM  
+            Wolfinger R  
+            Kazmin D  
+            Koves TR  
+            Muoio DM  
+            Chang CY  
+            McDonnell DP  
+           Receptor-selective coactivators as tools to define the biology of specific receptor-coactivator pairs Mol Cell 2006 24 797 803 17157261 
+
+            Gallagher CN  
+            Carpenter KL  
+            Grice P  
+            Howe DJ  
+            Mason A  
+            Timofeev I  
+            Menon DK  
+            Kirkpatrick PJ  
+            Pickard JD  
+            Sutherland GR  
+            Hutchinson PJ  
+           The human brain utilizes lactate via the tricarboxylic acid cycle: a 13C–labelled microdialysis and high-resolution nuclear magnetic resonance study Brain 2009 132 2839 2849 19700417 
+
+            Guo JY  
+            White E  
+           Autophagy is required for mitochondrial function, lipid metabolism, growth, and fate of KRAS(G12D)-driven lung tumors Autophagy 2013 9 1636 1638 23959381 
+
+            Haq R  
+            Shoag J  
+            Andreu-Perez P  
+            Yokoyama S  
+            Edelman H  
+            Rowe GC  
+            Frederick DT  
+            Hurley AD  
+            Nellore A  
+            Kung AL  
+             
+           Oncogenic BRAF regulates oxidative metabolism via PGC1alpha and MITF Cancer Cell 2013 23 302 315 23477830 
+
+            Hirayama A  
+            Kami K  
+            Sugimoto M  
+            Sugawara M  
+            Toki N  
+            Onozuka H  
+            Kinoshita T  
+            Saito N  
+            Ochiai A  
+            Tomita M  
+             
+           Quantitative metabolome profiling of colon and stomach cancer microenvironment by capillary electrophoresis time-of-flight mass spectrometry Cancer Res 2009 69 4918 4925 19458066 
+
+            Ho PC  
+            Bihuniak JD  
+            Macintyre AN  
+            Staron M  
+            Liu X  
+            Amezquita R  
+            Tsui YC  
+            Cui G  
+            Micevic G  
+            Perales JC  
+             
+           Phosphoenolpyruvate Is a Metabolic Checkpoint of Anti-tumor T Cell Responses Cell 2015 162 1217 1228 26321681 
+
+            Huss JM  
+            Imahashi K  
+            Dufour CR  
+            Weinheimer CJ  
+            Courtois M  
+            Kovacs A  
+            Giguere V  
+            Murphy E  
+            Kelly DP  
+           The nuclear receptor ERRalpha is required for the bioenergetic and functional adaptation to cardiac pressure overload Cell Metab 2007 6 25 37 17618854 
+
+            Kennedy KM  
+            Scarbrough PM  
+            Ribeiro A  
+            Richardson R  
+            Yuan H  
+            Sonveaux P  
+            Landon CD  
+            Chi JT  
+            Pizzo S  
+            Schroeder T  
+            Dewhirst MW  
+           Catabolism of exogenous lactate reveals it as a legitimate metabolic substrate in breast cancer PLoS One 2013 8 e75154 24069390 
+
+            Koppenol WH  
+            Bounds PL  
+            Dang CV  
+           Otto Warburg’s contributions to current concepts of cancer metabolism Nat Rev Cancer 2011 11 325 337 21508971 
+
+            Lam SS  
+            Mak AS  
+            Yam JW  
+            Cheung AN  
+            Ngan HY  
+            Wong AS  
+           Targeting estrogen-related receptor alpha inhibits epithelial-to-mesenchymal transition and stem cell properties of ovarian cancer cells Mol Ther 2014 22 743 751 24419103 
+
+            Leithner K  
+            Hrzenjak A  
+            Trotzmuller M  
+            Moustafa T  
+            Kofeler HC  
+            Wohlkoenig C  
+            Stacher E  
+            Lindenmann J  
+            Harris AL  
+            Olschewski A  
+            Olschewski H  
+           PCK2 activation mediates an adaptive response to glucose depletion in lung cancer Oncogene 2015 34 1044 1050 24632615 
+
+            Lim JH  
+            Luo C  
+            Vazquez F  
+            Puigserver P  
+           Targeting mitochondrial oxidative metabolism in melanoma causes metabolic compensation through glucose and glutamine utilization Cancer Res 2014 74 3535 3545 24812272 
+
+            Liou GY  
+            Storz P  
+           Reactive oxygen species in cancer Free Radic Res 2010 44 479 496 20370557 
+
+            Liu X  
+            Ser Z  
+            Locasale JW  
+           Development and quantitative evaluation of a high-resolution metabolomics technology Anal Chem 2014 86 2175 2184 24410464 
+
+            Patch RJ  
+            Searle LL  
+            Kim AJ  
+            De D  
+            Zhu X  
+            Askari HB  
+            O’Neill JC  
+            Abad MC  
+            Rentzeperis D  
+            Liu J  
+             
+           Identification of diaryl ether-based ligands for estrogen-related receptor alpha as potential antidiabetic agents J Med Chem 2011 54 788 808 21218783 
+
+            Pavlides S  
+            Whitaker-Menezes D  
+            Castello-Cros R  
+            Flomenberg N  
+            Witkiewicz AK  
+            Frank PG  
+            Casimiro MC  
+            Wang C  
+            Fortina P  
+            Addya S  
+             
+           The reverse Warburg effect: aerobic glycolysis in cancer associated fibroblasts and the tumor stroma Cell Cycle 2009 8 3984 4001 19923890 
+
+            Pfeiffer T  
+            Schuster S  
+            Bonhoeffer S  
+           Cooperation and competition in the evolution of ATP-producing pathways Science 2001 292 504 507 11283355 
+
+            Philp A  
+            Macdonald AL  
+            Watt PW  
+           Lactate--a signal coordinating cell and systemic function J Exp Biol 2005 208 4561 4575 16326938 
+
+            Roland CL  
+            Arumugam T  
+            Deng D  
+            Liu SH  
+            Philip B  
+            Gomez S  
+            Burns WR  
+            Ramachandran V  
+            Wang H  
+            Cruz-Monserrate Z  
+            Logsdon CD  
+           Cell surface lactate receptor GPR81 is crucial for cancer cell survival Cancer Res 2014 74 5301 5310 24928781 
+
+            Rumsey WL  
+            Schlosser C  
+            Nuutinen EM  
+            Robiolio M  
+            Wilson DF  
+           Cellular energetics and the oxygen dependence of respiration in cardiac myocytes isolated from adult rat J Biol Chem 1990 265 15392 15402 2394731 
+
+            Schell JC  
+            Olson KA  
+            Jiang L  
+            Hawkins AJ  
+            Van Vranken JG  
+            Xie J  
+            Egnatchik RA  
+            Earl EG  
+            DeBerardinis RJ  
+            Rutter J  
+           A role for the mitochondrial pyruvate carrier as a repressor of the Warburg effect and colon cancer cell growth Mol Cell 2014 56 400 413 25458841 
+
+            Schroeder T  
+            Yuan H  
+            Viglianti BL  
+            Peltz C  
+            Asopa S  
+            Vujaskovic Z  
+            Dewhirst MW  
+           Spatial heterogeneity and oxygen dependence of glucose consumption in R3230Ac and fibrosarcomas of the Fischer 344 rat Cancer Res 2005 65 5163 5171 15958560 
+
+            Sonveaux P  
+            Vegran F  
+            Schroeder T  
+            Wergin MC  
+            Verrax J  
+            Rabbani ZN  
+            De Saedeleer CJ  
+            Kennedy KM  
+            Diepart C  
+            Jordan BF  
+             
+           Targeting lactate-fueled respiration selectively kills hypoxic tumor cells in mice J Clin Invest 2008 118 3930 3942 19033663 
+
+            Suzuki T  
+            Miki Y  
+            Moriya T  
+            Shimada N  
+            Ishida T  
+            Hirakawa H  
+            Ohuchi N  
+            Sasano H  
+           Estrogen-related receptor alpha in human breast carcinoma as a potent prognostic factor Cancer Res 2004 64 4670 4676 15231680 
+
+            Swietach P  
+            Vaughan-Jones RD  
+            Harris AL  
+           Regulation of tumor pH and the role of carbonic anhydrase 9 Cancer Metastasis Rev 2007 26 299 310 17415526 
+
+            Urasaki Y  
+            Heath L  
+            Xu CW  
+           Coupling of glucose deprivation with impaired histone H2B monoubiquitination in tumors PLoS One 2012 7 e36775 22615809 
+
+            Vellinga TT  
+            Borovski T  
+            de Boer VC  
+            Fatrai S  
+            van Schelven S  
+            Trumpi K  
+            Verheem A  
+            Snoeren N  
+            Emmink BL  
+            Koster J  
+             
+           SIRT1/PGC1alpha-Dependent Increase in Oxidative Phosphorylation Supports Chemotherapy Resistance of Colon Cancer Clin Cancer Res 2015 21 2870 2879 25779952 
+
+            Viale A  
+            Corti D  
+            Draetta GF  
+           Tumors and Mitochondrial Respiration: A Neglected Connection Cancer Res 2015 
+
+            Viale A  
+            Pettazzoni P  
+            Lyssiotis CA  
+            Ying H  
+            Sanchez N  
+            Marchesini M  
+            Carugo A  
+            Green T  
+            Seth S  
+            Giuliani V  
+             
+           Oncogene ablation-resistant pancreatic cancer cells depend on mitochondrial function Nature 2014 514 628 632 25119024 
+
+            Walenta S  
+            Chau TV  
+            Schroeder T  
+            Lehr HA  
+            Kunz-Schughart LA  
+            Fuerst A  
+            Mueller-Klieser W  
+           Metabolic classification of human rectal adenocarcinomas: a novel guideline for clinical oncologists? J Cancer Res Clin Oncol 2003 129 321 326 12827509 
+
+            Warburg O  
+            Wind F  
+            Negelein E  
+           The Metabolism of Tumors in the Body J Gen Physiol 1927 8 519 530 19872213 
+
+            Weinberg SE  
+            Chandel NS  
+           Targeting mitochondria metabolism for cancer therapy Nat Chem Biol 2015 11 9 15 25517383 
+
+            Wheaton WW  
+            Weinberg SE  
+            Hamanaka RB  
+            Soberanes S  
+            Sullivan LB  
+            Anso E  
+            Glasauer A  
+            Dufour E  
+            Mutlu GM  
+            Budigner GS  
+            Chandel NS  
+           Metformin inhibits mitochondrial complex I of cancer cells to reduce tumorigenesis eLife 2014 3 e02242 24843020 
+
+            Willy PJ  
+            Murray IR  
+            Qian J  
+            Busch BB  
+            Stevens WC  
+            Martin R  
+            Mohan R  
+            Zhou S  
+            Ordentlich P  
+            Wei P Jr  
+             
+           Regulation of PPARgamma coactivator 1alpha (PGC-1alpha) signaling by an estrogen-related receptor alpha (ERRalpha) ligand Proc Natl Acad Sci U S A 2004 101 8912 8917 15184675 
+
+            Wise DR  
+            DeBerardinis RJ  
+            Mancuso A  
+            Sayed N  
+            Zhang XY  
+            Pfeiffer HK  
+            Nissim I  
+            Daikhin E  
+            Yudkoff M  
+            McMahon SB  
+            Thompson CB  
+           Myc regulates a transcriptional program that stimulates mitochondrial glutaminolysis and leads to glutamine addiction Proc Natl Acad Sci U S A 2008 105 18782 18787 19033189 
+
+            Zu XL  
+            Guppy M  
+           Cancer metabolism: facts, fantasy, and fiction Biochem Biophys Res Commun 2004 313 459 465 14697210 
+

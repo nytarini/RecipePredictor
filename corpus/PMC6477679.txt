@@ -1,0 +1,365 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   90096441090EpidemiologyEpidemiologyEpidemiology (Cambridge, Mass.)1044-39831531-548723903878647767910.1097/EDE.0b013e31829d5c93NIHMS1022924ArticlePrenatal methylmercury exposure and genetic predisposition to cognitive deficit at age 8 years Julvez Jordi ab1Smith George Davey cGolding Jean dRing Susan ePourcain Beate St. cGonzalez Juan Ramon bGrandjean Philippe afa Department of Environmental Health, Harvard School of Public Health. 401 Park Drive Landmark Center Room 3-110 East, Boston, Massachusetts 02215, USA.b Centre for Research in Environmental Epidemiology, Doctor Aiguader 88, E-08003 Barcelona, Catalonia, Spain.c MRC Centre for Causal Analyses in Translational Epidemiology, University of Bristol. Oakfield House, Oakfield Grove, Bristol BS8 2BN, UK.d Centre for Child and Adolescent Health, University of Bristol, Oakfield House, Oakfield Grove, Bristol BS8 2BN, UK.e School of Social and Community Medicine, University of Bristol. Oakfield House, Oakfield Grove, Bristol BS8 2BN, UK.f Department of Environmental Medicine, University of Southern Denmark, J.B. Winsløws Vej 17, DK-5000, Odense, Denmark.1 Corresponding author. Jordi Julvez, Centre for Research in Environmental Epidemiology-IMIM, C. Doctor Aiguader 88, 08003 Barcelona, Spain. Phone: +34 93 214 73 31. Fax: +34 93 214 73 01., jjulvez@creal.cat.16 4 2019 9 2013 23 4 2019 24 5 643 650 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background:
+Cognitive consequences at school age associated with prenatal methylmercury exposure may need to take into account nutritional and socio-demographic cofactors as well as relevant genetic polymorphisms.
+
+Methods:
+A sub-sample (n = 1311) of the Avon Longitudinal Study of Parents And Children (Bristol, UK) was selected and mercury concentrations were measured in freeze-dried umbilical cord tissue as a measure of methylmercury exposure. A total of 1135 children had available data on 247 single-nucleotide polymorphisms (SNPs) within relevant genes, as well as the Wechsler Intelligence Scale for Children Intelligence Quotient (IQ) scores at age 8 years. Multivariate regression models were used to assess the associations between methylmercury exposure and IQ and to determine possible gene-environment interactions.
+
+Results:
+Mercury concentrations indicated low background exposures (mean = 26 ng/g, standard deviation = 13). Log-10-transformed mercury was positively associated with IQ, which attenuated after adjustment for nutritional and socio-demographic cofactors. In stratified analyses, a reverse association was found in higher social class families (p-value for interaction = 0.0013, performance IQ), among whom there was a wider range of methylmercury exposure. Among 40 SNPs showing nominally significant main effects, methylmercury interactions were detected for rs662 (Paraoxonase 1) and rs1042838 (Progesterone Receptor) (p &lt; 0.05) and for rs3811647 (Transferrin) and rs2049046 (Brain-Derived Neurotrophic Factor) (p &lt; 0.10).
+
+Conclusions:
+In this population with a low level of methylmercury exposure, there were only equivocal associations between methylmercury exposure and adverse neuropsychological outcomes. Heterogeneities in several relevant genes suggest possible genetic predisposition to methylmercury neurotoxicity in a substantial proportion of the population. Future studies need to address this possibility.
+
+
+   In epidemiological studies of developmental neurotoxicity, the outcome, i.e. cognitive function at school age, is affected by multiple genetic, dietary, and environmental factors, thus creating difficulties in assessing the magnitude of the toxic impact of a particular exposure such as methylmercury.1–8 For this reason, an average effect detected in a particular cohort may not be representative of other populations. This paper uses data from a large prospective cohort study to address three sets of issues: negative confounding, heterogeneity in the exposure range, and genetic influences on susceptibility.
+
+Confounding is often assumed to generate or exaggerate associations between the toxicant and adverse outcomes, on the assumption that multiple risk factors are associated with a toxicant exposure. However, toxicant exposures may be associated with a profile of other risk factors, some of which may be beneficial, and negative confounding can occur.9 Human exposure to methylmercury originates mainly from seafood, but dietary intake of contaminated seafood also provides essential nutrients.1,2,4,7,9 As seafood represents an important source of n-3 fatty acids, negative confounding is possible. Several recent analyses based on Faroe and Seychelles cohort data have demonstrated an increase of adverse effects from methylmercury after adjusting for these potentially beneficial factors.1,4,9 Furthermore, socioeconomic factors may be more favorable in mothers who consume more fish, especially larger fish that may contain higher toxicant concentrations.7 If such negative confounding is not taken into account in the data analysis, toxicity may be underestimated. In this regard the precision of the independent variables (both the toxicant exposure and the beneficial dietary factors and other confounders) are of importance. If the toxicant is measured with a greater imprecision than the confounder, the effect of the former will generally be biased toward the null.9–11
+
+Within any given population, the apparent effects of risk factors will not be evenly distributed. Studies of genetic factors in intelligence have shown the strongest effect in upper social strata, where adverse risk factors may be less important than inheritance and more evenly distributed.12 In less advantaged population groups, both beneficial stimuli and other toxic risks may vary much more and will be difficult to adjust for,12–13 thereby creating statistical uncertainty and underestimation of the effect associated with the exposure under study. If ranges of exposures vary between subgroups, the statistical power to detect an effect of the neurotoxicant will also be affected.1
+
+A third concern is that epidemiological studies attempt to measure the average effect of an exposure in the population, thus neglecting the possible existence of more susceptible subgroups. Intelligence is affected by multiple genes,8 and it is possible that some of them may also affect methylmercury metabolism or toxicity.6 Thus, several functional single-nucleotide polymorphisms (SNPs) in genes related to potential biological pathways of methylmercury neurotoxicity have been identified, including those implicated in brain development, neurotransmitter metabolism, cholesterol metabolism, iron regulation and peroxidative defense.6,8
+
+All of these issues are particularly important if the neurotoxicant exposure is measured with substantial imprecision. Methylmercury but not inorganic mercury may pass the placenta,14 and analysis for total mercury in cord blood and cord tissue is therefore a valid biomarker of prenatal methylmercury exposure.15
+
+We have addressed these issues in a subset of the Avon Longitudinal Study of Parents And Children (ALSPAC) with cognitive data from age 8 years, where prenatal methylmercury exposure could be determined from mercury concentrations in cord tissue. We assessed the possible impact on this association by maternal intake of essential nutrients from fish, socioeconomic strata, and genetic heterogeneities of relevant genes.
+
+Material and Methods
+Subject selection
+ALSPAC is an ongoing longitudinal cohort study designed to investigate the determinants of development, health, and disease during childhood and beyond.16–18 Pregnant women with an expected date of delivery between 1 April 1991 and 31 December 1992, resident in the former Avon health authority area in Southwest England, were eligible to participate in the study. A cohort of 14,541 pregnant women was established, resulting in 13,988 children who were alive at 12 months of age. Ethical approval for the study was obtained from the ALSPAC Law and Ethics committee and the three local research-ethics committees. A sub-sample (n = 1,311) was selected to measure mercury concentrations in a slice of umbilical cord. The samples were selected from everyone who had available Genome-Wide Association Study (GWAS) data at that time (3,233 persons) and a cord slice sample of suitable size, thus including 1,311 subjects in total (9 % of the full sample). Within this group, 1,135 children had available data on Wechsler Intelligence Scale for Children (WISC-III) scores. For the total cohort, availability of WISC-III score (n = 7,255, 50 %) was the only study variable showing a difference between the participants (mean, 107) and non-participants (mean, 105). The sample size was reduced to 843 participants in the final models with covariate adjustment.
+
+Mercury Measurement
+Cord samples were taken by the midwife at birth and frozen at −20°C. Samples were defrosted briefly to divide the sample into several 1-cm slices, and then stored at −20. After freeze-drying the cord tissue samples, mercury was determined in duplicate using a Direct Mercury Analyzer (DMA-80, Milestone, Inc., CT) at the University of Southern Denmark. A specimen of about 0.5 gram was weighed into a quartz boat. The sample boat was then placed in the auto-sampler and inserted into the quartz decomposition tube. Once the sample was completely decomposed, mercury trapped on a gold filter was rapidly released by heating the amalgamator. Released mercury was measured by atomic absorption spectroscopy at 253.7 nm as a function of mercury concentration. Samples were analyzed by using a matrix-matched calibration (solid samples) curve created with various weights of certified reference material DOLT-3 (dogfish liver tissue certified reference material for trace metals, National Research Council, Institute of Environmental Chemistry, Ottawa, Canada) containing 3.37 ppm mercury. As calibration verification standards national institute of standard and technology (NIST SRM) 1566b (Oyster tissue) was used. The detection limit for this method is 5 ng/g. In 14 cord tissue samples run in triplicate, the average coefficient of variation was 14.5% at average concentrations between 10.7 ng/g and 164 ng/g (both dry weight).
+
+SNP Genotyping
+Polymorphisms are known to occur in genes related to four major biological pathways that are considered important to neurodevelopment or metal neurotoxicity: (a) Brain development and neurotransmitter metabolism, (b) cholesterol metabolism, (c) iron regulation, (d) peroxidative defense and other miscellaneous pathways.6,8 We chose 66 genes belonging to these pathways and considered of possible relevance by a systematic review of the scientific literature. All the genes selected have previously been suggested to play a role in the pathway of methylmercury toxicity.6
+
+ALSPAC children were genotyped using the Illumina HumanHap550 quad chip genotyping platform by 23andMe subcontracting the Welcome Trust Sanger Institute, Cambridge, UK and the Laboratory Corporation of America, Burlington, NC, US. Standard quality control methods were performed and have been previously described19 resulting in a final sample of 8365 people with genotypic information. Genotypic data were subsequently imputed using MACH20 and phased haplotype data from HapMap CEU (Rel22). Data from genotyped and imputed SNPs (using the most likely genotype) were extracted for 247 SNPs (See S1).
+
+Cognitive data
+At 8 years of age, a short form of the WISC-III21 was used to assess Intelligence Quotient (IQ). Alternate items from each subtest were administered, with the exception of the coding subtest, which was administered in full. Raw scores were calculated by summing individual items within each subtest but first multiplying by 2 for picture completion, information, arithmetic, vocabulary, comprehension and picture arrangement; multiplying by 1.67 for similarities; and multiplying by 1.5 for object assembly and block design. This made the raw scores comparable with those that would have been obtained had the full test been administered (the raw score for the coding subtest was calculated in the standard way as the full subtest was administered). Using look-up tables provided in the WISC-III manual, age-scaled scores were obtained from the raw scores for each subtest, and total, performance and verbal IQ scores were calculated. A total of 7,255 cohort children had complete IQ scores. The mean age at assessment was 8.5 years (Standard Deviation (SD) 0.3 years).22,23
+
+Covariates
+A wide variety of factors were considered as potential confounders in the relationship between methylmercury and IQ. The following variables were taken into account as obligatory covariates: sex, age at WISC-III assessment, and WISC-III examiner. Several covariates were retained in the final model because of prior knowledge that they were related to the exposure or outcome, or if they showed a relationship with methylmercury in our data (p-value &lt;0.10): estimations were derived from food-frequency questionnaires, such as n-3 fatty acid intake due to seafood consumption24 and “healthy component” during pregnancy,22 and estimated processed-food intake at age of 8 years,22 maternal age, parity, house ownership status, parental education, and social class recorded during pregnancy. We also considered other cofactors not retained in the final model, such as fatty-acid measurements from maternal blood samples during pregnancy (n = 690), maternal visits to the dentist during pregnancy, a measure of parenting (Home Observation for Measurement of the Environment (HOME) scale) assessed at 18 months of age, and the number of stressful life-events experienced by the child.22,25
+
+Statistical analysis
+Crude correlations and linear regressions were used to assess the relation between methylmercury exposure and the covariates since the methylmercury parameter was normally distributed after log-10 transformation. Associations between methylmercury and child WISC-III outcomes were evaluated using crude and multivariate linear regression analysis. The models adjusted for the confounder variables were re-run within social strata (3 categories).
+
+The genetic analyses initially included 236 SNPs, of which 11 SNPs were removed due to low Minor Allele Frequency (MAF &lt;3%) or poor imputation quality (R2 &lt;0.8). The SNPs were then scanned for main effects using nominally significant testing (p-value ≤ 0.05) on child IQ outcomes and methylmercury exposure. The main effects were assessed using crude linear regression models assuming an additive mode of inheritance (e.g., genotypes coded as 0, 1, 2). A total of 40 of the 236 SNPs passed the threshold (nominal p-value ≤ 0.05) (see S1). These SNPs were then further analyzed in an interaction model. When testing interactions between SNPs and methylmercury, multiple comparisons were addressed by correcting nominal p-values using Bonferroni criteria (0.05 (40 SNPs) = 0.0012). All analyses were conducted with the STATA 12.0 statistical software package.
+
+Results
+The mean (SD) of Hg concentration in umbilical cord was 26 (13) ng/g dry weight. No differences were observed in regard to sex (see Table 1), age at examination (data not shown), examiner (data not shown), HOME scale (Spearman Rho = 0.05, n = 1,266) and number of stressful life-events (Rho = 0.03, n = 1,230). Mothers with advantageous socio-demographic characteristics (high socioeconomic position and level of education, owning a house, lower parity and more advantageous nutrition) showed higher methylmercury exposure levels and higher total IQ scores of the child (Table 1). Mercury (Hg) concentrations were highly correlated with daily n3-fatty acid intakes (g) from seafood (Rho = 0.46, n = 1,260), and there was also a positive correlation coefficient between Hg cord and maternal serum n3-fatty acid concentrations (Rho = 0.26, n = 690).
+
+Hg levels were positively associated with IQ when the models were adjusted for child sex, age, and examiner. However, positive coefficients diminished when social class and other socio-demographic covariates were included in the models. Further attenuation occurred after insertion of maternal and child nutritional variables (Table 2). Due to the high correlation between methylmercury and daily n3-fatty acid intakes from sea food, we performed the statistical test Variance Inflation Factor to assess variable collinearity in the final models. The results did not show values higher than 3 (threshold is 5).
+
+Further analyses were performed adjusting the models by maternal red blood cell fatty acid levels (only in 45% of the total samples). Other than the loss of power with smaller sample size (n = 508), no further changes were observed (general IQ coefficient = 2.2; −4.6 to 9.1).
+
+Table 3 presents the adjusted associations between methylmercury and IQ outcomes stratified into discrete categories of social strata. When limited to mothers within the high social stratum, methylmercury showed an inverse association with total IQ (−4.9; −12.7 to 2.5). A deficit was observed for performance IQ in children (n = 290) whose mothers had only a moderate intake of n-3 fatty acid from seafood during pregnancy (coefficient = −13.5; −24.7 to −2.2) and p-value for interaction = 0.04.
+
+A total of 40 out of 236 SNPs showed crude associations with the exposure or outcome (nominal p-values ≤ 0.05), although none of them remained significant after False Discovery Rate (FDR) correction (see S1). Of the 40 SNPs shown in S1, four, presented in Table 4, showed nominal interaction p-values &lt; 0.10 in the multivariate models. Thus, TF rs3811647 was associated with Hg concentrations (Table 4) and the other three (PON1 rs662, BDNF rs2049046 and PGR rs1042838) with WISC-III total IQ (see S1). The minor allelic frequencies for these four SNPs ranged from 0.16 to 0.34 (see S1). Table 5 shows the estimated change in WISC-III outcomes associated with a 10-fold increase in methylmercury exposure stratified by SNP allelic variants and the p-values for the interaction terms. The strata with minor allelic variants tended to show negative coefficients, while positive associations remained between exposure and outcomes for wild-type subjects. Verbal outcome was strongly associated with methylmercury exposure when the model was stratified by PGR SNP variants, and performance IQ showed the same pattern when stratified for the other SNP variants. The multiplicative model was applied for TF and BDNF SNPs, and in both cases, an adverse gradient of the methylmercury estimates was observed for the minor allele. The other two SNPs fitted only a dominant model due to their low minor allele frequencies. None of the nominal p-values for interaction passed the formal Bonferroni threshold of 0.0012. In this population, a total of 175 subjects (21%) had at least four minor alleles in the four SNPs.
+
+The combined minor alleles showed uniform methylmercury negative associations with the IQ outcomes. For example, the group of children with 4 + SNP minor alleles (n = 175) showed a total IQ coefficient = −10.6; −22.0 to 0.8; and p-value for interaction (n = 843) = 0.002. A similar result was observed in relation to performance IQ (p-value for interaction = 0.0001).
+
+Discussion
+In this subgroup within the ALSPAC prospective cohort study, higher methylmercury exposures were associated with seafood intake during pregnancy, healthy nutritional habits in general, and socially advantageous strata. In crude analyses, methylmercury exposure was not associated with any detectable IQ deficit at age 8 years, even after adjusting for available parameters that reflected the beneficial development. Within more uniform subgroups, mothers belonging to higher social strata showed wider exposure ranges, with an inverse association between methylmercury exposure and total IQ. Due to the wider variability and greater average methylmercury exposure, and perhaps less residual negative confounding, a possible neurotoxic effect became apparent in this subgroup.
+
+To identify possible causes of genetic predisposition to methylmercury neurotoxicity, we examined SNPs from 66 genes selected a priori for possible gene-methylmercury interactions. Four SNPs (rs2049046, rs662, rs3811647 and rs1042838) functionally related to the Brain-Derived Neurotrophic Factor (BDNF), Paraoxonase 1 (PON1), Transferrin (TF) and Progesterone Receptor (PGR) genes appeared to modify the methylmercury-outcome associations toward IQ deficits among children with the minor alleles.
+
+A number of epidemiological studies on adverse neurotoxic effects in children prenatally exposed to methylmercury have been carried out during recent years.1–5 The majority of the publications describe impairments in a wide range of neuropsychological functions assessed, including IQ scores. The biological samples used to measure the exposure were often based on maternal hair, but cord blood seems to show greater precision as risk indicator for methylmercury neurotoxicity,1 possibly related to the better precision of this exposure biomarker.15 Based on the close correlation between Hg concentrations in cord blood and (dry) cord tissue,15 the average exposure level in this study corresponds to a cord-blood Hg concentration of 2.75 µg/L, one of the lowest reported so far in a population-based birth cohort.1 A previous study in this cohort measured mercury levels in more than 1,000 samples of umbilical cords. No association with 18-month neurodevelopment was found,11 while moderate fish intake during pregnancy was positively associated with the outcome.11,24 The sample of cord tissue for mercury analysis was less informative, as the umbilical cord analyses were based on the sample wet weight, which is less precise than dry weight.11,14 In the Faroes birth cohort, mercury concentrations in dry-weight cord tissue (geometric mean, 0.21µg/g) and cord blood (22.3 µg/L) suggested average exposures about eight times higher than in ALSPAC.1,15 Comparably low exposure levels have been studied in the US and Poland, where methylmercury neurotoxicity was apparent, especially after adjustment for beneficial nutrients.1,26–27
+
+Especially at low methylmercury exposures, associations between seafood intakes and methylmercury exposure levels may be severely confounded,1 and adjustments in statistical analyses are incomplete, at best, as precise measures of the parameters are not available. Only a small number of studies have examined the combined effects of nutrient and contaminant intakes as predictors of developmental outcomes. In the first Faroese birth cohort, adjustment for the benefits conferred by maternal fish intake during pregnancy resulted in a slightly increased effect of prenatal methylmercury exposure as compared with the unadjusted results.28 Stronger results have been reported in other studies at lower exposures. Fish and other seafood are a good source of n-3 fatty acids and other nutrients important for the development of the brain.29–32 We found a moderate correlation between methylmercury and pregnancy n3-fatty acid intakes from seafood, probably due to large differences in methylmercury content between species and much variability within species, in part associated with age, size and origin.1 Still, there was a weak interaction between the two parameters on performance IQ. Furthermore, social determinants influencing diet and lifestyle habits may be related to methylmercury exposure. A recent study in Spain (n = 2,000) found that social class was strongly and inversely related to methylmercury levels in cord blood,33 perhaps because the larger fish and crustacean species that accumulate the most methylmercury are also more expensive. Our results from the UK confirmed this tendency. The higher methylmercury exposure levels within top social classes could explain the stronger associations with methylmercury observed in that group.
+
+Even if a beneficial parameter is adjusted for, any imprecision of this confounder may cause underestimation of the effects of methylmercury toxicity. For example, crude social class or dietary questionnaire variables may poorly reflect the true confounder, and this imprecision could cause an underestimation of the adjusted mercury effect.28 Thus, when an independent variable is measured with imprecision, some of the variance may be erroneously attributed to other independent variables that are more precise. Dry-weight cord-Hg parameter is a fairly precise measure of absorbed methylmercury, but it is also a measure of fish intake. In the regression analyses, the methylmercury variable may “steal” variance from these factors, and as a result methylmercury may appear less toxic than it really is. This tendency towards residual negative (or inverse) confounding is present in almost all analyses in this study.10,28,34
+
+Several candidate genetic polymorphisms were explored to assess possible methylmercury neurotoxic pathways and population vulnerabilities.6,8 The BDNF and PON1 genes have been suggested to play a role in the neurotoxic pathways of methylmercury exposure.35–37 The BDNF protein is induced by cortical neurons and regulates survival of striatal neurons in the brain.38 Several experimental (in vitro and in vivo) and human studies have suggested that BDNF may exacerbate methylmercury-induced cell death by decreasing the BDNF gene expression.37,39 Sex-related differences in cord serum BDNF concentrations were observed in relation to prenatal exposure to methylmercury in a Faroese cohort.37 Moreover, the present BDNF SNP (rs2049046) has also been used to investigate whether its allelic variants are associated with mental-health outcomes such as attention deficit hyperactivity disorder, autism, obsessive–compulsive disorder and migraine.40–42
+PON1 codes for an enzyme that inhibits oxidation of lipoproteins through hydrolysis of lipid peroxides. Such oxidative damage can be induced by methylmercury.35 In a study of 896 Inuit adults, SNP rs662 was related to PON1 activity, with an additive dose-response, but no interaction with methylmercury concentration levels was reported.36 In the present study, children with minor allele variants of BDNF and PON1 SNPs showed stronger methylmercury adverse effects, particularly in regard to performance IQ. While a multiplicative model was tested for the BDNF SNP, a dominant model was used for the PON1 SNP due to a low number of subjects with the minor allele.
+
+Two studies of human TF SNP (rs3811647) reported an association with serum ferritin and transferrin levels, additively by each of the A alleles.43–44 The present results show an A allele interaction with methylmercury neurotoxicity in the multiplicative model. Toxic metals are thought to enter the brain via the transferrin receptor, thus following the mechanism of iron uptake. A neurotoxic effect could be due to an increased level of exposure passing the blood-brain barrier.45 Finally, the PGR SNP (rs1042838) showed an interaction as well, the T allelic carriers being more vulnerable to the exposure. The so-called the PROGINS variant carrier genotype has been associated with higher migraine and vertigo problems,46 and progesterone is being investigated in regard to its protective effects against various types of brain damage.47
+
+Despite the biological plausibility of the SNP-methylmercury interactions observed here and the consistency between individual-SNP models, the nominal p-values did not pass Bonferroni-corrected criteria. A false discovery therefore cannot be ruled out; a replication of these findings in another population will be desirable to determine if these associations are real. Still, the importance of possible genetic predisposition is illustrated by the fact that 21 percent of the subjects had at least four minor alleles in the four SNPs identified; this subgroup showed methylmercury-associated IQ deficits with low p-values for interaction close to or below the Bonferroni threshold.
+
+Conclusions
+While crude analyses suggest that prenatal exposure to methylmercury at low levels is not associated with cognitive deficits at age 8 years, stratified analyses by high socioeconomic positions suggest the presence of neurotoxic effects that may have been hidden by greater residual negative confounding in the cohort at large. Likewise, children with minor allelic variants for four relevant genes, BDNF, PON1, TF and PGR, tended to show stronger inverse associations in the anticipated direction. Subjects with the major alleles continued to show an apparent beneficial effect of methylmercury exposure as a likely indication of residual negative confounding. Thus, the possible presence of genetic predisposition to methylmercury neurotoxicity suggests that average effects may vary among populations with varying degrees of susceptibility, and that risk assessment should focus on the vulnerable subgroups. The detailed impact of such genetic predisposition requires replication in other population based studies.
+
+Supplementary Material
+Suppl  Acknowledgements
+We are grateful to all the families who took part in this study, the midwives for their help in recruiting them, and the whole ALSPAC team, which includes interviewers, computer and laboratory technicians, clerical workers, research scientists, volunteers, managers, receptionists and nurses. Flemming Nielsen and Ranja Bjerring were responsible for the mercury analyses. Jordi Sunyer provided helpful comments on an earlier version of this manuscript. The UK Medical Research Council, the Wellcome Trust (Grant ref: 092731) and the University of Bristol currently provide core support for ALSPAC. The present work was supported by the U.S. National Institute of Environmental Health Sciences (ES09797) and by “Comissionat per a Universitats i Recerca del Departament d’Innovació, Universitats i Empresa de la Generalitat de Catalunya”. This publication is the work of the authors, of whom Jordi Julvez and Susan Ring will serve as guarantors for the contents of this paper. The contents of this paper are solely the responsibility of the authors and do not represent the views of the ALSPAC executive or the official views of the NIEHS, NIH, or any other funding agency. George Davey Smith works in a Unit that receives funding from the UK MRC (G0600705) and the University of Bristol. Funding from the European Research Council grant DEVHEALTH (269874) also supports GDS’ work.
+
+The authors declare that they do not have any conflicts of interest.
+
+Table 1: Characteristics of the Selected Confounders by Cord Hg Exposure and Child 8-year-old Total IQ (WISC-III) in a Sub-sample (9%) of the ALSPAC Cohort
+
+Confounders of interest	No.	Cord Hg Slices (ng/g) Mean (SD)	Total IQc Mean (SD)	
+Sex				
+  Boy	692	26 (13)	107 (17)	
+  Girl	619	26 (14)	106 (14)	
+Maternal Age				
+  &lt;30 years	681	25 (12)	105 (15)	
+  30 years and older	630	28 (14)	108 (16)	
+Maternal educationa				
+  Low	246	22 (11)	98 (14)	
+  Middle	461	25 (12)	104 (14)	
+  High	582	29 (15)	112 (15)	
+Maternal Social Class				
+  I-II	497	29 (14)	111 (15)	
+  III (non-manual)	497	25 (13)	105 (15)	
+  III (manual) IV &amp; V	141	22 (9)	99 (15)	
+Housing				
+  Mortgaged/owned	1106	27 (13)	107 (15)	
+  Council	85	21 (8)	97 (14)	
+  Other	92	24 (13)	104 (15)	
+Parity				
+  0	602	27 (15)	108 (16)	
+  1	454	26 (13)	107 (15)	
+  2+	224	23 (10)	103 (16)	
+Daily n-3 Fatty Acid Intake from seafood 32 Week of Pregnancyb				
+  Low (&lt;0.05 g)	313	18 (8)	103 (15)	
+  Moderate (≤0.12 g)	402	25 (10)	107 (15)	
+  High (&gt;0.12 g)	545	32 (15)	108 (16)	
+Diet Factor Score for Healthy Component 32 Week of Pregnancy				
+  Low score	416	22 (10)	101 (14)	
+  Moderate score	415	26 (14)	106 (15)	
+  High score	430	30 (14)	112 (15)	
+Child Diet Factor Score for Processed Component at Age of 8 Years				
+  Low score	399	29 (15)	110 (15)	
+  Moderate score	393	26 (13)	107 (15)	
+  High score	358	24 (11)	103 (15)	
+a Similar results for paternal education (data not shown).
+
+b Similar results for fatty acid levels in blood during pregnancy (not shown).
+
+c Similar results for Verbal and Performance IQs (not shown).
+
+Table 2: Adjusted Regression Coefficients (β) for the Cord-Hg Concentration as Predictor of the 8-year WISC-III Outcomes
+
+WISC-III scores	Estimate (β) and 95% CI for Log10 (Cord-Hg (ng/g))	
+Model 1a (n = 1238)	Model 2b (n = 1026)	Model 3c (n = 918)	
+Total IQ	11.8 (7.7 to 15.9)	2.4 (−2.0 to 6.7)	1.4 (−3.6 to 6.3)	
+Verbal IQ	13.4 (9.1 to 17.8)	3.6 (−1.0 to 8.2)	3.1 (−2.1 to 8.4)	
+Performance IQ	6.9 (2.5 to 11.2)	0.4 (−4.5 to 5.2)	−0.9 (−6.5 to 4.7)	
+a Adjusted for sex, age and examiner.
+
+b Additionally adjusted for parental education level, maternal age, social class, parity and house ownership status.
+
+c Additionally adjusted for estimated omega-3 intake (from seafood’ to ‘omega-3 intake’), healthy component of the diet during pregnancy, and estimated child processed component of the diet at age of 8 years.
+
+Table 3: Adjusted Regression Coefficients (β) for Log10 (Cord-Hg concentration (ng/g)) as a Predictor of WISC-III Outcomes Stratified by Maternal Social Class (n = 918).
+
+	Maternal social class	
+WISC-III scores	I-II (n = 416) β (95 % CI)	III (non-man.) (n = 403) β (95 % CI)	III (man.) &amp; IV-V (n = 93) β (95 % CI)	P-interaction	
+Total IQ	−4.9 (−12.3 to 2.5)	9.8 (2.0 to 17.7)	−0.2 (−17.0 to 16.5)	0.036	
+Verbal IQ	2.0 (−6.0 to 10.0)	8.8 (0.6 to 17.1)	−12.1 (−28.3 to 4.1)	0.31	
+Performance IQ	−12.7 (−20.9 to −4.5)	9.6 (0.8 to 18.5)	14.5 (−6.3 to 35.2)	0.0013	
+All multivariate linear regression models adjusted for: Sex, age and examiner, parental education level, maternal age, parity and house ownership status, estimated omega-3 intake (from seafood’ to ‘omega-3 intake’) and healthy component of the diet during pregnancy, and estimated child processed component of the diet at age of 8 years. The exclusion of parental education did not change the results (data not shown).
+
+Table 4: Cord-Hg Concentrations According to Selected Child Genotypes.
+
+			Cord-Hg (ng/g)		
+			Homozygous for the Major Allele	Heterozygous	Homozygous for the Minor Allele		
+Gene	SNP	Major/minor allele	n	Mean (SD)	n	Mean (SD)	n	Mean (SD)	p value	
+
+              TF
+            	rs3811647	G/A	529	27 (13)	540	26 (13)	133	24 (10)	0.03	
+
+              PON1
+            	rs662	T/C	643	27 (13)	487	26 (12)	72	26 (15)	0.26	
+
+              BDNF
+            	rs2049046	T/A	368	26 (13)	591	26 (13)	243	26 (13)	0.99	
+
+              PGR
+            	rs1042838	C/A	844	26 (13)	330	27 (14)	28	29 (12)	0.12	
+TF (Transferrin); PON1 (Paraoxonase 1); BDNF (Brain-Derived Neurotrophic Factor); PGR (Progesterone Receptor). P-value of crude regression models after log-10 transforming (Cord Hg Slices).
+
+Table 5: Adjusted Regression Coefficients (β) for the Cord-Hg Concentration (ng/g) as Predictor of WISC-III Outcomes by Selected Genotypes.
+
+WISC-III scores	Log10 (Cord Hg Slices (ng/g))	
+	Estimate (β)	95 % CI	P-interaction	
+
+              
+            	
+Total IQ (n = 843)				
+  rs3811647 (TF) 11	4.0	−3.8 to 11.8	0.11	
+  rs3811647 (TF) 12	2.7	−5.6 to 11.0	
+  rs3811647 (TF) 22	−13.4	−32.9 to 6.2	
+  rs662 (PON1) 11	7.6	0.3 to 15.0	0.098	
+  rs662 (PON1) 12+22 a	−3.2	−10.9 to 4.5	
+  rs1042838 (PGR) 11	5.5	−1.0 to 12.0	0.057	
+  rs1042838 (PGR) 12+22 a	−4.9	−14.7 to 4.9	
+  rs2049046 (BDNF) 11	9.3	−1.3 to 19.9	0.34	
+  rs2049046 (BDNF) 12	3.2	−4.3 to 10.7	
+  rs2049046 (BDNF) 22	−7.3	−19.6 to 4.9	
+
+              Verbal IQ
+            				
+  rs3811647 (TF) 11	2.6	−6.0 to 11.1	0.21	
+  rs3811647 (TF) 12	7.2	−1.3 to 15.7	
+  rs3811647 (TF) 22	−4.8	−24.4 to 14.7	
+  rs662 (PON1) 11	6.1	−1.5 to 13.8	0.65	
+  rs662 (PON1) 12+22 a	1.2	−7.1 to 9.5	
+  rs1042838 (PGR) 11	8.7	2.0 to 15.4	0.019	
+  rs1042838 (PGR) 12+22 a	−6.4	−16.8 to 4.0	
+  rs2049046 (BDNF) 11	10.2	−0.6 to 21.0	0.72	
+  rs2049046 (BDNF) 12	2.0	−6.0 to 10.0	
+  rs2049046 (BDNF) 22	−0.5	−13.7 to 12.6	
+
+              Performance IQ
+            				
+  rs3811647 (TF) 11	5.0	−4.0 to 13.9	0.08	
+  rs3811647 (TF) 12	−3.8	−12.8 to 5.2	
+  rs3811647 (TF) 22	−22.7	−44.0 to −1.5	
+  rs662 (PON1) 11	7.1	−1.0 to 15.3	0.02	
+  rs662 (PON1) 12+22 a	−7.6	−16.5 to 1.3	
+  rs1042838 (PGR) 11	−0.1	−7.4 to 7.2	0.59	
+  rs1042838 (PGR) 12+22a	−1.8	−12.7 to 9.2	
+  rs2049046 (BDNF) 11	6.1	−6.1 to 18.3	0.067	
+  rs2049046 (BDNF) 12	3.6	−4.8 to 12.1	
+  rs2049046 (BDNF) 22	−13.7	−26.9 to −0.4	
+TF (Transferrin); PON1 (Paraoxonase 1); BDNF (Brain-Derived Neurotrophic Factor); PGR (Progesterone Receptor). All multivariate linear regression models adjusted for: Sex, age and examiner, parental education level, maternal age, social class, parity and house ownership status, estimated omega-3 intake (from seafood’ to ‘omega-3 intake’) and healthy component of the diet during pregnancy, and estimated child processed component of the diet at age of 8 years.
+
+a The alleles 12 and 22 were combined into a unique category due to low number of observations (22 alleles &lt; 10 % of the total sample).
+
+
+   References
+1. Grandjean P , Herz KT  (2011 ) Methylmercury and brain development: imprecision and underestimation of developmental neurotoxicity in humans. 
+Mt Sinai J Med 
+78 :107 –118 .21259267 
+2. Grandjean P ,  (1997 ) Cognitive deficit in 7-year-old children with prenatal exposure to methylmercury. 
+Neurotoxicol Teratol 
+19 :417 –428 .9392777 
+3. Crump KS , Kjellström T , Shipp AM , Silvers A , Stewart A  (1998 ) Influence of prenatal mercury exposure upon scholastic and psychological test performance: benchmark analysis of a New Zealand cohort. 
+Risk Anal 
+18 :701 –713 .9972579 
+4. Stokes-Riner A ,  (2011 ) A longitudinal analysis of prenatal exposure to methylmercury and fatty acids in the Seychelles. 
+Neurotoxicol Teratol 
+33 :325 –328 .21145963 
+5. Grandjean P , Landrigan PJ  (2006 ) Developmental neurotoxicity of industrial chemicals. 
+Lancet 
+368 :2167 –2178 .17174709 
+6. Gundacker C , Gencik M , Hengstschläger M  (2010 ) The relevance of the individual genetic background for the toxicokinetics of two significant neurodevelopmental toxicants: mercury and lead. 
+Mutat Res 
+705 :130 –140 .20601101 
+7. Mendez MA 
+ (2009 ) Maternal fish and other seafood intakes during pregnancy and child neurodevelopment at age 4 years. 
+Public Health Nutr 
+12 :1702 –1710 .19026093 
+8. Harris SE ,  (2007 ) A genetic association analysis of cognitive ability and cognitive ageing using 325 markers for 109 genes associated with oxidative stress or cognition. 
+BMC Genet 
+8 :43 .17601350 
+9. Choi AL , Cordier S , Weihe P , Grandjean P  (2009 ) Negative confounding in the evaluation of toxicity: the case of methylmercury in fish and seafood. 
+Crit Rev Toxicol 
+38 :877 –893 .
+10. Budtz-Jørgensen E , Keiding N , Grandjean P , Weihe P , White RF  (2003 ) Consequences of exposure measurement error for confounder identification in environmental epidemiology. 
+Stat Med 
+22 :3089 –100 .12973789 
+11. Daniels JL , Longnecker MP , Rowland AS , Golding J , ALSPAC Study Team University of Bristol Institute of Child Health  (2004 ) Fish intake during pregnancy and early cognitive development of offspring. 
+Epidemiology 
+15 :394 –402 .15232398 
+12. Turkheimer E , Haley A , Waldron M , D’Onofrio B , Gottesman  (2003 ) Socioeconomic status modifies heritability of IQ in young children. 
+Pyschol Sci 
+14 :623 –628 .
+13. Hanscombe KB ,  (2012 ) Socioeconomic status (SES) and children’s intelligence (IQ): in a UK-representative sample SES moderates the environmental, not genetic, effect on IQ. 
+PLoS One 
+7 :e30320 .22312423 
+14. Tsuchiya H , Mitani K , Kodama K , Nakata T  (1984 ) Placental transfer of heavy metals in normal pregnant Japanese women. 
+Arch Environ Health 
+39 :11 –17 .6712281 
+15. Grandjean P , Budtz-Jørgensen E , Jørgensen PJ , Weihe P  (2005 ) Umbilical cord mercury concentration as biomarker of prenatal exposure to methylmercury. 
+Environ Health Perspect 
+113 :905 –908 .16002381 
+16. Golding J , Pembrey M , Jones R , ALSPAC Study Team  (2001 ) ALSPAC--the Avon Longitudinal Study of Parents and Children. I. Study methodology. 
+Paediatr Perinat Epidemiol 
+15 :74 –87 .11237119 
+17. Fraser A 
+ (2012 ) Cohort Profile: The Avon Longitudinal Study of Parents and Children: ALSPAC mothers cohort. 
+Int J Epidemiol  doi: 10.1093/ije/dys066 .
+18. Boyd A 
+ (2012 ) Cohort Profile: The ‘Children of the 90s’—the index offspring of the Avon Longitudinal Study of Parents and Children. 
+Int.J Epidemiol  doi: 10.1093/ije/dys064 .
+19. Li Y , Willer C , Sanna S , Abecasis G . (2009 ) Genotype imputation. 
+Annu Rev Genomics Hum Genet 
+10 :387 –406 .19715440 
+20. Paternoster L 
+ (2012 ) Genome-wide association study of three-dimensional facial morphology identifies a variant in PAX3 associated with nasion position. 
+Am J Hum Genet 
+90 :478 –485 .22341974 
+21. Wechsler D , Golombok S , Rust J  (1992 ) Wechsler Intelligence Scale for Children Third Edition UK 
+The Psychological Corporation , London .
+22. Northstone K , Joinson C , Emmett P , Ness A , Paus T  (2011 ) Are dietary patterns in childhood associated with IQ at 8 years of age? A population-based cohort study. 
+J Epidemiol Community Health 
+23. Hobby KLKL  (1982 ). WISC-R Split-half Short Form 
+Western Psychological Services : Los Angeles, CA 
+24. Hibbeln JR ,  (2007 ) Maternal seafood consumption in pregnancy and neurodevelopmental outcomes in childhood (ALSPAC study): an observational cohort study. 
+Lancet 
+369 :578 –585 .17307104 
+25. Steer CD , Tobias JH  (2011 ) Insights into the programming of bone development from the Avon Longitudinal Study of Parents and Children (ALSPAC). 
+Am J Clin Nutr 
+94 (6 Suppl ):1861S –1864S .21525199 
+26. Stewart PW , Reihman J , Lonky EI , Darvill TJ , Pagano J  (2003 ) Cognitive development in preschool children prenatally exposed to PCBs and MeHg. 
+Neurotoxicol Teratol 
+25 :11 –22 .12633733 
+27. Jedrychowski W ,  (2007 ) Fish consumption in pregnancy, cord blood mercury level and cognitive and psychomotor development of infants followed over the first three years of life: Krakow epidemiologic study. 
+Environ Int 
+33 :1057 –1062 .17643489 
+28. Budtz-Jørgensen E , Grandjean P , Weihe P  (2007 ) Separation of risks and benefits of seafood intake. 
+Environ Health Perspect 
+115 :323 –327 .17431478 
+29. Oken E ,  (2005 ) Maternal fish consumption, hair mercury, and infant cognition in a U.S. Cohort. 
+Environ Health Perspect 
+113 :1376 –1380 .16203250 
+30. Strain JJ ,  (2008 ) Associations of maternal long-chain polyunsaturated fatty acids, methyl mercury, and infant development in the Seychelles Child Development Nutrition Study. 
+Neurotoxicology 
+29 :776 –782 .18590765 
+31. Steuerwald U ,  (2000 ) Maternal seafood diet, methylmercury exposure, and neonatal neurologic function. 
+J Pediatr 
+136 :599 –605 .10802490 
+32. Choi AL ,  (2008 ) Selenium as a potential protective factor against mercury developmental neurotoxicity. 
+Environ Res 
+107 :45 –52 .17854796 
+33. Vrijheid M ,  (2012 ) Socioeconomic status and exposure to multiple environmental pollutants during pregnancy: evidence for environmental inequity? 
+J Epidemiol Community Health 
+66 :106 –113 .20974841 
+34. Phillips AN , Davey Smith G  (1992 ) Bias due to measurement imprecision. 
+Lancet 6 ;339 :1418 –1419 .
+35. Hernández AF ,  (2009 ) Interaction between human serum esterases and environmental metal compounds. 
+Neurotoxicology 
+30 :628 –635 .19393262 
+36. Ayotte P ,  (2011 ) Relation between methylmercury exposure and plasma paraoxonase activity in inuit adults from Nunavik. 
+Environ Health Perspect 
+119 :1077 –1083 .21543280 
+37. Spulber S ,  (2010 ) Effects of maternal smoking and exposure to methylmercury on brain-derived neurotrophic factor concentrations in umbilical cord serum. 
+Toxicol Sci 
+117 :263 –269 .20631062 
+38. Burkhalter J , Fiumelli H , Allaman I , Chatton JY , Martin JL  (2003 ) Brain-derived neurotrophic factor stimulates energy metabolism in developing cortical neurons. 
+J Neurosci 
+23 :8212 –8220 .12967982 
+39. Sakaue M ,  (2009 ) Acceleration of methylmercury-induced cell death of rat cerebellar neurons by brain derived neurotrophic factor in vitro. 
+Brain Res 
+1273 :155 –162 .19332029 
+40. Hall D , Dhilla A , Charalambous A , Gogos JA , Karayiorgou M . (2003 ) Sequence variants of the brain-derived neurotrophic factor (BDNF) gene are strongly associated with obsessive-compulsive disorder. 
+Am J Hum Genet 
+73 :370 –376 .12836135 
+41. Lee J ,  (2007 ) Association study of the brain-derived neurotropic factor (BDNF) gene in attention deficit hyperactivity disorder. 
+Am J Med Genet B Neuropsychiatr Genet 
+144B :976 –981 .17918236 
+42. Lemos C ,  (2010 ) BDNF and CGRP interaction: implications in migraine susceptibility. 
+Cephalalgia 
+30 :1375 –1382 .20959432 
+43. Benyamin B ,  (2009 ) Variants in TF and HFE explain approximately 40% of genetic variation in serum-transferrin levels. 
+Am J Hum Genet 
+84 :60 –65 .19084217 
+44. Pichler I ,  (2011 ) Identification of a common variant in the TFR2 gene implicated in the physiological regulation of serum iron levels. 
+Hum Mol Genet 
+20 :1232 –1240 .21208937 
+45. Yokel RA  (2006 ) Blood-brain barrier flux of aluminum, manganese, iron and other metals suspected to contribute to metal-induced neurodegeneration. 
+J Alzheimers Dis 
+10 :223 –253 .17119290 
+46. Lee H ,  (2007 ) Association of progesterone receptor with migraine-associated vertigo. 
+Neurogenetics 
+8 :195 –200 .17609999 
+47. Sayeed I , Stein DG  (2009 ) Progesterone as a neuroprotective factor in traumatic and ischemic brain injury. 
+Prog Brain Res 
+175 :219 –237 .19660659 
+

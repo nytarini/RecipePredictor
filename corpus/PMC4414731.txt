@@ -1,0 +1,200 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10126486032902Obesity (Silver Spring)Obesity (Silver Spring)Obesity (Silver Spring, Md.)1930-73811930-739X25864567441473110.1002/oby.21047NIHMS658181ArticleSecond-Hand Eating? Maternal perception of the food environment affects reproductive investment in mice Schwartz Tonia S. 1Gainer Renee 2Dohm Erik D. 2Johnson Maria S. 3Wyss J. Michael 4Allison David B. 135*1 Office of Energetics, School of Public Health, University of Alabama at Birmingham, Birmingham, Alabama, USA2 Animal Resources Program, University of Alabama at Birmingham, Birmingham, Alabama, USA3 Department of Nutrition Sciences, University of Alabama at Birmingham, Birmingham, Alabama, USA4 Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham, Alabama, USA5 Nutrition Obesity Research Center, University of Alabama at Birmingham, Birmingham, Alabama, USA* Correspondence: David B. Allison, RPHB 140J, School Of Public Health Dean's Office, University of Alabama at Birmingham, Birmingham AL 35294-0022 (dallison@uab.edu)26 1 2015 10 4 2015 5 2015 01 5 2016 23 5 927 930 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objective
+Little information exists on how perception of the food (or ‘energetic’) environment affects body composition and reproductive investment. We test the hypothesis that female mice, who are themselves consuming standard chow diets, but who are exposed to conspecifics eating a rich “cafeteria diet”, will exhibit altered weight gain and reproductive investment.
+
+Design and Methods
+Female C57BL/6 mice were raised on a cafeteria diet. At maturity, subjects were switched to a standard chow diet and their cage-mate was assigned to consume either a cafeteria diet (treatment, n=20), or standard chow (control, n=20). Subjects were mated, and pups raised to weaning. Subjects and pups were analyzed for body composition.
+
+Results
+Treatment had no discernable effect on dam body weight or composition, but caused pups to have lower body weight (p=0.036), and less fat mass (p=0.041). We found a nearly significant treatment effect on ‘time to successful reproduction’ (avg. 55 vs. 44 days) likely due to increased failed first pregnancies (14/19 versus 8/19, p=0.099).
+
+Conclusions
+These data indicate that perceived food environment (independent of the diet actually consumed) can produce small pups with less body fat, and possibly induce difficulties in pregnancy for dams. Replication and mechanistic studies should follow.
+
+SensoryPerceptionReproductionMiceBody Composition
+   Introduction
+Maternal effects on offspring physiology are pervasive. Many aspects of an individual’s physiology can be affected by early life social and environmental influences, including experiences while in the womb or shortly after birth (1, 2, 3). While maternal nutrition has been well studied, little information exists on how the mother’s perception of the food environment affects her offspring.
+
+Sensory perception provides information about the current, and potentially future, status of the environment, thereby enabling adaptive adjustments in physiology, morphology and behavior to ensure survival and reproduction (4). Elegant experiments in fruit flies demonstrate that lifespan can be affected by sensory perception of CO2 (5, 6), odor of nutrient-rich food (7), and sex pheromones (8). Social context also can affect perception (9); and perception can affect physiology. For example, in mammals, both low social status (or perception thereof) (10, 11) and perceived resource uncertainty (through a slight reduction in food) is associated with greater adiposity (12).
+
+Given the potency of maternal effects, it is intriguing to consider whether sensory perception can also affect reproductive outcomes such as through energy investment in offspring. Here we examine the maternal effects of environmental exposure to the sights and smells of peers who have access to rich varied high-caloric food (i.e., a cafeteria diet). We test the hypothesis that for female mice who are themselves consuming a normal low fat chow diet, the visual, auditory, and olfactory exposure to a varied high-fat high-sugar diet, will be sufficient to affect weight gain and the body composition of her pups.
+
+Methods
+We used C57BL/6 mice from Jackson Laboratory. All procedures were performed in accordance with the Institutional Care and Use Committee (IACUC) at the University of Alabama at Birmingham. See detailed methods in SI.
+
+Experimental Design
+Eighty 18-day old female mice were assigned to one side of a divided cage. Dividers were clear with a gap at top allowing for airflow, thus providing audial, visual, and olfactory perception of what the paired female was experiencing but preventing tactile contact. Twenty cages were assigned to treatment group, and twenty to control.
+
+The experiment was divided into four phases (Figure 1). Phase I. For the first six weeks, all animals were fed an ad lib “cafeteria diet” containing a mix of high-fat high-sugar foods (Table S1). Phase II. At week six of the experiment, all subject females (eight weeks-old) were switched to 95% ad lib standard low-fat chow (7617, Harlan). In the treatment group, peer females remained on the cafeteria diet, while the control group peer females were switched to 95% ad lib standard chow diet – the same as the subjects. Six week-old males were introduced to subject females for breeding and food amount was doubled.
+
+Phase III. Once pregnancy was suspected (2 g/week gain in weight) the male was removed. If a pregnancy failed, or a female did not become pregnant after 2 months a male proven to be fertile was used for a second breeding attempt. Failed pregnancies were classified as miscarriages (≥2 g/week gain followed by a ≥2 g/week loss), or failed litters (stillborn pups and/or maternal cannibalism). Once pregnant, the standard chow was increased to 4.2 g (ad lib). Phase IV. After birth of a viable litter, the peer was removed from the divided cage and the dam and pups had full-range of the cage. Dams were maintained on ad lib standard chow while nursing.
+
+Body Composition
+At weaning (21 days-old) pups were frozen for carcass analyses. Pups were thawed, the gut removed and body composition determined as previously described (13) at the Small Animal Phenotyping Core at UAB. At this time dams had body composition measured by Quantitative Magnetic Resonance (QMR, EchoMRI 3-in-1 composition analyzer, EchoMedical Inc. Houston, TX).
+
+Statistical Analysis
+Final sample size for pup body composition was: control n=103 pups, 18 dams; treatment n=93 pups, 17 dams. The carcass analysis variables were fit with a mixed model in SAS (PROC MIXED) with dam ID as a random factor to account for similarity between pups in a litter. For fat mass, FFDM and water mass we used eviscerated body weight as a covariate, and dam ID as a random factor for the intercept and for the slope.
+
+The final sample size for dam body composition was: control n=16; treatment n=11. We tested the effect of the treatment on the dams’ live weight, body composition, and litter size at time of weaning by fitting a linear model in R (lm function). Body weight was used as a covariate in the analysis of the dams’ fat and lean mass.
+
+The final sample size for pregnancy analysis was: control n=19; treatment n=19. Time to successful reproduction was compared using parametric regression analysis in R (survreg function) with multiple distributions, and a Cox proportional hazard’s model. The four females that never successfully reproduced were censored on the day they were removed from the study. Outcome of the first pregnancy (fail or succeed to weaning) was compared using a Fisher’s exact test, and a Poisson regression for count data (control n=19, treatment n=19).
+
+Results
+Treatment had no significant effect on dam body weight, body composition, or litter size (Table 1). However, pups born in the treatment group had smaller body weight (p=0.036), and less fat mass (p=0.041) (Table 1). The treatment group had a non-significant increase in ‘time to successful reproduction’ (Cox proportional hazard p=0.164) (Figure 2). For the regression analysis on ‘time to successful reproduction’, the generalized AIC (14) for the Weibull, logistic, loglogistic, and lognormal distributions were very similar, ranging from 319.5 to 328.4 with their p-values ranging from 0.054 to 0.224 (averages: control, 44 days; treatment, 55 days). We found a nearly significant increase in failed first pregnancies (14/19 versus 8/19, Fisher’s exact test p=0.099; Poisson regression p=0.168; Figure 2).
+
+Discussion
+Here we show that the perceived food environment (as compared to the diet consumed) can affect reproductive physiology. The data suggest that exposure to a peer eating a calorie-rich diet caused dams to conserve energy resources, since (i) producing smaller, less fat pups would utilize less energy, and (ii) reabsorption of embryos during miscarriage and cannibalizing pups would provide additional energy to the dam. Importantly, in this study we only measured pups at weaning. Therefore, we cannot distinguish among maternal energy investment during gestation via the placenta or during lactation, or offspring suckling/feeding behavior as potential mechanisms for the treatment to produce smaller pups.
+
+We present two hypotheses as to why exposure to a peer eating a calorie-rich diet may cause decreased energy flow from mother to offspring. First, the dams may be experiencing a mismatch between their perceived and their realized food environment, thereby inducing energy conservation mechanisms. While we are not aware of mismatch studies on reproduction, mismatch between the perceived and actual environment can accelerate aging in invertebrates (4). A second hypothesis is that treatment dams may perceive themselves as lower in the dominancy hierarchy (relative to their peer) due to their inability to access the calorie-rich foods, and thus perceive uncertainty in their resources during conception and gestation. This would be concordant with studies demonstrating that social hierarchy can modify physiology and eating behaviors in rodents and primates (10), and that a slight decrease in food (if perceived as resource uncertainty) can cause increased adiposity in mice (12). One caveat, we cannot separate the effects of perceiving the “cafeteria diet” or “environmental enrichment”. Testing this is a reasonable idea for future research, as is collecting measurements on behaviors and physiologic responses which may mediate the observed effects. Although limited in sample size and power, our results suggest that perceptions of the social energetic environment influence reproductive physiology and offspring body composition. This calls for additional experiments to replicate the findings and if confirmed, to test the generality across species, and the proposed hypotheses.
+
+In conclusion, these data indicate that the perceived food environment (as compared to the diet actually consumed) can affect physiological variables associated with reproduction including the pups weight and body fat, and possibly also difficulties in pregnancy for dams. This study suggests that an understanding of the affect of perception of the environment on an individual’s physiology may be an important component to a full understanding of how food and the food environment influences health.
+
+Supplementary Material
+Supplementary Information  Funding Agencies: This project was supported in part by NIH grants P30DK056336, R01AG043972, P30DK079626; and James S. McDonnell Foundation grant number 220020353 (postdoctoral-fellowship, TSS). The opinions expressed herein are those of the authors and not necessarily those of the NIH or any other organization with which the authors are affiliated.
+
+Disclosure: DBA or his university has received grants, consulting fees, and donations from food companies and the National Restaurant Association.
+
+Author Contributions: DAB conceived the experiment. RG, ED, MSJ performed the experiment. TSS analyzed data and drafted the manuscript. All authors edited the paper and had final approval of the submitted and published versions. We thank D. Cash, R. L. Burnham, and S. Carter for animal-care assistance; A. Brown, J. Dawson, P. Li, T. Mehta and G. Pavela for statistical advice.
+
+Figure 1 Experimental Design
+Boxes represent cages with the divider allowing for sensory perception between cages. S indicates subject female, the P indicates the peer. Cage sections are color coded by whether they have a cafeteria diet (grey) or standard diet (white).
+
+Figure 2 Effect of treatment on reproduction
+Time to event curves representing the proportion of subject females that have yet to successfully reproduce relative to the day the first male was introduced for mating (Cox proportional hazard, p=0.164). Gray line represents the treatment group, black line represents control group. Inset graph, demonstrates the number of first pregnancies that failed due to miscarriages or dead pups, (n=19 first pregnancies in each group) (Fisher’s exact test, p=0.099).
+
+Table 1 Effect of treatment on subjects and their pups
+Values presented are LSM ± Standard Error. Statistically significant effects are bolded.
+
+	Peer Consuming
+Cafeteria Diet	Peer Consuming
+Standard Diet	Fndf,ddf	P-value	
+
+              Dam Weight, Live (g)
+            	24.30±0.54	24.63±0.45	0.2171,25	0.645	
+
+              Dam Fat Mass, QMR (g)
+            	4.69±0.20	4.34±0.17	1.7881,24	0.194	
+
+              Dam Lean Mass, QMR (g)
+            	18.43±0.20	18.77±0.17	1.3381,24	0.250	
+
+              Dam Litter Size (pups)
+            	4.74±0.57	5.05±0.55	0.1561,37	0.695	
+
+              Pup Weight, Eviscerated (g)
+            	
+              8.51±0.54
+            	
+              10.08±0.52
+            	
+              4.481,161
+            	
+              0.036
+            	
+
+              Pup Fat Mass, Carcass (g)
+            	
+              0.77±0.02
+            	
+              0.83±0.02
+            	
+              4.251,127
+            	
+              0.041
+            	
+
+              Pup Fat Free Dry Mass, Carcass (g)
+            	2.06±0.03	2.07±0.03	0.021,127	0.880	
+
+              Pup Water Mass, Carcass (g)
+            	6.38±0.02	6.34±0.02	1.371,127	0.240	
+What is already known about this subject
+Sensory perception of the environment can affect physiology.
+
+Maternal diet consumed during gestation can affect offspring phenotype and behavior.
+
+What this study adds
+This study suggests that maternal perception of the (energetic) environment can affect pup weight and body composition.
+
+
+   References
+1 
+            Ong ZY  
+            Muhlhausler BS  
+           Maternal “junk-food” feeding of rat dams alters food choices and development of the mesolimbic reward pathway in the offspring The FASEB Journal 2011 25 2167 2179 
+2 
+            Bellinger L  
+            C L  
+            Langley-Evans SC  
+           Prenatal exposure to a maternal low-protein diet programmes a preference for high-fat foods in the young adult rat British Journal of Nutrition 2004 92 513 520 15469656 
+3 
+            Barker DJP  
+           Fetal origins of coronary heart disease BMJ 1995 311 171 174 7613432 
+4 
+            Pletcher SD  
+            Kabil H  
+            Partridge L  
+           Chemical Complexity and the Genetics of Aging Annual Review of Ecology, Evolution, and Systematics 2007 38 299 326 
+5 
+            Linford NJ  
+            Kuo T-H  
+            Chan TP  
+            Pletcher SD  
+           Sensory Perception and Aging in Model Systems: From the Outside In Annual Review of Cell and Developmental Biology 2011 27 759 785 
+6 
+            Poon PC  
+            Kuo T-H  
+            Linford NJ  
+            Roman G  
+            Pletcher SD  
+           Carbon Dioxide Sensing Modulates Lifespan and Physiology in Drosophila  PLoS Biol 2010 8 e1000356 20422037 
+7 
+            Pletcher SD  
+           The Modulation of Lifespan by Perceptual Systems Annals of the New York Academy of Sciences 2009 1170 693 697 19686214 
+8 
+            Gendron CM  
+            Kuo TH  
+            Harvanek ZM  
+            Chung BY  
+            Yew JY  
+            Dierick HA  
+             
+           Drosophila Life Span and Physiology Are Modulated by Sexual Perception and Reward Science 2014 343 544 548 24292624 
+9 
+            Boothby EJ  
+            Clark MS  
+            Bargh JA  
+           Shared Experiences Are Amplified Psychological Science 2014 
+10 
+            Tamashiro KLK  
+            Hegeman MA  
+            Nguyen MMN  
+            Melhorn SJ  
+            Ma LY  
+            Woods SC  
+             
+           Dynamic body weight and body composition changes in response to subordination stress Physiology &amp; Behavior 2007 91 440 448 17512562 
+11 
+            Adler NE  
+            Epel ES  
+            Castellazzo G  
+            Ickovics JR  
+           Relationship of subjective and objective social status with psychological and physiological functioning: Preliminary data in healthy, White women Health Psychology 2000 19 586 592 11129362 
+12 
+            Li X  
+            Cope MB  
+            Johnson MS  
+            Smith DL  
+            Nagy TR  
+           Mild calorie restriction induces fat accumulation in female C57BL/6J mice Obesity 2010 18 456 462 19798071 
+13 
+            Nagy TR  
+            Clair AL  
+           Precision and accuracy of dual-energy X-ray absorptiometry for determining in vivo body composition of mice Obesity Research 2000 8 392 398 10968731 
+14 
+            Venables WN  
+            Ripley BD  
+           Modern Applied Statistics with S 2002 4th edn. New York Springer 
+

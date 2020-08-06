@@ -1,0 +1,589 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10165608043733Cell SystCell SystCell systems2405-47122405-472027211857538769010.1016/j.cels.2016.04.012NIHMS788924ArticleA Caenorhabditis elegans Genome-Scale Metabolic Network Model Yilmaz L. Safak Walhout Albertha J.M. Program in Systems Biology, Program in Molecular Medicine, University of Massachusetts Medical School, Worcester, MA26 5 2016 19 5 2016 25 5 2016 25 5 2017 2 5 297 311 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Summary
+Caenorhabditis elegans is a powerful model to study metabolism and how it relates to nutrition, gene expression and life history traits. However, while numerous experimental techniques that enable perturbation of its diet and gene function are available, a high-quality metabolic network model has been lacking. Here, we reconstruct an initial version of the C. elegans metabolic network. This network model contains 1,273 genes, 623 enzymes and 1,985 metabolic reactions and is referred to as iCEL1273. Using flux balance analysis, we show that iCEL1273 is capable of representing the conversion of bacterial biomass into C. elegans biomass during growth, and enables the predictions of gene essentiality and other phenotypes. In addition, we demonstrate that gene expression data can be integrated with the model by comparing metabolic rewiring in dauer animals versus growing larvae. iCEL1273 is available at a dedicated website (www.wormflux.umassmed.edu), and will enable the unraveling of the mechanisms by which different macro- and micronutrients contribute to the animal's physiology.
+
+Graphical abstract
+
+
+
+
+   Introduction
+The nematode Caenorhabditis elegans and its bacterial diet have been used as an interspecies system to gain insights into the connections between nutrients, genotype and phenotype (Coolon et al., 2009; Gracida and Eckmann, 2013; MacNeil et al., 2013; Pang and Curran, 2014; Soukas et al., 2009; Watson et al., 2013; Watson et al., 2014). Different bacterial species or strains can be fed to the animal, and both C. elegans and its diet can be genetically manipulated [reviewed in: (Watson and Walhout, 2014; Yilmaz and Walhout, 2014)]. A main challenge now is to understand, at a systems level, how C. elegans responds to individual nutrients. Gaining such insights requires a high-quality model of both bacterial and C. elegans metabolic networks.
+
+The metabolic network of an organism is the complete set of biochemical reactions in which metabolites are broken down and synthesized. It serves two major purposes: the generation of biomass for growth and reproduction, and the generation of energy to support cellular and organismal processes. Genome-scale metabolic network models have been used together with flux balance analysis (FBA) (O'Brien et al., 2015; Oberhardt et al., 2009), to calculate the steady state conversion rates of compounds in every reaction of the network (i.e., reaction fluxes). Using a selected objective such as optimal growth or energy production, the calculated flux distribution predicts the metabolic state of the organism, given a set of constraints defined by nutritional or environmental conditions.
+
+While metabolic networks have been reconstructed for a large number of bacteria and a few eukaryotic organisms [reviewed in: (O'Brien et al., 2015)], no metabolic network model is available for C. elegans. Metabolic gene annotations are available in databases such as KEGG (Kanehisa et al., 2015), and are useful for pathway visualization. However, these annotations are remarkably incomplete and therefore most pathways are not capable of carrying flux. Thus, current databases do not provide a functional network structure that is suitable for FBA.
+
+Here, we present the global reconstruction of the C. elegans metabolic network and its conversion into a mathematical model for use with FBA to generate mechanistic predictions and integrate additional data types (Figure 1A). We demonstrate that this model can simulate the conversion of bacterial diet into C. elegans biomass, predict effects of diet or genotypic manipulations on phenotypes and can be integrated with gene expression data by mathematical modeling.
+
+Results
+Overview of Reconstruction
+We reconstructed the metabolic network of C. elegans using a modular pipeline that integrates multiple sources of information (Figure 1B). First, metabolic genes were annotated to establish gene-protein-reaction (GPR) associations (Thiele and Palsson, 2010), which were then used to manually reconstruct a template network in a pathway-by-pathway manner. Network gaps that prevented reactions from carrying flux were identified and filled. Reactions were localized to cytosol, mitochondria or extracellular space for proper network compartmentalization. The resulting PRIME model (Figure 1B) was capable of producing C. elegans biomass from bacterial diet (Figure 1C). GPRs left out by the manual reconstruction process were exhaustively tested for flux carrying capacity in the PRIME model, and the ones that could add functionality to the network were re-incorporated. The resulting model includes 1,273 genes, 623 enzymes and 1,985 metabolic reactions and was named iCEL1273. The components of iCEL1273 are presented in Tables S1 through S5 (annotations, biomass compositions, reactions, compounds, and enzymes). The main steps of the reconstruction are presented below, followed by model validation. The details of the methods can be found in Supplemental Experimental Procedures.
+
+Identification of C. elegans Metabolic Genes
+To generate an initial list of C. elegans GPRs, we used the orthology system in KEGG (Kanehisa et al., 2015), which connects annotated genes to one of ∼17,000 KEGG orthology groups (KOs) representing genes with shared function throughout phylogeny. Of these, ∼6,000 KOs are first associated with enzymes designated by an enzyme commission (EC) number and then with metabolic reactions. For instance, pyk-1 and pyk-2, are both associated with KO K00873 and enzyme EC 2.7.1.40, or pyruvate kinase, which catalyzes the conversion of phosphoenolpyruvate into pyruvate (Figure 2A). At the time of our analysis, KEGG had identified 988 C. elegans genes associated with 1,323 metabolic reactions (excluding signaling-related reactions).
+
+To assess the completeness of KEGG annotations, we cross-referenced all C. elegans genes with metabolic enzyme information available in WormBase (Harris et al., 2013) and UniProt (UniProt, 2015). Specifically, we searched for enzyme names in the gene descriptions in WormBase and protein domain annotations in both WormBase and UniProt. This provided hundreds of additional candidate genes that were not annotated in KEGG but could potentially be associated with metabolic enzymes and reactions. To determine which of these genes encode metabolic enzymes, we developed two auxiliary annotation datasets. The first, named myKEGG, was built by compiling all best-hit and reciprocal best-hit Smith-Waterman scores (based on protein sequence alignment) between each of the 20,519 C. elegans genes and genes from all 3,073 organisms incorporated in KEGG to yield an overall likelihood score for possible gene-KO associations. The second, myTree, includes a phylogenetic tree for each C. elegans gene based on protein sequence similarity (Figure 2B, Figure S1). We used myTree as a visual aid to observe clustering of the query gene with other genes. In addition, we used an independent database of eukaryotic orthologous groups (designated as KOG) (Koonin et al., 2004), which provides a protein lineage based on seven model organisms, including C. elegans, but, like WormBase and UniProt, does not provide a direct connection between genes, enzymes and reactions.
+
+To connect potential metabolic genes to reactions, we developed a pipeline named SACURE (Systematic Annotation with manual CUration and REgression), which combines evidence from all six resources. To minimize false negatives, we started with a low myKEGG score threshold, resulting in 3,424 genes associated with metabolic KOs. To rationalize accepting and rejecting gene-KO associations and to standardize our annotations, we formulated the decision making process by machine learning. Weights were assigned to each resource depending on their contribution to annotation decisions (Figure 2C, Figure S2). Overall our GPR annotations were driven by clustering patterns in myTree, available KEGG annotation, and sequence similarity-based scores in myKEGG, while WormBase and KOG added support when these resources were not sufficient to confidently make a decision. UniProt did not contribute significantly, likely because it is redundant with the other sources (Figure 2D).
+
+In total, SACURE identified 1,435 metabolic genes (Figures 2D, 2E; Figure S1; Table S1) 455 of which were missing in KEGG (31.7%). These genes brought in 175 metabolic reactions from KEGG for which no C. elegans gene was previously assigned (Figure 2E). Most of these genes (N=343) complemented gene families that were only partially annotated in KEGG. For instance, three members of the trehalase (EC 3.2.1.28) family (tre-1, tre-3, and tre-5) were annotated in KEGG, and our annotation pipeline added two more (tre-2 and tre-4), thus recovering the entire gene family as listed in WormBase (Harris et al., 2013)(Figure 2F).
+
+Reconstruction of a Template C. elegans Metabolic Network: Pathway-by-Pathway Reconstruction and Gap Filling
+The SACURE-annotated, KEGG-based reactions formed the backbone of our reconstruction. However, this collection does not provide a functional network that describes the conversion of nutrients into biomass and energy. First, not all C. elegans metabolic pathways are captured by reactions in the KEGG database. Examples include collagen, N-glycan, and iron-sulfur cluster biosynthesis. Such pathways were manually reconstructed using literature searches or MetaCyc (Caspi et al., 2014) yielding a total of 81 custom reactions (Table S3). In addition, many KEGG reactions were modified using C. elegans-relevant rather than generic compounds (e.g., cyclopropane fatty acids instead of long chain carboxylate), which resulted in 34 additional custom reactions.
+
+Second, many pathways have gaps because of missing enzymes. SACURE filled 74 gaps in the KEGG template network, thus validating the computational annotations which were made independent of gap analyses (Figure 3A). For instance, the C. elegans gene encoding methylglutaconyl-CoA hydratase was missing in KEGG, thus forming a gap in the leucine degradation pathway. Both myKEGG and myTREE captured ECH-5 as a candidate for this enzyme (Figure 2B). Remaining gaps were iteratively detected by FBA (Figure 1B) first to find reactions that could not carry flux and then to identify potential rescue reactions (gap-fillers). Many gaps were manually filled by relaxing SACURE criteria or by inspecting homology with proteins from other organisms (lenient annotation, N=72, Figure 3B). For instance, the tryptophan degradation pathway utilizes an arylfomamidase, but this enzyme was annotated neither in KEGG nor by SACURE (Figure 3B). afmd-1 was accepted as a gap-filler based on manual inspection of sequence homology. In 20 lenient annotations, multiple candidate genes could be linked to an enzyme, and the specific gene encoding the enzyme remains to be determined (TBD in the Gene column of Table S3). An additional 77 gap-filling reactions were annotated by manual curation based on the literature. For instance, gob-1 has experimentally been determined to encode a trehalose-6-phosphatase (Kormish and McGhee, 2005)(Figure 3C).
+
+Some gaps could not be filled by any of the above-mentioned methods. However, the corresponding reactions do need to be incorporated to enable network flux. In some cases the gene encoding the relevant metabolic enzyme has not yet been identified. Two such enzymes are found in the carnitine biosynthesis pathway (Figure 3D). The first is a peptidase that degrades proteins harboring methylated lysine, and the second is an aldolase converting 3-hydroxytrimethyllysine into 4-trimethylammoniobutanal. While this conversion has been observed in mammals, little is known about the responsible enzymes (Vaz and Wanders, 2002). Both reactions were incorporated during gap filling to rescue the other four reactions in the carnitine biosynthesis pathway (Figure 3D), which is believed to be functional in C. elegans (Deusing et al., 2015). Finally, 39 gaps (37 transports and 2 metabolic conversions) were filled without association with any genes or uncharacterized enzymes, but based solely on FBA. For example, there is an annotated gluconokinase enzyme that is predicted to be functional only if gluconic acid can enter C. elegans cells. Therefore, we added a predicted gluconic acid transport reaction to the model (Figure 3E). The details of manual reconstruction process are provided in the comments and notes of Tables S1 and S3.
+
+Reconstruction of a Template C. elegans Metabolic Network: Biomass, Transport, and Demand/Sink Reactions
+Our C. elegans metabolic network model is particularly aimed at converting bacterial diet (input) into worm biomass (output) and generating energy (Figure 1C). To enable network functionality that accurately reflects C. elegans metabolism, we added reactions for breakdown of bacteria and generation of worm biomass to the model. Bacterial biomass was based on the composition of an average E. coli cell (Neidhardt et al., 1990). In addition, we included specific information on the lipid composition of E. coli OP50 (Satouchi et al., 1993). C. elegans biomass composition has been only partially determined. We used specific information for C. elegans where available, including lipids (Brock et al., 2007; Brooks et al., 2009; Hutzell and Krusberg, 1982; Satouchi et al., 1993), trehalose (Miersch and Doring, 2012), and glycogen (Cooper and Vangundy, 1970). To approximate the missing variables in nucleic acid and amino acid composition we used the values previously established for yeast (Heavner et al., 2012). Overall, one bacterial and four C. elegans biomass compositions were generated, with the latter representing the output in four different modes of animal growth at different life stages (Table S2). To connect the defined input and output we added 29 reactions for the degradation of bacterial biomass and 19 reactions for the assembly of precursors into C. elegans biomass (Figure 1C, Table S3).
+
+Additional inputs and outputs include nutrients such as glucose and metabolites not consumable by biomass or energy generation, such as signaling molecules, which are synthesized or degraded by peripheral pathways. Flux to and from these pathways was driven by hundreds of transport and exchange (with the environment) reactions, as well as 82 demand and sink reactions (Thiele and Palsson, 2010) for the end products (Figure 1C, Table S3). Although transporters are generally uncharacterized in C. elegans, we included 17 known transporter proteins that carry 27 metabolites between the different compartments of the network (see below). We further assumed that metabolites transportable in yeast and human models (Schellenberger et al., 2010) are also transportable in C. elegans and incorporated additional transport reactions accordingly.
+
+Finally, reactions obtained from KEGG are typically not curated for stoichiometry and reversibility (Feist et al., 2009). To define these parameters, we used evidence from BiGG (Schellenberger et al., 2010), MetaCyc (Caspi et al., 2014), SEED (Henry et al., 2010), and BRENDA (Chang et al., 2015), as well as literature curation.
+
+PRIME Model: Systematic Localization of C. elegans Metabolic Reactions
+Metabolism is highly compartmentalized in specific sub-cellular spaces such as the mitochondria. Since the precise sub-cellular localization is known for only few C. elegans proteins, we aimed at a minimal network and predicted reaction localization to three compartments: cytosol, mitochondria and extracellular space. We employed multiple resources that use protein sequence, enzyme type and reaction (Figure S3). In addition, we determined the flux carrying capacity of each reaction when localized to mitochondria, cytosol or both.
+
+We rationalized the localization decisions by first calculating an overall score for the mitochondrial and non-mitochondrial localization of each reaction based on a weighted sum of evidence from different predictors. This score was then used to algorithmically decide whether a reaction is mitochondrial or not according to two thresholds (Figure 4A), which were based on the best agreement of predictions with the manually reconstructed template. Reactions were then re-localized to maximize the agreement between the decisions and predictions. All decisions were manually curated. For example, in many cases where a reaction was localized to both compartments due to low scores indicating lack of evidence (i.e., exceptions in lower-left quartile of Figure 4A), additional evidence from similar reactions catalyzed by the same protein were used. In the end, the localization of fewer than 10% of reactions was overruled manually (Figure 4A, Table S3).
+
+We validated the predictions using experimentally determined localization of 130 proteins available in WormBase (Harris et al., 2013) (Table S6). One protein (ACO-1) was eliminated from this analysis as its annotation was in fact driven by the experimental annotation available in the used resources. For the remaining 129 proteins in this validation set, the subcellular localization was wrongly predicted for only five (3.9%) (Figure 4C). In addition, four proteins (3.1%) were predicted to localize to both mitochondria and cytosol. We kept these dual localizations, while the false predictions were corrected manually. This analysis completed the reconstruction of the PRIME model (Figure 1B), with 1,867 reactions and 1,241 genes (Figure 4C).
+
+Completion of Reconstruction by Semi-Automated Expansion of the PRIME Model
+The PRIME model can carry out the metabolic functions depicted in Figure 1C and forms the scaffold for additional reactions. Since the PRIME model was reconstructed in a pathway-by-pathway manner, many SACURE-annotated reactions that are not part of well-defined pathways in KEGG and MetaCyc, or those that seem to be part of incomplete pathways were not incorporated. Remaining reactions may connect pathways, form alternative pathways that perform overlapping metabolic functions, or comprise isolated pathways (i.e., interconnected reactions disconnected from the network as a group). We performed an exhaustive computational analysis of whether the remaining reactions can support flux when added to the network.
+
+Using the PRIME model, we tested the flux carrying capacity of 704 SACURE-annotated reactions that were left out during manual reconstruction. We also included helper reactions that could connect the annotated reactions to the network, which covered spontaneous reactions listed in KEGG, reactions associated with uncharacterized enzymes listed in KEGG, and transport reactions obtained from BiGG (yeast and human models). Additional (custom) transport reactions were provided for every compound to allow the reconstruction of isolated pathways with few inputs and outputs. Proper connection to the network was algorithmically defined as the ability of a reaction to carry flux, without need for a custom transport reaction that has no other function than rescuing this reaction. For instance, our annotations associated AMX-2 with the conversion of aminoacetone to methylglyoxal (Table S1, S3). However, while this reaction was recovered by SACURE, it was not included in the PRIME model since it was disconnected and did not form a gap, as no pathway was dependent on it. The semi-automated reconstruction added a spontaneous reaction that represents the degradation of L-2-Amino-3-oxobutanoate to aminoacetone to connect the AMX-2-catalyzed reaction to the network. Since L-2-Amino-3-oxobutanoate is a by-product of glycine and threonine breakdown, this additional reaction provided a lateral connection between amino acid metabolism and methylglyoxal detoxification.
+
+The semi-automated pipeline identified 233 connected reactions leaving 471 reactions disconnected. Most of the disconnected reactions (N=297) are parallel reactions of existing enzymes in the model that we believe are either not relevant to C. elegans metabolism or are connected to the network with unknown pathways. Others are enzymes with functions that do not form complete pathways linked to the current network. We also manually curated the 233 connected reactions and eliminated the majority (N=179) because they did not contribute to the functionality of the model (see details in Supplemental Experimental Procedures and Table S7).
+
+Overall, the semi-automated procedure incorporated 117 additional reactions (56 annotated reactions and 61 helper reactions, mostly transport and exchange) and 32 genes to the model (Figure 4C, Table S3). All SACURE-annotated reactions that were excluded from the model are listed in Table S7, together with the 28 KEGG reactions that were not annotated by SACURE (Figure 2E). The final model contains 1,273 genes, 625 enzymes, 1,985 reactions, and 887 metabolites, and is referred to as iCEL1273 (Figure 2E, Figure 4C). The distribution of reactions into mitochondria and cytosol, as well as to different reaction types is provided in Figure 4D.
+
+WormFlux: a Dedicated Website for iCEL1273
+iCEL1273 is available at a custom-made website called WormFlux (www.wormflux.umassmed.edu) (Figure 4E). WormFlux provides a searchable database with detailed descriptions of model elements and their annotations in gene, enzyme, reaction, compound, and pathway pages. To facilitate applications that require modifications in biomass, we provide a “Biomass” tool as part of WormFlux, which can take user-defined biomass parameters and adjusts bacterial degradation and worm biomass assembly pathways accordingly.
+
+Validation of iCEL1273: Reproducing Observed Mass and Energy Balance during Two Stages of Life
+To demonstrate that iCEL1273 adequately represents the conversion of bacterial diet into C. elegans biomass, we gathered information on bacterial intake, biomass production, O2 consumption and CO2 release observed with C. elegans during L4 larval and reproductive young adult stages, where biomass production takes the form of growing body size and generation of progeny, respectively. Although precise bacterial ingestion rates are not available, the other rates are in relatively tight ranges. For each life stage, we constrained the model with experimental ranges observed for three of the four measured rates, and determined the theoretical range for the fourth rate using flux variability analysis (FVA). The theoretical range overlapped with the experimental observation in every case (Figure 5A), showing that iCEL1273 can quantitatively explain C. elegans growth at quasi-steady states.
+
+The wide predictive ranges reflect the variability of flux in the absence of additional constraints, as the model has a large solution space to freely perform conversions such as production of formic acid instead of CO2 to waste carbon. This observed level of flexibility is desired since the actual productivity of the metabolism cannot be limited to the four fluxes considered. Most importantly, the model must be able to produce significant amounts of ATP in excess of the requirements for biomass production in order to meet growth-associated maintenance (GAM, linked to biomass production) and non-growth-associated maintenance (NGAM, independent of biomass production, including movement) costs. In addition to these requirements routinely used in metabolic network models, the C. elegans model needs to address the unknown energetic cost of digesting bacterial biomass. We calculated the additional ATP that iCEL1273 can produce to meet GAM (excluding polymerization reactions for which energetic cost is already a part of biomass assembly reactions), NGAM and bacterial digestion, when constrained with the above mentioned experimental data. The achievable ranges of values for these requirements formed a finite volume (Figure 5B), where GAM and NGAM were consistent with previous models [e.g., (Reed et al., 2003) (Forster et al., 2003), (Oh et al., 2007)]. Thus, iCEL1273 can satisfy input/output rates for two different modes of growth (body size and offspring) and generate energy for maintenance and digestion costs. We arbitrarily picked the center of mass of the tetrahedron in Figure 5B to determine the final costs in each of the three categories, which dictated the coefficients of ATP in the corresponding reactions (Table S3; NGAM: reaction RCC0005, GAM: BIO0010, Digestion: DGR0007).
+
+Validation of iCEL1273: Gene Essentiality and Other Genotype-Phenotype Relationships
+To test the ability of iCEL1273 to predict the outcome of genetic perturbations, we compared genes predicted to be essential by FBA to experimentally defined essential genes. FBA predicts essentiality when a severe reduction in predicted biomass production is observed after all reactions that are non-redundantly associated with a gene are constrained to zero flux. Experimentally determined essential genes include those associated with lethal, growth arrest or sterile phenotypes upon RNAi or mutation as reported in WormBase (Harris et al., 2013). Using a threshold of 50% for the reduction in biomass production efficiency the model predicted 159 essential genes. About 80% of these genes are indeed essential (hypergeometric p-value=1.1E-31) (Figure 5C, top left Venn diagram). Biomass reduction thresholds between 30-84% gave the same result whereas we started underestimating or overestimating essentiality beyond these levels.
+
+Of the 33 genes that were incorrectly predicted to be essential (Table S8), 19 are involved in the production of glycans and lipids, which are adjustable components of biomass. Different lipid and glycan compositions may support viability (Berninsone, 2006; Brock et al., 2007; Perez and Van Gilst, 2008; Zhang et al., 2003). However, the model uses a constant composition that is essential for biomass generation. Of the remaining 14 genes, five function in DNA polymerization, but may represent specific DNA processing activities that are not essential. For instance, the DNA polymerase polh-1 is involved in DNA repair, which is not essential for viability (Harris et al., 2013). Four of the remaining nine genes, while not essential, do confer slow growth, sick, or reduced fecundity phenotypes. The last five genes were only tested by RNAi, and incomplete knockdown may explain the lack of essentiality. Indeed, the mutation of one of these genes, idi-1, results in larval arrest (Yochem et al., 2005), however this information was not yet present in WormBase (Harris et al., 2013).
+
+Next, we focused on the 335 experimentally determined essential genes that were not correctly predicted by iCEL1273 (Figure 5C). Missing a large number of essential genes is expected for several reasons. First, our initial definition of essentiality assumed that redundant genes in GPR associations can fully replace each other. However, paralogs may be individually essential for viability when they function in separate physiological compartments. For instance, the pyruvate kinases PYK-1 and PYK-2 are expressed in muscle and intestine, respectively, and pyk-1 is essential for viability, whereas pyk-2 is not (Harris et al., 2013). To better capture these genes, we re-predicted essentiality, this time prohibiting functional replacement by paralogs in GPRs. This reduced the number of false negatives from 331 to 251 (Figure 5C, top right Venn diagram).
+
+The second reason for missing essential genes is the underlying assumption that all reactions in the network can carry flux. However, many reactions are only conditionally active as not all genes are expressed under all conditions. To address this issue, we computationally derived an optimal state of growth in the solution space, wherein maximum biomass production was achieved with minimum total flux in all reactions, a method known as parsimonious enzyme usage FBA (Lewis et al., 2010; Machado and Herrgard, 2014). Assuming that the protein cost of a flux is proportional to its magnitude, and also that cells are programmed to grow with minimal cost for the synthesis of the metabolic machinery, we used this specialized FBA approach to predict reactions and thus genes that participate in the optimal growth state and assumed that these genes are essential for viability. Importantly, optimized flux distribution of the entire network turned out to be an excellent predictor of gene essentiality by itself and further reduced the number of false negatives from 251 to 125 (Figure 5C, bottom left Venn diagram).
+
+The third reason for missing essential genes is the assumption that all bacterial degradation products are available to C. elegans metabolism. We suspect this may not be the case for some nutrients such as nucleotides coming from the degradation of bacterial nucleic acids. In addition, in the context of the animal's physiology, not all nutrients will be uniformly available in all tissues. As a result, some tissues may be dependent on specific metabolites such as trehalose, which is hypothesized to be an energy commodity in C. elegans (Braeckman et al., 2009; McElwee et al., 2006). We simulated an optimal growth state again by minimizing total flux when only amino acids, stored lipids and trehalose were available as nutrients. This approach was again an excellent predictor of lethality (Figure 5C, bottom right Venn diagram), and captured 23 essential genes that were missed before (Table S8), including genes associated with nucleic acid biosynthesis (N=15) and two of the five trehalases (tre-1 and tre-5). Taken together, by using different types of nutrient and gene function simulations, the model correctly predicted 359 of 461 essential genes (77%) leaving 102 genes unexplained.
+
+Next, we changed the objective of FBA to the maximization of demand reactions instead of biomass generation. The model predicted 45 of the remaining 102 genes to be essential for the production of vital molecules such as ubiquinone, methylated histones and inositol phosphates, which may be required for the organism to grow but are not included in the general biomass composition (Table S8). The remaining 57 essential genes that were not predicted by the model may be associated with the production of other metabolites not included in our demand list, or may be essential under nutritional conditions that are yet to be explored.
+
+Finally, we investigated the association between a set of 11 phenotypes and seven network objectives such as maximization of ATP or collagen production. For each phenotype, we found that genes predicted to be essential for the production of related metabolites are strongly associated with the gene sets reported in WormBase (Figure 5D). For instance, collagen is the main component of the C. elegans cuticle and its biosynthetic production in the model is related to morphological phenotypes such as Dpy. Low efficiency of ATP generation is a good predictor of slow growth and also life span extension, as expected (Chin et al., 2014; Van Raamsdonk et al., 2010). It is important to note that the usage of WormBase during gene annotations did not create a testing bias for WormBase-derived phenotypes. The phenotypic descriptions are not specifically linked to the annotated functions with the exceptions of some genes associated with coenzyme Q depleted and histone methylation variant phenotypes, for which, the elimination of WormBase descriptions from SACURE input did not affect our predicted function. Altogether, these phenotypic relationships validate the pathways and GPR annotations comprising iCEL1273.
+
+Validation of iCEL1273: Gene Essentiality and Genotype-Phenotype Relationships in Methionine Salvage Pathway
+To demonstrate the utility of iCEL1273 for specific pathway analyses, we examined the methionine salvage pathway. At the center of this pathway is methionine synthase (MS, encoded by metr-1), which uses vitamin B12 to convert homocysteine into methionine (Yilmaz and Walhout, 2014). Mutant metr-1 animals cannot utilize vitamin B12 and exhibit a growth delay (Watson et al., 2014). In addition, supplementation of methionine partially rescued the metr-1 mutant's developmental delay (Watson et al., 2014). In accordance with our experimental findings, simulated deletion of metr-1 in iCEL1273 lowers the biomass production rate (Figure 5E), and growth is predicted to be restored when methionine uptake is allowed during FBA. Importantly, the model predicts that the growth reduction in metr-1 mutants is mediated by reduced flux in the methionine salvage cycle rather than the connected folate pathway, which is consistent with our previous observations (Watson et al., 2014) (Figure 5E). The model also correctly predicts that the reaction that converts methionine to s-adenosylmethionine is essential. This example shows that iCEL1273 can provide mechanistic predictions for genotype-phenotype and diet-phenotype associations at the pathway level.
+
+Case Study: Analysis of Dauer Metabolism by Integration of Gene Expression Data
+Metabolic network flux can be rewired in response to environmental or physiological cues (Watson et al., 2015). One mechanism of network rewiring is by regulating metabolic gene expression. We tested the ability of iCEL1273 to predict metabolic network rewiring when C. elegans enters the dauer stage in response to adverse conditions. Regular C. elegans larval development is associated with a fast aerobic metabolism that builds large amounts of biomass in a short time, while dauer metabolism is characterized by slow microaerobic metabolism that utilizes stored compounds such as fatty acids and glycogen as nutrients (Hu, 2007).
+
+To predict metabolic rewiring in dauer versus growing animals, we used gene expression data from dauers and dauer recovery larvae (Wang and Kim, 2003). Altogether 144 genes are upregulated and 241 are downregulated in dauer larvae (p&lt;0.001, Table S1). We used this gene expression data to identify two corresponding sets of reactions that are assumed to be in an on (N=231) or off (N=136) state in dauer, respectively. We then determined a flux distribution that best fits these reactions following a previously established integration method (Shlomi et al., 2008) (Figure 6A). We made two modifications to this method to devise an optimization strategy for our application. First, we performed flux fitting under three nutritional conditions: bacterial intake, usage of storage compounds (triacylglyceride and glycogen), or both. Second, we minimized total flux (absolute values) of reactions that were unrestrained during the fitting process (&gt;83% of the network). Thus, we combined a gene expression integration method (Shlomi et al., 2008) and a purely predictive flux minimization method (Lewis et al., 2010; Machado and Herrgard, 2014) to find an optimal state where the network is most efficiently wired according to gene regulatory constraints. In addition, we back-calculated the number of genes that have consistent expression levels with the derived flux distribution (flux-compatible genes). We then evaluated optimization quality based on a high percentage of flux-compatible genes and a low sum of minimized flux in unrestrained reactions (inclusion of flux from fitted reactions in this sum did not change the conclusions, Figure S4).
+
+For dauer larvae, both the highest number of flux-compatible genes and lowest sum of minimized flux were obtained when storage compounds were used as nutritional input (Figure 6B). This is in agreement with the fact that dauers do not eat and need to sustain their physiology by catabolizing stored energy sources (Hu, 2007). To model the network wiring of growing larvae we reversed the up- and downregulated genes. In this case, the optimal fit was obtained when bacterial diet was used as nutritional input, which agrees with the physiological reality of growing larvae (Figure 6B). Importantly, the model correctly predicted growth (biomass production) for growing larvae but not for dauer larvae (Figure 6C). In addition, dauer larvae had predicted lower metabolic activity based on ATP production, O2 consumption and flux activity (Figure 6C). Because the integration approach is only semi-quantitative (e.g., expression levels are grouped into on and off states before flux fitting), the flux comparisons between the two states cannot be taken as a quantitative measure. Altogether, iCEL1273 correctly predicted, solely based on gene expression data, that the metabolism was adjusted for stored resources, low metabolic rate and no biomass generation in dauer state, and the use of bacterial diet, higher metabolic rate and growth in the recovery state.
+
+Compartmentalization of Dauer Metabolism
+Several metabolic properties observed in the dauer larvae flux distribution (Figure 6A) are in agreement with known features of dauer metabolism. For instance, iCEL1273 correctly predicts a rewiring from the TCA cycle to the glyoxylate shunt, as well as a shift from oxidative phosphorylation to fermentation that results in the production of succinate from the reversal of the succinate-to-fumarate conversion (Braeckman et al., 2009; Burnell et al., 2005; Holt and Riddle, 2003). The predicted end product of this is propionate, which has been detected in the exometabolome of C. elegans exposed to anaerobic conditions (Butler et al., 2012). Another prediction from iCEL1273 is the concurrent production and utilization of trehalose, which is an important metabolite in C. elegans for energy production and desiccation prevention in dauer animals (Erkut et al., 2011).
+
+We asked whether iCEL1273 can mechanistically explain the functionality of these rewired network properties under dauer conditions. We reasoned that the simultaneous production and consumption of trehalose may reflect distinct metabolic activities in different tissues, cells or compartments. However, this could not be captured with whole-animal gene expression data. We modeled two hypothetical compartments, a microaerobic compartment that produces trehalose from stored fatty acids and an anaerobic compartment that uses trehalose as the sole energy source. Using FBA, we predicted flux distributions for maximum trehalose production and maximum energy generation in the respective compartments (Figure 7A). We found that the activation of glyoxylate cycle results in greater trehalose production from fatty acids in the microaerobic compartment (Figure 7B). In the anaerobic compartment, the reversal of TCA cycle to ferment trehalose all the way to succinate resulted in greater levels of ATP generation than when this pathway was blocked by limiting the flux through the fumarate reductase reaction (Figure 7C). The biological nature of each compartment is not yet known, but we hypothesize that they may correspond to different tissues. Taken together, key properties of dauer metabolism can be predicted by iCEL1273, and our mechanistic predictions support the hypothesis that trehalose acts as a commodity metabolite (Braeckman et al., 2009).
+
+Discussion
+Metabolic network models serve both as knowledge bases and predictive tools (Andersen et al., 2008; O'Brien et al., 2015; Oberhardt et al., 2009; Shlomi et al., 2008). The annotation database of iCEL1273 (wormflux.umassmed.edu) and its predictive power shown by multiple validation tests make it a suitable metabolic model for C. elegans.
+
+The metabolic network of C. elegans has not been systematically studied before. To make a comprehensive list of metabolic genes and reactions in this organism, we developed and validated SACURE as an objective annotation pipeline (Supplemental Experimental Procedures) and used the outcome in network reconstruction. Additional annotations came from the modeling-based reconstruction. It is important to note that model validation tests carried out in this study verify both the network structure and the annotations, as gene-reaction associations were extensively used in these tests. However, metabolic annotations are not yet complete for C. elegans. In the future, it is likely that new annotated pathways can be incorporated into iCEL1273, by connecting them to the central network or diet at one end, and to worm biomass or demand/sink reactions at the other (Figure 1C). We also envision that additional compartmentalization can be incorporated into the model when sufficient experimental evidence is collected for protein localization in C. elegans. Thus, iCEL1273 can be considered a minimal global-scale metabolic model that is expected to evolve as more information is obtained. For future additions, a good starting point would be the annotated reactions in Table S7 that were excluded from the model.
+
+iCEL1273 can be further refined when more precise information of both C. elegans and bacterial biomass composition becomes available. We approximated C. elegans biomass parameters that were not yet measured using data from yeast. Further, the variability of biomass composition in different stages of life and in different tissues of the animal will be considered in the future. Finally, a major goal will be to incorporate different bacterial compositions for different C. elegans diets. The Biomass tool of WormFlux as well as exchange, demand and sink reactions readily available in the network can be used to control the dietary input and biomass output of iCEL1273.
+
+With increasingly accurate descriptions input, output, and experimental constraints, FBA will become a powerful predictive tool to explore metabolic network properties and functionality at a systems level. However, it is important to note that FBA cannot be used to predict metabolite concentrations or to make a dynamic simulation of animal growth because of the steady state assumption used. These limitations are offset by constraint-based approaches that allow data integration for a given environmental condition. As we showed for dauer metabolism, gene expression data can be used to constrain the network and correctly capture the relevant metabolic state. Similar methods can be applied to tissue-derived expression data to derive tissue-specific metabolic networks and states (Shlomi et al., 2008; (Jerby et al., 2010). Furthermore, methods have recently been developed for integrating metabolomics data with metabolic networks (Topfer et al., 2015), which may open exciting new opportunities for studying C. elegans metabolism.
+
+Experimental Procedures
+Constraint-Based Flux Balance Analysis (FBA)
+All mathematical modeling procedures used were based on FBA (Orth et al., 2010). Briefly, the main idea of FBA is to satisfy mass balance at every node (metabolite) of the metabolic network simultaneously. Assuming steady state, total flux in and out of each node (i.e., the difference in production and consumption rates of compounds) equals zero, which is represented by Equation 1, where, S is the stoichiometry matrix of reaction coefficients (dimensions n × m; n = number of compounds, m = number of reactions), v is the flux vector (m × 1), and 0 is the vector indicating zero sum of fluxes at each node (n × 1).
+
+ 
+          (1) 
+          S⋅ν=0
+         The solution to Equation 1 alone is the null space of S. To obtain a biologically meaningful solution in this space, flux values are first constrained based on thermodynamic and other relevant information by Equation 2. Typically these constraints include reaction reversibility rules (e.g., the flux of an irreversible reaction can only take positive values; 0 &lt; v &lt; 1000, with 1000 used as an arbitrary upper limit that represents infinity) and known or prescribed uptake/secretion rates in exchange reactions (e.g., for an uptake reaction x &lt;=&gt;, which is set to provide up to 1 unit of metabolite x to the system: -1 ≤ v ≤ 0). Allowed uptake rates characterize the specific input (diet, oxygen, etc.) of a particular solution.
+
+ 
+          (2) 
+          νimin≤νi&lt;νimaxfori={1,2,…,m}
+         In addition, a biological objective is defined for maximizing or minimizing a set of fluxes as shown in Equation 3. For instance, to predict the metabolism of optimal growth, the constant for the flux of biomass reaction is set at 1 (cbiomass r×n = 1) and the rest of the reactions at 0. Maximization of the objective then yields maximum possible biomass production, i.e., growth rate.
+
+ 
+          (3) 
+          objf=∑i=1nciνi
+         Equations 1-3 are solved together as a linear programming problem using a specialized solver. The solver used in this study was Gurobi Optimizer version 6 (Gurobi Optimization, Inc., Houston, TX). FBA can be modified to carry out different applications of metabolic network modeling. For instance, the variability of the objective function as a function of a particular flux can be calculated to perform sensitivity analyses as in Figures 7B and 7C and gene expression data can be integrated using mixed integer linear programming (Shlomi et al., 2008) as in Figure 6. Details of different variants of FBA used in this study are provided in Supplemental Experimental Procedures.
+
+Additional Methods
+Details of methods used in every subsection of Results are available in Supplemental Experimental Procedures, following the same subsection titles for convenience.
+
+Model Availability
+iCEL1273 if can be downloaded from WormFlux in different formats including text, MS excel, and SBML (Hucka et al., 2003).
+
+Supplementary Material
+1  2  3  We thank Emma Watson, Lucie Kozlowskie, Lesley MacNeil and Juan Fuxman Bass for discussions and critical reading of the manuscript. This work was supported by NIH grant R21GM108045 to L.S.Y. and A.J.M.W.
+
+Author Contributions: L.S.Y. and A.J.M.W designed the study. L.S.Y. developed the model, performed the validation tests, and created the web application under the supervision of A.J.M.W. L.S.Y. and A.J.M.W wrote the manuscript.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Figure 1 Overview of the C. elegans Metabolic Network Model and the Reconstruction Process
+(A) Toy network representing the reconstructed C. elegans metabolic model. Two nutrients obtained from diet are used to synthesize two C. elegans biomass precursors with the excretion of one by-product as waste. “Predicted growth” indicates biomass production that can be achieved via indicated flux through the network (i.e., body growth or offspring). “Predicted alternative growth” depicts how the network can be rewired to use alternate pathways to achieve the same objective, as long as both precursors are successfully synthesized. “Predicted lethality” indicates genetic perturbations (e.g., knock out) that do not support biomass production due to the fatal disruption of flux. “Integration of exp. data” illustrates the incorporation of gene expression data that describe the up- and downregulation of genes encoding metabolic enzymes to deduce flux distribution under regulatory constraints.
+
+(B) Pipeline of the C. elegans metabolic network reconstruction process. Top twelve resources are shown where used. GPR: gene-protein-reaction association.
+
+(C) Cartoon of the reconstructed network. Different types of reactions are indicated with their reaction ID headers and types provided in Table S3. ETC: electron transport chain.
+
+Figure 2 Annotation of C. elegans Metabolic Genes
+(A) Example GPR association inferred via KEGG orthology group (KO).
+
+(B) Example phylogenetic tree created by myTree that shows the relatedness of the ech-5 gene (based on protein sequence) to genes from human, three model organisms, and representative organisms from ten taxonomic groups. Tree labels indicate KO, taxonomy or model organism, organism name (if taxonomic group), and gene name, respectively. See Figure S1 for abbreviations and details.
+
+(C) Relative contribution of annotation resources to decision making for gene-KO connections in SACURE. The relative contribution was quantified as an overall weight based on logistic regression involving annotation variables and manual decisions. See Supplemental Experimental Procedures and Table S9 for details.
+
+(D) Venn diagram illustrating candidate metabolic genes that pass an arbitrarily low myKEGG score threshold to be matched with a metabolic KO. Only two of the 988 C. elegans metabolic genes previously annotated by KEGG were missed by this thresholding. Genes identified by SACURE are shown in parentheses.
+
+(E) Venn diagrams illustrating final sets of genes and reactions in SACURE and iCEL1273 in relationship to KEGG. Only KEGG-based reactions are shown in the iCEL1273 set (i.e., custom reactions not found in KEGG database are not included) for comparison with the other two sets, which by definition only have KEGG reactions.
+
+(F) Example of a metabolic gene family that was partially included in KEGG but has been complemented by SACURE. Green: genes annotated by both KEGG and SACURE. Yellow: genes annotated by SACURE only.
+
+Figure 3 Gap-Filling Examples
+(A-E) Example pathways with gaps. Different gap-filling methods are indicated as titles. The total number of reactions for each method is given as N. Up to three genes encoding enzymes carrying out each reaction are shown in boxes with enzyme names indicated. See Table S4 for compound abbreviations and names.
+
+(A) Leucine degradation pathway in KEGG with a gap (yellow box) filled by SACURE.
+
+(B) Tryptophan degradation pathway with a gap filled by lenient annotation.
+
+(C) Trehalose production and degradation pathway with a gap filled by literature-based annotation.
+
+(D) Carnitine biosynthesis with two gaps filled by adding two unknown enzymes for which no KO group is available for annotation.
+
+(E) Potential gluconic acid degradation pathway with a gap filled by a transport reaction not annotated and not found in other eukaryotic models in BiGG.
+
+Figure 4 Reaction Localization and Key Statistics of Reconstructed Model
+(A) Score-based assignment of reactions to mitochondria and other compartments (cytosolic or extracellular). An algorithmic compartment score greater than 6.2 (dotted lines) indicates automatic localization to that compartment. If two scores are within 1.2 of each other (dashed lines), reaction is localized to both compartments. In other cases, the higher score determines the compartment. Manual decisions that violate these rules are indicated as closed shapes. Solid line shows identity.
+
+(B) Computational determination of enzyme localization was validated against experimental localization data obtained from WormBase (Exp).
+
+(C) The number of genes, enzymes, reactions and compounds included in the PRIME model and additions from semi-automated reconstruction. Numbers at the top indicate elements in the final model and numbers in parentheses indicate additions.
+
+(D) Distribution of reactions according to function and compartment.
+
+(E) WormFlux provides an integrated platform for iCEL1273 access.
+
+Figure 5 Model Validation
+(A) Comparison of model-predicted flux ranges with observed production/consumption rates during growth in two stages of life (Table S10). When the model is constrained with three of the four experimental fluxes (blue bars if a range, stars if a single point), the predicted range for the fourth flux (red bars) overlaps with or covers the experimental value, meaning all experimental rates can be satisfied simultaneously. Analysis was performed for L4 and young adult (Ad.) stages.
+
+(B) Predicted production of excess ATP to address unknown maintenance (GAM, growth-associated maintenance; NGAM, non-growth associated maintenance) and digestion costs. All combinations shown by blue dots can be achieved while simultaneously satisfying all experimental constraints in (A). The center of mass of the tetrahedron was arbitrarily used to set the default values for each parameter in subsequent applications.
+
+(C) Association of genes with experimental no-growth (lethal, larval lethal, larval arrest, embryonic lethal, embryonic arrest, and sterile) phenotypes with genes predicted by four different approaches as described in the main text. Statistical significance of associations is indicated by hypergeometric p-values.
+
+(D) Association of specific phenotypes with the predicted reduction in the production rates of different biomass precursors, specific metabolites, and ATP. Boxes indicate relationships that were expected based on phenotype description and its relevance to the produced metabolites.
+
+(E) Mechanistic predictions of genotype-phenotype and diet-phenotype relationships in the methionine salvage pathway. Predicted growth rates for mutant animals with supplemented metabolites are compared to experimental observations indicated at the top (left panel). The methionine salvage pathway, together with the adjacent one-carbon pool by folate, is shown on the right. In this pathway methionine synthase (METR-1) uses methylcobalamin (vitamin B12) as a cofactor. Inset bar graphs indicate fluxes (relative values) of corresponding reactions in the four cases shown in the left panel. For abbreviated compounds, see Table S4.
+
+Figure 6 Integration of Gene Expression Data with iCEL1273
+(A) Predicted optimal flux distribution in central carbon pathways in dauer animals that use stored compounds (triacylglycerides and glycogen) as nutrition. Red arrows indicate reactions to which the flux distribution was best-fitted based on gene expression. Black arrows indicate reactions with predicted incoming or outgoing fluxes with respect to best-fits. Flux imbalances observed in the figure are due to pathways not shown (e.g., about half of the incoming flux to 3pg from 13dpg and glycerol is diverted to amino acid metabolism [Table S3], hence the flux from 3pg to 2pg is less than the sum of fluxes producing 3pg). Enzymes used in text are indicated by abbreviations. For abbreviated compounds, see Table S4.
+
+(B) Optimization variables with three different nutritional conditions in two stages. A high percentage of genes with flux-compatible expression levels and a low sum of minimized fluxes (absolute values) are desired. Optimal states are circled.
+
+(C) Summary of predicted dauer and growing larvae metabolism based on optimal states in (B). Each variable is normalized by itself (i.e., divided by the maximum of the two states).
+
+Figure 7 Mechanistic Analysis of Dauer Metabolism using iCEL1273
+(A) Two hypothetical compartments proposed to explain the key metabolic properties of dauer larvae (Figure 6A). Predicted fluxes are shown.
+
+(B) Analysis of maximum trehalose production in the microaerobic compartment in (A) as a function of oxygen availability. Black and grey curves were obtained with and without glyoxylate pathway (by constraining the relevant reactions to carry zero flux), respectively. Yellow region indicates the additional amount of trehalose that can be generated from the glyoxylate pathway.
+
+(C) Sensitivity of ATP generation in the anaerobic compartment to the flux in fumarate reductase (FR) reaction. The circle indicates the optimal point where energy is maximized.
+
+
+   References Cited
+
+            Andersen MR  
+            Nielsen ML  
+            Nielsen J  
+           2008 Metabolic model integration of the bibliome, genome, metabolome and reactome of Aspergillus niger  Mol Syst Biol 4 178 18364712 
+
+            Berninsone PM  
+           2006 Carbohydrates and glycosylation WormBook 1 22 
+
+            Braeckman BP  
+            Houthoofd K  
+            Vanfleteren JR  
+           2009 Intermediary metabolism WormBook : the online review of C elegans  biology 1 24 
+
+            Brock TJ  
+            Browse J  
+            Watts JL  
+           2007 Fatty acid desaturation and the regulation of adiposity in Caenorhabditis elegans  Genetics 176 865 875 17435249 
+
+            Brooks KK  
+            Liang B  
+            Watts JL  
+           2009 The influence of bacterial diet on fat storage in C. elegans  PLoS One 4 e7545 19844570 
+
+            Burnell AM  
+            Houthoofd K  
+            O'Hanlon K  
+            Vanfleteren JR  
+           2005 Alternate metabolism during the dauer stage of the nematode Caenorhabditis elegans  Exp Gerontol 40 850 856 16221538 
+
+            Butler JA  
+            Mishur RJ  
+            Bokov AF  
+            Hakala KW  
+            Weintraub ST  
+            Rea SL  
+           2012 Profiling the anaerobic response of C. elegans  using GC-MS PLoS One 7 e46140 23029411 
+
+            Caspi R  
+            Altman T  
+            Billington R  
+            Dreher K  
+            Foerster H  
+            Fulcher CA  
+            Holland TA  
+            Keseler IM  
+            Kothari A  
+            Kubo A  
+             
+           2014 The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of Pathway/Genome Databases Nucleic Acids Res 42 D459 471 24225315 
+
+            Chang A  
+            Schomburg I  
+            Placzek S  
+            Jeske L  
+            Ulbrich M  
+            Xiao M  
+            Sensen CW  
+            Schomburg D  
+           2015 BRENDA in 2015: exciting developments in its 25th year of existence Nucleic Acids Res 43 D439 446 25378310 
+
+            Chin RM  
+            Fu X  
+            Pai MY  
+            Vergnes L  
+            Hwang H  
+            Deng G  
+            Diep S  
+            Lomenick B  
+            Meli VS  
+            Monsalve GC  
+             
+           2014 The metabolite alpha-ketoglutarate extends lifespan by inhibiting ATP synthase and TOR Nature 510 397 401 24828042 
+
+            Coolon JD  
+            Jones KL  
+            Todd TC  
+            Carr BC  
+            Herman MA  
+           2009 Caenorhabditis elegans  genomic response to soil bacteria predicts environment-specific genetic effects on life history traits PLoS genetics 5 e1000503 19503598 
+
+            Cooper AF  
+            Vangundy SD  
+           1970 Metabolism of glycogen and neutral lipids by Aphelenchus-Avenae  and Caenorhabditis-Sp  in aerobic, microaerobic and anearobic environments J Nematol 2 305 19322317 
+
+            Deusing DJ  
+            Beyrer M  
+            Fitzenberger E  
+            Wenzel U  
+           2015 Carnitine protects the nematode Caenorhabditis elegans  from glucose-induced reduction of survival depending on the nuclear hormone receptor DAF-12 Biochem Biophys Res Commun 460 747 752 25817784 
+
+            Erkut C  
+            Penkov S  
+            Khesbak H  
+            Vorkel D  
+            Verbavatz JM  
+            Fahmy K  
+            Kurzchalia TV  
+           2011 Trehalose renders the dauer larva of Caenorhabditis elegans  resistant to extreme desiccation Curr Biol 21 1331 1336 21782434 
+
+            Feist AM  
+            Herrgard MJ  
+            Thiele I  
+            Reed JL  
+            Palsson BO  
+           2009 Reconstruction of biochemical networks in microorganisms Nat Rev Microbiol 7 129 143 19116616 
+
+            Forster J  
+            Famili I  
+            Fu P  
+            Palsson BO  
+            Nielsen J  
+           2003 Genome-scale reconstruction of the Saccharomyces cerevisiae  metabolic network Genome research 13 244 253 12566402 
+
+            Gracida X  
+            Eckmann CR  
+           2013 Fertility and germline stem cell maintenance under different diets requires nhr-114/HNF4 in C. elegans  Current biology : CB 23 607 613 23499532 
+
+            Harris TW  
+            Baran J  
+            Bieri T  
+            Cabunoc A  
+            Chan J  
+            Chen WJ  
+            Davis P  
+            Done J  
+            Grove C  
+            Howe K  
+             
+           2013 WormBase 2014: new views of curated biology Nucleic acids research 
+
+            Heavner BD  
+            Smallbone K  
+            Barker B  
+            Mendes P  
+            Walker LP  
+           2012 Yeast 5 - an expanded reconstruction of the Saccharomyces cerevisiae  metabolic network BMC Syst Biol 6 55 22663945 
+
+            Henry CS  
+            DeJongh M  
+            Best AA  
+            Frybarger PM  
+            Linsay B  
+            Stevens RL  
+           2010 High-throughput generation, optimization and analysis of genome-scale metabolic models Nature biotechnology 28 977 982 
+
+            Holt SJ  
+            Riddle DL  
+           2003 SAGE surveys C. elegans  carbohydrate metabolism: evidence for an anaerobic shift in the long-lived dauer larva Mech Ageing Dev 124 779 800 12875742 
+
+            Hu PJ  
+           2007 Dauer WormBook 1 19 
+
+            Hucka M  
+            Finney A  
+            Sauro HM  
+            Bolouri H  
+            Doyle JC  
+            Kitano H  
+            Arkin AP  
+            Bornstein BJ  
+            Bray D  
+            Cornish-Bowden A  
+             
+           2003 The systems biology markup language (SBML): a medium for representation and exchange of biochemical network models Bioinformatics 19 524 531 12611808 
+
+            Hutzell PA  
+            Krusberg LR  
+           1982 Fatty acid compositions cise fatty acid composition observed in wild-type worms of Caenorhabditis elegans  and C. briggsae  Comp Biochem Physiol 73B 517 520 
+
+            Jerby L  
+            Shlomi T  
+            Ruppin E  
+           2010 Computational reconstruction of tissue-specific metabolic models: application to human liver metabolism Mol Syst Biol 6 401 20823844 
+
+            Kanehisa M  
+            Sato Y  
+            Kawashima M  
+            Furumichi M  
+            Tanabe M  
+           2015 KEGG as a reference resource for gene and protein annotation Nucleic Acids Res 
+
+            Koonin EV  
+            Fedorova ND  
+            Jackson JD  
+            Jacobs AR  
+            Krylov DM  
+            Makarova KS  
+            Mazumder R  
+            Mekhedov SL  
+            Nikolskaya AN  
+            Rao BS  
+             
+           2004 A comprehensive evolutionary classification of proteins encoded in complete eukaryotic genomes Genome Biol 5 R7 14759257 
+
+            Kormish JD  
+            McGhee JD  
+           2005 The C. elegans  lethal gut-obstructed gob-1  gene is trehalose-6-phosphate phosphatase Dev Biol 287 35 47 16197937 
+
+            Lewis NE  
+            Hixson KK  
+            Conrad TM  
+            Lerman JA  
+            Charusanti P  
+            Polpitiya AD  
+            Adkins JN  
+            Schramm G  
+            Purvine SO  
+            Lopez-Ferrer D  
+             
+           2010 Omic data from evolved E. coli  are consistent with computed optimal growth from genome-scale models Mol Syst Biol 6 390 20664636 
+
+            Machado D  
+            Herrgard M  
+           2014 Systematic evaluation of methods for integration of transcriptomic data into constraint-based models of metabolism PLoS Comput Biol 10 e1003580 24762745 
+
+            MacNeil LT  
+            Watson E  
+            Arda HE  
+            Zhu LJ  
+            Walhout AJM  
+           2013 Diet-induced developmental acceleration independent of TOR and insulin in C. elegans  Cell 153 240 252 23540701 
+
+            McElwee JJ  
+            Schuster E  
+            Blanc E  
+            Thornton J  
+            Gems D  
+           2006 Diapause-associated metabolic traits reiterated in long-lived daf-2 mutants in the nematode Caenorhabditis elegans  Mech Ageing Dev 127 458 472 16522328 
+
+            Miersch C  
+            Doring F  
+           2012 Sex differences in carbohydrate metabolism are linked to gene expression in Caenorhabditis elegans  PLoS One 7 e44748 22984551 
+
+            Neidhardt FC  
+            Ingraham JL  
+            Schaechter M  
+           1990 Physiology of the bacterial cell: a molecular approach Sunderland, Mass Sinauer Associates 
+
+            O'Brien EJ  
+            Monk JM  
+            Palsson BO  
+           2015 Using Genome-scale Models to Predict Biological Capabilities Cell 161 971 987 26000478 
+
+            Oberhardt MA  
+            Palsson BO  
+            Papin JA  
+           2009 Applications of genome-scale metabolic reconstructions Mol Syst Biol 5 320 19888215 
+
+            Oh YK  
+            Palsson BO  
+            Park SM  
+            Schilling CH  
+            Mahadevan R  
+           2007 Genome-scale reconstruction of metabolic network in Bacillus subtilis  based on high-throughput phenotyping and gene essentiality data J Biol Chem 282 28791 28799 17573341 
+
+            Orth JD  
+            Thiele I  
+            Palsson BO  
+           2010 What is flux balance analysis? Nat Biotechnol 28 245 248 20212490 
+
+            Pang S  
+            Curran SP  
+           2014 Adaptive capacity to bacterial diet modulates aging in C. elegans  Cell Metab 19 221 231 24440036 
+
+            Perez CL  
+            Van Gilst MR  
+           2008 A 13C isotope labeling strategy reveals the influence of insulin signaling on lipogenesis in C. elegans  Cell Metab 8 266 274 18762027 
+
+            Reed JL  
+            Vo TD  
+            Schilling CH  
+            Palsson BO  
+           2003 An expanded genome-scale model of Escherichia coli  K-12 (iJR904 GSM/GPR) Genome biology 4 R54 12952533 
+
+            Satouchi K  
+            Hirano K  
+            Sakaguchi M  
+            Takehara H  
+            Matsuura F  
+           1993 Phospholipids from the free-living nematode Caenorhabditis elegans  Lipids 28 837 840 8231660 
+
+            Schellenberger J  
+            Park JO  
+            Conrad TM  
+            Palsson BO  
+           2010 BiGG: a Biochemical Genetic and Genomic knowledgebase of large scale metabolic reconstructions BMC Bioinformatics 11 213 20426874 
+
+            Shlomi T  
+            Cabili MN  
+            Herrgard MJ  
+            Palsson BO  
+            Ruppin E  
+           2008 Network-based prediction of human tissue-specific metabolism Nature biotechnology 26 1003 1010 
+
+            Soukas AA  
+            Kane EA  
+            Carr CE  
+            Melo JA  
+            Ruvkun G  
+           2009 Rictor/TORC2 regulates fat metabolism, feeding, growth, and life span in Caenorhabditis elegans  Genes Dev 23 496 511 19240135 
+
+            Thiele I  
+            Palsson BO  
+           2010 A protocol for generating a high-quality genome-scale metabolic reconstruction Nat Protoc 5 93 121 20057383 
+
+            Topfer N  
+            Kleessen S  
+            Nikoloski Z  
+           2015 Integration of metabolomics data into metabolic networks Front Plant Sci 6 49 25741348 
+
+            UniProt C  
+           2015 UniProt: a hub for protein information Nucleic Acids Res 43 D204 212 25348405 
+
+            Van Raamsdonk JM  
+            Meng Y  
+            Camp D  
+            Yang W  
+            Jia X  
+            Benard C  
+            Hekimi S  
+           2010 Decreased energy metabolism extends life span in Caenorhabditis elegans  without reducing oxidative damage Genetics 185 559 571 20382831 
+
+            Vaz FM  
+            Wanders RJ  
+           2002 Carnitine biosynthesis in mammals The Biochemical journal 361 417 429 11802770 
+
+            Wang J  
+            Kim SK  
+           2003 Global analysis of dauer gene expression in C. elegans  Development 130 1621 1634 12620986 
+
+            Watson E  
+            MacNeil LT  
+            Arda HE  
+            Zhu LJ  
+            Walhout AJM  
+           2013 Integration of metabolic and gene regulatory networks modulates the C. elegans  dietary response Cell 153 253 266 23540702 
+
+            Watson E  
+            MacNeil LT  
+            Ritter AD  
+            Yilmaz LS  
+            Rosebrock AP  
+            Caudy AA  
+            Walhout AJM  
+           2014 Interspecies systems biology uncovers metabolites affecting C. elegans  gene expression and life history traits Cell 156 759 770 24529378 
+
+            Watson E  
+            Walhout AJ  
+           2014 Caenorhabditis elegans  metabolic gene regulatory networks govern the cellular economy Trends Endocrinol Metab 25 502 508 24731597 
+
+            Watson E  
+            Yilmaz LS  
+            Walhout AJM  
+           2015 Understanding metabolic regulation at a systems level: metabolite sensing, mathematical predictions and model organisms Annu Rev Genet in press 
+
+            Yilmaz LS  
+            Walhout AJM  
+           2014 Worms, bacteria and micronutrients: an elegant model of our diet Trends Genet 30 496 503 25172020 
+
+            Yochem J  
+            Hall DH  
+            Bell LR  
+            Hedgecock EM  
+            Herman RK  
+           2005 Isopentenyl-diphosphate isomerase is essential for viability of Caenorhabditis elegans  Mol Genet Genomics 273 158 166 15765206 
+
+            Zhang W  
+            Cao P  
+            Chen S  
+            Spence AM  
+            Zhu S  
+            Staudacher E  
+            Schachter H  
+           2003 Synthesis of paucimannose N-glycans by Caenorhabditis elegans  requires prior actions of UDP-N-acetyl-D-glucosamine:alpha-3-D-mannoside beta1,2-N-acetylglucosaminyltransferase I,alpha3,6-mannosidase II and a specific membrane-bound beta-N-acetylglucosaminidase The Biochemical journal 372 53 64 12603202 
+

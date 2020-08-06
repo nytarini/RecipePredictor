@@ -1,0 +1,637 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   01476213548Environ ResEnviron. Res.Environmental research0013-93511096-095330388496627458710.1016/j.envres.2018.10.022NIHMS1511223ArticleMultiple Metal Exposures and Metabolic Syndrome: A Cross-Sectional Analysis of the National Health and Nutrition Examination Survey 2011-2014 Bulka Catherine M. 1*Persky Victoria W. 1Daviglus Martha L. 2Durazo-Arvizu Ramon A. 2Argos Maria 11 Division of Epidemiology and Biostatistics, University of Illinois at Chicago School of Public Health, Chicago, IL, USA2 Institute for Minority Health Research, University of Illinois College of Medicine, Chicago, IL, USA* Corresponding Author: Catherine M. Bulka, PhD, University of Illinois at Chicago, School of Public Health, Epidemiology and Biostatistics Division, 1603 W. Taylor St., Chicago, IL 60612. cbulka2@uic.edu1 11 2018 24 10 2018 1 2019 01 1 2020 168 397 405 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background:
+Epidemiologic studies suggest toxic metals are linked with diabetes and cardiovascular disease, while experimental studies indicate nutritionally essential metals are involved in the metabolism of macronutrients and defense against oxidative stress.
+
+Objectives:
+We sought to evaluate how essential and toxic metals are cross-sectionally related to metabolic syndrome, a clustering of cardiometabolic conditions.
+
+Methods:
+Using data from the 2011-2014 National Health and Nutrition Examination Survey (n=1,088), we characterized metal concentrations as measured in spot urine (arsenic, cadmium, and inorganic/elemental mercury), whole blood (manganese, lead, methylmercury, and selenium), and serum (copper and zinc) samples. Principal component analysis was performed to derive patterns of exposures. Metabolic syndrome was defined according to the 2009 Joint Scientific Statement as the presence of ≥3 of the following conditions: high blood pressure, high triglycerides, low HDL cholesterol, high fasting glucose, and abdominal obesity.
+
+Results:
+After adjustment for potential confounders, prevalence ratios for metabolic syndrome comparing the highest to the lowest quartiles were 1.41 (95% CI: 1.18-1.67) for the arsenic-inorganic/elemental mercury pattern, 0.95 (0.78-1.16) for the methylmercury-manganese pattern, 73 (0.57-0.94) for the cadmium-lead pattern, 0.91 (0.76-1.10) for the copper pattern, and 1.36 (1.13-1.63) for the selenium-zinc pattern. The positive associations observed for the arsenic-inorganic/elemental mercury pattern were due to an elevated prevalence of high blood pressure, low HDL cholesterol, and high triglycerides among those with greater exposures. Associations for the selenium-zinc pattern were driven by a positive relationship with high triglycerides. Greater lead-cadmium co-exposures were related to a lower prevalence of dyslipidemia and abdominal obesity.
+
+Conclusions:
+These cross-sectional findings suggest both toxic and essential metal exposures may contribute to cardiometabolic health, but need to be confirmed with prospective data.
+
+toxic metalsessential metalsmetabolic syndromeepidemiology
+   1. Introduction
+Metabolic syndrome is a constellation of cardiometabolic conditions (high blood pressure, dyslipidemia, high glucose, and abdominal obesity) that now affects 1 in 3 adults within the U.S.(1) As a recognized risk factor for type 2 diabetes and cardiovascular disease, there is a need to better understand the drivers of the syndrome so that targeted preventive efforts can be undertaken.(2) While excessive macronutrient intakes and physical inactivity have been identified as major contributors, the high burden of metabolic syndrome remains not fully explained.(3) Recent studies suggest that environmental exposures, in particular to metals and metalloids (hereafter referred to collectively as “metals”), could play an important role in cardiometabolic health.(4)
+
+To date, few epidemiologic studies have been conducted regarding metal exposures and metabolic syndrome. One recently published prospective study suggested arsenic exposure was positively associated with fasting glucose levels, but not with overall metabolic syndrome risk.(5) Other studies of individual component conditions of metabolic syndrome additionally provide suggestive evidence for toxic metal exposures. For example, positive associations of arsenic, cadmium, and lead have each been observed with high blood pressure, whereas both arsenic and mercury exposure have been linked to incident diabetes.(6-10) Data regarding nutritionally essential metals are sparse, but suggest both low and high levels of exposure to copper, manganese, selenium, and zinc (for which the predominant exposure pathways are dietary or supplemental mineral intakes) correspond with altered cardiometabolic phenotypes.(11-19) Specifically, greater dietary zinc intakes have been inversely related to diabetes risk, but have also been associated with elevated triglycerides.(12-14) In contrast, copper and selenium have both been shown to be positively associated with diabetes and dyslipidemia.(11, 17-19) Finally, a positive relationship has been observed for manganese with blood pressure, but a U-shaped relationship has been seen with diabetes.(15, 16)
+
+Toxic metals have no known biological roles in humans, while the essential ones are required for normal physiologic functioning. However, some of the metal-binding proteins responsible for the uptake and transport of essential metals—ultimately controlling their homeostasis—can lack specificity.(20) These metallothioneins can thus be subjected to molecular mimicry, such that a nutritionally essential metal can be replaced by a toxic one.(21) Given the possibility for deficiencies or excesses of essential metals to disrupt biological processes and for non-essential metals to exert toxic effects, we sought to investigate the cross-sectional associations of multiple metal exposures with metabolic syndrome and its component conditions in U.S. adults. In addition to assessing relationships of metals with prevalent metabolic syndrome individually, we also aimed to characterize metal mixtures across various biologic matrices. Our findings therefore could be useful for identifying common sources of exposure and could further improve our understanding of metal combinations with implications for cardiometabolic health.
+
+2. Materials and Methods
+2.1. Study Population
+The cross-sectional National Health and Nutrition Examination Survey (NHANES) employs stratified, multi-stage probability sampling of the non-institutionalized civilian resident population of the U.S. to assess health and nutritional status through interviews and physical examinations.(22) In the 2011-2012 and 2013-2014 cycles, a total of 19,931 individuals were selected to participate from 60 different locations. A random one-third subsample was selected for urinary and serum metal assays, a random one-half subsample was selected for blood metal assays during the 2013-2014 cycle (all were eligible for blood metal assays during the 2011-2012 cycle), and participants randomly assigned for examination during the morning session had glucose levels measured after an overnight fast. These subsamples only partially overlapped. We restricted our analyses to non-pregnant and non-lactating individuals 20 years of age or older (n=11,145). We excluded individuals who were missing measurements of the selected metal biomarkers (n=7,879), and those who fasted fewer than 8 hours (n=1,793), were missing glucose measurements (n=1), triglyceride measurements (n=11), blood pressure readings (n=54), waist circumference measurements (n=39), and missing covariate information (n=280). Thus, our final analytic sample was 1,088 participants. Compared to the study sample, excluded individuals were similar in age, family income to poverty line ratio, smoking status, alcohol consumption, body mass index, and calorie consumption, but were slightly more likely to be female, non-white, less educated, and less physically active (p &lt; 0.05, Supplemental Table 1). Written, informed consent was provided by all participants.
+
+2.2 Biomarkers of Exposure
+Spot urine, whole blood, and serum concentrations of essential (copper, manganese, selenium, and zinc) and toxic metals (arsenic, cadmium, mercury, and lead, including arsenic and mercury species) were measured using inductively coupled plasma mass spectrometry (ICP-MS). Speciation of mercury in whole blood to quantify methylmercury concentrations was performed using a triple spike isotope dilution method employed via gas chromatography and ICP-MS.(23) The concentrations of arsenic species in urine, including arsenobetaine, were determined by using high performance liquid chromatography. Specimens were collected at the time of the laboratory exam, shipped on dry ice to the National Center for Environmental Health (NCEH) in Atlanta, GA, and stored frozen at −20°C until assayed. For metals measured in multiple biological matrices (Table 1), we selected the most sensitive, reliable, or stable biomarker of exposure with the exception of mercury. (24-31) Because the chemical form of mercury varies by bodily fluid, we included both blood methylmercury (an organic mercury compound) and urinary mercury, which primarily represents elemental and inorganic mercury, in our analyses. To isolate the more toxic forms of arsenic present in urinary total arsenic concentrations, we implemented a validated residual-based approach. (32) Briefly, we regressed natural log-transformed total arsenic on natural log-transformed arsenobetaine concentrations, a non-toxic organic arsenical derived from recent seafood intake. We then added the conditional mean of total arsenic among individuals with non-detectable arsenobetaine (&lt;1.19 μg/L) to the model residuals to obtain values that can be considered approximations of inorganic arsenic exposure.
+
+For all biomarkers, concentrations below the detection limit were substituted with the limit divided by √2, per the NHANES protocol.(33) If the limit differed between the two survey cycles, we selected the higher of the two and replaced any values below. To account for measurement error due to urine dilution, we calculated metal excretion rates for metal biomarkers measured in urine (calibrated arsenic, cadmium, and mercury) as our prior work indicates excretion rates may be a less biased method than traditional creatinine corrections.(34) Excretion rates can be interpreted as the amount of analyte excreted over the time period covered by the collected urinary voids, and were calculated using the formula below:
+ ER(ng/hr)=Analyteconcntration(ng/mL)×ΣVoidvolume(mL)Timesincelastvoid(hr) (35) Concentrations of the respective analyte were converted to nanograms per milliliter (ng/mL), the total amount of urine voids collected in the mobile examination center was measured in milliliters (mL), and the duration of hours between the void prior to examination as self-reported by the participant and the last collected void during the examination was recorded (hr).
+
+2.3 Metabolic Syndrome and Component Conditions
+Examinations were conducted by trained health technicians, health interviewers, phlebotomists, and physicians in the mobile examination center. Body weight, height, and waist circumference were measured according to NIH guidelines. Three (four if a prior attempt was interrupted or incomplete) seated blood pressure measurements were obtained after a 5-minute rest using a calibrated mercury sphygmomanometer. The first measurement was discarded, and the average of all remaining measurements was calculated for use in analyses. Participants randomly assigned to a morning session were asked to fast overnight prior to the examination. Blood samples obtained from these participants were processed in the mobile examination center laboratory. Plasma specimens were shipped to the University of Missouri-Columbia, MO where plasma glucose was measured using a hexokinase enzymatic method (Roche Diagnostics, Indianapolis, IN). Serum specimens were sent to the University of Minnesota, Minneapolis, MN, for measurement of HDL cholesterol by a magnesium/dextran sulfate method and serum triglycerides by a glycerol blanking enzymatic method (Roche Diagnostics). Trained interviewers using the Computer-Assisted Personal Interviewing (CAPI) system collected information about prescription medications taken in the past month as part of the Prescription Medication Questionnaire administered in the home. Participants were asked to show the interviewer medication containers, or verbally report the medication name if no container was presented. Antihypertensive, antidiabetes, and lipid-modifying medications (fibrates and niacins) were coded using the Multum Lexicon Plus® Drug Database. Dietary supplement use in the last 30 days was also assessed, thus we included supplemental use of niacins in addition to prescribed.
+
+Metabolic syndrome was defined according to the harmonized definition as the presence of at least 3 of following component conditions: 1) high blood pressure (systolic blood pressure ≥130 mmHg, diastolic blood pressure ≥85 mmHg, or current use of medication to treat high blood pressure); 2) high triglyceride levels (≥150 mg/dL, or current use of medication to treat elevated triglycerides); 3) low HDL cholesterol levels (≤50 mg/dL for women, ≤40 mg/dL for men, or current use of medication to treat reduced HDL); 4) abdominal obesity (waist circumference of ≥88 centimeters for women or ≥102 centimeters for men); or 5) high fasting blood glucose levels (≥100 mg/dL or current use of medication to treat hyperglycemia).(2)
+
+2.4 Covariates
+Body mass index (BMI), expressed in kg/m2, was calculated using participants’ weight and height. Interviewer-administered questionnaires were used to obtain information on demographics (age, gender, race/ethnicity), educational attainment, and annual family income. Questionnaires also ascertained lifestyle factors, including cigarette use, alcohol intake, and physical activity. Cigarette use was classified as never (those who reported smoking fewer than 100 cigarettes in their lifetime), former (reported ever smoking at least 100 cigarettes in their lifetime but do not currently smoke), or current (smoked at least 100 cigarettes and currently smoke some days or every day). The average number of alcoholic drinks consumed per day in the past year was calculated based on the reported frequency and average number of drinks on a consumption day. Participants were asked to self-report frequency and duration of moderate and vigorous physical activity across work, transportation, and leisure-time domains. With these data, we derived a dichotomous variable to indicate whether or not the participant met the 2008 U.S. national physical activity guidelines of ≥150 minutes of moderate activity, ≥75 minutes of vigorous activity per week, or an equivalent combination.(36) Finally, participants underwent up to two 24-hour dietary recalls; the average total caloric intake across the 48-hour period was calculated.
+
+2.5 Statistical Analyses
+All statistical analyses were performed using Stata 13.1 (College Station, TX). As previously described, metal biomarkers and fasting glucose were each measured in sub samples that only partially overlapped. For this reason, we did not employ sampling weights in any of our analyses per the recommendation of the National Center for Health Statistics.(37) We did, however, account for clustering from primary sampling units and stratification when estimating variances by Taylor series linearization. At a minimum, all multivariable regression models included age, gender, race/ethnicity, and family income relative to the federal poverty line as covariates, since these variables were used to identify sampled participants.(37, 38) In addition, we included these variables in logistic regression models to estimate the prevalence of metabolic syndrome and its component conditions in the target population via marginal standardization.(39)
+
+We calculated distribution percentiles and geometric means for each of the following metal biomarkers: 1.) urinary arsenic excretion rates (after calibration to remove the contribution of organic arsenic from recent seafood consumption, in ng/hr); 2.) urinary cadmium excretion rates (ng/hr); 3.) serum copper concentrations (μg/dL); 4.) blood manganese concentrations (μg/L); 5.) blood methylmercury concentrations (μg/L); 6.) urinary mercury excretion rates (ng/hr); 7.) blood lead concentrations (μg/dL); 8.) blood selenium concentrations (μg/L); and 9.) serum zinc concentrations (μg/dL). Least square geometric mean biomarker excretion rates and concentrations were compared across participant characteristics using linear regression models that accounted for the complex survey design.
+
+Separate Poisson regression models were performed to estimate the prevalence ratios for each metal, categorized into quartiles, with metabolic syndrome and its individual component conditions. Biomarker quartiles were initially modeled using dummy variables with the lowest quartile serving as the reference group. Taylor series linearization was again used to obtain design-based 95% confidence intervals. Dummy variables were then replaced by corresponding ordinal variables so that p-values for linear trends could be calculated. Minimally adjusted models (Model 1) included age, gender, race/ethnicity, and family income: poverty ratio, as covariates since these variables were used to select NHANES participants.(37, 38) Age and family income: poverty ratio were modeled continuously, while gender (male or female) and race/ethnicity (non-Hispanic white, non-Hispanic black, Hispanic, or other including multiracial) were parameterized as indicator variables. Model 2 further adjusted for total caloric intake (continuous, kcal/day), educational attainment (less than high school, high school diploma or GED, or at least some college), smoking status (current, former, or never), average number of drinks per day in past year (continuous), physical activity status (met the 2008 physical activity guidelines or did not), and survey cycle (2011-2012 or 2013-2014). BMI (kg/m2) was entered as an additional continuous covariate in Model 2, except for in models of abdominal obesity so as to avoid over-adjustment.
+
+Pearson’s correlation coefficients were calculated between all possible pairs of metal biomarkers. To derive patterns of metal exposures and identify which patterns were associated with metabolic syndrome, we performed principal components analysis (PCA). Because all of the toxic metals and some of the essential metals (manganese and zinc) were right-skewed, we natural log-transformed these biomarkers prior to conducting PCA. The appropriateness of this transformation was confirmed by visual examination of the distributions. We applied an orthogonal varimax rotation to the factors, and retained those with eigenvalues greater than 1.(40) Continuous scores (linear combinations of the metal biomarkers multiplied by their respective loadings) for each of the retained components were predicted for each individual. After categorizing these scores into quartiles, all were entered simultaneously into Poisson regression models of metabolic syndrome and the individual component conditions with adjustment for age, gender, race/ethnicity, family income: poverty ratio, total caloric intake, educational attainment, smoking status, alcohol consumption, physical activity status, survey cycle, and BMI (except for in models of abdominal obesity). The distributions of the component scores were additionally compared across participant characteristics in order to describe patterns of concomitant exposures.
+
+2.6 Sensitivity Analyses
+We ran several sensitivity analyses to assess the robustness of our findings. First, we adjusted for serum cotinine in addition to self-reported smoking status in order to address any residual confounding. Second, we adjusted models of methylmercury for recent seafood consumption since the relationships of blood concentrations with metabolic syndrome and individual components might be confounded by certain dietary patterns. We used the frequency of seafood meals eaten in the past 30 days as a covariate, which we derived by summing types of shellfish (clams, crabs, crayfish, lobsters, mussels, oysters, scallops, shrimp, other known/unknown shellfish) and fish (breaded fish, tuna, bass, catfish, cod, flatfish, haddock, mackerel, perch, pike, pollock, porgy, salmon, sardines, sea bass, shark, swordfish, trout, walleye, and other known/unknown fish) self-reported during the first dietary recall. Third, we performed stratified analyses to better understand the influence of weight loss on associations of blood lead concentrations with metabolic syndrome, as studies indicate this process can release lead (of which more than 90% is stored) in bone into the bloodstream.(41, 42) We defined weight loss as a measured body weight that was at least 4 kg lower than the participants’ self-reported weight from one year prior to the examination date. Fourth, we additionally adjusted for bone mineral density of the femoral neck (measured by dual energy x-ray absorptiometry only within the 2013-14 cycle) in models of blood lead concentrations because of the aforementioned lead content in bones and because bone mineral density may be a risk factor for metabolic syndrome.(41, 43)
+
+3. Results
+The selected metals were detectable in the majority of participants (Supplemental Table 2). Arsenic excretion rates and blood manganese concentrations were significantly lower among older individuals, while cadmium excretion rates, blood methylmercury, and blood lead concentrations were lowest amongst younger individuals (Table 2). There were gender-based differences; arsenic, lead, selenium, and zinc were higher in men, but cadmium, copper, and manganese were higher in women. We further observed racial/ethnic differences for all metal biomarkers except for zinc. Cadmium excretion rates, serum copper, and blood lead concentrations were positively related to current smoking. Arsenic and lead biomarkers were higher among alcohol drinkers. Serum copper concentrations increased with body mass index, whereas blood methylmercury and blood lead concentrations declined.
+
+A total of 514 of the 1,088 individuals analyzed satisfied the criteria for metabolic syndrome. After standardizing by age, gender, race/ethnicity, and family income: poverty ratio, the corresponding prevalence of the syndrome was 34.2% (Supplemental Table 3). The prevalence of individual component conditions ranged from 22.2% (high blood pressure) to 47.5% (low HDL cholesterol).
+
+Point estimates from single-metal regression models are provided in Supplemental Table 4. In fully adjusted single-metal regression models, urinary arsenic excretion rates, urinary mercury excretion rates, blood selenium concentrations, and serum zinc concentrations were positively related to metabolic syndrome in a dose-dependent manner (all ptrends &lt; 0.05, Figure 1; Supplemental Table 4). For arsenic, the only statistically significant positive association was with high triglycerides among individuals with excretion rates in the highest quartile (PR: 1.26, 95% CI: 1.06-1.50, Figure 2). Urinary mercury excretion rates above the 75th percentile were associated with a 32% (95% CI: 3-69%; Figure 2) greater prevalence of high blood pressure and 45% (95% CI: 22-74%; Figure 2) greater prevalence of high triglycerides. Blood selenium concentrations were positively related to dyslipidemia (Figure 2), such that the prevalence of high triglycerides was elevated by 43% (95% CI: 13-82%) and low HDL cholesterol by 21% (95% CI: 2-43%) among those in the highest quartile compared to the lowest. Serum zinc concentrations in the highest quartile were associated with a greater likelihood of high triglycerides (PR=1.43, 95% CI: 1.23-1.66), low HDL (PR=1.14, 95% CI: 1.02-1.27) and high glucose (PR=1.17, 95% CI: 1.03-1.33) compared to the lowest quartile (Figure 2).
+
+Blood lead concentrations were marginally associated with prevalent metabolic syndrome but the relationship was negative in direction (Figure 1). Significant inverse linear associations of blood lead were observed for low HDL (PRQ4 vs. Q1 =0.73, 95% CI: 0.59-0.90; Figure 2) and abdominal obesity (PRQ4 vs. Q1 =0.67, 95% CI: 0.56-0.79; Figure 5). We additionally observed an inverse relationship of blood methylmercury with abdominal obesity (ptrend = 0.039), and positive relationship of serum copper with abdominal obesity (ptrend &lt; 0.001), but these did not correspond to differences in frank metabolic syndrome prevalence (Figure 2).
+
+Sensitivity analyses controlling for serum cotinine (Supplemental Table 5) and for femoral bone mineral density models of blood lead concentrations (Supplemental Table 6) did not appreciably alter the results. Stratified models of blood lead concentrations with metabolic syndrome and component conditions also did not appear to differ between those who self-reported losing weight and those who self-reported maintaining or gaining weight in the past year (data not shown). The significant inverse association of blood methylmercury with abdominal obesity disappeared after adjusting for recent seafood consumption (Supplemental Table 7).
+
+Bivariate correlations between the metal biomarkers were generally low (Figure 3). The highest Pearson correlation coefficient observed was between blood methylmercury and mercury excretion rates (r = 0.34), indicating a common exposure source for both or that some methylmercury may be excreted via urine.(29) All other correlation coefficients were below 0.20. Five principal components explained 70.39% of the total variance (Table 3). We characterized these into the following distinct patterns: arsenic-inorganic/elemental mercury, manganese-methylmercury, cadmium-lead, copper, and selenium-zinc. Distributions of the component scores derived from PCA are described in Supplemental Table 8. Co-exposures to arsenic and inorganic/elemental mercury were highest amongst participants who were middle-aged (40-59 years), attended at least some college, had a family income above the federal poverty threshold, drank an average of 1-2 alcoholic beverages per day, and met the physical activity guidelines. The manganese-methylmercury pattern was positively associated with female gender, “other” race/ethnicity, at least some college education, a family income above the poverty line, never or formerly smoking, having an average of 1-2 alcoholic drinks daily, lower BMI, and lower caloric intakes during the 24-hour recalls. Cadmium-lead exposures were lower during the 2013-2014 NHANES cycle, and among younger (20-39 years), female, non-Hispanic white, less educated (less than high school or a diploma/GED), never smoker, non- and light alcohol drinker, obese (BMI ≥30 kg/m2), physically active, and lower calorie consumer participants. The copper pattern was associated with middle age, female gender, a family income below the federal poverty line, not drinking alcohol, obesity, physical inactivity, and lower caloric intakes. Finally, co-exposures to selenium and zinc were higher among males, non- Hispanic whites, and former/current smokers.
+
+Regression model coefficients for the component scores, adjusted for the same covariates as Model 2 in the primary analyses, are displayed in Figure 4. The arsenic-inorganic/elemental mercury pattern was positively and linearly associated with the prevalence of metabolic syndrome (ptrend &lt; 0.001), primarily due to an association with high triglycerides (ptrend &lt; 0.001). Co-exposures to manganese and methylmercury appeared unrelated to metabolic syndrome and each of its component conditions. Increasing quartiles for the cadmium-lead pattern showed inverse associations with metabolic syndrome (ptrend = 0.014), high triglycerides (ptrend = 0.001), low HDL (ptrend = 0.002), and abdominal obesity (ptrend &lt; 0.001). Associations for the copper pattern mirrored those observed in the single-metal models, with null relationships observed for metabolic syndrome and all component conditions except for abdominal obesity (ptrend = 0.002). Lastly, selenium-zinc scores were monotonically related to the prevalence of metabolic syndrome (ptrend &lt; 0.001), but only the positive association with high triglycerides was statistically significant (ptrend &lt; 0.001).
+
+4. Discussion
+This is the first study to assess exposures to multiple metals with metabolic syndrome in the United States. We found higher levels of arsenic, inorganic/elemental mercury, selenium, and zinc biomarkers to be cross-sectionally associated with an increased prevalence of metabolic syndrome. These relationships persisted after adjusting for various sociodemographic and lifestyle characteristics. When assessing patterns of co-exposures through principal component analysis, we again observed increasing exposures to arsenic, inorganic/elemental mercury, selenium, and zinc were associated with a greater burden of metabolic syndrome. Conversely, blood lead concentrations, especially when coupled with urinary cadmium excretion rates, were consistently inversely related to prevalent metabolic syndrome, low HDL cholesterol levels, and abdominal obesity.
+
+Prior research studies assessing metal exposures in isolation have found arsenic and inorganic/elemental mercury exposures to be associated with high blood pressure, whereas selenium has been associated with high triglycerides.(7, 18, 44) The identified combinations of arsenic with inorganic/elemental mercury and selenium with zinc, however, are a novel contribution of the present analysis. Arsenic and inorganic/elemental mercury co-exposures may be due to a shared exposure pathway. For example, diets heavy in contaminated foods like rice are one possible source; air pollution is another.(45-47) The selenium-zinc pattern could similarly be the result of dietary patterns (e.g., meat is rich in both minerals) or multi-mineral supplement use.(48) Toxic metals arsenic and mercury could influence the development of cardiometabolic abnormalities by an assortment of mechanisms, including epigenetic changes, oxidative stress, and/or inflammation.(4, 7) The essential metals selenium and zinc, on the other hand, are considered to defend against oxidative stress. There are, however, mechanistic data to suggest excessive selenium does not necessarily correlate with enhanced antioxidant activity and that excessive zinc can actually increase the expression of pro-inflammatory cytokines. (49-52) Hence, our findings may reflect possible harmful effects of selenium and zinc at exposure levels above certain thresholds.
+
+The consistent inverse associations of blood lead with metabolic syndrome was unexpected, as was the lack of an association with high blood pressure given the hypertensive effect of lead exposure is widely documented.(8) That being said, lead exposure may only be weakly related to blood pressure – a meta-analysis found that a 10 μg/g increase in tibia lead levels, which reflects long-term exposure better than blood concentrations, corresponds to a 0.02 to 0.26 mmHg increase in diastolic and systolic blood pressures, respectively.(8) Nearly all analyzed individuals had low-level blood lead concentrations (&lt;5 μg/dL), and the estimated prevalence of high blood pressure was only 22.2%. We may have been underpowered to detect an association, especially because most studies observing positive associations of blood lead concentrations with high blood pressure have been conducted in populations with much higher lead exposure levels than those typically seen within the United States. In addition, other NHANES analyses have shown lead and cadmium are both negatively associated with measures of obesity, congruent with our finding for abdominal obesity.(53, 54) An inverse link between blood lead concentrations and HDL cholesterol has also been reported by a small recent Taiwanese study (n=677), which the authors posited might be related to metallothionein activity based on their observation of effect modification by genetic variants of MT2A (which encodes the metallothionein-2 protein).(55) The results of our analyses of the cadmium-lead pattern derived from principal component analysis, in which we observed negative associations with metabolic syndrome, high triglycerides, low HDL cholesterol, and abdominal obesity, and a U-shaped association with high blood pressure, were also surprising. However, inverse associations of urinary cadmium with blood pressure have been reported in the literature, and thus divergent relationships of lead and cadmium may explain the apparent U-shaped dose-response curve.(56) We cannot rule out the possibility that the negative relationships of blood lead/cadmium with dyslipidemia and abdominal obesity could be due to reverse causation. For example, lifestyle changes in response to these conditions may lead to weight loss, which has been found to mobilize lead stored in bones and increase the amount circulating in the bloodstream.(42, 57) In sensitivity analyses, we did not observe differences of lead-metabolic syndrome (and component condition) associations by recent weight loss, but these results may have been biased given the self-reported nature of the available weight history data.
+
+While novel and comprehensive, the present study has several limitations worth nothing. The cross-sectional study design precludes the establishment of temporality. Higher levels of arsenic, inorganic/elemental mercury, copper, selenium, and zinc and lower levels of cadmium and lead could be found in their respective biologic matrices as a consequence of metabolic syndrome or any number of the individual component conditions. Additionally, the biomarkers assessed in this study were measured only at one point in time and thus provide only a snapshot of exposures. Urinary arsenic, blood manganese, urinary and blood mercury, and blood lead concentrations in particular may only be capturing very recent exposures, whereas the utility of serum copper and zinc concentrations remains unknown. Future studies should consider repeatedly measuring metal biomarkers to better elucidate longitudinal associations with metabolic syndrome. Likewise, other biologic matrices such as toenails or hair might serve as better long-term markers of metal exposures, although are not immune to measurement error and could be particularly affected by variable growth rates.(58)
+
+Despite these drawbacks, the current analysis has several strengths. It is the first to evaluate essential and toxic metal exposures – individually and jointly – with metabolic syndrome among U.S. adults. NHANES collected a range of biospecimens, thereby allowing for improvements over other studies that are often relegated to measuring metals in a single matrix. Furthermore, although we did not use NHANES sampling weights and thus our results may not be entirely generalizable, our analytic sample included racially and ethnically diverse men and women, aged 20-74 years, from across the country. In summary, this work provides insights on manifold metal exposures and their interrelationships with adverse cardiometabolic health. Future prospective studies are needed to confirm whether these findings represent causal associations.
+
+Supplementary Material
+1  2  3  4  5  6  7  8  Funding:
+
+Catherine M. Bulka was supported by the National Heart, Lung, and Blood Institute (NHLBI) T32-HL125294.
+
+Approval:
+
+This study was determined by the University of Illinois at Chicago Institutional Review Board to not meet the definition of human subject research as defined by 45 CFR 46.102(f).
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Figure 1: Adjusted* prevalence ratios (95%) for metabolic syndrome by metal biomarker.
+
+*Adjusted for age (continuous, years), gender (male or female), race/ethnicity (non-Hispanic white, non-Hispanic black, Hispanic, or other including multi-racial), family income: poverty ratio (continuous), total caloric intake (continuous, kcal/day), educational attainment (less than high school, high school diploma or GED, or at least some college), smoking status (current, former, or never), average number of drinks per day in past year, physical activity status (met the 2008 physical activity guidelines or did not), survey cycle (2011-2012 or 2013-2014), and body mass index (continuous, kg/m2)
+
+Figure 2: Adjusted* prevalence ratios (95%) for metabolic syndrome component conditions by metal biomarker.
+
+*Adjusted for age (continuous, years), gender (male or female), race/ethnicity (non-Hispanic white, non-Hispanic black, Hispanic, or other including multi-racial), family income: poverty ratio (continuous), total caloric intake (continuous, kcal/day), educational attainment (less than high school, high school diploma or GED, or at least some college), smoking status (current, former, or never), average number of drinks per day in past year, physical activity status (met the 2008 physical activity guidelines or did not), survey cycle (2011-2012 or 2013-2014), and body mass index (continuous, kg/m2)
+
+Figure 3: Pearson correlation coefficients between metal biomarkers.
+
+Figure 4: Adjusted prevalence ratios (95% CI) for metabolic syndrome and individual component conditions by principal component score quartiles in NHANES*
+
+*Adjusted for age (continuous, years), gender (male or female), race/ethnicity (non-Hispanic white, non-Hispanic black, Hispanic, or other including multi-racial), family income: poverty ratio (continuous), total caloric intake (continuous, kcal/day), educational attainment (less than high school, high school diploma or GED, or at least some college), smoking status (current, former, or never), average number of drinks per day in past year, and physical activity status (met the 2008 physical activity guidelines or did not), survey cycle (2011-2012 or 2013-2014), with additional adjustment for body mass index (continuous, kg/m2) in all models except for those of abdominal obesity
+
+Table 1. Metal biomarkers available in NHANES 2011-14 by matrix, validity, reliability, or exposure time windowa
+
+Element	Urine	Serum	Whole blood	
+Arsenic	Recent exposure			
+Cadmium	Body burden		Recent exposure	
+Copper		Unknown		
+Manganese	Less sensitive		Recent exposure	
+Mercuryb	Reliable (inorganic/elemental)		Recent exposure (methylmercury)	
+Lead	Unreliable		Recent exposure	
+Selenium		Recent exposure	Body burden	
+Zinc		Unknown		
+a Selected biomarkers are highlighted in gray
+
+b Urinary mercury was assumed to represent inorganic/elemental mercury concentrations whereas methylmercury concentrations were measured in blood
+
+Table 2. Geometric means of metal biomarkers by participant characteristics
+
+Characteristic	N	As
+(ng/hour)	Cd
+(ng/hour)	Cu
+(μg/dL)	Mn
+(μg/L)	MeHg
+(μg/L)	Hg
+(ng/hour)	Pb
+(μg/dL)	Se
+(μg/L)	Zn
+(μg/L)	
+
+              Survey cycle
+            											
+ 2011-2012	519	246.0
+(5.9)	11.6
+(0.4)	112.7
+(1.1)	9.3
+(0.2)	0.63
+(0.05)	18.9
+(0.9)	1.17
+(0.04)*	192.7
+(1.4)*	87.0
+(0.8)	
+ 2013-2014	569	260.6
+(6.1)	10.6
+(0.4)	116.9
+(1.9)	9.5
+(0.1)	0.56
+(0.05)	16.8
+(1.1)	1.00
+(0.03)*	198.0
+(0.9)*	87.5
+(1.2)	
+
+              Age (years)
+            											
+ 20-39	390	271.6
+(7.6)*	7.0
+(0.3)*	112.2
+(1.5)*	9.7
+(0.2)*	0.51
+(0.04)*	15.5
+(0.9)*	0.78
+(0.03)*	195.0
+(1.2)	88.0
+(1.0)	
+ 40-59	368	264.1
+(8.3)*	13.9
+(0.6)*	117.3
+(1.7)*	9.4
+(0.2)*	0.60
+(0.05)*	21.8
+(1.5)*	1.16
+(0.03)*	196.5
+(1.3)	87.3
+(0.9)	
+ 60+	330	223.2
+(7.8)*	14.8
+(0.7)*	115.4
+(1.3)*	9.0
+(0.1)*	0.69
+(0.06)*	16.7
+(1.1)*	1.46
+(0.05)*	194.9
+(1.5)	86.4
+(0.9)	
+
+              Gender
+            											
+ Female	515	238.3
+(6.6)*	11.7
+(0.4)*	128.8
+(1.3)*	10.0
+(0.1)*	0.59
+(0.04)	17.9
+(0.9)	0.90
+(0.03)*	192.8
+(1.2)*	85.0
+(0.8)*	
+ Male	573	268.0
+(5.8)*	10.5
+(0.5)*	103.6
+(1.2)*	8.9
+(0.1)*	0.59
+(0.03)	17.7
+(0.9)	1.27
+(0.04)*	197.9
+(1.1)*	89.3
+(0.8)*	
+
+              Race/ethnicity
+            											
+ White	491	255.3
+(6.5)*	10.8
+(0.4)*	113.1
+(1.6)*	9.0
+(0.1)*	0.47
+(0.03)*	16.6
+(1.1)*	1.10
+(0.03)*	195.7
+(1.1)*	88.2
+(0.8)	
+ Black	220	219.7
+(6.3)*	12.9
+(0.9)*	124.1
+(1.7)*	8.4
+(0.1)*	0.68
+(0.07)*	16.2
+(0.9)*	1.10
+(0.06)*	192.0
+(1.7)*	84.7
+(1.1)	
+ Hispanic	238	266.5
+(7.8)*	9.3
+(0.5)*	117.3
+(1.9)*	10.0
+(0.2)*	0.54
+(0.06)*	18.9
+(2.0)*	0.96
+(0.05)*	194.9
+(1.6)*	88.1
+(1.5)	
+ Other	139	284.8
+(16.6)*	12.5
+(0.9)*	103.5
+(2.0)*	11.5
+(0.4)*	1.24
+(0.16)*	23.4
+(2.1)*	1.20
+(0.06)*	201.0
+(2.1)*	86.6
+(1.2)	
+
+              Education
+            											
+ Less than high school	214	228.0
+(8.3)*	12.6
+(0.8)*	116.8
+(2.0)	9.4
+(0.3)	0.52
+(0.05)*	14.0
+(1.1)*	1.29
+(0.09)*	193.3
+(1.8)	88.0
+(1.2)	
+ High school diploma/GED	235	241.1
+(9.6)*	11.3
+(0.7)*	114.1
+(1.5)	9.2
+(0.2)	0.47
+(0.03)*	14.5
+(0.8)*	1.11
+(0.04)*	194.8
+(1.7)	87.4
+(1.0)	
+ At least some college	639	267.6
+(5.4)*	10.5
+(0.3)*	114.5
+(1.5)	9.4
+(0.1)	0.67
+(0.04)*	20.8
+(1.1)*	1.01
+(0.02)*	196.4
+(1.1)	86.9
+(0.8)	
+
+              Family income to poverty ratio
+            											
+ Below poverty (&lt;1)	251	253.3
+(7.4)	11.1
+(0.7)	120.4
+(1.3)*	9.7
+(0.2)	0.50
+(0.05)*	15.1
+(1.3)*	0.99
+(0.05)*	192.5
+(1.5)*	88.0
+(1.5)	
+ At or above poverty (&gt;1)	837	254.3
+(5.5)	11.1
+(0.3)	113.2
+(1.3)*	9.3
+(0.1)	0.62
+(0.03)*	18.7
+(0.7)*	1.11
+(0.03)*	196.4
+(1.1)*	87.0
+(0.6)	
+
+              Smoking status
+            											
+ Never smoker	610	249.5
+(6.6)	8.5
+(0.3)*	114.2
+(1.5)*	9.7
+(0.1)*	0.59
+(0.03)*	18.4
+(0.7)*	0.93
+(0.02)*	196.0
+(1.0)	86.2
+(0.8)	
+ Former smoker	267	262.1
+(8.5)	14.7
+(0.6)*	113.2
+(1.7)*	9.1
+(0.2)*	0.72
+(0.07)*	20.3
+(1.5)*	1.28
+(0.05)*	197.2
+(1.4)	88.4
+(1.1)	
+ Current smoker	211	254.3
+(9.3)	16.2
+(1.1)*	119.1
+(1.9)*	8.9
+(0.2)*	0.45
+(0.04)*	13.7
+(1.0)*	1.35
+(0.06)*	191.9
+(1.9)	88.8
+(1.4)	
+
+              Average drinks per day
+            											
+ Non-drinker	382	234.5
+(6.7)*	12.0
+(0.6)	116.4
+(1.9)	9.8
+(0.2)*	0.47
+(0.04)*	15.3
+(0.9)*	1.05
+(0.03)*	193.5
+(1.3)*	86.7
+(0.8)	
+ 1-2	655	264.3
+(4.9)*	10.5
+(0.4)	113.8
+(1.3)	9.2
+(0.2)*	0.68
+(0.04)*	19.7
+(0.8)*	1.07
+(0.03)*	197.0
+(0.9)*	87.3
+(0.9)	
+ 3+	51	266.3
+(19.2)*	12.3
+(1.5)	117.6
+(4.9)	8.4
+(0.5)*	0.52
+(0.08)*	14.5
+(1.8)*	1.48
+(0.15)*	190.7
+(3.1)*	90.7
+(2.6)	
+
+              Body mass index (kg/m2)
+            											
+ ≤25	347	257.4
+(8.2)	10.7
+(0.5)	109.9
+(1.4)*	9.7
+(0.2)	0.71
+(0.06)*	18.4
+(1.1)	1.2
+(0.04)*	193.6
+(1.4)	83.4
+(1.1)	
+ 25-29.9	314	254.4
+(7.3)	10.8
+(0.6)	111.3
+(1.6)*	9.2
+(0.2)	0.61
+(0.04)*	18.9
+(1.3)	1.1
+(0.04)*	197.1
+(1.6)	87.6
+(1.1)	
+ ≥30	410	249.6
+(6.4)	11.6
+(0.5)	122.3
+(1.6)*	9.3
+(0.2)	0.49
+(0.03)*	16.5
+(1.0)	1.0
+(0.03)*	195.7
+(1.3)	86.1
+(0.7)	
+
+              Physically active
+            										
+ No	387	230.7
+(6.9)*	11.8
+(0.6)	119.1
+(1.6)*	9.5
+(0.2)	0.57
+(0.04)	16.5
+(1.0)	1.09
+(0.04)	195.1
+(1.4)	86.9
+(1.0)	
+ Yes	701	267.1
+(5.1)*	10.6
+(0.4)	112.6
+(1.3)*	9.3
+(0.2)	0.60
+(0.04)	18.5
+(0.8)	1.07
+(0.02)	195.6
+(0.9)	87.5
+(0.7)	
+
+              Total calories (kcal/day)
+            										
+ &lt;1550	273	229.4
+(8.8)*	12.0
+(0.7)	121.5
+(1.8)*	9.8
+(0.2)	0.68
+(0.06)	17.3
+(1.2)	1.13
+(0.05)	195.8
+(1.5)	87.5
+(1.2)	
+ 1550-1972	271	246.6
+(8.4)*	10.7
+(0.4)	116.8
+(1.7)*	9.3
+(0.1)	0.57
+(0.04)	16.7
+(1.0)	1.05
+(0.04)	193.1
+(1.5)	85.9
+(1.0)	
+ 1973-2554	272	267.6
+(8.3)*	11.4
+(0.6)	112.9
+(1.7)*	9.5
+(0.2)	0.59
+(0.05)	18.6
+(1.2)	1.05
+(0.04)	197.7
+(1.8)	87.0
+(1.1)	
+ 2555+	272	272.9
+(10.2)*	10.2
+(0.6)	108.6
+(1.8)*	9.0
+(0.2)	0.53
+(0.03)	18.6
+(1.1)	1.09
+(0.05)	195.0
+(1.8)	88.6
+(0.8)	
+Abbreviations: As: total arsenic (after calibration to remove the contribution of organic arsenic from recent seafood consumption); Cd: cadmium; Cu: copper; Mn: manganese; MeHg: methylmercury; Hg: mercury (mainly inorganic/elemental); Pb: lead; Se: selenium; Zn: zinc.
+
+* Overall significance p-value &lt; 0.05 from adjusted Wald test
+
+Table 3. Standardized rotated factor loadings from PCA*
+
+Component	1	2	3	4	5	
+As	
+              0.71
+            	−0.13	−0.12	−0.04	0.02	
+Cd	0.30	−0.01	
+              0.55
+            	0.34	0.11	
+Cu	−0.06	0.02	−0.05	
+              0.75
+            	0.08	
+Mn	−0.16	
+              0.59
+            	−0.16	0.39	−0.06	
+MeHg	0.09	
+              0.64
+            	0.17	−0.16	−0.06	
+Hg	
+              0.55
+            	0.33	0.00	−0.07	−0.02	
+Pb	−0.18	0.02	
+              0.78
+            	−0.14	−0.03	
+Se	−0.15	0.31	−0.11	−0.35	
+              0.54
+            	
+Zn	0.05	−0.11	0.03	0.12	
+              0.83
+            	
+Eigenvalue	1.48	1.29	1.28	1.19	1.09	
+Total variance (%)	16.36	14.37	14.28	13.27	12.08	
+Cumulative (%)	16.36	30.76	45.03	58.31	70.39	
+See Table 2 for abbreviations.
+
+* Loadings are bolded if &gt; 0.40.
+
+Highlights
+Metabolic syndrome affects 1 in 3 adults within the United States and is often a precursor to cardiovascular disease and diabetes
+
+High-level exposures to toxic metals have been linked to cardiometabolic abnormalities, but the health effects of lower-level exposures are unclear
+
+Epidemiologic research on other metals that are nutritionally essential has been sparse
+
+In a cross-sectional study of U.S. adults, we observed positive associations of arsenic, inorganic/elemental mercury, selenium, and zinc exposures with metabolic syndrome, and inverse associations of cadmium and lead with metabolic syndrome
+
+
+   References
+1. Aguilar M , , Prevalence of the metabolic syndrome in the United States, 2003–2012 . Jama , 2015 
+313 (19 ): p. 1973 –4 .25988468 
+2. Alberti KG , , Harmonizing the metabolic syndrome: a joint interim statement of the International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute; American Heart Association; World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity . Circulation , 2009 
+120 (16 ): p. 1640 –5 .19805654 
+3. Grundy SM , Metabolic syndrome update . Trends Cardiovasc Med , 2016 
+26 (4 ): p. 364 –73 .26654259 
+4. Planchart A , , Heavy Metal Exposure and Metabolic Syndrome: Evidence from Human and Model System Studies . Curr Environ Health Rep , 2018 .
+5. Spratlen MJ , , The Association of Arsenic Exposure and Arsenic Metabolism with the Metabolic Syndrome and its Individual Components: Prospective Evidence from the Strong Heart Family Study . Am J Epidemiol , 2018 .
+6. He K , , Mercury exposure in young adulthood and incidence of diabetes later in life: the CARDIA Trace Element Study . Diabetes Care , 2013 
+36 (6 ): p. 1584 –9 .23423697 
+7. Abhyankar LN , , Arsenic Exposure and Hypertension: A Systematic Review . Environ Health Perspect , 2012 
+120 (4 ): p. 494 –500 .22138666 
+8. Navas-Acien A , , Bone lead levels and blood pressure endpoints: a meta-analysis . Epidemiology , 2008 
+19 (3 ): p. 496 –504 .18414090 
+9. Franceschini N , , Cadmium body burden and increased blood pressure in middle-aged American Indians: the Strong Heart Study . J Hum Hypertens , 2017 
+31 (3 ): p. 225 –230 .27629244 
+10. Grau-Perez M , , Association of Low-Moderate Arsenic Exposure and Arsenic Metabolism with Incident Diabetes and Insulin Resistance in the Strong Heart Family Study . Environ Health Perspect , 2017 
+125 (12 ): p. 127004 .29373862 
+11. Feng W , , Association of urinary metal profiles with altered glucose levels and diabetes risk: a population-based study in China . PLoS One , 2015 
+10 (4 ): p. e0123742 .25874871 
+12. Sun Q , , Prospective study of zinc intake and risk of type 2 diabetes in women . Diabetes Care , 2009 
+32 (4 ): p. 629 –34 .19171718 
+13. Seo JA , , The Associations between Serum Zinc Levels and Metabolic Syndrome in the Korean Population: Findings from the 2010 Korean National Health and Nutrition Examination Survey . Plos One , 2014 
+9 (8 ).
+14. Eshak ES , , Associations between dietary intakes of iron, copper and zinc with risk of type 2 diabetes mellitus: A large population-based prospective cohort study . Clin Nutr , 2017 .
+15. Lee BK  and Kim Y , Relationship between blood manganese and blood pressure in the Korean general population according to KNHANES 2008 . Environmental Research , 2011 
+111 (6 ): p. 797 –803 .21601843 
+16. Shan ZL , , U-Shaped Association between Plasma Manganese Levels and Type-2 Diabetes . Environmental Health Perspectives , 2016 
+124 (12 ): p. 1876 –1881 .27258818 
+17. Obeid O , , Plasma copper, zinc, and selenium levels and correlates with metabolic syndrome components of lebanese adults . Biological Trace Element Research , 2008 
+123 (1–3 ): p. 58 –65 .18288450 
+18. Bleys J , , Serum selenium and serum lipids in US adults . Am J Clin Nutr , 2008 
+88 (2 ): p. 416 –23 .18689378 
+19. Bleys J , Navas-Acien A , and Guallar E , Serum selenium and diabetes in U.S. adults . Diabetes Care , 2007 
+30 (4 ): p. 829 –34 .17392543 
+20. Sigel A , , Metallothioneins and related chelators
+Metal ions in life sciences ,. 2009 , Cambridge : Royal Society of Chemistry 
+xxix , 514  p.
+21. Bridges CC  and Zalups RK , Molecular and ionic mimicry and the transport of toxic metals . Toxicol Appl Pharmacol , 2005 
+204 (3 ): p. 274 –308 .15845419 
+22. Johnson CL , , National health and nutrition examination survey: sample design, 2011–2014 . Vital Health Stat 
+2 , 2014 (162 ): p. 1 –33 .
+23. Mortensen ME , , Total and methyl mercury in whole blood measured for the first time in the U.S. population: NHANES 2011–2012 . Environ Res , 2014 
+134 : p. 257 –64 .25173092 
+24. Centers for Disease Control and Prevention, A.f.T.S.a.D.R.A . Toxicological profile for arsenic . 2007  [cited 2018 March 5]; Available from: https://www.atsdr.cdc.gov/toxprofiles/tp2.pdf. 
+25. Centers for Disease Control and Prevention, A.f.T.S.a.D.R.A . Toxicological profile for cadmium . 2012  [cited 2018 March 5]; Available from: https://www.atsdr.cdc.gov/toxprofiles/tp5.pdf. 
+26. Danzeisen R , , How reliable and robust are current biomarkers for copper status ? The British journal of nutrition , 2007 
+98 (4 ): p. 676 –83 .17666147 
+27. Ashton K , , Methods of assessment of selenium status in humans: a systematic review . The American journal of clinical nutrition , 2009 
+89 (6 ): p. 2025S –2039S .19420095 
+28. Centers for Disease Control and Prevention, A.f.T.S.a.D.R.A . Toxicological profile for manganese . 2012  [cited 2018 March 5]; Available from: https://www.atsdr.cdc.gov/toxprofiles/tp151.pdf. 
+29. Centers for Disease Control and Prevention, A.f.T.S.a.D.R.A . Toxicological profile for mercury . 1999  [cited 2018 March 5]; Available from: https://www.atsdr.cdc.gov/toxprofiles/tp46.pdf. 
+30. Centers for Disease Control and Prevention, A.f.T.S.a.D.R.A . Toxicological profile for lead . 2007  [cited 2018 March 5]; Available from: https://www.atsdr.cdc.gov/toxprofiles/tp13.pdf. 
+31. Centers for Disease Control and Prevention, A.f.T.S.a.D.R.A . Toxicological profile for zinc . 2005  [cited 2018 March 5]; Available from: https://www.atsdr.cdc.gov/toxprofiles/tp60.pdf. 
+32. Jones MR , , Estimation of Inorganic Arsenic Exposure in Populations With Frequent Seafood Intake: Evidence From MESA and NHANES . American journal of epidemiology , 2016 
+184 (8 ): p. 590 –602 .27702745 
+33. CDC (Centers for Disease Control and Prevention) , Fourth National Report on Human Exposure to Environmental Chemicals . Updated Tables, 9 , 2017 
+Atlanta, GA .
+34. Bulka CM , , Arsenic and Obesity: A Comparison of Urine Dilution Adjustment Methods . Environ Health Perspect , 2017 
+125 (8 ): p. 087020 .28858828 
+35. Hays SM , Aylward LL , and Blount BC , Variation in urinary flow rates according to demographic characteristics and body mass index in NHANES: potential confounding of associations between health outcomes and urinary biomarker concentrations . Environ Health Perspect , 2015 
+123 (4 ): p. 293 –300 .25625328 
+36. Physical activity guidelines for Americans . Okla Nurse , 2008 
+53 (4 ): p. 25 .
+37. Mirel LB , , National Health and Nutrition Examination Survey: estimation procedures, 2007–2010 . Vital Health Stat 
+2 , 2013 (159 ): p. 1 –17 .
+38. Korn EL  and Graubard BI , Epidemiologic studies utilizing surveys: accounting for the sampling design . American journal of public health , 1991 
+81 (9 ): p. 1166 –73 .1951829 
+39. Muller CJ  and MacLehose RF , Estimating predicted probabilities from logistic regression: different methods correspond to different target populations . Int J Epidemiol , 2014 
+43 (3 ): p. 962 –70 .24603316 
+40. Kaiser HF , Citation Classic - Varimax Criterion for Analytic Rotation in Factor-Analysis . Current Contents/Social &amp; Behavioral Sciences , 1979 (24 ): p. 20 –20 .
+41. Hu H , , The epidemiology of lead toxicity in adults: Measuring dose and consideration of other methodologic issues . Environmental Health Perspectives , 2007 
+115 (3 ): p. 455 –462 .17431499 
+42. Riedt CS , , Blood lead levels and bone turnover with weight reduction in women . J Expo Sci Environ Epidemiol , 2009 
+19 (1 ): p. 90 –6 .18322449 
+43. Muka T , , The Association between Metabolic Syndrome, Bone Mineral Density, Hip Bone Geometry and Fracture Risk: The Rotterdam Study . PLoS One , 2015 
+10 (6 ): p. e0129116 .26066649 
+44. Kobal AB , , The impact of long-term past exposure to elemental mercury on antioxidative capacity and lipid peroxidation in mercury miners . J Trace Elem Med Biol , 2004 
+17 (4 ): p. 261 –74 .15139389 
+45. Davis MA , , Assessment of human dietary exposure to arsenic through rice . Sci Total Environ , 2017 
+586 : p. 1237 –1244 .28233618 
+46. Zhang H , , Bioaccumulation of methylmercury versus inorganic mercury in rice (Oryza sativa L.) grain . Environ Sci Technol , 2010 
+44 (12 ): p. 4499 –504 .20476782 
+47. Dickerson AS , , Autism spectrum disorder prevalence and proximity to industrial facilities releasing arsenic, lead or mercury . Sci Total Environ , 2015 
+536 : p. 245 –251 .26218563 
+48. Pennington JAT  and Young B , Iron, zinc, copper, manganese, selenium, and iodine in foods from the United States total diet study . Journal of Food Composition and Analysis , 1990 
+3 (2 ): p. 166 –184 .
+49. Powell SR , The antioxidant properties of zinc . The Journal of nutrition , 2000 
+130 (5S Suppl ): p. 1447S –54S .10801958 
+50. Stranges S , , Selenium status and cardiometabolic health: state of the evidence. Nutrition, metabolism, and cardiovascular diseases  : NMCD , 2010 
+20 (10 ): p. 754 –60 .21094028 
+51. Navas-Acien A , Bleys J , and Guallar E , Selenium intake and cardiovascular risk: what is new ? Current opinion in lipidology , 2008 
+19 (1 ): p. 43 –9 .18196986 
+52. Suzuki T , , Dietary zinc supplementation increased TNFalpha and IL 1 beta-induced RANKL expression, resulting in a decrease in bone mineral density in rats . J Clin Biochem Nutr , 2016 
+58 (1 ): p. 48 –55 .26798197 
+53. Padilla MA , , An examination of the association of selected toxic metals with total and central obesity indices : NHANES 99–02. Int J Environ Res Public Health , 2010 
+7 (9 ): p. 3332 –47 .20948927 
+54. Scinicariello F , , Blood lead level association with lower body weight in NHANES 1999–2006 . Toxicology and Applied Pharmacology , 2013 
+273 (3 ): p. 516 –523 .24099784 
+55. Yang C-C , , The association of the blood lead level and serum lipid concentrations may be modified by the genetic combination of the metallothionein 2A polymorphisms rs10636GC and rs28366003 AA . Journal of clinical lipidology , 2017 
+11 (1 ): p. 234 –241 .28391890 
+56. Gallagher CM  and Meliker JR , Blood and urine cadmium, blood pressure, and hypertension: a systematic review and meta-analysis . Environ Health Perspect , 2010 
+118 (12 ): p. 1676 –84 .20716508 
+57. Han S , , Effects of weight loss and exercise on the distribution of lead and essential trace elements in rats with prior lead exposure . Environ Health Perspect , 1999 
+107 (8 ): p. 657 –62 .10417364 
+58. Gil F  and Hernandez AF , Toxicological importance of human biomonitoring of metallic and metalloid elements in different biological samples . Food Chem Toxicol , 2015 
+80 : p. 287 –97 25837421 
+

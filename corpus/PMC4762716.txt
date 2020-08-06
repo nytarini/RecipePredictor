@@ -1,0 +1,561 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   87047731656Am J Prev MedAm J Prev MedAmerican journal of preventive medicine0749-37971873-260726507301476271610.1016/j.amepre.2015.08.004NIHMS732481ArticleDecomposing Racial Disparities in Obesity Prevalence Variations in Retail Food EnvironmentSingleton Chelsea R. PhD, MPH1Affuso Olivia PhD24Sen Bisakha PhD341 Institute for Health Research and Policy, University of Illinois at Chicago, Chicago, Illinois2 Department of Epidemiology, University of Alabama at Birmingham, Birmingham, Alabama3 Department of Healthcare Organization and Policy, University of Alabama at Birmingham, Birmingham, Alabama4 Nutrition Obesity Research Center, University of Alabama at Birmingham, Birmingham, AlabamaAddress correspondence to: Chelsea Singleton, PhD, MPH, Institute for Health Research and Policy, University of Illinois at Chicago, Westside Research Office Building 441, 1747 West Roosevelt Road, Chicago IL 60608. csingle1@uic.edu25 10 2015 23 10 2015 3 2016 01 3 2017 50 3 365 372 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Introduction
+Racial disparities in obesity exist at the individual and community levels. Retail food environment has been hypothesized to be associated with racial disparities in obesity prevalence. This study aimed to quantify how much food environment measures explain racial disparities in obesity at the county level.
+
+Methods
+Data from 2009 to 2010 on 3,135 U.S. counties were extracted from the U.S. Department of Agriculture Food Environment Atlas and the Behavioral Risk Factor Surveillance System and analyzed in 2013. Oaxaca–Blinder decomposition was used to quantify the portion of the gap in adult obesity prevalence observed between counties with a high and low proportion of African American residents is explained by food environment measures (e.g., proximity to grocery stores, per capita fast food restaurants). Counties were considered to have a high African American population if the percentage of African American residents was &gt;13.1%, which represents the 2010 U.S. Census national estimate of percentage African American citizens.
+
+Results
+There were 665 counties (21%) classified as a high African American county. The total gap in mean adult obesity prevalence between high and low African American counties was found to be 3.35 percentage points (32.98% vs 29.63%). Retail food environment measures explained 13.81% of the gap in mean age-adjusted adult obesity prevalence.
+
+Conclusions
+Retail food environment explains a proportion of the gap in adult obesity prevalence observed between counties with a high proportion of African American residents and counties with a low proportion of African American residents.
+
+
+   Introduction
+In the U.S., racial disparities in obesity persist, with minority subgroups such as African Americans (AAs) disproportionally experiencing higher rates of obesity and obesity-related morbidities (i.e., diabetes mellitus, cardiovascular disease) compared with whites.1–5 Data from the National Health and Nutrition Examination Survey indicate that 49.6% of AA adults older than age 20 years have a BMI ≥30 compared with 34.9% of whites.6 Additionally, disparities are observed geographically, with regions that possess a greater minority resident composition often having a higher prevalence of obesity than regions with fewer minority residents.7,8
+
+Variations in retail food environment have been hypothesized to explain some of the racial disparity in obesity seen between AAs and whites.9–12 Significant associations between retail food environment disparities and racial composition of community residents have been documented in the scientific literature, with several studies observing that neighborhoods with a higher proportion of AA residents are more likely to experience reduced access to outlets that retail healthy foods (i.e., grocery stores) or increased access to outlets that retail unhealthy food (i.e., fast food restaurants) compared with areas with a lower proportion of AA residents.13–24 Franco et al.13 observed that most of predominately AA communities in Baltimore County, MD experienced lower healthy food availability. Baker and colleagues14 found that AA communities in St. Louis were less likely to have access to healthy foods compared with whites regardless of income level.
+
+Although studies have observed a cross-sectional association between retail food environment and obesity prevalence, the significance of the food environment’s contribution to racial disparities in obesity prevalence remains unknown.25–30 The aim of this research is to quantify how much of the total disparity in adult obesity prevalence observed between geographic regions with a high and low percentage of AA residents is explained by differences in retail food environment measures. Oaxaca–Blinder decomposition, a regression-based statistical technique previously applied in studies of racial disparities in obesity, is used to calculate the proportion of the disparity food environment measures are collectively able to explain in addition to the proportion food environment measures are unable to explain.31–33 Findings from this research contribute to current knowledge of racial disparities in obesity by providing further insight on the public health impact of disparities in retail food environment. Additionally, these findings may be useful to individuals and organizations invested in policy efforts that relate to addressing food access disparities.
+
+Methods
+To conduct this analysis, data from U.S. Department of Agriculture (USDA) Food Environment Atlas were extracted and analyzed in 2013. The Food Environment Atlas (www.ers.usda.gov/data-products/food-environment-atlas.aspx) is an online data resource and mapping tool maintained by the USDA Economic Research Service that contains state- and county-level information on the following: demographics, food outlet availability, grocery store proximity, food pricing, food security, USDA nutrition assistance programs, and health.33 Data on 50 states and 3,141 U.S. counties are available in the Atlas. Data on 3,135 counties were extracted and all variable estimates reflect 2009–2010 information. Owing to missing information, data on six counties were omitted. The use of this data source for this research was approved by the IRB at the University of Alabama at Birmingham.
+
+The outcome measure of interest was age-adjusted adult obesity prevalence. Adult obesity prevalence reflects 2010 Behavioral Risk Factor Surveillance System statistics on the age-adjusted percentage of adults aged &gt;20 years with a BMI ≥30 in each county. Analyses performed included various demographic, socioeconomic, and environmental variables that may potentially explain county-level racial disparities in obesity prevalence. The following measures were estimated from 2010 U.S. Census Bureau data: percentage of county residents aged &gt;65 years, percentage of residents aged &lt;18 years, percentage of AA or non-Hispanic black residents, percentage of Hispanic residents, and median household income. The average percentage of AA residents among all U.S. counties included in the data source was calculated to be 8.8%. Counties with a percentage of AA residents greater than the national average of 13.1% were classified as high AA counties. All other counties were considered low AA counties. There were 665 counties (21.21%) classified as high AA. Sensitivity analyses were performed using alternative cut points of ≥25% AA residents and ≥40% AA residents (Appendix). Metro county status was defined by the U.S. Office of Management and Budget. Non-metro counties were counties that possess no economic ties to a surrounding urban county and no cities with &gt;50,000 residents. Metro counties were counties that include urbanized areas or economic ties to counties with urbanized areas regardless of the population density. Data on the number of recreation facilities per 100,000 residents (i.e., per capita) in 2009 were provided by U.S. Census Bureau County Business Patterns. The numbers of county residents reflect 2009 Census population estimates. Establishments involved in providing fitness, recreation, or sports activities such as gyms, community centers, and swimming pools were considered recreation facilities.
+
+Food Environment Measures
+Data on all retail food environment measures were also collected by U.S. Census Bureau County Business Patterns. The following per capita retail food outlet measures were considered: grocery stores, supercenters, convenience stores, specialized food stores, full service restaurants, fast food restaurants, farmers markets, and community-supported agriculture (CSA) farms. Additionally, proximity to a grocery store (i.e., distance from nearest outlet to residence) was considered. Grocery stores were defined as markets that retail a general line of food. Supercenters are markets, warehouse, or club stores that sell a general line of food and merchandise such as appliances or apparel. Convenience stores are small food stores that offer a limited line of food items. Specialized food stores are food outlets involved in selling specific food items such as baked goods or seafood. Full service restaurants are establishments that offer seated dining services and have a wait staff. Fast food restaurants are establishments that offer limited service with patrons usually paying before receiving food. Farmers markets are food retail outlets with at least two vendors or farmers selling products directly to customers. Farms that have a CSA program were considered CSA farms. The measure of percentage of county residents with low access to a grocery store represents the population of individuals living ≥1 mile from a grocery store in metro counties and ≥10 miles in non-metro counties.
+
+Statistical Analysis
+Descriptive statistics were calculated for all measures among all counties, counties classified as high AA, and counties classified as low AA. Because of potential similarities in food environment and policy among counties located in the same state, all analyses were adjusted for state-level clustering. Chi-square and t-tests were used to examine differences in frequencies and means between high and low AA counties. To determine if an Oaxaca–Blinder decomposition analysis was warranted, a linear regression model adjusted for all demographic, socioeconomic, and environmental measures was used to confirm that the variable high AA county was significantly associated with adult obesity prevalence (β=1.64 [0.49], p=0.002). To decompose the disparity in adult obesity prevalence found between low and high AA counties and determine how much of this disparity is explained by retail food environment measures, Oaxaca–Blinder decomposition was used.31 Oaxaca–Blinder decomposition, which has been utilized in recent public health and health disparities research, uses stratified linear regression models to partition the difference in the primary outcome variable (i.e., adult obesity prevalence) found between two groups (i.e., high and low AA counties) into portions “explained” and an “unexplained” by the predictor variables (i.e., food environment measures).31–33 The technique also permits the calculation of the predicted value of the outcome variable if the disadvantaged group (i.e., high AA counties) were provided similar mean retail food environment characteristics as the advantaged group (i.e., low AA counties). The portions of the gap in adult obesity prevalence explained and unexplained by county-level retail food environment measures were calculated using the following equation: 
+ %ObesemeanLAA-%ObesemeanHAA=[∑βiHAA(XimeanHAA-XimeanLAA)]ExplainedGap+[∑XimeanLAA(βiHAA-βiLAA)+(β0HAA-β0LAA)]UnexplainedGap 
+
+In the above equation, i represents a variable (e.g. per capita grocery stores), βi represents the beta coefficient of the variable, β0 represents the beta coefficient of the intercept, and Xi represents the variable mean. Two decomposition analyses were performed to quantify how much of the total gap in adult obesity prevalence is explained by variables of interest. The first analysis included only food environment measures and the second analysis included all demographic, socioeconomic, and environmental variables of interest. Predicted values of adult obesity prevalence were calculated for low and high AA counties using stratified multivariable adjusted linear regression models. Additionally, the predicted value of adult obesity prevalence among high AA counties if given similar retail food environment characteristics as low AA counties was calculated. Differences with p&lt;0.05 were considered statistically significant. All analyses were performed with Stata, version 11.
+
+Results
+Table 1 displays descriptive statistics of county-level demographic, socioeconomic, and environmental variables. The mean median household income among high AA counties was $39,965 compared with $43,966 for low AA counties (p=0.01). High AA counties had, on average, significantly fewer per capita grocery stores (21.42 vs 29.09), farmers markets (1.59 vs 4.13), CSA farms (8.57 vs 17.62), full service restaurants (56.31 vs 84.91), and recreation facilities (6.58 vs 8.23) than low AA counties. High AA and low AA counties did not differ significantly with respect to mean percentage of residents aged &lt;18 years; percentage of Hispanic residents; and per capita supercenters, convenience stores, specialty food stores, and fast food restaurants. Low AA counties were less likely to be classified as a metro county (p=0.001) and had a greater mean percentage of county residents with low access to a grocery store (p&lt;0.0001).
+
+Results from the Oaxaca–Blinder decomposition analysis that only included retail food environment variables are recorded in Table 2. Displayed are regression coefficient estimates, robust SEs, variable contributions to the explained gap in adult obesity prevalence, and variable contributions to the unexplained gap in obesity prevalence for each food environment variable. Per capita fast food restaurants and full service restaurants were found to be significantly associated with age-adjusted adult obesity prevalence among both high and low AA counties. Linear regression models that adjusted for all measures of interest indicated that the predicted values of adult obesity prevalence were found to be 29.62% and 32.98% for low and high AA counties, respectively. The total gap in adult obesity prevalence was calculated to be 3.35 percentage points. The mean differences in retail food environment measures explained about 0.46 units of the 3.35 percentage points, which represented about 13.81% of the total gap in adult obesity prevalence between high and low AA counties. The remaining 2.88 units (86.29%) were unexplained by food environment measures. The predicted value of mean adult obesity prevalence among high AA counties was calculated to be 32.51%, rather than 32.98%, in the regression model where mean values of food environment measures among low AA counties were applied. Sensitivity analyses indicated that at ≥25% of county residents AA, food environment measures explained 21.91% of the total gap in adult obesity prevalence. At ≥40% of county residents AA, food environment measures explained 28.11% of the total gap in adult obesity prevalence.
+
+Table 3 displays the Oaxaca–Blinder decomposition results from analyses that included all demographic, socioeconomic, and environmental variables. Median household income and percentage of Hispanic residents were significantly associated with age-adjusted adult obesity prevalence among high and low AA counties. All variables combined explained 1.82 units of the 3.35, which represented about 54.24% of the total gap in adult obesity prevalence between high and low AA counties. The remaining 1.53 units (45.76%) were unexplained by the variables considered in these analyses. The predicted value of mean adult obesity prevalence was found to be 31.16% among high AA counties in the regression model where mean values of demographic, socioeconomic, and environmental measures among low AA counties were applied.
+
+Discussion
+Increasing access to healthy food continues to be a major public health challenge in the U.S.35,36 Studies have indicated that minority and low-income communities often have an unhealthy food environment or inadequate access to healthy foods compared with higher-income and non-minority communities.13–24 Inadequate access to healthy food may increase the risk of obesity among community members by reducing diet quality and hindering the ability to engage in healthy diet-related behaviors.9–11 Although sufficient literature is available on the association between unhealthy food environment and outcomes such as fruit and vegetable consumption, a smaller body of evidence is available on the association between food environment and obesity.25–30,37–39 Overall, findings from these studies have yielded ambiguous conclusions on the significance of area-based variations in food environment. Oka et al.30 found that community-level variations in food environment measures did not explain differences in the body weight of residents at the individual level living in Boston, MA. Zick and colleagues10 observed that neighborhood food retail options were associated with BMI among residents in Utah. Jilcott et al.27 and Ahern and colleagues28 both observed significant inverse associations between food environment features and obesity prevalence at the county level. In a study that also used Oaxaca–Blinder decomposition to examine ethnic disparities in adolescent BMI, Powell et al.32 found that neighborhood food and economic factors (e.g., median income, fast food outlet availability, grocery store availability) explained 12.5% of the BMI gap found between black and white female adolescents (2.25 BMI units) and 27.8% of the BMI gap found between black and white male adolescents (1.12 BMI units).
+
+To date, the significance of the retail food environment’s contribution to disparities in adult obesity prevalence has not been quantified. This study aimed to partition the racial disparity in adult obesity prevalence observed between low and high AA counties into portions explained and unexplained by retail food environment. Results from this research indicate that the retail food environment measures considered here explained about 13.81% of the total gap in adult obesity prevalence observed between counties with a high and low percentage of AA residents. Though the gap in adult obesity prevalence is small between high and low AA counties (3.35 percentage points) using the cut point of 13.1%, sensitivity analyses demonstrated that the gap in adult obesity prevalence increases as the percentage of AA residents increases. Approximately 46% of the total gap in adult obesity prevalence between counties with a high and low percentage of AA residents was unexplained by the analyzed variables. The portion unexplained by the retail food environment variables included in the Oaxaca–Blinder decomposition analysis could represent measurement error or other key measures that explain county-level racial disparities in adult obesity prevalence that were not included in the current analyses (i.e., omitted variables). These could be measures of the built environment, physical activity, or psychosocial stressors such as crime.
+
+A linear regression model was used to calculate the predicted value of adult obesity prevalence among high AA counties using the mean retail food environment measures of low AA counties. When applying mean retail food environment measures of low AA counties, the predicted value of adult obesity prevalence among high AA counties was calculated to be 32.51%, rather than 32.98%. Including other examined variables (e.g., median income, recreation center availability, percentage of Hispanic residents) resulted in an adult obesity prevalence of 31.16% among high AA counties, rather than 32.98%. It appears that applying the mean value of food environment measures found among low AA counties mathematically reduced the adult obesity prevalence among high AA counties in the performed analyses. More work and information is needed to interpret the public health significance of these findings and the importance of these findings to ongoing policies that influence the retail food environment.
+
+Limitations
+There are strengths and limitations to this research. Use of USDA Food Environment Atlas data was a strength because the data source had little missing information and the county-level information was estimated by sources such as the U.S. Census Bureau and Behavioral Risk Factor Surveillance System.34 However, data reported by the Behavioral Risk Factor Surveillance System (i.e., race/ethnicity, height, weight) were collected via self-report rather than objectively measured. Other limitations to the research include the lack of individual-level information and limitations associated with use of the Oaxaca–Blinder approach such as appropriate selection of the groups that will be compared. The ratio of the unexplained gap to the explained gap may be affected by the choice of reference group.31 Without individual-level information, the authors were unable to quantify how much the retail food environment explains individual-level adult obesity status or body composition.
+
+Conclusions
+Overall, results from the current study indicate that the retail food environment explains a portion of the gap in adult obesity prevalence observed between counties with a high percentage of AA residents and counties with a low percentage of AA residents. Although findings from the current study suggest that adult obesity prevalence may be reduced in high AA counties if provided a similar food environment as low AA counties, conclusions cannot be drawn because the conducted analyses provide no insight to the causal relationship between retail food environment and obesity. However, this research does contribute valuable information to current scientific knowledge of the association between food environment variation and race—scientific knowledge that may have important implications to current and future food policy efforts at the state and national levels. Future studies should determine how much the neighborhood retail food environment features explain differences in adult obesity status between AAs and whites at the individual level. In addition to food environment measures, reliable data on diet composition, physical activity behaviors, and food shopping behaviors will be needed to perform an analysis that collectively considers an adequate set of neighborhood- and individual-level predictors. As researchers continue to study mechanisms to address the obesity epidemic in the U.S., determining the significance of the retail food environment’s contribution to obesity disparities will persist as an important public health research area.
+
+Supplementary Material
+supplement  Research reported in this publication was supported by the National Heart, Lung, and Blood Institute of NIH under award number T32HL105349.
+
+The content is solely the responsibility of the authors and does not necessarily represent the official views of NIH.
+
+CS and BS conceived the project aims and selected the data analysis technique. CS performed the data analysis. All authors were involved in writing the manuscript and approved the final draft to be submitted for publication.
+
+No financial disclosures were reported by the authors of this paper.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Table 1 Descriptive Statistics of County-Level Demographic, Socioeconomic, and Environmental Variable, Mean (SD)
+
+Variable:	All U.S. counties
+N=3,135	High AA
+665(21.21%)	Low AA
+2,470(78.79%)	p-value	
+
+              Demographic and Socioeconomic
+            					
+ % Residents over 65	15.89(4.18)	14.03(3.10)	16.40(4.30)	
+              &lt;0.0001
+            	
+ % Residents under 18	23.42(3.38)	23.72(2.83)	23.34(3.50)	0.31	
+ % Residents Hispanic	8.30(13.20)	5.82(6.61)	8.96(14.40)	0.13	
+ Median household income ($)	43,117.34(10,724.69)	39,964.87(11,267.54)	43,966.42(10,414.15)	
+              0.01
+            	
+ Metro county statusa	1,088(34.70)	304(45.71)	784(31.74)	
+              0.001
+            	
+
+	
+
+              Environmental
+            	
+ % Residents with low access to grocery store	23.54(20.20)	19.73(12.76)	24.56(21.66)	
+              0.02
+            	
+ Grocery stores	27.46(23.95)	21.42(11.28)	29.09(26.11)	
+              &lt;0.0001
+            	
+ Supercenters	1.58(2.13)	1.58(1.86)	1.57(2.19)	0.94	
+ Convenience stores	61.15(31.79)	66.02(27.71)	59.84(32.68)	0.06	
+ Farmers markets	3.60(7.02)	1.59(2.96)	4.13(7.67)	
+              &lt;0.0001
+            	
+ CSA farms	15.70(29.90)	8.57(14.73)	17.62(32.55)	
+              &lt;0.0001
+            	
+ Specialty food stores	5.75(7.58)	4.99(5.76)	5.95(7.98)	0.07	
+ Fast food restaurants	57.06(31.15)	58.17(26.03)	56.76(32.39)	0.40	
+ Full service restaurants	78.84(60.51)	56.31(35.29)	84.91(64.33)	
+              &lt;0.0001
+            	
+ Recreation facilities	7.88(8.10)	6.58(5.53)	8.23(8.63)	
+              &lt;0.0001
+            	
+AA, African American; CSA, Community Supported Agriculture
+
+a n(%) for Metro County Status
+
+Number of outlets per 100,000 residents: grocery stores, supercenters, specialty food stores, convenience stores, fast food restaurants, full service restaurants, CSA farms, farmers markets, and recreation facilities Boldface indicates statistical significance (p&lt;0.05).
+
+Table 2 Results from Oaxaca-Blinder Analysis Decomposing Adult Obesity Prevalence (Food Environment Measures Only)
+
+Variable:	Coefficient (Low AA)	Robust SE (Low AA)	Coefficient (High AA)	Robust SE (High AA)	Contribution to “explained gap”	Contribution to “unexplained gap”	
+% Residents low access to grocery store	−0.0191	0.0105	0.0121	0.0131	−0.0584	0.7667	
+Grocery stores	0.0121	0.0049	0.0220	0.0173	−0.1689	0.2878	
+Supercenters	
+              0.2139
+              ***
+            	0.0535	
+              0.1738
+              *
+            	0.0798	0.0015	−0.0631	
+Convenience stores	
+              0.0212
+              **
+            	0.0066	
+              0.0441
+              ***
+            	0.0110	0.2727	1.3713	
+Specialty food stores	
+              −0.0438
+              *
+            	0.0182	−0.0171	0.0405	0.0164	0.1586	
+Farmers markets	−0.0042	0.1638	
+              0.2486
+              *
+            	0.1154	−0.6327	1.0460	
+CSA farms	−0.0001	0.0029	0.0052	0.0070	−0.0472	0.0923	
+Fast food restaurants	
+              −0.0183
+              **
+            	0.0063	
+              −0.0170
+              **
+            	0.0059	−0.0239	0.0717	
+Full service restaurants	
+              −0.0171
+              ***
+            	0.0021	
+              −0.0386
+              ***
+            	0.0088	1.1027	−1.8257	
+Intercept	
+              30.9017
+              ***
+            		
+              31.8799
+              ***
+            				
+
+	
+Predicted value of obesity prevalence	29.6294		32.9756				
+If given similar means			32.5134				
+
+	
+Total explained by food environment					0.4622		
+Total unexplained by food environment					2.8841		
+Total gap in obesity prevalence					3.3463		
+Ratio of explained to total					0.1381		
+AA, African American; CSA, Community Supported Agriculture
+
+Note: SEs adjusted for state-level clustering
+
+High AA defined as having a percentage of AA residents greater than 13.1%
+
+Boldface indicates statistical significance (
+
+* p&lt;0.05,
+
+** p&lt;0.01,
+
+*** p&lt;0.001)
+
+Number of outlets per 100,000 residents: grocery stores, supercenters, specialty food stores, convenience stores, fast food restaurants, full service restaurants, CSA programs, farmers markets, and recreation facilities.
+
+Table 3 Results from Oaxaca-Blinder Analysis Decomposing Adult Obesity Prevalence (All Measures)
+
+Variable:	Coefficient (Low AA)	Robust SE (Low AA)	Coefficient (High AA)	Robust SE (High AA)	Contribution to “explained gap”	Contribution to “unexplained gap”	
+% Residents over 65	−0.0245	0.0825	−0.1597	0.0825	0.3780	−2.2180	
+% Residents under 18	
+              0.3104
+              **
+            	0.0635	
+              0.2176
+              **
+            	0.0635	0.0816	−2.1660	
+% Residents Hispanic	
+              −0.0900
+              ***
+            	0.0221	
+              − 0.1701
+              ***
+            	0.0221	0.5341	−0.7185	
+Median household income	
+              −0.0002
+              ***
+            	0.0001	
+              −0.0002
+              ***
+            	0.0001	0.7243	−1.2047	
+Metro county status	0.0840	0.2671	−0.0817	0.2671	−0.0236	0.3467	
+% Residents low access to grocery store	−0.0092	0.0120	0.0049	0.0120	−0.0114	−0.0526	
+Grocery stores	
+              −0.0006
+              *
+            	0.0099	−0.0153	0.0099	0.1175	−0.4272	
+Supercenters	0.1014	0.0593	0.0404	0.0593	0.0004	−0.0961	
+Convenience stores	0.0071	0.0073	0.0119	0.0073	0.0733	0.2876	
+Specialty food stores	−0.0136	0.0261	0.0186	0.0261	−0.0179	0.1922	
+Farmers markets	−0.0016	0.0820	
+              0.2233
+              *
+            	0.0820	−0.5684	0.9308	
+CSA farms	−0.0049	0.0089	−0.0023	0.0089	0.0210	0.0454	
+Fast food restaurants	−0.0077	0.0063	−0.0105	0.0063	−0.0147	−0.1583	
+Full service restaurants	
+              0.0108
+              ***
+            	0.0075	
+              −0.0178
+              *
+            	0.0075	0.5085	−0.5950	
+Recreation facilities	
+              − 0.0396
+              **
+            	0.0237	−0.0076	0.0237	0.0125	0.2639	
+Intercept	
+              31.8342
+              ***
+            		
+              38.9354
+              ***
+            				
+
+	
+Predicted value of obesity prevalence	29.6282		32.9761				
+If given similar means			31.1614				
+
+	
+Total explained by variables					1.8152		
+Total unexplained by variables					1.5316		
+Total gap in obesity prevalence					3.3467		
+Ratio of explained to total					0.5424		
+AA, African American; CSA, Community Supported Agriculture
+
+Notes: SEs adjusted for state-level clustering
+
+High AA defined as having a percentage of AA residents greater than 13.1% Boldface indicates statistical significance (
+
+* p&lt;0.05,
+
+** p&lt;0.01,
+
+*** p&lt;0.001)
+
+Number of outlets per 100,000 residents: grocery stores, supercenters, specialty food stores, convenience stores, fast food restaurants, full service restaurants, CSA programs, farmers markets, and recreation facilities.
+
+
+   1 
+            Fryar CD  
+            Carroll MD  
+            Ogden CL  
+           Prevalence of Overweight, Obesity, and Extreme Obesity Among Adults: United States, Trends 1960–1962 through 2009–2010 CDC 2012 
+            www.cdc.gov/nchs/data/hestat/obesity_adult_09_10/obesity_adult_09_10.pdf 
+           Accessed on August 15, 2014 
+2 
+            Kenney M  
+            Wang J  
+            Iannotti R  
+           Residency and Racial/Ethnic Differences in Weight Status and Lifestyle Behaviors among U.S. Youth J Rural Health 2014 30 1 89 100 
+            http://dx.doi.org/10.1111/jrh.12034 
+           24383488 
+3 
+            Jackson CL  
+            Szklo M  
+            Yeh HC  
+             
+           Black-white disparities in overweight and obesity trends by educational attainment in the United States, 1997–2008 J Obes 2013 2013 140743 
+            http://dx.doi.org/10.1155/2013/140743 
+           23691282 
+4 
+            Sharma S  
+            Malarcher A  
+            Giles W  
+            Myers G  
+           Racial, ethnic and socioeconomic disparities in the clustering of cardiovascular disease risk factors Ethn Disp 2004 14 1 43 48 
+5 
+            Wang Y  
+            Beydoun MA  
+           The Obesity Epidemic in the United States – Gender, Age, Socioeconomic, Racial/Ethnic, and Geographic Characteristics: A Systematic Review and Meta-Regression Analysis Epidemiol Rev 2007 29 6 28 
+            http://dx.doi.org/10.1093/epirev/mxm007 
+           17510091 
+6 
+            Flegal KM  
+            Carroll MD  
+            Kit BK  
+            Ogden CL  
+           Pevalence of Obesity and Trends in the Distribution of Body Mass Index Among U.S. Adults, 1999–2010 JAMA 2012 307 5 491 497 
+            http://dx.doi.org/10.1001/jama.2012.39 
+           22253363 
+7 
+            Myers CA  
+            Slack T  
+            Martin CK  
+            Broyles ST  
+            Heymsfied SB  
+           Regional disparities in obesity prevalence in the United States: A spatial regime analysis Obesity (Silver Spring) 2015 23 2 481 487 
+            http://dx.doi.org/10.1002/oby.20963 
+           25521074 
+8 
+            Singh G  
+            Kogan M  
+            Van Dyck P  
+           A Multilevel Analysis of State and Regional Disparities in Childhood and Adolescent Obesity in the United States J Community Health 2008 33 2 90 102 
+            http://dx.doi.org/10.1007/s10900-007-9071-7 
+           18049885 
+9 
+            Kumanyika SK  
+           Environmental influences on childhood obesity: Ethnic and cultural influences in context Physiol Behav 2008 94 1 61 70 
+            http://dx.doi.org/10.1016/j.physbeh.2007.11.019 
+           18158165 
+10 
+            Zick C  
+            Smith K  
+            Fan J  
+            Brown B  
+            Yamada I  
+            Kowaleski-Jones L  
+           Running to the Store? The relationship between neighborhood environments and the risk of obesity Soc Sci Med 2009 69 10 1493 1500 
+            http://dx.doi.org/10.1016/j.socscimed.2009.08.032 
+           19766372 
+11 
+            Larson N  
+            Story M  
+            Nelson M  
+           Neighborhood Environments: Disparities in Access to Healthy Foods in the U.S Am J Prev Med 2009 36 1 74 81 
+            http://dx.doi.org/10.1016/j.amepre.2008.09.025 
+           18977112 
+12 
+            Ford PB  
+            Dzeweltowski DA  
+           Disparities in obesity prevalence due to variation in the retail food environment: three testable hypotheses Nutr Rev 2008 66 4 216 228 
+            http://dx.doi.org/10.1111/j.1753-4887.2008.00026.x 
+           18366535 
+13 
+            Franco M  
+            Diez Roux A  
+            Glass T  
+            Caballero B  
+            Brancati F  
+           Neighborhood Characteristics and Availability of Healthy Foods in Baltimore Am J Prev Med 2008 35 6 561 567 
+            http://dx.doi.org/10.1016/j.amepre.2008.07.003 
+           18842389 
+14 
+            Baker E  
+            Schootman M  
+            Barnidge E  
+            Kelly C  
+           The Role of Race and Poverty in Access to Food That Enable Individuals to Adhere to Dietary Guidelines Prev Chronic Dis 2006 3 A76 16776877 
+15 
+            Block J  
+            Scribner R  
+            DeSalvo K  
+           Fast Food, Race/Ethnicity, and Income Am J Prev Med 2004 27 3 211 217 
+            http://dx.doi.org/10.1016/j.amepre.2004.06.007 
+           15450633 
+16 
+            Galvez M  
+            Morland K  
+            Raines C  
+             
+           Race and food store availability in an inner-city neighborhood Public Health Nutr 2007 11 6 624 631 17935646 
+17 
+            Neckerman K  
+            Bader M  
+            Richards C  
+             
+           Disparities in the Food Environments of New York City Public Schools Am J Prev Med 2010 39 3 195 202 
+            http://dx.doi.org/10.1016/j.amepre.2010.05.004 
+           20709250 
+18 
+            Powell LM  
+            Chaloupka FJ  
+            Bao Y  
+           The availability of fast-food and full-service restaurants in the United States: associations with neighborhood characteristics Am J Prev Med 2007 33 4 S240 245 
+            http://dx.doi.org/10.1016/j.amepre.2007.07.005 
+           17884571 
+19 
+            Powell LM  
+            Slater S  
+            Mirtcheva D  
+            Bao Y  
+            Chaloupka F  
+           Food store availability and neighborhood characteristics in the United States Prev Med 2006 44 3 189 195 
+            http://dx.doi.org/10.1016/j.ypmed.2006.08.008 
+           16997358 
+20 
+            Sharkey J  
+            Horel S  
+           Neighborhood Socioeconomic Deprivation and Minority Composition Are Associated with Better Potential Spatial Access to the Ground-Truthed Food Environment in a Large Rural Area J Nutr 2008 138 3 620 627 18287376 
+21 
+            Richardson A  
+            Boone-Heinonen J  
+            Popkin B  
+            Gorden-Larsen P  
+           Are neighbourhood food resources distributed inequitably by income and race in the USA? Epidemiological findings across the urban spectrum BMJ Open 2012 2 2 e000698 
+            http://dx.doi.org/10.1136/bmjopen-2011-000698 
+           
+22 
+            Morland K  
+            Filomena S  
+           Disparities in the availability of fruits and vegetables between racially segregated urban neighborhoods Public Health Nutr 2007 10 12 1481 1489 
+            http://dx.doi.org/10.1017/S1368980007000079 
+           17582241 
+23 
+            Morland K  
+            Wing S  
+            Diez Roux A  
+            Poole C  
+           Neighborhood Characteristics Associated with the Location of Food Stores and Food Service Places Am J Prev Med 2002 22 1 23 29 
+            http://dx.doi.org/10.1016/S0749-3797(01)00403-2 
+           11777675 
+24 
+            Bodor JN  
+            Rice JC  
+            Farley TA  
+            Swalm CM  
+            Rose D  
+           Disparities in food access: does aggregate availability of key foods from other stores offset the relative lack of supermarkets in African-American neighborhoods? Prev Med 2010 51 1 63 67 
+            http://dx.doi.org/10.1016/j.ypmed.2010.04.009 
+           20403377 
+25 
+            Drewnowski A  
+            Aggarwal A  
+            Hurvitz P  
+            Monsivais  
+            Moudon A  
+           Obesity and Supermarket Access: Proximity or Price? Am J Public Health 2012 102 8 e74 e80 
+            http://dx.doi.org/10.2105/AJPH.2012.300660 
+           22698052 
+26 
+            Michimi A  
+            Wimberly MC  
+           Associations of supermarket accessibility with obesity and fruit and vegetable consumption in the conterminous United States Int J Health Geogr 2010 9 49 
+            http://dx.doi.org/10.1186/1476-072X-9-49 
+           20932312 
+27 
+            Jilcott S  
+            Keyserling T  
+            Crawford T  
+            Mcguirt J  
+            Ammerman A  
+           Examining Associations among Obesity and Per Capita Farmers’ Markets, Grocery Stores/Supermarkets, and Supercenters in U.S. Counties J Am Diet Assoc 2011 111 4 567 572 
+            http://dx.doi.org/10.1016/j.jada.2011.01.010 
+           21443990 
+28 
+            Ahern M  
+            Brown C  
+            Dukas S  
+           A National Study of the Association between Food Environments and County-Level Health Outcomes J Rural Health 2011 27 4 367 379 
+            http://dx.doi.org/10.1111/j.1748-0361.2011.00378.x 
+           21967380 
+29 
+            Jilcott S  
+            Lui H  
+            Moore J  
+            Bethel J  
+            Wilson J  
+            Ammerman A  
+           Commute Times, Food Retail Gaps, and Body Mass Index in North Carolina Counties Prev Chronic Dis 2010 7 5 A107 20712934 
+30 
+            Oka M  
+            Link C  
+            Kawachi I  
+           Area-based variations in obesity are more than a function of the food and physical activity environment: area-based variations in obesity J Urban Health 2013 90 3 442 463 
+            http://dx.doi.org/10.1007/s11524-012-9715-5 
+           22700325 
+31 
+            Sen B  
+           Using the Oaxaca-Blinder Decomposition as an Empirical Tool to Analyze Racial Disparities in Obesity Obesity 2014 22 7 1750 1755 
+            http://dx.doi.org/10.1002/oby.20755 
+           24733610 
+32 
+            Powell L  
+            Wada R  
+            Krauss R  
+            Wang Y  
+           Ethnic disparities in adolescent body mass index in the United States: The role of parental socioeconomic status and economic contextual factors Soc Sci Med 2012 75 3 467 476 
+            http://dx.doi.org/10.1016/j.socscimed.2012.03.019 
+           
+33 
+            Chou S  
+            Grossman M  
+            Saffer H  
+           An economic analysis of adult obesity: results from the Behavioral Risk Factor Surveillance System J Health Econ 2004 23 3 565 587 
+            http://dx.doi.org/10.1016/j.jhealeco.2003.10.003 
+           15120471 
+34 U.S. Department of Agriculture Economic Research Service Food Environment Atlas USDA 2013 
+            www.ers.usda.gov/data-products/food-environment-atlas.aspx 
+           Accessed on March 6, 2013 
+35 
+            Glanz K  
+            Hoelscher D  
+           Increasing fruit and vegetable intake by changing environments, policy and pricing: restaurant-based research, strategies, and recommendations Prev Med 2004 2 S88 93 
+            http://dx.doi.org/10.1016/j.ypmed.2004.03.002 
+           15313077 
+36 
+            Story M  
+            Kaphingst K  
+            Robinson-O’Brien R  
+            Glanz K  
+           Creating Healthy Food and Eating Environments: Policy and Environmental Approaches Annu Rev Public Health 2008 29 253 272 
+            http://dx.doi.org/10.1146/annurev.publhealth.29.020907.090926 
+           18031223 
+37 
+            Caspi CE  
+            Kawachi I  
+            Subramanian SV  
+            Adamkiewicz G  
+            Sorensen G  
+           The relationship between diet and perceived and objected access to supermarkets among low-income housing residents Soc Sci Med 2012 75 5 1254 1262 
+            http://dx.doi.org/10.1016/j.socscimed.2012.05.014 
+           22727742 
+38 
+            Jack D  
+            Neckerman K  
+            Schwartz-Soicher O  
+             
+           Socio-economic status, neighborhood food environments and consumption of fruits and vegetables in New York City Public Health Nutr 2013 16 7 1197 1205 
+            http://dx.doi.org/10.1017/S1368980012005642 
+           23388104 
+39 
+            Jones-Smith JC  
+            Karter AJ  
+            Kelly M  
+             
+           Obesity and the Food Environment: Income and Ethnicity Differences Among People with Diabetes Diabetes Care 2013 36 9 2697 2670 
+            http://dx.doi.org/10.2337/dc12-2190 
+           23637355 
+

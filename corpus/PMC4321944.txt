@@ -1,0 +1,503 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10158954240867JAMA Otolaryngol Head Neck SurgJAMA Otolaryngol Head Neck SurgJAMA otolaryngology-- head &amp; neck surgery2168-61812168-619X25321077432194410.1001/jamaoto.2014.2360NIHMS656332ArticleA Model for Predicting Gastrostomy Tube Placement in Patients Undergoing Surgery for Upper Aerodigestive Tract Lesions Mays Ashley C. MDMoustafa Farah BSWorley Mitch BSWaltonen Joshua D. MDD'Agostino Ralph JrPhDDepartment of Otolaryngology, Wake Forest Baptist Health, Winston-Salem, North Carolina (Mays, Waltonen); Wake Forest School of Medicine, Winston-Salem, North Carolina (Moustafa, Worley); Department of Biostatistical Sciences, Comprehensive Cancer Center, Wake Forest Baptist Health, Winston-Salem, North Carolina (D’Agostino).Corresponding Author: Ashley C. Mays, MD, Department of Otolaryngology, Wake Forest Baptist Health, Medical Center Boulevard, Watlington Hall, Fourth Floor, Winston-Salem, NC 27157, (abiddy@wakehealth.edu)17 1 2015 1 12 2014 09 2 2015 140 12 1198 1206 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.IMPORTANCE
+Identifying high-risk patients in the preoperative period can allow physicians to optimize nutritional status early for better outcomes after head and neck cancer resections.
+
+OBJECTIVE
+To develop a model to predict preoperatively the need for gastrostomy tube (G-tube) placement in patients undergoing surgery of the upper aerodigestive tract.
+
+DESIGN, SETTING, AND PARTICIPANTS
+This retrospective medical record review included all adult patients diagnosed with head and neck cancers who underwent tumor resection from 2007 through 2012 at Wake Forest Baptist Health, a level 1 tertiary care center. Records were screened for patient demographics, tumor characteristics, surgical treatment type, and postoperative placement of G-tube. A total of 743 patients underwent resection of head and neck tumors. Of these, 203 were excluded for prior G-tube placement, prior head and neck resection, G-tube placement for chemoradiotherapy, and resection for solely nodal disease, leaving 540 patients for analysis.
+
+MAIN OUTCOMES AND MEASURES
+Placement of postoperative G-tube.
+
+RESULTS
+Of the 540 included patients, 23% required G-tube placement. The following variables were significant and independent predictors of G-tube placement: preoperative irradiation (odds ratio [OR], 4.1; 95% CI, 2.4–6.9; P &lt; .001), supracricoid laryngectomy (OR, 26.0; 95% CI, 4.9–142.9; P &lt; .001), tracheostomy tube placement (OR, 2.6; 95% CI, 1.5–4.4; P &lt; .001), clinical node stage N0 vs N2 (OR, 2.4; 95% CI, 1.4–4.2; P = .01), clinical node stage N1 vs N2 (OR, 1.6; 95% CI, 0.8–3.3; P = .01), preoperative weight loss (OR, 2.0; 95% CI, 1.2–3.2; P = .004), dysphagia (OR, 2.0; 95% CI, 1.2–3.2; P = .005), reconstruction type (OR, 1.9; 95% CI, 1.1–2.9; P = .02), and tumor stage (OR, 1.8; 95% CI, 1.1–2.9; P = .03). A predictive model was developed based on these variables. In the validation analysis, we found that the average predicted score for patients who received G-tubes was statistically different than the score for the patients who did not receive G-tubes (P = .01).
+
+CONCLUSIONS AND RELEVANCE
+We present a validated and comprehensive model for preoperatively predicting the need for G-tube placement in patients undergoing surgery of the upper aerodigestive tract. Early enteral access in high-risk patients may prevent complications in postoperative healing and improve overall outcomes, including quality of life.
+
+
+   Head and neck cancer surgery requires careful planning in the preoperative and postoperative periods to prepare for the dramatic changes in deglutition, voice, and nutritional needs that often occur after resection of upper aerodigestive tract cancers. Cancer resection may interfere with normal mastication and swallowing. Subsequent chemoradiotherapy can further limit oral intake owing to side effects such as trismus, mucositis, xerostomia, and fibrosis. In addition, 40% of patients with head and neck cancer are already malnourished at initial presentation, and so the potential for suboptimal outcomes is high.1 Proper planning in the preoperative period to optimize the nutritional status is necessary for the best outcomes.
+
+Though a set of guidelines for nutritional supplementation for patients undergoing chemoradiation therapy does exist, no national guidelines currently exist on either the timing or the necessity of gastrostomy tube (G-tube) placement for patients with head and neck cancer.2 We found only 2 studies that provided a guide for prophylactic G-tube placement based on preoperative factors, and these studies relied on data compiled from relatively small patient samples and/or included a limited number of predictors.3, 4 The present study will assess whether characteristics of the patient, the tumor itself, or the planned resection are reliable predictors of G-tube placement postoperatively.
+
+Methods
+The Wake Forest Baptist Health (WFBH) institutional review board approved this retrospective medical record review, waiving patient informed consent.
+
+Patient Population
+A retrospective review of patient medical records from the WFBHO to laryngology–Head and Neck Oncology clinic was performed. Patients with International Classification of Diseases, Ninth Revision (ICD-9) diagnoses 140.0 through 149.9 and 160.0 through 162.0 were identified via a comprehensive database, compiled and released by the WFBH Medical Records Department, of all surgical procedures performed by the 3WFBH Head and Neck Oncology faculty members between January 1,2007, and August 31, 2012. Each patient whose medical record was in this database was screened for participation in this study. Eligible patients were 18 years or older when they underwent surgical resection for head and neck upper aerodigestive tract cancer or benign lesions.
+
+Exclusion Criteria
+To eliminate confounding reasons for G-tube placement, we used several exclusionary criteria. Patients with G-tubes present preoperatively were excluded. Also excluded were patients who recovered swallowing function postoperatively but had G-tubes placed more than 3 months after the resection or placed prophylactically in anticipation of the effects of adjuvant therapy; these G-tubes were considered to have been placed for reasons other than the disease or effects of surgery.
+
+To eliminate the confounding variable of prior anatomic changes and swallowing dysfunction, we excluded patients who had previously undergone surgical resection for treatment of an upper aerodigestive tract lesion. Also excluded were patients who underwent resection solely for neck nodal disease without primary site resection and patients whose primary tumor site was not the upper aerodigestive tract (eg, skin, parotid gland, thyroid gland). Patients with insufficient pre-operative clinical data were excluded. Finally, because their need for G-tube placement could not be assessed, patients who died during postoperative hospitalization or prior to their first postoperative visit were excluded.
+
+Included Patient Data
+A total of 540 patients were identified who met all criteria for inclusion in our study. Using the patient electronic medical records, we screened for demographic characteristics including age, sex, body mass index (BMI), and marital status. Clinical history factors included weight loss, tobacco use (oral or inhaled), heavy alcohol use, medical comorbidities, ASA class (American Society of Anesthesiology physical status), depression, chronic pain, and poor functional status. History of preoperative irradiation to the tumor site, documented failed swallow study (functional endoscopic evaluation of swallowing [FEES] or modified barium swallow [MBS]), and history of dysphagia were also noted. A patient’s history of dysphagia was deemed positive if there was any subjective complaint of difficulty swallowing by the patient. Quantification of the severity of the dysphagia in the clinic notes was rare; therefore, it was coded as a binary variable. Tumor, nodal, and metastatic (TNM) staging, tumor site, and nodal laterality were also documented. Surgery information such as surgical type, type of reconstruction, and placement of tracheotomy tube was collected. Finally, postoperative failed FEES or MBS and G-tube placement were documented. See Box 1 for a list of all the characteristics examined. For the validation of the model, 137 patients were included in the analysis. Identical criteria for inclusion and exclusion were applied.
+
+Statistical Methods
+Descriptive statistics for all patients were generated for all measures, including means, standard deviations (SDs), medians, and ranges for continuous measures and frequencies and pro-portions for categorical measures. Bivariate analyses were performed to examine the relationships between each of the individual patient measures and the presence or absence of G-tube placement. The χ2 and Fisher exact tests were used to calculate statistical significance for categorical predictors, and Wilcoxon rank sum tests were used for continuous predictors. Multiple logistic regression models were fit to determine the optimal model for predicting G-tube placement. In this model BMI and height were not included owing to the large number of patients with missing data. A backward selection approach was used to fit the multiple logistic regression model where all potential predictors were first considered, and in a step-wise fashion, 1 variable at a time was removed, based on its level of significance in the model.
+
+A predictive model was then created using the data from this first group of patients. This model included only predictor variables that remained statistically significant (P &lt; .05). From this final model a predictive equation was generated that was then used to generate predictive probabilities for G-tube placement for patients. Following the creation of this model, we performed a validation analysis using the same variables collected from the medical records of surgical patients between September 2012 and December 2013. These data were entered into our predictive equation, with outcome being percentage probability of G-tube placement. The predicted probabilities for patients who received a G-tube vs those who did not were then compared using a 2-sample t test. All analyses were performed using SAS software, version 9.3 (SAS Institute Inc).
+
+Sample Size and Power
+The multiple logistic regression models included 540 patients, 123 with G-tubes and 417 without. With 540 patients available for analysis, there was 80% power to detect a difference between groups for continuous measures equivalent to 0.288 SDs (ie, an effect size of 28.8%), assuming a 2-sided 2-sample t test with α = .05. For categorical measures, there was greater than 80% power to detect differences between groups equivalent to 11% (ie, 10% vs 21%) for measures with low prevalence, 14% (ie, 20% vs 34%) for measures with moderate prevalence, and 15% (ie, 40% vs 55%) for measures with high prevalence based on Fisher exact tests with α = .05 (2-sided test).
+
+Results
+A total of 743 patients underwent head and neck resections at our facility during the study period: 78 were excluded owing to the presence of preoperative G-tubes; 97 were excluded for history of prior head and neck surgery; 5 died prior to the first postoperative visit; and 23 did not have sufficient data for inclusion. Thus, 540 patients who underwent resection were included for analysis in this study. Thirty of these resections were performed for benign disease (eg, osteoradionecrosis or a benign tumor involving the upper aerodigestive tract).
+
+Of the 540 patients included, 23% subsequently required G-tube placement. The indications for placement of a G-tube were determined by the combined assessments of the surgeon and the speech and language pathologist as to whether they predicted a prolonged recovery of swallowing. Though not all patients had postoperative swallowing evaluations (ie, MBS or FEES), evidence of aspiration on these studies certainly assisted the team in determining whether a G-tube was necessary. In general, surgeons and speech pathologists recommend G-tube placement in the setting of gross aspiration with poor adaptation and management of secretions. However, some G-tubes were placed without these evaluations in anticipation of poor swallowing function (eg, after a total glossectomy).
+
+Patient Characteristics
+Preoperative weight loss (odds ratio [OR], 2.0; 95% CI, 1.2–3.2; P = .004), dysphagia history (OR, 2.0; 95% CI, 1.2–3.2; P = .005), and preoperative head and neck radiation therapy (OR, 4.1; 95% CI, 2.4–6.9; P &lt; .001) were found to be strong predictors of G-tube placement in logistic regression analysis. Preoperative radiation therapy was found to be the strongest overall predictor. Tobacco and heavy alcohol use did not significantly contribute to the predictive model (P = .51 and P = .14, respectively). Though no individual medical co-morbidity was found to be statistically significant in the multivariate model, ASA class, which uses underlying medical disease as a determining factor, was found to be significant in univariate analysis. Twenty-six percent of those patients with ASA class of 3 or greater required G-tube placement (P = .03).
+
+Tumor Characteristics
+Tumor location overall (examined as a multilevel categorical variable) was not a significant predictor of G-tube placement, even with grouping locations into larger zones of the aerodigestive tract. Tongue base location (when specified as a binary variable) was the only specific location to show significance (P = .04). Tumor stage (T, as part of TNM staging) was a strong predictor of G-tube placement, with advanced tumor stage (T3-T4 disease) being a significant predictor in logistic regression analysis (OR, 1.8; 95% CI, 1.1–2.9; P = .03).
+
+Nodal stage (N, as part of TNM staging) was also a strong predictor in logistic regression analysis: N2 disease was found to be the strongest nodal predictor of G-tube placement (P &lt; .001). When compared between groups, both N0 vs N2 disease (OR, 2.4; 95% CI, 1.4–4.2; P = .01) and N1 vs N2 disease (OR, 1.6; 95% CI, 0.8–3.3; P = .01) showed significance. There was no significant difference between the presence of clinically unilateral and bilateral nodes (P = .50); however, bilateral neck dissection vs unilateral neck dissection was significant in univariate analysis (P = .01).
+
+Surgical Resection
+Tracheostomy tube placement at the time of resection was found to be the third strongest overall predictor in the model (OR,2.6; 95% CI, 1.5–4.4; P &lt; .001).All surgical procedures were analyzed, and 5 showed significance in univariate analysis: total glossectomy (P = .003), tongue base resection (P = .02), hemimandibulectomy (P = .04), supracricoid laryngectomy (P &lt; .001), and floor of the mouth resection (P = .02). Supracricoid laryngectomy was the only procedure to enter the multivariate model in logistic regression and was found to be the second strongest overall predictor (OR, 26.0; 95% CI, 4.9–142.9; P &lt; .001). When grouped by surgical zones of resection (eg, oral cavity, oropharynx, larynx), logistic regression analysis uncovered no significant differences. Defect reconstruction type also entered the model, showing significant predictive value in logistic regression. Microvascular free flap and pedicled rotation flap reconstruction were stronger predictors (OR, 1.9; 95% CI, 1.1–2.9; P = .02) than primary closure and split-thickness skin graft. (See Table 1 for demographic data and univariate and logistic regression analysis.)
+
+Predictive Model
+A predictive model for G-tube placement was developed. Table 2 lists the variables used in this model, their ORs, and corresponding 95% CIs. From logistic regression analysis, the formula detailed in Box 2, and illustrated with 2 clinical examples provided in Box 3, was developed to determine the overall predictive probability of G-tube placement.
+
+Validation Analysis
+To test the validity of our predictive model, we examined 137 additional resections that were not used in our model-building process. Of these 137 patients, 13% subsequently required G-tube placement. Using our predictive model, we calculated a predictive preoperative score for all 137 patients to determine the model’s ability to predict the patients who would require G-tube placement. For those patients who received a G-tube postoperatively, the average predictive score was 0.2540, while those patients who did not receive a G-tube post-operatively had a predictive score of 0.1086. Using a 2-sample t test to compare these scores, we found that the average predicted score for patients who received G-tubes was statistically different than the score for the patients who did not receive G-tubes (P = .01). See the Figure for graphic comparison of postoperative G-tube placement vs preoperative predictive probability score.
+
+Discussion
+Malnutrition is a known indicator of poor prognosis in cancer treatment and has been shown to significantly impact survival and overall outcome.5–7 Patients who are nutritionally optimized preoperatively not only rate their quality of life as better than those who are nutritionally depleted, but they also have better postoperative outcomes.1 A BMI greater than 25 preoperatively has also been associated with improved swallow, longer time to disease recurrence, and improved survival.8 Though surgeons have long relied on nasogastric tubes in the immediate postoperative period to supplement nutrition during times of healing, longer-term G-tubes are often required if swallowing function does not permit adequate oral intake to sustain life or if aspiration risk is too great. Furthermore, even those patients who retain adequate swallowing function postoperatively may experience dysfunction during adjuvant therapy, as demonstrated by the finding that 75% to 80% of patients undergo significant weight loss during chemoradiotherapy.9 With all this in mind, we believe that preoperative G-tube placement is an important consideration in comprehensive treatment planning for a certain subset of patients with head and neck cancer.
+
+While placement of a G-tube is certainly beneficial in many patients, it is not a risk-free procedure: the complication rate is 5% to 10%, including tube migration, leakage, and bleeding.10,11 It is also associated with mortality and increased health care costs.2 G-tubes sometimes are preferable to nasogastric tubes owing to improved cosmesis, reduced mucosal irritation, and ability to use longer term.12 G-tubes have also been shown to sustain patient weight better than nasogastric tubes at 6 weeks after chemoradiotherapy.9 Patients with head and neck cancer who had G-tubes placed during treatment reported it as “life-saving,” and the majority said that they would have it placed again if needed.13,14 Thus, despite the risks of the procedure, for a subset of surgical patients, G-tube placement can offer significant benefits. The challenge we attempt to address with this study is the preoperative identification of such patients using a predictive model. Placement of the G-tube preoperatively may obviate some of the healing complications and other detrimental effects of malnutrition.
+
+Studies have suggested that advanced tumors (stages 3–4), and most consistently those of the hypopharynx, oral cavity, and oropharynx, are most likely to require G-tubes.3,4,15 Our findings were concordant with these studies except that we did not find a significant relationship between hypopharyngeal tumors and G-tube placement, presumably because most surgeries for hypopharyngeal cancer involve a laryngopharyngectomy, which rarely results in swallowing dysfunction. We also found that larger tumors (ie, T3-T4) were more likely to require postoperative G-tubes, which is intuitive, given the greater volume of tissue excised with larger tumors and the need for larger and potentially more bulky reconstructions.
+
+The preoperative nodal stage was found to be a significant predictor (ie, N2 vs N0 vs N1). We found, however, that bilateral disease was not significantly different than unilateral disease. These findings are in agreement with the predictive model put forth by Wermker et al.4 Interestingly, performing a bilateral neck dissection was predictive of postoperative G-tube placement. Many bilateral neck dissections are performed for primary disease sites of the supraglottis, hypopharynx, tongue base, and floor of the mouth, all of which have been shown to be risks for postoperative swallowing dysfunction.15 This suggests that it is the location of the primary tumor site and the surgery required for this that drives the association with G-tube placement.
+
+Reconstruction type, though it is a significant part of surgical planning, has not been assessed as a predictor for G-tube placement in prior studies. We found that microvascular free flap and pedicled rotation flaps are predictive of G-tube placement. This is likely owing to the amount of normal anatomy resected or disrupted and the size of the primary tumor that would prompt the surgeon to plan a flap reconstruction. In addition, the flap itself will usually be insensate and bulky in the immediate postoperative period, both contributing to challenges with deglutition postoperatively. Though innervated flaps can become sensate, it often takes several months to occur (if at all), leaving the immediate postoperative period as a vulnerable time in swallowing recovery. Many flaps, in particular musculocutaneous flaps, have predicted atrophy of the muscular component after several months, leading to decrease in bulk, but in the immediate postoperative period, flaps tend to be bulky and lead to swallowing challenges. Similarly, tracheotomy is often performed to address anticipated changes in anatomy, with swelling and perhaps bulk of a reconstructive flap. We found that tracheotomy tube placement at the time of resection is associated with G-tube placement. We believe that this is unlikely to be related to the swallowing dysfunction created by the tracheotomy itself, but rather that the tracheotomy is performed in resections of larger primary tumors or those with greater risk for swelling, aspiration, or upper airway obstruction, such as those requiring flap reconstruction.
+
+A rare but recognized complication in patients with head and neck cancer is the seeding of a tumor to the G-tube or other abdominal sites. During the past 2 decades, there have been increasing reports describing tumor seeding at the G-tube exit site after percutaneous gastrostomy tube (PEG) placement.16 This has led to controversy relating to the technique used in PEG insertion. The most likely seeding mechanism is tumor implantation induced by trauma during PEG placement. The reported incidence of head and neck cancers metastatic to the stomach is very low, 0.7% to 2.0% of all gastric tumors; however, in over half the cases reported, distant metastases have been discovered at the G-tube site. With this in mind, we recommend either open/laparoscopic G-tube placement or placement intraoperatively at the time of the resection after the tumor has been removed. After the primary tumor has been resected, the oncologic surgeon could guide the endoscope through the defect as the abdominal surgery team places the tube through the standard PEG technique.
+
+The strengths of this study include that it was performed on a large patient population cared for in a multisurgeon practice at a large tertiary care facility. It is also unique in that the full gamut of patient and tumor factors were analyzed for inclusion. Performing such a comprehensive multifactorial assessment allowed us to differentially control for confounding factors in multivariate analysis and more clearly define true predictors. Further, and most importantly, a model was developed that can be easily used in otolaryngology practices in the preoperative setting to assess risk in head and neck cancer populations.
+
+There are several limitations of this study. Our data were largely reliant on the accuracy and completeness of clinic notes, not all of which may have described the presence or extent of symptoms such as dysphagia or weight loss. With numerous providers involved in preoperative clinical evaluation, there was certainly variability in the standard patient preoperative evaluation. Additionally, we excluded patients whose notes clearly stated that a G-tube was being placed in anticipation of worsening function due to upcoming adjuvant chemoradiotherapy. If this concern was the main factor in the decision to refer a patient for a G-tube but was not documented in the record, then these patients were not excluded, but likely would have been excluded with better documentation.
+
+Patients who had previously undergone resection of an upper aerodigestive tract tumor were excluded from this study. We wished to create a model that can be used for a given patient in the preoperative setting using current symptoms, disease stage and tumor location, and planned extent of surgery. The amount of variability introduced by prior surgery was judged to be too confounding to our analysis and too confusing to include in any kind of predictive model. For example, carbon dioxide laser excision of a small vocal fold cancer and open supracricoid laryngectomy would both have been included in the category of “prior surgery,” although the effects of these procedures on swallowing function after any subsequent surgery are vastly different. However, this decision probably resulted in exclusion of a small number of patients who may have provided useful data.
+
+Despite having a predictive algorithm, good clinical judgment is invaluable. No predictive model is 100% accurate and at best should be used to guide clinical decisions based on historical data. The goal of this study was to identify factors that make a patient high risk for G-tube placement. The model should serve as a risk assessment for all patients undergoing head and neck resections. However, despite having objective data that may suggest that a patient is high risk for G-tube placement, the physician innately has the most valuable tool for guiding clinical decisions, which is the direct patient relationship. Some factors, such as patients’ motivation and vigor, can-not be catalogued or documented, but undoubtedly play a role in their ability to rehabilitate their swallowing function post-operatively.
+
+Further studies are warranted to analyze the predictive model in a prospective fashion to test the reproducibility of these findings. We showed good reliability of this model in our own validation study; however, were this model to be replicated in a new patient sample in other high-volume centers, this model could be used as part of a national guideline for stratification of high- and low-risk patients with head and neck cancer. Furthermore, cost analysis should also be performed to assess for any system cost savings in those patients receiving preoperative G-tubes compared with those received in the postoperative period.
+
+Conclusions
+A validated and comprehensive predictive model is available for use in the preoperative period to predict the need for G-tube placement in patients undergoing surgery of the upper aerodigestive tract. Early enteral access in high-risk patients may prevent complications in postoperative healing and improve overall outcomes, including quality of life.
+
+Author Contributions: Dr Mays had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Study concept and design: Mays, Moustafa, Waltonen.
+
+Acquisition, analysis, or interpretation of data: Mays, Moustafa, Worley, Waltonen, D'Agostino.
+
+Drafting of the manuscript: Mays, Moustafa, Waltonen, D'Agostino.
+
+Critical revision of the manuscript for important intellectual content: Mays, Worley, Waltonen, D'Agostino.
+
+Statistical analysis: Mays, D'Agostino.
+
+Administrative, technical, or material support: Mays, Moustafa, Waltonen.
+
+Study supervision: Mays, Waltonen.
+
+Conflict of Interest Disclosures: None reported.
+
+Previous Presentation: This study was presented at the Fifth World Congress of the International Federation of Head and Neck Oncologic Societies and the Annual Meeting of the American Head &amp; Neck Society; July 27, 2014; New York, New York.
+
+Figure The Difference in Gastrostomy Tube (G-Tube) Prediction Between Patients Who Received G-Tubes and Those Who Did Not in the Validation Study
+Each patient in the validation study had a predictive probability calculated using the predictive model. This scatterplot compares the predictive probabilities of patients who received G-tubes vs those who did not, the difference being statistically significant at P = .01.
+
+Table 1 Statistical Analysis of Preoperative Assessment Variables
+
+Variable	Patients	P Value	OR (95% CI)	
+Overall,
+No.	Receiving
+G-Tube,
+No. (%)a	Univariatea	Logistic
+Regression	
+Included in study	540	128 (23)	NA	NA	NA	
+Sex						
+    Female	160	30 (19)	.12	NA	NA	
+    Male	380	98 (25)	
+Preoperative BMI	NA	NA	.002	NA	NA	
+Preoperative weight
+loss						
+    Yes	185	67 (36)	&lt;.001	.004	2.0 (1.2–3.2)	
+    No	355	57 (16)	
+Tobacco use						
+    Yes	448	108 (24)	.51	NA	NA	
+    No	92	18 (20)	
+Heavy alcohol use
+(&gt;2 drinks/d)						
+    Yes	147	41 (28)	.14	NA	NA	
+    No	393	83 (21)	
+Preoperative
+irradiation						
+    Yes	124	48 (39)	&lt;.001	&lt;.001	4.1 (2.4–6.9)	
+    No	416	75 (18)	
+History of dysphagia						
+    Yes	212	74 (35)	&lt;.001	.005	2.0 (1.2–3.2)	
+    No	328	49 (15)	
+ASA class						
+    1	0	0	.03	NA	NA	
+    2	97	13 (13)	
+    3	388	97 (25)	
+    4	55	17 (31)	
+Tumor location						
+    Sinonasal	38	6 (15)	.10 (tongue base,
+.04)	NA	NA	
+    Laryngeal	150	33 (22)	
+    Oral cavity	252	60 (24)	
+    Oropharynx	70	19 (27)	
+    Hypopharynx	30	9 (31)	
+Clinical node stage						
+    N0	356	64 (18)	Overall, .001;
+N0-N1, .15;
+N0-N2, &lt;.001	Overall, .01;
+N0-N2, .002;
+N1-N2, .22	N0-N2, 2.4 (1.4 –
+4.2)
+N1-N2, 1.6 (0.76–
+3.3)	
+    N1	76	20 (26)	
+    N2	108	37 (34)	
+Clinical node
+laterality						
+    Unilateral	135	39 (29)	Overall, .005;
+N0-unilateral, .02;
+N0-bilateral, .01;
+Unilateral-
+bilateral, .50	NA	NA	
+    Bilateral	62	21 (34)	
+Distant metastases						
+    Yes	8	2 (25)	&gt;.99	NA	NA	
+    No	532	125 (23)	
+Tumor stage						
+    T1	131	14 (11)	Overall, &lt;.001;
+T1-T2, .99;
+T1-T3, .004;
+T1-T4, &lt;.001;
+T2-T3, .30;
+T2-T4, .01;
+T3-T4, .22	NA	NA	
+    T2	151	30 (20)	
+    T3	102	27 (26)	
+    T4	156	53 (34)	
+Tumor stage groups						
+    T1-T2	282	47 (16)	&lt;.001	.03	1.8 (1.1–2.9)	
+    T3-T4	258	81 (31)	
+Tracheotomy at time
+of surgery						
+    Yes	224	81 (36)	&lt;.001	&lt;.001	2.6 (1.5–4.4)	
+    No	316	44 (14)	
+Neck dissection						
+    None	141	23 (16)	NA	NA	NA	
+    Unilateral	170	39 (23)	.90	NA	NA	
+    Bilateral	229	66 (29)	.01	NA	NA	
+Reconstruction type						
+    Primary closure	278	45 (16)	Overall, &lt;.001;
+Primary
+closure-STSG, .03;
+Primary
+closure-free flap,
+&lt;.001;
+Primary
+closure-pedicled
+rotation, .03;
+STSG-free flap,
+&lt;.001;
+STSG-pedicled
+rotation, .003;
+Pedicled
+rotation-free flap,
+.10	NA	NA	
+    STSG	21	0	
+    Free flap	157	58 (37)	
+    Pedicled rotational
+flap	87	25 (26)	
+Reconstruction type
+groups						
+    Primary
+closure-STSG	299	45 (15)	&lt;.001	.02	1.9 (1.1–2.9)	
+    Free flap-pedicled
+rotation	241	83 (33)	
+Surgery typea						
+    Total glossectomy	8	6 (75)	.003	NA	NA	
+    Supracricoid
+laryngectomy	10	8 (80)	&lt;.001	&lt;.001	26.0 (4.9–142.9)	
+    Hemimandibulectomy	43	16 (37)	.04	NA	NA	
+    Floor of mouth
+resection	80	27 (33)	.02	NA	NA	
+    Tongue base
+resection	31	13 (42)	.02	NA	NA	
+Abbreviations: ASA, American Society of Anesthesiology; BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); NA, not applicable; OR, odds ratio; STSG, split-thickness skin graft.
+
+a All resections except those listed were not significant in univariate analysis (P &gt; .05). These included total laryngectomy, total laryngopharyngectomy, partial glossectomy, hemiglossectomy, hemilaryngectomy, marginal mandibulectomy, segmental mandibulectomy, buccal resection, infrastructure maxillectomy, hard palate resection, soft palate resection, mandibulotomy, nasopharyngeal resection, pharyngectomy with or without transcervical approach, retromolar trigone resection, tonsillectomy, radical tonsillectomy, skull base resection, carbon dioxide laser excision.
+
+Table 2 Variables in the Predictive Model
+
+Variable	OR (95% CI)	P Value	
+Preoperative irradiationa	4.1 (2.4–6.9)	&lt;.001	
+Supracricoid laryngectomya	26.0 (4.9–142.9)	&lt;.001	
+Tracheostomy placementa	2.6 (1.5–4.4)	&lt;.001	
+Clinical node stage		.01b	
+    N0 vs N2	2.4 (1.4–4.2)		
+    N1 vs N2	1.6 (0.76–3.3)	
+Preoperative weight lossa	2.0 (1.2–3.2)	.004	
+Dysphagiaa	2.0 (1.2–3.2)	.005	
+Reconstruction type	1.9 (1.1–2.9)	.02	
+Tumor stage	1.8 (1.1–2.9)	.03	
+Abbreviation: OR, odds ratio.
+
+a Variables coded as present or absent.
+
+b P value for overall N staging (N0-N2).
+
+Box 1 Preoperative Assessment Variables
+Demographic
+Age
+
+Sex
+
+Body mass index
+
+Marital status
+
+Clinical History
+Weight loss
+
+Tobacco use
+
+Alcohol use
+
+Comorbidities
+
+Depression
+
+Chronic pain
+
+Functional status
+
+Irradiation
+
+Evidence of aspiration on preoperative swallow examination
+
+Dysphagia
+
+American Society of Anesthesiology class
+
+Tumor
+Tumor stage
+
+Nodal stage
+
+Metastasis stage
+
+Nodal laterality
+
+Tumor site
+
+Surgical
+Surgery type
+
+Reconstruction type
+
+Tracheotomy
+
+Neck dissection
+
+Box 2 Predictive Model Formula
+Predictive probability = X/(1 + X)
+[5.8517 – (0.6874 × A) – (0.8847 × B) – (0.4541 × C) – (1.4086 × D) – (0.6947 × E) – (0.9533 × F) – (0.6588 × G) – (3.7531 × H) – (0.5632 × I)] X = e
+
+
+
+A = Preoperative weight loss (No = 1, Yes = 0)
+
+B = Clinical node stage (N0 = 1, N1 = 0, N2 = 0)
+
+C = Clinical node stage (N1 = 1, N0 = 0, N2 = 0)
+
+D = Preoperative irradiation (No = 1,Yes = 0)
+
+E = Dysphagia (No = 1, Yes = 0)
+
+F = Tracheostomy (No = 1, Yes = 0)
+
+G = Reconstruction type (primary closure or split-thickness skin graft) = 1, microvascular free flap or pedicled rotation flap = 0)
+
+H = Supracricoid laryngectomy (No = 1, Yes = 0)
+
+I = T stage (T1 or T2 = 1, T3 or T4 = 0)
+
+Box 3 Clinical Examples of the Predictive Model
+Example 1: Patient at Low Risk for Gastrostomy Tube Placement
+A patient has a T3 tongue cancer hemiglossectomy with split-thickness skin graft reconstruction. The patient is clinically node negative and has no preoperative weight loss and no irradiation history. The patient does have preoperative dysphagia.
+
+Predictive probability = X/(1 + X)
+[5.8517 – (0.6874 × 1) – (0.8847 × 1) – (0.4541 × 0) – (1.4086 × 1) – (0.6947 × 0) – (0.9533 × 1) – (0.6588 × 1) – (3.7531 × 1) – (0.5632 × 0)] X = e
+
+
+
+A. Preoperative weight loss (no = 1)
+
+B. Clinical node stage (N0 = 1)
+
+C. Clinical node stage (N0 = 0)
+
+D. Preoperative irradiation (no = 1)
+
+E. Dysphagia (yes = 0)
+
+F. Tracheostomy (no = 1)
+
+G. Reconstruction type (primary closure or split-thickness skin graft = 1)
+
+H. Supracricoid laryngectomy (no = 1)
+
+I. T stage (T3 or T4 = 0)
+
+X = 0.0829
+
+The predicted probability is 0.0829/(1 + 0.0829) = 0.0766,7.6% chance of need for gastrostomy tube placement (lower-risk patient).
+
+Example 2: Patient at High Risk for Gastrostomy Tube Placement
+A patient has a T3 laryngeal cancer and gets a supracricoid laryngectomy with tracheostomy. The patient is clinically N2 stage and has preoperative weight loss and history of irradiation.
+
+Predictive probability = X/(1 + X)
+[5.8517 – (0.6874 × 0) – (0.8847 × 0) – (0.4541 × 0) – (1.4086 × 0) – (0.6947 × 1) – (0.9533 × 0) – (0.6588 × 1) – (3.7531 × 0) – (0.5632 × 0)] X = e
+
+
+
+A. Preoperative weight loss (yes = 0)
+
+B. Clinical node stage (N2 = 0)
+
+C. Clinical node stage (N2 = 0)
+
+D. Preoperative irradiation (yes = 0)
+
+E. Dysphagia (no = 1)
+
+F. Tracheostomy (yes = 0)
+
+G. Reconstruction type (primary closure or split-thickness skin graft = 1)
+
+H. Supracricoid laryngectomy (yes = 0)
+
+I. T stage (T3 or T4 = 0)
+
+X = 89.9
+
+The predicted probability is 89.9/(90.9) = 0.99,99% chance of need for gastrostomy tube placement (high-risk patient).
+
+
+   REFERENCES
+1 
+            Gardine RL  
+            Kokal WA  
+            Beatty JD  
+            Riihimaki DU  
+            Wagman LD  
+            Terz JJ  
+           Predicting the need for prolonged enteral supplementation in the patient with head and neck cancer Am J Surg 1988 156 1 63 65 3134827 
+2 
+            Dharmarajan TS  
+            Yadav D  
+            Adiga GU  
+            Kokkat A  
+            Pitchumoni CS  
+           Gastrostomy, esophagitis, and gastrointestinal bleeding in older adults J Am Med Dir Assoc 2004 5 4 228 232 15228631 
+3 
+            Jack DR  
+            Dawson FR  
+            Reilly JE  
+            Shoaib T  
+           Guideline for prophylactic feeding tube insertion in patients undergoing resection of head and neck cancers J Plast Reconstr Aesthet Surg 2012 65 5 610 615 22137826 
+4 
+            Wermker K  
+            Jung S  
+            Hüppmeier L  
+            Joos U  
+            Kleinheinz J  
+           Prediction model for early percutaneous endoscopic gastrostomy (PEG) in head and neck cancer treatment Oral Oncol 2012 48 4 355 360 22154128 
+5 
+            Dewys WD  
+            Begg C  
+            Lavin PT  
+             
+           Eastern Cooperative Oncology Group. Prognostic effect of weight loss prior to chemotherapy in cancer patients Am J Med 1980 69 4 491 497 7424938 
+6 
+            van Bokhorst-de van der Schuer MA  
+            van Leeuwen PA  
+            Kuik DJ  
+            Klop WM  
+            Sauerwein HP  
+            Snow GB  
+            Quak JJ  
+           The impact of nutritional status on the prognoses of patients with advanced head and neck cancer Cancer 1999 86 3 519 527 10430262 
+7 
+            Specht L  
+           Oral complications in the head and neck radiation patient: introduction and scope of the problem Support Care Cancer 2002 10 1 36 39 11777186 
+8 
+            McRackan TR  
+            Watkins JM  
+            Herrin AE  
+             
+           Effect of body mass index on chemoradiation outcomes in head and neck cancer Laryngoscope 2008 118 7 1180 1185 18475213 
+9 
+            Nugent B  
+            Lewis S  
+            O'Sullivan JM  
+           Enteral feeding methods for nutritional management in patients with head and neck cancers being treated with radiotherapy and/or chemotherapy Cochrane Database Syst Rev 2010 3 CD007904 20238358 
+10 
+            Nguyen NP  
+            North D  
+            Smith HJ  
+             
+           Safety and effectiveness of prophylactic gastrostomy tubes for head and neck cancer patients undergoing chemoradiation Surg Oncol 2006 15 4 199 203 17280829 
+11 
+            Mangar S  
+            Slevin N  
+            Mais K  
+            Sykes A  
+           Evaluating predictive factors for determining enteral nutrition in patients receiving radical radiotherapy for head and neck cancer: a retrospective review Radiother Oncol 2006 78 2 152 158 16466819 
+12 
+            Wiggenraad RG  
+            Flierman L  
+            Goossens A  
+             
+           Prophylactic gastrostomy placement and early tube feeding may limit loss of weight during chemoradiotherapy for advanced head and neck cancer, a preliminary study Clin Otolaryngol 2007 32 5 384 390 17883560 
+13 
+            Jordan S  
+            Philpin S  
+            Warring J  
+            Cheung WY  
+            Williams J  
+           Percutaneous endoscopic gastrostomies: the burden of treatment from a patient perspective J Adv Nurs 2006 56 3 270 281 17042806 
+14 
+            Verhoef MJ  
+            Van Rosendaal GM  
+           Patient outcomes related to percutaneous endoscopic gastrostomy placement J Clin Gastroenterol 2001 32 1 49 53 11154170 
+15 
+            Ahmed KA  
+            Samant S  
+            Vieira F  
+           Gastrostomy tubes in patients with advanced head and neck cancer Laryngoscope 2005 115 1 44 47 15630364 
+16 
+            Nevler A  
+            Gluck I  
+            Balint-Lahat N  
+            Rosin D  
+           Recurrent metastatic spread to a percutaneous gastrostomy site in a patient with squamous cell carcinoma of the tongue: a case report and review of the literature J Oral Maxillofac Surg 2014 72 4 829 832 24480766 
+

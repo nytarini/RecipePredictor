@@ -1,0 +1,367 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10157369139703Cell RepCell RepCell reports2211-124726526991483694210.1016/j.celrep.2015.09.055NIHMS726152ArticleRe-examination of Dietary Amino Acid Sensing Reveals a GCN2-Independent Mechanism Leib David E. 1Knight Zachary A. 1*1 Department of Physiology, University of California, San Francisco, San Francisco, CA 94158, USA* Correspondence: zachary.knight@ucsf.edu24 3 2016 29 10 2015 10 11 2015 19 4 2016 13 6 1081 1089 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.SUMMARY
+Animals cannot synthesize nine essential amino acids (EAAs) and must therefore obtain them from food. Mice reportedly reject food lacking a single EAA within the first hour of feeding. This remarkable phenomenon is proposed to involve post-ingestive sensing of amino acid imbalance by the protein kinase GCN2 in the brain. Here, we systematically re-examine dietary amino acid sensing in mice. In contrast to previous results, we find that mice cannot rapidly identify threonine- or leucine-deficient food in common feeding paradigms. However, mice attain the ability to identify EAA-deficient food following 2 days of EAA deprivation, suggesting a requirement for physiologic need. In addition, we report that mice can rapidly identify lysine-deficient food without prior EAA deficit, revealing a distinct sensing mechanism for this amino acid. These behaviors are independent of the proposed amino acid sensor GCN2, pointing to the existence of an undescribed mechanism for rapid sensing of dietary EAAs.
+
+
+   INTRODUCTION
+Animals have the remarkable ability to sense their changing internal needs and respond with behaviors that restore homeostasis. Well-known examples include the generation of hunger and thirst, which motivate animals to engage in flexible yet specific behaviors that counteract deviations in energy stores or fluid balance. Less well understood is how animals respond to deficiency of individual nutrients, such as protein, carbohydrates, and fatty acids, and generate compensatory behaviors that address these needs. One of the few well-characterized examples of specific nutrient sensing involves essential amino acids (EAAs), the nine amino acids (valine, isoleucine, leucine, methionine, phenylalanine, tryptophan, threonine, lysine, and histidine) that animals cannot synthesize and must therefore obtain from their food. In humans, removal of a single EAA from the diet leads to symptoms, including nausea, fatigue, and loss of appetite, that gradually intensify over several days (Rose et al., 1950). A similar loss of appetite has also been observed in rodents fed EAA-deficient diets (Leung et al., 1968a; Rose, 1931).
+
+However, more-recent work indicates that rodents can also very rapidly sense the deficiency of a single EAA in food, within the first hour of feeding (Hao et al., 2005; Koehnle et al., 2003; Maurin et al., 2005). This rapid sensing enables animals to sense the EAA content of their food during the course of a single meal and quickly reject diets that are nutritionally imbalanced. EAA sensing is thought to be independent of taste and smell (Koehnle et al., 2003; Leung et al., 1972) and instead involve direct detection of post-ingestive EAA imbalance in the blood by neurons in the anterior piriform cortex (APC) (Hao et al., 2005; Koehnle et al., 2004; Maurin et al., 2005). In these neurons, the proposed molecular sensor of EAA imbalance is the protein kinase GCN2 (Hao et al., 2005; Maurin et al., 2005), which in yeast is activated by binding to uncharged tRNA that accumulates in the cytoplasm in response to amino acid deficiency (Wek et al., 1995). In this model, GCN2 is activated in neurons of the APC by declining EAA concentrations in the blood, which then triggers changes in neural activity that lead to rejection of nutritionally incomplete food.
+
+Whereas this GCN2-dependent model is widely cited as an example of specific nutrient sensing (Chantranupong et al., 2015; Donnelly et al., 2013; Efeyan et al., 2015; Morrison et al., 2012), several aspects of this proposed EAA sensory system are unusual. First, the speed of the proposed dietary EAA sensing lacks obvious adaptive value, given that the physiologic consequences of dietary EAA deficiency develop over days and not during the course of a single meal. In principle, animals could eat an EAA-imbalanced meal and still meet their need for protein intake from other food sources, and thus the rapid rejection of EAA-imbalanced food would seemingly result in the rejection of many viable sources of nutrition. Second, the brain region most strongly implicated in EAA sensing, the APC, is a component of olfactory cortex that has not otherwise been linked to any aspect of ingestive behavior. Indeed, the APC is protected by the blood-brain barrier, in contrast to other brain regions implicated in nutrient sensing such as the arcuate nucleus and circumventricular organs. This makes the APC an unusual location to house an interoceptive amino acid sensory system. Based on these intriguing properties, we chose to reinvestigate dietary EAA sensing by the brain.
+
+RESULTS
+Mice Cannot Rapidly Detect Threonine- or Leucine-Deficient Food
+We first attempted to replicate the result that mice consume less threonine-deficient (T-def) or leucine-deficient (L-def) food than control food in the first 1–3 hr of feeding. Test diets were synthesized that lacked one or more amino acids (Table S1) and used in a behavioral assay that compared intake of the test diet and control diet on different days in a randomized order (Figure 1A). Importantly, the test and control diets used in this paradigm were both novel, which ensures that differences in food intake reflect true dietary preferences and not neophobia (Corey, 1978).
+
+Contrary to published results, we found that there was no difference in the amount of control versus T-def or L-def food consumed by wild-type mice in the first 3 hr of feeding (Figures 1B and 1C). We also tested food lacking both threonine and leucine (TL-def), reasoning that this doubly deficient diet may trigger a stronger response, but again there was no difference in the amount of food consumed after 3 hr (Figure 1D). We further tested lysine-deficient food (K-def), based on recent evidence suggesting that dietary lysine may be sensed by a specialized mechanism (Jordi et al., 2013; Torii and Niijima, 2001), but there was no difference between consumption of K-def and control food at 3 hr (Figure 1E). Overnight, we found that mice did consume less of the T-def, L-def, and TL-def diets compared to control, indicating that animals could detect these differences on a timescale of 21 hr (Figures 1B–1D). In addition, we showed that mice could rapidly detect and avoid diets that lacked all amino acids (Figure 1F). However, we found no evidence for the rapid sensing of deficiency for single EAAs that has been proposed to occur as quickly as 40 min after the onset of feeding (Hao et al., 2005).
+
+Experimental Sources of Variation in Dietary EAA Sensing
+We sought to clarify the source of the discrepancy between our findings and previous results in the field. We first confirmed by chemical analysis that our test diets truly lacked the designated amino acid (Table S1). Next, we noticed that some earlier studies failed to control for dietary novelty in their feeding paradigm (Maurin et al., 2005, 2014), which could result in some effects simply resulting from neophobia. Consistent with this, we found that comparison of a familiar control and novel test diet could give the appearance of rapid dietary selection in some trials, even in cases where the composition of the two diets was identical (Figure S1).
+
+We next investigated whether we could modify our feeding paradigm in order to enhance the mouse’s ability to rapidly sense the EAA-deficient diet. Several previous studies used a run-in period in which mice were fed an EAA-basal diet that contained a 50% reduction in overall amino acid levels (Hao et al., 2005; Koehnle et al., 2003). To test whether pre-feeding with this basal diet was important, we acclimated mice to a leucine-basal (L-basal) diet and then measured their intake of novel control and L-def food on subsequent weeks using the paradigm described above (Figure 1A). We found that pre-feeding the basal diet failed to enhance EAA sensing at 3 hr and, surprisingly, prevented the identification and rejection of EAA-deficient food that occurred overnight (Figure 1G). Thus, the use of a run-in period with a low-EAA diet does not appear to enhance the rapid sensing of EAA deficiency.
+
+We wondered whether the ability of mice to detect EAA-deficient food would be enhanced if they ate more rapidly, because faster consumption of EAA-deficient food may result in a greater imbalance of amino acids in the circulation. To test this, we fasted mice overnight and then fed them either control or TL-def food in a paradigm that controlled for dietary novelty (Figure 1H). In this protocol, mice consumed considerably more control food in the first 3 hr of feeding than in our previous assays (1.3 ± 0.2 g versus 0.70 ± 0.04 g; p &lt; 0.0001). However, there was no difference in the intake of TL-def food compared to control (Figure 1I). Overnight, mice did consume more control food than TL-def, but the relative amount of each diet was indistinguishable from experiments using ad libitum fed mice. Thus, fasting does not enable animals to reject EAA-deficient diets more quickly or more completely.
+
+The Amino Acid Sensor GCN2 Plays No Essential Role in Dietary Amino Acid Sensing
+The protein kinase GCN2 has been proposed to mediate dietary amino acid sensing through a mechanism in which imbalances in the EAA content of the blood activate GCN2 in neurons of the piriform cortex, resulting in changes in neural activity and feeding behavior (Hao et al., 2005; Maurin et al., 2005; Rudell et al., 2011). We therefore obtained knockout mice lacking GCN2 and measured their response in several of the feeding assays described above. We detected no difference between wild-type and Gcn2−/− animals in any feeding assay tested, including consumption of T-def diet (Figure 1B), AA-def diet (Figure 1F), L-def diet after basal diet pre-feeding (Figure 1G), or TL-def diet after overnight fasting (Figure 1I). We confirmed the genotype of our Gcn2−/− animals by allele-specific sequencing qPCR and of the knockout locus (Figure S2) as well as western blotting for GCN2 protein in the brain and liver (Figure S3). Thus, we find no evidence that GCN2 is required for dietary amino acid sensing.
+
+GCN2 is proposed to detect the amino acid content of food by sensing rapid, post-ingestive changes in the level of amino acids in the blood. We therefore next determined how the consumption of EAA-deficient food alters the EAA composition of the blood by feeding mice amino-acid-deficient diets and then collecting blood for amino acid analysis. Consumption of T-def, L-def, and K-def food resulted in a progressive decrease in the concentration of the deficient amino acid in the blood (Figure 2A). This decrease was significant compared to control after 3 hr but not after 1 hr of feeding (Figure 2A). By contrast, the concentrations of other amino acids remained near 100% of control values, except that the concentrations of isoleucine and valine increased during L-def consumption (Figure 2B). This rise in isoleucine and valine concentrations has been previously reported, although the mechanism is not fully understood (Clark et al., 1966; Harper et al., 1984). Thus, plasma imbalance of amino acids develops over several hours of eating an imbalanced diet, but the changes in the first hour are small.
+
+We next measured directly whether the proposed EAA-sensor GCN2 was activated in response to EAA-deficient food. To do this, we measured by western blotting the phosphorylation of the GCN2 substrate EIF2A (pSer-51) in the APC and the medio-basal hypothalamus (MBH), a second brain region where GCN2 has been proposed to act as an amino acid sensor (Anthony et al., 2004; Hao et al., 2005; Maurin et al., 2005, 2014). We detected no significant diet-dependent differences in EIF2A phosphorylation in either brain region after 1 or 12 hr of feeding on control or T-def chow (Figure 2C). Note that EIF2A phosphorylation was reduced, but not eliminated, in Gcn2−/− mice because this protein is also phosphorylated by the kinases PERK, PKR, and HRI. In the liver, there was a trend toward increased EIF2A phosphorylation in response to T-def food in wild-type, but not Gcn2−/−, mice, supporting prior reports that GCN2 is rapidly activated in the liver in response to EAA deficiency (Anthony et al., 2004; Maurin et al., 2005). We also found that fasting had no effect on GCN2 activation and confirmed that GCN2 was expressed in each of the anatomic areas tested here (Figure S3). Overall, the fact that GCN2 is not detectably activated in the brain after 1 or 12 hr of consumption of T-def food indicates that it cannot serve as either a rapid or delayed sensor for dietary EAA deficiency.
+
+Deficiency of Lysine Can Be Detected in Choice Assays without Prior EAA Deprivation
+Given our inability to replicate previous work, we sought to identify an alternative feeding protocol in which we could detect evidence for rapid sensing of dietary EAA deficiency. We reasoned that an assay in which animals were presented with a choice between a control diet and an EAA-deficient diet might be a more-sensitive measure of dietary amino acid sensing, because mice may consume mildly aversive food due to hunger if given no alternative. In a previous study using a choice assay, rats were shown to select control food over food deficient in a single EAA within the first day of testing (Leung et al., 1968b).
+
+In a choice assay controlling for dietary novelty (Figure 3A), wild-type mice had no preference for control over T-def chow (Figure 3B). When given a choice between control and doubly deficient TL-def chow, mice again had no preference for control and in fact consumed more TL-def food (Figure 3C). However, mice did show a strong preference for control over AA-def food, consuming in most cases an undetectable amount of AA-def food in 3 hr (0.47 ± 0.07 g versus 0 ± 0 g) and overnight (3.4 ± 0.1 g versus 0.03 ± 0.03 g; Figure 3D). Thus, this choice assay can robustly detect preference between two diets, but mice do not identify and reject T-def or L-def diets on a timescale of up to 21 hr when given a choice.
+
+One reason why mice may fail to reject EAA-deficient food in this assay is that the simultaneous consumption of control food may prevent the post-ingestive development of EAA imbalance in the blood, which has been proposed to be required for dietary EAA sensing. To eliminate this confound, we repeated this experiment by giving mice a choice between AA-free and TL-def diets. In a similar assay, rats were reported to choose an AA-free diet over a T-def diet (Leung et al., 1968b), a counter-intuitive finding that has been cited as evidence for the robustness of dietary EAA sensing (Gietzen and Aja, 2012). However, we found that mice strongly chose TL-def food over AA-free food, both after 3 hr of feeding and overnight (Figure 3E).
+
+Given that lysine has been reported to have unique post-ingestive effects (Jordi et al., 2013; Torii and Niijima, 2001), we next examined intake of K-def food in this same choice paradigm. Surprisingly, we found that mice consumed significantly more control food than K-def, both after 3 hr of feeding and overnight (Figure 3F). This effect was independent of GCN2 (wild-type 38% ± 6% versus 8% ± 3%; Gcn2−/− 30% ± 10% versus 20% ± 10%; diet, p = 0.031; genotype, p = 0.51; interaction, p = 0.56; Figures 3F and S4). Therefore, when given a choice, mice can rapidly identify and reject food that lacks lysine, even though in the absence of choice they consume lysine-deficient food at levels comparable to a control diet (Figure 1E).
+
+EAA Deprivation Enables Rapid Rejection of Threonine-and Leucine-Deficient Food
+As we had failed to find evidence for rapid detection of threonine or leucine deficiency, we considered the possibility that accurate identification of diets lacking these amino acids may require development of a physiologic deficit. In other words, animals might only reject threonine- or leucine-deficient food when they have a specific physiologic need for that amino acid. To test this, we fed mice TL-def food for 2 days to induce threonine/leucine deficiency and then gave them a choice between novel control and TL-def diets (Figure 4A). Strikingly, we found that mice showed a strong preference for control diet over TL-def diet in the first 3 hr of feeding, and this rapid choice did not require GCN2 (wild-type 0.39 ± 0.16 g versus 0.01 ± 0.01 g; Gcn2−/− 0.24 ± 0.07 g versus 0.06 ± 0.04 g; diet, p = 0.01; genotype, p = 0.54; interaction, p = 0.31). This choice was maintained overnight, and in fact, mice did not consume a detectable amount of TL-def food after the first 3 hr of feeding. We repeated this experiment by depriving wild-type mice of threonine for 2 days and then testing T-def and control diets in a choice assay (Figure 4B). All mice robustly chose control over T-def food in the first 3 hr and overnight. Thus, mice do have the ability to rapidly sense dietary threonine and leucine deficiency, but this is only revealed in choice assays following prolonged EAA deprivation.
+
+We next asked whether this phenomenon reflected a general need state for protein or was specific for the individual depleted EAA. To test this, we first deprived mice of leucine for 2 days and then allowed them to choose between novel control food and T-def food. In the first 3 hr of feeding, mice were unable to distinguish control and T-def food (Figure 4C). However, mice robustly selected the control diet over T-def overnight (Figure 4C), which they failed to do in the same choice assay without prior EAA deprivation (Figure 3B). Thus, deprivation of one EAA can partially sensitize animals to diets lacking another.
+
+To extend this finding, we depleted mice of all amino acids by feeding them AA-free food for 2 days and then tested their ability to distinguish control from TL-def food (Figure 4D). Mice ate more TL-def food than control in the first 3 hr, which was very similar to the result in the same choice assay without prior amino acid deprivation (Figure 4D; compare to Figure 3C). However, mice were able to correctly choose the control over EAA-deficient diet overnight, which they failed to do in the same experiment without prior amino acid deprivation (Figure 3C). Together, these data suggest that deprivation of a single EAA, including threonine or leucine, allows mice to rapidly (&lt;3 hr) distinguish control food from food lacking that specific EAA, whereas a general state of protein deprivation allows mice to identify EAA-deficient diets on a timescale of 3 hr to overnight (Figure 4E). The mechanism for this sensing is unknown and does not require the proposed amino acid sensor GCN2.
+
+DISCUSSION
+How animals assemble a nutritionally complete diet from food sources of varying composition remains poorly understood. One possibility is that animals possess innate appetites for individual nutrients, and these appetites are controlled by physiologic need. This concept has been demonstrated most convincingly for salt appetite, which is the potent motivational drive to find and consume salty solutions that develop in animals subjected to sodium deprivation (Richter, 1936). Reasoning by analogy, it is conceivable that animals could possess, for each essential nutrient, a distinct, genetically hardwired neural system that monitors the nutrient composition of food and compares this to the needs of the body. However, it has been difficult to obtain definitive evidence for the existence of such specific appetites, even for the basic macronutrients such as protein, carbohydrates, and fatty acids (Berthoud and Seeley, 2000).
+
+EAAs are one of the few nutrients for which an innate dietary selection system is thought to exist. It has been reported that rodents can identify and reject diets that lack a single EAA during the course of a single meal. This rapid sensing has been proposed to involve neither taste nor smell (Koehnle et al., 2003; Leung et al., 1972) but rather an unprecedented mechanism in which cortical neurons sense changes in the concentration of EAAs in the blood and then use this information to redirect feeding behavior (Hao et al., 2005; Koehnle et al., 2004; Maurin et al., 2005). This cortical EAA sensing is proposed to be mediated by GCN2, a protein kinase that is activated by uncharged tRNAs that accumulate during amino acid deficiency (Hao et al., 2005; Maurin et al., 2005).
+
+Here, we have re-examined the behavioral response to dietary EAA deficiency in mice, and we find no evidence to support the prevailing model for dietary EAA sensing (Figure 4E). We find that naive animals cannot rapidly identify and reject diets lacking one or more of the most widely studied EAAs, that GCN2 is not activated in the brain following consumption of EAA-deficient food, and that GCN2 knockout animals show no defect in their consumption of EAA-deficient diets compared to wild-type animals. However, we show that animals can robustly and rapidly reject diets lacking a specific EAA if they have a physiologic need for that EAA. We propose that this need-based mechanism is the primary innate mechanism that animals possess to select among diets based on their EAA content, and we describe assays to study this phenomenon in mice.
+
+Rapid Sensing of Threonine- and Leucine-Deficient Diets Requires Prior Amino Acid Deprivation
+Most prior studies of rapid EAA sensing used diets deficient in threonine or leucine. We have attempted to replicate these experiments and find that nutritionally replete mice cannot detect dietary deficiency of either amino acid within the first 3 hr of feeding. We show that this finding is robust to a series of changes in the behavioral paradigm designed to enhance the ability of animals to rapidly sense EAAs or enable them to choose one diet over another. Whereas we cannot exclude the possibility that experimental conditions exist in which normal mice can rapidly identify and reject these diets, our data clearly show that this phenomenon is not nearly as robust or universal as is implied by the existing literature.
+
+Whereas our data fail to support rapid EAA sensing in the paradigms previously described, we have identified conditions in which mice are able to robustly identify diets that lack either threonine or leucine. This assay requires that mice are deprived of one or more amino acids for 2 days prior to testing and then are given a choice between a complete diet and a diet lacking a single EAA. Under these conditions, mice rapidly (&lt;3 hr) reject diets lacking an EAA that they have already been deprived of and more slowly (3–21 hr) reject diets lacking different EAA(s). A straightforward explanation for this phenomenon is that mice possess a mechanism for sensing and rejecting EAA-deficient food but that this mechanism requires the development of a physiologic deficit. This dependence on need state is analogous in some respects to salt appetite, in which animals preferentially consume salty solutions only following prior sodium deprivation (Richter, 1936). This state-dependent mechanism is more adaptive than current models of EAA sensing, because it requires only that animals rapidly reject food lacking an EAA when they are deficient for that specific EAA.
+
+A challenge in studying interoceptive nutrient sensing is the fact that animals can develop learned associations between sensory cues (taste and smell) and the post-ingestive consequences of consuming various foods (e.g., conditioned taste aversion). We have taken steps to limit such sensory cues by ensuring that the EAA-deficient and control foods used in these experiments were identical in composition other than the missing EAA. In many experiments, we have taken the additional step of using test food from different batches to avoid learned associations based on cryptic differences between batches of otherwise identical food. Prior literature has argued that animals cannot taste or smell the absence of a single amino acid in food (Koehnle et al., 2003; Leung et al., 1972), and the concentration of individual amino acids in our control diets were near the limits of detection reported for individual substances in human studies (Kirimura et al., 1969; Schiffman et al., 1979). Whereas we cannot rule out the possibility that learned associations play some role in the rapid sensing of these diets following EAA deprivation (Figures 4A and 4B), this mechanism cannot explain dietary selection in the absence of deprivation (Figure 3F) or following deprivation of a different EAA (Figure 4C).
+
+Lysine-Deficient Food Is Rapidly Selected against without Prior Experience
+Lysine is an EAA that has not been investigated in prior studies of rapid EAA sensing. However, we find that nutritionally replete mice can detect and avoid food lacking lysine within 3 hr in choice experiments, in contrast to threonine and leucine. This finding was surprising given that lysine deficiency develops more slowly than other EAAs due to the unusual catabolism of this amino acid (Blemings et al., 1998; Yang et al., 1968). However, multiple organisms have been shown to select control diets over lysine-deficient diets in longer-term experiments (Hrupka et al., 1999; Murphy and King, 1989; Newman and Sands, 1983), and our observation of rapid lysine sensing is in agreement with a recent report suggesting that rodents possess specialized sensing mechanisms for lysine, arginine, and glutamate (Jordi et al., 2013).
+
+GCN2 Plays No Role in Dietary EAA Sensing
+Previous work showed that knockout mice lacking the protein kinase GCN2 globally or specifically in the brain exhibit a defect in dietary EAA sensing (Hao et al., 2005; Maurin et al., 2005). However, using these same GCN2 knockout mice, we can find no requirement for GCN2 in any behavioral assay tested. Furthermore, we observe no change in the phosphorylation of GCN2’s substrate EIF2A in the brain after either acute or overnight exposure to EAA-deficient food. Whereas we cannot fully explain the differences between our observations and previous reports, we note that the effect size of the GCN2-dependent EAA sensing described in previous studies was relatively small (~20%–30% difference in acute food intake between genotypes). Our data suggest that these small effects are not reproducible. In addition, some of the behavioral assays used in prior work failed to account for dietary novelty, which we show can result in the appearance of spurious amino acid sensing. By contrast, the choice assays we report here show much larger magnitude effects. We believe that these larger effects represent the major behavioral response to dietary EAA deficiency and that this response does not require GCN2.
+
+Summary
+In summary, we have systematically examined the behavioral responses of mice to dietary EAA deficiency and have identified conditions under which EAA deficiency can be robustly detected. This work lays the foundation for studies on how individual nutrients in food shape food preferences in animals and in humans. Our description of these behaviors in the mouse, a highly genetically tractable model system, will allow dissection of the molecular mechanisms as well as the neural circuits that mediate these responses.
+
+EXPERIMENTAL PROCEDURES
+Animals
+Wild-type C57B/6J (JAX no. 000664) and Gcn2−/− mice on a C57B/6J background (JAX no. 008240; Munn et al., 2005) were maintained in a UCSF barrier facility with a 12:12 hr light:dark cycle. Males between 8 and 12 weeks old were used for all experiments. All studies were in accordance with UCSF IACUC protocols.
+
+Diets and Feeding Experiments
+Pelleted diets were manufactured by Research Diets. The amino acid profile of the control diet was based on optimal conditions for growth in rats (Baker and Boebel, 1981). For exact formulations of control and experimental diets, see Table S1. See also Supplemental Experimental Procedures.
+
+Amino Acid Analysis
+Diet and plasma amino acid analyses were performed by the UC Davis Proteomics Core by ion-exchange chromatography followed by ninhydrin derivatization. See also Supplemental Experimental Procedures.
+
+Western Blots
+For western analysis after 1 hr of feeding, Gcn2−/− and wild-type C57B/6J mice were fasted overnight and re-fed either control, T-def, or K-def food for 1 hr during the light cycle on the following day. A separate cohort was sacrificed at the beginning of the light cycle, after 12 hr of feeding. Cytoplasmic protein extracts were prepared from the APC, MBH, and liver, and p-EIF2A and total EIF2A were quantified using standard western blotting techniques. See also Supplemental Experimental Procedures.
+
+Statistics
+All statistical analyses were carried out in GraphPad Prism 6. Food intake was analyzed by repeated-measure two-way ANOVA for behavioral experiments with wild-type and Gcn2−/− mice and by paired t test for behavioral experiments involving wild-type mice only. Plasma amino acid concentrations after 1 and 3 hr of feeding were analyzed by t tests, corrected for multiple comparisons by the Holm-Sidak method. Western blot quantification data were analyzed by two-way ANOVA. Data are presented as average ± SEM in the text and average + SEM in all figures, with data from individual mice depicted as gray lines where applicable. ****p &lt; 0.0001; ***p &lt; 0.001; **p &lt; 0.01; *p &lt; 0.05; n.s., not significant.
+
+Supplementary Material
+2  MMC1  D.E.L. is supported by ARCS Foundation Predoctoral Fellowship and a UCSF Discovery Fellowship. Z.A.K. is a New York Stem Cell Foundation-Robertson Investigator and acknowledges additional support from the Rita Allen Foundation, the McKnight Foundation, the Alfred P. Sloan Foundation, the Brain and Behavior Research Foundation, the Esther A. &amp; Joseph Klingenstein Foundation, and the UCSF Diabetes Center Obesity Pilot program (U01 DK089541). This work was supported by an NIH New Innovator Award (DP2-DK109533) and R01-DK106399.
+
+
+          SUPPLEMENTAL INFORMATION
+        
+
+Supplemental Information includes Supplemental Experimental Procedures, four figures, and one table and can be found with this article online at http://dx.doi.org/10.1016/j.celrep.2015.09.055.
+
+Figure 1 Mice Do Not Sense Dietary EAA Deficiency within the First 3 hr of Feeding
+(A) Feeding paradigm controlling for dietary novelty used in (B)–(G). Consumption of the novel control and test diets was quantified as a percentage of food consumed overnight on the previous night.
+
+(B) Wild-type (n = 5) and Gcn2−/− (n = 5) mice did not consume a significantly different amount of T-def than novel control in the first 3 hr of feeding. Overnight, mice consumed significantly less T-def food than novel control (p = 0.005), and Gcn2−/− consumed more food overall than wild-type (p = 0.04), but there was no interaction between diet and genotype.
+
+(C) Wild-type mice (n = 7) did not consume a significantly different amount of L-def food than novel control in the first 3 hr of feeding. Overnight, the mice consumed significantly less L-def food than novel control (p = 0.007).
+
+(D) Wild-type mice (n = 9) did not consume a significantly different amount of TL-def food than novel control in the first 3 hr of feeding. Overnight, the mice consumed significantly less TL-def food than novel control (p = 0.0008).
+
+(E) Wild-type mice (n = 5) did not consume a significantly different amount of K-def food compared to novel control in the first 3 hr of feeding or overnight.
+
+(F) Wild-type (n = 7) and Gcn2−/− (n = 5) mice consumed significantly less AA-dev food than novel control in the first 3 hr of feeding (p = 0.0009) and overnight (p &lt; 0.0001), with no significant effects of genotype or interaction between diet and genotype.
+
+(G) Wild-type (n = 6) and Gcn2−/− (n = 6) mice pre-fed L-basal food did not consume a significantly different amount of L-def food compared to novel control in the first 3 hr of feeding or overnight.
+
+(H) Behavioral paradigm for fasting and refeeding experiment in (I).
+
+(I) Wild-type (n = 14) and Gcn2−/− (n = 6) mice did not consume a significantly different amount of TL-def food compared to novel control in the first 3 hr of feeding following a 27-hr fast. Overnight, the mice consumed significantly less TL-def food than novel control (p &lt; 0.0001), with no significant effects of genotype or interaction between diet and genotype.
+
+See also Figures S1 and S2.
+
+Figure 2 Consumption of Threonine-Deficient Food Does Not Activate GCN2 in the Brain
+(A) Plasma concentrations of threonine, leucine, and lysine of mice fed threonine-, leucine-, and lysine-deficient food, respectively, versus control food (n = 3 mice per data point). In each case, plasma concentrations were not significantly different between control and deficient food at 1 hr but gained significance at 3 hr of feeding (T-def, p = 0.0003; L-def, p = 0.004; K-def, p = 0.009).
+
+(B) Plasma concentrations for all amino acids measured in the same experiment as (A), expressed as a percentage of concentration during control feeding.
+
+(C) (Left) Wild-type and Gcn2−/− mice were fed control or T-def food for 1 hr or 12 hr. Food intake in grams by each mouse is listed above the top panel. Protein extracts made from APC, MBH, and liver from these mice were analyzed by western blot for p-EIF2A (Ser-51), total EIF2A, and beta-actin loading control. (Right) Quantification of p-EIF2A/EIF2A in the APC, MBH, and liver after 1 or 12 hr consumption of control or T-def food is shown. In the APC, p-EIF2A/EIF2A was significantly lower in Gcn2−/− mice than wild-type controls at 1 hr (p = 0.02) and 12 hr (p = 0.0007). In the MBH, Gcn2−/− mice had significantly higher p-EIF2A/EIF2A ratios than wild-type at 1 hr (p = 0.03) and 12 hr (p = 0.01). There was no significant effect of diet or interaction between diet and genotype in the APC or MBH. There were no significant differences in the liver but a trend toward a higher p-EIF2A/EIF2A ratio in wild-type mice fed T-def food compared to control at 1 hr.
+
+See also Figure S3 and Table S1.
+
+Figure 3 Rapid Detection of Lysine-, but Not Threonine- or Leucine-, Deficient Diets in a Choice Assay
+(A) Dietary choice paradigm in (B)–(F).
+
+(B) Wild-type mice (n = 5) showed no significant preference for T-def or novel control food presented as a choice after 3 hr of feeding and overnight.
+
+(C) Wild-type mice (n = 9) consumed more TL-def food than control after 3 hr of feeding (p = 0.03) but showed no preference overnight.
+
+(D) Wild-type mice (n = 7) consumed less AA-dev food than control after 3 hr of feeding (p = 0.0007) and overnight (p &lt; 0.0001).
+
+(E) Wild-type mice (n = 5) consumed significantly less AA-dev than TL-def food after 3 hr of feeding (p = 0.0115) and overnight (p &lt; 0.0001).
+
+(F) Wild-type (n = 12) and Gcn2−/− (n = 5) mice consumed significantly less K-def food than control after 3 hr feeding (p = 0.03) and overnight (p &lt; 0.0001), with no significant effect of genotype or interaction between diet and genotype.
+
+See also Figure S4.
+
+Figure 4 Mice Attain the Ability to Rapidly Identify Threonine- or Leucine-Deficient Diets following EAA Deprivation
+(A) Wild-type (n = 7) and Gcn2−/− (n = 8) mice deprived of threonine and leucine for 2 days consumed less novel TL-def food than novel control after 3 hr of feeding (p = 0.01) and overnight (p &lt; 0.0001), with no significant effect of genotype or interaction between diet and genotype.
+
+(B) Wild-type mice (n = 7) deprived of threonine for 2 days consumed significantly less T-def food than control in the first 3 hr of feeding (p = 0.0002) and overnight (p &lt; 0.0001).
+
+(C) Wild-type mice (n = 9) deprived of leucine for 2 days showed no significant preference for T-def or control food after 3 hr of feeding. However, they consumed significantly more control food than T-def food overnight (p = 0.02).
+
+(D) Wild-type mice (n = 4) deprived of all amino acids for 2 days consumed more TL-def food than control after 3 hr of feeding (p = 0.04). Overnight, this trend reversed, and mice consumed significantly more control than TL-def food (p = 0.0257).
+
+(E) Summary of behavioral data related to dietary EAA sensing.
+
+Highlights
+Mice do not reject food lacking essential amino acids (EAA) as previously reported
+
+The proposed EAA sensor GCN2 is not activated in the brain by EAA-deficient food
+
+Mice attain the ability to identify EAA deficit food following EAA deprivation
+
+Dietary EAA sensing depends on physiologic need, but not GCN2
+
+
+   
+            Anthony TG  
+            McDaniel BJ  
+            Byerley RL  
+            McGrath BC  
+            Cavener DR  
+            McNurlan MA  
+            Wek RC  
+           2004 Preservation of liver protein synthesis during dietary leucine deprivation occurs at the expense of skeletal muscle mass in mice deleted for eIF2 kinase GCN2 J Biol Chem 279 36553 36561 15213227 
+
+            Baker DH  
+            Boebel KP  
+           1981 Utilization of the D-isomers of arginine and histidine by chicks and rats J Anim Sci 53 125 129 7319936 
+
+            Berthoud HR  
+            Seeley RJ  
+           2000 Neural and metabolic control of macronutrient intake Boca Raton CRC Press 
+
+            Blemings KP  
+            Crenshaw TD  
+            Benevenga NJ  
+           1998 Mitochondrial lysine uptake limits hepatic lysine oxidation in rats fed diets containing 5, 20 or 60% casein J Nutr 128 2427 2434 9868191 
+
+            Chantranupong L  
+            Wolfson RL  
+            Sabatini DM  
+           2015 Nutrient-sensing mechanisms across evolution Cell 161 67 83 25815986 
+
+            Clark AJ  
+            Peng Y  
+            Swendseid ME  
+           1966 Effect of different essential amino acid deficiencies on amino acid pools in rats J Nutr 90 228 234 5958319 
+
+            Corey DT  
+           1978 The determinants of exploration and neophobia Neurosci Biobehav Rev 2 235 253 
+
+            Donnelly N  
+            Gorman AM  
+            Gupta S  
+            Samali A  
+           2013 The eIF2α kinases: their structures and functions Cell Mol Life Sci 70 3493 3511 23354059 
+
+            Efeyan A  
+            Comb WC  
+            Sabatini DM  
+           2015 Nutrient-sensing mechanisms and pathways Nature 517 302 310 25592535 
+
+            Gietzen DW  
+            Aja SM  
+           2012 The brain’s response to an essential amino acid-deficient diet and the circuitous route to a better meal Mol Neurobiol 46 332 348 22674217 
+
+            Hao S  
+            Sharp JW  
+            Ross-Inta CM  
+            McDaniel BJ  
+            Anthony TG  
+            Wek RC  
+            Cavener DR  
+            McGrath BC  
+            Rudell JB  
+            Koehnle TJ  
+            Gietzen DW  
+           2005 Uncharged tRNA and sensing of amino acid deficiency in mammalian piriform cortex Science 307 1776 1778 15774759 
+
+            Harper AE  
+            Miller RH  
+            Block KP  
+           1984 Branched-chain amino acid metabolism Annu Rev Nutr 4 409 454 6380539 
+
+            Hrupka BJ  
+            Lin Y  
+            Gietzen DW  
+            Rogers QR  
+           1999 Lysine deficiency alters diet selection without depressing food intake in rats J Nutr 129 424 430 10024622 
+
+            Jordi J  
+            Herzog B  
+            Camargo SM  
+            Boyle CN  
+            Lutz TA  
+            Verrey F  
+           2013 Specific amino acids inhibit food intake via the area postrema or vagal afferents J Physiol 591 5611 5621 23897232 
+
+            Kirimura J  
+            Shimizu A  
+            Kimizuka A  
+            Ninomiya T  
+            Katsuya N  
+           1969 Contribution of peptides and amino acids to the taste of foods J Agric Food Chem 17 689 695 
+
+            Koehnle TJ  
+            Russell MC  
+            Gietzen DW  
+           2003 Rats rapidly reject diets deficient in essential amino acids J Nutr 133 2331 2335 12840202 
+
+            Koehnle TJ  
+            Russell MC  
+            Morin AS  
+            Erecius LF  
+            Gietzen DW  
+           2004 Diets deficient in indispensable amino acids rapidly decrease the concentration of the limiting amino acid in the anterior piriform cortex of rats J Nutr 134 2365 2371 15333730 
+
+            Leung PM  
+            Rogers QR  
+            Harper AE  
+           1968a Effect of amino acid imbalance in rats fed ad libitum, interval-fed or force-fed J Nutr 95 474 482 5665651 
+
+            Leung PM  
+            Rogers QR  
+            Harper AE  
+           1968b Effect of amino acid imbalance on dietary choice in the rat J Nutr 95 483 492 5665652 
+
+            Leung PM  
+            Larson DM  
+            Rogers QR  
+           1972 Food intake and preference of olfactory bulbectomized rats fed amino acid imbalanced or deficient diets Physiol Behav 9 553 557 4670854 
+
+            Maurin AC  
+            Jousse C  
+            Averous J  
+            Parry L  
+            Bruhat A  
+            Cherasse Y  
+            Zeng H  
+            Zhang Y  
+            Harding HP  
+            Ron D  
+            Fafournoux P  
+           2005 The GCN2 kinase biases feeding behavior to maintain amino acid homeostasis in omnivores Cell Metab 1 273 277 16054071 
+
+            Maurin AC  
+            Benani A  
+            Lorsignol A  
+            Brenachot X  
+            Parry L  
+            Carraro V  
+            Guissard C  
+            Averous J  
+            Jousse C  
+            Bruhat A  
+             
+           2014 Hypothalamic eIF2α signaling regulates food intake Cell Rep 6 438 444 24485657 
+
+            Morrison CD  
+            Reed SD  
+            Henagan TM  
+           2012 Homeostatic regulation of protein intake: in search of a mechanism Am J Physiol Regul Integr Comp Physiol 302 R917 R928 22319049 
+
+            Munn DH  
+            Sharma MD  
+            Baban B  
+            Harding HP  
+            Zhang Y  
+            Ron D  
+            Mellor AL  
+           2005 GCN2 kinase in T cells mediates proliferative arrest and anergy induction in response to indoleamine 2,3-dioxygenase Immunity 22 633 642 15894280 
+
+            Murphy ME  
+            King JR  
+           1989 Sparrows discriminate between diets differing in valine or lysine concentrations Physiol Behav 45 423 430 2502786 
+
+            Newman RK  
+            Sands DC  
+           1983 Dietary selection for lysine by the chick Physiol Behav 31 13 19 6415684 
+
+            Richter CP  
+           1936 Increased salt appetite in adrenalectomized rats Am J Physiol 115 155 161 
+
+            Rose WC  
+           1931 Feeding experiments with mixtures of highly purified amino acids I. The inadequacy of diets containing nineteen amino acids J Biol Chem 94 155 165 
+
+            Rose WC  
+            Johnson JE  
+            Haines WJ  
+           1950 The amino acid requirements of man. 1. The role of valine and methionine J Biol Chem 182 541 556 
+
+            Rudell JB  
+            Rechs AJ  
+            Kelman TJ  
+            Ross-Inta CM  
+            Hao S  
+            Gietzen DW  
+           2011 The anterior piriform cortex is sufficient for detecting depletion of an indispensable amino acid, showing independent cortical sensory function J Neurosci 31 1583 1590 21289166 
+
+            Schiffman SS  
+            Hornack K  
+            Reilly D  
+           1979 Increased taste thresholds of amino acids with age Am J Clin Nutr 32 1622 1627 463801 
+
+            Torii K  
+            Niijima A  
+           2001 Effect of lysine on afferent activity of the hepatic branch of the vagus nerve in normal and L-lysine-deficient rats Physiol Behav 72 685 690 11337000 
+
+            Wek SA  
+            Zhu S  
+            Wek RC  
+           1995 The histidyl-tRNA synthetase-related sequence in the eIF-2 alpha protein kinase GCN2 interacts with tRNA and is required for activation in response to starvation for different amino acids Mol Cell Biol 15 4497 4506 7623840 
+
+            Yang SP  
+            Tilton KS  
+            Ryland LL  
+           1968 Utilization of a delayed lysine or tryptophan supplement for protein repletion of rats J Nutr 94 178 184 5637212 
+

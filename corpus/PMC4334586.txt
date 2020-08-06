@@ -1,0 +1,553 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   04130662830CellCellCell0092-86741097-417225594177433458610.1016/j.cell.2014.12.028NIHMS651644ArticleKynurenic acid is a nutritional cue that enables behavioral plasticity Lemieux George A. 1Cunningham Katherine A. 1Lin Lin 1Mayer Fahima 1Werb Zena 2Ashrafi Kaveh 1*1 Department of Physiology, University of California, San Francisco, CA 941582 Department of Anatomy, University of California, San Francisco, CA 94143-0452* Corresponding author: Kaveh Ashrafi, Dept. of Physiology, 600 16th St. Genentech Hall, University of California, San Francisco, CA 94158-2200 (Kaveh.Ashrafi@ucsf.edu, 415-514-4102)14 2 2015 15 1 2015 15 1 2016 160 0 119 131 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Summary
+The kynurenine pathway of tryptophan metabolism is involved in the pathogenesis of several brain diseases but its physiological functions remain unclear. We report that kynurenic acid, a metabolite in this pathway, functions as a regulator of food-dependent behavioral plasticity in C. elegans. The experience of fasting in C. elegans alters a variety of behaviors, including feeding rate, when food is encountered post-fast. Levels of neurally produced kynurenic acid are depleted by fasting leading to activation of NMDA-receptor-expressing interneurons and initiation of a neuropeptide-y like signaling axis that promotes elevated feeding through enhanced serotonin release when animals re-encounter food. Upon re-feeding, kynurenic acid levels are eventually replenished ending the elevated feeding period. Since tryptophan is an essential amino acid, these findings suggest that a physiological role of kynurenic acid is in directly linking metabolism to activity of NMDA and serotonergic circuits, which regulate a broad range of behaviors and physiologies.
+
+
+   Introduction
+Imbalances in brain levels of metabolites derived from tryptophan degradation via the kynurenine pathway (KP), have been linked to a variety of neurodegenerative and psychiatric disorders (Schwarcz et al., 2012). Altered brain or cerebrospinal fluid levels of kynurenic acid (KynA) and/or quinolinic acid are associated with schizophrenia (Erhardt et al., 2001; Schwarcz et al., 2001), Alzheimer's and Huntington's diseases (Beal et al., 1992; Heyes et al., 1992) and depression (Steiner et al., 2011; Erhardt et al., 2013). Genetic and pharmacological blockade of the KP ameliorates neurodegeneration and protein aggregation in diverse model organisms (Campesan et al., 2011; Zwilling et al., 2011; van der Goot et al., 2012) while the beneficial effects of exercise on symptoms of depression have been attributed to altered peripheral KP metabolism (Agudelo et al., 2014). Despite these associations, the physiological regulation of brain levels of KP metabolites and their normal physiological roles remain ill-defined.
+
+Several intermediates of the KP have distinct neuro- and immune-modulatory functions. For example, KynA inhibits and quinolinic acid activates glutamatergic neurotransmission (Perkins and Stone, 1982; Hilmas et al., 2001), leading to the suggestion that the associations of the KP with CNS disorders derive from modulation of glutamate excitotoxicity (Andiné et al., 1988; Carpenedo et al., 2001; Foster et al., 1984). Additionally, the serotonin-kynurenine hypothesis of depression advanced the idea that disregulated shunting of tryptophan through the KP negatively impacts serotonin levels (Lapin and Oxenkrug, 1969). However, direct physiological evidence of KP metabolic competition limiting serotonin biosynthesis has been lacking.
+
+C. elegans display food related behavioral plasticity (Sengupta, 2013; Douglas et al., 2005). For example, when C. elegans deplete their local food source, they reduce their food intake behavior and increase their locomotory rate to forage for food, behaviors that depend on changes in serotonin signaling (Avery and Horvitz, 1990; Sawin et al., 2000; Hills et al., 2004). Upon encountering a new food source, C. elegans resume their ad libitum feeding and movement rates. However, if C. elegans experience a period of fasting before encountering food, they temporarily increase their feeding rate and slow their movement beyond the levels seen in ad libitum fed animals once they are back on food (Avery and Horvitz, 1990; Sawin et al., 2000). These behaviors presumably allow food-deprived animals to consume more food and rapidly recover physiologic functions post-fast. How the experience of fasting further modulates responses to food are poorly understood.
+
+Here, we show that KynA serves as an internal gauge of nutrient availability to modulate feeding behavior in C. elegans. Depletion of KynA during fasting from the nervous system is required for the hyperactivation of feeding in C. elegans when they re-encounter food. Feeding then leads to replenishment of the KynA ending the hyper active feeding state. KynA depletion is sensed by neurons that express NMDA-type ionotropic glutamate receptors (NMDA-r) whose activity is communicated to serotonergic sensory neurons via a neuropeptide signaling axis. Given that many of the regulatory modules discovered in the context of C. elegans feeding behavior are conserved in the mammalian brain, the role of KynA as a neurally produced gauge of the peripheral metabolic state that controls serotonin signaling is likely to be well conserved.
+
+Results
+Fasting induces a serotonin-regulated hyperactive feeding state upon food re-exposure
+C. elegans actively ingest food through regular, coordinated muscular contractions of the pharynx which function to concentrate and pump their bacterial food source into their intestinal lumens (Avery and You, 2012). The pharyngeal pumping rate correlates with food intake (Avery and Horvitz, 1990; Avery and You, 2012). Except for periods of developmental arrest or larval molts, when cultured on E. coli OP50, C. elegans exhibit continuous pumping with brief intermittent pauses (Avery and You, 2012; You et al., 2008). C. elegans change their pumping rates relative to food availability and the experience of fasting: reducing the rates when fasted and, as we will describe in detail below, they temporarily hyper-activate it relative to the ad libitum fed state when they are reintroduced to food post-fast (Avery and Horvitz, 1990).
+
+To characterize the post-fast overfeeding behavior, we subjected C. elegans to 1, 2 or 4 hr of fasting and measured pumping rates immediately before and after returning to ad libitum access to food for 5, 30, 60 and 120 min (Figure 1A). Each of these fast intervals caused the same extent of reduction in pumping. In turn, all fasted animals resumed rapid pumping upon returning to food. However, upon introduction of food, animals that had fasted for more than 1 hr exhibited hyperactive feeding. This hyperactive feeding state was temporary; persisting for 1 hr before subsiding to ad libitum rates that were intermediate between the depressed fasting rates and the hyperactive rate seen post-fast (Figure 1A). The extent and duration of the overfeeding was not enhanced in animals that had been fasted for 4 hrs versus those fasted for 2 hrs (Figure 1A). While in absolute terms the noted changes in pumping rate are small, representing the normal physiologic range of this behavior, the pharyngeal pumping rate is a robustly quantitative trait due to its small variance.
+
+To understand how the post-fast hyperactive feeding state is regulated, we first examined serotonin signaling. Serotonin-deficient tph-1 mutants exhibit reduced pharyngeal pumping relative to wildtype animals (Sze et al., 2000) and restoration of tph-1 to only the ADF neurons, a pair of serotonergic head sensory neurons, confers wildtype pumping under ad libitum fed conditions (Cunningham et al., 2012) and up-regulated pumping in response to familiar food (Song et al., 2013). We found that serotonin deficiency also abrogates fasting-induced hyperactive feeding, which can be partially restored through reconstitution of serotonin biosynthesis in only the ADF neurons (Figure 1B, Table S1). Moreover, the extent of fasting induced hyperactive feeding was reminiscent of the effects of treatment of well-fed animals with exogenous serotonin or serotonin re-uptake inhibitors (Horvitz et al., 1982; Avery and Horvitz, 1990; Srinivasan et al., 2008). Serotonin-induced hyperactive feeding is dependent on the serotonergic GPCR, SER-5, and consequent inactivation of an AMP-activated kinase (AMPK) complex encoded by aak-2 in a pair of interneurons that selectively express the obesity associated transcription factor, Sim-1/HLH-34 (pathway summarized in Figure S1A) (Cunningham et al., 2012). Loss of function mutants of ser-5 and hlh-34 exhibited wildtype pumping rates during the ad libitum fed and fasted states but failed to hyper-activate pumping post-fast (Figure 1B). Consistent with the notion that aak-2 mutants mimic behaviors of animals with persistently elevated serotonin signaling, their already elevated feeding was not further elevated post-fast (Figure 1B).
+
+To determine whether the observed changes in pumping rate correlated with changes in food ingestion, we assessed the accumulation of BODIPY dye within the intestines of wildtype, tph-1, ser-5, hlh-34, and aak-2 mutants cultured on the food containing the fluorescent dye. There was a direct correlation between pumping rates of these strains and the extent of BODIPY accumulation (Figure S1B).
+
+A kynurenine amino transferase functions upstream of serotonin to regulate feeding
+Our findings suggested that in the context of feeding regulation, serotonin signaling may exist in at least three states: i) active signaling in well-fed wildtype animals, ii) reduced signaling upon food removal, a condition mimicked by loss of tph-1, and iii) a transiently elevated serotonergic state post-fast, a condition mimicked by aak-2 mutants. To understand the transient hyperactive pumping state better, we searched for additional mutants with altered pharyngeal pumping and found that nkat-1(ok566) loss of function mutants exhibited constitutively elevated pumping rates and food ingestion (Figure 2A, Figure S1B). Similar to aak-2 mutants, nkat-1 mutants reduced their pharyngeal pumping upon fasting and had elevated feeding rate post-fasting that was not attenuated with continued feeding (Figure 2A). The hyperactive feeding of nkat-1 deficiency was suppressed in tph-1, ser-5 and hlh-34 mutants while the elevated rates of aak-2 mutants were not further changed by nkat-1 deficiency (Figure 2B), suggesting that nkat-1 can function upstream of serotonergic signaling.
+
+NKAT-1 and two other C. elegans proteins (NKAT-3, TATN-1) are homologous to mammalian kynurenine aminotransferases (KATs), which act on kynurenine (Kyn), a key intermediate of the kynurenine pathway (KP). In both C. elegans and mammals, Kyn is derived from the irreversible catabolism of tryptophan by tryptophan 2, 3 dioxygenase (Figure 2C). Depending on which enzymes then act on Kyn, it can have three distinct proximal metabolic fates. Kynurenine monooxygenase and kynureninase convert Kyn into 3-hydroxy kynurenine (3-Hkyn) and anthranilic acid (Ant), respectively, which are further transformed by other enzymes of the KP (Figure 2C) (van der Goot et al., 2012; Stipanuk and Caudill, 2013). Alternatively, as a substrate for KATs, kynurenine is oxidatively deaminated to form KynA, the only known biosynthetic route to this metabolite. To assess the role of KP metabolites in feeding behavior, we developed an HPLC-based assay to measure metabolite levels from whole animal extracts. Mutants in nkat-1 contained 50% less KynA than wildtype C. elegans fed ad libitum (Figure 2D).Levels of tryptophan and Kyn, the predicted substrate of nkat-1, were unchanged relative to wildtype animals while levels of anthranilic acid (Ant) were elevated in nkat-1 mutants (Figure 2D). Other metabolites downstream of Kyn such a 3-hydroxykynurenine (3-HKyn, Figure 2C) or 3-hydroxyanthranilic acid (not shown) were not detectable in either wildtype or nkat-1 mutants in our assay. These findings suggested that NKAT-1 activity contributes to KynA pools and the deficiency in KAT activity may not significantly impact the organismal pool of Kyn substrate because it is 1000-fold larger than that of KynA.
+
+To determine whether the nkat-1 pharyngeal pumping phenotype was related to its KynA deficiency, we supplemented the feeding media of C. elegans with either 0.1 or 2.5 mM KynA. These supplementations did not reduce the pharyngeal pumping rate of well-fed, wildtype animals on food (Figure 2E) but blocked the hyperactive feeding phenotype of nkat-1 mutants (Figure 2E), indicating that a deficiency in KynA promotes hyperactive feeding.
+
+KynA levels are responsive to fasting and regulate feeding
+Since tryptophan is an essential amino acid in both C. elegans and vertebrates (van der Goot and Nollen, 2013), we suspected that nutrient status may affect the tissue pools of the KP metabolites. After two hours of fasting, both Kyn and KynA levels declined by 70% but the decline of the levels of Trp, a 30–40 fold larger pool than that of Kyn, did not attain statistical significance and levels of Ant increased by 40% (Figure 3A). Thus, fasting promotes degradation of kynurenine and a shift from production of KynA to that of Ant. During subsequent refeeding, levels of Kyn, and KynA initially remained depressed but then the levels of KynA and Ant recovered to their pre-fast, ad libitum fed state by 2 hrs, the same time frame when animals attenuate their hyperactive feeding post-fast. Levels of Kyn at this time point still remained depressed (Figure 3A). As summarized in Figure 3B, these data indicated that, similar to serotonin signaling, KynA levels correlate with three distinct states of feeding behavior; i) basal ad libitum fed state with normal levels of KynA, ii) a fasted state resulting in depressed KynA levels, and iii) a state of depressed KynA when animals encounter food immediately post-fast and exhibit hyperactive feeding. Given ample food supplies, animals in this state eventually return to the ad libitum feeding state.
+
+To understand the influence of KynA in mediating the plasticity between feeding states we altered KynA levels during different nutritional states. We supplemented basal medium with 100 µM of either Kyn (the physiological precursor to KynA), KynA, serotonin (5-HT) or 3-HKyn. These metabolite add-backs were conducted during the fasting period and pharyngeal pumping rates were measured prior to and after animals were returned to food (Figure 3C). Consistent with the notion that a drop in serotonin signaling underlies the reduced feeding off of food, C. elegans treated with 5-HT during the 2 hr fast did not lower their feeding. Nevertheless, when these animals were returned to food (without added 5-HT) they still exhibited hyperactive feeding, indicating that the 5-HT signal of food-availability is insufficient to mitigate the impact of fasting on post-fast feeding. Supplementations with KynA but not Kyn partially blocked the drop in pumping upon fasting (Figure 3C). Notably, both of these supplementations during the fasted state fully blocked the subsequent hyperactive state without affecting the rapid (within 1–2 minutes) rise in pumping from the low rates during fasting to the intermediate ad libitum rates upon exposure to food (Figure S2A, Figure 3C). Treatment of fasting C. elegans with 3-HKyn, a metabolite irreversibly derived from Kyn and one that cannot be converted into KynA (Figure 2C), had no effects on feeding behavior during fasting or re-feeding (Figure 3C). Metabolite measurements in fasting animals revealed that Kyn administration during fasting elevated KynA levels 3-fold over vehicle-treated animals while levels of Kyn, Trp or Ant were not significantly altered (Figure S2B).
+
+We next examined the effects of kynurenine pathway mutations on KynA levels and feeding behavior. Under ad libitum fed conditions, levels of Kyn, KynA, and Ant were elevated 4–8-fold in kmo-1(tm4529) mutants relative to wildtype C. elegans (Figure S2C). Although subjecting the kmo-1 mutants to a 2 hr fast caused a decline in KynA levels, these levels still far exceeded that found in ad libitum fed wild-type animals (Figure S2C). The kmo-1 mutants were unable to hyperactivate their pharyngeal pumping rate post-fast (Figure 3D). However, loss of nkat-1 resulted in constitutively hyper-activated pharyngeal pumping even in a kmo-1 mutant background, (S2D). Similar to kmo-1 mutants, flu-2(e1003) mutants, which have low kynureninase activity and elevated Kyn and KynA levels (van der Goot et al., 2012) were unable to hyperactivate their pharyngeal pumping post-fast (Figure 3D).
+
+Taken together, these results point to KynA as the specific metabolite whose levels determine the overfeeding behavior of animals post-fast: fasting results in a depression of KynA levels, which then permits the hyperactive feeding state when animals are returned to food. As food is ingested, KynA levels recover, attenuating the hyperactive feeding behavior.
+
+Localized production of KynA in the nervous system regulates feeding
+To identify the tissues of origin for KynA production we generated transgenic animals expressing a transcriptional fusion of the nkat-1 promoter to GFP (nkat-1p::gfp) and observed consistent expression in head neurons with occasional weak transgene expression in the gonad and intestine (Figure 4A). To identify the precise cells in which nkat-1p::gfp is expressed, we generated nkat-1p :;gfp; nmr-1p ::mCherry double transgenics (Figure 4B). The nmr-1 promoter was previously shown to be expressed in NMDA receptor expressing neurons named AVA, AVE, AVD, PVC, AVG and RIM (Brockie et al., 2001a). Based on their axonal projections and cell body positions, two of the nkat-1p active neurons were identified as RMDV and RIM pairs of neurons, which are directly adjacent to nmr-1 expressing AVA and AVD neurons, respectively. Only sporadic, weak mCherry expression could be observed in RIM. The third nkat-1p active neuron situated dorsal to the nerve ring with an axon projection along the dorsal nerve cord was identified as RID. Thus, with the potential exception of RIM, nkat-1 is likely expressed in neurons that lack NMDA receptors but are in close anatomical proximity to those that do (White et al., 1986).
+
+Reconstitution of the nkat-1 cDNA using the nkat-1 promoter described above, using a pan-neuronal promoter (unc-119) or its selective expression in only the RIM and RIC interneurons using the tdc-1 promoter completely rescued the hyperactive pumping phenotype of nkat-1 mutants (Figure 4C). By contrast, nkat-1 mutants continued to exhibit hyperactive feeding when nkat-1 cDNA was reconstituted either in the ADF serotonergic neurons using the srh-142 promoter or when using the nkat-3 promoter which is robustly expressed in pharyngeal muscle as well as in some head neurons (Figures S3A, B). Thus, production of KynA at specific neural locations is a critical determinant of feeding behavior.
+
+A neuropeptide signaling axis emanating from NMDA-R expressing interneurons regulates post-fast hyperactive feeding
+In mammals, KynA has been characterized as an antagonist of glutamatergic neurotransmission in particular through NMDA-gated ionotropic receptors (Perkins and Stone, 1982), and by pre-synaptic inhibition of glutamate release via antagonism of α-7 nicotinic acetylcholine receptors (Carpenedo et al., 2001). The spatial expression patterns of nkat-1 and nmr-1 prompted us to investigate the role of C. elegans NMDA-receptor (NMDA-r) in feeding behavior. The two subunits of the C. elegans NMDA-r are encoded by nmr-1 and nmr-2, which have identical expression patterns in a few interneurons (Brockie et al., 2001b). Both nmr-1(ak4) and nmr-2(tm3785) loss of function mutants exhibited pharyngeal pumping rates indistinguishable from wild type animals when fed ad libitum and while fasting (Figure 5A, B). However, both mutants were insensitive to the feeding increasing effects of nkat-1 deficiency (Figure 5A) and failed to exhibit post-fast hyperactive feeding (Figure 5B). Expression of the nmr-1 cDNA under the control of the nmr-1 promoter restored the capacity for hyperactive feeding (Figures S4A, S4B). Unlike the case of the nkat-1 phenotypic rescue, expression of nmr-1 cDNA in RIM and RIC using the tdc-1 promoter or in RIM alone using the cex-1 promoter (Cohen et al., 2009) was insufficient to rescue the hyperactive feeding defect of nmr-1 mutants (Figures S4A, S4B). Moreover, while nmr-1(RNAi) suppressed the hyperactive feeding state of nkat-1 mutants, it failed to alter the constitutive depressed pumping of serotonin deficient tph-1 mutants or the hyperactive pumping of AMPK deficient aak-2 mutants (Figure S4C). Collectively, our data suggested a model whereby KynA levels modulate the feeding rate by directly or indirectly antagonizing glutamatergic neurotransmission through NMDA-r and subsequent changes in serotonin signaling initiated from the ADF neurons.
+
+To substantiate the above model, we searched for molecular links between NMDA-receptor expressing neurons and serotonin signaling by examining neurotransmitter or neuropeptide pathways of nmr-1 positive neurons. The hyperactive feeding of nkat-1 deficient animals was unaltered in tdc-1 mutants, which are deficient in the production of tyramine and octopamine, feeding regulatory neurotransmitters originating from the RIM and RIC interneurons, respectively (Figure 5C) (Alkema et al., 2005; Greer et al., 2008). Similarly, elevated feeding of nkat-1 deficient animals was not dependent on flp-1 (an FMFRamide neuropeptide), whose expression includes nmr-1 positive AVA and AVE neurons and has been previously implicated in serotonin-regulated behaviors (Waggoner et al., 2000) (Figure 5C). However, loss of flp-18, which is expressed in AVA, RIM and 4 other neurons and regulates fat metabolism, chemotaxis and movement (Cohen et al., 2009), blocked the hyperactive feeding of nkat-1 deficient animals and the post-fast hyperactive feeding of wildtype animals (Figure 5C, D) without affecting ad libitum feeding rates. Reconstitution of flp-18 using the nmr-1 promoter was sufficient to rescue hyperactive feeding induced by nkat-1 inactivation (Figure 5C) or fasting (Figure 5D) while reconstitutions in AIY (ttx-3 promoter) (Altun-Gultekin et al., 2001) and in RIM alone (cex-1 promoter) failed to do so (Figure 5C, D). Since the only neurons that overlap between expression patterns of flp-18 and nmr-1 are AVA and RIM, and RIM specific expression of flp-18 and nmr-1 were insufficient to restore post-fast hyperactive feeding state to their respective mutants, AVA remains as the likely origin of the flp-18 signal required for hyperactive feeding. Promoters for exclusive expression in AVA are not yet known.
+
+The FLP-18 neuropeptide activates two different receptors, NPR-4 and NPR-5 that are related to the mammalian neuropeptide-Y receptor (Kubiak et al., 2008; Cohen et al., 2009). The two receptors have non-overlapping expression with NPR-5 being expressed in select sensory neurons including serotonergic ADF (Cohen et al., 2009). Similar to nmr-1 and flp-18 mutants, npr-5 mutants have wildtype pharyngeal pumping rates when feeding ad libitum and when fasted but do not hyper-activate pharyngeal pumping in response to nkat-1 deficiency (Figure 5E) or post-fast food encounter (Figure 5F, Figure S4D). Transgenic expression of npr-5 (a and b isoforms) solely in the ADF sensory neuron was sufficient rescue the feeding deficiencies of npr-5 mutants (Figure 5E, F). Finally, unlike its requirement in the case of nkat-1 deficiency, loss of npr-5 does not alter the constitutively hyper-activated feeding of aak-2 mutants (Figure S4E). These results suggest that KynA depletion impinges on serotonin in ADF by an NMDA-r to FLP-18 to NPR-5 signaling axis.
+
+Fasting enhanced activity in AVA interneurons is repressed by KynA, requires NMDA-r and is independent of FLP-18
+The prior results implied that the fasted state in C. elegans is sensed at least in part by the loss of KynA mediated antagonism of NMDA receptor expressing interneurons. To measure the effect of varying KynA levels on the activity of nmr-1 expressing neurons we measured calcium transients in these neurons using the intensity ratio of the fluorescent Ca2+ indicator GCaMP3 (Tian et al., 2009) and the Ca2+ insensitive mCherry both expressed under the control of the nmr-1 promoter. The nmr-1p::GCaMP3, nmr-1p::mCherry transgenes did not alter feeding rate of animals under any of the tested conditions (Figure S5). Since the depletion of KynA caused by fasting or genetic inactivation of nkat-1 is a chronic condition, we measured spontaneous Ca2+-induced fluorescence transients over an extended (250 s) period. The nmr-1 promoter used to drive GCaMP3 had the most prominent expression in the AVA neurons, however, with our optical setup, we cannot rule out the acquisition GCaMP signal from both AVA and AVE. For all of our analyses, we report the total integrated signal of all the peaks in the 250 s recording window (Figures 6A, B). To enable comparisons of the average intensities and durations of the spontaneous, stochastic Ca2+ transients under different conditions, we also examined each of the 250 s recording windows for events where we could unambiguously define initiation of a spontaneous transient. We then plotted GCaMP fluorescence for the following 60 s (Figure 6A) and examined the average response of multiple such transients per condition (Figure 6C).
+
+The total integrated change in fluorescence intensity was 2.5 fold larger in fasted wildtype animals than in fed animals (Figure 6B). Examination of the transients in the 60 s window following an initiation event indicated that the enhanced intensity observed during fasting persisted throughout the evaluation window rather than reflecting a series of short but very intense bursts of the Ca2+ signal (Figure 6C). Kyn or KynA supplementations reverted the elevated integrated intensity Ca2+ signal of fasted animals to that of ad libitum fed animals (Figure 6B). These supplementations did not block the initial intensity maximum of spontaneous Ca2+ transients in fasted animals but promoted their rapid decline to levels comparable to or below that of fed wildtype animals (Figure 6C).
+
+Under ad libitum fed conditions, the total integrated fluorescence signal as well as the size and duration of the Ca2+ transients of nkat-1 mutants were greater than those of ad libitum fed wildtype animals and comparable to those of fasted wildtype animals (Figures 6B, C). Although the total integrated intensity of GCaMP fluorescence was statistically indistinguishable between wildtype and nmr-1 mutants during the well-fed state (Figure 6B), loss of nmr-1 abrogated the fasting induced elevation of total integrated response (Figure 6B) and the persistent rise in transients (Figure 6C). These results are consistent with kynurenic acid attenuating NMDA-receptor mediated Ca2+ activity in the ad libitum fed state which is relieved upon fasting in wildtype animals or in animals deficient in nkat-1 function.
+
+We also found that the total integrated intensity (Figure 6B) and duration of Ca2+ transients (Figure 6C) that occur upon fasting were similar in flp-18 mutants and wildtype animals. This suggested that the requirement for flp-18 in post-fast hyperactive feeding is not merely an indirect outcome of inability of AVA neurons to respond to fasting in flp-18 mutants. Although loss of flp-18 did not alter the total integrated intensity of Ca2+ transients during the fed state, we noted that the intensity of these transients were more elevated relative to those of fed wildtype animals when they occurred (Figure 6C). The reasons for this are not known but may reflect a paracrine or autocrine feedback inhibitory action of FLP-18 on the activity of AVA.
+
+KynA levels regulate the amount of secretion from ADF in response to food through FLP- 18/NPR-5 signaling
+Since the transition from the slow-pumping fasted state to the hyperactivated post-fast state occurs within minutes (Figure S2A), we surmised it could be driven by changes in secretion of serotonin from ADF, a process with a fast response capability (Whim and Moss, 2001). Direct observation of serotonin secretion is challenging. Both serotonin and neuropeptides such as DAF-28, an insulin-like peptide (Li et al., 2003), are secreted via dense-core vesicles. As a proxy for serotonin secretory activity we measured the secretion of a DAF-28::mCHERRY translational fusion from ADF using a previously established assay (Kao et al., 2007; Lee et al., 2011). Depletion of KynA caused by nkat-1 deficiency resulted in enhanced secretion of the reporter, which was completely abrogated in both flp-18 and npr-5 mutants (Figure 6D). Similarly, wildtype but not flp-18 or npr-5 mutant animals that had been fasted and returned to food for 20 minutes exhibited enhanced secretion compared to ad libitum fed animals (Figure 6E). Animals that had simply been fasted for 2 hours without subsequent food exposure exhibited no significant change in secretion (Figure 6E).
+
+Discussion
+We have identified KynA as part of a whole organism homeostatic feedback loop that allows animals to gauge whether they have experienced a period of fasting to alter subsequent feeding behavior (Figure 7). Since KynA is derived from tryptophan, an essential amino acid, changes in KynA levels are metabolically linked to nutritional status. Our findings suggest a model whereby fasting depletes KynA leading to activation of NMDA-receptor expressing neurons, consistent with the known role of KynA as an inhibitor of NMDA signaling. In turn, activation of these neurons initiates a neuropeptide Y-like signaling cascade, comprised of FLP-18 and its receptor NPR-5, that poises the ciliated ADF neurons for enhanced secretion of serotonin as soon as they sense the presence of food. The elevated serotonin signaling promotes enhanced feeding by the animals through a previously described pathway (Cunningham et al., 2012). As animals feed, the activity of NMDA-receptor expressing neurons is attenuated by normalizing levels of KynA, decreasing FLP-18 to NPR-5 signaling in ADF, terminating the transiently enhanced serotonin signaling phase. This regulatory logic is analogous to a classical product feedback inhibition loop but one that acts on an entire neural circuit. This circuit does not simply inform the animals of the presence or absence of food but allows animals to alter behaviors in a manner that takes into account an internal nutritional cue modulated by fasting.
+
+While tryptophan degradation via the KP likely occurs throughout the animal (van der Goot et al., 2012), we found that the highly restricted expression pattern for nkat-1 in the nervous system in the close spatial proximity of NMDA-receptor expressing neurons was critical to its function in feeding behavior. Kynurenic acid is thought to antagonize glutamate signaling through binding extracellular motifs of cell surface receptors such as the glycine co-agonist site on NMDA receptors or α-7 nAChRs receptors. Either mechanism would be consistent with our genetic data. In mammals, since it does not cross the blood brain barrier, KynA in the brain is synthesized by astrocytic KATs (Schwarcz et al., 2012). Therefore KynA functions cell nonautonomously. In C. elegans, nkat-1 is expressed in three sets of neurons; RID, RMDV and RIM, of which reconstitution of nkat-1 in RIM was sufficient to confer wildtype feeding behavior to nkat-1 mutants. The cell bodies of RMDV lie directly adjacent to those of NMDA receptor expressing AVA while the processes of AVA and RIM are closely associated forming several gap junctions in the nerve ring (White et al., 1986). Thus, KynA produced by NKAT-1 in RIM and RMDV is in close spatial proximity for influencing glutamate signaling in AVA and other NMDA-r expressing neurons. A controversy in how KynA regulates mammalian glutamatergic signaling stems from the fact that the Ki of KynA for NMDA and AMPA type glutamate receptors is 10- and 100-fold higher respectively than the concentration of KynA measured in the bulk extracellular space (Albuquerque and Schwarcz, 2013). However, it is possible that the concentration of KynA increases dramatically in the microscopic vicinity of a cell competent to synthesize it. Heterogeneous, localized production of KynA may differentially modulate glutamatergic signaling in different brain regions or local synaptic clusters.
+
+Our findings suggested that FLP-18 originating from AVA neurons during the fasted state acts on the ADF food sensing neurons via NPR-5, an ortholog of the mammalian neuropeptide-y (NPY) receptors, to increase food consumption post-fast. The AVA interneuron is also required for and its activity is correlated with initiating spontaneous reversals, a locomotory behavior that is increased in the absence of food (Gray et al., 2005; Piggott et al., 2011). Thus, AVA neurons direct two distinct functional outputs coordinated to rectify the aversive fasted state: food seeking behavior and food ingestion. This is not likely a consequence of the relatively simple nature of the C. elegans nervous system. For example, in mice, starvation induced activation of AgRP neurons in the hypothalamus, which also express NPY, elicits both food seeking behavior and elevated consumption of food through projections within the hypothalamus and to the midbrain (Betley et al., 2013). AgRP neurons also express NMDA receptors and targeted genetic ablation of NMDA receptors in AgRP neurons, attenuates the post-fast hyperphagia in mice (Liu et al., 2012). Thus, AgRP neurons represent a prime point of control in mammals upon which KynA inhibition of glutamate signaling could play a role in food associated behaviors.
+
+The nervous system can gauge peripheral metabolic status by direct sensation of circulating nutrients such as glucose, leucine, or lipids as well as through indirect hormonal pathways that originate from peripheral organs and signal to the nervous system (Lam, 2010). As an indicator of nutrient status, KynA stands out since it appears to directly modulate synaptic transmission, akin to a neurotransmitter whose levels are directly tied to nutrient availability. As recently exemplified (Agudelo et al., 2014), changes in peripheral metabolism can exert effects on central KP metabolite levels. Since defects in peripheral metabolic regulation are associated with a diverse array of CNS-associated diseases (Cai et al., 2012; Mitchell et al., 2013; McElroy and Keck, 2014), KynA presents an intriguing possibility for directly linking metabolism to various neural functions. Additionally, our findings provoke a possible twist in the interpretation of the serotonin-kynurenine hypothesis of depression in that KP activation may indeed antagonize serotonin but not through direct metabolic competition for their common precursor as previously proposed (Lapin and Oxenkrug, 1969), but through the production of KynA and its antagonism of a neural circuit that, in turn, enhances serotonin release. In the case of neurodegenerative disorders, the beneficial effects of KynA have been attributed to its potential for countering glutamate toxicity (Schwarcz et al., 2012). Another possibility raised by our studies is that the effects of KynA may be due to modulation of neural circuits whose normal, physiological functions may have beneficial impacts on proteostasis and neurodegeneration. In C. elegans, serotonin signaling, which we show is attenuated by KynA, regulates release of systemic neuroendocrine molecules including insulin (Cunningham et al., 2014; Liang et al., 2006), a well-known modulator of proteostasis (Taylor et al., 2014).
+
+Experimental Procedures
+Please see Supplementary Information for detailed procedures.
+
+C. elegans strains
+Transgenic lines were prepared by microinjection of expression plasmids. Unless described otherwise C. elegans were cultured on agar plates at 20 °C on E. coli OP-50.
+
+Materials
+Unless described otherwise all chemicals were purchased from Sigma. Plasmids were constructed using standard molecular biology techniques.
+
+Pharyngeal pumping assay
+The number of contractions of the posterior pharyngeal bulb was counted over 10 s intervals as described (Srinivasan et al., 2008). All pumping rates presented in this study are presented in tabular form in Supplemental Data File S1.
+
+BODIPY uptake assay
+C. elegans were added to plates containing BODIPY (200 ng/ml) and E. coli for 15 min, washed off, paralyzed with NaN3 and imaged (You et al., 2008).
+
+Metabolite determination
+Acidified, aqueous of C. elegans cultures were separated using an HPLC equipped with a 150×4.6 mm C18-reversed phase column operating at flow rate of 1 ml/min. Metabolites were detected using in-line fluorescence and UV absorbance detectors. Retention times and excitation/emission data were compared to that of metabolite standards injected under the same conditions.
+
+Metabolite supplementation
+fasting: Day 1 gravid adults were washed free of bacteria and then incubated for 2 hr in S-basal media supplemented with metabolites at 100 µM concentration. ad libitum feeding: L4 animals were cultured for 1 d on plates containing 0.1 or 2.5 mM KynA.
+
+Spontaneous Ca2+ transients
+Animals were mounted on agarose pads, immobilized with coverslips and imaged for 250 s through a 40× objective on a microscope equipped with green and red epifluorescence filters and with a 16-bit camera acquiring 4×4 binned images on 2 channels sequentially at 2 Hz. A 6×6 pixel region of interest was placed over AVA and the integrated fluorescence intensity at each time point, for both the GCaMP signal and mCherry signal were measured. The Ca2+ signal was determined by normalizing the green channel by the red channel measurements for each time point.
+
+Secretion Assay
+The integrated fluorescence intensity from the red channel was measured in coelomocytes from animals that expressed the DAF-28::MCHERRY fusion protein from neuronspecific promoters using imageJ.
+
+Statistics
+Two-tailed Student’s t- tests were used to calculate p-values when comparisons were limited that between 2 conditions. When multiple conditions were compared per experiment one or two-way ANOVA with appropriate post-tests were used to calculate p-values.
+
+Supplementary Material
+1  2  3  4  5  6  7  This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Author contributions. Designed experiments (GL, KC, KA). Performed experiments (GL, KC). Technical assistance (LL, FM). Analyzed data (GL, KC, ZW, KA). Wrote the manuscript (GL, KA).
+
+Acknowledgements
+The authors thank Shao-Yi Huang, Paul Muchowski, Steve Finkbeiner, Mihir Vohra and Erik Johnson for helpful discussions and shared equipment and the Nikon Imaging Center at UCSF for microscope access. Some C. elegans strains were provided by the Caenorhabditis Genetics Center, funded by NIH Office of Research Infrastructure Programs (P40 OD010440), and the Mitani Lab of the National Bioresource Project of Japan for the Experimental Animal C. elegans. This research was supported by funds from the Program In Breakthrough Biomedical Research, UCSF Diabetes Family Fund for Innovative Patient Care, R21 ES021412 (NIEHS), R01 AG046400 (NIA), and U01 ES019458 (NCI).
+
+Figure 1 Post-fast Hyperactive Feeding Requires Serotonin Signaling
+(A) Animals were fasted for 1, 2, or 4 hours and the pharyngeal pumping rate was measured before exposure to food, and 5, 30, 60 and 120 min post-fast. To facilitate visualization of data pertaining to changes in pumping rate, all feeding data is presented with the X-axis defining the ad libitum fed wildtype rate. n = 10–14 animals per condition, ns: p &gt; 0.05, ** p &lt; 0.01 compared to ad libitum fed ANOVA (Dunnett) (B) Pharyngeal pumping rates of wildtype, mutant or transgenic animals at the indicated fasting and refeeding periods. n = 10 animals per condition. * p &lt; 0.05, *** p &lt; 0.001, **** p &lt; 0.0001 ANOVA (Sidak). In (A) and (B) error bars = 95% c.i. See also, Figure S1 and Table S1.
+
+Figure 2 Mutants With Impaired KynA Production Exhibit Constitutively Hyperactive Pharyngeal Pumping That Requires Serotonin Signaling
+(A) Pharyngeal pumping rates. n = 9–13 animals per condition ** p &lt; 0.01, **** p &lt; 0.0001 ANOVA (Tukey). (B) Pharyngeal pumping rates of serotonin pathway mutants cultured on either vector control RNAi or nkat- 1(RNAi) expressing E. coli.n = 10 animals per condition ns: p &gt; 0.5 * p &lt; 0.05, ** p &lt; 0.01, *** p &lt; 0.001, **** p &lt; 0.0001 compared to wildtype animals cultured of RNAi control vector ANOVA (Dunnett). (C) Schematic of the kynurenine pathway. tdo-2: tryptophan 2,3 dioxygenase, kmo-1: kynurenine mono-oxygenase, flu-2: required for kynureninase expression (D) Comparisons of kynurenine pathway metabolite levels in wildtype versus nkat-1 mutants. Error bars = s.d. of determinations from 5 cultures per genotype. * p &lt; 10−5 (2-tailed, t- test: wildtype vs nkat-1) (E) Effects of KynA supplementation on pharyngeal pumping. n = 10 animals per condition. **** p &lt; 0.0001 ANOVA (Tukey). In (A), (B), and (E) error bars = 95% c.i.
+
+Figure 3 KynA Depletion During Fasting Is Required For Post-fast Hyperactive Feeding
+(A) Determination of tryptophan (Trp), kynurenine (Kyn), kynurenic acid (KynA) and anthranilic acid (Ant) from extracts of wildtype C. elegans fed ad libitum, after 2 hr of fasting, after 20 min or 2 hr of post-fast feeding. For each metabolite, data are normalized to the ad libitum fed condition. Error bars = s.d. of 3–4 independent cultures ns: p &gt;0.05, * p &lt; 0.05, ** p &lt; 0.0001 ANOVA (Tukey) relative to ad libitum fed for each metabolite. (B) Observed relationships between KynA levels, pharyngeal pumping rate, and food availability with time indicating three distinct behavioral states (1–3). (C) Effects of metabolite supplementations on pharyngeal pumping rates of wildtype C. elegans. During the fasting period animals were treated with either vehicle, or 100 µM of each of Kyn, KynA, 3-hydroxykynurenine (3-HKyn) and serotonin (5-HT). n=10–12 animals per condition. ns p &gt; 0.5, * p &lt; 0.01, ** p &lt; 0.0001 ANOVA (Holm-Sidak) compared to ad libitum fed control. (D) Pumping rates from wildtype and mutants at the indicated fasting and refeeding periods. n = 12–14 animals per condition. ns: p &gt; 0.05, ** p &lt; 0.0001 ANOVA (Holm-Sidak) compared to ad libitum fed for each mutant and wildtype control. In (C) and (D) error bars = 95% c.i. See also, Figure S2.
+
+Figure 4 nkat-1 Expression Is Limited To A Few Neurons
+(A) Merged DIC and green epifluorescence image of an animal containing an nkat-1p::gfp transcriptional fusion. Arrow indicates a green head neuron. Scale bar = 20 µm. (B) Maximum intensity projection of the right lateral side of the head of a young adult animal co-expressing nkat-1p::gfp and nmr-1p::mCherry transcriptional fusions. Individual neurons are identified. Scale bar = 10 µm. (C) Pharyngeal pumping rates of the indicated strains. Error bars = 95% c.i. n = 10–12 animals per condition. **** p &lt; 0.0001 ANOVA (Dunnett) in comparison with wildtype. See also, Figure S3 and Table S1.
+
+Figure 5 Hyperactive Feeding Requires An NMDA-receptor To Peptidergic Signaling Axis That Converges On A Serotonergic Sensory Neuron
+(A) Pharyngeal pumping rates of wildtype, nmr-1, and nmr-2 mutants cultured on either RNAi vector control or nkat-1(RNAi).* p &lt; 0.0001 ANOVA (Tukey). (B) Pharyngeal pumping rates at the indicated fasting and refeeding periods. ns p &gt; 0.1, * p &lt; 0.0001 ANOVA (Tukey) comparing fasted, post-fast animals to ad libitum fed controls. (C) Pharyngeal pumping rates of the indicated strains. Animals were cultured on bacteria expressing nkat-1(RNAi) or RNAi vector control. * p &lt; 0.0001 ANOVA (Sidak) comparing vector control to nkat-1(RNAi) for each genotype. (D) Pharyngeal pumping rates of wildtype, flp-18 mutants and flp-18 transgenic lines used in (C) fed ad libitum, after 2 hr of fasting, and after 5 min of post-fast refeeding. * p &lt; 0.05, ** p &lt; 0.0001 ANOVA (Tukey) comparing fasting and post-fast measurements to that of ad libitum fed for each measurement. (E) Pharyngeal pumping rates of wildtype, npr-5 mutants and npr-5 mutants expressing transgenes directing expression of npr-5a and -5b to ADF neurons. Animals were cultured on bacteria expressing either RNAi vector control or nkat-1(RNAi). * p &lt; 0.0001 ANOVA (Sidak) comparing vector control treated to nkat-1(RNAi) treated for each genotype. (F) Pharyngeal pumping rates of wildtype, npr-5 mutants and the npr-5 transgenic line used in (E) fed ad libitum, after 2 hr of fasting, and after 5 min of refeeding post-fast. * p &lt; 0.05, p &lt; 0.0001 ANOVA (Tukey) comparing fasting and post-fast measurements to that of ad libitum fed for each measurement. In (A–F), error bars = 95% c.i. n = 10–16 animals per condition. See also, Figure S4 and Table S1.
+
+Figure 6 KynA Represses AVA Interneuron Activity and Secretion From ADF Through Antagonism Of The NMDA-r/FLP-18/NPR-5 Signaling Axis
+(A) Sample ratiometric ΔF/F plot showing spontaneous changes over the 250 s imaging window. The area under the signal in the green shaded plot is the basis of the data in (B). The inset plot shows the portion of a spontaneous transient extracted from the 250 s imaging window aligned to a -5 to 60 s timescale axis which is the basis of the data shown in (C). See also, Figure S5. (B) The total integrated change in fluorescence intensity (ΔF/F) over the 250 s recordings. Wildtype animals were fed ad libitum, fasted 2 hr or fasted 2 hr in media supplemented with either 100 µM Kyn or 100 µM KynA. Mutants in nkat-1, nmr-1 and flp-18 were fed ad libitum or fasted 2 hr. ns: p &gt; 0.8, * p &lt; 0.02, ** p &lt; 0.01 ANOVA (Sidak). (C) Averaged spontaneous Ca2+ transients from each of the conditions recorded in (B). (B, C) error bars = s.e.m., n = 10–12 animals per condition. (D–E) Measurement of DAF-28::mCHERRY fluorescence in coelomocytes from transgenic animals expressing daf-28::mCherry in ADF neurons. Error bars = s.e.m., n = 15–38 per condition. (D) Wildtype, flp-18, and npr-5 mutants expressing the transgene were cultured on bacteria expressing either nkat-1(RNAi) or an RNAi vector control. * p &lt; 0.0001 ANOVA (Tukey) compared to RNAi vector control treated animals. (E) Lines used in (D) measured during ad libitum feeding, after a 2 hr fast and after 20 minutes of post-fast re-feeding. * p &lt; 0.05, **** p &lt; 0.0001 ANOVA (Dunnett) comparing all measurements to wildtype, ad libitum fed animals.
+
+Figure 7 Model Of A Neural Circuit That Integrates Food Sensory Cues With Nutritional Status To Promote Experience-Dependent Plasticity of Feeding
+State 1: the activity of AVA (hexagon) is attenuated by KynA synthesized from kynurenine by NKAT-1 in RIM, RMDV and/or RID (circle). Kynurenine is ultimately derived from ingested food. ADF (triangle) senses food cues leading to 5-HT secretion to stimulate pumping. State 2: fasting represses KynA production causing activation of AVA neurons that promotes FLP-18/NPR-5 signaling to serotonergic ADF. In the absence of food cues, serotonin signaling from ADF is muted. State 3: when animals re-encounter food immediately post-fast, the activated NPR-5 signaling state leads to enhanced secretion from ADF when food derived sensory cues are detected. Continued feeding leads to an accumulation of KynA returning the animals to State 1.
+
+
+   References
+
+            Agudelo LZ  
+            Femenía T  
+            Orhan F  
+            Porsmyr-Palmertz M  
+            Goiny M  
+            Martinez-Redondo V  
+            Correia JC  
+            Izadi M  
+            Bhat M  
+            Schuppe-Koistinen I  
+             
+           Skeletal Muscle PGC-1α1 Modulates Kynurenine Metabolism and Mediates Resilience to Stress-Induced Depression Cell 2014 159 33 45 25259918 
+
+            Albuquerque EX  
+            Schwarcz R  
+           Kynurenic acid as an antagonist of α7 nicotinic acetylcholine receptors in the brain: Facts and challenges Biochem. Pharmacol 2013 85 1027 1032 23270993 
+
+            Alkema MJ  
+            Hunter-Ensor M  
+            Ringstad N  
+            Horvitz HR  
+           Tyramine Functions Independently of Octopamine in the Caenorhabditis elegans Nervous System Neuron 2005 46 247 260 15848803 
+
+            Altun-Gultekin Z  
+            Andachi Y  
+            Tsalik EL  
+            Pilgrim D  
+            Kohara Y  
+            Hobert O  
+           A regulatory cascade of three homeobox genes, ceh-10, ttx-3 and ceh-23, controls cell fate specification of a defined interneuron class in C. elegans Development 2001 128 1951 1969 11493519 
+
+            Andiné P  
+            Lehmann A  
+            Ellrén K  
+            Wennberg E  
+            Kjellmer I  
+            Nielsen T  
+            Hagberg H  
+           The excitatory amino acid antagonist kynurenic acid administered after hypoxic-ischemia in neonatal rats offers neuroprotection Neurosci. Lett 1988 90 208 212 3412643 
+
+            Avery L  
+            Horvitz HR  
+           Effects of starvation and neuroactive drugs on feeding in Caenorhabditis elegans J. Exp. Zool 1990 253 263 270 2181052 
+
+            Avery L  
+            Young-Jai  
+            You  
+           C. elegans feeding WormBook 2012 1 23 22628186 
+
+            Beal MF  
+            Matson WR  
+            Storey E  
+            Milbury P  
+            Ryan EA  
+            Ogawa T  
+            Bird ED  
+           Kynurenic acid concentrations are reduced in Huntington’s disease cerebral cortex J. Neurol. Sci 1992 108 80 87 1385624 
+
+            Betley JN  
+            Cao ZFH  
+            Ritola KD  
+            Sternson SM  
+           Parallel, Redundant Circuit Organization for Homeostatic Control of Feeding Behavior Cell 2013 155 1337 1350 24315102 
+
+            Brockie PJ  
+            Mellem JE  
+            Hills T  
+            Madsen DM  
+            Maricq AV  
+           The C. elegans Glutamate Receptor Subunit NMR-1 Is Required for Slow NMDA-Activated Currents that Regulate Reversal Frequency during Locomotion Neuron 2001a 31 617 630 11545720 
+
+            Brockie PJ  
+            Mellem JE  
+            Hills T  
+            Madsen DM  
+            Maricq AV  
+           The C. elegans Glutamate Receptor Subunit NMR-1 Is Required for Slow NMDA-Activated Currents that Regulate Reversal Frequency during Locomotion Neuron 2001b 31 617 630 11545720 
+
+            Cai H  
+            Cong W  
+            Ji S  
+            Rothman S  
+            Maudsley S  
+            Martin B  
+           Metabolic Dysfunction in Alzheimers Disease and Related Neurodegenerative Disorders Curr. Alzheimer Res 2012 9 5 17 22329649 
+
+            Campesan S  
+            Green EW  
+            Breda C  
+            Sathyasaikumar KV  
+            Muchowski PJ  
+            Schwarcz R  
+            Kyriacou CP  
+            Giorgini F  
+           The Kynurenine Pathway Modulates Neurodegeneration in a Drosophila Model of Huntington’s Disease Curr. Biol 2011 21 961 966 21636279 
+
+            Carpenedo R  
+            Pittaluga A  
+            Cozzi A  
+            Attucci S  
+            Galli A  
+            Raiteri M  
+            Moroni F  
+           Presynaptic kynurenate-sensitive receptors inhibit glutamate release Eur. J. Neurosci 2001 13 2141 2147 11422455 
+
+            Cohen M  
+            Reale V  
+            Olofsson B  
+            Knights A  
+            Evans P  
+            de Bono M  
+           Coordinated Regulation of Foraging and Metabolism in C. elegans by RFamide Neuropeptide Signaling Cell Metab 2009 9 375 385 19356718 
+
+            Cunningham KA  
+            Hua Z  
+            Srinivasan S  
+            Liu J  
+            Lee BH  
+            Edwards RH  
+            Ashrafi K  
+           AMP-Activated Kinase Links Serotonergic Signaling to Glutamate Release for Regulation of Feeding Behavior in C. elegans Cell Metab 2012 16 113 121 22768843 
+
+            Cunningham KA  
+            Bouagnon AD  
+            Barros AG  
+            Lin L  
+            Malard L  
+            Romano-Silva MA  
+            Ashrafi K  
+           Loss of a Neural AMP-Activated Kinase Mimics the Effects of Elevated Serotonin on Fat, Movement, and Hormonal Secretions PLoS Genet 2014 10 e1004394 24921650 
+
+            Douglas SJ  
+            Dawson-Scully K  
+            Sokolowski MB  
+           The neurogenetics and evolution of food-related behaviour Trends Neurosci 2005 28 644 652 16203044 
+
+            Erhardt S  
+            Blennow K  
+            Nordin C  
+            Skogh E  
+            Lindström LH  
+            Engberg G  
+           Kynurenic acid levels are elevated in the cerebrospinal fluid of patients with schizophrenia Neurosci. Lett 2001 313 96 98 11684348 
+
+            Erhardt S  
+            Lim CK  
+            Linderholm KR  
+            Janelidze S  
+            Lindqvist D  
+            Samuelsson M  
+            Lundberg K  
+            Postolache TT  
+            Träskman-Bendz L  
+            Guillemin GJ  
+             
+           Connecting inflammation with glutamate agonism in suicidality Neuropsychopharmacology 2013 38 743 752 23299933 
+
+            Foster AC  
+            Vezzani A  
+            French ED  
+            Schwarcz R  
+           Kynurenic acid blocks neurotoxicity and seizures induced in rats by the related brain metabolite quinolinic acid Neurosci. Lett 1984 48 273 278 6237279 
+
+            Gray JM  
+            Hill JJ  
+            Bargmann CI  
+           A circuit for navigation in Caenorhabditis elegans Proc. Natl. Acad. Sci. U. S. A 2005 102 3184 3191 15689400 
+
+            Greer ER  
+            Pérez CL  
+            Van Gilst MR  
+            Lee BH  
+            Ashrafi K  
+           Neural and Molecular Dissection of a C. elegans Sensory Circuit that Regulates Fat and Feeding Cell Metab 2008 8 118 131 18680713 
+
+            Heyes MP  
+            Saito K  
+            Crowley JS  
+            Davis LE  
+            Demitrack MA  
+            Der M  
+            Dilling LA  
+            Elia J  
+            Kruesi MJP  
+            Lackner A  
+             
+           Quinolinic Acid and Kynurenine Pathway Metabolism in Inflammatory and Non-Inflammatory Neurological Disease Brain 1992 115 1249 1273 1422788 
+
+            Hills T  
+            Brockie PJ  
+            Maricq AV  
+           Dopamine and Glutamate Control Area-Restricted Search Behavior in Caenorhabditis elegans J. Neurosci 2004 24 1217 1225 14762140 
+
+            Hilmas C  
+            Pereira EFR  
+            Alkondon M  
+            Rassoulpour A  
+            Schwarcz R  
+            Albuquerque EX  
+           The Brain Metabolite Kynurenic Acid Inhibits α7 Nicotinic Receptor Activity and Increases Non-α7 Nicotinic Receptor Expression: Physiopathological Implications J. Neurosci 2001 21 7463 7473 11567036 
+
+            Horvitz HR  
+            Chalfie M  
+            Trent C  
+            Sulston JE  
+            Evans PD  
+           Serotonin and octopamine in the nematode Caenorhabditis elegans Science 1982 216 1012 1014 6805073 
+
+            Kao G  
+            Nordenson C  
+            Still M  
+            Rönnlund A  
+            Tuck S  
+            Naredi P  
+           ASNA-1 Positively Regulates Insulin Secretion in C. elegans and Mammalian Cells Cell 2007 128 577 587 17289575 
+
+            Kubiak TM  
+            Larsen MJ  
+            Bowman JW  
+            Geary TG  
+            Lowery DE  
+           FMRFamide-like peptides encoded on the flp-18 precursor gene activate two isoforms of the orphan Caenorhabditis elegans G-protein-coupled receptor Y58G8A.4 heterologously expressed in mammalian cells Pept. Sci 2008 90 339 348 
+
+            Lam TKT  
+           Neuronal regulation of homeostasis by nutrient sensing Nat. Med 2010 16 392 395 20376051 
+
+            Lapin IP  
+            Oxenkrug GF  
+           INTENSIFICATION OF THE CENTRAL SEROTONINERGIC PROCESSES AS A POSSIBLE DETERMINANT OF THE THYMOLEPTIC EFFECT The Lancet 1969 293 132 136 
+
+            Lee BH  
+            Liu J  
+            Wong D  
+            Srinivasan S  
+            Ashrafi K  
+           Hyperactive Neuroendocrine Secretion Causes Size, Feeding, and Metabolic Defects of C. elegans Bardet-Biedl Syndrome Mutants PLoS Biol 2011 9 e1001219 22180729 
+
+            Li W  
+            Kennedy SG  
+            Ruvkun G  
+           daf-28 encodes a C. elegans insulin superfamily member that is regulated by environmental cues and acts in the DAF-2 signaling pathway Genes Dev 2003 17 844 858 12654727 
+
+            Liang B  
+            Moussaif M  
+            Kuan C-J  
+            Gargus JJ  
+            Sze JY  
+           Serotonin targets the DAF-16/FOXO signaling pathway to modulate stress responses Cell Metab 2006 4 429 440 17141627 
+
+            Liu T  
+            Kong D  
+            Shah BP  
+            Ye C  
+            Koda S  
+            Saunders A  
+            Ding JB  
+            Yang Z  
+            Sabatini BL  
+            Lowell BB  
+           Fasting Activation of AgRP Neurons Requires NMDA Receptors and Involves Spinogenesis and Increased Excitatory Tone Neuron 2012 73 511 522 22325203 
+
+            McElroy SL  
+            Keck PE Jr  
+           Metabolic syndrome in bipolar disorder: a review with a focus on bipolar depression J. Clin. Psychiatry 2014 75 46 61 24502861 
+
+            Mitchell AJ  
+            Vancampfort D  
+            Sweers K  
+            Winkel R  
+            van  
+            Yu W  
+            Hert MD  
+           Prevalence of Metabolic Syndrome and Metabolic Abnormalities in Schizophrenia and Related Disorders—A Systematic Review and Meta-Analysis Schizophr. Bull 2013 39 306 318 22207632 
+
+            Perkins MN  
+            Stone TW  
+           An iontophoretic investigation of the actions of convulsant kynurenines and their interaction with the endogenous excitant quinolinic acid Brain Res 1982 247 184 187 6215086 
+
+            Piggott BJ  
+            Liu J  
+            Feng Z  
+            Wescott SA  
+            Xu XZS  
+           The Neural Circuits and Synaptic Mechanisms Underlying Motor Initiation in C. elegans Cell 2011 147 922 933 22078887 
+
+            Sawin ER  
+            Ranganathan R  
+            Horvitz HR  
+           C. elegans Locomotory Rate Is Modulated by the Environment through a Dopaminergic Pathway and by Experience through a Serotonergic Pathway Neuron 2000 26 619 631 10896158 
+
+            Schwarcz R  
+            Rassoulpour A  
+            Wu H-Q  
+            Medoff D  
+            Tamminga CA  
+            Roberts RC  
+           Increased cortical kynurenate content in schizophrenia Biol. Psychiatry 2001 50 521 530 11600105 
+
+            Schwarcz R  
+            Bruno JP  
+            Muchowski PJ  
+            Wu H-Q  
+           Kynurenines in the mammalian brain: when physiology meets pathology Nat. Rev. Neurosci 2012 13 465 477 22678511 
+
+            Sengupta P  
+           The belly rules the nose: feeding state-dependent modulation of peripheral chemosensory responses Curr. Opin. Neurobiol 2013 23 68 75 22939570 
+
+            Song B-m  
+            Faumont S  
+            Lockery S  
+            Avery L  
+           Recognition of familiar food activates feeding via an endocrine serotonin signal in Caenorhabditis elegans eLife 2013 2 e00329 e00329 23390589 
+
+            Srinivasan S  
+            Sadegh L  
+            Elle IC  
+            Christensen AGL  
+            Faergeman NJ  
+            Ashrafi K  
+           Serotonin Regulates C. elegans Fat and Feeding through Independent Molecular Mechanisms Cell Metab 2008 7 533 544 18522834 
+
+            Steiner J  
+            Walter M  
+            Gos T  
+            Guillemin GJ  
+            Bernstein H-G  
+            Sarnyai Z  
+            Mawrin C  
+            Brisch R  
+            Bielau H  
+            Schwabedissen LM  
+            zu  
+             
+           Severe depression is associated with increased microglial quinolinic acid in subregions of the anterior cingulate gyrus: Evidence for an immune-modulated glutamatergic neurotransmission? J. Neuroinflammation 2011 8 94 21831269 
+
+            Stipanuk MH  
+            Caudill MA  
+           Biochemical, Physiological, and Molecular Aspects of Human Nutrition 2013 Elsevier Health Sciences 
+
+            Sze JY  
+            Victor M  
+            Loer C  
+            Shi Y  
+            Ruvkun G  
+           Food and metabolic signalling defects in a Caenorhabditis elegans serotonin-synthesis mutant Nature 2000 403 560 564 10676966 
+
+            Taylor RC  
+            Berendzen KM  
+            Dillin A  
+           Systemic stress signalling: understanding the cell non-autonomous control of proteostasis Nat. Rev. Mol. Cell Biol 2014 15 211 217 24556842 
+
+            Tian L  
+            Hires SA  
+            Mao T  
+            Huber D  
+            Chiappe ME  
+            Chalasani SH  
+            Petreanu L  
+            Akerboom J  
+            McKinney SA  
+            Schreiter ER  
+             
+           Imaging neural activity in worms, flies and mice with improved GCaMP calcium indicators Nat. Methods 2009 6 875 881 19898485 
+
+            Van der Goot AT  
+            Nollen EAA  
+           Tryptophan metabolism: entering the field of aging and age-related pathologies Trends Mol. Med 2013 19 336 344 23562344 
+
+            Van der Goot AT  
+            Zhu W  
+            Vázquez-Manrique RP  
+            Seinstra RI  
+            Dettmer K  
+            Michels H  
+            Farina F  
+            Krijnen J  
+            Melki R  
+            Buijsman RC  
+             
+           Delaying aging and the aging-associated decline in protein homeostasis by inhibition of tryptophan degradation Proc. Natl. Acad. Sci 2012 109 14912 14917 22927396 
+
+            Waggoner LE  
+            Hardaker LA  
+            Golik S  
+            Schafer WR  
+           Effect of a Neuropeptide Gene on Behavioral States in Caenorhabditis elegans Egg-Laying Genetics 2000 154 1181 1192 10757762 
+
+            Whim MD  
+            Moss GWJ  
+           A Novel Technique that Measures Peptide Secretion on a Millisecond Timescale Reveals Rapid Changes in Release Neuron 2001 30 37 50 11343643 
+
+            White JG  
+            Southgate E  
+            Thomson JN  
+            Brenner S  
+           The Structure of the Nervous System of the Nematode Caenorhabditis elegans Philos. Trans. R. Soc. Lond. B Biol. Sci 1986 314 1 340 22462104 
+
+            You Y  
+            Kim J  
+            Raizen DM  
+            Avery L  
+           Insulin, cGMP, and TGF-β Signals Regulate Food Intake and Quiescence in C. elegans: A Model for Satiety Cell Metab 2008 7 249 257 18316030 
+
+            Zwilling D  
+            Huang S-Y  
+            Sathyasaikumar KV  
+            Notarangelo FM  
+            Guidetti P  
+            Wu H-Q  
+            Lee J  
+            Truong J  
+            Andrews-Zwilling Y  
+            Hsieh EW  
+             
+           Kynurenine 3-Monooxygenase Inhibition in Blood Ameliorates Neurodegeneration Cell 2011 145 863 874 21640374 
+

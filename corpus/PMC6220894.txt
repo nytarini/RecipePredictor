@@ -1,0 +1,562 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   82074833756Food Chem ToxicolFood Chem. Toxicol.Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association0278-69151873-635130253245622089410.1016/j.fct.2018.09.047NIHMS1508453ArticleIn vitro safety pharmacology evaluation of 2-hydroxybenzylamine acetate Fuller John C. JraPitchford Lisa M. aMorrison Ryan D. bDaniels J. Scott bFlynn Charles R. cAbumrad Naji N. cOates John A. dBoutaud Olivier eRathmacher John A. afa Metabolic Technologies, Inc, Ames, IA 50010 USA.b Sano Informed Prescribing Inc., Franklin, TN 37067c Department of Surgery, Vanderbilt University Medical Center, Nashville, TN 37232, USA.d Department of Medicine, Division of Clinical Pharmacology, Vanderbilt University Medical Center, Nashville, TN 37232.e Department of Pharmacology, Vanderbilt University, Nashville, TN 37232.f Department of Animal Science, Iowa State University, Ames, IA 50010, USA.Corresponding Author: Lisa M. Pitchford, 2711 S. Loop Dr., Suite 4400, Ames, IA 50010Fuller@mti-hmb.com, Pitchford@mti-hmb.com, rathmacher@mti-hmb.com, scott@thinksano.com, ryan@thinksano.com, Robb.flynn@Vanderbilt.edu, Naji.abumrad@vanderbilt.edu, john.oates@vanderbilt.edu, olivier.boutaud@vanderbilt.edu2 10 2018 22 9 2018 11 2018 01 11 2019 121 541 548 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Abstract
+2-hydroxybenzylamine (2-HOBA), a compound found in buckwheat, is a potent scavenger of reactive γ-ketoaldehydes, which are increased in diseases associated with inflammation and oxidative stress. While the potential of 2-HOBA is promising, studies were needed to characterize the safety of the compound before clinical trials. In a series of experiments, the risks of 2-HOBA-mediated mutagenicity and cardio-toxicity were assessed in vitro. The effects of 2-HOBA on the mRNA expression of select cytochrome P450 (CYP) enzymes were also assessed in cryopreserved human hepatocytes. Further, the distribution and metabolism of 2-HOBA in blood were determined. Our results indicate that 2-HOBA is not cytotoxic or mutagenic in vitro and does not induce the expression of CYP1A2, CYP2B6, or CYP3A4 in human hepatocytes. The results of the hERG testing showed a low risk of cardiac QT wave prolongation. Plasma protein binding and red blood cell distribution characteristics indicate low protein binding and no preferential distribution into erythrocytes. The major metabolites identified were salicylic acid and the glycoside conjugate of 2-HOBA. Together, these findings support development of 2-HOBA as a nutritional supplement and provide important information for the design of further preclinical safety studies in animals as well as for human clinical trials with 2-HOBA.
+
+salicylaminemetabolismtoxicityhumanratrabbit
+   1. Introduction
+While reactive oxygen species (ROS) play critical signaling roles in cells and tissues, excessive ROS production and/or inadequate antioxidant activity results in oxidative stress, which can lead to cell damage and inflammation. Many types of ROS drive lipid peroxidation, which results in the generation of reactive carbonyl species, such as γ-ketoaldehydes (γKA). γKA (also known as isolevuglandins or isoketals) are highly reactive lipid aldehydes that form via non-enzymatic rearrangement of intermediates created during either prostaglandin formation by cyclooxygenase (Iyer et al., 1989; Murthi et al., 1993) or free radical-catalyzed arachidonic acid oxidation (Brame et al., 1999; Morrow et al., 1990; Salomon and Miller, 1985). γKA rapidly react with lysine residues (Davies et al., 2002) and phosphatidylethanolamine (Bernoud-Hubac et al., 2009; Sullivan et al., 2010) to form adducts that have been linked to loss of protein function, mitochondrial and endoplasmic reticulum stress, and inflammation. Elevated levels of γKA adducts have been detected in a growing number of conditions associated with oxidative stress and inflammation, including atherosclerosis (Bernoud-Hubac et al., 2009), hypertension (Kirabo et al., 2014), liver disease (Roychowdhury et al., 2009), and Alzheimer’s disease (Zagol-Ikapitte et al., 2005).
+
+2-Hydroxybenzylamine (2-HOBA, also known as salicylamine), is a compound found in buckwheat (Koyama et al., 1971), which is a gluten-free foodstuff originating thousands of years ago in Southeast Asia that is currently cultivated worldwide. 2-HOBA is a potent γKA scavenger (Davies et al., 2002; Zagol-Ikapitte et al., 2010a), scavenging γKAs 980-fold faster than the rate of formation of γKA protein adducts and therefore protecting cells from the detrimental effects of γKA adducts. Thus, this nutritional compound has the potential to attenuate the damaging effects of oxidative stress in multiple tissues. In vitro studies have demonstrated the potential of 2-HOBA to protect HepG2 cells from H2O2-induced cytotoxicity (Davies et al., 2006). Additional beneficial effects of 2-HOBA have also been identified in animals, including increased lifespan in C. elegans (Nguyen et al., 2016), improved hypertension in mice (Wu et al., 2016), and protection from memory deficits in a mouse model of Alzheimer’s disease (Davies et al., 2011).
+
+These results provide promising data supporting a potential benefit of 2-HOBA supplementation in humans; however, additional data on the safety of 2-HOBA are necessary. The purpose of this study was to conduct a series of in vitro safety pharmacology experiments on 2-HOBA to evaluate the risks of toxicity, mutagenicity, and adverse effects on drug metabolism and cardiac function, as well as to characterize the distribution and biotransformation of 2-HOBA.
+
+2. Materials and methods
+2.1 Test article
+2-Hydroxybenzylamine acetate (CAS 1206675–01-5) was manufactured by TSI (China) Co., Ltd. (Shanghai, China). The batch lot number used in the current studies was 16120312, and our laboratory verified the purity to be &gt;99% 2-HOBA acetate using high-performance liquid chromatography (HPLC) and proton nuclear magnetic resonance analysis with D2O as a solvent. For HPLC analysis of 2-HOBA, 4-hydroxybenzylamine was used as an internal standard. Samples, internal standard and standards were dissolved in 5 mM formic acid in 20% methanol. HPLC analysis was performed with an Agilent 1100 Series pump coupled with Diode Array Detector (Agilent Technologies, Santa Clara, CA) on a reverse phase C8 column (Spheri-5 RP-8, 220 × 4.6 mm, Perkin Elmer, Norwalk, CT). A gradient of 10–95% mobile phase B from 0 to 20 min was established by using a mobile phase A of 0.1% formic acid in H2O and mobile phase B of 0.1% formic acid in 100% methanol. A flow rate of 0.6 mL/min and UV detection at 273 nm were used. For HPLC analysis of acetate, 2-HOBA acetate samples and standards were dissolved in 0.02 M phosphate buffer and injected for acetate analysis via HPLC with an anion exchange column (Rezex ROA-Organic Acid H+ 8%, 300 × 7.8 mm, Phenomenex, Torrance, CA). A 30-minute isocratic method with a 0.005 N sulfuric acid mobile phase, a flow rate of 0.5 mL/min, and UV detection at 214 nm was used. Peak areas for 2-HOBA and acetate were compared to standard curves constructed from 2-HOBA and acetate standards that were obtained from Sigma-Aldrich (St. Louis, MO, USA).
+
+2.2 Cytotoxicity (MTS assay)
+Cytotoxicity studies were performed by Absorption Systems (Exton, PA, USA). Cytotoxicity was assessed by measuring conversion of a tetrazolium compound to formazan by dehydrogenases, which are only active in viable cells. Cryopreserved hepatocytes from the three donors (1 male, 2 female, Caucasian, age 43–59) were obtained from Sekisui XenoTech (Lenexa, KS, USA). Cells were thawed in human hepatocyte thawing medium (Sekisui XenoTech), counted, and plated at 0.15 million cells/well onto BioCoat™ collagen-coated 48-well plates (Becton Dickinson, Franklin Lakes, NJ, USA). Plates were incubated at 37°C in 95% air/5% CO2. After attachment (2–4 hours), the medium was replaced with hepatocyte culture medium (Sekisui XenoTech) and cells were allowed to recover overnight.
+
+The hepatocytes were then treated with 2-HOBA (0.3, 3, or 30 µΜ) or vehicle control (0.1% DMSO) for 72 hours, with daily replacement of the treated media. All experiments were performed in triplicate. After 72 hours of treatment, cell viability was analyzed with the CellTiter 96® AQueous One Solution Cell Proliferation Assay (Promega, Madison, WI, USA) according to the manufacturer’s recommendations.
+
+2.3 Ames mutagenicity assessment (bacterial reverse mutation assay)
+A bacterial reverse mutase study (Ames test) was conducted by Vedic Lifesciences Pvt., Ltd. (Mumbai, India) using Salmonella typhimurium and following OECD 471 guidelines (OECD, 1997). Histidine-dependent bacterial strains derived from Salmonella typhimurium strain LT2 containing mutations in the histidine locus were used in the study. The TA 1535, TA 1537, TA 98, TA 100, and TA 102 strains were obtained from Moltox (Molecular Toxicology Inc., Boone, NC, USA); strain details are provided in Supplementary Table 1.
+
+Studies were conducted using both the plate incorporation method and the pre-incubation method, each with (+S9) and without metabolic activation (−S9) with a mammalian microsome enzyme activation mixture (S9, Defence Research and Development Establishment, Thank, Maharashtra, India). 2-HOBA mutagenicity was assessed in five doses: 0.05, 0.15, 0.5, 1.5, and 5.00 mg/plate. Negative control plates were treated with 0.1 mL of RO water. Positive control plates received 0.1 mL of the following reference mutagens: For −S9 plates, 10 µg/plate sodium azide (Sigma Aldrich) in RO water for strains TA 1535 and TA 100; 10 µg and 50 µg/plate 4-nitro-o-phenylenediamine (4-NOPD, Sigma Aldrich) in RO water for strains TA 98 and TA 1537, respectively; or 4 µL methyl methanesulfonate (MMS, Sigma Aldrich) for strain TA For +S9 plates, 2.5 µg/plate of 2-aminoanthracene (2-AA, Sigma Aldrich) in DMSO were added to strains TA 1535, TA 1537, TA 98, and TA 100; 50 µg 2-AA/plate was added to strain TA 102. Three replicate plates were used for all conditions.
+
+For plate incorporation assays, the following were mixed in a test tube and poured onto selective agar plates: 0.1 mL 2-HOBA, negative control (RO water), or positive control (reference mutagen) solution, 0.5 mL S9 mix for +S9 replicates or S9 mix substitution buffer for −S9 replicates, 0.1 mL bacterial suspension, and 2.0 mL overlay agar. After solidification, the plates were inverted and incubated for 48 hours at 37 ± 2°C in the dark.
+
+For pre-incubation assays, 0.1 mL 2-HOBA, 0.5 mL S9 mix (+S9) or 0.5mL of the S9 mix substitution buffer (−S9), and 0.1 mL of the bacterial suspensions were mixed in a test tube and incubated at 37 ± 2°C for 60 min. After incubation, 2.0 mL of overlay agar at 47 ± 2°C were added to each tube and the mixture was then poured onto minimal agar plates. After solidification, the plates were incubated for 48 hours at 37 ± 2°C in the dark.
+
+The mean number of revertant colonies per plate and the SD of three replicates for each plate were calculated for all conditions. A positive (mutagenic) result was defined as a dose-dependent increase in the number of revertant colonies or a greater than two-fold higher number of revertant colonies in the test plate compared to the negative control plate (Hamada et al., 1994). T-tests were used to compare revertant colony counts between positive and negative controls; a significant difference (p &lt; 0.05) between positive and negative controls was required to accept the assay.
+
+2.4 Human cytochrome P450 (CYP) induction in vitro
+Studies on CYP induction by 2-HOBA were also conducted at Absorption Systems. Based upon FDA guidelines (Food and Drug Administration, 2012), the potential of 2-HOBA to induce CYP1A2, CYP2B6, and CYP3A in human hepatocytes from three donors was evaluated. Cell donor characteristics and culture methods were identical to those described for cytotoxicity (2.1). After plating and overnight recovery, hepatocytes were treated with 2-HOBA (0.3, 3, and 30 µΜ) or controls for 72 hours, with daily replacement of treated media. Positive and negative control compounds were purchased from Sigma Aldrich. Omeprazole (50 µM), phenobarbital (1 mM), and rifampicin (50 µM) were used as positive controls for CYP1A2, CYP2B6, and CYP3A4, respectively. Flumazenil (10 µΜ) was used as a negative control, and vehicle controls were treated with 0.1% DMSO for all enzyme assays. All experiments were performed in triplicate.
+
+RNA was isolated from the cells using the RNeasy® Mini kit (Qiagen, Valencia, CA, USA) and treated with RNase-free DNase (Qiagen) following the manufacturer’s protocols. The RNA concentration was determined using a Qubit® Fluorometer with a Qubit® RNA HS assay kit (Invitrogen, Waltham, MA, USA), and cDNA was synthesized from up to 1 µg of RNA using the QuantiTect® RT kit (Qiagen). Gene expression was assessed by qPCR using the LightCycler® 480 II System (Roche Diagnostics Corporation, Indianapolis, IN, USA). Primers were purchased from Invitrogen, and probes were purchased from the Universal Probe Library (Roche, Basil, Switzerland); primer and probe sequences are provided in Supplementary Table 2.
+
+Relative mRNA was expressed as fold-increase relative to vehicle control (2−∆∆Ct). The percentage of mRNA fold-increase relative to the corresponding positive control was calculated as: 100 × (mRNA2-HOBA − mRNAvehicle)/(mRNApositive control − mRNAvehicle). Positive induction was defined as a concentration-dependent &gt; 2-fold increase in mRNA.
+
+2.5 Human ether a-go-go (hERG) inhibition in vitro
+To determine if 2-HOBA caused any hERG inhibition, electrophysiology studies were conducted by Cyprotex (New Orleans, LA USA). HEK293 cells stably transfected with hERG were obtained from CytoBioScience, Inc. (San Antonio, TX, USA). hERG tail currents were measured by electrophysiology using the whole cell patch clamp technique on the Cytopatch automated platform (CytoBioScience, Inc.). Briefly, cells were dispensed onto microfluidic chips containing a cytocentering channel for cell positioning and a patch clamp pipette opening. Cells were continuously perfused with extracellular buffer (137 mM NaCl, 4 mM KCl, 1 mM MgCl2, 1.8 mM CaCl2, 10 mM HEPES, 11 mM dextrose, adjusted to pH 7.4 with NaOH). The internal recording solution consisted of 7 mM NaCl, 130 mM KCl, 1 mM MgCl2, 5 mM HEPES, 5 mM EGTA, and was adjusted to pH 7.2 with KOH. From a holding potential of −70 mV, each cell was pulsed to −50 mV for 200 msec to measure the leak current of the cell. Thereafter, the cell was depolarized to +40 mV for 2 s. The hERG tail current was then activated by stepping back to −50 mV for 2 s. hERG current amplitude was measured as the peak current at −50mV (tail current).After the protocol, the cell was again clamped at holding potential (−70 mV). The voltage protocol was repeated every 10 s. All cell suspensions, buffers, and test compound solutions were maintained at 34 ± 1°C during the experiments. After measuring the baseline tail current amplitude, 2-HOBA (0.1, 1, 10, and 100 µM) or controls (5.4 µM quinidine as a positive control and 0.3% DMSO as a negative control) were applied to the cells and a second recording was performed. The percent reduction in hERG current amplitude at each 2-HOBA concentration was calculated and used to calculate an IC50 value (concentration that produces 50% inhibition). Each compound concentration was tested on at least two cells, and each cell served as its own control.
+
+2.6 Plasma protein binding and red blood cell (RBC) distribution
+A series of studies was conducted at Sano Informed Prescribing, Inc. (Franklin, TN, USA) to determine plasma protein binding and red blood cell distribution of 2-HOBA. Plasma protein binding of 2-HOBA was measured by equilibrium dialysis using the HTD 96c Micro-Equilibrium Device (HT Dialysis, Gales Ferry, CT, USA). Rat (male Sprague-Dawley), rabbit (male New Zealand White), or human (pooled, mixed-sex) plasma was obtained from BioreclamationIVT (Westbury, NY, USA) and mixed with 2-HOBA at a final concentration of 1.0 or 10 µM and placed on one side of the membrane; 25 mM PBS (pH 7.4; Alfa Aesar, Ward Hill, MA, USA) was placed on the opposite side of the membrane. Warfarin (1.0 µM) and verapamil (1.0 µM) were used as controls in human plasma, and were treated identically to 2-HOBA. The plate was sealed and incubated at 37°C with gentle shaking. After 4 hours of incubation, aliquots from the plasma and buffer sides of each membrane were diluted with plasma or buffer, respectively, and extracted with acetonitrile containing 50 ng/mL carbamazepine (internal standard). After centrifugation (3,000g, 10 min), supernatants were collected and diluted with water in preparation for LC/MS/MS analysis. Three experiments were conducted for each 2-HOBA concentration in each species.
+
+The RBC distribution of 2-HOBA was determined in whole blood from male Sprague-Dawley rats, male New Zealand White rabbits, and humans (pooled) obtained in tubes containing EDTA as an anticoagulant (Bioreclamation IVT). 2-HOBA was added to aliquots of blood at a final concentration of 1.0 or 10 µM, and the samples were incubated at 37°C for 2 hours. One aliquot from each sample was diluted 1:1 with blank plasma. An additional aliquot from each sample was centrifuged at 1,200g for 10 min to isolate plasma, and an aliquot of the resulting plasma was diluted 1:1 with blank whole blood. Acetonitrile containing internal standard (50 ng/mL carbamazepine) was added to each sample to extract the matrices and all samples were centrifuged at 3,000g for 10 min. The supernatants were collected and diluted with water in preparation for LC/MS/MS analysis. Three experiments were conducted for each 2-HOBA concentration in each species.
+
+Plasma protein binding and RBC distribution samples (5 µL) were injected for analysis via HPLC coupled with positive electrospray ionization, tandem mass spectrometry (LC/MS/MS) using an LC/MS/MS system consisting of a Shimadzu LC-30 HPLC (Shimadzu, Kyoto, Japan) with a Phenomenex C18 column (2.1 × 50 mm, 1.7 µm, Torrance, CA) coupled to a Sciex 5500 QTrap mass spectrometer (Applied Biosystems, Foster City, CA, USA). The analytical conditions are provided in in Supplementary Table 3.
+
+Plasma protein binding was calculated for each well as follows: the unbound fraction of 2-HOBA (fu) = CPBS/Cplasma, where CPBS is the concentration of 2-HOBA on the PBS side of the membrane and Cplasma is the 2-HOBA concentration on the plasma side of the membrane. The RBC to plasma partition coefficient (KP) was calculated for each 2-HOBA concentration using the following equation: KP = [(Cblood/Cplasma) – (1 – H)] / H, where H is hematocrit, Cplasma is the 2-HOBA concentration in the plasma incubated samples and Cblood is the 2-HOBA concentration in the whole blood incubated samples. Hematocrit values for each species were obtained from previous literature (Davies and Morris, 1993).
+
+2.7 In vitro metabolism of 2-HOBA in hepatocytes
+Metabolite identification studies were performed in cryopreserved hepatocytes to determine the principle pathways of 2-HOBA metabolism. Briefly, 2-HOBA (25 µM) was incubated with cryopreserved hepatocytes isolated from rat (male Sprague-Dawley), rabbit (male New Zealand White), and human (pooled, mixed-sex) in Krebs-Henseleit Buffer (pH 7.4) at 37°C with gentle shaking. The reaction was terminated after 4 hours by adding 1 mL acetonitrile and the reaction mixture was centrifuged at 10,000 x g for 5 minutes. The supernatant was transferred to a glass culture tube, evaporated under nitrogen, and stored at −80°C until analysis. Dried samples were reconstituted in 3:97 acetonitrile:water and a 20-µL aliquot of each reconstituted sample was subjected to HPLC coupled with UV detection and electrospray ionization, tandem mass spectrometry (LC-UV/MS/MS). THE LC/MS/MS system consisted of a Shimadzu LC-30 HPLC with a Fortis C18 column (3.0 × 50 mm, 3 µm; Fortis Technologies, Neston, United Kingdom) coupled to a Sciex 5500 QTrap mass spectrometer (Applied Biosystems). The eluents from the HPLC column first passed through UV detection at 254 nm and 280 nm and were then introduced into the mass spectrometer via positive and negative electrospray ionization. The analytical conditions are provided in Supplementary Table Select MS/MS mass spectrometric transitions were used in the detection of 2-HOBA and its metabolites: 124.1➔107.1 (2-HOBA), 137.1➔93.1 (negative ionization, salicylic acid), and 268.1➔107.1, 268.1, 162.1 (glycoside conjugate of 2-HOBA).
+
+3. Results
+3.1 Cytotoxicity
+The MTS assay results are shown in Table 1. None of the controls or treatments reduced viability in cells from any of the donors (% formazan absorbance ≥ 94% relative to vehicle for all concentrations of 2-HOBA).
+
+3.2 Ames mutagenicity assessment
+3.2.1 Plate incorporation results
+The plate incorporation assay results are shown in Table 2. No changes in revertant colony counts were observed when comparing 2-HOBA treated plates with negative control plates in any of the strains tested; this was true both in the presence and absence of metabolic activation. The plate counts for all levels of 2-HOBA tested were similar to the negative control plate counts and were far below the two-fold threshold that would justify further analysis. Positive controls resulted in a significant (p &lt; 0.001) increase in revertant colonies compared with negative controls. No changes in the background lawn were observed in any of the 2-HOBA test plates.
+
+3.2.2 Pre-incubation results
+The pre-incubation assay results are shown in Table 3. No changes in revertant colony counts were observed in the treatment groups compared to the negative control group, either in the absence or presence of metabolic activation. The plate counts for all 2-HOBA levels were similar to the negative control plate counts and were far below the two-fold threshold that would justify further analysis. Positive controls induced a significant (p &lt; 0.001) increase in revertant colonies compared with negative controls. No changes in the background lawn were observed in any of the 2-HOBA test plates.
+
+3.3 CYP induction
+The results of the CYP1A2, CYP2B6, and CYP3A4 induction experiments in human hepatocytes are summarized in Figure 1 and reported as a fold-induction of mRNA for each CYP. There was no evidence of mRNA induction of any of the CYP enzymes examined in hepatocytes from any of the donors (i.e., no concentration-dependent &gt;2-fold increase in mRNA). Further, mRNA induction did not exceed 8.5% of the respective positive control for any isoform in any donor, which is well below the cut-off of 20% established by the FDA.
+
+3.4 hERG inhibition
+The hERG inhibition test results are shown in Figure 2. There was no inhibition of hERG with 0.1 µM 2-HOBA, but higher concentrations of 2-HOBA inhibited hERG current in a concentration-dependent manner (3.0 ± 0.5, 9.7 ± 1.8, and 29.1 ± 1.3% inhibition at 1, 10, and 100 µM, respectively). In comparison, vehicle exposure resulted in 4.6 ± 0.3% inhibition, and exposure to the positive control (quinidine) resulted in 80.3 ± 1.7% inhibition. Based upon these data, the IC50 for 2-HOBA is &gt; 100 µM.
+
+3.5 Plasma protein binding and RBC distribution
+The mean plasma protein binding of 2-HOBA (1 µM) was 7.9 ± 2.3% in human plasma and 24.0 ± 5.1% in rat plasma; at elevated 2-HOBA concentrations (10 µM), the mean protein binding was 14.0 ± 2.2% and 4.9 ± 2.9% in human and rat plasma, respectively (Table 4). Due to metabolic instability of 2-HOBA in rabbit plasma (vide infra), protein binding values were not calculated for rabbit plasma.
+
+The whole blood-to-plasma ratios and partition coefficient (Kp)for 2-HOBA in human and rat are displayed in Table 5. Similarly, due to the metabolic instability of 2-HOBA in rabbit blood and plasma, the blood-to-plasma ratio and Kp were not calculated for rabbit.
+
+3.6 In vitro metabolism of 2-HOBA in hepatocytes
+In vitro 2-HOBA metabolism was similar in rat, rabbit, and human cryopreserved hepatocytes. The principle metabolites observed were salicylic acid (M1) and the glycoside conjugate metabolite of 2-HOBA (M2, Figure 3).
+
+A summary of the positive and negative electrospray ionization fragmentation ions produced for 2-HOBA and its metabolites are provided in Table 6. The LC/MS/MS induced fragmentation of 2-HOBA produced a principle fragment ion at m/z 107, corresponding to a loss of ammonia (−17 Da; −NH3). A corresponding loss of water (−H2O; −18 Da) was also observed at m/z 106. The benzylium ion was also observed as an abundant ion at m/z 77.
+
+Metabolite M1, corresponding to salicylic acid, produced a negatively charged molecular ion, [M-H]-at m/z 137. The principle MS/MS fragment ion was detected at m/z 93, corresponding to a gas-phase decarboxylation reaction (−44 Da; −COOH). The loss of water from salicylic acid (−H2O; −18 Da) was also observed in the fragmentation of M1. The glycoside metabolite, M2, was observed as the protonated molecular ion, [M+H]+ at m/z 286. Consistent with a glycoside conjugate, the MS/MS fragmentation produced ions indicating multiple losses of water molecules from the parent conjugate; these ions were observed at m/z 268 (−H2O; −18 Da) and 250 (−H2O; −18 Da). Also consistent with a glycoside conjugate was the formation of the analogous aglycone (i.e., 2-HOBA) at m/z 124 and the corresponding pyranose fragment at m/z Confirmation of 2-HOBA as the analogous aglycone was based on the presence of the characteristic fragment ion at m/z 107 (−NH3 from 2-HOBA).
+
+The stability of 2-HOBA in rabbit whole blood and plasma was assessed (37°C) and found to be markedly lower than in human whole blood or plasma. 2-HOBA (1 µM) was undetectable within 2 hours of initiating the incubation in rabbit whole blood; importantly, there was a concurrent increase in salicylic acid. While some 2-HOBA metabolism was observed in human whole blood, there was no increase in salicylic acid. Similar results were obtained in rabbit vs. human plasma. Suspecting a role for semi-carbazide sensitive amine oxidase (SSAO) in the biotransformation of 2-HOBA, an additional incubation was performed in rabbit blood that had been fortified with semicarbazide (100 µm) (Buffoni et al., 1989). Constituent with an SSAO-mediated oxidation, the presence of semicarbazide prevented the degradation of 2-HOBA and subsequent formation of salicylic acid. These data support SSAO as a principal pathway of metabolism in rabbit blood (see Supplementary Figures 1 and 2).
+
+4. Discussion
+The oral bioavailability (Zagol-Ikapitte et al., 2010b) and beneficial effects of 2-HOBA administration in animal models of hypertension (Wu et al., 2016) and Alzheimer’s disease (Davies et al., 2011) have generated optimism for the use of 2-HOBA as a new dietary therapeutic. However, while long-term (10 month) administration of 2-HOBA did not affect body weight or survival in mice (Davies et al., 2011), a critical lack of formal preclinical safety and toxicity data has impeded the translation of 2-HOBA into clinical studies. The results of the in vitro tests presented here support the continued clinical development of 2-HOBA as a nutritional supplement.
+
+The results of the Ames mutagenicity assessment used to evaluate the potential mutagenicity of 2-HOBA support that 2-HOBA is not mutagenic, as no increases in revertant colonies were detected in any of the test strains or conditions (i.e., plate incorporation or preincubation with or without metabolic activation). However, it is important to note that while a positive Ames assay result is highly predictive of carcinogenicity in rodents (Mortelmans and Zeiger, 2000), because it is conducted with prokaryotic bacteria, the Ames assessment does not provide direct information on mutagenicity in rodents or other mammals.
+
+The CYP enzyme family accounts for ~75% of total drug metabolism (Guengerich, 2008). Drug deactivation or bioactivation by CYPs can alter drug activity, metabolism, and clearance (Food and Drug Administration, 2017). 2-HOBA did not cause a &gt;2-fold induction of CYP1A2 or CYP3A4 in hepatocytes from any donor, regardless of concentration, except at the 0.3 µM dosage in one donor. This 2.3 fold increase exceeded our predefined threshold (2-fold), but no dose-dependent response was observed and the percent induction was less than 5% of positive control induction level, suggesting the increase was likely not biologically relevant. The results of these experiments suggest that in vivo studies of CYP induction are not necessary and that 2-HOBA can be categorized as a non-inducer of CYP enzyme.
+
+The hERG gene encodes a potassium channel important for the delayed rectifier current (IKR) in cardiac muscle cells. Inhibition of hERG/IKR is associated with slower cardiac action potential repolarization (i.e. pronged QT interval), which may result in a potentially fatal ventricular tachyarrthythmia. While 2-HOBA exhibited a concentration-dependent increase in hERG inhibition, the calculated IC50 of &gt;100 µM represents a very low inhibitory effect unlikely to be of significance (Roche et al., 2002). The efficacious dose in humans is anticipated to be at least 10-fold lower based upon previous animal work.
+
+Plasma protein binding can influence compound distribution, including its distribution into tissues and across the blood-brain barrier. Generally, only unbound compounds are available for passive diffusion into tissues to exert a therapeutic target effect and typically only unbound compound can undergo clearance via metabolism or excretion. The observed high unbound fraction of 2-HOBA in human plasma indicates a low risk for plasma protein binding-mediated drug-drug interactions (Bohnert and Gan, 2013). It is also likely that the compound has a renal clearance mechanism; this may be passive or include a renal uptake/secretion mechanism (Levy, 1980). Plasma protein binding was similarly low in both rat and human plasma, supporting the appropriateness of the rat model for further study of pharmacokinetics and toxicity (Bohnert and Gan, 2013). Similarly, if a compound binds to RBCs, then the plasma compound level will not be representative of the true blood compartment level, which may result in inaccurate pharmacokinetic data. The whole blood to plasma ratio of 2-HOBA was ~1, indicating no preferential binding of 2-HOBA to erythrocytes and supporting the appropriateness of measuring 2-HOBA concentrations in plasma in future studies.
+
+Due to metabolic instability of 2-HOBA in rabbit blood, the RBC and plasma protein binding could not be calculated. In rabbit whole blood and plasma, more than 60% of the 2-HOBA was metabolized within 30 min, and nearly all the 2-HOBA was metabolized within 2 hours. It was suspected that 2-HOBA was metabolized to salicylic acid by a semicarbazide-sensitive amine oxidase. Semicarbazide-sensitive amine oxidases (SSAOs) are a diverse group of enzymes that convert amines into aldehydes. SSAO levels and activities vary dramatically between species and tissues, but they are prevalent and active in rabbit plasma (Boomsma et al., 2000; Buffoni et al., 1989; Matyus et al., 2004). Consistent with this hypothesis, the addition of semicarbazide to the incubation of 2-HOBA with rabbit blood markedly reduced the instability. Further investigation into the pharmacokinetics of 2-HOBA in vivo may be necessary to determine the effect of this rapid metabolism on efficacy or toxicity in rabbits. Importantly, this instability of 2-HOBA was not observed in humans or rats; this aligns with the comparatively low activity of SSAOs in human and rat plasma. Though humans and rats do express SSAOs in plasma and other tissues, the Vmax of SSAO in rabbit plasma is 30 to 400-fold greater than the Vmax in human or rat plasma, respectively (Boomsma et al., 2000).
+
+Hepatocytes were chosen over S9 or liver microsomes to study 2-HOBA biotransformation because hepatocytes have a cell membrane and express the full complement of enzymes necessary for both Phase I and Phase II metabolism. Metabolites formed from Phase I reactions have a greater likelihood of being chemically reactive or pharmacologically active (Food and Drug Administration, 2016). The current study identified salicylic acid and the glycoside conjugate of 2-HOBA as primary metabolites. Glucoside conjugation of phenolic compounds is well described as an excretion pathway involving in either urinary or bile excretion of these compounds (Gessner et al., 1973). Excretion of salicylic acid derived from ingestion of fruits, vegetables, and aspirin in human urine is also well characterized (Lawrence et al., 2003). Therefore, both identified primary metabolites of 2-HOBA and their excretion have been previously characterized.
+
+As large interspecies differences in drug metabolism can exist, compound metabolism should be assessed in multiple species prior to preclinical development species selection. In this study, metabolite formation was similar across rat, rabbit, and human. The primary metabolites observed in human hepatocytes were also present in rat and rabbit hepatocytes, albeit at lower abundance. These findings support the use or rat and/or rabbit in further preclinical safety evaluations; however, the rapid biotransformation of 2-HOBA in the rabbit should be considered during interpretation of the results.
+
+In conclusion, the results of these in vitro examinations of 2-HOBA do not indicate any compound safety concerns related to toxicity, mutagenicity, CYP induction, QT prolongation, plasma protein binding, or RBC distribution. The major metabolites of 2-HOBA, salicylic acid and a glycoside conjugate of 2-HOBA, have been identified and found to be similar in human, rat, and rabbit. Together, these findings support continued development of 2-HOBA as a nutritional supplement and provide important information for the design of further preclinical toxicity studies of 2-HOBA in animals and clinical trials in humans.
+
+Supplementary Material
+1  2  3  4  5  6  7  8  9  10  Acknowledgements:
+The study was supported by the National Institute on Aging of the National Institutes of Health under Award Number R44AG055184.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Abbreviations:
+γKAγ-ketoaldehyde
+
+2-AA2-aminoanthracene
+
+2-HOBA2-hydroxybenzylamine
+
+4-NOPD4-nitro-o-phenylenediamine
+
+CYPcytochrome p450
+
+hERGhuman ether-a-go-go
+
+HPLChigh-performance liquid chromatography
+
+Kpred blood cell to plasma partition coefficient
+
+LC/MS/MSliquid chromatography with tandem mass spectrometry
+
+MMSmethyl methanesulfonate
+
+RBCred blood cell
+
+ROreverse osmosis
+
+ROSreactive oxygen species
+
+Fig. 1. Fold-induction of CYP1A2, CYP2B6, and CYP3A4 mRNA expression in human hepatocytes. Veh, vehicle; +, positive control; −, negative control. Data are shown as the mean of 3 donors ± SE.
+
+Fig. 2. Inhibition of hERG current by increasing concentrations of 2-HOBA. Percent reduction was calculated as the steady-state current amplitude relative to the current amplitude prior to application of the test compound control). Data are mean ± SE, n=3–4/concentration.
+
+Fig. 3. HPLC elution profile for 2-HOBA (salicylamine) and metabolites M1 (salicylic acid) and M2 (glycoside conjugate of salicylamine) after incubation with rat, rabbit, and human
+
+Table 1. Formazan absorbance in hepatocytes after 72 hours of 2-HOBA treatment.
+
+Formazan absorbance (% of vehicle)	
+
+              
+            	
+Donor	Vehicle	0.3 µM 2-HOBA	3 µM 2-HOBA	30 µM 2-HOBA	
+
+              
+            	
+1	0.71 (100)	0.82 (117)	0.81 (115)	0.75 (107)	
+2	0.40 (100)	0.37 (94)	0.38 (96)	0.39 (100)	
+3	0.65 (100)	0.64 (99)	0.66 (102)	0.67 (104)	
+
+              
+            	
+
+              Mean
+              
+
+              SE
+            	0.58 (100)
+0.09	0.61 (103)
+0.13	0.62 (104)
+0.13	0.61 (103)
+0.11	
+Table 2. Plate counts using the plate incorporation methoda
+
+Bacterial Strain	
+	
+              
+            	
+Treatmentb	TA 1535	TA 1537	TA 98	TA 100	TA 102	
+
+              
+            	
+
+              In the presence of metabolic activation (+S9)
+            	
+
+              
+            	
+0 (NC)	9.7±0.6	7.7±0.6	20.7±0.6	107.3±3.2	306.7±6.1	
+0.05	9.3±1.5	6.3±0.6	20.7±1.2	106.3±1.5	302.7±11.4	
+0.15	9.0±1.0	6.3±1.5	21.0±3.0	104.7±8.1	296.7±27.2	
+0.05	10.7±0.6	6.3±0.6	20.7±1.2	96.3±5.1	323.3±61.2	
+1.5	10.3±1.5	6.0±1.0	21.3±1.5	106.7±6.1	293.3±24.2	
+5	10.3±1.5	6.3±1.5	22.0±2.0	101.3±4.2	282.7±19.0	
+PC	
+              150.0±12.5
+              
+                *
+              
+            	
+              133.3±8.1
+              
+                *
+              
+            	
+              741.3±63.8
+              
+                *
+              
+            	
+              1042.0±61.3
+              
+                *
+              
+            	
+              1716.7±134.6
+              
+                *
+              
+            	
+
+              
+            	
+
+              In the absence of metabolic activation (−S9)
+            	
+
+              
+            	
+0 (NC)	11.7±1.5	4.7±0.6	20.0±1.0	95.7±3.5	268.0±28.0	
+0.05	10.7±0.6	5.0±1.0	19.7±1.5	90.3±1.5	292.7±6.4	
+0.15	11.0±1.0	5.0±0.0	20.0±1.0	105.3±8.3	287.3±24.0	
+0.05	10.7±1.2	5.3±0.6	22.0±3.6	100.0±9.2	279.3±14.2	
+1.5	10.7±1.2	5.7±1.2	21.3±1.5	101.3±3.2	297.3±6.4	
+5	11.0±1.0	6.0±1.0	21.0±2.0	100.7±2.1	328.0±63.2	
+PC	
+              966.7±12.2
+              
+                *
+              
+            	
+              107.0±6.2
+              
+                *
+              
+            	
+              296.0±8.0
+              
+                *
+              
+            	
+              870.7±39.3
+              
+                *
+              
+            	
+              2510.7±123.6
+              
+                *
+              
+            	
+a Mean plate counts represent the mean number of revertant colonies of three replicate plates±SD.
+
+b Treatments were 0 (NC) Negative control, 0.05, 0.15, 0.5, 1.5, and 5.0 mg 2-hydroxybenzylamine acetate/plate. The positive control treatments (PC) used in the presence of metabolic activation (+S9) were: 2-aminoanthracene (0.0025 mg/plate for TA 1537, TA1535, TA98, TA100 and 0.01 mg/plate for TA 102). In the absence of metabolic activation (−S9) the positive control treatments were sodium azide (0.01 mg/plate for TA 1535 and TA 100), 4-nitro-o-phenylene-diamine (4-NOPD, 0.05 mg/plate for TA 1537 and 0.01 mg/plate for TA 98); and methyl methanesulphonate (4 µL/plate for TA 102).
+
+* p &lt; 0.001, t-test between the PC and 0 (NC).
+
+Table 3. Plate counts using the pre-incubation methoda
+
+Bacterial Strain	
+	
+              
+            	
+Treatmentb	TA 1535	TA 1537	TA 98	TA 100	TA 102	
+
+              
+            	
+
+              In the presence of metabolic activation (+S9)
+            	
+
+              
+            	
+0 (NC)	12.0±1.0	8.0±1.0	21.3±1.5	108.0±14.0	253.3±10.1	
+0.05	12.0±2.0	6.7±0.6	25.7±3.1	114.7±12.9	280.0±6.0	
+0.15	12.0±1.0	7.3±1.2	23.7±2.5	120.7±7.6	271.3±11.0	
+0.5	14.3±2.1	8.0±1.0	24.3±2.1	119.3±7.6	256.0±7.2	
+1.5	12.3±0.6	7.0±1.0	25.7±3.1	112.0±7.2	283.3±16.2	
+5	11.7±2.1	6.3±1.5	22.3±3.2	114.0±12.5	256.7±8.1	
+PC	
+              132.7±9.9
+              
+                *
+              
+            	
+              125.0±5.0
+              
+                *
+              
+            	
+              958.0±83.6
+              
+                *
+              
+            	
+              1118.0±42.6
+              
+                *
+              
+            	
+              1395.3±153.1
+              
+                *
+              
+            	
+
+              
+            	
+
+              In the absence of metabolic activation (−S9)
+            	
+
+              
+            	
+0 (NC)	10.7±0.6	5.7±0.6	17.0±2.0	99.0±7.9	234.7±8.1	
+0.05	12.7±1.5	6.7±0.6	20.0±1.0	98.7±2.3	241.3±12.1	
+0.15	11.7±1.5	6.0±1.0	16.7±1.5	96.7±6.1	232.7±3.1	
+0.05	12.0±1.0	7.0±0.0	20.7±2.1	103.7±1.5	236.0±15.6	
+1.5	11.3±1.5	6.0±1.0	22.3±3.2	94.7±4.2	250.0±12.5	
+5	12.0±1.7	6.3±1.2	23.0±1.0	105.3±6.1	250.7±14.0	
+PC	
+              974.7±41.1
+              
+                *
+              
+            	
+              120.0±12.0
+              
+                *
+              
+            	
+              674.0±34.7
+              
+                *
+              
+            	
+              1181.3±50.6
+              
+                *
+              
+            	
+              1238.7±126.0
+              
+                *
+              
+            	
+a Mean plate counts represent the mean number of revertant colonies of three replicate plates±SD.
+
+b Treatments were 0 (NC) Negative control, 0.05, 0.15, 0.5, 1.5, and 5.0 mg 2-hydroxybenzylamine acetate/plate. The positive control treatments (PC) used in the presence of metabolic activation (+S9) were: 2-aminoanthracene (0.0025 mg/plate for TA 1537, TA1535, TA98, TA100 and 0.01 mg/plate for TA 102). In the absence of metabolic activation (−S9) the positive control treatments were sodium azide (0.01 mg/plate for TA 1535 and TA 100), 4-nitro-o-phenylene-diamine (4-NOPD, 0.05 mg/plate for TA 1537 and 0.01 mg/plate for TA 98); and methyl methanesulphonate (4 µL/plate for TA 102).
+
+* p &lt; 0.001, t-test between the PC and 0 (NC).
+
+Table 4. Plasma protein binding of 2-HOBA.a
+
+Compound	Species	Concentration (µM)	fb	fu	
+2-HOBA	Human	1
+10	0.079 ± 0.023
+0.140 ± 0.022	0.921 ± 0.024
+0.860 ± 0.022	
+Rat	1
+10	0.240 ± 0.051
+0.049 ± 0.029	0.760 ± 0.051
+0.951 ± 0.029	
+Warfarin	Human	1	0.965 ± 0.003	0.035 ± 0.003	
+Verapamil	Human	1	0.907 ± 0.007	0.093 ± 0.007	
+a Data are mean ± SE, n=3/concentration. Plasma protein binding values for warfarin and verapamil were measured as positive controls.
+
+Table 5. Red blood cell distribution of 2-HOBA.a
+
+Species	Concentration (µM)	Cb/Cp	Kp	
+
+              
+            	
+Human	1
+10	1.12 ± 0.03
+1.04 ± 0.02	1.26 ± 0.01
+1.08 ± 0.04	
+
+              
+            	
+Rat	1
+10	0.87 ± 0.05
+0.90 ± 0.05	0.72 ± 0.10
+0.78 ± 0.11	
+a Data are mean ± SE, n=3/concentration. Cb/Cp: Whole blood/plasma ratio; Kp: Red blood cell/plasma ratio or partition coefficient.
+
+Table 6. Fragmentation of 2-HOBA (salicylamine) and metabolites.
+
+Compound
+Number	Compound
+Identification	Structure	[M+H]+	Fragment Ions	
+
+              
+            	
+Parent	2-HOBA	
+              
+            	124	107, 106, 77	
+M1	Salicylic acid	
+              
+            	137
+[M-H]−	119, 101, 93, 79	
+M2	Glycoside
+conjugate of 2-
+HOBA	
+              
+            	286	268, 250, 180, 162,
+144, 124, 107, 77	
+Highlights:
+There is no evidence to suggest 2-hydroxybenzylamine is cytotoxic or mutagenic.
+
+2-hydroxybenzylamine does not induce CYP enzyme mRNA expression.
+
+Based on hERG inhibition, 2-hydroxybenzylamine has a low risk of QT prolongation.
+
+2-hydroxybenzylamine has low binding to plasma proteins and red blood cells.
+
+2-hydroxybenzylamine metabolites identified were salicylic acid and the glycoside conjugate of 2-hydroxybenzylamine.
+
+
+   References
+Bernoud-Hubac N , Alam DA , Lefils J , Davies SS , Amarnath V , Guichardant M , Roberts LJ , Lagarde M , 2009 
+Low concentrations of reactive gamma-ketoaldehydes prime thromboxane-dependent human platelet aggregation via p38-MAPK activation. 
+Biochim. Biophys. Acta 
+1791 , 307 –313 .19233311 
+Bohnert T , Gan LS , 2013 
+Plasma protein binding: from discovery to development. 
+J Pharm Sci 
+102 , 2953 –2994 .23798314 
+Boomsma F , van Dijk J , Bhaggoe UM , Bouhuizen AM , van den Meiracker AH , 2000 
+Variation in semicarbazide-sensitive amine oxidase activity in plasma and tissues of mammals. 
+Comp Biochem Physiol C Toxicol Pharmacol 
+126 , 69 –78 .11048667 
+Brame CJ , Salomon RG , Morrow JD , Roberts LJ , 1999 
+Identification of extremely reactive gamma-ketoaldehydes (isolevuglandins) as products of the isoprostane pathway and characterization of their lysyl protein adducts. 
+J. Biol. Chem 
+274 , 13139 –13146 .10224068 
+Buffoni F , Banchelli G , Bertocci B , Raimondi L , 1989 
+Effect of pyridoxamine on semicarbazide-sensitive amine oxidase activity of rabbit lung and heart. 
+J Pharm Pharmacol 
+41 , 469 –473 .2570852 
+Davies B , Morris T , 1993 
+Physiological parameters in laboratory animals and humans. 
+Pharm Res 
+10 , 1093 –1095 .8378254 
+Davies SS , Amarnath V , Montine KS , Bernoud-Hubac N , Boutaud O , Montine TJ , Roberts LJ , 2002 
+Effects of reactive gamma-ketoaldehydes formed by the isoprostane pathway (isoketals) and cyclooxygenase pathway (levuglandins) on proteasome function. 
+FASEB J 
+16 , 715 –717 .11978738 
+Davies SS , Bodine C , Matafonova E , Pantazides BG , Bernoud-Hubac N , Harrison FE , Olson SJ , Montine TJ , Amarnath V , Roberts LJ , 2011 
+Treatment with a gamma-ketoaldehyde scavenger prevents working memory deficits in hApoE4 mice. 
+J. Alzheimers. Dis 
+27 , 49 –59 .21709376 
+Davies SS , Brantley EJ , Voziyan PA , Amarnath V , Zagol-Ikapitte I , Boutaud O , Hudson BG , Oates JA , Roberts LJ , 2006 
+Pyridoxamine analogues scavenge lipid-derived gamma-ketoaldehydes and protect against H2O2-mediated cytotoxicity. 
+Biochemistry 
+45 , 15756 –15767 .17176098 
+Food and Drug Administration , 2012 
+Guidance for industry: Drug interaction studies-study design, data analysis, implications for dosing, and labeling recommendations.
+Center for Drug Evaluation and Research (CDER) , Rockville, MD .
+Food and Drug Administration , 2016 
+Guidence for industry: Safety testing of drug metabolites.
+Center for Drug Evaluation and Research (CDER) , Rockville, MD .
+Food and Drug Administration , 2017 
+Guidence for industry: In vitro metabolism-and transporter-mediated drug-drug interaction studies.
+Center for Drug Evaluation and Research (CDER) , Rockville, MD .
+Gessner T , Jacknowitz A , Vollmer CA , 1973 
+Studies of mammalian glucoside conjugation. 
+Biochem J 
+132 , 249 –258 .4725039 
+Guengerich FP , 2008 
+Cytochrome p450 and chemical toxicology. 
+Chem Res Toxicol 
+21 , 70 –83 .18052394 
+Hamada C , Wada T , Sakamoto Y , 1994 
+Statistical characterization of negative control data in the Ames Salmonella/microsome test. 
+Environ. Health Perspect 
+102 
+Suppl 1 , 115 –119 .
+Iyer RS , Ghosh S , Salomon RG , 1989 
+Levuglandin E2 crosslinks proteins. 
+Prostaglandins 
+37 , 471 –480 .2762557 
+Kirabo A , Fontana V , de Faria AP , Loperena R , Galindo CL , Wu J , Bikineyeva AT , Dikalov S , Xiao L , Chen W , Saleh MA , Trott DW , Itani HA , Vinh A , Amarnath V , Amarnath K , Guzik TJ , Bernstein KE , Shen XZ , Shyr Y , Chen SC , Mernaugh RL , Laffer CL , Elijovich F , Davies SS , Moreno H , Madhur MS , Roberts J , Harrison DG , 2014 
+DC isoketal-modified proteins activate T cells and promote hypertension. 
+J. Clin Invest 
+124 , 4642 –4656 .25244096 
+Koyama M , Obata Y , Sakamura S , 1971 
+Identification of hydroxybenzylamines in buckwheat seeds. 
+Agri. Biol. Chem 
+35 , 1870 –1879 .
+Lawrence JR , Peter R , Baxter GJ , Robson J , Graham AB , Paterson JR , 2003 
+Urinary excretion of salicyluric and salicylic acids by non-vegetarians, vegetarians, and patients taking low dose aspirin. 
+J Clin Pathol 
+56 , 651 –653 .12944546 
+Levy G , 1980 
+Effect of plasma protein binding on renal clearance of drugs. 
+J Pharm Sci 
+69 , 482 –483 .7373556 
+Matyus P , Dajka-Halasz B , Foldi A , Haider N , Barlocco D , Magyar K , 2004 
+Semicarbazide-sensitive amine oxidase: current status and perspectives. 
+Curr Med Chem 
+11 , 1285 –1298 .15134520 
+Morrow JD , Hill KE , Burk RF , Nammour TM , Badr KF , Roberts LJ , 1990 
+A series of prostaglandin F2-like compounds are produced in vivo in humans by a non-cyclooxygenase, free radical-catalyzed mechanism. 
+Proc. Natl. Acad. Sci. U. S. A 
+87 , 9383 –9387 .2123555 
+Mortelmans K , Zeiger E , 2000 
+The Ames Salmonella/microsome mutagenicity assay. 
+Mutat Res 
+455 , 29 –60 .11113466 
+Murthi KK , Friedman LR , Oleinick NL , Salomon RG , 1993 
+Formation of DNA-protein cross-links in mammalian cells by levuglandin E2. 
+Biochemistry 
+32 , 4090 –4097 .8471616 
+Nguyen TT , Caito SW , Zackert WE , West JD , Zhu S , Aschner M , Fessel JP , Roberts LJ , 2nd , 2016 
+Scavengers of reactive gamma-ketoaldehydes extend Caenorhabditis elegans lifespan and healthspan through protein-level interactions with SIR-2.1 and 
+ETS-7. Aging (Albany NY) 
+8 , 1759 –1780 .27514077 
+OECD , 1997 
+Section 4, No. 471 Bacterial Reverse Mutation Test, Guidelines for Testing Chemicals 
+Roche O , Trube G , Zuegge J , Pflimlin P , Alanine A , Schneider G , 2002 
+A virtual screening method for prediction of the HERG potassium channel liability of compound libraries. 
+Chembiochem 
+3 , 455 –459 .12007180 
+Roychowdhury S , McMullen MR , Pritchard MT , Li W , Salomon RG , Nagy LE , 2009 
+Formation of gamma-ketoaldehyde-protein adducts during ethanol-induced liver injury in mice. 
+Free Radic. Biol. Med 
+47 , 1526 –1538 .19616618 
+Salomon RG , Miller DB , 1985 
+Levuglandins: isolation, characterization, and total synthesis of new secoprostanoid products from prostaglandin endoperoxides. 
+Adv. Prostaglandin Thromboxane Leukot. Res 
+15 , 323 –326 .2936114 
+Sullivan CB , Matafonova E , Roberts LJ , Amarnath V , Davies SS , 2010 
+Isoketals form cytotoxic phosphatidylethanolamine adducts in cells. 
+J. Lipid Res 
+51 , 999 –1009 .19965577 
+Wu J , Saleh MA , Kirabo A , Itani HA , Montaniel KR , Xiao L , Chen W , Mernaugh RL , Cai H , Bernstein KE , Goronzy JJ , Weyand CM , Curci JA , Barbaro NR , Moreno H , Davies SS , Roberts LJ , Madhur MS , Harrison DG , 2016 
+Immune activation caused by vascular oxidation promotes fibrosis and hypertension. 
+J. Clin Invest 
+126 , 50 –67 .26595812 
+Zagol-Ikapitte I , Amarnath V , Bala M , Roberts LJ , Oates JA , Boutaud O , 2010a 
+Characterization of scavengers of gamma-ketoaldehydes that do not inhibit prostaglandin biosynthesis. 
+Chem. Res. Toxicol 
+23 , 240 –250 .20041722 
+Zagol-Ikapitte I , Masterson TS , Amarnath V , Montine TJ , Andreasson KI , Boutaud O , Oates JA , 2005 
+Prostaglandin H(2)-derived adducts of proteins correlate with Alzheimer’s disease severity. 
+J Neurochem 
+94 , 1140 –1145 .15992375 
+Zagol-Ikapitte IA , Matafonova E , Amarnath V , Bodine CL , Boutaud O , Tirona RG , Oates JA , Roberts LJ , Davies SS , 2010b 
+Determination of the Pharmacokinetics and Oral Bioavailability of Salicylamine, a Potent gamma-Ketoaldehyde Scavenger, by LC/MS/MS. 
+Pharmaceutics 
+2 , 18 –29 .
+

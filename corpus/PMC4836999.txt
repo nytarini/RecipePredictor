@@ -1,0 +1,468 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   2985091R3966HeadacheHeadacheHeadache0017-87481526-461027016121483699910.1111/head.12792NIHMS760358ArticleSevere headache or migraine history is inversely correlated with dietary sodium intake: NHANES 1999–2004 Pogoda Janice M. PhD1Gross Noah B. PhD2Arakaki Xianghong MD, PhD2Fonteh Alfred N. PhD2Cowan Robert P. MD3Harrington Michael G. MB, ChB, FRCP2*1 Keck School of Medicine of the University of Southern California, Los Angeles, CA 900892 Molecular Neurology Program, Huntington Medical Research Institutes, 99 North El Molino Avenue, Pasadena, CA 911013 Dept. of Neurology, Stanford University School of Medicine, Stanford, CA 94305* Corresponding author (MGH); mghworks@hmri.org, Molecular Neurology Program, Huntington Medical Research Institutes, 99 North El Molino Avenue, Pasadena, CA 91101. Phone office: 626 795 4343; mobile 626 533 169218 2 2016 26 3 2016 4 2016 01 4 2017 56 4 688 698 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objective
+We investigated whether dietary sodium intake from respondents of a national cross-sectional nutritional study differed by history of migraine or severe headaches.
+
+Background
+Several lines of evidence support a disruption of sodium homeostasis in migraine.
+
+Design
+Our analysis population was 8,819 adults in the 1999–2004 National Health and Nutrition Examination Survey (NHANES) with reliable data on diet and headache history. We classified respondents who reported a history of migraine or severe headaches as having probable history of migraine. To reduce the diagnostic conflict from medication overuse headache, we excluded respondents who reported taking analgesic medications. Dietary sodium intake was measured using validated estimates of self-reported total grams of daily sodium consumption and was analyzed as the residual value from the linear regression of total grams of sodium on total calories. Multivariable logistic regression that accounted for the stratified, multistage probability cluster sampling design of NHANES was used to analyze the relationship between migraine and dietary sodium.
+
+Results
+Odds of probable migraine history decreased with increasing dietary sodium intake (odds ratio = 0.93, 95% confidence interval = 0.87, 1.00, p = 0.0455). This relationship was maintained after adjusting for age, sex, and body mass index with slightly reduced significance (p = 0.0505). In women, this inverse relationship was limited to those with lower body mass index (p = 0.007), while in men the relationship did not differ by body mass index. We likely excluded some migraineurs by omitting frequent analgesic users, however a sensitivity analysis suggested little effect from this exclusion.
+
+Conclusions
+This study is the first evidence of an inverse relationship between migraine and dietary sodium intake. These results are consistent with altered sodium homeostasis in migraine and our hypothesis that dietary sodium may affect brain extracellular fluid sodium concentrations and neuronal excitability.
+
+Dietary sodiumanalgesic medicationbody mass index
+   Introduction
+Migraine is the most common neurological disorder, affecting 18% of females and 6% of males, with prevalence peaking at age 30 – 40 years, but its pathophysiology is not fully understood1. This gap in knowledge is especially true in regard to mechanisms for the increased sensory perception for light, sound, and motion in migraine.
+
+Of the ionic constituents that directly participate in neuronal excitability, evidence is accumulating that sodium homeostasis plays a central role in migraine from both human and animal studies: cerebrospinal fluid (CSF) sodium (but not calcium, magnesium, or potassium) increases during migraine in the absence of any change of sodium in blood plasma2; the diurnal rhythm of CSF sodium is characterized by peaks in early morning and late afternoon3, corresponding to the most frequent onset times of episodic migraine4–8; intracranial sodium increases in a rat migraine model of nitroglycerin (NTG)-triggered central sensitization (CS)9; and computer-generated simulation and electrophysiology studies indicate higher extracellular sodium contributes to neuronal hyperexcitability9. An especially compelling reason to explore dietary sodium is the evidence that higher extracellular sodium has been shown to increase the electrical activity of giant squid axons10, an effect that we replicated in primary neuronal cultures11. These results collectively point to a sodium disturbance in migraine.
+
+Studies have shown that higher dietary sodium increases ventricular CSF sodium concentration in rats12, but sensory evaluation was not reported in these experiments. Despite the knowledge that human choroid plexus has an almost identical distribution pattern of water channels and sodium transporters as in the rat13, we are not aware of prospective human studies focused on the relationship between dietary sodium intake and sodium dysregulation in migraine. The regulation of sodium throughout the body depends on the requirements of different tissues, ranging from the kidneys, skin, and salivary glands to the choroid plexus, but the source of sodium results as a redistribution from elsewhere in the body or from dietary sodium. Since sodium has profound effects on neuronal activity, we hypothesized that there would be an association between migraine status (a binary variable) and dietary sodium and used the NHANES database to investigate this possible relationship. We also explored whether an association between migraine status and dietary sodium would vary based on sex and/or body mass index (BMI).
+
+METHODS
+Study Population
+NHANES is an ongoing survey conducted by the National Center for Health Statistics at the Centers for Disease Control and Prevention (CDC), which collects data on the health and nutritional status of U.S. adults and children. Detailed information on survey design and methodology is available at http://www.cdc.gov/nchs/nhanes.htm14, 15. NHANES includes a nationally representative sample of approximately 5,000 subjects per year. The interview component of NHANES ascertains information on demographic, socioeconomic, and health-related factors and includes a 24-hour dietary recall assessment. We limited our analysis to adults (ages 20 years and older) who participated in the dietary assessment, whose dietary data were deemed reliable (per the NHANES definition), and who did not take analgesic medications so that respondents who possibly suffered from analgesic overuse headache would be excluded.
+
+Beginning in 1999, NHANES data have been released in two-year cycles. Although data are available from 1971 through the present, our analysis includes only the 1999–2004 cycles due to availability of variables that were of interest to our investigation. The CDC Institutional Review Board approved NHANES and all participants provided written informed consent. The Huntington Medical Research Institute Institutional Review Board granted exemption from local review under 45 CFR 46.101(b)(4).
+
+Headache Classification
+Data on migraine status were available in the Miscellaneous Pain section of the NHANES interview. We categorized respondents who answered “yes” to the survey question: “During the past 3 months, did you have severe headaches or migraines?” as probable migraineurs. These self-reports are without the additional parameters necessary for the IHC classification of migraine16, and alternative diagnoses such as tension-type or cluster headaches may be erroneously grouped as migraine. Nevertheless, it is reasonable to assume most of these respondents had migraine since it is the most common diagnosis for these complaints, an assumption also made by other expert researchers in this field17. Because of this limitation, we excluded respondents who may have had severe headaches due to medication overuse (“analgesic users”).
+
+Dietary Sodium
+Total grams of daily dietary sodium was an NHANES-derived variable from the Total Nutrient Intakes File, produced from respondents’ reporting of individual foods (including drinks) they consumed during the midnight-to-midnight 24-hour period prior to the in-person dietary interview. In the 2003–2004 NHANES cycle, a second dietary interview was conducted 3 to 10 days later; to maintain consistency with the 1999–2002 data, we used data from only the first interview for 2003–2004. Coding of interview data and conversion to total nutrient intake were done by NHANES using the University of Texas Food Intake Analysis System (FIAS)18 along with the USDA 1994–98 Survey Nutrient Database in NHANES cycle 1999–200019, FIAS in 2001, the USDA’s Survey Net in 200220, and the USDA’s Food and Nutrient Database for Dietary Studies in NHANES cycle 2003–200421. Final processing of dietary data by NHANES included modifying sodium content for foods for which respondents indicated that they did not use the usual amount of salt in preparation.
+
+Analgesics
+Two sections of the NHANES interview were used to determine use of analgesic medications: Analgesic Medications, which included a question on whether or not the respondent had ever taken over-the-counter or prescription pain medications every day for as long as a month (chronic); and Prescription Medications, which included questions on whether the respondent had taken any prescription medications during the past month and, if so, which medications they reported taking. Prescription medications reported by respondents were categorized by NHANES using the Multum Lexicon Therapeutic Classification Scheme22. In this scheme, medications are classified by 3 nested levels of therapeutic category, with the first level being the most broad. Among medications with first-level classification “central nervous system agents,” analgesics were selected as those classified as “analgesics” according to the second-level category name; these included third-level classifications of miscellaneous analgesics, narcotic analgesics, non-steroidal anti-inflammatory agents, salicylates, analgesic combinations, narcotic analgesic combinations, antimigraine agents, and COX-2 inhibitors. Analgesic users (excluded from our analysis) were defined as respondents who were in either category of analgesic use (chronic or “in the last month”). This definition did not exclude migraineurs who did not treat their migraines at all; i.e., migraineurs who used over-the-counter medications were included, as were migraineurs who used prescription medications to treat but not in the most recent month.
+
+Statistical Analysis
+The primary objective of the analysis was to test for an association between dietary sodium intake and migraine status (a binary variable). Secondary objectives were to explore the sodium-migraine relationship within subgroups defined by sex and body mass index (BMI) and to estimate the probability of reporting history of migraine as a function of absolute dietary sodium intake.
+
+Analyses were done using SAS procedures SURVEYFREQ, SURVEYREG and SURVEYLOGISTIC (SAS v9.2, SAS Institute, Cary, NC) to account for the stratified, multistage probability cluster sampling design of NHANES. The NHANES stratification variable (SDMVSTRA) and Primary Sampling Unit (SDMVPSU) were used as the strata and sampling unit variables, respectively. NHANES provides sampling weights to be used in analyses that account for oversampling of certain subgroups, differences between the sample and the population due to non-response, and population sizes; i.e., the weights allow each NHANES respondent to represent multiple people from the population from which they were sampled. NHANES provides sampling weights to be used specifically for dietary analyses which also account for the fact that not all participants completed the dietary interview and that different days of the week were represented in the 24-hour periods for which dietary intake was assessed. In general the NHANES weights are calculated for 2-year intervals, but a 4-year weight is available for the 1999–2002 time period. A 2-year weight is smaller than a 4-year weight because less of the population is included in a sample collected over 2 years compared to a sample collected over 4 years (so each respondent in a 2-year sample has to represent more people in the population compared to a 4-year sample). Because we combined data from three 2-year sampling cycles (which included the 1999–2002 period), per NHANES guidelines we derived a 6-year weight equal to 2/3 of the 1999–2002 weight for respondents sampled during 1999–2002 or 1/3 of the 2003–2004 weight for respondents sampled during 2003–2004. This is possible because the 2003–2004 2-year weights are comparable to the 1999–2002 4-year weights since both sets of weights were based on 2000 Census counts.21
+
+Total grams of dietary sodium for each respondent was expressed as the respondent’s residual value from the linear regression of total grams of sodium on total calories; i.e., the difference between the respondent’s actual grams of dietary sodium and that predicted by his or her total caloric intake. This approach isolates the effect of grams of dietary sodium from factors closely associated with total caloric intake that may be related to migraine (e.g., body size, metabolic efficiency) without directly modeling total caloric intake, which is highly correlated with total sodium intake23. Residuals were analyzed both as continuous and categorical variables, with categories based on quartiles of the distribution of residuals.
+
+Multivariable logistic regression was used to estimate odds ratios (ORs) and 95% confidence intervals (CIs) in the analysis of the association between dietary sodium (the predictor) and migraine status (the outcome). Trend tests were done by analyzing sodium residuals as a continuous variable. Age, sex, and BMI were included as covariates as these are well-known to be related to both dietary intake and migraine. An analysis stratified by sex with age and BMI as covariates was also performed. Interactions were tested between the predictor in its original form and each covariate in their original forms. For stratified analyses, BMI was dichotomized at the median reported value within sex. Correlations were assessed for each pair of independent variables to check for collinearity. A sensitivity analysis that included analgesic medication users was done to evaluate the effect of omitting these respondents. A second sensitivity analysis was done to compare results between the two dietary interviews done on separate days among respondents from the 2003–2004 NHANES cycle. Subgroup analyses were accomplished by using the DOMAIN statement in the SAS procedures SURVEYFREQ, SURVEYREG, and SURVEYLOGISTIC. Only respondents for whom all analysis variables were non-missing were included. All statistical tests were two-sided with 0.05 significance levels.
+
+RESULTS
+Characteristics of the study population are shown in Table 1. Of the 15,332 adults who participated in the NHANES 1999–2004 cycles, 13,424 (88%) had reliable data from the 24-hour dietary assessment, and 13,033 of these (97%) had non-missing dietary total grams of sodium and migraine status. Given the relatively low rate of unreliable and/or missing data, per the NHANES guidelines24, we deemed it unnecessary to account for missing data in the analysis, i.e., through imputation or additional weighting. The number of respondents who were not analgesic users was 8,819 (68%); of these, 4,551 (52%) were women. Of the 4,214 analgesic users, 3,098 were because of chronic use (2,383 of 10,346 (23%) non-migraineurs, 715 of 2,687 (27%) migraineurs); i.e., they took analgesics every day for at least a month at some point in their life. The remaining 1,116 exclusions were due to prescription analgesic use during the most recent month (780 of 10,346 (8%) non-migraineurs, 336 of 2,687 (13%) migraineurs). A flow diagram describes the participants:
+
+
+        
+      
+
+Results from both crude and covariate-adjusted analyses of the relationship between dietary sodium and migraine status are shown in Table 2. Compared to respondents with the lowest dietary sodium residuals, there was a significant trend of decreasing odds of migraine history with increasing levels of dietary sodium residuals (OR = 0.93, 95% CI = 0.87, 1.00, p = 0.0455); this relationship remained after covariate adjustment (OR = 0.93, 95% CI = 0.87, 1.00, p = 0.0503). Including analgesic users in the analysis had little effect (OR = 0.95, 95% CI = 0.89, 1.01, p = 0.08), and results from the two separate days of dietary interviews among respondents from the NHANES 2003–2004 cycle were comparable (Day 1: OR = 0.88, 95% CI = 0.78, 0.99, p = 0.04; Day 2: OR = 0.90, 95% CI = 0.81, 1.01, p = 0.08).
+
+We designed our analysis to study those not taking analgesics to avoid the confounding effect of medications; when we included analgesic users in a post-hoc study, a sensitivity analysis suggested little effect from this exclusion.
+
+To investigate the effect of sexual dimorphism, we analyzed the relationship between dietary sodium and migraine for men and women separately and observed the same inverse association by sex as was observed for both sexes combined (p for interaction = 0.99, Table 3); however, the trend was significant only for women (OR = 0.93, 95% CI = 0.86, 1.00, p = 0.049). In women but not men, BMI was a significant effect modifier of the sodium/migraine relationship (p = 0.025); results by BMI for both sexes are shown in Table 4. In women, there was a significant effect of decreasing odds of migraine history with increasing dietary sodium residuals in respondents with lower BMI (OR = 0.87, 95% CI = 0.78, 0.96, p = 0.007). In women with higher BMI, there was no relationship between dietary sodium and migraine history.
+
+DISCUSSION
+Our analysis of nutritional assessment data from NHANES 1999–2004 provides the first evidence to suggest an inverse relationship between migraine and dietary sodium intake levels independent of age, sex, and BMI; in women, this observation was limited to those with lower BMI. A comprehensive literature exists that describes the impact that diet can have on migraine occurrence25, however, few studies have attempted to assess the direct relationship between dietary sodium intake patterns and migraine. The NHANES 1999–2004 analysis by Evans et al., limited to women, reported that sodium dietary intake was descriptively (but not significantly) lower in migraineurs compared to non-migraineurs, and in women of normal weight the sodium component of dietary quality indicated less sodium intake in migraineurs compared to non-migraineurs (p=0.04 without adjustment for multiple comparisons)17. Thus, their observations are consistent with our analysis of women with lower BMI. We analyzed the NHANES 1999–2004 data from a strategically different approach; for example, we included men and women of all ages versus women aged 20–50 years, and we analyzed sodium residuals rather than a transformed version of the original sodium variable. This limits a direct comparison between the two studies but, alternatively, lends support to our findings since the two different approaches led to similar conclusions regarding sodium and migraine in women.
+
+It is well-known that higher dietary sodium has been associated with negative outcomes in other fields of medicine and is considered a major health problem worldwide26, contributing to hypertension and its consequences of stroke and cardiac and renal disease27. Hypertension and hypotension, as well as obesity, are comorbid with migraine28, 29, and the cardiovascular risk profile is higher in migraineurs30, 31. Sodium intake is also recognized as a sexually dimorphic behavior, controlled by perinatal and adult androgen in rats32, and includes greater intake by females during acute sodium depletion33. From these two established correlations for dietary sodium, we expected to find: 1) A higher sodium intake in migraineurs to match their increased cardiovascular risk, and 2) A sexually dimorphic relationship.
+
+We found a migraine relationship with dietary sodium and it had sexual dimorphic influences, but the direction of sodium intake lower in migraineurs. This finding was unexpected for several reasons. First, the inverse relationship between migraine and dietary sodium intake in women was restricted to those with lower BMI, whereas the relationship between hypertension when sodium sensitivity has been reported to be limited to those with higher BMI34. Second, we had previously reported higher CSF sodium during migraine2 and Kawano et al. found higher dietary sodium increases human CSF sodium independent of salt sensitivity/insensitivity35; thus it was a surprise that migraineurs would report less dietary sodium intake. Third, a post-hoc analysis of dietary intervention study of “low,” “medium,” and “high” sodium intake reported a lower risk of headache on a “low” sodium diet36. However, the authors suspected that most of the headaches were tension type. Further, the controlled “high” sodium intake in the trial corresponded to the average American Intake, whereas the NHANES database used for our analysis was representative of the population distribution of dietary sodium and thus included much higher levels of exposure. Extensive studies on the regulation of dietary sodium intake based on salt appetite37, 38 demonstrate the limited understanding of this behavior, and further study is necessary to explain these apparent paradoxes.
+
+We previously proposed that brain sodium homeostasis is altered in migraine39, largely mediated by disturbance of the Na,K,ATPase, but many other mechanisms have been invoked for migraine. A compelling question is whether disruption of a common activation pathway or component can cause migraine. Candidate pathways or components include: cortical spreading depression40–42; neuropeptides43; sterile meningeal neuroinflammation with triggering of dural mast cells44–46; central excitatory/inhibitory homeostasis (glutamate/gamma-aminobutyric acid)47, 48; cortical neuromodulation (serotoninergic, noradrenergic, cholinergic, or dopaminergic)48–51; or channelopathy50, 52. It will be important to identify if sodium dysregulation is the underlying mechanism for these other pathways and/or is a common mechanism for migraine.
+
+It is noteworthy that low or high blood pressures are known comorbidities of migraine28, and that altered sodium homeostasis and the endogenous Na,K,ATPase inhibitor, ouabain, have been identified in the regulation of blood pressure29 and depressive disorders53. We predict that regulators that have already been found for salt-sensitive hypertension and depression disorders53, such as endogenous ouabain-like compounds29, 54, are worthy of study as modulators of the dietary sodium/migraine relationship.
+
+Our analysis reported here adds support for the involvement of sodium dysregulation in migraine but is limited due to the retrospective, self-reported, cross-sectional nature of NHANES data. This type of data cannot demonstrate cause and effect; i.e., one explanation for our observation of lower sodium intake among migraineurs is that respondents who suffered from migraine intentionally lowered their sodium intake as a possible preventive measure. Also, the 3-month prevalence of headaches captured by NHANES does not allow for an analysis of the effect of dietary sodium on headache frequency. To investigate whether brain sodium alterations and dietary sodium in particular represent a culprit in migraine, it will be necessary to pursue prospective dietary studies with more detailed and valid migraine data, correlated with biochemical parameters.
+
+There were other limitations to our analysis. Migraine classification was not based on the International Headache Classification criteria16 and was non-specific to migraine. Another national database, the Women’s Health Initiative, has more conventional migraine classification25 but does not have dietary data comparable to the quality of NHANES 1999–2004 data. We likely excluded some migraineurs by omitting respondents who had ever used analgesics chronically or who had taken prescription analgesics during the month prior to interview. This latter group, in particular, was more likely to have in included some true migraineurs who were therefore not in our “migraineur” group. However, our goal was to have the most valid “migraineur” group possible, given the limitations of the data in terms of migraine classification. Therefore, we felt it was more important to exclude some true migraineurs than to include as “migraineurs” those suffering from medication-overuse headache. Ultimately, a sensitivity analysis suggested there was little effect from this exclusion. Nutritional assessment was based on 24-hour recall, a method with inherent limitations55. Importantly, due to lack of 2 days of dietary recall in 2/3 of our data, we were unable to use more sophisticated methods to account for episodically consumed foods and beverages. Despite these limitations, the NHANES 1999–2004 database and its associated analytical methodology represents best available, state-of-the-art practice for survey studies.
+
+CONCLUSION
+Our analysis of NHANES 1999–2004 data provides the first evidence of an inverse association between migraine and dietary sodium intake, independent of common migraine covariates. We propose that this dietary sodium intake may impact migraine by modulating the regulation of brain extracellular sodium. Our results may stimulate prospective, controlled studies of dietary and body sodium to evaluate whether altered sodium homeostasis is casual in, or an effect of, migraine.
+
+Declaration of conflicting interests. The authors report no conflicts of interest
+
+The author’s responsibilities were as follows: JMP designed the study and analyzed the data; NBG, XA, ANF, and RPC revision of the manuscript critically for important intellectual content, and final approval of the manuscript; MGH conceived and designed the study, and wrote the manuscript; all authors read and approved the final manuscript. MGH thanks Betty Chung for editorial assistance.
+
+Funding Acknowledgements. MGH, NG, XA, and ANF received support from NIH 5RO1NS072497 and HMRI.
+
+Abbreviations
+NHANESNational Health and Nutrition Examination Survey
+
+BMIbody mass index
+
+CSFcerebrospinal fluid
+
+NTGnitroglycerin
+
+CScentral sensitization
+
+CDCCenters for Disease Control and Prevention
+
+FIASUniversity of Texas Food Intake Analysis System
+
+Table 1 Demographic characteristics of analysis population by headache status NHANES 1999 – 2004
+
+	Headache YES	Headache NO	
+	N	%1	N	%1	
+Adult respondents with reliable interview data	2742		10682		
+All relevant data2 non-missing	2687	98.1	10346	97.6	
+Did not take analgesic medication3	1636	58.2	7183	68.8	
+Female4	1100	63.4	3451	46.2	
+Age &lt; 50 years4	1250	80.6	4345	67.6	
+BMI &lt; sex-specific median4	754	48.7	3654	53.8	
+1 Based on weighted frequencies.
+
+2 Dietary sodium, total caloric intake, analgesic use, age, sex, BMI.
+
+3 Denominator for percentage = respondents with all relevant data non-missing.
+
+4 Denominator for percentage = respondents with all relevant data non-missing who did not take analgesics.
+
+Table 2 Effect of dietary sodium on headache status Respondents who did not use chronic analgesics or prescription analgesics in past ,onth NHANES 1999 – 2004
+
+			Crude
+(N = 8819)	Adjusted2
+(N = 8819)	
+Exposure category	Population distribution1	Odds
+ratio	(95% CI)	p
+trend	Odds
+ratio	(95% CI)	p
+trend	
+% Headache YES	% Headache NO	
+Dietary sodium residuals									
+  1st quartile	23.6	21.4	1.00	--	0.0455	1.00	--	0.0503	
+  2nd quartile	22.1	21.1	0.95	(0.78, 1.16)		0.91	(0.74, 1.10)		
+  3rd quartile	24.8	24.4	0.92	(0.74, 1.15)		0.87	(0.70, 1.08)		
+  4th quartile	29.5	33.2	0.81	(0.66, 0.99)		0.81	(0.66, 0.99)		
+1 Based on weighted frequencies.
+
+2 Adjusted for age, sex, and BMI. Degree of correlation among independent variables was negligible.
+
+Table 3 Effect of dietary sodium on headache status by sex1 Respondents who did not use chronic analgesics or prescription analgesics in past month NHANES 1999 – 2004
+
+	Men
+(N = 4268)	Women
+(N = 4551)	
+Exposure category	Odds
+ratio	(95% CI)	p
+trend	Odds
+ratio	(95% CI)	p
+trend	
+Dietary sodium residuals							
+  1st quartile	1.00	--	0.24	1.00	--	0.049	
+  2nd quartile	0.92	(0.73, 1.14)		0.93	(0.76, 1.13)		
+  3rd quartile	0.92	(0.69, 1.22)		0.82	(0.65, 1.04)		
+  4th quartile	0.80	(0.57, 1.13)		0.81	(0.65, 1.00)		
+1 Adjusted for age and BMI.
+
+Table 4 Effect of dietary sodium on headache status by sex and BMI1 Respondents who did not use chronic analgesics or prescription analgesics in past month NHANES 1999 – 2004
+
+	Men, lower BMI
+(N = 2133)	Men, higher BMI
+(N = 2135)	Women, lower BMI
+(N = 2275)	Women, higher BMI
+(N = 2276)	
+Exposure category	Odds
+ratio	(95% CI)	p
+trend	Odds
+ratio	(95% CI)	p
+trend	Odds
+ratio	(95% CI)	p
+trend	Odds
+ratio	(95% CI)	p
+trend	
+Dietary sodium residuals													
+  1st quartile	1.00	--	0.36	1.00	--	0.40	1.00	--	0.007	1.00	--	0.95	
+  2nd quartile	1.02	(0.67, 1.55)		0.86	(0.59, 1.25)		0.91	(0.68, 1.22)		0.93	(0.72, 1.20)		
+  3rd quartile	0.99	(0.67, 1.46)		0.89	(0.59, 1.33)		0.78	(0.56, 1.09)		0.87	(0.64, 1.17)		
+  4th quartile	0.82	(0.52, 1.27)		0.80	(0.50, 1.28)		0.66	(0.49, 0.88)		0.99	(0.71, 1.37)		
+1 Adjusted for age. In women, interaction between sodium residuals and BMI was significant (p = 0.025).
+
+
+   References
+1 
+            Pietrobon D  
+            Moskowitz MA  
+           Pathophysiology of migraine Annu Rev Physiol 2013 75 365 391 23190076 
+2 
+            Harrington MG  
+            Fonteh AN  
+            Cowan RP  
+             
+           Cerebrospinal fluid sodium increases in migraine Headache 2006 46 1128 1135 16866716 
+3 
+            Harrington MG  
+            Salomon RM  
+            Pogoda JM  
+             
+           Cerebrospinal fluid sodium rhythms Cerebrospinal Fluid Res 2010 7 3 20205754 
+4 
+            Alstadhaug KB  
+            Bekkelund S  
+            Salvesen R  
+           Circannual periodicity of migraine? Eur J Neurol 2007 14 983 988 17718689 
+5 
+            Fox AW  
+            Davis RL  
+           Migraine chronobiology Headache 1998 38 436 441 9664747 
+6 
+            Kelman L  
+           Pain characteristics of the acute migraine attack Headache 2006 46 942 953 16732840 
+7 
+            Solomon GD  
+           Circadian rhythms and migraine Cleve Clin J Med 1992 59 326 329 1516220 
+8 
+            Spierings EL  
+            Sorbi M  
+            Maassen GH  
+            Honkoop PC  
+           Psychophysical precedents of migraine in relation to the time of onset of the headache: the migraine time line Headache 1997 37 217 220 9150616 
+9 
+            Harrington MG  
+            Chekmenev EY  
+            Schepkin V  
+            Fonteh AN  
+            Arakaki X  
+           Sodium MRI in a rat migraine model and a NEURON simulation study support a role for sodium in migraine Cephalalgia 2011 31 1254 1265 21816771 
+10 
+            Hodgkin AL  
+            Katz B  
+           The effect of sodium ions on the electrical activity of giant axon of the squid J Physiol 1949 108 37 77 18128147 
+11 
+            Arakaki X  
+            Foster H  
+            Su L  
+             
+           Extracellular sodium modulates the excitability of cultured hippocampal pyramidal cells Brain Res 2011 1401 85 94 21679932 
+12 
+            Bayorh MA  
+            Socci RR  
+            Eatman D  
+            Wang M  
+            Thierry-Palmer M  
+           The role of gender in salt-induced hypertension Clin Exp Hypertens 2001 23 241 255 11339690 
+13 
+            Praetorius J  
+            Nielsen S  
+           Distribution of sodium transporters and aquaporin-1 in the human choroid plexus Am J Physiol Cell Physiol 2006 291 C59 C67 16481371 
+14 
+            Briefel RR  
+           Assessment of the US diet in national nutrition surveys: national collaborative efforts and NHANES Am J Clin Nutr 1994 59 164S 167S 8279416 
+15 Statistics NCfH NHANES 2001–02 Analytic Guidelines 2004 
+16 The International Classification of Headache Disorders, 3rd edition (beta version) Cephalalgia 2013 33 629 808 23771276 
+17 
+            Evans EW  
+            Lipton RB  
+            Peterlin BL  
+             
+           Dietary intake patterns and diet quality in a nationally representative sample of women with and without severe headache or migraine Headache 2015 55 550 561 25758250 
+18 
+            Center HN  
+           Food Intake Analysis System (FIAS) 2000 University of Texas Health Science Center, School of Public Health 
+19 Statistics NCfH NHANES 1999–2000 Addendum to the NHANES III Analytic Guidelines 2002 
+20 
+            Raper NPB  
+            Ingwersen L  
+            Steinfeldt L  
+            Anand J  
+           An overview of USDA's dietary intake system J Food Comp Analysis 2004 17 545 555 
+21 USDA Food and Nutrient Database for Dietary Studies FNDDS 2.0 2006 
+22 Control CfD National Health and Nutrition Examination Survey, 1988 – 2010 Data Documentation, Codebook, and Frequencies: Prescription Medications - Drug Information (RXQ_DRUG) 2007 
+23 
+            Willett WC  
+            Howe GR  
+            Kushi LH  
+           Adjustment for total energy intake in epidemiologic studies Am J Clin Nutr 1997 65 1220S 1228S discussion 9S–31S 9094926 
+24 Prevention CfDCa NHANES Dietary Web Tutorial 2012 
+25 
+            Rist PM  
+            Buring JE  
+            Kurth T  
+           Dietary patterns according to headache and migraine status: A cross-sectional study Cephalalgia 2014 
+26 
+            Brown IJ  
+            Tzoulaki I  
+            Candeias V  
+            Elliott P  
+           Salt intakes around the world: implications for public health Int J Epidemiol 2009 38 791 813 19351697 
+27 
+            Meneton P  
+            Jeunemaitre X  
+            de Wardener HE  
+            MacGregor GA  
+           Links between dietary salt intake, renal salt handling, blood pressure, and cardiovascular diseases Physiol Rev 2005 85 679 715 15788708 
+28 
+            Tietjen GE  
+            Herial NA  
+            Hardgrove J  
+            Utley C  
+            White L  
+           Migraine comorbidity constellations Headache 2007 47 857 865 17578536 
+29 
+            Blaustein MP  
+            Leenen FH  
+            Chen L  
+             
+           How NaCl raises blood pressure: a new paradigm for the pathogenesis of salt-dependent hypertension Am J Physiol Heart Circ Physiol 2012 302 H1031 H1049 22058154 
+30 
+            Mancia G  
+            Rosei EA  
+            Ambrosioni E  
+             
+           Hypertension and migraine comorbidity: prevalence and risk of cerebrovascular events: evidence from a large, multicenter, cross-sectional survey in Italy (MIRACLES study) J Hypertens 2011 29 309 318 21119534 
+31 
+            Scher AI  
+            Terwindt GM  
+            Picavet HS  
+            Verschuren WM  
+            Ferrari MD  
+            Launer LJ  
+           Cardiovascular risk factors and migraine: the GEM population-based study Neurology 2005 64 614 620 15728281 
+32 
+            Chow SY  
+            Sakai RR  
+            Witcher JA  
+            Adler NT  
+            Epstein AN  
+           Sex and sodium intake in the rat Behav Neurosci 1992 106 172 180 1554430 
+33 
+            Sakai RR  
+            Frankmann SP  
+            Fine WB  
+            Epstein AN  
+           Prior episodes of sodium depletion increase the need-free sodium intake of the rat Behav Neurosci 1989 103 186 192 2923672 
+34 
+            Rocchini AP  
+            Key J  
+            Bondie D  
+             
+           The effect of weight loss on the sensitivity of blood pressure to sodium in obese adolescents N Engl J Med 1989 321 580 585 2668763 
+35 
+            Kawano Y  
+            Yoshida K  
+            Kawamura M  
+             
+           Sodium and noradrenaline in cerebrospinal fluid and blood in salt-sensitive and non-salt-sensitive essential hypertension Clin Exp Pharmacol Physiol 1992 19 235 241 1516270 
+36 
+            Amer M  
+            Woodward M  
+            Appel LJ  
+           Effects of dietary sodium and the DASH diet on the occurrence of headaches: results from randomised multicentre DASH-Sodium clinical trial BMJ Open 2014 4 e006671 
+37 
+            Geerling JC  
+            Loewy AD  
+           Central regulation of sodium appetite Exp Physiol 2008 93 177 209 17981930 
+38 
+            Vivas L  
+            Godino A  
+            Dalmasso C  
+            Caeiro XE  
+            Macchione AF  
+            Cambiasso MJ  
+           
+            De Luca LA  
+            Menani JV  
+            Johnson AK  
+           Neurochemical Circuits Subserving Fluid Balance and Baroreflex: A Role for Serotonin, Oxytocin, and Gonadal Steroids Neurobiology of Body Fluid Homeostasis: Transduction and Integration 2014 Boca Raton (FL) 
+39 
+            Harrington MG  
+            Fonteh AN  
+            Arakaki X  
+             
+           Capillary endothelial Na(+), K(+), ATPase transporter homeostasis and a new theory for migraine pathophysiology Headache 2010 50 459 478 19845787 
+40 
+            Charles A  
+           Does cortical spreading depression initiate a migraine attack? Maybe not Headache 2010 50 731 733 20456161 
+41 
+            Zhang X  
+            Levy D  
+            Kainz V  
+            Noseda R  
+            Jakubowski M  
+            Burstein R  
+           Activation of central trigeminovascular neurons by cortical spreading depression Ann Neurol 2011 69 855 865 21416489 
+42 
+            Zhang X  
+            Levy D  
+            Noseda R  
+            Kainz V  
+            Jakubowski M  
+            Burstein R  
+           Activation of meningeal nociceptors by cortical spreading depression: implications for migraine with aura J Neurosci 2010 30 8807 8814 20592202 
+43 
+            Messlinger K  
+            Lennerz JK  
+            Eberhardt M  
+            Fischer MJ  
+           CGRP and NO in the trigeminal system: mechanisms and role in headache generation Headache 2012 52 1411 1427 22788114 
+44 
+            Buzzi MG  
+            Moskowitz MA  
+           The trigemino-vascular system and migraine Pathol Biol (Paris) 1992 40 313 317 1379707 
+45 
+            Levy D  
+            Burstein R  
+            Kainz V  
+            Jakubowski M  
+            Strassman AM  
+           Mast cell degranulation activates a pain pathway underlying migraine headache Pain 2007 130 166 176 17459586 
+46 
+            Markowitz S  
+            Saito K  
+            Buzzi MG  
+            Moskowitz MA  
+           The development of neurogenic plasma extravasation in the rat dura mater does not depend upon the degranulation of mast cells Brain Res 1989 477 157 165 2702481 
+47 
+            Robert C  
+            Bourgeais L  
+            Arreto CD  
+             
+           Paraventricular hypothalamic regulation of trigeminovascular mechanisms involved in headaches J Neurosci 2013 33 8827 8840 23678125 
+48 
+            Siniatchkin M  
+            Sendacki M  
+            Moeller F  
+             
+           Abnormal changes of synaptic excitability in migraine with aura Cereb Cortex 2012 22 2207 2216 22079926 
+49 
+            Antal A  
+            Lang N  
+            Boros K  
+            Nitsche M  
+            Siebner HR  
+            Paulus W  
+           Homeostatic metaplasticity of the motor cortex is altered during headache-free intervals in migraine with aura Cereb Cortex 2008 18 2701 2705 18372292 
+50 
+            Charbit AR  
+            Akerman S  
+            Goadsby PJ  
+           Trigeminocervical complex responses after lesioning dopaminergic A11 nucleus are modified by dopamine and serotonin mechanisms Pain 2011 152 2365 2376 21868165 
+51 
+            Sun YG  
+            Pita-Almenar JD  
+            Wu CS  
+             
+           Biphasic cholinergic synaptic transmission controls action potential activity in thalamic reticular nucleus neurons J Neurosci 2013 33 2048 2059 23365242 
+52 
+            Cregg R  
+            Momin A  
+            Rugiero F  
+            Wood JN  
+            Zhao J  
+           Pain channelopathies J Physiol 2010 588 1897 1904 20142270 
+53 
+            Goldstein I  
+            Levy T  
+            Galili D  
+             
+           Involvement of Na(+), K(+)-ATPase and endogenous digitalis-like compounds in depressive disorders Biol Psychiatry 2006 60 491 499 16712803 
+54 
+            Lichtstein D  
+            Samuelov S  
+           Endogenous 'ouabain like' activity in rat brain Biochem Biophys Res Commun 1980 96 1518 1523 6255945 
+55 
+            Shim JS  
+            Oh K  
+            Kim HC  
+           Dietary assessment methods in epidemiologic studies Epidemiol Health 2014 36 e2014009 25078382 
+

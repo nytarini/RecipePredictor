@@ -1,0 +1,85 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   89181102607Eur J NeurosciEur. J. Neurosci.The European journal of neuroscience0953-816X1460-956826855235576711110.1111/ejn.13207EMS75593ArticleBrain glucose feedback predicts food choice (Commentary on Wakabayashi et al.) Iordanidou Panagiota Burdakov Denis Mill Hill Laboratories, The Francis Crick Institute, London NW7 1AA, UK8 1 2018 11 3 2016 6 2016 13 1 2018 43 11 1420 1421 This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+   Strategies for making choices are of broad multidisciplinary interest (Glimcher, 2010). From a viewpoint of evolutionary survival, speed and accuracy are desirable, but contradictory, attributes of decision-making. Indeed, observations in many fields, including neuroscience, economics and psychology, suggest that choice involves trade-off between accuracy and speed (e.g. Abraham et al., 2004; Kahneman, 2011). A much-discussed theory is that the brain has evolved one system for using indirect but easily accessible information to make rapid but potentially inaccurate decisions, and another system for using direct but harder-to-get information to make more accurate but slower decisions (Kahneman, 2011). Even life-critical decisions (e.g. what nutrients to eat) can often be made based on potentially misleading information (e.g. taste of artificial flavourings). However, although taste can rapidly guide food choice, animals still chose sugary solutions when they are made ‘taste-blind’ by knockout of cellular machinery for sweet taste (de Araujo et al., 2008). This palatability- and taste-independent behavioural preference is thought to develop based on caloric content (nutrient value) of the food (Perez et al., 1998; de Araujo et al., 2008). An emerging possibility is that the nutrient value is sensed by glucose-sensing neurons in the brain, which interact with reward systems to enable energetically-optimal action selection (Domingos et al., 2013; Kosse et al., 2015).
+
+Such a direct nutrient-sensing pathway makes evolutionary sense because, while taste can enable animals to quickly estimate what is worth eating, ultimately their survival requires not taste but nutrients. Somewhat analogously to ‘systems 1 and 2’ in decision-making theories of psychology and economics (Kahneman, 2011), food choice can thus be viewed as involving two controllers: a fast, feedforward ‘mental shortcut’ valuator based on taste, and a slower more accurate valuator based on nutrient feedback (Fig. 1A).
+
+Current problems with this ‘nutrient feedback to brain’ theory for food choice include (i) it does not explain why animals prefer glucose to nutritionally-equivalent fructose; (ii) it predicts that food selection can be forecast by magnitude of associated nutrient rise in the brain, but there is no evidence for this. The recent data of Kiyatkin and colleagues provide critical information that goes some way to fixing these caveats (Wakabayashi et al., 2015). They show that intravenous injection of glucose produces a large spike in glucose level inside the nucleus accumbens, one of the brain structures important for behavioural motivation and reinforcement. This spike peaks ~ 5 min after glucose injection. Equimolar injection of fructose produces no such glucose spike. This correlates with behavioural action: when given a choice of two bottles, fructose and glucose, rats start preferring glucose after ~ 10 min of consumption, the time required for glucose to enter the brain after its drinking (Wakabayashi &amp; Kiyatkin, 2015).
+
+These important new observations provide promising evidence that agrees with predictions of the nutrient feedback theory of action selection. However, additional questions need to be answered to enable a more thorough evaluation of this theory. Does the correlation between brain glucose spikes and action selection hold for all other foods, beyond glucose and fructose? Are there any causal effects of accumbens glucose elevation on food choice, for example can choice be influenced by manipulating accumbens glucose level? Specific mechanistic questions also arise, for example how can accumbens sense glucose, are there specialized glucose-sensing neurons there, similar to those found in the hypothalamus (Kosse et al., 2015)? Finally, considering that animals try both glucose and fructose in the first minutes before preference formation, how does the brain establish which of the tasted foods is responsible for the glucose spike, i.e. how does it solve the classic credit-assignment problem (Fig. 1B)? Perhaps the delays between food tasting and brain glucose spikes are sensed and interpreted inside the action-selection machinery. Real-time monitoring of neural dynamics and nutritionally-relevant signals may help to capture the elusive information about the brain’s algorithms for food choice and their roles in obesity, which is increasingly recognized as a brain disorder (Locke et al., 2015).
+
+Acknowledgements
+The authors are funded by The Francis Crick Institute, which receives its core funding from Cancer Research UK, the UK Medical Research Council, and the Wellcome Trust.
+
+Fig. 1 (A) Model for fast and slow reasoning in food choice. Initial choice is made on proxy cues such as taste, but ultimately behaviour is established based on nutrient feedback. Arrow thickness is proportional to influence weight. (B) Credit assignment problem in nutrient feedback models for food choice.
+
+
+   
+            Abraham NM  
+            Spors H  
+            Carleton A  
+            Margrie TW  
+            Kuner T  
+            Schaefer AT  
+           Maintaining accuracy at the expense of speed: stimulus similarity defines odor discrimination time in mice Neuron 2004 44 865 876 15572116 
+
+            de Araujo IE  
+            Oliveira-Maia AJ  
+            Sotnikova TD  
+            Gainetdinov RR  
+            Caron MG  
+            Nicolelis MA  
+            Simon SA  
+           Food reward in the absence of taste receptor signaling Neuron 2008 57 930 941 18367093 
+
+            Domingos AI  
+            Sordillo A  
+            Dietrich MO  
+            Liu ZW  
+            Tellez LA  
+            Vaynshteyn J  
+            Ferreira JG  
+            Ekstrand MI  
+            Horvath TL  
+            de Araujo IE  
+            Friedman JM  
+           Hypothalamic melanin concentrating hormone neurons communicate the nutrient value of sugar Elife 2013 2 e01462 24381247 
+
+            Glimcher P  
+           Foundations of Neuroeconomic Analysis OUP New York 2010 
+
+            Kahneman D  
+           Thinking, Fast and Slow Farrar, Straus and Giroux New York 2011 
+
+            Kosse C  
+            Gonzalez A  
+            Burdakov D  
+           Predictive models of glucose control: roles for glucose-sensing neurones Acta Physiol (Oxf) 2015 231 7 18 
+
+            Locke AE  
+            Kahali B  
+            Berndt SI  
+            Justice AE  
+            Pers TH  
+            Day FR  
+            Powell C  
+            Vedantam S  
+             
+           Genetic studies of body mass index yield new insights for obesity biology Nature 2015 518 197 206 25673413 
+
+            Perez C  
+            Lucas F  
+            Sclafani A  
+           Increased flavor acceptance and preference conditioned by the postingestive actions of glucose Physiol Behav 1998 64 483 492 9761222 
+
+            Wakabayashi KT  
+            Kiyatkin EA  
+           Behavior-associated and post-consumption glucose entry into the nucleus accumbens extracellular space during glucose free-drinking in trained rats Front Behav Neurosci 2015 9 173 26190984 
+
+            Wakabayashi KT  
+            Spekterman L  
+            Kiyatkin EA  
+           Experience-dependent escalation of glucose drinking and the development of glucose preference over fructose — association with glucose entry into the brain Eur J Neuorsci 2015 43 1422 1430 
+

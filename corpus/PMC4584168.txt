@@ -1,0 +1,562 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10157392039705J Acad Nutr DietJ Acad Nutr DietJournal of the Academy of Nutrition and Dietetics2212-267225887784458416810.1016/j.jand.2015.02.021NIHMS681569ArticleA validation study of the Automated Self-Administered 24-Hour Dietary Recall for Children (ASA24-Kids) among 9 to 11-year-old youth Diep Cassandra S. PhDPostdoctoral FellowUSDA/ARS Children's Nutrition Research Center, Department of Pediatrics, Baylor College of Medicine, Houston, TX, USAHingle Melanie PhD, MPH, RDAssistant ProfessorDepartment of Nutritional Sciences, College of Agriculture &amp; Life Sciences, University of Arizona, Tucson, AZ, USA; 520-621-3087 (W); 520-621-9446 (F); hinglem@email.arizona.eduChen Tzu-An PhDSenior BiostatisticianUSDA/ARS Children's Nutrition Research Center, Department of Pediatrics, Baylor College of Medicine, Houston, TX, USA; 713-798-0371 (W); 713-798-7098 (F); anntzuac@bcm.eduDadabhoy Hafza R. MS, RDResearch DietitianUSDA/ARS Children's Nutrition Research Center, Department of Pediatrics, Baylor College of Medicine, Houston, TX, USA; 713-798-0557 (W); 713-798-7098 (F); dadabhoy@bcm.eduBeltran Alicia MSSenior Research CoordinatorUSDA/ARS Children's Nutrition Research Center, Department of Pediatrics, Baylor College of Medicine, Houston, TX, USA; 713-798-0503 (W); 713-798-7098 (F); abeltran@bcm.eduBaranowski Janice MPH, RDAssistant ProfessorUSDA/ARS Children's Nutrition Research Center, Department of Pediatrics, Baylor College of Medicine, Houston, TX, USA; 713-798-6763 (W); 713-798-7098 (F); jbaranow@bcm.eduSubar Amy F. PhD, MPH, RDResearch NutritionistDivision of Cancer Control and Population Sciences, National Cancer Institute, Bethesda, MD, USA; 240-276-6695 (W); 240-276-7906 (F); subara@mail.nih.govBaranowski Tom PhDProfessorUSDA/ARS Children's Nutrition Research Center, Department of Pediatrics, Baylor College of Medicine, Houston, TX, USA; 713-798-6762 (W); 713-798-7098 (F); Thomas.Baranowski@bcm.eduAddress correspondence and reprint requests to: Cassandra S. Diep, PhD USDA/ARS Children's Nutrition Research Center Department of Pediatrics Baylor College of Medicine 1100 Bates Street Houston, TX 77030-2600 Telephone: 713-798-0387 Fax: 713-798-7098 cdiep@bcm.edu; cassandra.diep@bcm.edu20 4 2015 14 4 2015 10 2015 01 10 2016 115 10 1591 1598 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background
+Valid methods of diet assessment are important for nutrition research and practice but can be difficult with children.
+
+Objective
+To validate ASA24-Kids-2012, a self-administered web-based 24-hour dietary recall (24hDR) among 9-11-year-old children, in two sites.
+
+Design
+Quasi-experimental
+
+Participants/setting
+In one site, trained staff observed and recorded foods and drinks consumed by children (n=38) during school lunch. The next day, the observed children completed both ASA24-Kids-2012 and an interviewer-administered 24hDR in a randomized order. Procedures in a second site (n=31) were similar, except observations occurred during dinner in a community location.
+
+Statistical analyses
+Foods were classified as matches (reported and consumed), intrusions (reported, but not consumed), or omissions (not reported, but consumed) for each participant. Rates of matches, intrusions, and omissions were calculated. Rates were compared between each recall method using repeated measures analysis of covariance. For matched foods, the authors determined correlation coefficients between observed and reported serving sizes.
+
+Results
+Match, intrusion, and omission rates between ASA24-Kids-2012 and observed intakes in site 1 were 37%, 27%, and 35%, respectively. Comparable rates for interviewer-administered 24hDRs were 57%, 20%, and 23%, respectively. In site 2, match, intrusion, and omission rates between ASA24-Kids-2012 and observed intakes were 53%, 12%, and 36%, respectively, vs. 76% matches, 9% intrusions, and 15% omissions for interviewer-administered 24hDRs. The relationship strength between reported and observed serving sizes for matched foods was 0.18 in site 1 and 0.09 in site 2 for ASA24-Kids-2012, and 0.46 in site 1 and 0.11 in site 2 for interviewer-administered 24hDRs.
+
+Conclusions
+ASA24-Kids-2012 was less accurate than interviewer-administered 24hDRs when compared to observed intakes, but both performed poorly. Additional research should assess the age at which children can complete recalls without the help of a parent or guardian, as well as to elucidate under which circumstances recalls can reasonably be used among children.
+
+24-hour recallchildrencomputerdiet assessmentweb-based
+   Introduction
+Valid methods of diet assessment are important for use in diet-related research, evaluations of dietary behavior change programs, and nutrition education.1-3 Common dietary assessment methods include food frequency questionnaires, 24-hour dietary recalls (24hDRs), and dietary records.4,5 The interviewer-administered 24hDR is considered the preferred method and is commonly used to assess children's diets.6 This method requires a trained interviewer asking the child and/or adult caregiver (depending on the child's age) about the child's diet over the past 24 hours often using dietary intake software, and thus, can be expensive (both the interviewer and software involve cost) and logistically difficult to administer.5
+
+Computer-based 24hDRs offer a cost-effective and efficient means for collecting diet measures.7,8 For children, having child-generated food categories,9-11 pictures of foods,12 and different sizes of food images on the same screen13 may help improve recall speed and/or accuracy.14 Examples of computerized 24hDRs include the Food Intake Recording Software System (FIRSST),15,16 the Young Adolescents’ Nutrition Assessment on Computer (YANA-C),8,17,18 and the Automated Self-Administered 24-hour Dietary Recall for children (ASA24-Kids).14 The last is available free of charge through the U.S. National Cancer Institute (NCI) website.19 ASA24-Kids was adapted from an adult version, ASA24,20 by a collaborative team of researchers knowledgeable in diet assessment,14,16 and collects data for all foods and drinks consumed the previous day using a web-based interface. Both the number of foods and probes in the adult version of ASA24 were reduced by approximately 50% to simplify responses and burden in ASA24-Kids.21 Removals included: 1) foods not likely to be consumed by children based on data from 8-15-year-olds who completed the interviewer-administered 24hDRs in the 2003-2004 and 2005-2006 National Health and Nutrition Examination Survey (NHANES), and 2) probes (such as those regarding food preparation) to which children were unlikely to know the answers based on the experiences of six dietitians.21 In ASA24-Kids, children are guided through the program with the aid of food images,22 an animated talking penguin, and multiple passes.23
+
+As with most self-reported diet assessment methods, there are limits on knowledge and memory, especially for children.5,24 Children under eight years of age usually require a proxy reporter, such as a parent; older children and adolescents are more able to report their own intake, although the ages and level of assistance vary based on the study.6,25 In NHANES, children aged 6-11 years provide their own dietary intake information with the assistance of an adult household member.26 Other complicating factors include retention interval (i.e., elapsed time between meal and recall), reporting order (i.e., evening-to-morning vs. morning-to-evening), and number of days of recall.5,27 Aside from reporting what was eaten, reporting portion sizes is also challenging28 and may be confounded by participant characteristics (e.g., body weight, sex) and food characteristics (e.g., type of food, size).28 Formative research collected using the 2009 Beta version of ASA24 revealed that 8 and 9-year-olds had difficulties completing it and required assistance,14 so ASA24-Kids is currently recommended for use by children 10 years of age or older, or by proxy reporters for younger children.19 However, because modifications were made to ASA24 to adapt it for children (e.g., reducing the food list and number of probes), further evaluation is needed to determine if children younger than 10 years of age can independently complete a recall using ASA24-Kids.
+
+The availability of ASA24-Kids-2012, the version available at the time the study was conducted, provided an opportunity to evaluate whether, at what age, and with what level of assistance, children can use ASA24-Kids, and the accuracy of their reported dietary intakes. The primary aims of the current study were to evaluate the accuracy of dietary intakes reported using ASA24-Kids-2012, the first available version of ASA24-Kids (ASA24-Kids-2014 is the current version), among children aged 9-11 years and to compare its performance to a standardized interviewer-administered 24hDR. We also assessed differences by age, sex, race (white vs. non-white), recall method order, and site (for one site, the focus was lunch, and the other site, dinner). The authors hypothesized that, compared to observed food intake, the accuracy of recalls collected using ASA24-Kids-2012 would be comparable to the accuracy of recalls collected via an interviewer-administered 24hDR.
+
+Methods
+Study Sample
+This was a quasi-experimental study conducted from January to May 2013 with 69 children in two sites: 38 in site 1 and 31 in site 2. Participants were 9-11-year-olds; both the children and their parent provided written informed assent and consent, respectively. Study procedures were approved by Baylor College of Medicine and University of Arizona Institutional Review Boards.
+
+In site 1, participants were fourth or fifth graders, aged 9-11 years, enrolled in an elementary school in Texas. Exclusion criteria included having a physical, mental, or visual limitation that would inhibit dietary recall or computer use; not being able to read or answer questions; not being able to speak, read, and write in English; and not eating school lunch. Information packets were sent home to parents of all fourth and fifth graders in that school; the packets included a letter to parents, flyer, information sheet, consent form, and family demographics form. Students who returned packets to school during the study period, with a family demographics form and signed consent form with both parent and child signatures, were screened and if eligible, included in the study.
+
+In site 2, children were identified and recruited through information sessions at Cooperative Extension nutrition education programs (e.g., Garden Kitchen, 4-H, and Expanded Food and Nutrition Education Program) in one Arizona county. Exclusion criteria were similar to site 1, but instead of school lunch, children had to be available to eat a study-provided dinner. Children who provided assent, whose parents provided consent, and who completed the family demographics form were enrolled in the study.
+
+This design enabled an assessment of the validity of ASA24-Kids-2012 and an interviewer-administered 24hDR over different meals (lunch in site 1 vs. dinner in site 2), which vary in time from occurrence to time of recall.
+
+Procedures &amp; Measures
+In site 1, trained staff (n=3) unobtrusively observed children during school lunch, recording on a standardized form what food children selected, food portions obtained and consumed, and any food spilled or exchanged. Each observer watched no more than two children at a time over 19 days. At the end of the meal, observers recorded the amount of food left on the tray. Before lunch started each day, study staff looked through the lunch menu and walked through the lunch line to verify foods served. Over the course of the study, there were 16 different lunch menus, with an average of 13 available foods and drinks per meal, not including snack items (e.g., chips or ice cream). An example lunch meal was fresh garden salad, tostada, applesauce, milk, and pinto beans. School recipes were obtained directly from the school district, and all staff members were trained in meal observations by the principal investigator before data collection began. These procedures have been employed as the criterion method in several studies.6
+
+Procedures in site 2 were similar, except observations occurred during a dinner in a community teaching kitchen. Dinner always consisted of a customizable pizza (for which participants chose their toppings), mixed fresh fruit (watermelon and grapes), and water or iced tea (sweetened or unsweetened). All foods were prepared by employees of the teaching kitchen. Study staff (n=5) observed no more than 11 families each night for a total of four nights.
+
+The next day in both sites, children completed both ASA24-Kids-2012 and an interviewer-administered 24hDR in a randomized order, which was preassigned using a random number generator. Both types of recalls queried total intakes, not just the observed lunch or dinner, from midnight to midnight the previous day, and both were based on the U.S. Department of Agriculture's Automated Multiple-Pass Method.29 Specifically, ASA24-Kids-2012 included a meal-based quick list, meal gap review, detail cycle (e.g., pizza type, additions, and amounts), forgotten foods, and final probe, while the interviewer-administered 24hDR included a quick list, review of quick list, collection of food detail (e.g., toppings and additions) and amounts, and final review. After completing one recall method, the child completed the other within the next hour.
+
+ASA24-Kids-2012 was completed on a laptop computer connected to the NCI website, and a staff member was present to observe the child. The observer noted any difficulties encountered (e.g., problems when searching for foods, editing meals and snacks, etc.), troubleshot technical malfunctions, solved major difficulties that impeded further progress (e.g., if the child could not progress after multiple attempts), and answered questions the child had. Observations were recorded using a standard form that was structured by sequence of events, and included areas for the observer to rate and make note of the child's experience in various activities (e.g., selecting a meal, responding to questions about foods that were completely forgotten). The form was created by the authors and previously used in another study.14
+
+Following completion of ASA24-Kids-2012, the observer interviewed the child regarding his/her ASA24-Kids-2012 experience, including usability (e.g., how easy/difficult it was to search for foods, estimate portion sizes, and report additions), what the child did and did not like, and how easy or hard it was to use the program. All interviewers used a semi-structured interview guide and were trained in qualitative data collection methods.
+
+The second method, an interviewer-administered 24hDR, was completed on a laptop computer with a trained interviewer using Nutrition Data System for Research software (NDSR version 2012, University of Minnesota, Minneapolis, MN). Interviewers were trained and certified in 24hDRs and NDSR: in site 1, interviewers were dietitians, and in site 2, interviewers were research assistants trained by a university-provided behavioral measurement service. Following standard protocol for conducting 24hDRs, the interviewer asked a series of questions related to all foods consumed in the past 24 hours, and prompted the participant for information on brands, portion sizes (with food models and household measuring instruments), recipe ingredients, and cooking methods. At the end of the recall, the interviewer made note of any difficulties with the recall or if, in his/her judgment, the data were not of high quality (e.g., because the child did not pay attention or did not understand). The interviewer was not the same person who observed the child eating the day before nor who observed the child completing ASA24-Kids-2012, and did not have access to the child's observation data. After completion of both recalls, the child was asked which method (ASA24-Kids-2012, interviewer-administered 24hDR, or both) the child liked better.
+
+On the same day that dietary recalls were collected, staff members trained in anthropometrics measured each child's height and weight using standardized procedures. Height was measured twice to the nearest 0.1 cm using a stadiometer, and the mean of the two recordings calculated. Body weight was measured twice to the nearest 0.1 kg using a calibrated scale, and the mean of the two recordings calculated. Each child removed any excess clothing (e.g., shoes, jackets, sweaters) or items from pockets beforehand, and an adjustment was made if there was anything in the hair (e.g., high ponytail, hair bows) that interfered with height measurements. After completion of study procedures, participants received $20 in compensation.
+
+Statistical Analyses
+The authors obtained output analysis files from both ASA24-Kids-2012 and NDSR for site 1 and site 2. A coauthor with training in dietetics classified all foods from both sites as matches (observed and recalled), intrusions (not observed but recalled), or omissions (observed but not recalled) for 1) ASA24-Kids-2012 vs. observation and 2) interviewer-administered 24hDR vs. observation for each participant. Another coauthor independently coded the comparisons, and discrepancies were discussed and resolved by the entire study team. Coding was completed within loose categories (e.g., if a child recalled eating a meat pizza but was observed eating a cheese pizza, that was classified as a match).
+
+In order to compare both methods of 24hDRs, the primary analysis involved a repeated measures analysis of covariance (ANCOVA) for percentage of matches between a) observation and ASA24-Kids-2012 and b) observation and an NDSR interviewer-administered 24hDR, while controlling for recall method order. These analyses were repeated for percentages of intrusions and omissions. For matched foods, study staff calculated Spearman correlation coefficients and conducted signed rank tests (due to non-normal distributions). Analyses were completed separately for sites 1 and 2.
+
+We then combined data for sites 1 and 2 and conducted subgroup analyses to assess for differences in match, intrusion, or omission rates based on age (9, 10, or 11), sex (male vs. female), race (white vs. non-white), recall method order (ASA24-Kids-2012 first vs. interviewer-administered recall first), or site (site 1 vs. site 2). Analyses were conducted using SAS® software (version 9.3, 2011, SAS Institute Inc, Cary, NC).
+
+Qualitative data from interviews and ASA24-Kids-2012 observations from both sites were combined and analyzed using thematic analysis30 to determine problems and obtain feedback about ASA24-Kids-2012. Paired samples t-tests were conducted to determine differences in completion times between ASA24-Kids-2012 and the interviewer-administered 24hDR. Additionally, independent samples t-tests, ANOVA, and chi-squared tests were conducted to test for differences between ages (9, 10, and 11), sex, site, and recall method order in ASA24-Kids-2012 completion time, interviewer-administered 24hDR completion time, ASA24-Kids-2012 ease of use, and method preference. Differences in demographic characteristics between sites 1 and 2 were investigated using either chi-squared tests or Fisher's exact tests, as appropriate. Study staff also calculated BMI-for-age based on measured height and weight using the Centers for Disease Control and Prevention BMI calculator program.31
+
+Results
+Study Sample
+There were 69 children in two sites: 38 in site 1 and 31 in site 2. In site 1, twelve additional students expressed interest, but four had incomplete or missing consent forms, seven did not eat school lunch, and one was eight years of age, so they were not included in the final study. All participants who were eligible were included in and completed the study; there was no non-participation or missing data.
+
+Table 1 illustrates further details about the two samples, including age, sex, ethnicity, race, weight status, highest household educational level, and household income. Over half of the sample in site 1 was non-Hispanic, of healthy weight, and had higher socioeconomic status (SES) (as evidenced by household educational level and household income). Over half of the sample in site 2 was female, white, healthy weight, and of lower SES. The two sites differed significantly in ethnicity (P&lt;0.01), race (P&lt;0.001), highest household educational level (P&lt;0.001), and household income (P&lt;0.01).
+
+ASA24-Kids-2012 vs. Interviewer-Administered 24hDR
+Participants spent between 12-58 minutes completing ASA24-Kids-2012 (mean=34 minutes). Less time was required for the interviewer-administered recall (mean=20 minutes; range=6-35 minutes). The difference between ASA24-Kids-2012 completion time and the interviewer-administered 24hDR completion time was statistically significant (P&lt;0.001). However, there were no differences in ASA24-Kids-2012 completion time or in interviewer-administered 24hDR completion time between sites 1 and 2, males and females, recall method order, or ages.
+
+Table 2 reports percent matches, intrusions, and omissions in sites 1 and 2. For both sites, repeated measures ANCOVA indicated significantly higher match rates and lower omission rates for interviewer-administered 24hDRs than ASA24-Kids-2012 (P&lt;0.001 to P=0.0158). There were no significant differences in intrusion rates, while controlling for recall method order.
+
+Table 2 also presents portion-size correlations for matched foods. When comparing matched foods between ASA24-Kids-2012 and meal observations, there was no significant correlation between observation and child-reported serving sizes in site 1 or in site 2. However, when comparing the interviewer-administered 24hDRs to meal observations, the correlation between the serving sizes for matched foods was positive and significant (P&lt;0.001) in site 1 but not significant in site 2. In addition, according to signed rank tests, the mean serving sizes (observation compared to child-reported) were statistically different (P&lt;0.01) between interviewer-administered 24hDR and observation in site 2; the mean serving sizes were not significantly different between interviewer-administered 24hDR and observation in site 1, ASA24-Kids-2012 and observation in site 1, or ASA24-Kids-2012 and observation in site 2.
+
+Based on subgroup analyses to assess differences in accuracy by various characteristics, match rates were significantly higher for site 2 than for site 1 for both ASA24-Kids-2012 (P&lt;0.01) and the interviewer-administered 24hDR (P&lt;0.01). In addition, ASA24-Kids-2012 match rates were significantly lower for participants completing ASA24-Kids-2012 first (P&lt;0.05). Significant site differences in intrusion rates were also detected for both ASA24-Kids-2012 (P&lt;0.01) and the interviewer-administered 24hDR (P&lt;0.001), for which site 1 had higher intrusion rates. No other differences were found in match, intrusion, or omission rates based on age, sex, race (white vs. non-white), recall method order, or site.
+
+Qualitative Findings
+Based on observations of ASA24-Kids-2012 sessions, common problems with ASA24-Kids-2012 included the child not knowing what to do at a given point in time (e.g., how to proceed after the first tutorial), difficulties moving foods to “My Selections” in the right panel (e.g., not double clicking on an item), not finding certain foods (e.g., foods searched for were not in the food list database), and difficulties with the “Forgotten Foods” part (e.g., the child may click yes to having forgotten foods but then did not add any foods or did not add all the foods indicated as forgotten).
+
+During interviews with children regarding their ASA24-Kids-2012 experiences, all reported finding the tutorial video in the beginning either ‘okay’ or ‘very helpful.’ When asked to elaborate, the participants who found the tutorial ‘very helpful’ said it explained “what to do and how to do it,” whereas the participants who found the tutorial ‘okay’ said the explanation was too long, the tutorial was confusing, or they could have figured out what to do on their own. A majority of participants reported finding it easy to spell foods (71%), find foods (54%), answer questions about what they ate (71%), report how much they ate (58%), and use the program (71%). There were no differences in how easy or difficult participants found the program between sites, age groups, sexes, or recall method order. When asked what they liked the most about ASA24-Kids-2012, the most common answer (26%) was the penguin avatar. When asked what they liked the least, the most common answer (22%) related to the details asked (e.g., food types, amounts, etc.) and length of time to complete the program. Overall, 30% of participants liked the interviewer-administered 24hDR better than ASA24-Kids-2012; 23% liked ASA24- Kids-2012 better; 13% liked both equally; and 33% did not know or did not provide a response. There were no differences in method preference by site, age group, sex, or recall method order.
+
+Discussion
+This study assessed the validity of ASA24-Kids-2012 and an interviewer-administered 24hDR against an objective measure of observed food intake for a single meal. Overall, in both sites, ASA24-Kids-2012 was less accurate than an interviewer-administered 24hDR, obtaining significantly lower match rates and higher omission rates when compared to meal observations. A previous validation study of FIRSSt, a similar web-based self-administered 24hDR,15,16 among 138 fourth-grade children found similar comparisons.15 In contrast, a validation feeding study with adults using ASA24-2011 showed high agreement with truth32; thus, it is possible that age was the major determinant of low recall accuracy. Children aged 9-11 years may not be able to complete recalls without help. Recall accuracy improved with age when comparing third and fifth graders in one study,33 but findings from other studies, including the current one, did not support this relationship in this age group.34 In NHANES, children this age are always asked to complete their 24hDRs with adult assistance, further indicating some lack of confidence in the ability of children this age to complete a recall independently.26 Although ASA24-Kids is currently recommended for use by children aged 10 years or older,19 the results of the current study suggest that those aged 9-11 years may not be able to complete recalls on their own, so further research is needed to determine if, and under which circumstances, children can complete recalls without adult assistance.
+
+Site 2 had significantly higher match rates and lower intrusion rates for both ASA24-Kids-2012 and interviewer-administered 24hDRs than site 1, whereas the rates in site 1 more closely resembled the rates in the FIRSSt validation study15 (i.e., FIRSSt vs. observation had 40% match, 23% intrusion, and 36% omission rates, and the 24hDR vs. observation had 53% match, 20% intrusion, and 26% omission rates). This result was unexpected, given the higher SES of the sample in site 1: a previous, unpublished study has shown recall inaccuracy to be higher for lower SES samples.35 Multiple factors could have accounted for better performance on ASA24-Kids-2012 and the interviewer-administered 24hDR in site 2. First, the retention interval, which has been shown to be inversely related to accuracy of recalls,36-40 was shorter in site 2 than in site 1 (approximately 18-21 hours vs. 22-24 hours, respectively). Second, in site 1, usual school lunches were observed and analyzed, whereas a single special meal was offered in site 2. The special meal in site 2 was customized by the children (i.e., they chose their pizza toppings) and included only three foods, whereas the meals in site 1 were pre-made by school cafeteria staff and included more variety overall and more foods to report at each meal. The differences in novelty, customizability, and complexity between meals in the two sites (i.e., which may be memorable) likely accounted for differences in recall.
+
+The strengths of relationship (i.e., correlations) between reported and observed serving sizes for matched foods were lower for ASA24-Kids-2012 than interviewer-administered 24hDR in both sites. Only in site 2, when comparing the interviewer-administered 24hDR to observation, were the serving sizes significantly different from each other, which appears to have been a result of inconsistent and unclear reporting by interviewers of serving sizes for pizza in NDSR. For example, some pizzas were entered into NDSR as portions of a 14-inch diameter (the reference amount), whereas others were entered as 12-inch diameter, making it difficult to compare sizes. Overall, children were generally able to report serving sizes using ASA24-Kids-2012 and the interviewer-administered 24hDR, although the correlations between reported and observed portion sizes were low. Other studies have found that when children were able to recall the correct food (i.e., matches), recalled amounts were fairly accurate compared to observed amounts.41-45 ASA24-Kids-2012, in particular, utilizes multiple images of successively larger portion sizes on one computer screen, which is the preferred method for portion size estimation on computers.13
+
+Based on ASA24-Kids-2012 observations and interviews, the problems encountered and participants’ feedback were similar to the problems and obstacles encountered by children when completing the adult version (ASA24) in a previous validation study.14 Specifically, participants ignored tutorials, did not understand what to do at a given time, and searched for foods that did not appear as typed. The current version, ASA24-Kids-2014, released by the NCI in February 2014, was designed to be more user-friendly, and addresses some of the problems encountered in these validation studies. Further research needs to determine whether the new version is more valid than the 2012 version, which was used in this study.
+
+Limitations of the current study included: first, the sample size was small, so power was limited. This precluded some subgroup analyses to examine differences by other characteristics, such as race/ethnicity or weight status. Other studies have shown differences in self-report accuracy by body mass index and body composition,46-49 as well as having a computer at home.50 Second, the sample included children aged 9-11 years in two cities in the U.S., so findings cannot be generalized to other populations. Relatedly, this age group also prevented the authors from determining whether older children can more accurately complete a 24hDR on their own. Next, the authors coded foods within loose categories (e.g., a salad with tomatoes and a salad without tomatoes were considered matches); this coding rule may have resulted in underestimation of the recall accuracies and may have partly accounted for the higher match rates in site 2 (for which, coding of pizzas and their toppings may have been affected). However, given the study's focus on accuracy of recalled foods, rather than nutrients, coding within loose categories was appropriate. Other dietary-reporting methodological studies with children have coded in a similar manner.36,37,43-47,51-55 Last, aside from differences in retention intervals, meal novelty, and meal complexity (i.e., number and types of foods) between the two sites, there may have been differences in observation methods or dietary interviewers' methods. Although the principal investigator in site 2 visited site 1 to observe data collection and meet with study staff before beginning the study in site 2 (thus ensuring some consistency between sites), any variation in inter-observer reliability (one limitation of the reference method) could manifest as errors in participants’ self-report of diet.56
+
+Conclusion
+ASA24-Kids-2012 was less accurate than interviewer-administered 24hDRs when compared to observed intakes, but both reflected substantial error. Further research is needed to determine how to improve children's performance on ASA24-Kids, under what circumstances (e.g., special meals, dinner, or other circumstances resembling those in site 2) recalls may be used, and at what age children may accurately complete recalls on their own. In addition, research is needed on more objective measures, such as biomarkers or a wearable camera,57 to assess dietary behaviors,57,58 which potentially offer more accurate and less burdensome methods by which to capture the dietary intake of children.
+
+Acknowledgements
+The authors would like to thank all the children who participated in the study, as well as the staff members at the participating school district, school, and teaching kitchen. This research was funded by a grant from the National Institute of Diabetes and Digestive and Kidney Diseases (R01 DK091254) and by institutional support from USDA/ARS under Cooperative Agreement No. 58-6250-0-008. CSD was supported fully by a Primary Care Research Training Grant from National Research Service Award (#T32 HP10031).
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Conflict of Interest Disclosure
+
+There are no potential conflicts of interest, including specific financial interests and relationships and affiliations (other than those affiliations listed in the author page of the manuscript) relevant to the subject of our manuscript.
+
+Table 1 Demographics characteristics of 69 children participating in ASA24-Kids-2012a study in site 1 (Texas) and site 2 (Arizona)
+
+	Site 1 (n=38)	Site 2 (n=31)	
+	
+              
+            	
+	n	%	n	%	
+
+Age (years)
+					
+    9	9	24%	11	36%	
+    10	18	47%	10	32%	
+    11	11	29%	10	32%	
+
+Sex
+					
+    Male	19	50%	12	39%	
+    Female	19	50%	19	61%	
+
+Ethnicity**
+					
+    Hispanic	6	16%	14	45%	
+    Non-Hispanic	32	84%	14	45%	
+    Did not report	0	0%	3	10%	
+
+Race***
+					
+    White	14	37%	24	77%	
+    Asian	12	32%	0	0%	
+    Black	10	26%	1	3%	
+    Otherb	2	5%	3	10%	
+    Did not report	0	0%	3	10%	
+
+Weight statusc
+					
+    Underweight	1	3%	1	3%	
+    Healthy weight	26	68%	20	65%	
+    Overweight	8	21%	3	10%	
+    Obese	3	8%	7	23%	
+
+Highest household educational level***
+			
+    Some college or less	3	8%	15	48%	
+    College graduate	21	55%	6	19%	
+    Post graduate study	14	37%	9	29%	
+    Did not report	0	0%	1	3%	
+
+Household income**
+					
+    Less than $40,000	6	16%	17	55%	
+    $40,000 - $69,999	5	13%	4	13%	
+    $70,000 - $99,999	12	32%	3	10%	
+    $100,000 or more	14	37%	6	19%	
+    Did not report	1	3%	1	3%	
+a ASA24-Kids-2012 = Automated Self-Administered 24-Hour Dietary Recall for children, 2012 version.
+
+b Other races included mixed race, American Indian or Alaska Native, and Hispanic.
+
+c Weight status was defined using the Centers for Disease Control and Prevention BMI calculator program: underweight as less than the 5th percentile for BMI-for-age, healthy weight as between the 5th and 85th percentile, overweight as between the 85th to 95th percentile, and obese as equal to or greater than the 95th percentile.
+
+** Statistically different between sites 1 and 2, P&lt;0.01
+
+*** P&lt;0.001
+
+Table 2 Differences in percent matches, intrusions, and omissions in site 1 (Texas) and site 2 (Arizona) for children participating in ASA24-Kids-2012 study
+
+Comparison	Percent Matchesa	Percent Intrusionsb	Percent Omissionsc	Portion-size Correlation for Matched Foods	
+Site 1d (38 9-11-year-olds)					
+    ASA24-Kids-2012e vs. observation	37%	27%	35%	0.18	
+    24hDRf vs. observation	57%	20%	23%	0.46***	
+    P-valueg	0.0013	0.1082	0.0158		
+Site 2h (31 9-11-year-olds)					
+    ASA24-Kids-2012 vs. observation	53%	12%	36%	0.09	
+    24hDR vs. observation	76%	9%	15%	0.11**	
+    P-valueg	0.0004	0.5233	0.0016		
+a Matches are foods that were observed consumed and recalled the next day by the child.
+
+b Intrusions are foods that were not observed consumed but recalled the next day by the child.
+
+c Omissions are foods that were observed consumed but not recalled the next day by the child.
+
+d In site 1, observations were of a lunch meal.
+
+e ASA24-Kids-2012 = Automated Self-Administered 24-Hour Dietary Recall for children, 2012 version.
+
+f 24hDR = interviewer-administered 24-hour dietary recall.
+
+g Repeated measures analysis of covariance assessed differences between interviewer-administered 24hDRs and ASA24-Kids-2012.
+
+h In site 2, observations were of a dinner meal.
+
+*** 24hDR portion size and observation portion size were correlated, P&lt;0.001.
+
+** 24hDR portion size and observation portion size were statistically different, P&lt;0.01.
+
+
+   References
+1 
+            Baranowski T  
+            Mendlein J  
+            Resnicow K  
+            Frank E  
+            Cullen KW  
+            Baranowski J  
+           Physical activity and nutrition in children and youth: An overview of obesity prevention. Prev Med 2000 31 2 S1 S10 
+2 
+            De Moor C  
+            Baranowski T  
+            Cullen KW  
+            Nicklas T  
+           Misclassification associated with measurement error in the assessment of dietary intake. Public Health Nutr 2003 6 4 393 399 12795828 
+3 
+            Schatzkin A  
+            Kipnis V  
+           Could exposure assessment problems give us wrong answers to nutrition and cancer questions? J Natl Cancer Inst 2004 96 21 1564 1565 15523078 
+4 
+            Magarey A  
+            Watson J  
+            Golley RK  
+             
+           Assessing dietary intake in children and adolescents: Considerations and recommendations for obesity research. Int J Pediatr Obes 2011 6 1 2 11 20874449 
+5 
+            Thompson FE  
+            Subar AF  
+           
+            Coulston AM  
+            Boushey CJ  
+            Ferruzzi MG  
+           Dietary assessment methodology. Nutrition in the prevention and treatment of disease 2013 5 46 Academic Press San Diego, CA Third ed. 
+6 
+            McPherson RS  
+            Hoelscher DM  
+            Alexander M  
+            Scanlon KS  
+            Serdula MK  
+           Dietary assessment methods among school-aged children: Validity and reliability. Prev Med 2000 31 2 S11 S33 
+7 
+            Cullen KW  
+            Baranowski T  
+            Baranowski J  
+           Computer software design for children's recording of food intake. J Nutr Educ Behav 1998 30 6 405 409 
+8 
+            Vereecken CA  
+            Covents M  
+            Sichert-Hellert W  
+             
+           Development and evaluation of a self-administered computerized 24-h dietary recall method for adolescents in Europe. Int J Obes 2008 32 suppl 5 S26 S34 
+9 
+            Beltran A  
+            Knight Sepulveda K  
+            Watson K  
+             
+           Diverse food items are similarly categorized by 8- to 13-year-old children. J Nutr Educ Behav 2008 40 3 149 159 18457783 
+10 
+            Beltran A  
+            Knight Sepulveda K  
+            Watson K  
+             
+           Grains are similarly categorized by 8- to 13-year-old children. J Am Diet Assoc 2008 108 11 1921 1926 18954585 
+11 
+            Sepulveda KK  
+            Beltran A  
+            Watson K  
+             
+           Fruit and vegetables are similarly categorised by 8-13-year-old children. Public Health Nutr 2009 12 2 175 187 18561864 
+12 
+            Baranowski T  
+            Beltran A  
+            Martin S  
+             
+           Tests of the accuracy and speed of categorizing foods into child vs professional categories using two methods of browsing with children. J Am Diet Assoc 2010 110 1 91 94 20102832 
+13 
+            Baranowski T  
+            Baranowski JC  
+            Watson KB  
+             
+           Children's accuracy of portion size estimation using digital food images: Effects of interface design and size of image on computer screen. Public Health Nutr 2011 14 3 418 425 21073772 
+14 
+            Baranowski T  
+            Islam N  
+            Baranowski J  
+             
+           Comparison of a web-based versus traditional diet recall among children. J Acad Nutr Diet 2012 112 4 527 532 22717216 
+15 
+            Baranowski T  
+            Islam N  
+            Baranowski J  
+             
+           The food intake recording software system is valid among fourth-grade children. J Am Diet Assoc 2002 102 3 380 385 11902371 
+16 
+            Baranowski T  
+            Islam N  
+            Douglass D  
+             
+           Food intake recording software system, version 4 (FIRSSt4): A self-completed 24-h dietary recall for children. J Hum Nutr Diet 2014 27 suppl 1 66 71 22616645 
+17 
+            Vereecken CA  
+            Covents M  
+            Matthys C  
+            Maes L  
+           Young adolescents' nutrition assessment on computer (YANA-C). Eur J Clin Nutr 2005 59 5 658 667 15741983 
+18 
+            Vereecken C  
+            Dohogne S  
+            Covents M  
+            Maes L  
+           How accurate are adolescents in portion-size estimation using the computer tool young adolescents' nutrition assessment on computer (YANA-C)? Br J Nutr 2010 103 12 1844 1850 20128939 
+19 
+            National Cancer Institute 
+           ASA24™-Kids-2014 and ASA24™-Kids-2012 2014 ASA24 Web site. http://appliedresearch.cancer.gov/asa24/respondent/childrens.html . Updated April 11, 2014. October 29 
+20 
+            Subar AF  
+            Kirkpatrick SI  
+            Mittl B  
+             
+           The automated self-administered 24-hour dietary recall (ASA24): A resource for researchers, clinicians, and educators from the national cancer institute. J Acad Nutr Diet 2012 112 8 1134 1137 22704899 
+21 
+            Douglass D  
+            Islam N  
+            Baranowski J  
+             
+           Simulated adaptations to an adult dietary self-report tool to accommodate children: Impact on nutrient estimates. J Am Coll Nutr 2013 32 2 92 97 24015716 
+22 
+            Islam NG  
+            Dadabhoy H  
+            Gillum A  
+             
+           Digital food photography: Dietary surveillance and beyond. Procedia Food Science 2013 2 0 122 128 
+23 
+            Moshfegh AJ  
+            Rhodes DG  
+            Baer DJ  
+             
+           The US Department of Agriculture Automated Multiple-Pass Method reduces bias in the collection of energy intakes. Am J Clin Nutr 2008 88 2 324 332 18689367 
+24 
+            Baranowski T  
+            Domel SB  
+           A cognitive model of children's reporting of food intake. Am J Clin Nutr 1994 59 suppl 1 212S 217S 8279427 
+25 
+            Burrows TL  
+            Martin RJ  
+            Collins CE  
+           A systematic review of the validity of dietary assessment methods in children when compared with the method of doubly labeled water. J Am Diet Assoc 2010 110 10 1501 1510 20869489 
+26 
+            Centers for Disease Control and Prevention 
+           National health and nutrition survey (NHANES): MEC in-person dietary interviewers procedures manual http://www.cdc.gov/nchs/data/nhanes/nhanes_11_12/Dietary_MEC_In-Person_Interviewers_Manual.pdf . Published January 2011. July 21, 2014 
+27 
+            Baxter SD  
+           Cognitive processes in children's dietary recalls: Insight from methodological studies. Eur J Clin Nutr 2009 63 suppl 1 S19 S32 19190640 
+28 
+            Young LR  
+            Nestle MS  
+           Portion sizes in dietary assessment: Issues and policy implications. Nutr Rev 1995 53 6 149 158 7478309 
+29 
+            Steinfeldt L  
+            Anand J  
+            Murayi T  
+           Food reporting patterns in the USDA Automated Multiple-Pass Method. Procedia Food Science 2013 2 0 145 156 
+30 
+            Braun V  
+            Clarke V  
+           Using thematic analysis in psychology. Qualitative Research in Psychology 2006 3 2 77 101 
+31 
+            Kuczmarski RJ  
+            Ogden CL  
+            Guo SS  
+             
+           2000 CDC growth charts for the United States: Methods and development. Vital Health Stat 11 2002 246 1 190 12043359 
+32 
+            Kirkpatrick SI  
+            Subar AF  
+            Douglass D  
+             
+           Performance of the automated self-administered 24-hour recall relative to a measure of true intakes and to an interviewer-administered 24-h recall. Am J Clin Nutr 2014 100 1 233 240 24787491 
+33 
+            Baxter SD  
+            Hitchcock DB  
+            Guinn CH  
+             
+           A validation study concerning the effects of interview content, retention interval, and grade on children's recall accuracy for dietary intake and/or physical activity J Acad Nutr Diet 2014 Published online ahead of print April 23, 2014 doi: 10.1016/j.jand.2014.02.017 
+34 
+            Baxter SD  
+            Hitchcock DB  
+            Guinn CH  
+             
+           A pilot study of the effects of interview content, retention interval, and grade on accuracy of dietary information from children. J Nutr Educ Behav 2013 45 4 368 373 23562487 
+35 
+            Baxter SD  
+            Guinn CH  
+            Royer JA  
+             
+           Socioeconomic status and measures of dietary recall accuracy for fourth-grade children. FASEB J 2010 24 563 
+36 
+            Baxter SD  
+            Smith AF  
+            Litaker MS  
+             
+           Recency affects reporting accuracy of children's dietary recalls. Ann Epidemiol 2004 14 6 385 390 15246326 
+37 
+            Baxter SD  
+            Royer JA  
+            Hardin JW  
+            Guinn CH  
+            Smith AF  
+           Fourth-grade children are less accurate in reporting school breakfast than school lunch during 24-hour dietary recalls. J Nutr Educ Behav 2007 39 3 126 133 17493562 
+38 
+            Baxter SD  
+            Guinn CH  
+            Royer JA  
+            Hardin JW  
+            Mackelprang AJ  
+            Smith AF  
+           Accuracy of children's school-breakfast reports and school-lunch reports (in 24-h dietary recalls) differs by retention interval. Eur J Clin Nutr 2009 63 12 1394 1403 19756033 
+39 
+            Baxter SD  
+            Hardin JW  
+            Guinn CH  
+            Royer JA  
+            Mackelprang AJ  
+            Smith AF  
+           Fourth-grade children's dietary recall accuracy is influenced by retention interval (target period and interview time). J Am Diet Assoc 2009 109 5 846 856 19394471 
+40 
+            Baxter SD  
+            Guinn CH  
+            Royer JA  
+            Hardin JW  
+            Smith AF  
+           Shortening the retention interval of 24-hour dietary recalls increases fourth-grade children's accuracy for reporting energy and macronutrient intake at school meals. J Am Diet Assoc 2010 110 8 1178 1188 20656093 
+41 
+            Baxter SD  
+            Guinn CH  
+            Hardin JW  
+            Royer JA  
+            Wilson DK  
+           
+            Ellsworth SJ  
+            Schuster RC  
+           Methodological research concerning the accuracy of children's dietary recalls. Appetite and nutritional assessment 2010 197 257 Nova Science Publishers, Inc. New York 
+42 
+            Baxter SD  
+            Thompson WO  
+            Davis HC  
+            Johnson MH  
+           Impact of gender, ethnicity, meal component, and time interval between eating and reporting on accuracy of fourth-graders' self-reports of school lunch. J Am Diet Assoc 1997 97 11 1293 1298 9366868 
+43 
+            Baxter SD  
+            Thompson WO  
+            Litaker MS  
+            Frye FHA  
+            Guinn CH  
+           Low accuracy and low consistency of fourth-graders' school breakfast and school lunch recalls. J Am Diet Assoc 2002 102 3 386 395 11905461 
+44 
+            Baxter SD  
+            Thompson WO  
+            Litaker MS  
+             
+           Accuracy of fourth-graders' dietary recalls of school breakfast and school lunch validated with observations: In-person versus telephone interviews. J Nutr Educ Behav 2003 35 3 124 134 12773283 
+45 
+            Baxter SD  
+            Thompson WO  
+            Smith AF  
+             
+           Reverse versus forward order reporting and the accuracy of fourth-graders' recalls of school breakfast and school lunch. Prev Med 2003 36 5 601 614 12689806 
+46 
+            Baxter SD  
+            Smith AF  
+            Litaker MS  
+             
+           Body mass index, sex, interview protocol, and children’s accuracy for reporting kilocalories observed eaten at school meals. J Am Diet Assoc 2006 106 10 1656 1662 17000199 
+47 
+            Baxter SD  
+            Smith AF  
+            Nichols MD  
+            Guinn CH  
+            Hardin JW  
+           Children's dietary reporting accuracy over multiple 24-hour recalls varies by body mass index category. Nutr Res 2006 26 6 241 248 17541449 
+48 
+            Fisher JO  
+            Johnson RK  
+            Lindquist C  
+            Birch LL  
+            Goran MI  
+           Influence of body composition on the accuracy of reported energy intake in children. Obes Res 2000 8 8 597 603 11156436 
+49 
+            Guinn CH  
+            Baxter SD  
+            Royer JA  
+            Hardin JW  
+            Mackelprang AJ  
+            Smith AF  
+           Fourth-grade children's dietary recall accuracy for energy intake at school meals differs by social desirability and body mass index percentile in a study concerning retention interval. J Health Psychol 2010 15 4 505 514 20460407 
+50 
+            Davies VF  
+            Kupek E  
+            de Assis MA  
+            Natal S  
+            Di Pietro PF  
+            Baranowski T  
+           Validation of a web-based questionnaire to assess the dietary intake of Brazilian children aged 7-10 years J Hum Nutr Diet 2014 Published online ahead of print August 19, 2014 doi: 10.1111/jhn.12262 
+51 
+            Baxter SD  
+            Smith AF  
+            Guinn CH  
+             
+           Interview format influences the accuracy of children's dietary recalls validated with observations. Nutr Res 2003 23 11 1537 1546 
+52 
+            Baxter SD  
+            Smith AF  
+            Hardin JW  
+            Nichols MD  
+           Conclusions about children's reporting accuracy for energy and macronutrients over multiple interviews depend on the analytic approach for comparing reported information to reference information. J Am Diet Assoc 2007 107 4 595 604 17383265 
+53 
+            Baxter SD  
+            Smith AF  
+            Hardin JW  
+            Nichols MD  
+           Conventional energy and macronutrient variables distort the accuracy of children's dietary reports: Illustrative data from a validation study of effect of order prompts. Prev Med 2007 44 1 34 41 16959308 
+54 
+            Smith AF  
+            Baxter SD  
+            Hardin JW  
+            Nichols MD  
+           Conventional analyses of data from dietary validation studies may misestimate reporting accuracy: Illustration from a study of the effect of interview modality on children's reporting accuracy. Public Health Nutr 2007 10 11 1247 1256 17381899 
+55 
+            Smith AF  
+            Baxter SD  
+            Hardin JW  
+            Guinn CH  
+            Royer JA  
+            Litaker MS  
+           Validation-study conclusions from dietary reports by fourth-grade children observed eating school meals are generalisable to dietary reports by comparable children not observed. Public Health Nutr 2007 10 10 1057 1066 17381934 
+56 
+            Baglio ML  
+            Baxter SD  
+            Guinn CH  
+            Thompson WO  
+            Shaffer NM  
+            Frye FHA  
+           Assessment of interobserver reliability in nutrition studies that use direct observation of school meals. J Am Diet Assoc 2004 104 9 1385 1392 15354155 
+57 
+            Stumbo PJ  
+           New technology in dietary assessment: A review of digital methods in improving food record accuracy. Proc Nutr Soc 2013 72 1 70 76 23336561 
+58 
+            Illner AK  
+            Freisling H  
+            Boeing H  
+            Huybrechts I  
+            Crispim SP  
+            Slimani N  
+           Review and evaluation of innovative technologies for measuring diet in nutritional epidemiology. Int J Epidemiol 2012 41 4 1187 1203 22933652 
+

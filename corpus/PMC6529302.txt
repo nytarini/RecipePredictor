@@ -1,0 +1,331 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   87016801585Am J Health PromotAm J Health PromotAmerican journal of health promotion : AJHP0890-11712168-660230463414652930210.1177/0890117118814397NIHMS998793ArticleChanges in Food Insecurity and Smoking Status over Time: Analysis of the 2003 and 2015 Panel Study of Income Dynamics Kim-Mozeleski Jin E. 1*Seligman Hilary K. 2Yen Irene H. 3Shaw Susan J. 1Buchanan David R. 1Tsoh Janice Y. 41 Department of Health Promotion and Policy, School of Public Health and Health Sciences, University of Massachusetts Amherst, Amherst, MA, USA2 Departments of Medicine and of Epidemiology and Biostatistics, University of California San Francisco, San Francisco, CA, USA3 Public Health, School of Social Sciences, Humanities &amp; Arts, University of California Merced, Merced, CA, USA4 Department of Psychiatry, University of California San Francisco, San Francisco, CA, USA* Corresponding author: Jin E. Kim-Mozeleski, PhD. University of Massachusetts Amherst, 715 N Pleasant St., Amherst, MA 01003, USA. Tel: +1-413-545-4485, jinkim@umass.edu28 11 2018 21 11 2018 6 2019 01 6 2020 33 5 698 707 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Purpose.
+To examine whether food insecurity longitudinally affects smoking status
+
+Design.
+Population-based prospective study
+
+Setting.
+Data from the 2003 and 2015 Panel Study of Income Dynamics (PSID)
+
+Participants.
+4,563 adults, who were smokers and non-smokers, participating in the 2003 (current study baseline) and 2015 (current study follow-up) waves of PSID
+
+Measures.
+Based on self-reported smoking status at baseline and follow-up, respondents were categorized as: continued smoking, stopped smoking, started smoking, and continued non-smoking. Similarly, respondents were categorized as: stayed food secure, stayed food insecure, became food insecure, and became food secure, based on responses to the Food Security Survey at baseline and follow-up.
+
+Analysis.
+Two logistic regression analyses to examine: (1) among smokers at baseline, the odds of stopping vs. continuing smoking by follow-up, and (2) among non-smokers at baseline, the odds of starting vs. continuing non-smoking by follow-up. In both models, change in food insecurity status was the primary independent variable, controlling for demographics, including poverty.
+
+Results.
+Among smokers at baseline, becoming food insecure (vs. staying food secure) was independently associated with lower likelihood of stopping smoking by follow-up (OR=0.66). Among non-smokers at baseline, becoming food insecure (vs. staying food secure) was independently associated with higher likelihood of starting smoking by follow-up (OR=3.77).
+
+Conclusions.
+Food insecurity is a risk factor for smoking, which has significant implications for developing interventions to reduce smoking prevalence, especially among low-income groups.
+
+
+   INTRODUCTION
+In recent decades, cigarette smoking has become increasingly concentrated among individuals who are socioeconomically disadvantaged.1 Socioeconomic disparities in smoking have widened over time,2 which underscores the need to address smoking as a driver of health disparities in low-income population groups. The 2015 National Health Interview Survey showed that 68% of smokers wanted to stop smoking completely and 55% reported making a quit attempt in the past year; the level of interest in quitting and past-year quit attempts did not vary across socioeconomic status indicators, such as level of education and poverty status.3 This and other research suggests that quit attempts in socioeconomically disadvantaged populations are less successful.4 There is a need to identify and address barriers to successful smoking cessation that are feasible and significant at the population level by looking beyond the traditional scope of approaches to tobacco control.
+
+Food insecurity occurs when access to adequate food is limited by a lack of money and other resources.5 In 2016, food insecurity affected 12.3% of all U.S. households, and 38.3% of households living in poverty.5 Food insecurity has been linked to numerous adverse physical (e.g., chronic diseases, obesity) and mental health outcomes (e.g., depression, anxiety) across all stages of life.6,7 Epidemiological studies conducted in the U.S. and in other countries have demonstrated a relatively robust link between food insecurity and smoking.8–14 The association appears to be bidirectional, with some studies showing that smoking increases the likelihood of food insecurity,8–10 while other studies show that food insecurity increases the likelihood of smoking.11–13 These associations remain significant after controlling for socioeconomic factors, such as income and level of education. Researchers hypothesize that food insecurity may promote smoking for stress relief and/or suppression of hunger, but spending on cigarettes competes with other household spending and thereby worsens food insecurity.11 Though cross-sectional research demonstrates a correlation between food insecurity and smoking, there is little empirical evidence regarding the causal (or mutually reinforcing) direction, potential pathways, and associations over time.
+
+A nationally representative, cross-sectional trend analysis using data from the Current Population Survey found that, between 1998/1999 and 2010/2011, overall declines in smoking were slower among adults with food insecurity (14%) compared to adults without food insecurity (33%).15 These results raise the question of whether the smaller decline is attributable to smokers with food insecurity being less likely to quit than smokers without food insecurity, or if non-smokers with food insecurity were more likely to start smoking than non-smokers without food insecurity, or both. The study also reported that the overall prevalence of food insecurity increased by 30% in the general population, largely due to the economic recession in 2008; however, food insecurity increased by 54% among current smokers.15 Potential approaches to strengthen confidence in the validity of causal inferences that might be drawn from these cross-sectional associations are to examine such associations with longitudinal data, to prospectively examine whether food insecurity status predicts smoking outcomes.
+
+The current study was undertaken to examine whether individuals’ smoking status changed as a function of food insecurity over a 12-year period between 2003 and 2015, using data from the Panel Study of Income Dynamics. This time period is particularly well-suited to the study aims because it covers a population-level decrease in smoking,2 while at the same time there was a population-level increase in food insecurity.5 The aims of this study were to examine in a national sample (1) whether adult smokers’ likelihood of stopping smoking over time was influenced by their food insecurity status, and (2) whether adult non-smokers’ likelihood of starting smoking over time depended on their food insecurity status. Because food insecurity is more likely to occur among persons and households in poverty,5 and smoking is also more common among those in poverty,16 we examined food insecurity on smoking above and beyond poverty.
+
+Drawing on existing research, we hypothesized that smokers who experienced food insecurity would be less likely to stop smoking compared to smokers who were not food insecure (Hypothesis 1). We further hypothesized that non-smokers who experienced food insecurity would be more likely to start smoking compared to non-smokers who were not food insecure (Hypothesis 2). We examined food insecurity and smoking status in two time points, to be able to examine whether any self-reported change in food insecurity predicted self-reported change in smoking status, in terms of stopping or continuing smoking among smokers, and starting smoking or remaining non-smoking among non-smokers. We acknowledge from the outset that the current study involves just two time points that are measured across a relatively long span. This design nevertheless provides a more advanced understanding of the population-level association between food insecurity and smoking status that has been examined largely using cross-sectional data, while capturing a historically meaningful timeframe that surrounds the economic recession.
+
+METHODS
+Data Source and Sampling
+We used data from the Panel Study of Income Dynamics (PSID),17 currently the longest running longitudinal household survey worldwide. PSID began in 1968, was conducted annually through 1997, and is now conducted every other year. PSID captures information on socioeconomic factors and health of the general population, including lower-income population groups, across the U.S., using a sampling methodology that collects detailed information from and about individuals who are designated as heads of households and basic information about other household members. PSID is one of the only representative and longitudinal datasets with information on individuals’ smoking history and current behaviors (assessed each survey year) and household/individual food insecurity (assessed in select survey years; prior to 2015, the most recent measurement of food insecurity in the PSID occurred in the 2003 survey year). Detailed information on the PSID and the data can be found online at https://psidonline.isr.umich.edu. We used publicly available and de-identified data of adult heads-of-households who participated in the PSID Main Interview in both 2003 and 2015, with individuals linked by unique identification numbers that were generated according to a formula provided by the study developers. The 2003 survey year is considered the current study’s baseline, and the 2015 survey year is considered the current study’s endpoint. Figure 1 depicts the sample selection.
+
+Measures
+The dependent variable was smoking status. Current smoking status was self-reported by the question “Do you smoke cigarettes?” with a yes/no response. Those responding “yes” were asked additional questions about their smoking, such as number of cigarettes smoked per day on average and age when first began smoking regularly. Those responding “no” were asked about smoking history (former smoking). Using reports of current smoking obtained at baseline and follow-up, we constructed categories of smoking status to capture responses at both time points: continued smoking (smoking in both years), stopped smoking (smoking only at baseline), started smoking (smoking only at follow-up), and continued non-smoking (not smoking in either year). This type of categorization, based on longitudinal data obtained from two time points, has been conducted in previous research examining change in smoking status across time.18,19
+
+The primary independent variable was food insecurity, measured using the 10-item Adult Household Food Security Survey developed by the U.S. Department of Agriculture.20 This survey is administered in three stages; only those who respond affirmatively to the first-stage screening questions are asked questions in the second stage, and only those who respond affirmatively to any of the second-stage questions are asked questions in the third stage. Each stage reflects greater severity of food insecurity, ranging from worrying about running out of food, to how often one did not eat for a whole day due to lack of money for food. Given this staged design, most respondents are not asked all 10 questions. In accordance with scoring instructions, raw scores are categorized as high, marginal, low, and very low food security. Here, we describe the sample using these established categories reflecting the severity of food insecurity. This variable is also standardly examined as a dichotomous indicator, by combining the low and very low food security categories into “food insecure” and marginal and high food security categories into “food secure.” To test our study hypotheses, we used responses at baseline and follow-up to develop categories to capture food insecurity status in the two survey years: stayed food secure (no food insecurity in either year), stayed food insecure (food insecurity in both years), became food insecure (food insecurity only at follow-up), and became food secure (food insecurity only at baseline).
+
+To examine the effect of food insecurity on smoking above and beyond the effect of poverty, we developed and included a poverty variable in the models. Poverty was calculated based on the household’s income to poverty ratio from the previous year21 (at/below or above 100% of federal poverty level). Responses were categorized as stayed above poverty, stayed at/below poverty, became at/below poverty, and became above poverty. Other covariates included demographic characteristics: age, sex, race, highest education level, marital status, employment status, and any receipt of food assistance through the Supplemental Nutrition Assistance Program in the past year. We included psychological distress, a known correlate of smoking,22 measured by the 6-item Kessler Psychological Distress Scale (K6). K6 captures nonspecific psychological distress symptoms experienced in the past 30 days. Responses were categorized as no/mild, moderate, and serious psychological distress.23
+
+Analysis
+Weighted descriptive statistics were used to describe overall sample characteristics at both baseline and follow-up by current smoking status. To test study hypotheses, we conducted two sets of logistic regression analyses, based on individual smoking status at baseline (see Figure 1). Model 1: To test Hypothesis 1 that smokers with food insecurity would be less likely to stop smoking compared to smokers without food insecurity, we analyzed data from respondents who reported smoking at baseline to examine likelihood of stopping versus continuing smoking by follow-up. Model 2: To test Hypothesis 2 that non-smokers with food insecurity would be more likely to start smoking compared to non-smokers without food insecurity, we analyzed data from respondents who reported non-smoking at baseline to examine likelihood of starting smoking versus staying non-smoking by follow-up. In both analyses, the primary independent variable was change in food insecurity status, accounting for change in household poverty status.
+
+Model 1 controlled for average number of cigarettes smoked per day at baseline, and Model 2 controlled for former smoking. Both logistic regression models included covariates described above as measured at follow-up. Given the study’s 12-year timeframe, we used participants’ characteristics at follow-up in the logistic regression models as an adjustment for the most recently self-reported characteristics on current smoking behavior.
+
+PSID releases survey weights for each survey year that are designed to account for unequal probability of selection and differential attrition over time. Both logistic regression analyses were weighted to the 2015 survey year.
+
+RESULTS
+Sample Characteristics
+Table 1 displays sample demographic and food insecurity characteristics at baseline (2003) by smoking status. As expected based on national trends, overall smoking prevalence was 22.4% (95% CI [19.6, 25.3]) at baseline and declined to 15.3% (95% CI [10.5, 20.1]) at follow-up (data not shown on table). Food insecurity at baseline was 6.3% (95% CI [6.2, 6.5]), and increased to 9.3% (95% CI [4.7, 13.9]) at follow-up. At baseline, 11.2% (95% CI [8.6, 13.9]) of smokers reported any food insecurity in the past year, whereas 21.2% (95% CI [6.1, 36.2]) of smokers reported past-year food insecurity at follow-up.
+
+Among smokers at baseline, 57.4% (95% CI [45.6, 69.2]), n=660) reported continuing smoking and 42.6% (95% CI [30.8, 54.4], n=468) reported stopping smoking by follow-up. Among non-smokers at baseline, 97.1% (95% CI [95.0, 99.3]), n=3,321) reported continuing non-smoking and 2.9% (95% CI [0.7, 5.0]), n=114) reported starting smoking. Table 2 displays sample characteristics at follow-up, based on categories of smoking status change. Among those who started smoking, 84.6% (95% CI [66.0, 100.0], n=84) were former smokers who relapsed. Among those who continued non-smoking, 32.7% (95% CI [30.8, 34.7], n=977) were former smokers who stayed quit.
+
+Based on food insecurity status at baseline and follow-up, 87.5% (95% CI [82.9, 92.0], n=3,796) stayed food secure, 3.1% (95% CI [2.1, 4.1], n=184) stayed food insecure, 6.2% (95% CI [1.8, 10.6], n=393) became food insecure, and 3.3% (95% CI [2.6, 3.9], n=190) became food secure. As shown on Table 2, the prevalence of staying food secure was highest among those who continued non-smoking (91.0%, 95% CI [88.8, 93.3]) and lowest among those who started smoking (70.4%, 95% CI [42.5, 98.4]).
+
+Main Analyses
+Table 3 displays the unadjusted and adjusted odds ratios for Model 1, examining the likelihood of stopping versus continuing smoking at follow-up among smokers at baseline. Unadjusted associations showed that smokers who stayed food insecure (odds ratio [OR]=0.26) and smokers who became food insecure (OR=0.49) were less likely to stop smoking at follow-up, compared to smokers who stayed food secure. When adjusting for all other variables in the model, becoming food insecure (adjusted odds ratio [AOR]=0.66) remained independently associated with lower likelihood of stopping smoking at follow-up. Furthermore, becoming food secure was independently associated with higher likelihood of stopping smoking at follow-up (AOR=1.20). These effects were found above and beyond the significant effect of poverty on smoking status. Other variables with significant unadjusted associations, specifically marital status and receipt of food assistance in the past year, were no longer significant in the adjusted model. Age, race, education, and cigarettes per day at baseline continued to be significantly associated with smoking status. In the adjusted analysis, Black or African Americans were less likely to stop smoking compared to Whites (AOR=0.70). Those who reported an education level of 13 or more years were more likely to stop smoking compared to those with 12 years of education (AOR=1.59).
+
+Table 4 displays the unadjusted and adjusted odds ratios for Model 2, examining the likelihood of starting smoking versus continuing non-smoking at follow-up among non-smokers at baseline. The adjusted model included the same set of covariates as in Model 1, with former smoking status included instead of average number of cigarettes. Those who became food insecure had a three-fold greater odds of starting smoking (AOR=3.77) compared to those who stayed food secure. Older age (55 or older) was associated with lower likelihood of starting smoking (AOR=0.19), whereas being unmarried was associated with higher likelihood of starting smoking (AOR=2.04). Non-smokers at baseline who were former smokers had much greater odds of starting smoking (AOR=17.73) compared to those who never smoked.
+
+DISCUSSION
+We report two main findings associated with becoming food insecure over time. First, among smokers at baseline, individuals who became food insecure were less likely to stop smoking by follow-up, compared to counterparts who stayed food secure. Second, among non-smokers at baseline, individuals who became food insecure had an increased likelihood of starting smoking, compared to counterparts who stayed food secure. To our knowledge, this is the first longitudinal study examining whether food insecurity status is independently associated with changes in smoking status. We examined food insecurity above and beyond changes in income, specifically poverty. These results suggest that food insecurity may not only be a barrier to smoking cessation at the population level, but may also be a risk factor for non-smokers to start smoking.
+
+Food insecurity is not a static experience, as it often fluctuates over time.5 Individuals and households may experience food insecurity for reasons that are circumstantial and temporary to a particular year, or more chronic and enduring across years. Acknowledging that our measure of change in food insecurity was based on two time points capturing food insecurity at the household level, the findings showed that smokers who became food insecure were less likely to stop smoking, compared to smokers who stayed food secure. Conversely, those who were previously food insecure but became food secure were more likely to stop smoking, compared to those who stayed food secure. These findings therefore provide initial evidence of lower likelihood of cessation among smokers who encounter food insecurity. Although we did not have data on quit attempts or interest, other nationally representative findings from 2015 show that the majority of smokers regardless of socioeconomic status were interested in quitting, and nearly half made a past-year quit attempt.3 Previous findings show that when smokers attempt to quit when they are also actively dealing with financial hardships, they are less likely to be successful.24 Our findings draw attention specifically to the role of food insecurity in further understanding disparities in successful smoking cessation.
+
+Non-smokers who became food insecure had an increased likelihood of starting smoking by follow-up. The association between becoming food insecure and starting smoking remained significant from the unadjusted to the adjusted analysis that controlled for former smoking. As the majority of those who started smoking by follow-up were former smokers, this pattern suggests that food insecurity may play a role in smoking relapse. In a study examining reasons for relapse among daily smokers with a previous quit attempt, smokers with lower socioeconomic status, compared to smokers with higher socioeconomic status as measured by education and employment, were more likely to report that they relapsed because of psychological symptoms, such as feeling nervous, restless, or depressed.25 The association between food insecurity and poor mental health is well documented, with quantitative studies demonstrating robust associations between food insecurity and mental health problems,26,27 and qualitative studies describing food insecurity’s negative effects on personal and family stress.28 In this study, we accounted for psychological distress, which was significantly associated with starting smoking only in the unadjusted analysis. It is plausible that the psychological stress of food insecurity may have promoted relapse among non-smokers with a history of smoking. This is an important area for future investigation.
+
+Our study raises additional questions regarding pathways that link food insecurity with cigarette smoking, as well as underlying reasons explaining their co-occurrence. A survey of existing literature suggests a feedback loop between food insecurity and smoking, created by a combination of factors that are psychological (e.g., stress, anxiety, depression), physiological (e.g., hunger and appetite suppression), and cognitive (e.g., decision-making around tradeoffs). Food insecurity and cigarette smoking are both shaped by a complex set of social, structural, and environmental vulnerabilities, such that populations who are at heightened risk of using tobacco are also at heightened risk for food insecurity. Therefore, targeted efforts to ensure food security may have the added benefit of supporting smoking cessation at the population level. Smoking cessation may also have the added benefit of promoting food security.
+
+Findings from this study must be interpreted alongside its limitations. Foremost, the current results do not allow one to draw definitive conclusions about causality in terms of food insecurity and smoking status, although the longitudinal nature of the data used in this study provide additional evidence, beyond cross-sectional correlations, to buttress such claims. In addition, all variables included in this study were based on respondent self-report. The 12-year timeframe cannot speak to when individuals shifted in their smoking status or food insecurity status between baseline and follow-up. Our choice in examining the 2003 and 2015 survey years of the PSID was largely due to the availability of longitudinal data from the Food Security Survey in those survey years. The current data do not provide greater detail as to whether individuals stopped or started smoking at the follow-up or by the follow-up, as well as variations in smoking status between the survey years. Smoking was measured on the basis of cigarette smoking, and does not capture the use of other products gaining widespread popularity during this timeframe, such as electronic cigarettes. Categories of food insecurity status were constructed based on two years of data, which also does not capture potentially meaningful variations in between.
+
+We also note considerations regarding the study sample. Although drawn from a nationally representative sample, our inclusion criteria required participants to have participated at both baseline and follow-up. Thus, the current study sample may differ from respondents who may have dropped out of the PSID over the years for various reasons, such as loss to follow-up, non-response, or death. It is also worth mentioning that the study sample was comprised of individuals who were heads-of-households, partly accounting for why there were more male than female respondents. Whether these results would generalize to adults who are not considered heads of their households is not known. Finally, we acknowledge that stopping smoking is based on a single point in time (in contrast to quitting smoking permanently), and starting smoking included both initiating smoking, and, much more often, restarting smoking. Given these limitations, our findings should be considered an initial step towards extending the current literature that has largely been based on cross-sectional data. Longitudinal research designs that account for change much more sensitively while measuring the variables of interest more specifically (e.g., three or more repeated measurements, biochemical verification of smoking status) are needed to replicate these findings.
+
+Food insecurity has important consequences for health disparities, including those that may be related to tobacco use. The current study provides initial evidence that changes in food insecurity independently affect changes in smoking status, and raises consideration of food insecurity as a proximal factor associated with socioeconomic disparities in smoking. Targeted efforts to address food insecurity, through policies and interventions, may thereby contribute to better smoking cessation outcomes and prevent relapse at the population-level. Smoking cessation interventions for low-income persons may consider screening for food insecurity to identify those who may be at risk for lower success with cessation, or who may be at risk for relapse among those who have quit. Considering community-based settings that are not traditionally focused on smoking cessation but are designed to mitigate food insecurity, such as food assistance programs, for delivery of evidence-based smoking cessation services may be another important strategy for tackling cigarette use disparities. Comprehensive and innovative strategies combining tobacco control efforts with increasing healthy food access are structural and policy level considerations with important public health implications.
+
+This work was supported by the National Institutes of Health (grant numbers K01DA043659 and R01DA036749). The collection of data used in this study (the Panel Study of Income Dynamics) was partly supported by the National Institutes of Health under grant number R01 HD069609 and the National Science Foundation under award number 1157698. The funding agencies had no involvement in the design and conduct of the study, data analysis, interpretations of the data, and preparation and submission of the article. The authors would like to thank Dr. Jessica Pearlman at the UMass Amherst Institute for Social Science Research for consultation on data analysis.
+
+Figure 1. Flowchart Depicting Sample Selection for Current Study from 2003 and 2015 Panel Study of Income Dynamics (PSID)
+
+Notes: Sample sizes shown are unweighted; Models 1 and 2 in the analyses were weighted.
+
+Table 1. Characteristics of the Study Sample by Current Smoking Status Reported in 2003, Panel Study of Income Dynamics
+
+	Total Sample
+(N = 4,563)	Smoker
+(N = 1,128)	Non-smoker
+(N = 3,435)	
+	N	Weighted % 
+(95% CI)	Weighted % 
+(95% CI)	Weighted % 
+(95% CI)	
+Age group					
+ 18-39 years	1,881	33.3 (30.3, 36.3)	39.3 (25.6, 53.0)	31.6 (30.9, 32.2)	
+ 40-54 years	1,804	37.1 (34.5, 39.7)	41.1 (40.1, 42.1)	36.0 (32.8, 39.2)	
+ 55 years and older	878	29.6 (24.3, 34.8)	19.6 (6.5, 32.7)	32.4 (29.8, 35.1)	
+Sex					
+ Male	3,353	75.3 (67.0, 83.7)	70.5 (54.7, 86.3)	76.7 (70.3, 83.2)	
+ Female	1,210	24.7 (16.3, 33.0)	29.5 (13.7, 45.3)	23.3 (16.8, 29.7)	
+Race					
+ African American/Black	1,513	12.5 (3.22, 21.8)	15.4 (0.00, 32.7)	11.7 (4.5, 18.8)	
+ Other	461	12.1 (4.8, 19.3)	10.1 (2.7, 17.6)	12.6 (5.5, 19.7)	
+ White	2,589	75.4 (58.9, 92.0)	74.5 (49.8, 99.1)	75.7 (61.5, 89.9)	
+Education level					
+ &lt; 12 years	813	16.0 (9.8, 22.2)	24.6 (6.8, 42.4)	13.5 (9.8, 17.2)	
+ 12 years	1,432	30.2 (29.7, 30.6)	37.3 (31.2, 43.4)	28.1 (26.2, 29.9)	
+ 13+ years	2,076	53.8 (47.6, 60.0)	38.1 (14.3, 61.8)	58.4 (55.3, 61.6)	
+Marital status					
+ Married	2,479	55.2 (51.8, 58.6)	40.2 (32.0, 48.5)	59.5 (55.0, 64.0)	
+ Never married	1,060	19.9 (15.9, 23.9)	27.4 (20.9, 33.9)	17.7 (13.9, 21.6)	
+ Widowed	199	5.7 (5.1, 6.2)	2.7 (1.9, 3.5)	6.5 (5.9, 7.1)	
+ Divorced	620	16.4 (15.4, 17.3)	24.7 (20.2, 29.3)	14.0 (13.0, 14.9)	
+ Separated	205	2.9 (2.0, 3.8)	4.9 (2.5, 7.4)	2.3 (0.4, 4.2)	
+Employment status					
+ Working now	3,607	78.4 (76.7, 80.1)	76.7 (74.3, 79.0)	78.9 (76.8, 81.0)	
+ Unemployed, looking for work	297	4.5 (3.6, 5.4)	8.6 (5.1, 12.1)	3.3 (2.2, 4.4)	
+ Retired	316	11.0 (10.9, 11.1)	5.0 (0.0, 13.6)	12.8 (9.9, 15.6)	
+ All other categories	343	6.1 (4.7, 7.5)	9.8 (4.7, 14.8)	5.0 (4.4, 5.7)	
+Poverty, based on federal poverty level (FPL)					
+ &gt;100% FPL	4,040	92.0 (91.1, 92.8)	86.6 (80.6, 92.5)	93.5 (91.8, 95.2)	
+ ≤100% FPL	523	8.0 (7.2, 8.9)	13.4 (7.5, 19.4)	6.5 (4.8, 8.2)	
+Received food assistance, past year					
+ No	4,135	94.7 (93.2, 96.1)	90.4 (88.0, 92.8)	95.9 (93.9, 97.9)	
+ Yes	428	5.3 (3.9, 6.8)	9.6 (7.2, 12.0)	4.1 (2.1, 6.1)	
+Psychological distress, past 30 days1					
+ None or mild	3,334	75.6 (70.7, 80.5)	67.5 (61.5, 73.5)	77.9 (73.7, 82.2)	
+ Moderate	1,035	21.3 (18.2, 24.4)	26.1 (25.3, 26.8)	19.9 (16.4, 23.4)	
+ Severe	154	3.1 (1.3, 5.0)	6.4 (1.1, 11.7)	2.2 (1.4, 2.9)	
+Food insecurity status, past year					
+ High food security	3,761	86.5 (85.6, 87.5)	79.8 (78.0, 81.7)	88.5 (87.2, 89.7)	
+ Marginal food security	428	7.1 (6.1, 8.2)	8.9 (4.9, 12.9)	6.6 (4.9, 8.3)	
+ Low food security	232	3.7 (3.0, 4.4)	5.8 (5.1, 6.4)	3.1 (2.1, 4.1)	
+ Very low food security	142	2.6 (1.7, 3.5)	5.5 (3.4, 7.6)	1.8 (0.7, 2.9)	
+Former smoker	N/A	N/A	N/A	35.4 (32.7, 38.2)	
+Average # of cigarettes per day, M (SE)	N/A	N/A	15.5 (1.05)	N/A	
+Notes.
+
+1 40 respondents had missing responses. N/A = Not Applicable
+
+Table 2. Characteristics of the Study Sample by Smoking Status Change from Baseline (2003) to Follow-Up (2015), Panel Study of Income Dynamics
+
+	Smoking status change from baseline to follow-up		
+	Continued
+Smoking
+(n = 660)	Stopped
+Smoking
+(n = 468)	Started 
+Smoking
+(n = 114)	Continued 
+Non-
+Smoking
+(n = 3,321)	p-value	
+Age group, %					&lt; 0.001	
+ 18-39 years	12.6	13.8	13.1	7.1		
+ 40-54 years	42.2	31.4	50.4	32.2		
+ 55 years and older	45.2	54.8	36.5	60.6		
+Sex, %					0.013	
+ Male	71.0	73.6	65.4	78.1		
+ Female	29.0	26.4	34.6	21.9		
+Race, %					0.089	
+ African American/Black	15.6	11.8	13.0	11.9		
+ Other	4.0	4.0	6.7	6.9		
+ White	80.4	84.2	80.3	81.3		
+Education level, %					&lt; 0.001	
+ &lt; 12 years	24.5	20.8	24.9	11.3		
+ 12 years	37.1	28.7	24.7	24.6		
+ 13+ years	38.4	50.5	50.4	64.0		
+Marital status, %					&lt; 0.001	
+ Married	37.5	48.1	39.0	61.2		
+ Never married	16.9	19.3	20.6	11.7		
+ Widowed	4.1	3.8	7.1	8.9		
+ Divorced	34.4	24.9	31.4	16.3		
+ Separated	7.0	3.9	1.9	1.8		
+Employment, %					&lt; 0.001	
+ Working now	57.9	56.9	56.5	59.0		
+ Unemployed, looking for work	6.8	4.0	11.0	2.5		
+ Retired	20.0	27.1	13.7	32.5		
+ All other categories	15.3	12.1	18.7	6.0		
+Poverty status change1, %					&lt; 0.001	
+ Stayed above poverty	72.2	84.7	81.6	89.4		
+ Stayed at/below poverty	6.7	4.8	7.6	2.8		
+ Became at/below poverty	12.5	5.4	6.0	4.6		
+ Became above poverty	8.6	5.0	4.8	3.3		
+Received food assistance, past year, %					&lt; 0.001	
+ No	80.9	88.2	79.1	93.3		
+ Yes	19.1	11.8	20.9	6.7		
+Psychological distress, past 30 days, %					&lt; 0.001	
+ None or mild	69.7	73.6	64.8	81.9		
+ Moderate	20.7	23.4	30.3	16.2		
+ Severe	9.6	3.0	4.9	1.9		
+Food insecurity status change2 %					&lt; 0.001	
+ Stayed food secure	73.2	83.0	70.4	91.0		
+ Stayed food insecure	6.9	2.0	8.9	2.4		
+ Became food insecure	13.5	8.2	16.6	4.4		
+ Became food secure	6.3	6.8	4.0	2.2		
+Former smoker, %	Not applicable	84.6	32.7	&lt; 0.001	
+Notes. All percentages shown are weighted estimates.
+
+1 Poverty status for the household was assessed as ≤100% of federal poverty level, in reference to the past year. Poverty status change was coded by responses in 2003 and 2015.
+
+2 Food insecurity was assessed by 3 or more affirmative responses on the 10-item Food Security Survey, in reference to the past year. Food insecurity status change was assessed by responses in 2003 and 2015.
+
+Table 3. Factors Associated with Stopping vs. Continuing Smoking among Smokers at Baseline
+
+Characteristics Assessed at Follow-Up	OR	(95% CI)	AOR	(95% CI)	
+Age group					
+ 18-39 years	1.46*	(1.14, 1.87)	1.57	(0.94, 2.64)	
+ 55 years and older	1.60*	(1.25, 2.05)	1.65*	(1.26, 2.16)	
+ 40-54 years	Ref		Ref		
+Male (ref: Female)	1.24	(0.71, 2.18)	1.01	(0.51, 2.03)	
+African American/Black (ref: White)	0.71*	(0.62, 0.80)	0.70*	(0.66, 0.75)	
+Other race/ethnicity (ref: White)	1.03	(0.53, 2.00)	0.93	(0.44, 1.94)	
+Education &lt; 12 years (ref: 12 years)	1.10	(0.65, 1.88)	1.15	(0.91, 1.45)	
+Education 13+ years (ref: 12 years)	1.77*	(1.09, 2.87)	1.59*	(1.07, 2.34)	
+Not married (ref: married)	0.61*	(0.54, 0.69)	0.67	(0.39, 1.17)	
+Not working now (ref: working now)	1.01	(0.79, 1.29)	1.19*	(1.11, 1.27)	
+Moderate or severe psychological distress (ref: none or mild distress)	0.83*	(0.77, 0.89)	1.10	(0.74, 1.65)	
+Received food assistance, past year (ref: did not receive food assistance)	0.57*	(0.36, 0.90)	0.98	(0.46, 2.10)	
+Poverty status change1					
+ Stayed above poverty	Ref		Ref		
+ Stayed at/below poverty	0.67*	(0.53, 0.85)	1.00	(0.60. 1.67)	
+ Became at/below poverty	0.37*	(0.21, 0.65)	0.45*	(0.35, 0.56)	
+ Became above poverty	0.52*	(0.38, 0.70)	0.59*	(0.43, 0.82)	
+Food insecurity status change2					
+ Stayed food secure	Ref		Ref		
+ Stayed food insecure	0.26*	(0.08, 0.85)	0.33	(0.10, 1.05)	
+ Became food insecure	0.49*	(0.29, 0.84)	0.66*	(0.46, 0.94)	
+ Became food secure	0.90*	(0.85, 0.95)	1.20*	(1.04, 1.39)	
+Cigarettes per day (at baseline)	0.98*	(0.96, 0.99)	0.97*	(0.96, 0.98)	
+Notes.
+
+* indicates significance at p &lt; 0.05. OR = odds ratio; AOR = adjusted odds ratio; CI = confidence interval; ref = reference group.
+
+1 Poverty status was assessed as ≤100% of federal poverty level, in reference to the past year. Poverty status change was coded by responses in 2003 and 2015.
+
+2 Food insecurity was assessed by 3 or more affirmative responses on the 10-item Household Food Security Survey, in reference to the past year. Food insecurity status change was assessed by responses in 2003 and 2015.
+
+Table 4. Factors Associated with Starting Smoking vs. Continuing Non-Smoking among Non-Smokers at Baseline
+
+Characteristics assessed at Follow-Up	OR	(95% CI)	AOR	(95% CI)	
+Age group					
+ 18-39 years	1.17	(0.77, 1.78)	1.20	(0.96, 1.49)	
+ 55 years and older	0.37*	(0.30, 0.46)	0.19*	(0.17, 0.22)	
+ 40-54 years	Ref		Ref		
+Male (ref: Female)	0.50*	(0.34, 0.73)	1.03	(0.95, 1.11)	
+African American/Black (ref: White)	1.16	(0.81, 1.67)	0.70	(0.39, 1.26)	
+Other race/ethnicity (ref: White)	0.89	(0.21, 3.69)	0.56	(0.11, 2.94)	
+Education &lt; 12 years (ref: 12 years)	2.07	(0.78, 5.49)	1.63*	(1.42, 1.88)	
+Education 13+ years (ref: 12 years)	0.76	(0.19, 3.08)	0.91	(0.26, 3.14)	
+Not married (ref: married)	2.47*	(1.68, 3.64)	2.04*	(1.73, 2.40)	
+Not working now (ref: working now)	1.13	(0.74, 1.72)	0.96	(0.77, 1.21)	
+Moderate or severe psychological distress (ref: none or mild distress)	2.51*	(2.33, 2.70)	1.46	(0.67, 3.18)	
+Received food assistance, past year (ref: did not receive food assistance)	3.80*	(1.96, 7.37)	1.40*	(1.25, 1.57)	
+Poverty status change1					
+ Stayed above poverty	Ref		Ref		
+ Stayed at/below poverty	3.44*	(1.31, 9.02)	1.20	(0.26, 5.55)	
+ Became at/below poverty	1.58	(0.38, 6.65)	0.77	(0.11, 5.52)	
+ Became above poverty	1.42*	(1.04, 1.94)	0.79	(0.50, 1.26)	
+Food insecurity status change2					
+ Stayed food secure	Ref		Ref		
+ Stayed food insecure	5.08*	(2.86, 9.04)	2.05	(0.48, 8.83)	
+ Became food insecure	5.31*	(3.01, 9.35)	3.77*	(1.25, 11.32)	
+ Became food secure	2.47*	(1.30, 4.70)	0.79	(0.58, 1.06)	
+Formerly smoked	11.54*	(6.54, 20.35)	17.73*	(10.96, 28.68)	
+Notes.
+
+* indicates significance at p &lt; 0.05. OR = odds ratio; AOR = adjusted odds ratio; CI = confidence interval; ref = reference group.
+
+1 Poverty status was assessed as 100% of federal poverty level, in reference to the past year. Poverty status change was coded by responses in 2003 and 2015.
+
+2 Food insecurity was assessed by 3 or more affirmative responses on the 10-item Food Security Survey, in reference to the past year. Food insecurity status change was assessed by responses in 2003 and 2015.
+
+SO WHAT?
+What is already known on this topic?
+Cigarette smoking is disproportionately concentrated among persons who are socioeconomically disadvantaged. Numerous cross-sectional studies report an association between food insecurity and cigarette smoking, such that food insecurity is independently associated with increased likelihood of cigarette smoking.
+
+What does this article add?
+This study examined the association between food insecurity and smoking longitudinally, by examining whether changes in food insecurity affect changes in smoking status in a 12-year analysis. The findings showed that smokers who became food insecure from study baseline to follow-up were less likely to stop smoking, compared to smokers who stayed food secure. Furthermore, non-smokers who became food insecure from baseline to follow-up were more likely to start smoking, compared to non-smokers who stayed food secure.
+
+What are the implications for health promotion practice or research?
+Smoking cessation interventions for low-income persons may consider screening for food insecurity to identify those who may be at risk for lower success with cessation, or who may be at risk for relapse among those who have quit. Considering community-based settings that are not traditionally focused on smoking cessation but are designed to mitigate food insecurity, such as food assistance programs, for delivery of evidence-based smoking cessation services may be another important strategy for tackling cigarette use disparities.
+
+
+   REFERENCES
+1. U.S. Department of Health and Human Services . The Health Consequences of Smoking- 50 Years of Progress: A Report of the Surgeon General . Atlanta, GA : U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Office of Smoking and Health ; 2014 
+http://www.surgeongeneral.gov/library/reports/50-years-of-progress/full-report.pdf.  Accessed November 3, 2014.
+2. Jamal A , King BA , Neff LJ , Whitmill J , Babb SD , Graffunder CM . Current cigarette smoking among adults — United States, 2005–2015 . MMWR Morb Mortal Wkly Rep . 2016 ;65 . doi:10.15585/mmwr.mm6544a2 
+3. Babb S , Malarcher A , Asman K , Jamal A . Quitting smoking among adults — United States, 2000–2015 . MMWR Morb Mortal Wkly Rep . 2017 ;65 . doi:10.15585/mmwr.mm6552a1 
+4. Kotz D , West R . Explaining the social gradient in smoking cessation: It’s not in the trying, but in the succeeding . Tob Control . 2009 ;18 (1 ):43 –46 . doi:10.1136/tc.2008.025981 18936053 
+5. Coleman-Jensen A , Rabbitt MP , Gregory CA , Singh A . Household Food Security in the United States in 2016, ERR-237 . U.S. Department of Agriculture, Economic Research Service ; 2017 
+https://www.ers.usda.gov/webdocs/publications/84973/err-237.pdf?v=42979.  Accessed September 11, 2017.
+6. Gundersen C , Ziliak JP . Food insecurity and health outcomes . Health Aff (Millwood) . 2015 ;34 (11 ):1830 –1839 . doi:10.1377/hlthaff.2015.0645 26526240 
+7. Seligman HK , Laraia BA , Kushel MB . Food insecurity is associated with chronic disease among low-income NHANES participants . J Nutr . 2010 ;140 (2 ):304 –310 . doi:10.3945/jn.109.112573 20032485 
+8. Armour BS , Pitts MM , Lee C-W . Cigarette smoking and food insecurity among low-income families in the United States, 2001 . Am J Health Promot . 2008 ;22 (6 ):386 –392 . doi:10.4278/ajhp.22.6.386 18677878 
+9. Cutler-Triggs C , Fryer GE , Miyoshi TJ , Weitzman M . Increased rates and severity of child and adult food insecurity in households with adult smokers . Arch Pediatr Adolesc Med . 2008 ;162 (11 ):1056 –1062 . doi:10.1001/archpediatrics.2008.2 18981354 
+10. Sreeramareddy CT , Ramakrishnareddy N . Association of adult tobacco use with household food access insecurity: Results from Nepal demographic and health survey, 2011 . BMC Public Health . 2017 ;18 (1 ):48 . doi:10.1186/s12889-017-4579-y 28738826 
+11. Kim JE , Tsoh JY . Cigarette smoking among socioeconomically disadvantaged young adults in association with food insecurity and other factors . Prev Chronic Dis . 2016 ;13 . doi:10.5888/pcd13.150458 
+12. Kim JE , Flentje A , Tsoh JY , Riley ED . Cigarette smoking among women who are homeless or unstably housed: Examining the role of food insecurity . J Urban Health . 2017 ;94 (4 ):514 –524 . doi:10.1007/s11524-017-0166-x 28589340 
+13. Hosler AS , Michaels IH . Association between food distress and smoking among racially and ethnically diverse adults, Schenectady, New York, 2013–2014 . Prev Chronic Dis . 2017 ;14 :E71 . doi:10.5888/pcd14.160548 28840822 
+14. Chun I-A , Ryu S-Y , Park J , Ro H-K , Han M-A . Associations between food insecurity and healthy behaviors among Korean adults . Nutr Res Pract . 2015 ;9 (4 ):425 –432 . doi:10.4162/nrp.2015.9.4.425 26244083 
+15. Farrelly MC , Shafer PR . Comparing trends between food insecurity and cigarette smoking among adults in the United States, 1998 to 2011 . Am J Health Promot . 2017 ;31 (5 ):413 –416 . doi:10.1177/0890117116660773 27493199 
+16. Jamal A , Phillips E , Gentzke AS , 
+Current cigarette smoking among adults — United States, 2016 . MMWR Morb Mortal Wkly Rep . 2018 ;67 . doi:10.15585/mmwr.mm6702a1 
+17. Panel Study of Income Dynamics, Public Use Data Set . Produced and Distributed by the Survey Research Center, Institute for Social Research, University of Michigan 
+Ann Arbor, MI ; 2017 
+https://psidonline.isr.umich.edu. 
+18. Harlow AF , Stokes A , Brooks DR . Socioeconomic and racial/ethnic differences in e-cigarette uptake among cigarette smokers: Longitudinal analysis of the Population Assessment of Tobacco and Health (PATH) study . Nicotine Tob Res . 2018 . doi:10.1093/ntr/nty141 
+19. Tsoh JY , Chi FW , Mertens JR , Weisner CM . Stopping smoking during first year of substance use treatment predicted 9-year alcohol and drug treatment outcomes . Drug Alcohol Depend . 2011 ;114 (2–3 ):110 –118 .21050681 
+20. Bickel G , Nord M , Price C , Hamilton W , Cook J . Guide to Measuring Household Food Security: Revised 2000 . Alexandria, VA : U.S. Department of Agriculture, Food and Nutrition Service ; 2000 
+www.fns.usda.gov/sites/default/files/FSGuideSummary.pdf. 
+21. Grieger LD , Danziger S , Schoeni RF . Accurately measuring the trend in poverty in the United States using the Panel Study of Income Dynamics . J Econ Soc Meas . 2009 ;34 (2,3 ):105 –117 . doi:10.3233/JEM-2009-0313 
+22. Zvolensky MJ , Jardin C , Wall MM , 
+Psychological distress among smokers in the United States: 2008 to 2014 . Nicotine Tob Res . 5 
+2017 . doi:10.1093/ntr/ntx099 
+23. Sung H-Y , Prochaska JJ , Ong MK , Shi Y , Max W . Cigarette smoking and serious psychological distress: A population-based study of California adults . Nicotine Tob Res . 2011 ;13 (12 ):1183 –1192 . doi:10.1093/ntr/ntr148 21849411 
+24. Kendzor DE , Businelle MS , Costello TJ , 
+Financial strain and smoking cessation among racially/ethnically diverse smokers . Am J Public Health . 2010 ;100 (4 ):702 –706 . doi:10.2105/AJPH.2009.172676 20167886 
+25. Pisinger C , Aadahl M , Toft U , Jørgensen T . Motives to quit smoking and reasons to relapse differ by socioeconomic status . Prev Med . 2011 ;52 (1 ):48 –52 . doi:10.1016/j.ypmed.2010.10.007 21047525 
+26. Jones AD . Food insecurity and mental health status: A global analysis of 149 countries . Am J Prev Med . 2017 ;53 (2 ):264 –273 . doi:10.1016/j.amepre.2017.04.008 28457747 
+27. Leung CW , Epel ES , Willett WC , Rimm EB , Laraia BA . Household food insecurity is positively associated with depression among low-income Supplemental Nutrition Assistance Program participants and income-eligible nonparticipants . J Nutr . 2015 ;145 (3 ):622 –627 . doi:10.3945/jn.114.199414 25733480 
+28. Knowles M , Rabinowich J , Ettinger de Cuba S , Cutts DB , Chilton M . “Do you wanna breathe or eat?”: Parent perspectives on child health consequences of food insecurity, trade-offs, and toxic stress . Matern Child Health J . 2016 ;20 (1 ):25 –32 . doi:10.1007/s10995-015-1797-8 26156827 
+

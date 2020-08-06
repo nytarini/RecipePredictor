@@ -1,0 +1,522 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10123317032527Cell MetabCell Metab.Cell metabolism1550-41311932-742025470547425515510.1016/j.cmet.2014.11.001NIHMS641117ArticleTime-restricted feeding is a preventative and therapeutic intervention against diverse nutritional challenges Chaix Amandine 1Zarrinpar Amir 12Miu Phuong 1Panda Satchidananda 1*1  Salk Institute for Biological Studies, La Jolla, CA 92037, USA2  Division of Gastroenterology, University of California, San Diego, La Jolla, CA 92093, USA*  Correspondence: satchin@salk.edu19 11 2014 2 12 2014 02 12 2015 20 6 991 1005 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.SUMMARY
+Because current therapeutics for obesity are limited and only offer modest improvements, novel interventions are needed. Preventing obesity with time-restricted feeding (TRF; 8-9h food access in the active phase) is promising, yet its therapeutic applicability against preexisting obesity, diverse nutritional challenges, and less stringent eating patterns is unknown. Here we tested TRF in mice under diverse nutritional challenges. We show that TRF attenuated metabolic diseases arising from a variety of obesogenic diets and that benefits were proportional to the fasting duration. Furthermore, protective effects were maintained even when TRF was temporarily interrupted by ad libitum access to food during weekends, a regimen particularly relevant to human lifestyle. Finally, TRF stabilized and reversed the progression of metabolic diseases in mice with pre-existing obesity and type II diabetes. We establish clinically relevant parameters of TRF for preventing and treating obesity and metabolic disorders, including type II diabetes, hepatic steatosis, and hypercholesterolemia.
+
+
+   INTRODUCTION
+Obesity is a major risk factor for a spectrum of diseases including type II diabetes, nonalcoholic fatty liver disease (NAFLD), cardiovascular disease, and cancer. The incidence of obesity is on the increase and, although the driving causes are multifactorial, nutritional imbalance is a major contributor (Pontzer et al., 2012; Swinburn et al., 2011). Murine models have been invaluable in understanding the mechanisms of nutrient homeostasis, the consequences of nutrient imbalance, and as discovery platforms for pharmacological and behavioral interventions. Ad libitum access to a high-fat diet (HFD) in mice causes obesity, insulin resistance, hepatic steatosis, hypercholesterolemia, and dyslipidemia (Wang and Liao, 2012). Ad libitum access to high-fructose diet on the other hand does not cause marked increase in adiposity, yet leads to glucose intolerance and hepatic steatosis (Mellor et al., 2011; Samuel, 2011; Tetri et al., 2008).
+
+Diseases like obesity, arising from nutrient imbalance or excess are often accompanied by disruptions of multiple pathways in different organ systems. For example, the regulation of glucose, lipids, cholesterol, and amino acids homeostasis involve the liver, white adipose tissue (WAT), brown adipose tissue (BAT) and muscle. In each tissue, nutrient homeostasis is maintained by balancing energy storage and energy utilization. Pharmacological agents directed against specific targets effectively treat certain aspects of this homeostatic imbalance. However, treating one aspect of a metabolic diseases sometimes worsens other symptoms (e.g., increased adiposity seen with insulin sensitizers), and beneficial effects are often short-lived (e.g., sulfonylureas) (Bray and Ryan, 2014). Furthermore, recent studies have shown that early perturbation of nutrient homeostasis can cause epigenetic changes that predispose an individual to metabolic diseases later in life (Hanley et al., 2010). Hence, finding interventions that impact multiple organ systems and can reverse existing disease will likely be more potent in combating the pleiotropic effect of nutrient imbalance.
+
+Lifestyle interventions, including changes in diet, reduced caloric intake, and increased exercise, have been the first-line therapy in efforts to combat obesity and metabolic diseases. However, these lifestyle changes require constant attention to nutrient quality and quantity, and physical activity. Their success has been limited to a small percentage of individuals (Anderson et al., 2001). Hence, novel interventions are urgently needed. Temporal regulation of feeding offers an innovative strategy to prevent and treat obesity and associated metabolic diseases (Longo and Mattson, 2014). Recent discoveries have shown that many metabolic pathways, including current pharmacological targets, have diurnal rhythms (Gamble et al., 2014; Panda et al., 2002). It is hypothesized that under normal healthy conditions the cyclical expression of metabolic regulators coordinate a wide range of cellular processes for more efficient metabolism. In HFD-induced obesity, such temporal regulation is blunted (Kohsaka et al., 2007). Tonic activation or inhibition of a metabolic pathway, as is the case with pharmacological therapy, cannot restore normal rhythmic activity pattern. Therefore, interventions that restore diurnal regulation in multiple pathways and tissue types might be effective in countering the pleiotropic effect of nutrient imbalance.
+
+Gene expression and metabolomics profiling, as well as targeted assay of multiple metabolic regulators, have revealed that a defined daily period of feeding and fasting is a dominant determinant of diurnal rhythms in metabolic pathways (Adamovich et al., 2014; Barclay et al., 2012; Bray et al., 2010; Eckel-Mahan et al., 2012; Vollmers et al., 2009). Accordingly, early introduction of time-restricted feeding (TRF), where access to food is limited to 8-hour during the active phase, prevents the adverse effects of HFD-induced metabolic diseases without altering caloric intake or nutrient composition (Hatori et al., 2012). However, it is unclear whether TRF: (i) is effective against other nutritional challenges, (ii) can be used to treat existing obesity, (iii) has a legacy effect after cessation and, (iv) can be adapted to different lifestyles. In lieu of the metabolic imprinting that renders mice susceptible to disease later in life, the therapeutic effect of TRF on pre-existing diet-induced obesity (DIO) remained to be explored. The effectiveness of TRF as a single 8-h feeding duration prompts exploration of the temporal window of food access that would still be effective against nutrition challenge. This is important before any human study can commence, given the incompatibility of an 8h-restricted diet with a modern work schedule. Additionally, a change in eating pattern between weekday and weekend even when the mice are fed a standard diet has been suggested to contribute to obesity and metabolic diseases. This intimates that occasional deviation from TRF might exacerbate the disease. Addressing these questions is fundamental to elucidate the effectiveness and limitations of TRF and will offer novel insight into the relative role of eating pattern and nutrition on metabolic homeostasis.
+
+This comprehensive study investigates the effectiveness of TRF against different nutritional challenges including high-fat, high-fructose, and high-fat plus high-fructose diets, all of which have been shown to cause dysmetabolism. We varied the duration of food access to characterize the temporal boundaries within which TRF benefits persist. We also evaluated both the therapeutic and legacy effects of TRF when interrupted by periods of unlimited access to energy-dense food. Results indicate pleiotropic beneficial effects of TRF that can prevent and alleviate multiple adverse effects of nutrient imbalance and the benefits were proportional to the duration of fasting. Finally, and most importantly from a translational perspective for obese humans, TRF reversed obesity and metabolic disease and can potentially serve as an additional therapeutic intervention in the arsenal against this pandemic.
+
+RESULTS
+1- Time-restricted feeding protects against excessive body weight gain without affecting caloric intake irrespective of diet, time schedule or initial body weight
+To evaluate the effectiveness of TRF against different diet types, eating patterns, and existing obesity, we subjected 392 twelve-week-old male wild type C57BL/6J mice to different feeding regimens. Detailed description of the study design (e.g., diet composition, mice number and age, lengths of the experiments, etc.) can be found in the supplemental methods section and in figure 1, figure S1, table S1, and table S2. Numerical values associated with body weight and food consumption can be found in table S3.
+
+Because increased fructose consumption is implicated in the obesity pandemic (Stanhope, 2012) and its metabolic regulation is different from that of glucose (Mayes, 1993; Samuel, 2011), we subjected mice to ad libitum feeding (ALF) or time-restricted feeding (TRF) of a high-fat plus high-sucrose diet (FS diet; 25% energy from sucrose, 32% from fat, table S1). Mice fed a FS diet ad libitum (FSA) consumed the same amount of calories as mice fed within a 9-hour window of the dark phase (FST) (fig S2A(i)), yet the FST mice gained less body weight over a 12-week period (21% compared to 42% for FSA mice; fig 2A(i)). When mice were instead fed a high-fructose diet (Fr diet; 60% energy from fructose, 13% from fat, table S1), both ALF mice (FrA) and TRF mice (FrT) showed a 6% increase in body weight, which was similar to mice fed a normal chow diet (fig S2B(i)). Hence, TRF effectively attenuated body weight gain in mice fed diets rich in fat and sucrose.
+
+To test if longer durations of TRF are effective in preventing body weight gain (Hatori et al., 2012), mice were allowed access to a high-fat diet (HFD, 62% energy from fat, table S1) for 9 hours, 12 hours, or 15 hours (fig 1B). Food consumption was equivalent in the four conditions (fig S2A(ii-iii)). Longer daily HFD feeding times resulted in larger increases in body weight. For example, a 26% gain was seen for 9 h TRF (9hFT), whereas a 43% gain was seen for 15 h TRF (15hFT). Mice fed ad libitum (FA) gained 65% under these conditions (fig 2A(ii-iii)).
+
+To test whether TRF has a lasting effect that can override occasional interruptions or consistent ALF (legacy effect) (fig 1C), mice were alternated between TRF and ALF in three crossover experiments. First, mice were alternated between 5 days of TRF (weekdays) and 2 days of ALF (weekends) for 12 weeks (5T2A). The legacy effect of TRF over this time scale was remarkable, with only 29% body weight gain (fig 2A(ii)) for 5T2A mice compared to 61% weight gain for FA mice (food consumption was isocaloric compared to all other feeding groups; fig S2A(ii)).
+
+Next we tested the legacy effect of TRF over an extended period of time. Mice were maintained on TRF for 13 weeks and then switched to ALF for 12 weeks (13:12 FTA mice, which we call the short-term study; fig S1(v)). The 13:12 FTA mice gained weight rapidly after the transfer to ALF and at the end of the study weighed as much as mice maintained on HFD ad libitum (FAA) for the entire 25 weeks (112% and 111% body weight gain, respectively). In contrast, the control group, which was maintained on TRF throughout the 25 weeks (FTT mice), exhibited a 51% body weight increase (fig S2C). In another study, mice were subjected to 26 weeks of TRF and were then transferred to ALF for 12 weeks (26:12 FTA mice, which we call the long-term study; fig S1(vi)). Similar to the short-term study, the 26:12 FTA mice quickly increased body weight after the switch to ALF. However, weights of these mice stabilized at approximately 48.5g or a 106% body weight increase (fig 2A(iv)), which was significantly less than seen with the 26:12 FAA mice (157% increase in weight; fig 2A(iv)).
+
+Finally, to investigate the therapeutic potential of TRF, we tested whether TRF could reverse or arrest body weight gain in preexisting DIO, as observed in FA mice (fig 1D). In both short-term (13:12) and long-term (26:12) studies, a subset of FA mice was switched to the TRF paradigm (FAT). Within a few days the mice were habituated to the new feeding paradigm and continued to consume equivalent calories (fig S2A(iv)). The 13:12 FAT mice showed a modest drop in body weight (40 g to 38 g) and maintained this new body weight until the end of the study, at which point their weight was not statistically different from FTT mice (fig S2C). Similarly, the 26:12 FAT mice exhibited some body weight loss (12%; 53.7 g to 47.5 g) and maintained the new baseline weight until the end of the study (fig 1A(iv)). Transferring the mice from ALF to TRF resulted in a 5% body weight loss from the time of crossover (FAT), compared to a 24.8% weight gain for mice maintained in ad libitum conditions (FAA) during the entire 13:12 crossover study. In the 26:12 crossover study, FAT mice lost 12% of their body weight after crossover, which was significantly different than the 10.6% body weight gain for FAA mice.
+
+In summary, these experiments revealed that TRF efficiently protected against body weight gain when animals were subjected to diverse nutritional challenges and diverse feeding schedules. TRF also promoted weight loss and efficient weight stabilization when used as a therapeutic intervention on pre-existing DIO.
+
+2- Time-restricted feeding reduces whole body fat accumulation and associated inflammation
+Whole body composition of the mice (see table S3 for detailed numerical values) was determined at the end of the feeding experiment using a small animal MRI (see Methods). Differences in fat mass accounted for differences in total body weight (fig 2B), whereas each experimental cohort had a comparable lean mass. Compared to ad libitum fed mice FS or Fr diets (FSA or FrA), mice on TRF (FST or FrT) exhibited reduced levels of fat mass (62% and 26% less, respectively; fig 2C(i) and fig S2B(iv)). Increasing the duration of access to HFD from 9 hours to 12 or 15 hours resulted in a linear increase in the percentage of fat mass. The percent fat mass reduction compared to ALF mice was 57% for 9 hours, 49.3% for 12 hours, and 43.3% for 15 hours (linear regression; r2=0.993; fig 2C(ii-iii)). Based on this trend, mice fed a high-fat diet ad libitum (FA) should have had 22% less fat than was measured, suggesting that up to 15 hours of TRF protects against excess body fat accumulation while on a HFD.
+
+Mice subjected to the 5T2A paradigm (alternating between 5 days of TRF and 2 days of ALF) had 48% less fat than FA mice, and were not significantly different from mice on chronic TRF (9hFT or 12hFT; fig 2C(ii)). In the 26:12 FTA and 26:12 FAT groups, mice stabilized at a similar body fat content (32%), which was about 43% less fat content than FAA mice (fig 2C(iv)). Interestingly, mice fed normal chow TRF (NTT) during the 10-month crossover study were also protected from fat accumulation. Transferring mice from normal chow ALF to normal chow TRF (NAT) reduced the percentage of fat by 55%, and mice switched to ALF after 26 weeks on TRF (NTA) had 55% less fat than mice maintained on normal chow ad libitum (NAA; fig 2C(iv)).
+
+The reduction in whole body fat content under TRF was visible in histological examinations of adipose tissues. H&amp;E stained sections of WAT revealed smaller lipid droplets in TRF mice compared to ALF (fig 3A). Moreover, large unilocular fat droplets accumulated in BAT of ALF mice, whereas these droplets were almost absent in TRF mice (fig 3A). Serum adipokine levels correlate with the amount of total body fat. As expected, serum leptin levels were lower in all mice on TRF compared to ALF (fig 3B and fig S3A), whereas adiponectin levels were higher in all TRF animals (fig S3A). Notably, leptin was almost undetectable in mice fed a normal chow diet (fig S3A(iii)).
+
+In the DIO model, the accumulation of fat in adipose tissue has been associated with higher inflammation (Glass and Olefsky, 2012). Accordingly, H&amp;E stained sections of WAT showed characteristic crown-like structures in ALF mice that were absent in TRF mice (fig 3A, arrowheads). In addition, mRNA levels of pro-inflammatory cytokines TNFα, IL1β, IL10, and the pro-inflammatory chemokine Ccl8/Mcp2 in WAT and BAT indicated the absence of inflammation in adipose tissue of mice on TRF (fig 3C).
+
+Obesity and lipid overload is often accompanied by a pathological accumulation of triglycerides in the liver, known as hepatic steatosis. Indeed, H&amp;E-stained liver sections revealed fat droplet accumulation in all mice fed HFD/FS diets ad libitum. Lipid droplets were reduced or not apparent in mice maintained on TRF regimens (fig S3B). Total triglycerides in the liver were significantly reduced in all mice given HFD/FS diets via TRF compared to their ALF counterparts (fig 3D). For mice fed a HFD, both 9hTRF and intermittent TRF (the 5T2A paradigm) were protective against hepatic steatosis, with at least 70% reduction in liver triglycerides (72% reduction in 9hFT, 80% in 5T2A, 74% in FTT; both short- and long-term intervention studies). The FS diet induced a milder fatty liver than did the 60% HFD. Nonetheless, triglycerides accumulation was reduced by 53% in FST mice compared to ad libitum counterparts. Finally, switching mice to TRF stopped further accumulation of triglycerides in the liver highlighting the potential of TRF as an effective intervention against fatty liver disease. Hepatic steatosis can be associated with defective liver function and elevated serum activity of alanine transaminase is a marker for hepatocellular damage. We detected higher levels of alanine transaminase activity in the serum of mice given HFD/FS diets via ALF compared to their TRF counterparts (fig S3C).
+
+Elevated serum triglycerides reflect whole body lipid imbalance. Biochemical quantification of serum triglycerides revealed hyperlipidemia in FA mice after 12 weeks of feeding that was normalized in mice experiencing TRF (9hFT, 12hFT, or 5T2A) (fig 3E(ii)). Interestingly, the FA feeding group was able to regulate serum triglyceride levels in a shorter experiment (fig 3E(iii)). Serum triglyceride levels were also unchanged upon ALF or TRF when mice were fed a less fatty diet, namely FS or NC (fig 3E(i)(iii)). After 6 months of a HFD, serum triglyceride levels trended lower in mice maintained on TRF (FTT, 200 mg/dL) or crossed-over mice (FAT, 214 mg/dL; FTA, 252 mg/dL) than their ALF counterparts (FAA, 300 mg/dL) although these results were not significantly different (fig 3E(iv)).
+
+To summarize, TRF prevented and reversed adiposity associated with obesogenic diets. It protected against fat accumulation in both adipose tissues and non-canonical fat-laden organs. Correspondingly, a reduction in adipose tissue inflammation and altered adipokine levels were observed.
+
+3- Time-restricted feeding improves glucose tolerance and reduces insulin resistance
+Because TRF reduced fat accumulation and protected from adipose inflammation, we tested whether it could protect against obesity-associated insulin resistance and type II diabetes. We first analyzed fasting (16 hours) and refed (one hour after intraperitoneal administration of glucose) serum levels of glucose (fig 4A) and insulin (fig 4B) in different cohorts. When fed normal chow (NC), ALF and TRF regimens did not affect fasting glucose levels (fig 4A(ii)-(v)). Fasting glucose levels were higher in mice fed HFD compared to NC and TRF reduced average fasting blood glucose levels in mice on HFD or FS diets (fig 4A(i-v)).
+
+Differences in fasting/refed serum insulin levels depended on the diet composition (fig 4B) and the duration of food access. For mice fed NC, fasting serum insulin concentrations were reduced only slightly by TRF (fig 4B(ii)-(v)). Mice fed a FS diet (32% fat; fig 4B(iii)) had fasting serum insulin levels that were non-responsive to alterations in the temporal eating pattern. In contrast, mice fed a HFD ad libitum (FA) had elevated fasting serum insulin levels (&gt;700 pg/dL) relative to mice fed NC. In general, fasting insulin levels were reduced in all TRF mouse groups that were fed HFD, including the 5T2A group, which had access to a HFD during the weekend (fig 4B(i)(ii)). In short-term (13:12) and long-term (26:12) crossover studies, FAA mice had fasting insulin levels that approached 1500 and 4500 pg/dL, respectively. FTT mice exhibited a nearly 5-fold reduction in fasting insulin levels, while crossover mice with some exposure to TRF (FAT or FTA) had fasting insulin levels that were intermediate between those measured for FAA and FTT (fig 4B(iv)-(v)). The homeostatic model assessment index of insulin resistance (HOMA-IR) confirmed higher insulin resistance in FA mice compared to FT (fig S4A).
+
+Serum glucose levels 1 hour after a glucose bolus was consistently lower in mice on TRF compared to their ALF counterparts when fed any of the high-fat diets (FS or HFD). This effect was also seen under alternating conditions (5T2A) or when mice were transferred to TRF after ALF (FAT, 13:12) (fig 4A, Refed). Refed levels of insulin were also lower in mice fed an obesogenic diet on TRF compared to their ALF counterparts (fig 4B, Refed). Refed levels of insulin were similar to fasted levels when mice were fed NC, regardless of the feeding regimen (fig 4B(ii)-(v)). To confirm that the differences observed were mostly in the fed state, we performed glucose tolerance test (GTT). All mice subjected to a nutritional challenge (i.e., Fr, FS, or HFD) via TRF were significantly more glucose tolerant than their ALF counterparts (fig 4C and 4D, fig S4B). In the 13:12 short-term crossover study, we performed GTTs 4 weeks and 11 weeks after the switch. Remarkably, within 4 weeks of the switch, the mice showed improved GTT, which was maintained in subsequent weeks. Conversely, the switch from TRF to ALF was accompanied by rapid deterioration in the GTT response. The therapeutic effect on glucose homeostasis was also observed in the 26:12 long-term study (fig S4C), and furthermore, insulin tolerance test revealed better insulin sensitivity of FAT mice than both the FAA and FTA feeding group, although not to the extent of the FTT mice (fig S4D). In summary, TRF improved glucose homeostasis and reduced insulin resistance under multiple nutrition challenges that are representative of modern human diets. Most notably, TRF reversed previously established glucose intolerance induced by DIO.
+
+4- Time-restricted feeding improves nutrient homeostasis
+Increased healthspan is often reflected in improved endurance and motor coordination. Mice on TRF showed better coordination on an accelerating rotarod that did not correlate with body weight. All groups of mice performed significantly better than mice maintained on a HFD ad libitum (FAA) (pair wise comparisons, fig 5A). To assess metabolic fitness at the organismal level, mice were tested for performance on a treadmill during their active period (dark phase, ZT15-18). Using the treadmill run-to-exhaustion protocol (Narkar et al., 2008), mice fed NC ad libitum (NA), which represents standard mouse husbandry, ran for 77 ± 8 min, whereas mice fed a HFD ad libitum (FA), which represents the DIO model, were exhausted after 50.2 ± 4.7 min. Mice in the 12hFT group ran for 73.3 ± 3.3 min, which was similar to NA mice (fig 5B). Surprisingly, 9hFT mice and 5T2A mice ran for 141.3 ± 4.6 min and 122.7 ± 9.2 min, respectively, far exceeding the endurance of NA mice of equivalent body weight. Additional endurance tests on mice fed the FS diet or mice in crossover studies also revealed that mice on TRF consistently showed significantly improved endurance compared to ALF cohorts (fig 5B). Importantly, there was a therapeutic effect of long-term TRF with FAT mice performing as well as FTT mice, and a trend toward a legacy effect in the FTA group.
+
+The beneficial effects of TRF observed in these two fitness assays did not simply result from greater muscle strength, as all groups performed comparably in a forelimb muscle strength test (fig S5A), nor from differences in spontaneous diurnal activity, as the day/night and total home cage activity was equivalent between mice fed NC or HFD under different feeding paradigms (fig S5B). A difference in muscle physiology itself could account for the observed differences. H&amp;E stained transversal sections of the gastrocnemius and soleus muscles did not reveal gross differences in muscle fiber size (fig S5C), and Cox staining did not reveal obvious differences in fiber-type composition (fig S5C). Furthermore, glycogen content of the muscle did not seem to be a limiting factor, as glycogen content of mice fed ad libitum (FAA and FTA) was higher than mice on TRF (FTT and FAT) (fig S5D). We postulate that increased healthspan of mice on TRF likely reflect better metabolic responses to mobilize energy stores (Martin-Montalvo et al., 2013).
+
+Long-term lipid homeostasis is achieved by coordinated transcriptional regulation in adipose tissues and the liver. Lipid synthesis was assessed by quantifying mRNA levels of fatty acid synthesis enzymes (Acaca and Fasn) or fatty acid elongation enzymes (Elovl3 and Elovl5). Lipid storage or adipocytes differentiation was assessed via the transcription factor Pparγ and one of its target genes in adipose tissue, pyruvate carboxylase (Pcx). Finally, lipid oxidation was assessed using the transcription factor Pgc1α (fig 5C(i)). The expression of Pparγ was increased in BAT of FA mice (fig 5C(ii)), reminiscent of the “whitening” of the tissue observed in H&amp;E staining (fig 3A). In WAT, both lipid synthesis (Acaca, Fasn, Pcx) and lipid oxidation (parallel increase in Pgc1α and Pparγ) were increased in all mice on TRF compared to their ALF counterparts (fig 5C(iii)). Because TRF affects absolute levels and temporal profiles of gene expression (Hatori et al., 2012; Vollmers et al., 2009), we examined the expression profile of a key regulator of fat metabolism, namely PPARγ. The peak level of Pparγ expression in the liver of ALF mice occurred during the light/inactive phase at high relative amplitude. In TRF mice, however, it peaked during the night/active phase at nearly a fourth the amplitude (fig 5C(iv)). The paradoxical increase in lipid synthesis gene expression in the WAT of TRF mice may be counter-balanced by enhanced activation of the oxidative program and reduced lipid synthesis in liver and BAT. Pparγ expression in the liver and WAT might explain the shift to lipid storage under ALF.
+
+We then assessed glucose homeostatic regulation in the liver by quantifying glucose sequestration using glucokinase (Gck), and gluconeogenesis using Pcx. In TRF mice, feeding onset was followed by a peak of Gck expression (fig 5D), which likely allows glycogen synthesis during feeding. A few hours later, towards the end of the feeding phase, glucose-6 phosphatase (G6pc) expression peaked (fig 5D). In contrast, in ALF mice, Gck expression was constitutively high and rhythmic transcription of G6pc was dampened and phase shifted. Gluconeogenesis, as revealed by Pcx expression, was also higher in ALF fed mice (fig 5D). The parallel dampening of Gck and G6pc expression, along with increased expression of Pcx, in ALF mice likely perturbs glucose homeostasis.
+
+Phosphorylation of the ribosomal protein S6 is an indicator of protein synthesis and also a downstream output of both insulin/Akt anabolic and AMPK catabolic pathways (Manning, 2004; Tao et al., 2010). Both the phosphorylation of S6 and S6 expression were blunted in ALF fed mice (FAA and FTA), whereas S6 expression was high (FTT) and restored (FAT) upon TRF in both muscle and liver (fig 5E). The presence of active phospho-S6 was higher during the dark/feeding phase in TRF mice compared to ALF mice, in which phosphorylation peaked during the light phase (fig 5E). In conclusion, TRF improved and restored metabolic rhythms irrespective of the diet and enhanced metabolic capacity. This ultimately resulted in better fitness of mice subjected to TRF.
+
+5- Quantitative and temporal changes in the serum metabolome reflect the whole-body beneficial effect of time-restricted feeding
+Because transferring mice from ALF to TRF efficiently restored glucose homeostasis and whole-body energetic equilibrium, we explored the broad effect of TRF on other serum metabolites. Serum samples from NTT, FTT, FAT, and FAA mice were collected every 4 hours over a 24-hour period and analyzed by LC-MS/MS and GC-MS (Evans et al., 2009). Amongst detectable metabolites, 24% (68/278) exhibited a time-dependent effect, 59% (164/278) were significantly affected by any of the 4 feeding paradigms, and 45 metabolites (intersection of time and food) were affected by both (2-factor ANOVA, p&lt;0.05) (Fig S6A row1).
+
+In a simplified analysis of serum metabolites, more than a third (114/278, 41%)(Fig 6A) were significantly different between TRF (NTT, FAT, FTT) and ALF (FAA) (t-test, p&lt;0.05) (Fig S6A row2 and table S4). There were 17 metabolites that were higher in TRF than ALF, including heme and its catabolic product biliverdin (Fig 6A), and the dipeptide derivatives anserine and carnosine, which have been implicated in the defense against reactive oxygen species (Boldyrev et al., 2013) (Fig 6B(i)). The 97 metabolites that were higher in ALF showed enrichment for specific subpathways. For example, these metabolites included 100% of the metabolites associated with the sterol/steroid pathway (including cholesterol and corticosterone) (Fig 6B(iii)), 78% of the metabolites in the glutathione catabolic pathway gamma-glutamyl pathway (Fig S6B(i)), and 70% of the metabolites associated with aromatic amino acid metabolism. Furthermore, known pro-inflammatory fatty acids (sphingolipids, arachidonates, and derivatives) (Fig 6B(ii) and (Fig S6B(ii))) and lysolipids were also enriched. These data suggest that key features that distinguish ALF and TRF mice include the control of inflammation and oxidative stress, two well-described contributors to metabolic disorders.
+
+Circadian oscillations of serum metabolites reflect temporal tuning of metabolic homeostasis (Dallmann et al., 2012; Eckel-Mahan et al., 2013). Surprisingly, we observed an equivalent percent of cycling metabolites in each group (36% in FAA, 32% in FAT, 33% in FTT, and 33% in NTT) (table S4). We hypothesized that the beneficial effect of TRF was mediated, at least in part, by metabolites that cycle in similar phases in TRF regimens, but are dampened or off-phase in FAA. Twenty metabolites were found to cycle in the two groups of mice fed a HFD via TRF (FTT and FAT) (Fig 6C, squared). Five metabolites cycled in all three TRF paradigms (namely FAT, FTT, and NTT) (Fig 6C, circled). These metabolites were significantly enriched (3/5 and 9/20) for amino acids (AAs), including 4 γ-glutamyl AAs, 3 aromatic AA metabolites, and 3 branched-chain AAs. The majority of these AAs peaked during the light/inactive phase in TRF mice. In FA mice, their abundance was usually elevated, and they generally lost their cyclical pattern. When a peak of abundance was present, it happened in the opposite phase (Fig 6D).
+
+Hence, deep characterization of the metabolome, as well as its temporal and dietary dependence, revealed key metabolite mediators of TRF benefits. It also revealed that transferring mice from ALF to TRF very efficiently tuned some metabolites towards a protective TRF signature which is very different from the profile observed in mice maintained on HFD ad libitum. Finally, it highlighted the broad effect of TRF on cholesterol homeostasis.
+
+6- Time-restricted feeding restores cholesterol homeostasis
+Serum metabolomics from the crossover experiment indicated consistent reduction in sterol metabolites, including cholesterol, in TRF mice. To test whether protection from hypercholesterolemia is a general hallmark of TRF, we quantified serum cholesterol levels in all cohorts. Mice fed a fat containing diet (either HFD or FS) on TRF had significantly lower serum cholesterol levels than their ALF counterparts. These levels were comparable to levels seen with NA mice (fig 7A). Cholesterol levels in FTA mice were unique in that after the ad libitum feeding part of the experiment, cholesterol levels rebounded to the same levels seen with FAA mice, suggesting an absence of a legacy effect.
+
+Because the liver is the major regulator of cholesterol homeostasis, we measured hepatic mRNA expression of two key enzymes involved in de novo cholesterol biosynthesis, Sqle and Dhcr7 (fig 7B(i)). Hepatic mRNA levels for these enzymes displayed diurnal variation in all cohorts. In TRF mice, however, their expression was higher and/or phase shifted (fig 7B(ii)). In mice experiencing both TRF and ALF (the 5T2A and FAT cohorts), the expression profile of both enzymes shared characteristics of FT and FA temporal regulation. Expression profiles in mice maintained ad libitum (FAA) or switched to ad libitum after TRF (FTA) were indistinguishable.
+
+Despite increased expression of cholesterol anabolic enzymes in TRF, reduced serum cholesterol levels suggested that its breakdown to bile acids might be enhanced. We therefore analyzed the expression of two enzymes at the committing step of the classical and acidic pathway of bile acid synthesis, Cyp7a1 and Cyp7b1, respectively (fig 7B(i)). Relative to FAA, peak expression of Cyp7a1 was elevated in TRF groups (FTT and FAT). For Cyp7b1, both trough and peak levels were elevated in the TRF groups (fig 7B(ii)). Cholesterol and bile acid metabolism enzymes are controlled by the transcription factor Srebf1 and Srebf2. Hepatic Srebf1/2 mRNA expressions were similar in ALF and TRF mice (fig S7B) and both conditions were devoid of a diurnal rhythm. In contrast, at the protein level, SREBP expression was elevated in TRF mice compared to ALF. Furthermore, the presence of the active cleaved form of SREBP was rhythmic, with higher levels during the dark/feeding phase in TRF mice. The total active form decreased in FTA and further in FAA cohorts (fig 7C, see AUC). This decline was accompanied by a shift of peak expression into the light/fasting phase (fig 7C).
+
+In summary, changes in the absolute level and the temporal pattern of the cholesterol pathway are beneficially affected by TRF.
+
+DISCUSSION
+Obesity is associated with multiple comorbidities including diabetes, heart disease, and cancer. In the United States, more than one-third (35.7%) of adults are obese. Hence, there is an imperative to find treatments and preventative measures against obesity and metabolic disease. TRF is a potential behavioral intervention. It deemphasizes caloric intake, hence making it an attractive and easily adoptable lifestyle modification. Restricting feeding to 8 hours of a rodent’s preferred nocturnal feeding time protects against weight gain and associated metabolic diseases (Hatori et al., 2012). In this study, we show that TRF exerts pleiotropic beneficial effects on multiple measures of metabolic fitness under various nutritional challenges that are faced by most modern human societies. This sets the stage for exploring TRF in treating human obesity and dysmetabolism.
+
+Mice fed a diet in which fat represents more than 40% of the caloric content gained excessive body weight relative to mice fed NC. Yet, daily TRF (9-15 hours) protected mice fed a HFD from obesity. Weight gain was equivalent among mice on TRFs of 8, 9, or 12 hours ((Hatori et al., 2012) and fig 2). Only when mice were subjected to 15-hour TRF was moderate obesity observed. In other words, a daily fast of &lt;12 hours may not elicit a response that is sufficient to protect against obesity. The duration of feeding and fasting likely determine the overall anabolic and catabolic signals needed to maintain body weight at a steady-state value. HFD-induced obesity is associated with insulin hyper-secretion and insulin resistance (McArdle et al., 2013; Mehran et al., 2012; Saltiel, 2012). Because insulin itself is an anabolic signal, reducing the feeding period likely reduces the net daily anabolic effect of insulin on fatty acid synthesis and storage. Conversely, increasing the fasting duration supports fatty acid utilization. Both reduced insulin signaling during fasting and switching energy usage from glucose to fat within a few hours of fasting likely contribute to the observed reduction in adiposity in mice fed a high-fat diet (FTT) to levels found in mice fed NC ad libitum (NAA).
+
+Mice fed NC did not show profound differences in body weight between ALF and TRF. Nevertheless, there were other positive consequences of TRF. In the 38 weeks long TRF, mice on NC (NAA, NTT, NAT, and NTA) exhibited equivalent body weights, yet NTT mice had significantly more lean mass and less fat mass than other NC cohorts (fig S2D). Furthermore, NT mice were protected from mild hepatic steatosis, which is usually observed in old mice fed NC ad libitum (Jin et al., 2013). Similarly, mice fed a Fr diet did not show any significant change in body weight between ALF and TRF cohorts, yet FrT mice had less fat mass, increased lean mass and better glucose tolerance relative to FrA mice (fig S2E, fig S4B).
+
+Although chronic TRF paradigms highlight the benefits of a daily feed-fast cycle, the 5T2A paradigm, in which mice had ad libitum access to food during the weekend, was just as effective. Mice subjected to 5T2A did not “learn” a daily feed-fast behavioral rhythm. Instead, during the weekend they consumed almost equivalent calories during days and nights (fig S2F). Yet, surprisingly, the gene expression signature of 5T2A mice sacrificed during the weekend ALF phase resembled that of TRF mice (fig 5C-5D, fig 7B), suggesting that the weekday TRF imprints a gene expression signature that can resist occasional changes in the feeding pattern. However, when the mice were completely transitioned from TRF to chronic ALF (as in the 13:12 and 26:12 mice), they gradually adopted an ALF gene expression signature, which eventually blunted the previous beneficial effect of TRF. Conversely, transferring mice from ALF to TRF effectively alleviated the adverse health status of existing obesity. The outcome of the crossover on body weight regulation depended on the age at which the switch happened. When switched at 25 weeks old (13:12 study), within 12 weeks, body weights of mice maintained on TRF (FTT) or switched to TRF (FAT) were equivalent. At 38 weeks old (26:12 study), crossed-over mice (FTA and FAT) attained a body weight that was intermediate between FAA and FTT mice. Therefore, TRF is more effective in normalizing body weight when adopted early in life or when there is moderate adiposity. Nevertheless, in older mice, TRF reduced excessive body weight by 20% and prevented further weight gain. Attaining an ideal body weight equivalent to that observed in chronic TRF mice might require additional interventions. In summary, TRF for 12 hours or shorter offers metabolic benefits irrespective of diet type, so much so that even occasional ALF did not blunt the TRF benefits. In addition, age is an important factor in TRF, as young individuals may be more susceptible to its benefits than older counterparts.
+
+These different studies revealed that the benefits of TRF seem to be directly related to adiposity. PPARγ, a transcription factor involved in lipid storage and adipocytes differentiation, appears to play an important role. The overexpression of PPARγ in WAT of TRF mice is reminiscent of the protective role it plays by promoting the development of “better quality” fat tissue (Sharma and Staels, 2007). Conversely, PPARγ expression was much higher in BAT of ALF mice, which could explain its observed “whitening”. Elevated hepatic PPARγ is a protective measure to prevent serum hyperlipidemia, triglyceride accumulation in other tissues, and associated insulin resistance (Matsusue et al., 2003). It is unclear how the feeding pattern tunes PPARγ levels in a tissue-specific manner, as observed in our study. Such differential regulation is unlikely to be an acute effect of daily feeding, as PPARγ levels of 5T2A livers during ALF days were similar to those seen with FTT or FAT livers.
+
+In addition to lipid storage, TRF has a tremendous effect on lipid regulation itself. SREBPs are master transcription factors involved in lipid and sterol homeostasis. Although there were no differences in hepatic mRNA levels between ALF and TRF, levels of the shorter, proteolytically-activated form of SREBP were higher in TRF, indicating higher activation of the pathway. An increase in active SREBP, as well as its known target enzymes Cyp7a1 and Cyp7b1, in the liver of TRF mice likely restores cholesterol homeostasis. Serum levels of cholesterol, its precursor cholestanol, and its hormonal or bile acid derivatives (corticosterone, TCA, and TCDA) were better regulated in TRF mice (fig 6). Importantly, protection from hypercholesterolemia was a hallmark of all mice experiencing TRF, independent of the dietary challenge or the duration of feeding (fig 7).
+
+In addition to improving lipid and cholesterol homeostasis, TRF had far reaching effects on glucose and protein metabolism. ALF mice showed constitutively higher activation of the gluconeogenesis pathway, a characteristic of insulin resistance (fig 5D). All mice on TRF were protected against insulin resistance (HOMA-IR, fig S4A). Irrespective of adiposity, when TRF mice were challenged with a glucose bolus they were able to restore normoglycemia much faster than ALF mice (fig 4C). In mice fed a normal diet and mice on TRF, serum levels of free amino acids oscillated with a daytime peak (i.e., when mice were fasting). Accordingly, phospho-S6, an indicator of protein synthesis, oscillated with a nighttime peak. In mice fed HFD ad libitum (FAA), the average levels of free amino acids (including BCAA) were elevated and the peak phase was shifted by 12 hours. In addition, the phospho-S6 peak in liver and muscle was reduced and phase shifted by 12 hours. The FA condition desynchronized the diurnal profile of free amino acids in the serum, and protein synthesis pathways in the liver and muscle. TRF restored the temporal regulation and overall levels of these pathways. This improved protein homeostasis may contribute to the remarkable endurance exhibited by TRF mice (fig 5E, fig 6D) (Tipton and Wolfe, 2001).
+
+Motivated by the multifactorial improvement in diverse metabolic pathways, we used metabolomics to explore the global impact of TRF. Biomarkers for inflammation and protection against reactive oxygen species were reduced and elevated respectively. The effect of TRF on both of these health-promoting pathways may be important for the systemic health improvements seen under TRF. For most metabolites it is unclear whether changes in the average level or the temporal pattern of abundance is important. However, because TRF affects metabolites in a number of key pathways, this aspect of our findings warrants further investigation.
+
+Ultimately, our results highlight the great potential for TRF in counteracting human obesity and its associated metabolic disorders. Future work should explore the role of known metabolic and circadian regulators in restoring the organism’s energetics to normalcy under TRF. Furthermore, it is worth investigating whether the physiological observations found in mice apply to humans. A large-scale randomized control trial investigating the role of time restricted feeding would show whether it is applicable to humans.
+
+EXPERIMENTAL PROCEDURES
+Animals and diets
+All animal experiments were carried out in accordance with the guidelines of the IACUC of the Salk Institute. C57BL/6 male mice (The Jackson Laboratory) at 6–10 weeks of age were entrained to a 12:12 light-dark cycle with normal chow food available ad libitum for 2 weeks. Then onwards, mice were randomly assigned to different feeding regimens described in detail in supplemental methods 1, fig S1, and table S2. Diets used in this study are a normal chow diet (LabDiet-5010), a 60% high fat diet (TestDiet-58Y1), a high fructose diet (Harlan-TD.89247), and a high fat high sucrose diet (ResearchDiets-D12266B) (table S1). Food intake and body weight were monitored weekly throughout the experiments. The food access durations were readjusted weekly to ensure isocaloric consumption in all groups (plus or minus a maximum of one hour).
+
+Hepatic triglycerides quantification
+Liver powder was homogenized in isopropanol and triglyceride concentration was measured using an enzymatic assay (Triglycerides LiquiColor, Stanbio). Data were normalized to liver weight.
+
+Serum biochemistry
+Blood was obtained from fasted (ZT22-ZT38) or refed mice (one hour after intraperitoneal glucose injection (1 mg/g body weight) at ZT37). Triglycerides, glucose, and total cholesterol were measured using Thermo Scientific Infinity Reagents. Insulin, leptin, and adiponectin were quantified using Meso Scale Discovery immunoassays.
+
+Glucose and insulin tolerance tests (GTT &amp; ITT)
+Mice were fasted in paper bedding for 16 hours (ZT22-ZT38) or 3 hours (ZT13-16) for glucose or insulin tolerance tests, respectively. Glucose (1 g/kg body weight) and Insulin (0.5-1 U/kg body weight) were injected intraperitonally. Blood glucose level was measured using OneTouch Ultra glucose meter prior to injection and several times after injection as indicated. HOMA-IR was calculated as follows: (fasting serum insulin concentration (mU/ml)) × (fasting blood glucose levels (mg/dl))/(405) (Matthews et al., 1985).
+
+RT-qPCR
+RNA and cDNA were prepared and RT-qPCR (reverse transcription-quantitative polymerase chain reaction) was performed as described (Vollmers et al., 2009). Absolute transcript expression was calculated using the standard curve method (using 3 technical replicates), normalized to 18sRNA and RPL10 expression (both of which do not show circadian or diet dependent changes in mRNA levels), and finally median normalized group wise. Primer sequences can be found in Supplemental Methods.
+
+Western blotting
+Western blots were conducted as described (Vollmers et al., 2009) (see supplemental methods for details).
+
+Metabolome and heatmap
+Frozen serum aliquots were used for detection and relative quantification of metabolites by Metabolon as described (Evans et al., 2009). Only metabolites detected in at least 4 mice per feeding group were retained for further analysis. Data were normalized to the median expression of each metabolite. Missing values were imputed using k-nearest neighbors. Heatmaps were constructed using MeV (Dana-Farber Cancer Institute). Twenty-four hour rhythmic metabolites were identified using JTK (Hughes et al., 2010) (period [20-28h], adjusted p &lt; 0.05). Venn diagrams were constructed using VennPlex (Cai et al., 2013).
+
+Statistical analyses
+The Student’s test was used for pair-wise comparisons and ANOVA with post hoc tests was used to compare to the control group. For time series, repeated measured ANOVA with post hoc tests was used to compare to the control group. For examining two variables, two-way ANOVA was used. Statistics were calculated as appropriate using Prism. Throughout all figures, data are presented as mean ± SEM with statistical result of the statistical test, with *p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001. Statistical significance was concluded at p &lt; 0.05.
+
+Supplementary Material
+1  2  3  ACKNOWLEDGMENTS
+This work was partially supported by NIH grants DK091618-04, EY016807, NS066457 and AFAR grant M14322 to S.P. and funding to research cores through NIH P30 CA014195, P30 EY019005, P50 GM085764, R24 DK080506 and the Glenn Center for Aging. A.C. was supported by a mentor-based postdoctoral fellowship from the American Diabetes Association (7-12-MN-64) and has received support from the Philippe Foundation Inc., New York. A.Z. received support from NIH T32 DK07202 and an AASLD Liver Scholar Award. The authors would like to thank An Qi Yao, Shih-Han Huang and Seung Mi Oh, Hiep Le, Naomi Goebel-Phipps, SAF people and Scott McDonnell for technical assistance and input. We thank Shubhroz Gill for careful, critical and constructive editing of the manuscript.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Author contributions
+
+A.C. designed the study, carried out the research, analyzed and interpreted the results, and wrote the manuscript. P.M. assisted in the research. A.Z. assisted in the study design and reviewed the manuscript. S.P. designed the study, analyzed the data, and reviewed the manuscript, and is responsible for the integrity of this work. All authors approved the final version of the manuscript.
+
+HIGHLIGHTS
+- TRF protects against diverse obesogenic diets, even when briefly interrupted.
+
+- TRF can be used as a therapeutic intervention against metabolic diseases.
+
+- TRF prevents hepatic steatosis, chronic inflammation, and glucose intolerance.
+
+- TRF ameliorates metabolic fitness and counters hypercholesterolemia.
+
+Figure 1 Experimental design
+A-D. Schematic representation of the feeding groups used in this study. The diet, the food access interval, and the lighting schedule are shown. The color code and abbreviations are indicated. Legends show the four diets used in this study. See also supplemental methods for details
+
+Figure 2 Time-restricted feeding prevents and reverses body weight gain upon different nutritional challenges
+A. Body weight curve for each experimental cohort (see Fig 1, Fig S1 and experimental procedures for cohort description). The number of mice (n) analyzed per group was (i-ii) n=16, (iii) n=12, and (iv) n=32 then 16.
+
+B. Body composition of mice in each feeding group at the end of the study, and corresponding
+
+C. total fat mass as a percent of total body weight. The percentage reduction of fat mass compared to ad libitum fed controls is indicated. (i-ii) n=4 and (iii-iv) n=8.
+
+Data are presented as mean ± SEM. *p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001 versus all other groups or versus the ad libitum fed control group as indicated.
+
+Figure 3 Time-restricted feeding reduces whole body fat accumulation and associated inflammation
+A. Representative H&amp;E stained histological sections of epididymal white adipose tissue (eWAT; upper panels) and brown adipose tissue (BAT; lower panels) in the different feeding conditions, as indicated. Arrowheads point to crown structures.
+
+B. Serum leptin concentration. The number of mice (n) analyzed per group was (i) n=10, (ii) n=8, (iii) n=6, and (iv) n=7.
+
+C. Quantitative polymerase chain reaction (qPCR) analysis of selected pro-inflammatory cytokines (TNFa, IL10, IL1) and chemokine (Ccl8) mRNA expression in (i) eWAT and (ii) BAT. N= pool of 6-8 samples per feeding group. See methods for details.
+
+D. Hepatic triglyceride content. (i) n=6, (ii-iv) n=12.
+
+E. Serum triglyceride concentration. (i) n=10, (ii-iv) n=6.
+
+Data are presented as mean ± SEM. t-test, *p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001.
+
+Figure 4 Time-restricted feeding improves glucose tolerance and reduces insulin resistance
+A. Serum glucose concentration in the different experimental groups (vertical panels, A(i)-A(iv)) and corresponding B. serum insulin concentration (B(i)-(iv)) in fasted (ZT22-ZT38) and refed animals (1 hour after glucose intraperitoneal injection (1mg/g BW) at ZT37). For each condition, 4-10 mice were analyzed.
+
+C. Glucose tolerance tests (GTT) in the different experimental groups and corresponding D- area under the curve (AUC). 8 mice per group were analyzed.
+
+Data are presented as mean ± SEM. t-test, *p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001.
+
+Figure 5 Time-restricted feeding improves nutrient homeostasis
+A. Time on an accelerated rotarod (n=6 mice per group).
+
+B. Time on a treadmill during a run-to-exhaustion assay. Each dot represents one mouse.
+
+C. Schematic (i) and qPCR analysis of lipid metabolism genes Acaca, Fasn,Ppgc1a, Pparg, Pcx, Elovl3, Elovl5 mRNA expression in BAT (ii), eWAT (iii), and liver (iv). N= pool of 6-8 samples per group.
+
+D. qPCR analysis of hepatic mRNA expression of the glucose metabolism pathway genes gck, g6pase, pcx. Results are shown as pooled throughout a circadian time-course or as a double-plotted temporal profile. N= pool of 12 samples per group for pooled data or two mice per time point for temporal profile.
+
+E. Representative scans (top) of western blots showing the temporal expression (total S6) and activation (phospho-Serine 235/236) profiles of the ribosomal protein S6 in muscle (i) and liver (ii). Level of phospho-S6 were quantified using ImageJ from two independent mice per time-point and double plotted (bottom panels).
+
+Data are presented as mean ± SEM. t-tests, *p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001 as indicated.
+
+Figure 6 Quantitative and temporal changes in the serum metabolome reflect the whole-body beneficial effect of time-restricted feeding
+A. Heatmap representation of 114 metabolites that exhibit a statistically significantly change (p&lt;0.05) between the super group “TRF fed mice” (NTT, FTT, FAT) and the group “ALF fed mice” (FAA). Lighting regimen is depicted in black and yellow and food access in green.
+
+B. Serum abundance (median normalized) of (i) carnosine, (ii) pro-inflammatory lipids arachidonate (AA) and docosapentaenoic acid (22:5 n6) (n6DPA), and (iii) sterol pathway and bile acid pathway components campesterol, cholestanol, cholesterol, corticosterone, taurocholate, and taurochenodeoxycholate. Data are presented as mean ± SEM. t-tests, *p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001 as indicated.
+
+C. Venn diagram representation of 24-hour rhythmic serum metabolites identified by JTK_CYCLE (t&lt;0.05) (Hughes et al., 2010).
+
+D. Temporal abundance profiles of serum metabolites belonging to the indicated amino acid pathway.
+
+Figure 7 Time-restricted feeding restores cholesterol homeostasis
+A. Serum cholesterol concentration in the different feeding groups. The number of mice (n) analyzed per group was (i) n=10, and (ii-iv) n=6.
+
+B. (i) Schematic and (ii) hepatic qPCR analysis of cholesterol and bile acids metabolism enzymes Sqle, Dhcr7, Cyp7a1 and Cyp7b1. Data are shown as a double-plot showing the temporal expression profile at different times of the day (n=2 mice per time point per group).
+
+C. Representative western blots depicting the protein temporal expression profile (upper band) and activation profile (shorter cleaved form) of the sterol regulatory element binding protein (SREBP) in the liver. Level of active SREBP (cleaved short form) was quantified using ImageJ from two independent mice per time-point and double plotted (right panel).
+
+Data are presented as mean ± SEM. *p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001 versus the ad libitum fed control group as indicated.
+
+
+   REFERENCES
+
+            Adamovich Y  
+            Rousso-Noori L  
+            Zwighaft Z  
+            Neufeld-Cohen A  
+            Golik M  
+            Kraut-Cohen J  
+            Wang M  
+            Han X  
+            Asher G  
+           Circadian clocks and feeding time regulate the oscillations and levels of hepatic triglycerides. Cell Metab 2014 19 319 330 24506873 
+
+            Anderson JW  
+            Konz EC  
+            Frederich RC  
+            Wood CL  
+           Long-term weight-loss maintenance: a meta-analysis of US studies. Am J Clin Nutr 2001 74 579 584 11684524 
+
+            Barclay JL  
+            Husse J  
+            Bode B  
+            Naujokat N  
+            Meyer-Kovac J  
+            Schmid SM  
+            Lehnert H  
+            Oster H  
+           Circadian desynchrony promotes metabolic disruption in a mouse model of shiftwork. PLoS One 2012 7 e37150 22629359 
+
+            Boldyrev AA  
+            Aldini G  
+            Derave W  
+           Physiology and pathophysiology of carnosine. Physiol Rev 2013 93 1803 1845 24137022 
+
+            Bray GA  
+            Ryan DH  
+           Update on obesity pharmacotherapy. Ann N Y Acad Sci 2014 1311 1 13 24641701 
+
+            Bray MS  
+            Tsai JY  
+            Villegas-Montoya C  
+            Boland BB  
+            Blasier Z  
+            Egbejimi O  
+            Kueht M  
+            Young ME  
+           Time-of-day-dependent dietary fat consumption influences multiple cardiometabolic syndrome parameters in mice. Int J Obes (Lond) 2010 34 1589 1598 20351731 
+
+            Cai H  
+            Chen H  
+            Yi T  
+            Daimon CM  
+            Boyle JP  
+            Peers C  
+            Maudsley S  
+            Martin B  
+           VennPlex--a novel Venn diagram program for comparing and visualizing datasets with differentially regulated datapoints. PLoS One 2013 8 e53388 23308210 
+
+            Dallmann R  
+            Viola AU  
+            Tarokh L  
+            Cajochen C  
+            Brown SA  
+           The human circadian metabolome. Proc Natl Acad Sci U S A 2012 109 2625 2629 22308371 
+
+            Eckel-Mahan KL  
+            Patel VR  
+            de Mateo S  
+            Orozco-Solis R  
+            Ceglia NJ  
+            Sahar S  
+            Dilag-Penilla SA  
+            Dyar KA  
+            Baldi P  
+            Sassone-Corsi P  
+           Reprogramming of the circadian clock by nutritional challenge. Cell 2013 155 1464 1478 24360271 
+
+            Eckel-Mahan KL  
+            Patel VR  
+            Mohney RP  
+            Vignola KS  
+            Baldi P  
+            Sassone-Corsi P  
+           Coordination of the transcriptome and metabolome by the circadian clock. Proc Natl Acad Sci U S A 2012 109 5541 5546 22431615 
+
+            Evans AM  
+            DeHaven CD  
+            Barrett T  
+            Mitchell M  
+            Milgram E  
+           Integrated, nontargeted ultrahigh performance liquid chromatography/electrospray ionization tandem mass spectrometry platform for the identification and relative quantification of the small-molecule complement of biological systems. Anal Chem 2009 81 6656 6667 19624122 
+
+            Gamble KL  
+            Berry R  
+            Frank SJ  
+            Young ME  
+           Circadian clock control of endocrine factors. Nat Rev Endocrinol 2014 10 466 475 24863387 
+
+            Glass CK  
+            Olefsky JM  
+           Inflammation and lipid signaling in the etiology of insulin resistance. Cell Metab 2012 15 635 645 22560216 
+
+            Hanley B  
+            Dijane J  
+            Fewtrell M  
+            Grynberg A  
+            Hummel S  
+            Junien C  
+            Koletzko B  
+            Lewis S  
+            Renz H  
+            Symonds M  
+             
+           Metabolic imprinting, programming and epigenetics - a review of present priorities and future opportunities. Br J Nutr 104 Suppl 2010 1 S1 25 
+
+            Hatori M  
+            Vollmers C  
+            Zarrinpar A  
+            DiTacchio L  
+            Bushong EA  
+            Gill S  
+            Leblanc M  
+            Chaix A  
+            Joens M  
+            Fitzpatrick JA  
+             
+           Time-restricted feeding without reducing caloric intake prevents metabolic diseases in mice fed a high-fat diet. Cell Metab 2012 15 848 860 22608008 
+
+            Hughes ME  
+            Hogenesch JB  
+            Kornacker K  
+           JTK_CYCLE: an efficient nonparametric algorithm for detecting rhythmic components in genome-scale data sets. J Biol Rhythms 2010 25 372 380 20876817 
+
+            Jin J  
+            Iakova P  
+            Breaux M  
+            Sullivan E  
+            Jawanmardi N  
+            Chen D  
+            Jiang Y  
+            Medrano EM  
+            Timchenko NA  
+           Increased expression of enzymes of triglyceride synthesis is essential for the development of hepatic steatosis. Cell Rep 2013 3 831 843 23499441 
+
+            Kohsaka A  
+            Laposky AD  
+            Ramsey KM  
+            Estrada C  
+            Joshu C  
+            Kobayashi Y  
+            Turek FW  
+            Bass J  
+           High-fat diet disrupts behavioral and molecular circadian rhythms in mice. Cell Metab 2007 6 414 421 17983587 
+
+            Longo VD  
+            Mattson MP  
+           Fasting: molecular mechanisms and clinical applications. Cell Metab 2014 19 181 192 24440038 
+
+            Manning BD  
+           Balancing Akt with S6K: implications for both metabolic diseases and tumorigenesis. J Cell Biol 2004 167 399 403 15533996 
+
+            Martin-Montalvo A  
+            Mercken EM  
+            Mitchell SJ  
+            Palacios HH  
+            Mote PL  
+            Scheibye-Knudsen M  
+            Gomes AP  
+            Ward TM  
+            Minor RK  
+            Blouin MJ  
+             
+           Metformin improves healthspan and lifespan in mice. Nat Commun 2013 4 2192 23900241 
+
+            Matsusue K  
+            Haluzik M  
+            Lambert G  
+            Yim SH  
+            Gavrilova O  
+            Ward JM  
+            Brewer B Jr.  
+            Reitman ML  
+            Gonzalez FJ  
+           Liver-specific disruption of PPARgamma in leptin-deficient mice improves fatty liver but aggravates diabetic phenotypes. J Clin Invest 2003 111 737 747 12618528 
+
+            Matthews DR  
+            Hosker JP  
+            Rudenski AS  
+            Naylor BA  
+            Treacher DF  
+            Turner RC  
+           Homeostasis model assessment: insulin resistance and beta-cell function from fasting plasma glucose and insulin concentrations in man. Diabetologia 1985 28 412 419 3899825 
+
+            Mayes PA  
+           Intermediary metabolism of fructose. Am J Clin Nutr 1993 58 754S 765S 8213607 
+
+            McArdle MA  
+            Finucane OM  
+            Connaughton RM  
+            McMorrow AM  
+            Roche HM  
+           Mechanisms of obesity-induced inflammation and insulin resistance: insights into the emerging role of nutritional strategies. Front Endocrinol (Lausanne) 2013 4 52 23675368 
+
+            Mehran AE  
+            Templeman NM  
+            Brigidi GS  
+            Lim GE  
+            Chu KY  
+            Hu X  
+            Botezelli JD  
+            Asadi A  
+            Hoffman BG  
+            Kieffer TJ  
+             
+           Hyperinsulinemia drives diet-induced obesity independently of brain insulin production. Cell Metab 2012 16 723 737 23217255 
+
+            Mellor KM  
+            Bell JR  
+            Young MJ  
+            Ritchie RH  
+            Delbridge LM  
+           Myocardial autophagy activation and suppressed survival signaling is associated with insulin resistance in fructose-fed mice. J Mol Cell Cardiol 2011 50 1035 1043 21385586 
+
+            Narkar VA  
+            Downes M  
+            Yu RT  
+            Embler E  
+            Wang YX  
+            Banayo E  
+            Mihaylova MM  
+            Nelson MC  
+            Zou Y  
+            Juguilon H  
+             
+           AMPK and PPARdelta agonists are exercise mimetics. Cell 2008 134 405 415 18674809 
+
+            Panda S  
+            Antoch MP  
+            Miller BH  
+            Su AI  
+            Schook AB  
+            Straume M  
+            Schultz PG  
+            Kay SA  
+            Takahashi JS  
+            Hogenesch JB  
+           Coordinated transcription of key pathways in the mouse by the circadian clock. Cell 2002 109 307 320 12015981 
+
+            Pontzer H  
+            Raichlen DA  
+            Wood BM  
+            Mabulla AZ  
+            Racette SB  
+            Marlowe FW  
+           Hunter-gatherer energetics and human obesity. PLoS One 2012 7 e40503 22848382 
+
+            Saltiel AR  
+           Insulin resistance in the defense against obesity. Cell Metab 2012 15 798 804 22682220 
+
+            Samuel VT  
+           Fructose induced lipogenesis: from sugar to fat to insulin resistance. Trends Endocrinol Metab 2011 22 60 65 21067942 
+
+            Sharma AM  
+            Staels B  
+           Review: Peroxisome proliferator-activated receptor gamma and adipose tissue--understanding obesity-related changes in regulation of lipid and glucose metabolism. J Clin Endocrinol Metab 2007 92 386 395 17148564 
+
+            Stanhope KL  
+           Role of fructose-containing sugars in the epidemics of obesity and metabolic syndrome. Annu Rev Med 2012 63 329 343 22034869 
+
+            Swinburn BA  
+            Sacks G  
+            Hall KD  
+            McPherson K  
+            Finegood DT  
+            Moodie ML  
+            Gortmaker SL  
+           The global obesity pandemic: shaped by global drivers and local environments. Lancet 2011 378 804 814 21872749 
+
+            Tao R  
+            Gong J  
+            Luo X  
+            Zang M  
+            Guo W  
+            Wen R  
+            Luo Z  
+           AMPK exerts dual regulatory effects on the PI3K pathway. J Mol Signal 2010 5 1 20167101 
+
+            Tetri LH  
+            Basaranoglu M  
+            Brunt EM  
+            Yerian LM  
+            Neuschwander-Tetri BA  
+           Severe NAFLD with hepatic necroinflammatory changes in mice fed trans fats and a high-fructose corn syrup equivalent. Am J Physiol Gastrointest Liver Physiol 2008 295 G987 995 18772365 
+
+            Tipton KD  
+            Wolfe RR  
+           Exercise, protein metabolism, and muscle growth. Int J Sport Nutr Exerc Metab 2001 11 109 132 11255140 
+
+            Vollmers C  
+            Gill S  
+            DiTacchio L  
+            Pulivarthy SR  
+            Le HD  
+            Panda S  
+           Time of feeding and the intrinsic circadian clock drive rhythms in hepatic gene expression. Proc Natl Acad Sci U S A 2009 106 21453 21458 19940241 
+
+            Wang CY  
+            Liao JK  
+           A mouse model of diet-induced obesity and insulin resistance. Methods Mol Biol 2012 821 421 433 22125082 
+

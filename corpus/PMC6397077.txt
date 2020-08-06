@@ -1,0 +1,417 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   7707242365Alcohol Clin Exp ResAlcohol. Clin. Exp. Res.Alcoholism, clinical and experimental research0145-60081530-027730589435639707710.1111/acer.13946NIHMS1003880ArticleA pivotal role for thiamine deficiency in the expression of neuroinflammation markers in models of alcohol-related brain damage Nunes Polliana Toledo Vedder Lindsey C. Deak Terrence Savage Lisa M. http://orcid.org/0000-0001-5711-3709Department of Psychology, Behavioral Neuroscience Program, Binghamton University, State University of New YorkCorresponding Author: Lisa. M. Savage, Ph.D., Department of Psychology, Binghamton University, State University of New York, Binghamton, NY 13902, lsavage@binghamton.edu2 1 2019 20 1 2019 3 2019 01 3 2020 43 3 425 438 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background:
+Alcohol-related brain damage (ARBD) is associated with neurotoxic effects of heavy alcohol use and nutritional deficiency, in particular thiamine deficiency (TD), both of which induce inflammatory responses in brain. Although neuroinflammation is a critical factor in the induction of ARBD, few studies have addressed the specific contribution(s) of ethanol (EtOH) versus TD.
+
+Methods:
+Adult rats were randomly divided into 6 conditions: chronic EtOH treatment (CET) where rats consumed a 20% v/v solution of EtOH for 6 months; CET with injections of thiamine (CET+T); severe pyrithiamine-induced TD (PTD-MAS); moderate PTD (PTD-EAS); moderate PTD during CET (CET+PTD); and pair-fed (PF) controls. After the treatments, the rats were split into 3 recovery phase time points: the last day of treatment (Time-point 1), acute recovery (Time-point 2: 24-hrs post treatment) and delayed recovery (Time-point 3: 3-weeks post treatment). At these time-points vulnerable brain regions (thalamus, hippocampus, frontal cortex) were collected and changes in neuroimmune markers were assessed using a combination of RT-PCR and protein analysis.
+
+Results:
+CET led to minor fluctuations in neuroimmune genes, regardless of the structure being examined. In contrast, PTD treatment led to a profound increase in neuroimmune genes and proteins within the thalamus. Cytokine changes in the thalamus ranged in magnitude from moderate (3–4 fold increase for IL-1β and IκBα) to severe (8–26 fold increase in TNF-α and IL-6, respectively). Though a similar pattern was observed in the hippocampus and frontal cortex, overall fold-increases were moderate relative to the thalamus. Importantly, neuroimmune gene induction varied significantly as a function of severity of TD, and most genes displayed a gradual recovery across time.
+
+Conclusions:
+These data suggest an overt brain inflammatory response by TD and a subtle change by CET alone. Also the prominent role of TD in the immune-related signaling pathways lead to unique regional and temporal profiles of induction of neuroimmune genes.
+
+alcohol-related brain damagechronic EtOH exposurethiamine deficiencyneuroinflammationcytokines
+   1. Introduction
+Alcohol is the most commonly used addictive substance in the world and excessive and prolonged alcohol use has been related to permanent damage of the brain that is accompanied by severe cognitive and motor impairments (Harper, 2009; He et al., 2007). Though the influence of alcohol in the CNS is widespread, pathological studies have revealed some significant differences on Alcohol-Related Brain Damage (ARBD) between amnesic and non-amnesic alcoholics that have been attributed to thiamine deficiency (TD). The cerebellar and thalamic atrophy and neuronal loss are selectively seen in amnestic alcoholics that fit the criteria for Wernicke’s encephalopathy (WE), a disorder associated with TD (de la Monte and Kril, 2014). In contrast, in non-amnestic alcoholics with no apparent history of TD there is no evidence of atrophy and neuronal loss in cerebellum apart from vermal Purkinje neurons (Baker et al., 1999). Furthermore, there is no loss of neurons in the hippocampus and in anterior thalamic nuclei (Harding et al., 2000).
+
+ARBD manifests primarily within two brain networks, the Papez circuit and frontocerebellar circuit (Chanraud et al., 2010; Pitel et al., 2012; see review Pitel et al., 2015; Segobin et al., 2015; Zahr et al., 2011). The Papez circuit is involved in episodic memory and includes the hippocampal formation, thalamus, mammillary bodies and cingulate cortex (Aggleton and Brown, 1999). The frontocerebellar circuit includes the cerebellum interconnected to the cortex through the pons and the thalamus, and this circuit consists of two distinct, parallel closed-loops within the corticothalamocerebellar circuitry which contribute to motor function and executive functioning (Kelly and Strick, 2003; Marvel and Desmond, 2010; Sullivan et al., 2006).
+
+Although both networks involve the thalamus, different nuclear groups are engaged: the frontocerebellar circuit includes the dorsomedial nuclei, whereas the anterior nuclei are part of the Papez circuit, making the thalamus a key node in alcohol-related pathology (Pitel et al., 2015). Studies have shown that alcohol-related damage to the Papez circuit occurs due to compromise in the integrity of the white matter tracts that disrupt the connectivity between fornix, anterior thalamic and cingulum bundle (Harris et al., 2008; Pfefferbaum et al., 2009; Pitel et al., 2012). Moreover, the alcohol-related damage of the frontocerebellar circuit includes the vulnerability of the cortex, pons and cerebellum to alcohol toxicity (Zahr et al., 2010; for review).
+
+The direct neurotoxic effects of alcohol and its associated withdrawal, alterations in metabolic factors, liver injury via a liver–brain axis, and nutritional deficiency are some of the mechanisms involved in ARBD (de la Monte et al., 2009; de la Monte and Kril, 2014; Kopelman et al., 2009). The nutritional deficiency in alcoholism is associated with malnourishment and decreased absorption of vitamins, in particular vitamin B1 or thiamine, due to direct effects of alcohol on thiamine metabolism (Butterworth et al., 1993). The combination of these two factors, chronic alcoholism and thiamine deficiency (TD) in humans can lead to the acute neurological disorder of Wernicke’s encephalopathy (WE). The WE caused by TD alone is seen in non-alcoholic patients with different conditions, such as gastroenteric resection, chronic wasting disease, hyperemesis gravidarum (Gui et al., 2006), and in AIDS patients (Butterworth et al. 1991). If thiamine is not restored, a patient can progress to Korsakoff syndrome (KS; Arts et al, 2017; Harper, 2006; Kopelman et al., 1995, 2009; Victor &amp; Yakovlev, 1955). These disorders have been replicated in animal models using chronic ethanol (EtOH) treatment (CET), thiamine-deficient diet alone or combined with CET, thiamine-deficient diet combined with systemic injections of pyrithiamine (PTD, pyrithiamine-induced thiamine deficiency), and PTD combined with CET (CET-PTD) (Ciccia &amp; Langlais, 2000; de Fátima Oliveira-Silva et al., 2015; He et al., 2007; Pires et al., 2001; Pires et al., 2005; Vedder et al., 2015).
+
+Models of CET and TD separately have demonstrated that these experimental models produce similar yet distinct effects on brain structure and behavior symptoms. For instance, both of these treatments produce forebrain cholinergic cell loss, reductions in hippocampal acetylcholine (Anzalone et., 2010; Hall and Savage, 2016; Pires et al., 2001; Pires et al., 2005) and reductions in hippocampal neurotrophin levels (Davis, 2008; Hellmann et al., 2009; Miller &amp; Mooney, 2004; Vedder et al., 2015). Within the frontal cortex, there is shrinkage of both gray and white matter (He et al., 2007; Langlais and Savage, 1995; Savage et al., 2000) as well as a change of neurotrophins levels (Vedder et al., 2015; Yang et al., 2017). Interestingly, lesions in thalamus and cell loss in mammillary bodies are found uniquely in TD animals. Learning and memory dysfunction has been noted in both models, but like the human WKS condition (Pitel et al., 2011) there is a continuum of cognitive dysfunction with chronic alcohol producing milder impairments than TD (Vetreno et al., 2011; for review).
+
+Neuroinflammation is a contributing factor to ARBD. Recent studies have suggested that ethanol and TD activate glial cells and the innate immune system by triggering inflammatory cytokine release and free radical species, which has been attributed to participate in inflammatory brain damage and cell death (Blanco and Guerri, 2007; Qin et al., 2008; Qin and Crews, 2014; Vallés et al., 2004).
+
+The induction of inflammatory responses in brain have been demonstrated in studies with animal models exposed to TD and/or EtOH. Experimental TD in rodents produces upregulation of cytokine genes and bioactive protein in vulnerable brain regions, including the thalamus and inferior colliculus (Karuppagounder et al., 2007; Vemuganti et al., 2006). Levels of chemokine/cytokine protein together with in vivo measures of pathology also had been determined in TD animal models to establish a relationship between neuroinflammatory and pathology markers (Zahr et al., 2014). After 12 days of PTD treatment, increased expression of chemokine/cytokine protein concentrations (MCP-1, TNF-α, IL-1β, IL-10, IL-6) were observed in brain regions such as inferior colliculi, thalamus, hypothalamus, anterior vermis and hippocampus (Zahr et al., 2014).
+
+In addition, there is evidence that inflammatory mediators are induced in the brain of animals with a history of chronic EtOH exposure (Alfonso-Loeches et al., 2010; Crews et al., 2013; Vallés et al., 2004) and EtOH withdrawal can prolong this neuroinflammation effect of the chronic EtOH consumption (Cruz et al., 2017; Freeman et al., 2012; Whitman et al., 2013). A recent study using mice lacking Toll like receptors (TLR4 and TLR2) treated with alcohol for 5 months (Pascual et al., 2015) showed these animals were protected against EtOH-induced cytokine and chemokine induction. However, wild-type mice receiving the same EtOH exposure showed increases levels of cytokines, such as IL-1β, IL-17, tumor necrosis factor-α (TNF-α) and chemokines (MCP-1, MIP-1a, CX3CL1) in the striatum and serum.
+
+The induction of proinflammatory genes within the thalamus was observed in a study examining the interaction between short-term EtOH exposure and TD treatment (Qin and Crews, 2014). After 5 and 10 days of treatment (EtOH, TD, EtOH+TD), only the combined EtOH-TD group showed increases in proinflammatory cytokine genes (TNF-α, IL-1β, IL-6 and MCP-1). However, after 10 days of treatment, proinflammatory cytokine gene expression and proteins concentrations, were increased following PTD, EtOH exposure and combined treatment. These results suggest that the thalamus is a key site of neuroimmune induction following TD and EtOH exposure.
+
+Such findings are relevant because they shed light on process of how inflammation plays a role in ARBD and TD-induced neurodegeneration. Thus, to determine both the unique and combined long-term impact of chronic EtOH exposure (20% EtOH in drinking water for 6 months) and the effect of TD on neuroinflammation signals, we examined cytokine expression in key CNS sites known to be responsive to both chronic EtOH and PTD treatment (thalamus, hippocampus and frontal cortex). Since EtOH and TD have neurodegenerative effects in thalamus and it is a common site of ARBD, we first focused our analyses on gene expression levels and protein assessments of inflammatory markers (IL-6, TNF-α, IL-1β, Nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha (IκBα) IL-2, IL-1α, granulocyte-macrophage colony-stimulating factor (GM-CSF) and Interferon-gamma (IFN-γ) in thalamus. Given that 4 of these pro-inflammatory cytokines (IL-1β, IL-6, TNFα, IκBα) are known to be TD and ethanol responsive (Vemuganti et al., 2006; Gano et al., 2016) and they were the most marked alterations in thalamus, gene expressions of these cytokines also were performed in the hippocampus and frontal cortex. We also examined the persistence of cytokine alterations during abstinence and recovery from chronic EtOH exposure with or without accompanying TD.
+
+2. Methods and Materials
+2.1. Subjects
+Adult male Sprague Dawley rats (N=145 for cytokines gene expression/protein concentration; n=28 for thiamine blood levels; Envigo, Frederick, MD) were housed in standard Plexiglas bins with chew blocks and nesting materials and initially there was ad libitum access to food and water within a vivarium at Binghamton University (20–22 °C with 12hr/12hr light/dark cycle, with light onset at 07:00 h). Prior to any experimental manipulations all rats were allowed 2 weeks to acclimate to the vivarium. All experiments were approved by the Institutional Animal Care and Use Committee at the State University of New York at Binghamton and conducted according to the National Institute of Health: Guide for the Care and Use of Laboratory Animals (2011).
+
+2.2 Experimental conditions
+The primary goal of the present study was to examine the effect of life-long EtOH consumption on subsequent cytokine expression in the thalamus, hippocampus and frontal cortex and to isolate a potential role for TD in neuroinflammatory consequences of EtOH. To do this, we utilized a set of experimental conditions in which rats were forced to consume EtOH for 6 months (CET), with one subgroup given thiamine replacement therapy (CET+T). To examine the effect of thiamine depletion alone on subsequent cytokine expression, two groups of PTD-treated rats that differed in the time of thiamine restoration therapy (100 mg/kg ip either 1-hr (PTD-EAS) or 4.25 hrs (PTD-MAS) after the appearance of the first observation of a seizure). The amount of time prior to thiamine reversal has previously been shown to modulate the extent of thalamic pathology (Savage et al., 2012; Zhang et al., 1995). To test for potential interactions between long-term EtOH consumption and thiamine depletion, an additional experimental group was utilized (CET+PTD) in which PTD treatment (EAS) was initiated 30 days after the onset of forced EtOH consumption. Rats were randomly assigned into one of the 6 treatment conditions outlined above and further described in detail below (see Fig. 1). Regardless of experimental condition, rats were housed in cages of 2–3 per cage, with all rats in a single cage receiving identical procedures.
+
+Chronic EtOH treatment (CET):
+EtOH exposure in this experiment was performed using a forced consumption procedure in which the only available liquid for consumption was EtOH in the drinking bottles (see Aloe &amp; Tirassa, 1992; Cadete-Leite et al., 2003; Ciccia &amp; Langlais, 2000). A fading-on procedure (5 days at each concentration) was implemented to gradually expose rats to 6, 9, 12% and finally 20% v/v EtOH in drinking water. Adult rats then consumed a 20% v/v solution of EtOH daily for 6 months. EtOH exposure using this model has been shown previously to produce BECs in the range of 30–120 mg/dl (see Savage et al., 2000; Vedder et al., 2015). During the CET treatment the rats were fed with normal diet consisting of regular Purina rat chow.
+
+Combined treatment of CET with Thiamine (CET+T):
+Rats received chronic EtOH treatment (same as CET), but also received intraperitoneal injections (i.p) of thiamine hydrochloride (0.4 mg/ml, ip; Sigma-Aldrich) 3 times per week (M, W, F), for the entire period of EtOH consumption (see Ciccia &amp; Langlais, 2000).
+
+PTD treatment:
+Rats in the PTD group received ad libitum access to thiamine-deficient chow (Harlan Laboratories, Inc., Indianapolis, IN) in conjunction with daily intraperitoneal (i.p.) pyrithiamine hydrobromide injections (0.25 mg/kg; Sigma-Aldrich Corp., St. Louis, MO). The PTD rats were divided in 2 groups, yielding two distinct stages in the severity of TD: (i) an early acute stage (PTD-EAS) and (ii) a moderate acute stage (PTD-MAS), as described previously (Vedder et al., 2015).
+
+Combined treatments CET and PTD (CET+PTD):
+Rats were faded onto CET and after 1-month at 20% EtOH, they were exposed to moderate PTD-EAS. After the PTD treatment, the rats returned to receive regular chow. The CET treatment continued and persisted for another 5 months.
+
+Pair-fed (PF) control:
+Rats in the control group were given free access to water and regular chow during CET treatment. During the thiamine deficiency protocol, PF rats received ad libitum access to equivalent to thiamine deficient food consumption to PTD rats. In addition, PF rats received daily injections of thiamine during the time they were prescribed thiamine deficient chow.
+
+After completion of experimental procedures, rats in the 6 conditions were further randomly split into 3 recovery phase time points: During the last day of treatment (T1= time-point 1), acute recovery (24-hrs post treatment; T2 = time-point 2) and delayed recovery (3-weeks post treatment, T3 = time-point 3). In the PTD-EAS treatment time-point 1 condition, 9 rats were sacrificed within 1-hr after appearance of seizure, whereas in the PTD-MAS group, 8 rats were sacrificed 4.25-hrs after the appearance of seizure. In the CET groups (CET, CET+T, CET+PTD; n = 8/group), Time-point 1 corresponded to the rats being sacrificed during the intoxication phase (still drinking 20% EtOH). In the acute and long-term recovery phase, the rats, regardless of treatment condition where (n= 7–9/group) were sacrificed either 24-hrs post treatment (Time-point 2) or 3-weeks after the respected treatment (Time-point 3). The frontal cortex, thalami and hippocampi were rapidly dissected at 4°C. The thalami were bisected into two equal halves along the midline and stored at −80°C in separate vials (one for RT-PCR and one for Multiplex protein assessments). The hippocampi and frontal cortex also were store at −80°C and analyzed for RT-PCR.
+
+2.3 Blood Collection:
+2.3.1. Blood EtOH concentrations (BEC):
+Blood samples were collected in PF, CET, CET+T and CET+PTD groups at months 1, 3 and 6 during treatment and BECs were determined (Analox Instruments USA, Lunenburg, MA).
+
+2.3.2. Thiamine diphosphate:
+In a separate cohort of rats than those used to assess cytokines, thiamine diphosphate (TDP), the active form of thiamine, was determined in whole blood (decapitation, truck blood collection) of rats in the same treatment conditions (CET, CET+T, CET-PTD, PTD, PF) at the end of treatment (Time-point 1) using high-performance liquid chromatography (Ani Lytics Inc., Gaithersburg, MD).
+
+2.4 Real Time RT-PCR analysis
+Thalami, hippocampi and frontal cortex were homogenized with 500μL of Trizol RNA reagent (Invitrogen, GrandIsland, NY) and 5 mm stainless steel bead using a Qiagen TissueLyser (Qiagen, Valencia, CA). Total RNA was extracted by RNeasy mini columns (Qiagen) and used for cDNA synthesis through the reverse transcription kit (Qiagen) as described previously (Doremus-Fitzwater et al., 2015).
+
+PCR reactions were run using a CFX 384 Real-Time PCR Detection System (Bio-Rad, #185–5485) for 40 cycles. In each cycle, the samples were denatured for 30 s at 95°C, annealed for 30 s at 60°C and extended for 30 s at 72°C. All results were normalized using the Mitochondrial Ribosomal Protein L13 (MRPL13) as a housekeeper gene. The gene target, accession numbers, and the primer sequences are listed in Table 1. Genes of pro-inflammatory cytokines (IL-6, TNF-α, IL-1β and IκBα) were analyzed across three brain samples whereas other cytokines (IL-2 and IL-1α) and granulocyte-macrophage colony-stimulating factor (GM-CSF) were assessed only in thalamus.
+
+The MRPL13 expression was first analyzed and no significant difference were observed across experimental conditions or disease phase. Therefore, target genes were adjusted relative to housekeeper using the 2–ΔΔCT transformation (Livak &amp; Schmittgen, 2001) and a single group of PF rats (time-points 1, 2 and 3 combined) was consider the ultimate control.
+
+Data points with ± 2 standard deviations from the mean of the experimental conditions were considered outliers and removed from the analyses. In the thalamus, one animal from PTD-EAS (Time-point 1) group was identified as an outlier and was eliminated from all gene expression analyses. In the frontal cortex, several subjects had tissue problems (CET [T1; n=1], PTD-EAS [T1; n=3], PTD-EAS [T2; n=3] and PTD-MAS [T1; n=1]) and therefore the n final for subjects in those groups ranged between 5 and 9 (see Figures for final n’s).
+
+2.4 Immunoassays
+One hemisphere of the thalamus was homogenized with 400 μl of homogenization buffer containing cell lysis buffer and protease inhibitor cocktail from Bio-Plex™ Cell Lysis Kit (#171–304012- Bio-Rad; Hercules, CA) and 4μl of a solution 200mM phenylmethylsulfonyl fluoride (PMSF) in isopropanol. The samples were homogenized with an ultrasonic dismembrator (Model 100; Fisher Scientific, NJ, USA) at 4°C and centrifuged in short, slow and cold spin (4,500g for 4 min at 4°C). Supernatants were collected for MagPix and bicinchoninic acid (BCA) Protein assay kit.
+
+Tissue concentrations of interleukins (IL-1α, IL-1β, IL-2, IL-4, IL-5, IL-6, IL-10, IL-12(p70), IL-13), granulocyte-macrophage colony-stimulating factor (GM-CSF), interferon-gamma (IFN-γ), and tumor necrosis factor-α (TNF-α) were assessed using a commercially available, 12-plex kit (Bio-Plex Pro™ Rat Cytokine Assays; Bio-Rad Life Sciences, #171-K1002M) according to manufacturer’s guidelines and subsequently read using a BioRad MAGPIX system. Total protein concentrations were measured using a BCA assay and represented as % control (PF = 100%).
+
+2.5 Statistics analysis
+Statistical analyses were performed in GraphPad Prism (version 6.0, GraphPad Software, Inc). A repeated-measures analysis of variance (ANOVA) was used for BECs at months 1, 3 and 6, and the one-way ANOVA was used for TDP levels at Time-point 1. Bonferroni post hoc test was used to compare between PF and treatment groups (3 comparisons per family at months 1, 3 and 6).
+
+ANOVAs also were used to analyze target genes expression and protein concentrations across PF groups (Time-points 1, 2 and 3). When there was no significant difference between PF1, PF2 and PF3 groups, subjects were combined into a single group (PF). However, when PF groups (Time-points 1, 2 and 3) were significantly different, the analysis was performed using the corresponding time-point (e.g: Time-point 1: PF1 vs CET1; Time-point 2: PF2 vs CET2; Time-point 3: PF3 vs CET3).
+
+Given the complexity of the experimental design, two analyses were conducted. First, differences in cytokine gene expression and protein concentrations for the experimental conditions (PF, CET, CET+T, CET+PTD, PTD-EAS, PTD-MAS) were analyzed with a One-way ANOVA at Time-points 1, 2 and 3, separately. Second, to look at disease progression/recovery, changes in cytokine gene expression levels and protein concentrations were compared across time points within each experimental condition. For each cytokine, we conducted Bonferroni correction for the number of comparisons between experimental conditions, including contrasts to control groups (5 comparisons per family at Time-points 1, 2 and 3) and across time-points (3 comparisons per family in each experimental condition). The multiplicity adjusted p-value was reported for each comparison and the family-wise alpha level was set at 0.05. All values are expressed as percentage of mean ± standard error.
+
+3. Results
+3.1 Blood EtOH and TDP levels
+Analysis showed effects of treatment [F (3, 90) = 34.22, p &lt; 0.0001] and month [F (2, 180) = 8.619, p = 0.0003] for BEC levels (Fig. 2 A). The CET treatment produced significantly elevated BEC levels, relative to PF control rats during month 1 (CET: p &lt; 0.0001; CET+T: p = 0.0001; CET+PTD: p = 0.011), month 3 (all p’s &lt; 0.0001) and month 6 (all p’s &lt; 0.0001). The BEC in this study averaged 60 mg/dL, below the 80 mg/dL threshold of binge drinking (Reilly et al, 2014), and therefore this models moderate, not extreme, drinking. There were no differences of BECs within the CET treatment groups (month 1, 3 and 6: all p’s &gt; 0.05). However, as treatment progressed across months, the CET-exposed rats had escalating BEC levels. Note that because PF rats did not have access to EtOH, BECs reported in this group (ranging from 5–12 mg/dl) represent the floor of sensitivity for BEC determinations by Analox.
+
+During treatment (Time-point 1) levels of active thiamine (TDP) in whole blood (Fig. 2 B) was reduced, relative to PF rats, in both PTD (p &lt; 0.0001) and CET (p = 0.01; CET+T: p = 0.001; CET+PTD: p = 0.001) conditions [F (4, 31) = 8.94, p &lt; 0.01]. It should be noted that supplementing thiamine 3X a week did not restore active thiamine levels in CET+T treated rats. Figure 2 (panel C) illustrates a summary of the TD and CET treatments at Time-point 1 according with BEC and TDP level measurement.
+
+3.2 Central cytokine and chemokines expression
+Given that the thalamus has emerged as the key site of ARBD, our primary focus was analysis of this structure and included both gene expression levels and protein assessments of inflammatory markers (IL-6, TNF-α, IL-1β, IκBα, IL-2, IL-1α, GM-CSF, IFN-γ). Based on outcomes within the thalamus, follow-up assessments of gene expression were performed in the hippocampus and cortex because gene expression analysis displayed superior sensitivity to multiplexing in the thalamus, and to moderate high costs associated with multiplex analysis. Further, gene expression analyses in the hippocampus and frontal cortex focused on 4 genes known to be highly sensitive to EtOH exposure and that emerged in the thalamus as high value targets (IL-6, TNF-α, IL-1β, IκBα).
+
+3.2.1 Thalamus
+Figure 3 shows the heat map for gene expression (Panels A) and protein concentrations (Panels B) of the cytokines for all experimental conditions at the 3 different Time-point phases in thalamus. Appropriate comparisons of proinflammatory cytokines gene expression in PF groups were made across Time-points.
+
+Analysis revealed a main effect of Treatment on gene expression of IL-6 at Time-point 1 [F (5,57) = 28.9, p &lt; 0.0001]. Both PTD-EAS (10- fold) and PTD-MAS (26- fold) groups had elevated expression of IL-6 compared with PF group (p &lt; 0.001). This increase persisted 24-hr post treatment in PTD-MAS (p &lt; 0.0001), but returned to normal 3-weeks post treatment (p &gt; 0.05). The Treatment also affected IL-6 protein concentration [F (5, 57) = 5.28, p = 0.0005]. There was a massive upregulation only in the PTD-MAS condition at Time-point 1 (p &lt; 0.0001).
+
+To investigate disease progression/recovery, changes in IL-6 gene expression and protein concentration were compared across time points within each experimental condition. The analysis displayed a suppression of this gene in both PTD groups during the acute (Time-point 2, PTD-EAS: p = 0.001; PTD-MAS: p = 0.003) and delayed recovery (Time-point 3, PTD-EAS: p = 0.0001; PTD-MAS: p = 0.0002). The suppression the IL-6 protein concentration persisted only in the PTD-MAS group during delayed recovery (Time-point 3, p = 0.02)
+
+Analysis of TNF-α gene expression and protein concentration at Time-point 1 showed a main effect of Treatment [gene: F (5,56) = 29.20, p &lt; 0.0001; protein: F (5, 38) = 3.15, p = 0.01]. The TNF-α effect was driven by the PTD-EAS and PTD-MAS groups having higher levels of gene (p &lt; 0.0001) at Time-point 1. This expression still elevated in PTD-MAS group (p &lt; 0.0001) at Time-point 2 and in the PTD-EAS group up to 3 weeks (Time-point 3, p = 0.018). PTD-MAS group also had elevated TNF-α protein concentration (p = 0.03) at Time-point 1 but this level returned to normal after 24-hrs.
+
+The recovery of TNF-α gene expression was significantly different across of the 3 phases in both PTD-EAS and PTD-MAS treatment conditions. When compared with Time-point 1, the transcript was decreased in PTD-EAS (p &lt; 0.01) and PTD-MAS (p = 0.002) at Time-point 2 and Time-point 3. However, this difference was not seen in TNF-α protein concentration (p &gt; 0.05).
+
+When gene expression and protein data for IL-1β were analyzed at Time-point 1, a significant effect of Treatment was observed [F(5, 58) = 14.66, p &lt; 0.0001]. The post-hoc analyses revealed a significant increase in IL-1β gene expression in PTD groups, as compared with PF group, at Time-point 1 (PTD-EAS: p = 0.002; PTD-MAS: p &lt; 0.0001), Time-point 2 (PTD-MAS: p &lt; 0.0001) and Time-point 3 (PTD-EAS: p &lt; 0.0001; trend for PTD-MAS: p = 0.053). The analysis across the 3 phases within each treatment condition revealed that IL-1β expression in PTD-MAS group did not return to normal until 3 weeks after treatment (p &gt; 0.05) and there was a trend for upregulation in PTD-EAS between the acute and delayed recovery phases (p = 0.053). The same analysis displayed significant increase in IL-1β gene expression at Time-point 3 for both CET (p &lt; 0.05) and in CET+PTD groups (p &lt; 0.01). For IL-1β protein concentration, no significant main effect was observed (p &gt; 0.05) at Time-point 1, but the multiple comparisons tests between recovery phases in PTD-MAS group showed the IL-1β protein concentration increased at Time-point 2 (p = 0.022).
+
+A main effect of Treatment in IκBα gene expression was also observed [F(5, 58) = 26.85, p &lt; 0.0001], which was due to a significant increase in both PTD-EAS and PTD-MAS groups (both p’s &lt; 0.0001) at Time-point 1. This expression was still elevated in the PTD-MAS group (p = 0.0001) 24-hr after treatment, but returned to normal by Time-point 3 (p &gt; 0.05) compared to PF. Nevertheless, the IκBα gene expression was decreased in the acute recovery in all treatment conditions (Time-point 2, CET: p = 0.003; CET+T: p = 0.002; CET+PTD: p &lt; 0.0001; PTD-EAS: p &lt; 0.0001; PTD-MAS: p = 0.013) and delayed recovery phases (Time-point 3, CET+PTD: p = 0.03; PTD-EAS: p &lt; 0.0001; PTD-MAS: p = 0.001), when were compared Time-point 1.
+
+Other genes and proteins associated with neuroimmune function also were analyzed in thalamus. Analysis of IL-2, GM-CSF ad IL-1α gene expression and protein concentrations and INF-γ gene expression of the PF group did not show effect of Time-point [all p’s &gt; 0.07].
+
+Using a single group PF, the ANOVA analysis revealed a main effect of Treatment in IL-2 gene expression [F (5, 57) = 4.58, p = 0.001] and also in protein concentration [F (5, 39) = 2.35, p = 0.05]. An elevation in of IL-2 gene was revealed in PTD-EAS group at Time-point 1 (p = 0.001). However, the expression of this gene in PTD-EAS group were downregulated during Time-point 2 (p = 0.01) when compared with Time-point 1. The IL-2 protein concentration was also elevated in PTD-EAS group (p = 0.02) at Time-point 1, but it recovered 24-hr after treatment (p &gt; 0.05).
+
+Analysis of GM-CSF gene expression and protein concentration at Time-point 1 revealed a main effect of Treatment in gene expression [F (5, 53) = 4.38, p = 0.001]. In the last day of the treatment (Time-point 1), there was a significant upregulation of GM-CSF gene in PTD-EAS group (p = 0.04) and in PTD-MAS group (p = 0.003), relative to the PF group. The GM-CSF protein concentration also was increased in CET+PTD group at Time-point 1 (p = 0.023) and in CET+T group (p = 0.004) at Time-point 3. The analysis across time points revealed a trend of elevation in the CET group across recovery time points (p = 0.057).
+
+ANOVA analysis at Time-point 1 displayed a main effect of Treatment for both IL-1α gene expression and protein concentration [gene: F(5, 57) = 6.36; protein: F(5, 57) = 3.58; both p’s &lt; 0.001]. When the IL-1α gene expression and protein concentration of treatment groups were compared with PF group, unlike what happened with other cytokines in thalamus, the IL-1α gene expression showed a significant downregulation in PTD-EAS (p &lt; 0.0001) and PTD-MAS (p = 0.016) groups at Time-point 1, and persisted in PTD-EAS group at Time-point 2 (p = 0.027). However, IL-1α gene expression returned to normal in PTD-EAS (p &lt; 0.001) and PTD-MAS groups (p = 0.02) across recovery phases.
+
+The PTD-EAS group also had decreased IL-1α protein concentration (p = 0.033) at Time-point 1, when compared to PF. However, at Time-point 3, IL-1α protein concentration in the PTD-EAS group was higher than the PF group (p &lt; 0.0001). A trend of increased IL-1α protein concentration was also observed in PTD-MAS group (p = 0.056) at Time-point 2. The analysis across time-points revealed upregulation of IL-1α in the CET group (p = 0.005) from Time-point 1 to Time-point 2.
+
+The ANOVA analysis also revealed a main effect of Treatment at Time-point 1 for the protein concentration of IFN-γ (Fig. 3 B) [F (5, 57) = 2.96; p = 0.019): There was a rapid increase in IFN-γ protein in PTD-EAS, PTD-MAS and CET+T groups (all p’s &lt; 0.05), relative to the PF group. The analysis across Time-points within each group did not show alterations INF-γ protein level (p &gt; 0.05).
+
+3.2.2. Hippocampus
+Analyses of changes in pro-inflammatory cytokines genes expression in hippocampus to PF were to appropriate Time-points. The Figure 4 (panel A) shows the heat map for expression of these genes in hippocampus.
+
+The ANOVA analysis at Time-point 1 revealed a main effect of Treatment in IL-6 gene expression [F(5, 57) = 4.58, p = 0.0008] with high levels in PTD-EAS (p = 0.01) and PTD-MAS (p = 0.005) groups, relative to the PF group. The analysis across time points within each treatment condition revealed that IL-6 gene expression decreased during the acute recovery phase (Time-point 2; p = 0.02) in the PTD-MAS group, but returned to normal during the delayed recovery phase (p &gt; 0.05). However, there was a trend for upregulation in CET-PTD between the acute (Time-point 2) and delayed (Time-point 3) recovery phases (p = 0.052).
+
+The post-hoc analysis revealed the upregulation of TNF-α gene in PTD-MAS group (p = 0.02) during the treatment (Time-point 1) and downregulation in CET+T groups (p = 0.04) during the acute recovery phase (Time-point 2) compared with PF groups respectively. The expression returned to basal level after time of recovery (p &gt; 0.05).
+
+A main effect of Treatment was revealed in IL-1β gene expression at Time-point 1 [F(5, 58) = 3.9, p = 0.004] and the level of this gene was downregulated in the CET (p = 0.02), CET+PTD (p = 0.02) and PTD-EAS (p = 0.009) groups, compared with PF groups at Time-point 1. A significant elevation was revealed 3-weeks post treatment in PTD-EAS group (p = 0.04).
+
+Similarly, at Time-point 1, a Treatment effect was observed in IκBα gene expression at [F(5, 58) = 13.6, p &lt; 0.0001]. The upregulation of this gene in PTD-EAS and PTD-MAS (p &lt; 0.0001) was observed during treatment and persisted 24-hr post treatment (Time-point 2) in PTD-MAS (p = 0.02), when compared with PF group. The analysis across time points within each Treatment condition revealed decreases in the expression of IκBα gene during the acute recovery phase (Time-point 2) in CET (p = 0.006), CET+T (p = 0.01) and PTD-EAS (p = 0.001) groups, and this persisted during the delayed recovery phase (3-weeks) in the CET+T (p = 0.001), PTD-EAS (p = 0.0001) and PTD-MAS (p = 0.01) groups.
+
+3.2.3. Frontal Cortex
+Figure 4 (panel B) shows the heat map for pro-inflammatory cytokines genes expression for all Treatment conditions across the Time-point phases in the frontal cortex. Appropriate comparisons of treatment changes in cytokines within the frontal cortex to PF control. In frontal cortex, the ANOVA analysis revealed a main effect of Treatment only in IL-6 and IκBα genes expression [IL-6: F (5, 54) = 5.50; IκBα: F (5, 54) = 10.56; both p’s &lt; 0.001]. There was no effect in TNF-α and IL-1β genes expression [both p’s &gt; 0.10].
+
+Bonferroni comparisons between PF and treatment groups at Time-point 1 revealed an elevation of IL-6 gene expression in the PTD-EAS group (p &lt; 0.0001), and returned to normal during the acute (Time-point 2) recovery phase (p &gt; 0.05). Comparisons across time-points, revealed downregulation of IL-6 in CET group after 24-hr (Time-point 2) and in PTD-MAS group after 3-weeks (Time-point 3) post treatment (all p’s = 0.03), when compared with the first phase (Time-point 1) and acute phase (Time-point 2), respectively.
+
+During the treatment (Time-point 1), the expression of IκBα was upregulated in PTD-EAS (p &lt; 0.0001) and PTD-MAS (p = 0.01) groups. This elevation continued 24-hr post treatment (Time-point 2) in PTD-MAS (p = 0.001) and returned to the basal level after 3 weeks post treatment (p &gt; 0.05). The analysis of IκBα expression decreased during the Time-point 2 in CET (p = 0.001), CET+PTD (p = 0.0002) and PTD-EAS (p = 0.001) groups, as well as during the delayed recovery phase in these groups, including CET+T group (all p’s &lt; 0.05).
+
+4. Discussion
+Induction of neuroimmune genes by thiamine deficiency display unique regional and temporal profiles.
+Inflammatory processes influence cell death in the pathogenesis of many neurodegenerative disorders (Gibson and Zhang, 2001, 2002; Giovannini et al., 2003; Owens, 2003; Rogers et al., 2007), including chronic alcoholism (He and Crews, 2008) and the associated disorder of Wernicke–Korsakoff’s syndrome (Victor et al., 1989). In response to neurodegenerative conditions or to acute infectious diseases, the inflammatory response is evoked by CNS-resident cells or by immune cell invasion (Becher et al., 2017). A key component of the inflammatory response is rapid induction and release of immune molecules, especially the pro-inflammatory cytokines IL-1, IL-6, and TNF-α, to mount a defense and tissue repair (Walsh et al., 2014; Deak et al., 2015; Becher et al., 2017).
+
+Since both EtOH exposure (Crews et al., 2017; Yang et al., 2014) and thiamine deficiency (Qin and Crews, 2014; Vemuganti et al., 2006) have been associated with alterations in neuroimmune gene expression and protein concentrations, our primary goal of this study was to determine the unique expression profiles of several key genes involved in neuroinflammation process following long-term chronic continuous EtOH treatment and TD in key brain regions with established vulnerabilities to alcohol-related brain damage (thalamus, hippocampus, frontal cortex). We also examined how persistent the changes in neuroimmune gene expression were as a function of duration of abstinence or recovery.
+
+4.1 Neuroimmune changes in the thalamus in response to thiamine deficiency are pronounced and take a protracted period to recover.
+A key finding was the rapid burst of IL-6 and TNF-α during the apex of TD treatment, with changes ranging in magnitude from moderate to severe. These changes were persistent across the brain structures examined; however, the largest response was observed in thalamus, and a significant, but dampened immune response was observed in frontal cortex. The rapid elevations of IL-6 and TNF-α gene during severe TD treatment were consistently translated into protein changes in the thalamus. In addition, the expression of IL-1β gene was differently affected by TD treatment with up-regulation in thalamus and down-regulation in hippocampus. However, the changes in expression of these pro-inflammatory genes and proteins returned to basal levels within a 24-hr period.
+
+These findings are consistent with other studies showing changes in activation of microglia as well as monocyte/macrophage infiltration into regions vulnerable to TD including the thalamus, inferior olive, dorsal lateral and medial geniculate nuclei, mammillary body, and inferior colliculus (Calingasan et al., 1998; Todd &amp; Butterworth, 1999). Increased expression of cytokines also has been observed in both vulnerable (thalamus and inferior colliculus) and non-vulnerable (cortex) brain regions across different stages of TD treatment (Karuppagounder et al., 2007; Ke et al., 2006; Vemuganti et al., 2006). Elevations of markers for inflammation (IL-1β, IL-6 and TNF-α) have been assessed at earlier time points, prior to the full sequelae of TD-induced neurological symptoms (see Zhang et al, 1995) in the submedial thalamic nucleus and cortex (Karuppagounder et al., 2007), as well as the thalamus and inferior colliculus (Vemuganti et al., 2006). The first time-point assessment (Time-point 1) was during the apex of TD, the point at which TD neurological symptoms reflect an excitotoxic reaction (Langlais, 1995; Savage et al., 2012). These findings confirm the up-regulation of cytokine genes in the thalamus (site of neurotoxicity), as well as more distal structures such as the hippocampus and frontal cortex, during the TD and revealed that the neuroimmune gene induction varied significantly as a function of stage of TD and time of recovery (during TD episode vs. 24-hours post-episode vs. 3-weeks post-episode). In addition, our results support evidence for the involvement of an inflammation-like mechanism in cell death associated with TD (Hazell and Butterworth, 2009), though additional studies will be required to test the relation between neuroinflammation and cell death. Our findings also varied as a function of vulnerability of brain regions by TD. In this case, the thalamus, which is the structure that demonstrates the most severe pathology as a result of TD, has a distinct neuroinflammation profile during the TD treatment, compared with other regions examined here. Cytokine changes in the thalamus ranged in magnitude from moderate (3 fold increase for IL-1β) to severe (8–26 fold increase in TNF-α and IL-6, respectively). Overall cytokine changes in the hippocampus and frontal cortex were comparatively small relative to changes observed in the thalamus, supporting the association between inflammation and subsequent brain pathology. Thus, cytokine changes can be considered to be an important marker to determine the vulnerability of cerebral structures in TD and suggest that the rapid induction of neuroimmune genes may contribute to the severity of thalamic lesions induced by TD.
+
+4.2 Small fluctuations in inflammatory genes varies with EtOH exposure and withdrawal phases, regardless of the structure being examined.
+Alcohol-induced neuroinflammation has been proposed as a key mechanism of alcohol-induced brain damage (Crews and Vetreno, 2016). Previous studies have found changes in microglial markers, such as levels of cytokines within the brains of human and various alcohol-treated animals, following both acute and chronic exposure to EtOH (Yang et al., 2014). Our findings showed that CET treatment (20% EtOH during 6 months) alone or combine with TD treatment (CET+PTD) resulted in minor alterations in neuroimmune genes expression, relative to TD treatment alone (PTD-EAS or PTD-MAS). However, the fluctuations in cytokines varied as a function of whether rats were in an active drinking or abstinence phase. Our data demonstrate that hippocampal gene expression of IL-1β was down-regulated during CET and CET+PTD treatments, but these levels recovered after 24-hrs of abstinence. Shortly after EtOH was removed (withdrawal phase; 24-hrs), the expression of the IL-6 gene in frontal cortex was decreased in CET group. Persistent up-regulation of IL-1β occurred in thalamus in both the CET and CET-PTD groups following 3-weeks of abstinence. This contrasts with previous studies that reported a rapid increase of pro-inflammatory cytokine gene expression and protein concentrations (IL-6, TNF-α, IL-1β) in mouse whole brain 24-hr after treatment with forced repeated exposure to EtOH by oral gavage with and without 10 days of TD. Cytokine response was greater when the two treatments were combined, when compared with TD treatment alone: EtOH treatment alone resulted in significantly less gene expression and protein concentrations of TNF-α and IL-6 but, EtOH treatment did not show any increases in IL-1β gene and protein (Qin and Crews, 2014). Other studies using the EtOH exposure by oral gavage for 10 days also observed a rapid increase in gene expression and protein concentrations of TNF-α and IL-6 after 24-hr or 27-hr post EtOH treatment (Qin et al., 2008; Qin and Crews, 2012). Using a more chronic continuous EtOH model, Cruz and colleagues (2017) found that CET did not result in an increase in the expression of TNF-α in the dorsal hippocampal formation of rats after 6 months of EtOH exposure (20% v/v in drinking water) and a 2-month long withdrawal period, and they suggest different models of EtOH exposure have diverse profiles of microglial activation (Cruz et al., 2017). For example, no changes in cortical IL-1β and TNF-α proteins were found after long-term (12 months) EtOH treatment in adult rats (Ehrlich et al., 2012). However, other previous reports using EtOH exposure chronic drinking (5–10%) for 5 months observed up-regulation of the genes expression and proteins concentrations of some cytokines, including IL-6, IL-1β and TNF-α, in the cortex (Alfonso-Loeches et al., 2010; Vallés et al., 2004) and in striatum (Pascual et al., 2015) of rodents. Thus, duration, age of onset and dose of EtOH modulate the extent of the neuroimmune response in alcoholism and animal models.
+
+Withdrawal from EtOH can also change neuroimmune genes across several brain regions. Pascual and colleagues (2015) found that the high levels of IL-1β in the striatum of mice after chronic EtOH drinking (10%) for 5 months, which remained elevated in an acute withdrawal phase (24-hr post EtOH). Furthermore, increases in TNF-α, IL-1β, and other genes, were observed in the rat cortex during EtOH withdrawal, following 15 continuous days of EtOH exposure drinking (7% v/v in water), but returned to normal level after 7 days of abstinence (Whitman et al., 2013). Knapp and colleagues (2016) also observed increase the TNF-α, IL-1β and TLR4 genes in the cortex and IL-1β gene in hippocampus and hypothalamus after 29-hr post chronic EtOH liquid diet for 15 days (7% v/v in water). These findings suggest pro-inflammatory cytokines expression changes are dependent upon the EtOH exposure protocol as well as the duration of the withdrawal period (Whitman et al., 2013).
+
+4.3 Immune-related signaling pathways in the brain are notably stimulated in response to thiamine deficiency.
+The NF-κB pathways is known to be critical for stimulation of inflammatory cytokine expression and release (Doremus-Fitzwater et al., 2015), and IκBα gene can be used as a reporter of NF-κB activity (Hacker and Karin, 2006). Under non-inflammatory conditions, IκBα protein binds to NF-κB in the cytoplasm. After an inflammation signal, the IκBα protein is degraded and NF-κB translocate to the nucleus, where it induces gene transcription, including cytokines such as IL-1, IL-6 and TNF-α, and transcription of IκBα gene. The increase of the IκBα expression produces an auto-inhibitory feedback loop that suppresses prolonged activation of NF-κB, and also inhibits transcription of cytokines and IκBα gene, limiting the inflammatory response (Blackwell and Christman, 1997; Chiao et al., 1994; Doremus-Fitzwater et al., 2015; Lian et al., 2015). In adult animals, acute EtOH exposure, with i.g. administration, has been shown elevate the expression of the IκBα gene and IL-6 gene (Doremus-Fitzwater et al., 2015; Gano et al., 2016). However, some studies have shown that chronic EtOH exposure in drinking water for 5 months induces NF-κB activation accompanied by a decrease in the levels of IκBα protein in cortex of rodents (Alfonso-Loeches et al., 2010; Vallés et al., 2004). This is consistent with our prior work showing that voluntary consumption of EtOH for 10 weeks using an intermittent access, 2-bottle choice (IA2BC) procedure prevented the IL-6 response to later EtOH challenge (Doremus-Fitzwater et al., 2014). In the present report, we found that IκBα gene displayed changes across brain regions, and interestingly it was the unique gene affected by all treatment conditions (CET, TD and CET+TD). During moderate chronic drinking levels alone, or combine with TD, there was a non-significant increase in the IκBα gene. However, the effect of the EtOH withdrawal was observed with decrease in IκBa gene expression after 24-hr or 3 weeks post CET in the thalamus, hippocampus and frontal cortex. The same effect was observed in thalamus and frontal cortex after the 24-hr withdrawal period with combined CET+TD treatment. In addition, moderate and severe PTD treatment induced a large increase of the IκBα gene in all three regions assessed, which was followed by a gradual decline across recovery timeframes (24-hr, and 3 weeks post-treatment). These changes are consistent with the TD effects on IL-1β, IL-6 and TNF-α gene expression in thalamus and IL-6 expression in hippocampus and frontal cortex. These results suggest that all treatment conditions (CET, TD and CET+TD) activate inflammatory pathways via NF-κB, but to different degrees, and support the involvement of NF-κB like a driver of neuroimmune gene expression (Zou and Crews, 2010) during these treatments, mainly during TD. In addition, the down-regulation of these genes during the recovery phases of TD treatment could be the result of an upregulation of the IκBα gene during the treatment, which would provide a negative feedback and turn off the NF-kB activation. Although we observed only minor fluctuations in IκBα gene as a result of CET treatment, our data suggest that this change may be enough to inactivate the NF-kB pathway during EtOH withdrawal, resulting in down-regulation of IκBα gene. However, due to the complexly of transcription involved in NF-kB, which is a transcription factor family with multiple subunits and due to the involvement of another IκB kinase (IKK) in this pathway (review Blackwell and Christman, 1997), future studies examining other genes and proteins involved in NF-kB pathway such as NF-κB p65 and p50 subunits, NF-κB –DNA binding and IκBα protein concentration should extend these findings during CET and TD treatments alone or combined.
+
+4.4 Induction of neuroimmune genes across brain regions is protected by thiamine replacement during chronic EtOH exposure.
+Thiamine replacement is used to treat patients with a diagnosis of WE (see Arts et al., 2017) and to reduce cognitive impairments in alcohol-dependent people without diagnosis of WKS (Bowden et al., 1994). In studies with animal models, the thiamine supplementation is reported to play important roles in inhibiting the development of acute neurological symptoms and reducing the cognitive impairing effects of chronic EtOH consumption (Bâ et al., 1996; Ciccia and Langlais, 2000). During CET treatment with thiamine replacement (CET+T), TNF-α, IL-6 and IL-1β gene across brain regions was not changed relative to the PF group. However, the CET+T replacement did result in a non-significant increase in IκBα gene expression during the treatment, which was followed by a significant down-regulation 24-hr and 3-weeks post-treatment across all three brain regions. We also observed that 24-hr post CET+T, TNF-α gene was down-regulated in the hippocampus. These results suggest that supplementation of thiamine three times per weeks during 6 months of CET was able to block the induction of central pro-inflammatory cytokines, despite the supplementation being unable to restore the blood levels of thiamine diphosphate (TDP) affected during the CET treatment. In addition, thiamine supplement during CET did not protect rats from the effects of neuroimmune activation via NF-κB pathways. However, the down-regulation of IκBα gene driven by withdrawal was also verified across brain regions, regulating the NF-κB activation and neuroinflammation, decreasing the TNF-α expression in hippocampus.
+
+4.5 Cytokine expression within the thalamus by thiamine deficiency and its synergistic interaction with chronic EtOH may be due to blood-brain barrier (BBB) dysfunctions.
+Since the greatest alterations in neuroimmune genes during or after CET and PTD treatments were observed in thalamus, we examined additional genes and proteins associated with neuroimmune function. Specifically, we found that TD evoked a rapid increase in the expression of IL-2 and GM-CSF gene, as well as levels of IL-2 and IFN-γ protein within the thalamus. In addition, the synergism between TD and CET also significantly increased GM-CSF protein concentration, but the increase in IL-2 protein failed to achieve significance with a Bonferroni correction. During the inflammation process the IFN-γ has a direct impact on the integrity of the blood–brain barrier (BBB), and IL-2 stimulates regulatory T cells to control inflammation while the GM-CSF is produced as a mediator for T cells to communicate with myeloid populations during tissue inflammation (Alves, et al., 2017; Becher et al., 2016; Becher et al., 2017). Our findings suggest that the up-regulation of these cytokines may reflect infiltration of other immune cells (T cells in particular) into the brain, which are indicative of a severe compromise of the BBB by TD treatment and by its synergism with CET. Indeed, EtOH exposure is known to compromise BBB integrity, yet the functional implications of such effects are still being determined. A conundrum was the increase in GM-CSF and IFN- γ in the thiamine treated chronic ethanol group (CET+T), relative to PF control, at time point 3. Given that such an effect did not occur in the CET group (without thiamine administration), one potential explanation is the long-term 3X a week injections, followed by an extended recovery period led to a rebound in GM-CSF and IFN- γ.
+
+Interestingly, our results showed that while moderate TD treatment evoked an up-regulation of several cytokine genes, the same treatment caused a delayed increase in IL-1α gene and protein. During the TD treatment, this cytokine was down-regulated; however, the level recovered within 24-hr post treatment compared to the 1-hr time point and after 3-weeks compared to 24-hr time point. Our results suggest that this delayed increase may be playing a protective/compensatory role against propagation of neuroinflammatory cytokine expression. Previous studies suggest that in response to inflammatory insults within the brain, such as cerebral ischemia, IL-1α is considered an early and important mediator of inflammation, increasing after 24-hr reperfusion compared to the 4-hr time point (Brough and Denes, 2015; Luheshi et al., 2011) and it also is considered the key source driving neutrophil recruitment (Giles et al. 2015).
+
+Conclusions:
+Overall, these data highlight the dynamic changes in several neuroinflammation markers across three regions of interest in alcohol-related brain damage. Our findings suggest that rapid induction of neuroimmune genes in response to TD likely contributes to the severity of thalamic lesions. Furthermore, TD stimulates immune-related signaling pathways regardless of brain region. However, TD, rather than a life-long history of alcohol consumption per se, appears to contribute greater vulnerability toward neuroinflammation, resulting in clear and profound increases in pro-inflammatory cytokine gene expression levels and protein concentrations. Our data suggest the direct effects of moderate alcohol consumption to engage neuroinflammation in ARBD have been overestimated. The temporal aspects of neuroimmune gene induction suggests the extent of TD may be a key driver of neuroimmune gene expression and subsequent neuroinflammation.
+
+Acknowledgements
+This research was funded by an NIAAA R01 grant to LMS (RO1AA021775) and the Developmental Alcohol Exposure Research Center at Binghamton University (P50AA017823).
+
+The authors have no other conflicts of interest.
+
+Figure 1. Experimental design
+Schematic of the experimental design. Rats were randomly assigned to one of six treatment conditions: (1) PF (control pair-fed); (2) CET (chronic EtOH); (3) CET+T (CET combined with injections of thiamine – 3 times per week); (4) after 1-month, some CET subjects were exposed to moderate PTD-EAS (CET+PTD); other sets of rats were assigned to (5) PTD-EAS (moderate pyrithiamine-induced TD) or (6) PTD-MAS (treatment severe pyrithiamine-induced TD). All groups were further separated into three different time-points at which brain samples (thalamus, hippocampus and frontal cortex) were collected: Time-point 1 (T1) was last day of treatment; Time-point 2 (T2 = acute recovery) was 24-hours after treatment; Time-point 3 (T3) was 3-weeks post-treatment (delayed recovery) following treatment. The blood EtOH concentrations (BEC) were determined at months 1, 3 and 6, and thiamine diphosphate (TDP) was determined in the final week of treatment.
+
+Figure 2. Ethanol and thiamine concentrations in blood.
+Levels (mean ± SEM) of blood EtOH concentration (BEC) and thiamine diphosphate (TDP). (A) The CET groups had significantly higher BECs than PF controls at months 1, 3 and 6 (p &lt; 0.005). (B) Levels of TDP were decreased during treatment (Time-point 1 = T1) in both CET and PTD groups, compared to the PF group (p &lt; 0.05). (C) Summary of thiamine deficiency (TD) and chronic EtOH (EtOH) treatments at Time-point 1 in the different experimental condition (+ and - symbols means the presence and absence of the TD and EtOH in each treatment groups). *p &lt; 0.05, **p &lt; 0.005, ***p &lt; 0.0001. CET, chronic EtOH treatment; PF, pair-fed; PTD, pyrithiamine-induced thiamine deficiency.
+
+Figure. 3 Heat map of gene expression and protein concentrations in thalamus
+Heat map of changes in gene expression (A) and proteins concentrations (B) of interleukins (IL-6, IL-1β, IL-2, IL-1α), nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha (IκBα), tumor necrosis factor-α (TNF-α), granulocyte-macrophage colony-stimulating factor (GM-CSF) and interferon-gamma (IFN-γ) in thalamus. The gene expression data are expressed relative to the ultimate control group (% of PF control in time-points 1, 2 and 3) and the protein concentration are represented as % of control (PF). In this figure, as well as in all other, the number of animals (n), the average and the standard error of the mean (SEM) are indicated for PF group combined (average of Time-points 1, 2 and 3 combined) and for Time-point 1 (T1), Time-point 2 (T2) and Time-point 3 (T3) in each condition treatment. All post hoc comparisons between PF and treatment groups at each Time-point, as well as comparisons across time points within each treatment condition, were made using Bonferroni post hoc tests. The differences between Treatment conditions and differences across time points are represented with red indicating highest levels and blue indicating lowest levels (p &lt; 0.05).
+
+Figure. 4 Heat map of gene expression in hippocampus and frontal cortex
+Heat map of changes in gene expression of interleukins (IL-6 and IL-1β), and tumor necrosis factor-α (TNF-α), and nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha (IκBα) were assessed in the hippocampus (A) and frontal cortex (B). The gene expression data are expressed relative to the ultimate control group (% of PF control in Time-points 1, 2 and 3). Bonferroni post hoc tests were used for comparisons between PF and treatment groups at each Time-point, as well as comparisons across time points within each treatment condition. The differences between Treatment conditions and differences across Time-points are represented with red indicating highest levels and blue indicating lowest levels (p &lt; 0.05).
+
+Table 1. Primers, accession numbers, and sequences employed in the RT-PCR assays for assessment of gene expression.
+
+Primer	Acession 
+numbers	Oligo	Sequence	
+
+              
+            	
+Mitochondrial Ribosomal Protein L13 (MRPL13 or RLS)	NM_173340.2	Forward primer	5′-ATGAACACCAACCCGTCTCG-3′	
+Reverse primer	5′-CCACCATCCGCTTTTTCTTGTC-3′	
+				
+Interleukin 1 beta (IL-1b)	NM_031512.2	Forward primer	5′-AGCTTTCGACAGTGAGGAGAATG-3′	
+Reverse primer	5′-TCCACAGCCACAATGAGTGA-3′	
+				
+Interleukin 6 (IL-6)	NM_012589.2	Forward primer	5′-GCAAGAGACTTCCAGCCAGT-3′	
+Reverse primer	5′-TGCACAACTCTTTTCTCATTTCCA-3′	
+				
+Tumor Necrosis Factor Alpha (TNFα)	NM_012675.3	Forward primer	5′-GTCCCAACAAGGAGGAGAAGTT-3′	
+Reverse primer	5′-CTCCGCTTGGTGGTTTGCTA-3′	
+				
+Nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha (IκBα)	NM_001105720.2	Forward primer	5′-CTGTTGAAGTGTGGGGCTGA-3′	
+Reverse primer	5′-AGGGCAACTCATCTTCCGTG-3′	
+				
+Interleukin 2 (IL-2)	NM_053836.1	Forward primer	5′-CAAGCAGGCCACAGAATTGAAA-3’	
+Reverse primer	5′-GGCTCATCATCGAATTGGCAC-3’	
+				
+Interleukin 1 alpha (IL-1α)	NM_017019.1	Forward primer	5’-GAGTCGGCAAAGAAATCAAGATGG-3’	
+Reverse primer	5’-AGACAGATGGTCAATGGCAGAA-3’	
+				
+Granulocyte-macrophage colony-stimulating factor (GM-CSF)	NM_053852.1	Forward primer	5’-CTCTGGAGAACGAAAAGAACGAAG-3’	
+Reverse primer	5’-TGGCTGGCTATCATGGTCAA-3’	
+
+   References:
+Aggleton JP , Brown MW  (1999 ) Episodic memory, amnesia, and the hippocampal-anterior thalamic axis . Behav Brain Sci 
+22 :425 –444 ; discussion 444–489. 11301518 
+Alfonso-Loeches S , Pascual-Lucas M , Blanco AM , Sanchez-Vera I , Guerri C  (2010 ) Pivotal role of TLR4 receptors in alcohol-induced neuroinflammation and brain damage . J Neurosci 
+30 :8285 –8295 .20554880 
+Aloe L , Tirassa P  (1992 ) The effect of long-term alcohol intake on brain NGF-target cells of aged rats . Alcohol 
+9 :299 –304 .1322141 
+Alves S , Churlaud G , Audrain M , Michaelsen-Preusse K , Fol R , Souchet B , Braudeau J , Korte M , Klatzmann D , Cartier N  (2017 ) Interleukin-2 improves amyloid pathology, synaptic failure and memory in Alzheimer’s disease mice . Brain 
+140 :826 –842 .28003243 
+Anzalone S , Vetreno RP , Ramos RL , Savage LM  (2010 ) Cortical cholinergic abnormalities contribute to the amnesic state induced by pyrithiamine-induced thiamine deficiency in the rat . Eur J Neurosci 
+32 :847 –858 .20726882 
+Arts NJ , Walvoort SJ , Kessels RP  (2017 ) Korsakoff’s syndrome: a critical review . Neuropsychiatr Dis Treat 
+13 :2875 –2890 .29225466 
+Bâ A , Seri BV , Han SH  (1996 ) Thiamine administration during chronic alcohol intake in pregnant and lactating rats: effects on the offspring neurobehavioural development . Alcohol Alcohol 
+31 :27 –40 .
+Baker KG , Harding AJ , Halliday GM , Kril JJ , Harper CG  (1999 ) Neuronal loss in functional zones of the cerebellum of chronic alcoholics with and without Wernicke’s encephalopathy . Neuroscience 
+91 :429 –438 10366000 
+Becher B , Spath S , Goverman J  (2017 ) Cytokine networks in neuroinflammation . Nat Rev Immunol 
+17 :49 –59 .27916979 
+Becher B , Tugues S , Greter M  (2016 ) GM-CSF: From Growth Factor to Central Mediator of Tissue Inflammation . Immunity 
+45 :963 –973 .27851925 
+Blackwell TS , Christman JW  (1997 ) The role of nuclear factor-kappa B in cytokine gene regulation . Am J Respir Cell Mol Biol 
+17 :3 –9 .9224203 
+Blanco AM , Guerri C  (2007 ) Ethanol intake enhances inflammatory mediators in brain: role of glial cells and TLR4/IL-1RI receptors . Front Biosci 
+12 :2616 –2630 .17127267 
+Bowden S , Bardenhagen F , Ambrose M , Whelan G  (1994 ) Alcohol, thiamin deficiency, and neuropsychological disorders . Alcohol Alcohol Suppl 
+2 :267 –272 .8974346 
+Brough D , Denes A  (2015 ) Interleukin-1α and brain inflammation . IUBMB Life 
+67 :323 –330 .25906979 
+Butterworth RF , Gaudreau C , Vincelette J , Bourgault AM , Lamothe F , Nutini AM  (1991 ) Thiamine deficiency and Wernicke’s encephalopathy in AIDS . Metab Brain Dis 
+6 :207 –212 .1812394 
+Butterworth RF , Kril JJ , Harper CG  (1993 ) Thiamine‐Dependent Enzyme Changes in the Brains of Alcoholics: Relationship to the Wernicke‐Korsakoff Syndrome . Alcoholism: Clinical and Experimental Research 
+17 :1084 –1088 .
+Cadete-Leite A , Pereira PA , Madeira MD , Paula-Barbosa MM  (2003 ) Nerve growth factor prevents cell death and induces hypertrophy of basal forebrain cholinergic neurons in rats withdrawn from prolonged ethanol intake . Neuroscience 
+119 :1055 –1069 .12831864 
+Calingasan NY , Park LC , Calo LL , Trifiletti RR , Gandy SE , Gibson GE  (1998 ) Induction of nitric oxide synthase and microglial responses precede selective cell death induced by chronic impairment of oxidative metabolism . Am J Pathol 
+153 :599 –610 .9708819 
+Chanraud S , Pitel AL , Rohlfing T , Pfefferbaum A , Sullivan EV  (2010 ) Dual tasking and working memory in alcoholism: relation to frontocerebellar circuitry . Neuropsychopharmacology 
+35 :1868 –1878 .20410871 
+Chiao PJ , Miyamoto S , Verma IM  (1994 ) Autoregulation of I kappa B alpha activity . Proc Natl Acad Sci U S A 
+91 :28 –32 .8278379 
+Ciccia RM , Langlais PJ  (2000 ) An examination of the synergistic interaction of ethanol and thiamine deficiency in the development of neurological signs and long-term cognitive and memory impairments . Alcohol Clin Exp Res 
+24 :622 –634 .10832903 
+Crews FT , Lawrimore CJ , Walter TJ , Coleman LG  (2017 ) The role of neuroimmune signaling in alcoholism . Neuropharmacology 
+122 :56 –73 .28159648 
+Crews FT , Qin L , Sheedy D , Vetreno RP , Zou J  (2013 ) High mobility group box 1/Toll-like receptor danger signaling increases brain neuroimmune activation in alcohol dependence . Biol Psychiatry 
+73 :602 –612 .23206318 
+Crews FT , Vetreno RP  (2014 ) Neuroimmune basis of alcoholic brain damage . Int Rev Neurobiol 
+118 :315 –357 .25175868 
+Crews FT , Vetreno RP  (2016 ) Mechanisms of neuroimmune gene induction in alcoholism . Psychopharmacology (Berl) 
+233 :1543 –1557 .25787746 
+Cruz C , Meireles M , Silva SM  (2017 ) Chronic ethanol intake induces partial microglial activation that is not reversed by long-term ethanol withdrawal in the rat hippocampal formation . Neurotoxicology 
+60 :107 –115 .28408342 
+Davis MI  (2008 ) Ethanol-BDNF interactions: still more questions than answers . Pharmacol Ther 
+118 :36 –57 .18394710 
+de Fátima Oliveira-Silva I , Pereira SRC , Fernandes PA , Ribeiro AF , Pires RGW , Ribeiro AM  (2015 ) Mild thiamine deficiency and chronic ethanol consumption modulate acetylcholinesterase activity change and spatial memory performance in a water maze task . J Mol Neurosci 
+55 :217 –226 .24770900 
+de la Monte SM , Kril JJ  (2014 ) Human alcohol-related neuropathology . Acta Neuropathol 
+127 :71 –90 .24370929 
+de la Monte SM , Longato L , Tong M , DeNucci S , Wands JR  (2009 ) The liver-brain axis of alcohol-mediated neurodegeneration: role of toxic lipids . Int J Environ Res Public Health 
+6 :2055 –2075 .19742171 
+Deak T , Quinn M , Cidlowski JA , Victoria NC , Murphy AZ , Sheridan JF  (2015 ) Neuroimmune mechanisms of stress: sex differences, developmental plasticity, and implications for pharmacotherapy of stress-related disease . Stress 
+18 :367 –380 .26176590 
+Doremus-Fitzwater TL , Gano A , Paniccia JE , Deak T  (2015 ) Male adolescent rats display blunted cytokine responses in the CNS after acute ethanol or lipopolysaccharide exposure . Physiol Behav 
+148 :131 –144 .25708278 
+Ehrlich D , Pirchl M , Humpel C  (2012 ) Effects of long-term moderate ethanol and cholesterol on cognition, cholinergic neurons, inflammation, and vascular impairment in rats . Neuroscience 
+205 :154 –166 .22244974 
+Freeman K , Brureau A , Vadigepalli R , Staehle MM , Brureau MM , Gonye GE , Hoek JB , Hooper DC , Schwaber JS  (2012 ) Temporal changes in innate immune signals in a rat model of alcohol withdrawal in emotional and cardiorespiratory homeostatic nuclei . J Neuroinflammation 
+9 :97 .22626265 
+Gano A , Doremus-Fitzwater TL , Deak T  (2016 ) Sustained alterations in neuroimmune gene expression after daily, but not intermittent, alcohol exposure . Brain Res 
+1646 :62 –72 .27208497 
+Gibson GE , Park LC , Zhang H , Sorbi S , Calingasan NY  (1999 ) Oxidative stress and a key metabolic enzyme in Alzheimer brains, cultured cells, and an animal model of chronic oxidative deficits . Ann N Y Acad Sci 
+893 :79 –94 .10672231 
+Gibson GE , Zhang H  (2002 ) Interactions of oxidative stress with thiamine homeostasis promote neurodegeneration . Neurochem Int 
+40 :493 –504 .11850106 
+Giles JA , Greenhalgh AD , Davies CL , Denes A , Shaw T , Coutts G , Rothwell NJ , McColl BW , Allan SM  (2015 ) Requirement for interleukin-1 to drive brain inflammation reveals tissue-specific mechanisms of innate immunity . Eur J Immunol 
+45 :525 –530 .25367678 
+Giovannini MG , Scali C , Prosperi C , Bellucci A , Pepeu G , Casamenti F  (2003 ) Experimental brain inflammation and neurodegeneration as model of Alzheimer’s disease: protective effects of selective COX-2 inhibitors . Int J Immunopathol Pharmacol 
+16 :31 –40 .14552702 
+Gui QP , Zhao WQ , Wang LN  (2006 ) Wernicke’s encephalopathy in nonalcoholic patients: clinical and pathologic features of three cases and literature reviewed . Neuropathology 
+26 :231 –235 .16771180 
+Hall JM , Savage LM  (2016 ) Exercise leads to the re-emergence of the cholinergic/nestin neuronal phenotype within the medial septum/diagonal band and subsequent rescue of both hippocampal ACh efflux and spatial behavior . Exp Neurol 
+278 :62 –75 .26836322 
+Harding A , Halliday G , Caine D , Kril J  (2000 ) Degeneration of anterior thalamic nuclei differentiates alcoholics with amnesia . Brain 
+123  ( Pt 1 ):141 –154 .10611128 
+Harper C  (2006 ) Thiamine (vitamin B1) deficiency and associated brain damage is still common throughout the world and prevention is simple and safe! 
+Eur J Neurol 
+13 :1078 –1082 .16987159 
+Harper C  (2009 ) The neuropathology of alcohol-related brain damage . Alcohol Alcohol 
+44 :136 –140 .19147798 
+Harris GJ , Jaffin SK , Hodge SM , Kennedy D , Caviness VS , Marinkovic K , Papadimitriou GM , Makris N , Oscar-Berman M  (2008 ) Frontal white matter and cingulum diffusion tensor imaging deficits in alcoholism . Alcohol Clin Exp Res 
+32 :1001 –1013 .18422840 
+Hazell AS , Butterworth RF  (2009 ) Update of cell damage mechanisms in thiamine deficiency: focus on oxidative stress, excitotoxicity and inflammation . Alcohol Alcohol 
+44 :141 –147 .19151161 
+He J , Crews FT  (2008 ) Increased MCP-1 and microglia in various regions of the human alcoholic brain . Exp Neurol 
+210 :349 –358 .18190912 
+He X , Sullivan EV , Stankovic RK , Harper CG , Pfefferbaum A  (2007 ) Interaction of thiamine deficiency and voluntary alcohol consumption disrupts rat corpus callosum ultrastructure . Neuropsychopharmacology 
+32 :2207 –2216 .17299515 
+Hellmann J , Rommelspacher H , Wernicke C  (2009 ) Long-term ethanol exposure impairs neuronal differentiation of human neuroblastoma cells involving neurotrophin-mediated intracellular signaling and in particular protein kinase C . Alcohol Clin Exp Res 
+33 :538 –550 .19120063 
+Häcker H , Karin M  (2006 ) Regulation and function of IKK and IKK-related kinases . Sci STKE 2006 :re13 .
+Karuppagounder SS , Shi Q , Xu H , Gibson GE  (2007 ) Changes in inflammatory processes associated with selective vulnerability following mild impairment of oxidative metabolism . Neurobiol Dis 
+26 :353 –362 .17398105 
+Ke ZJ , Bowen WM , Gibson GE  (2006 ) Peripheral inflammatory mechanisms modulate microglial activation in response to mild impairment of oxidative metabolism . Neurochem Int 
+49 :548 –556 .16781017 
+Kelly RM , Strick PL  (2003 ) Cerebellar loops with motor cortex and prefrontal cortex of a nonhuman primate . J Neurosci 
+23 :8432 –8444 .12968006 
+Knapp DJ , Harper KM , Whitman BA , Zimomra Z , Breese GR  (2016 ) Stress and Withdrawal from Chronic Ethanol Induce Selective Changes in Neuroimmune mRNAs in Differing Brain Sites . Brain Sci 
+6 .
+Kopelman MD  (1995 ) The Korsakoff syndrome . Br J Psychiatry 
+166 :154 –173 .7728359 
+Kopelman MD , Thomson AD , Guerrini I , Marshall EJ  (2009 ) The Korsakoff syndrome: clinical aspects, psychology and treatment . Alcohol and Alcoholism 
+44 :148 –154 .19151162 
+Langlais PJ  (1995 ) Pathogenesis of diencephalic lesions in an experimental model of Wernicke’s encephalopathy . Metab Brain Dis 
+10 :31 –44 .7596327 
+Langlais PJ , Savage LM  (1995 ) Thiamine deficiency in rats produces cognitive and memory deficits on spatial tasks that correlate with tissue loss in diencephalon, cortex and white matter . Behav Brain Res 
+68 :75 –89 .7619308 
+Lian H , Yang L , Cole A , Sun L , Chiang AC , Fowler SW , Shim DJ , Rodriguez-Rivera J , Taglialatela G , Jankowsky JL , Lu HC , Zheng H  (2015 ) NFκB-activated astroglial release of complement C3 compromises neuronal morphology and function associated with Alzheimer’s disease . Neuron 
+85 :101 –115 .25533482 
+Livak KJ , Schmittgen TD  (2001 ) Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) Method . Methods 
+25 :402 –408 .11846609 
+Luheshi NM , Kovács KJ , Lopez-Castejon G , Brough D , Denes A  (2011 ) Interleukin-1α expression precedes IL-1β after ischemic brain injury and is localised to areas of focal neuronal loss and penumbral tissues . J Neuroinflammation 
+8 :186 .22206506 
+Marvel CL , Desmond JE  (2010 ) Functional topography of the cerebellum in verbal working memory . Neuropsychol Rev 
+20 :271 –279 .20563894 
+Miller MW , Mooney SM  (2004 ) Chronic exposure to ethanol alters neurotrophin content in the basal forebrain-cortex system in the mature rat: effects on autocrine-paracrine mechanisms . J Neurobiol 
+60 :490 –498 .15307153 
+National Research Council (US) 
+Committee for the Update of the Guide for the Care and Use of Laboratory Animals (2011 ) Guide for the Care and Use of Laboratory Animals , Washington (DC) .
+Owens T  (2003 ) The enigma of multiple sclerosis: inflammation and neurodegeneration cause heterogeneous dysfunction and damage . Curr Opin Neurol 
+16 :259 –265 .12858060 
+Pascual M , Baliño P , Aragón CM , Guerri C  (2015 ) Cytokines and chemokines as biomarkers of ethanol-induced neuroinflammation and anxiety-related behavior: role of TLR4 and TLR2 . Neuropharmacology 
+89 :352 –359 .25446779 
+Pfefferbaum A , Rosenbloom M , Rohlfing T , Sullivan EV  (2009 ) Degradation of association and projection white matter systems in alcoholism detected with quantitative fiber tracking . Biol Psychiatry 
+65 :680 –690 .19103436 
+Pires RG , Pereira SR , Oliveira-Silva IF , Franco GC , Ribeiro AM  (2005 ) Cholinergic parameters and the retrieval of learned and re-learned spatial information: a study using a model of Wernicke-Korsakoff Syndrome . Behav Brain Res 
+162 :11 –21 .15922063 
+Pires RG , Pereira SR , Pittella JE , Franco GC , Ferreira CL , Fernandes PA , Ribeiro AM  (2001 ) The contribution of mild thiamine deficiency and ethanol consumption to central cholinergic parameter dysfunction and rats’ open-field performance impairment . Pharmacol Biochem Behav 
+70 :227 –235 .11701192 
+Pitel AL , Chételat G , Le Berre AP , Desgranges B , Eustache F , Beaunieux H  (2012 ) Macrostructural abnormalities in Korsakoff syndrome compared with uncomplicated alcoholism . Neurology 
+78 :1330 –1333 .22496200 
+Pitel AL , Segobin SH , Ritz L , Eustache F , Beaunieux H  (2015 ) Thalamic abnormalities are a cardinal feature of alcohol-related brain dysfunction . Neurosci Biobehav Rev 
+54 :38 –45 .25108034 
+Pitel AL , Zahr NM , Jackson K , Sassoon SA , Rosenbloom MJ , Pfefferbaum A , Sullivan EV  (2011 ) Signs of preclinical Wernicke’s encephalopathy and thiamine levels as predictors of neuropsychological deficits in alcoholism without Korsakoff’s syndrome . Neuropsychopharmacology 
+36 :580 –588 .20962766 
+Qin L , Crews FT  (2012 ) Chronic ethanol increases systemic TLR3 agonist-induced neuroinflammation and neurodegeneration . J Neuroinflammation 
+9 :130 .22709825 
+Qin L , Crews FT  (2014 ) Focal thalamic degeneration from ethanol and thiamine deficiency is associated with neuroimmune gene induction, microglial activation, and lack of monocarboxylic acid transporters . Alcohol Clin Exp Res 
+38 :657 –671 .24117525 
+Qin L , He J , Hanes RN , Pluzarev O , Hong JS , Crews FT  (2008 ) Increased systemic and brain cytokine production and neuroinflammation by endotoxin following ethanol treatment . J Neuroinflammation 
+5 :10 .18348728 
+Reilly MT , Noronha A , Warren K  (2014 ) Perspectives on the neuroscience of alcohol from the National Institute on Alcohol Abuse and Alcoholism . Handb Clin Neurol 
+125 :15 –29 .25307566 
+Rogers J , Mastroeni D , Leonard B , Joyce J , Grover A  (2007 ) Neuroinflammation in Alzheimer’s disease and Parkinson’s disease: are microglia pathogenic in either disorder? 
+Int Rev Neurobiol 
+82 :235 –246 .17678964 
+Savage LM , Candon PM , Hohmann HL  (2000 ) Alcohol-induced brain pathology and behavioral dysfunction: using an animal model to examine sex differences . Alcohol Clin Exp Res 
+24 :465 –475 .10798582 
+Savage LM , Hall JM , Resende LS  (2012 ) Translational rodent models of Korsakoff syndrome reveal the critical neuroanatomical substrates of memory dysfunction and recovery . Neuropsychol Rev 
+22 :195 –209 .22528861 
+Segobin S , Ritz L , Lannuzel C , Boudehent C , Vabret F , Eustache F , Beaunieux H , Pitel AL  (2015 ) Integrity of white matter microstructure in alcoholics with and without Korsakoff’s syndrome . Hum Brain Mapp 
+36 :2795 –2808 .25873017 
+Sullivan EV , Rose J , Pfefferbaum A  (2006 ) Effect of vision, touch and stance on cerebellar vermian-related sway and tremor: a quantitative physiological and MRI study . Cereb Cortex 
+16 :1077 –1086 .16221930 
+Todd KG , Butterworth RF  (1999 ) Early microglial response in experimental thiamine deficiency: an immunohistochemical analysis . Glia 
+25 :190 –198 .9890633 
+Vallés SL , Blanco AM , Pascual M , Guerri C  (2004 ) Chronic ethanol treatment enhances inflammatory mediators and cell death in the brain and in astrocytes . Brain Pathol 
+14 :365 –371 .15605983 
+Vedder LC , Hall JM , Jabrouin KR , Savage LM  (2015 ) Interactions between chronic ethanol consumption and thiamine deficiency on neural plasticity, spatial memory, and cognitive flexibility . Alcohol Clin Exp Res 
+39 :2143 –2153 .26419807 
+Vemuganti R , Kalluri H , Yi JH , Bowen KK , Hazell AS  (2006 ) Gene expression changes in thalamus and inferior colliculus associated with inflammation, cellular stress, metabolism and structural damage in thiamine deficiency . Eur J Neurosci 
+23 :1172 –1188 .16553781 
+Vetreno RP , Klintsova A , Savage LM  (2011 ) Stage-dependent alterations of progenitor cell proliferation and neurogenesis in an animal model of Wernicke-Korsakoff syndrome . Brain Res 
+1391 :132 –146 .21440532 
+Victor MAR , Collins G  (1989 ) The Wernicke-Korsakoff Syndrome and Related Neurologic Disorders Due to Alcoholism and Malnutrition, in Series The Wernicke-Korsakoff Syndrome and Related Neurologic Disorders Due to Alcoholism and Malnutrition, Davis, Philadelphia .
+Victor M , Yakovlev PI  (1955 ) S.S. Korsakoff’s psychic disorhic disorder in conjunction with peripheral neuritis; a translation of Korsakoff’s original article with comments on the author and his contribution to clinical medicine . Neurology 
+5 :394 –406 .14383944 
+Walsh JG , Muruve DA , Power C  (2014 ) Inflammasomes in the CNS . Nat Rev Neurosci 
+15 :84 –97 .24399084 
+Whitman BA , Knapp DJ , Werner DF , Crews FT , Breese GR  (2013 ) The cytokine mRNA increase induced by withdrawal from chronic ethanol in the sterile environment of brain is mediated by CRF and HMGB1 release . Alcohol Clin Exp Res 
+37 :2086 –2097 .23895427 
+Yang JW , Ma W , Yang YL , Wang XB , Li XT , Wang TT , Wang XP , Gao W , Li JY , Zhou XF , Guo JH , Li LY  (2017 ) Region-specific expression of precursor and mature brain-derived neurotrophic factors after chronic alcohol exposure . Am J Drug Alcohol Abuse 
+43 :602 –608 .28032807 
+Yang JY , Xue X , Tian H , Wang XX , Dong YX , Wang F , Zhao YN , Yao XC , Cui W , Wu CF  (2014 ) Role of microglia in ethanol-induced neurodegenerative disease: Pathological and behavioral dysfunction at different developmental stages . Pharmacol Ther 
+144 :321 –337 .25017304 
+Zahr NM , Alt C , Mayer D , Rohlfing T , Manning-Bog A , Luong R , Sullivan EV , Pfefferbaum A  (2014 ) Associations between in vivo neuroimaging and postmortem brain cytokine markers in a rodent model of Wernicke’s encephalopathy . Exp Neurol 
+261 :109 –119 .24973622 
+Zahr NM , Kaufman KL , Harper CG  (2011 ) Clinical and pathological features of alcohol-related brain damage . Nat Rev Neurol 
+7 :284 –294 .21487421 
+Zahr NM , Pitel AL , Chanraud S , Sullivan EV  (2010 ) Contributions of studies on alcohol use disorders to understanding cerebellar function . Neuropsychol Rev 
+20 :280 –289 .20809198 
+Zhang SX , Weilersbacher GS , Henderson SW , Corso T , Olney JW , Langlais PJ  (1995 ) Excitotoxic cytopathology, progression, and reversibility of thiamine deficiency-induced diencephalic lesions . J Neuropathol Exp Neurol 
+54 :255 –267 .7876893 
+Zou J , Crews F  (2010 ) Induction of innate immune gene expression cascades in brain slice cultures by ethanol: key role of NF-κB and proinflammatory cytokines . Alcohol Clin Exp Res 
+34 :777 –789 .20201932 
+

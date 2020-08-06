@@ -1,0 +1,321 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10126486032902Obesity (Silver Spring)Obesity (Silver Spring)Obesity (Silver Spring, Md.)1930-73811930-739X28233942537397010.1002/oby.21788NIHMS843507ArticleReduction of Energy Intake using Just-In-Time Feedback from a Wearable Sensor System Farooq Muhammad 1McCrory Megan A. 2Sazonov Edward 11 Department of Electrical and Computer Engineering, University of Alabama, Tuscaloosa, AL USA2 Department of Health Sciences, Program in Nutrition, Boston University, Boston, MA, USACONTACT INFO:esazonov@eng.ua.edu, Mailing Address: Electrical and Computer Engineering, 342 HM Comer, Tuscaloosa AL 3548719 1 2017 24 2 2017 4 2017 01 4 2018 25 4 676 681 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Objective
+This work explored the potential use of a wearable sensor system for providing just-in-time (JIT) feedback on the progression of a meal and tested its ability to reduce the total food mass intake.
+
+Methods
+Eighteen participants each consumed three meals in a lab while monitored by a wearable sensor system capable of accurately tracking chew counts. The baseline visit was used to establish the self-determined ingested mass and the associated chew counts. Real-time feedback on chew counts was provided in the next two visits during which the target chew counts was either the same as that at baseline or the baseline chew counts reduced by 25%, in randomized order. The target was concealed from the participant and from the experimenter. Nonparametric repeated-measures ANOVA were performed to compare mass of intake, meal duration, and ratings of hunger, appetite, and thirst across 3 meals.
+
+Results
+JIT feedback targeting a 25% reduction in chew counts resulted in a reduction in mass and energy intake without affecting perceived hunger or fullness.
+
+Conclusion
+JIT feedback on chewing behavior may reduce intake within a meal. This system can be further used to help develop individualized strategies to provide just-in-time adaptive interventions for reducing energy intake.
+
+ObesityJust-in-time interventionsChew countsWearable Sensor SystemFeedback
+   Introduction
+Excess energy intake is considered to be one of the important contributors to the increase in obesity prevalence (1). Several studies have shown that certain dietary behaviors contribute to the increased risk of overeating (2). For example, controlled laboratory experiments (3,4) have demonstrated that for a given food, individuals consume more when the serving size is increased. Similarly, increasing the number of unique food items (dietary variety) have shown to increase the energy intake even when controlled for macronutrient composition (5,6). Therefore, current treatments for controlling obesity rely on behavior modification to change dietary intake patterns (7).
+
+Studies have shown a positive relationship between body mass index (BMI) and self-reported eating rate (8), where faster-eating rates have been found to be related to weight gain (9). Reducing the eating rate can help in reducing the energy intake in a meal (12–14). Eating slow can also impact the satiety and satiation levels of individuals (15,16). The study of (17) showed that reducing the number of bites per minute by 50% compared to the baseline resulted in a 70kcal reduction in the energy intake within a meal. Other studies (18,19) determined that increasing the number of chews or consuming higher viscosity food increased perceived satiety of individuals. Most of these studies used manual observation for monitoring eating behavior. However, automatic and objective sensor-based methods can potentially improve the accuracy of such studies and eliminate the need for manual observation.
+
+Several wearable sensor systems have been presented in the literature for automatic and objective detection of eating episodes by monitoring different stages of food intake, i.e. bites (20), swallows (21,22) and chewing (23–25) and for characterization of chewing behavior in terms of chew count estimation (26). Previously, a device called the Automatic Ingestion Monitor (AIM) (25) has been shown to detect chewing with an accuracy of 99.85% by monitoring temporalis muscle activity using a strain sensor (27). The same device estimated the chew counts with an accuracy of 96.2% (28).
+
+Wearable sensors enable automatic monitoring of human behavior and tailored treatments/interventions called just-in-time adaptive interventions (JITAIs). In JITAIs, real-time data about patients’ health is used to deliver real-time interventions adapted to the specific needs of patients, for example, adaptive interventions aiming to modify eating behavior have been proposed for eating disorders (29) and weight management (30). One such example is the feedback on the number of hand-to-mouth gestures while eating (BiteCounter, 30). However, the hand gestures may or may not correspond to the actual bites taken. Another possibility is to use the AIM which can automatically and accurately detect and measure chewing activity and thus supports behavioral modeling (32) and inform JITAIs for weight management (33).
+
+Chewing rate and total chew counts per meal have been used for estimation of mass ingested during a meal (34) and mass per bite (35), respectively. Modification of eating rate and chewing rate has been explored for potential reduction of mass of intake (18,19), however, reducing the total chew count per meal for a possible reduction of mass of intake has not been studied. This paper presents a pilot study which explored the possibility of using automatically measured chew counts for reducing the mass of intake. The hypothesis in this study was that by reducing the total number of chews per meal, the mass ingested and energy intake can be reduced. A secondary hypothesis was that the reduced number of chews per meal at the 25% reduction target would not impact the satiety level. This work further explores the use of just-in-time feedback from the AIM toward a target and the potential use of the AIM in JITAIs for reducing the mass intake.
+
+Methods
+Subjects and Study Design
+Eighteen participants (15 male and 3 female) aged 27.7 ± 2.8 years (range 19–41 years) with a BMI of 23.3 ± 3.3 kg/m2 (range 18.5–31.2 kg/m2) (mean±SD) volunteered for this study. Exclusion criteria included medical conditions which would affect normal chewing or food intake and allergies to the selected food or any adhesive. The Institutional Review Board at the University of Alabama, Tuscaloosa approved the study, and each participant signed a consent form prior to participation. Individuals came to the research laboratory for three visits during lunchtime (between 11:30 am – 1:30 pm). The first visit was used to collect baseline measures (total chew counts and total mass ingested). In visit 2 and 3, the target number of chews was set to either 100% or 75% of the baseline (in randomized order), and JIT feedback was provided to the participants on their progress towards the target. The participants were not aware that the experiment attempted to modify the amount of ingested food. There was a washout period of 3 to 7 days between visits, depending on participants’ availability and preference. Participants were instructed to have the same breakfast on all 3 days and not to eat 4–5 hours before the visit to ensure a similar level of satiety before each meal. Experiments were rescheduled if the participants did not comply with the above-mentioned instructions on any given day.
+
+Sensor System for Automatic Chew Counting
+Before the start of the experiment, participants were instrumented with a wearable system (AIM device) (27). This device consists of a piezoelectric strain sensor (LDT0-028K, Measurement Specialties Inc., Hampton, VA, USA), placed on the temporalis muscle and a data acquisition board connected to the temple of the eyeglasses (Figure 1). The strain sensor captures the movements of the temporalis muscle caused by chewing and converts these movements into electric signals. Data from strain sensor were sampled at 1000Hz using a 12-bit ADC.
+
+Five-second segments of the collected data from the sensor were sent in real time via Bluetooth to a laptop computer for online processing in MATLAB (Mathworks Inc.). A feature computation algorithm and classification models, developed in a previous study (27), were used to classify each segment as chewing or non-chewing. The chew count estimation algorithms (28) were used to estimate chew counts for segments classified as chewing. The software recorded the cumulative number chews for every meal along with the meal duration (from start to the end of the meal, including non-chewing segment) and the actual eating duration (only chewing segments) in seconds.
+
+Baseline Conditions
+The first visit was used to obtain baseline measurements of total mass ingested and associated total chew counts. Before and after each meal, participant’s ratings of palatability of the food, and perceived hunger, thirst, fullness, prospective consumption, and desire to eat were measured using a standard 9-point scale (36). Before the start of the meal, participants completed the questionnaire in a separate room to ensure their ratings were not influenced by the smell of the food. About 900g of fried rice from Panda Express (caloric density of about 2 kcal/gram, 520 kcal for serving size of 264g) obtained from a cafeteria at the University of Alabama was prepared for serving in a separate room. The serving size was over three standard portion sizes of fried rice and was chosen so that the participants would be unlikely to run out of food during the experiment. A standard plate size and a plastic spoon were used during each visit. Participants were also provided with 500ml of water for drinking during the meal in a plastic cup and were instructed to consume as much as they wanted. Once the food was ready for serving, participants were taken to the food serving room and were instructed to eat naturally. After setting up the experiment, the investigators left the room so that the participant’s eating was not influenced by their presence. Participants were asked to stop eating when they felt comfortably full. After the completion of the meal, participants again filled out the questionnaire.
+
+The amount of food consumed (in grams) was determined by weighing the plate before and after serving using a digital kitchen scale (Touch II from Ozeri, with 1g accuracy). Participants were not aware of this measurement. During baseline visit, the sensor system automatically measured chew counts for each chewing sequence and computed the total chew count at the end of the meal.
+
+Just-in-time (JIT) Feedback
+The JIT feedback experiment investigated three important questions: (i) is it feasible to use a wearable sensor system to provide feedback on the meal progression towards the desired target number of chew counts, (ii) can such feedback be used to reduce the mass of intake without affecting the satiety level, (iii) what is the impact of the presence of the feedback on meal duration?
+
+To answer these questions, JIT feedback was provided at the second and third visits. During the 100% target visit, the goal was set to the total number of chews of the baseline meal. The objective of this target was to study the impact of sensor-based JIT feedback on the ingested mass and meal duration, even when the feedback was not attempting to modify the number of chews and ingested mass. Other than the presence of the audio feedback, the rest of the procedure was similar to the baseline conditions. During the 75% target visit, the target number of chews was reduced by 25% from the baseline visit. This target served two purposes, i.e. to evaluate the ability of the system to reduce the mass intake and to do so without affecting the satiety level at the 25% reduction in chew counts. In this pilot study, 25% reduction was arbitrarily chosen with an assumption that it would not be easily perceived by the participants and could potentially result in a reduction in the intake which can be useful in daily living.
+
+Progress toward the goal was monitored by the sensor system in real time, and real-time audio feedback from the sensor system was generated (via the laptop speaker) at four milestones, i.e. 25%, 50%, 75% and 100% of the goal by the developed software. Audio feedback was prerecorded in the form, ‘You reached X% of your goal’ and so on. No instructions were provided to the participants on how to act upon the feedback, except the system gave an audio indication to the participants to stop eating when they reached their desired goal. Participants were not aware of how the desired goal for these two visits was generated, that the number of chews has been reduced on one of the visits and the experiment attempted to reduce the mass and energy of intake. They were told that the investigators were testing a sensor system that can accurately measure the amount consumed (mass ingested) and that the feedback was relative to the amount consumed in the baseline visit. The actual purpose was disclosed to the participants at the end of the study after all participants had completed the experiment. The order of the visits with feedback was randomly assigned by computer software, and both the participants and investigators were blinded to the assigned order.
+
+Statistical Analyses
+The data were analyzed using Matlab R2015a (Mathworks Inc. Natick, MA, USA). To study the impact of feedback from the sensor system on the outcome variables, a nonparametric version of the repeated-measures analysis of variance (Friedman ANOVA) was used in which the within-participant factor was visit type, i.e. baseline, 100% target or 75% target visit. This test was used because the ingested mass was not normally distributed (Kolmogorov-Smirnov test with 5% significance level) and some of the dependent variables (ratings on the questionnaire) were ordinal. The dependent variables examined were total mass ingested (in grams) and duration (seconds) of the meal across all three visits. Post hoc power analysis was performed using a mixed model (repeated ANOVA) to find out if the experimental design had enough power to detect the difference in mass intake across the 3 visits. Statistical analysis was performed to compare liquid intake across three visits. Absolute changes (between the start and end of the meal) for ratings of hunger, fullness, desire to eat, prospective consumption, thirst, and palatability were also compared across the three visits. The null hypotheses for each dependent variable assumed that they were same across all three visits with the alternate hypotheses that they were different. For significantly different metrics, post-hoc Tukey Kramer’s test was used for multiple comparisons. A p-value of 0.05 was accepted as significant. Descriptive statistics were expressed as median and inter-quartile range (IQR, q1: lower quartile and q3: upper quartile) unless otherwise noted.
+
+Results
+Median mass ingested for baseline visit, 100% target visit and 75% target visit was 493g (434g, 589g), 491g (419g, 576g), and 431g (314g, 548g), respectively and there were significant differences (P=0.0006). Figure 2 (left) shows the distribution of mass ingested for each type of visit. The post hoc Tukey-Kramer test showed that total mass ingested during the 75% target visit was lower than the other two visits at p&lt;0.05, the mass ingested in the 100% target visit was not significantly different from the baseline. Median changes for the 100% target and 75% target visits relative to baseline were −2.37% (−5.5%, 1.9%) and −10.1% (−14.7, −6.9%), respectively, where negative values indicate a decrease (Figure 2, right). Post hoc power analysis showed that for power (1 - β) of 0.90 with α = 0.05, the required sample size was 13. Median values for liquid intake during baseline, 100% target and 75% target visits were 301m (271ml, 330ml), 305ml (275mlg, 350g), and 313ml (273ml, 355ml), respectively. The liquid intake had no statistically significant differences across visits (p=0.14). There was a significant difference in the meal duration of 75% target visit, which was significantly shorter compared to other two visits (p &lt;0.05). The durations of the baseline and 100% target visits did not differ significantly. Figure 3 (left) shows the distribution of the meal duration for three types of visits. Figure 3 (right) shows the distribution of percent changes in meal duration for the 100% target and 75% target visits relative to the baseline visit. Median changes were −6.5% (−14.7%, 2.2%) and −21.4% (−29.6%, −17.9%) for the 100% target and 75% target visits, respectively.
+
+The absolute changes in the ratings between the start and end of the meals for hunger, fullness, desire to eat, prospective consumption, thirst and palatability of the food did not differ significantly across visits with p-values of 0.66, 0.59, 0.17, 0.42, 0.52 and 0.54, respectively. Figure 4 and figure 5 shows the distribution of hunger and fullness rating for all visits, respectively. Median (q1, q3) palatability ratings were 6.5 (5, 7), 6.5 (5, 7) and 6.5 (6, 7) for the baseline, 100%, and 75% visits, respectively, indicating that participants, in general, liked the food served in the experiment.
+
+Discussion
+This was the first pilot study to examine the potential use of a wearable sensor system, the AIM, for providing JIT feedback to users on their eating and to potentially reduce the total mass intake in a meal. While the ingested mass and meal duration were significantly lower in the 75% target visit than the other visits, hunger, appetite and thirst ratings did not differ by the visit type. A possible explanation is that participants were not aware of the reduction of target chew counts in 75% target visit and were under the impression that they were eating the same amount of food in all visits. These results suggest that the AIM can potentially be used in developing strategies for weight loss interventions where the goal can be tailored to the needs of users and feedback from the system will guide the user toward the goal.
+
+The differences in the mass intake and the meal durations of the baseline and 100% target visits were not statistically significant, which showed that the presence of feedback alone did not modify the average mass intake and average chewing rate (chews per second). For the 75% target visit, the reduction of total chew counts by 25% compared to the baseline visit resulted in the reduction of the median ingested mass by 62 grams (124 kcal) (about 10% relative change) compared to baseline and the reduction of median meal duration by 140 seconds (about 21%). A reduction of 65 seconds (about 10%) was observed in the median meal duration of the 100% visit, however, the reduction in the median ingested mass was not significant (only 2 grams or 4 kcal). Thus, the 25% reduction in chew counts decreased the ingested mass and meal duration, but the decrease in mass was not proportional to the reduction of chew counts. Further research is needed to study the relationship between the chew count reduction and meal duration and total mass ingested. There is also a possibility that in order to compensate for reduced mass ingested, participants may increase their liquid intake, however, such compensation was not observed in this study.
+
+Other devices such as the Mandometer (37) and the Bite-Counter (17) have been proposed for providing JIT feedback to participants for reducing energy intake in a meal. The Mandometer uses cumulative intake curves to normalize the eating behavior of individuals and has been shown to be effective in weight loss (37). However, it requires individuals to keep their food on a portable scale at all times and hence restricts their movements. Another option is to use wearable devices such as the Bite-Counter or the AIM. By reducing the number of bites per minute by 50% (compared to a baseline) in a waffle meal, the Bite-Counter, energy intake was reduced by 70 kcal (17). However, the Bite-Counter has a positive predictive value of about 81% for estimation of bites in laboratory conditions (20), which is not as accurate as the AIM which was used in the present study (F-measure of 99.85% for detection of eating episodes (27). The AIM has been already tested for monitoring of food intake in unrestricted free living conditions for 24 hrs and has shown promising results (25).
+
+The device used was based on eyeglasses which are prevalent in most of the societies. In the US alone, about 64% of the population use eyeglasses during daily living (38). However, the device may be potentially implemented as a Bluetooth earpiece for people who are not using eyeglasses. In future, we envision a more compact version of the system with detection, characterization and feedback generation algorithms running on a smartphone application. The JITAI feedback may be provided either through onscreen notifications or through in-ear audio. Future work will focus on designing such a system and its evaluation in free living.
+
+Some of the strengths of the study include the randomization of 100% and 75% target visits, concealing the true purpose of the study from the participants, and controlling for food type. The experiments were conducted under controlled laboratory conditions and may not be applicable to unrestricted free-living conditions, however, the laboratory setting allowed for an accurate assessment of the eating behavior. Additionally, we did not control for variations in eating behavior such as bite size, eating rate, and liquid intake, which suggests that the feedback approach may potentially be used in the wider population in which these factors normally vary. Further studies are required to evaluate this approach for wider food variety and to investigate how the energy density of different foods may affect the effectiveness of the presented feedback system. Although the post-hoc analysis showed that to achieve a power level of 0.90, the required sample size is 13, we acknowledge that the sample size used in this study was relatively small and needs to be further extended. Another important limitation of this pilot study is that most of the participants recruited were normal weight individuals. Future work will include testing of the system in individuals with different levels of adiposity from a wider population with a focus on people with higher levels of adiposity. Further studies should also consider monitoring the compensatory eating to determine the effect of just-in-time feedback on chew counts beyond a single meal. Further research will also explore the use of feedback in more realistic, unrestricted and social environments to test for social acceptability and ability to reduce total energy consumption.
+
+Conclusion
+This work presented the use of a wearable sensor system to reduce the mass intake. The wearable sensor system was able to accurately and objectively track eating episodes in real time and accurately estimate chew counts. The results suggest that the JIT feedback from the sensor system with a goal can be used to reduce the total mass intake in a meal. This system may potentially be developed to provide just-in-time adaptive interventions for reduction of mass and energy intake, and could potentially help with weight loss and prevention of weight regain with long-term use.
+
+FUNDING: Research reported in this publication was supported by the National Institute of Diabetes and Digestive and Kidney Diseases of the National Institutes of Health under Award Number R01DK100796. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+
+DISCLOSURE: The authors declare no conflict of interest.
+
+Figure 1 Subject wearing eyeglasses which houses the data acquisition system. The piezoelectric strain sensor is placed on the temporalis muscle.
+
+Figure 2 (Left) Distribution of mass ingested by the participants across all three visits. Mass ingested during the 75% target visit was lower compared to other two visits. (Right) Distribution of percent changes in mass compared to the baseline visit. Negative values indicate decrease in mass ingested compared to baseline. Red line on each plot indicate the corresponding median mass ingested (grams) whereas the lower and upper whiskers indicate the minimum and maximum mass ingested within 25th and 75th percentile, respectively. Lower and upper horizontal blue lines (on the box) indicate 1st and 3rd quartile i.e. q1 and q3. 50% of the cases are between 1st and 3rd quartile. (Left) The letter ‘a’ at the median line indicates that the medians values are not significantly different whereas the letter ‘b’ indicates the median value which is significantly different.
+
+Figure 3 (Left) Distribution of the meal duration for all three visits. The results show that the duration for 75% target was statistically lower compared to other two visits. (Right) Distribution of percent changes in meal duration compared to the baseline visit. Negative values indicate decrease in meal duration compared to baseline. Red lines on each plot indicate the corresponding median duration whereas the lower and upper whiskers indicate the minimum and maximum duration of the meals within 25th and 75th percentile, respectively. Lower and upper horizontal blue lines (on the box) indicate 1st and 3rd quartile i.e. q1 and q3. 50% of the cases are between 1st and 3rd quartile. (Left) The letter ‘a’ at the median line indicates that the medians values are not significantly different whereas the letter ‘b’ indicates the median value which is significantly different.
+
+Figure 4 Distribution of absolute changes in the hunger ratings between the start and end of the meal. Hunger before and after the meal was measured using standard 1–9 scale. No significant differences were observed for changes in hunger ratings for different visits. For each plot, the red line indicates the corresponding median change in rating. Upper and lower whiskers show the minimum and maximum changes within 25th and 75th percentile, respectively. Lower and upper horizontal blue lines (on the box) indicate 1st and 3rd quartile i.e. q1 and q3. 50% of the cases are between 1st and 3rd quartile. (Left) The letter ‘a’ at the median line indicates that the medians values are not significantly different.
+
+Figure 5 Distribution of absolute changes in the fullness rating between the start and end of the meal. Fullness before and after the meal was measured using standard 1–9 scale. No significant differences were observed for changes in fullness ratings for different visits. For each plot, the red line indicates the corresponding median change in rating. Upper and lower whiskers show the minimum and maximum changes within 25th and 75th percentile, respectively. Lower and upper horizontal blue lines (on the box) indicate 1st and 3rd quartile i.e. q1 and q3. 50% of the cases are between 1st and 3rd quartile. (Left) The letter ‘a’ at the median line indicates that the medians values are not significantly different.
+
+Bulletpoints Questions Answered
+1. What is already known about this subject?
+Current treatments for controlling obesity include relying on behavior modification to change dietary intake.
+
+Changing the eating rate has been shown to be able to potentially modify the energy intake in a meal.
+
+Wearable sensors have been proposed for automatic and accurate detection of eating episodes.
+
+2. What does this study add?
+This work proposes the use of a wearable device to automatically detect and quantify chew counts in a meal in real time.
+
+This work shows that just in time feedback from the wearable sensor system can help in reducing total ingested mass and energy intake in a meal.
+
+This system may potentially be developed to provide just-in-time adaptive interventions for reduction of mass and energy intake, and could potentially help with weight loss and prevention of weight regain with long-term use.
+
+
+   1 
+            Mattes R  
+           Energy intake and obesity: ingestive frequency outweighs portion size Physiol Behav 2014 7 134 110 8 24291535 
+2 
+            Wansink B  
+           Environmental factors that increase the food intake and consumption volume of unknowing consumers Annu Rev Nutr 2004 24 455 79 15189128 
+3 
+            Rolls BJ  
+            Roe LS  
+            Meengs JS  
+           Larger portion sizes lead to a sustained increase in energy intake over 2 days J Am Diet Assoc 2006 4 106 4 543 9 16567150 
+4 
+            Rolls BJ  
+            Roe LS  
+            Meengs JS  
+           The effect of large portion sizes on energy intake is sustained for 11 days Obes Silver Spring Md 2007 6 15 6 1535 43 
+5 
+            McCrory MA  
+            Burke A  
+            Roberts SB  
+           Dietary (sensory) variety and energy balance Physiol Behav 2012 11 5 107 4 576 83 22728429 
+6 
+            Rolls BJ  
+           Experimental analyses of the effects of variety in a meal on human feeding Am J Clin Nutr 1985 11 42 5 Suppl 932 9 4061365 
+7 
+            Wadden TA  
+            Webb VL  
+            Moran CH  
+            Bailer BA  
+           Lifestyle Modification for Obesity New Developments in Diet, Physical Activity, and Behavior Therapy Circulation 2012 3 6 125 9 1157 70 22392863 
+8 
+            Maruyama K  
+            Sato S  
+            Ohira T  
+            Maeda K  
+            Noda H  
+            Kubota Y  
+             
+           The joint impact on being overweight of self reported behaviours of eating quickly and eating until full : cross sectional survey BMJ 2008 10 21 337 a2002 18940848 
+9 
+            Otsuka R  
+            Tamakoshi K  
+            Yatsuya H  
+            Murata C  
+            Sekiya A  
+            Wada K  
+             
+           Eating fast leads to obesity: findings based on self-administered questionnaires among middle-aged Japanese men and women J Epidemiol Jpn Epidemiol Assoc 2006 5 16 3 117 24 
+10 
+            Nicklas TA  
+            Baranowski T  
+            Cullen KW  
+            Berenson G  
+           Eating Patterns, Dietary Quality and Obesity J Am Coll Nutr 2001 12 1 20 6 599 608 11771675 
+11 
+            Lepley C  
+            Throckmorton G  
+            Parker S  
+            Buschang PH  
+           Masticatory performance and chewing cycle kinematics-are they related? Angle Orthod 2010 3 80 2 295 301 19905854 
+12 
+            Andrade AM  
+            Greene GW  
+            Melanson KJ  
+           Eating slowly led to decreases in energy intake within meals in healthy women J Am Diet Assoc 2008 7 108 7 1186 91 18589027 
+13 
+            Andrade AM  
+            Kresge DL  
+            Teixeira PJ  
+            Baptista F  
+            Melanson KJ  
+           Does eating slowly influence appetite and energy intake when water intake is controlled? Int J Behav Nutr Phys Act 2012 9 135 23171246 
+14 
+            Bellisle F  
+            Le Magnen J  
+           The structure of meals in humans: Eating and drinking patterns in lean and obese subjects Physiol Behav 1981 10 27 4 649 58 7323168 
+15 
+            Azrin NH  
+            Kellen MJ  
+            Brooks J  
+            Ehle C  
+            Vinas V  
+           Relationship Between Rate of Eating and Degree of Satiation Child Fam Behav Ther 2008 12 8 30 4 355 64 
+16 
+            Privitera GJ  
+            Cooper KC  
+            Cosco AR  
+           The influence of eating rate on satiety and intake among participants exhibiting high dietary restraint Food Nutr Res 2012 56 
+17 
+            Scisco JL  
+            Muth ER  
+            Dong Y  
+            Hoover AW  
+           Slowing Bite-Rate Reduces Energy Intake: An Application of the Bite Counter Device J Am Diet Assoc 2011 111 8 1231 5 21802572 
+18 
+            Flood-Obbagy JE  
+            Rolls BJ  
+           The effect of fruit in different forms on energy intake and satiety at a meal Appetite 2009 4 52 2 416 22 19110020 
+19 
+            Li J  
+            Zhang N  
+            Hu L  
+            Li Z  
+            Li R  
+            Li C  
+             
+           Improvement in chewing activity reduces energy intake in one meal and modulates plasma gut hormone concentrations in obese and lean young Chinese men Am J Clin Nutr 2011 9 1 94 3 709 16 21775556 
+20 
+            Dong Y  
+            Hoover A  
+            Scisco J  
+            Muth E  
+           A new method for measuring meal intake in humans via automated wrist motion tracking Appl Psychophysiol Biofeedback 2012 9 37 3 205 15 22488204 
+21 
+            Makeyev O  
+            Lopez-Meyer P  
+            Schuckers S  
+            Besio W  
+            Sazonov E  
+           Automatic food intake detection based on swallowing sounds Biomed Signal Process Control 2012 11 7 6 649 56 23125873 
+22 
+            Aboofazeli M  
+            Moussavi Z  
+           Analysis of swallowing sounds using hidden Markov models Med Biol Eng Comput 2008 4 46 4 307 14 18000695 
+23 
+            Amft O  
+           A wearable earpad sensor for chewing monitoring 2010 IEEE Sensors 2010 222 7 
+24 
+            Bedri A  
+            Verlekar A  
+            Thomaz E  
+            Avva V  
+            Starner T  
+           Detecting Mastication: A Wearable Approach Proceedings of the 2015 ACM on International Conference on Multimodal Interaction [Internet] New York, NY, USA ACM 2015 [cited 2015 Dec 7] 247 250 (ICMI ’15). Available from: http://doi.acm.org/10.1145/2818346.2820767  
+25 
+            Fontana JM  
+            Farooq M  
+            Sazonov E  
+           Automatic Ingestion Monitor: A Novel Wearable Device for Monitoring of Ingestive Behavior IEEE Trans Biomed Eng 2014 6 61 6 1772 9 24845288 
+26 
+            Farooq M  
+            Sazonov E  
+           Comparative testing of piezoelectric and printed strain sensors in characterization of chewing 2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2015 7538 41 
+27 
+            Farooq M  
+            Sazonov E  
+           A Novel Wearable Device for Food Intake and Physical Activity Recognition Sensors 2016 7 11 16 7 1067 
+28 
+            Farooq M  
+            Sazonov E  
+           Monitoring of Temporalis Muscle Activity for Segmentation and Characterization of Chewing Bouts IEEE J Biomed Health Inform in Press 
+29 
+            Bauer S  
+            de Niet J  
+            Timman R  
+            Kordy H  
+           Enhancement of care through self-monitoring and tailored feedback via text messaging and their use in the treatment of childhood overweight Patient Educ Couns 2010 6 79 3 315 9 20418046 
+30 
+            Patrick K  
+            Raab F  
+            Adams MA  
+            Dillon L  
+            Zabinski M  
+            Rock CL  
+             
+           A text message-based intervention for weight loss: randomized controlled trial J Med Internet Res 2009 11 1 e1 19141433 
+31 
+            Jasper PW  
+            James MT  
+            Hoover AW  
+            Muth ER  
+           Effects of Bite Count Feedback from a Wearable Device and Goal Setting on Consumption in Young Adults J Acad Nutr Diet [Internet] 2016 6 23 [cited 2016 Jul 12];0(0). Available from: http://www.andjrnl.org/article/S2212267216302222/abstract  
+32 
+            Spruijt-Metz D  
+            Hekler E  
+            Saranummi N  
+            Intille S  
+            Korhonen I  
+            Nilsen W  
+             
+           Building new computational models to support health behavior change and maintenance: new opportunities in behavioral research Transl Behav Med 2015 9 5 3 335 46 26327939 
+33 
+            Spruijt-Metz D  
+            Wen CKF  
+            O’Reilly G  
+            Li M  
+            Lee S  
+            Emken BA  
+             
+           Innovations in the Use of Interactive Technology to Support Weight Management Curr Obes Rep 2015 9 12 
+34 
+            Amft O  
+            Kusserow M  
+            Troster G  
+           Bite Weight Prediction From Acoustic Recognition of Chewing IEEE Trans Biomed Eng 2009 6 56 6 1663 72 19272978 
+35 
+            Fontana JM  
+            Higgins JA  
+            Schuckers SC  
+            Bellisle F  
+            Pan Z  
+            Melanson EL  
+             
+           Energy intake estimation from counts of chews and swallows Appetite 2015 2 1 85 14 21 25447016 
+36 
+            Couper MP  
+            Tourangeau R  
+            Conrad FG  
+            Singer E  
+           Evaluating the Effectiveness of Visual Analog Scales A Web Experiment Soc Sci Comput Rev 2006 5 1 24 2 227 45 
+37 
+            Ford AL  
+            Bergh C  
+            Sodersten P  
+            Sabin MA  
+            Hollinghurst S  
+            Hunt LP  
+             
+           Treatment of childhood obesity by retraining eating behaviour: randomised controlled trial BMJ 2010 1 5 340 (jan05 1) b5388 b5388 
+38 The Vision Council of America OTC Readers Report Q4 2015 Tech Rep 2016 
+

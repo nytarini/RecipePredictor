@@ -1,0 +1,866 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   810585832223Trends Analyt ChemTrends Analyt ChemTrends in analytical chemistry : TRAC0165-993627695152504235110.1016/j.trac.2016.02.017NIHMS786716ArticleSolid-phase microextraction technology for in vitro and in vivo metabolite analysis Zhang Qihui a*Zhou Liandi bChen Hua aWang Chong-Zhi cXia Zhining a*Yuan Chun-Su ca Department of Pharmacy, School of Chemistry and Chemical Engineering, Chongqing University, Chongqing 400044, Chinab Department of Immunology, Basic Medical College, Chongqing Medical University, Chongqing 400016, Chinac Tang Center for Herbal Medicine Research and Department of Anesthesia &amp; Critical Care, University of Chicago, Chicago, IL 60637, U.S.A.* Correspondence to: Qihui Zhang, Ph.D., Associate Professor, Zhining Xia, Ph.D., Professor, School of Chemistry and Chemical Engineering, Chongqing University, Shapingba Zhengjie 174, Shapingba District, Chongqing 400044, China, Tel: 86-23-6510-2531, qhzhang@cqu.edu.cn (Qihui Zhang)., tcm_anal_cqu@163.com (Zhining Xia).
+15 5 2016 6 2016 01 12 2016 80 57 65 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Analysis of endogenous metabolites in biological samples may lead to the identification of biomarkers in metabolomics studies. To achieve accurate sample analysis, a combined method of continuous quick sampling and extraction is required for online compound detection. Solid-phase microextraction (SPME) integrates sampling, extraction and concentration into a single solvent-free step for chemical analysis. SPME has a number of advantages, including simplicity, high sensitivity and a relatively non-invasive nature. In this article, we reviewed SPME technology in in vitro and in vivo analyses of metabolites after the ingestion of herbal medicines, foods and pharmaceutical agents. The metabolites of microorganisms in dietary supplements and in the gastrointestinal tract will also be examined. As a promising technology in biomedical and pharmaceutical research, SPME and its future applications will depend on advances in analytical technologies and material science.
+
+Solid-phase microextractionendogenous metabolitemetabolomicspharmaceuticalsmedical diagnosismicroorganisms
+   1. Introduction
+Metabolomics systematically investigates the biochemical processes that produce endogenous metabolites in a given organism. Detecting metabolites in biological samples is critical for interpreting health status, medical diagnostics, disease conditions and treatment outcomes [1,2]. For example, cancer is characterized by the abnormal growth of malignant cells beyond their natural boundaries. A successful search for cancer-related biomarkers would contribute to the early diagnosis of malignancy [2]. Early stage melanoma can be detected by volatile organic compounds (VOCs) in the skin [3].
+
+The key technical difficulty to achieving online accurate sample analysis is the establishment of a continuous combined sampling and extraction method [1,4,5]. SPME has a number of advantages: (1) the small sampling needle is relatively nonintrusive and is cost-effective, (2) the coated material on the needle can be diverse, allowing for a wide range of applications, and (3) the two-step integration method for sampling and sample preparation is convenient and time-efficient. SPME also reduces potential extraction or operational errors. Thus, the use of this stable apparatus can achieve identical analytical results with minimal injury to laboratory animals [6-9].
+
+In this article, we will describe the SPME methodology for the analysis of metabolites after the ingestion of herbal medicines, foods and other nutrients, and pharmaceuticals. Then the application of SPME in pharmaceutical research and medical diagnosis will be reviewed in detail. The metabolites of microorganisms in dietary supplements and in the gastrointestinal tract will also be examined (Fig. 1).
+
+2. Solid-phase microextraction (SPME)
+2.1 Conventional sample extractions and their limitations
+The first extraction technique was liquid-liquid extraction (LLE), a time-consuming, labor-intensive and multi-stage operation [4]. During the concentration of solution, LLE can introduce errors or lose its specificity for analyzing VOCs. To overcome these limitations, solid-phase extraction (SPE) was introduced [10]. SPE, however, also needs a sample concentration step, in which VOCs could be lost. Other common problems of SPE include material aggregation, percolation, and channeling formation [10,11]. To overcome the limitations inherent in LLE and SPE, SPME was introduced by Arthur and Pawliszyn in 1989 [12].
+
+2.2 Advantages of SPME and its potential development
+SPME integrates sampling, extraction, concentration and sample introduction into a single, solvent-free step [13,14]. SPME saves preparation time by producing a concentrated extract, applicable for direct MS analysis with high accuracy and low operational and disposal cost [4,15,16]. The advantages of SPME have become well-recognized, and many research articles, book chapters and books on the technology have been published [1,17].
+
+A key driving force of the development of SPME is the progress in the coating material technology [18]. Fig. 2 is a schematic diagram of the in vitro and in vivo SPME needle apparatuses. The commonly used needle-coating chemicals are polydimethylsiloxane (PDMS), carboxen (CAR), hydrophilic lipophilic balanced (HLB), divinylbenzene (DVB), octadecylsilyl derivatized silica column packing material (C18), carbowax (CW), templated resin (TPR), polyacrylonitrile (PAN), benzenesulfonic acid (BSA) [1,4,15]. Coating chemicals with different thicknesses and polarities are now commercially available [4,16]. For example, SPME coating fibers can be characterized with a DNA aptamer for selective enrichment of a low abundance protein from diluted human plasma, and with antibody-linked immunoaffinity sorbents for diagnosing methicillin-resistant Staphylococcus aureus [19,20].
+
+Fig. 3 is a flow chart of the analytical process using SPME as sample preparation technology. The coating is cleaned firstly to remove contaminants, which prevents a high background in the chromatogram. Subsequently, absorption, desorption optimization, a washing-out process and derivatization are performed [4,21]. The sampling processes can be affected by several factors, such as sample location, selection and time [1,4,22]. Data collection and statistical analysis are continuously implemented until a conclusion is obtained [1,4]. During the analysis process, SPME can be matched with GC or LC chromatography methods and MS or UV detection methods [21,23,24]. For instance, the detection of VOCs in the blood stream using SPME-GC/MS provides accurate results, and metabolic biomarkers could be found to screen colorectal cancer patients [25]. The sensitive, selective and reproducible in-tube SPME-LC/UV can also be used to analyze lidocaine and its metabolites in human plasma for anesthesiology research [26]. SPME can be considered a new sample preparation method for global metabolomics studies from living biological samples, supported by newly developed analytical techniques [27].
+
+3. SPME applications for metabolite analysis
+3.1 In vitro analysis
+To establish a reliable SPME method, many in vitro studies were first conducted using test samples from botanicals, food, pharmaceuticals, microorganisms, and environmental pollutants. After stable in vitro sample collections and extractions were achieved, SPME was subsequently applied to in vivo experiments (Fig. 4).
+
+3.1.1 Plant extracts
+Botanical extracts from the liverwort Scapania aspera and citrus essential oil vapor from Peucedanum cervaria are good candidates for SPME in vitro exploration [28-30]. These extracts can be detected by SPME coupled with GC/MS. Extracts of Hypericum perforatum, sunflower oil, Dracaena draco leaf, and Ficus carica were analyzed for their VOCs by head space-SPME (HS-SPME) coupled with GC-ion trap (IT)-MS. The data showed that these extracts are promising antioxidant agents. When the antioxidant effects of these botanicals were evaluated by several chemical assays in vitro, the results showed that DPPH, nitric oxide and superoxide radicals were inhibited in a concentration-dependent manner [31-33].
+
+Other researchers have discovered the existence of anti-malarial VOC components in the Plinia corrocampanensis leaf [34]. The hypoglycemic and hypolipidemic effects of Pelargonium graveolens were studied for their potential application in obesity, diabetes, and metabolic syndrome [35]. The essential oil was detected by HS-SPME-GC/MS.
+
+The composition of volatiles in micropropagated and field-grown botanicals from the islands of Tuscany were identified using HS-SPME with GC/MS. These botanicals have the same aromatic flavor and produce massive materials [36]. In a separate study, designed to detect the activation of purified compounds, data were obtained from Plectranthus ornatus. The researchers focused on the effects of different concentrations of 2,4-dichlorophenoxyacetic acid and 1-naphthaleneacetic acid on the induction of callus and the production of VOCs. The VOCs were detected by HS-SPME followed with GC/MS [37]. Artemisia umbelliformis, a protected species, was also studied with SPME, and only a very small amount of the fresh botanical was needed [38].
+
+The influence of growth regulators on biomass production and the volatile profile of the botanicals of Thymus vulgaris were also studied in vitro with SPME-GC [39]. In another study, five different banana cultivars were distinguished by HS-SPME combined with one-dimensional GC/MS [40].
+
+3.1.2 Diet samples
+Eucalyptus essential oil as a natural food preservative was studied using SPME-GC/MS. This essential oil was used for fruit juice preservation against food-spoiling yeast [41]. The effects of kefir culture entrapped in casein and in whey protein as starter cultures for the production of feta-type cheese were also evaluated by SPME-GC/MS. The researchers reported that the VOCs of the different cheese types depended on the nature of the starter culture. When they used kefir culture as the starter, the products showed a soft, fine taste with improved quality [42].
+
+The antioxidant properties of a Chinese gingko wine were accessed using SPME-GC/MS. The results indicated that the total phenol content of gingko wine was 456 mg/L gallic acid equivalents. The antioxidant capacity was higher than that of typical Chinese liquors [43].
+
+Olive oils from two geographic areas were identified and differentiated. The VOCs of the monovarietal virgin olive oils were detected by HS-SPME. The results indicated that the volatile formation was affected by both genetic factors and agronomic conditions [44]. The VOCs in berries were considered at three developmental stages of Vitis vinifera, and were exposed (or not) to UV-B both in vitro and in field experiments. Of the VOCs that were detected by HS-SPME-GC/MS, 10 VOCs were found at all developmental stages and were found to affect wine flavor [45]. HS-SPME-GC/MS was also used to characterize three coffee monoterpene synthases to help improve the quality control of various types of coffee [46].
+
+3.1.3 Biomedical research
+To advance our understanding of the uptake, transportation, and transformation dynamics of compounds for pharmaceutical research, SPME was used for compound measurement [47]. Transport of chlorpromazine was investigated in a Caco-2 cell permeability assay. SPME detected free chlorpromazine concentration, and a precise evaluation was made of the Caco-2 cell model [48]. Another study introduced SPME to determine the free concentration of chlorpromazine in aqueous samples containing albumin [49]. Binding studies of carbamazepine were conducted in vitro with SPME and LC/UV [50].
+
+For an in vitro metabolism study, a high-throughput bioanalytical method was applied using 96-blade thin-film SPME and LC/MS/MS for the study of selected compounds and their main metabolites [51]. A special SPME with a new type of β-cyclodextrin-modified nanocellulose as a sorbent material showed a wide linear fluorimetric response against danofloxacin. This special SPME’s recognition has been proven to be highly selective and efficient against this metabolite and other fluoroquinolones [52]. In a stereo-selective study of fungal biotransformation, SPME determined whether fungi could biotransform risperidone into its active metabolite [53]. Previous sample collection and complicated processing after biotransformation may be associated with errors, and these errors can be avoided by applying SPME technology, which is advantageous due to its simplicity.
+
+3.1.4 Naturally occurring microorganisms
+The applications and dynamics of lactic acid bacteria for the four-season production of Vastedda-like cheese were investigated. SPME with GC/MS detected the VOCs of the experimental cheeses, obtained with raw milk and inoculated with single and multiple combinations of lactococci [54].
+
+Preculturing of Lactobacillus rhamnosus and Bifidobacterium animalis sub-sp. lactis BB12 under sublethal stress conditions for survival and metabolite formation was investigated in set-yoghurt. 35 volatile and 43 non-volatile polar metabolites were identified by SPME-GC/MS and proton nuclear magnetic spectroscopy (SPME-H1NMR). These data contribute to the possibility of placing stress-adapted probiotics in a food-carrier environment [55]. The effects of probiotics and prebiotics on the metabolic profile of human microbiota have been analyzed with sampling from human feces by SPME-GC/MS [56].
+
+The identification of VOCs produced by Cladosporium cladosporioides, which could accelerate botanical growth, was detected by SPME-GC/MS. Promotion of fungal VOC-mediated botanical growth requires in-depth study for application to large scale crops, particularly those grown under greenhouse conditions [57]. The VOCs in solid-state and submerge-cultured Antrodia camphorate were also accessed by HS-SPME-GC/MS [58]. The starters of yoghurt are critical to the quality of product. Thus, the discovery of different proteolytic strains of Streptococcus thermophilus in the production of set-yoghurt should allow for better control of the quality of yoghurt starters [59].
+
+3.1.5 Environmental pollutants
+Indoor molds produce microbial VOCs (MVOCs). MVOCs have been detected with automated HS-SPME and GC/MS analysis. MVOCs produced by malt extract agar, plasterboard, and wallpaper have been compared [60]. In soil, the bioavailability of estrogen-like endocrine-disrupting compounds contributed to the assessment of risk to the environment using thin film geometry SPME (TF-SPME) [61]. With respect to water pollution, petroleum-related substances from refineries and refinery effluents in water were studied with biologically based SPME methods [62]. The technique also can be used to screen environmental petrochemical contamination in seafood [63].
+
+3.1.6 Medical diagnosis from biological samples
+TF-SPME coupled to LC/MS/MS analysis was developed to measure bile acids in fluid samples from the bronchoalveolar lavage. Thus, metabolites may provide additional information about the occurrence and severity of gastric reflux/aspiration in lung patients, which will lead to a more accurate diagnosis [64]. Cocaethylene (CE) is a metabolite formed during alcohol and cocaine co-consumption. CE in hair is a biomarker indicating chronic alcohol consumption among individuals who have consumed cocaine. HS-SPME coupled with GC/MS analysis is able to reveal CE as biomarker. Specificity for chronic excessive alcohol consumption was high among cocaine users and other drug addicts [65].
+
+Another study used SPME to collect headspace vapors from methicillin-sensitive Staphylococcus aureus and methicillin-resistant S. aureus (MRSA) grown in vitro in liquid growth medium. The collected molecules were separated and identified by GC/MS. The data distinguished the two strains and provided the foundation for a biomarker library to identify specific bacterial infections [66]. Penicillin-binding protein 2a also can be detected by antibody-linked immuno-affinity SPME sorbents. The established immuno-affinity platform is expected to provide insights into the development of a specific, sensitive, accurate and practical assay for diagnosing MRSA [20].
+
+HS-SPME greatly facilitated the identification of VOCs in human feces for diagnosis and health implications [67]. After investigating the effect of certain organophosphorus pesticides on breast cancer risk, other researchers concluded that endocrine-disrupting chemicals alter normal functioning. In vitro experiments were conducted utilizing HS-SPME combined with HPLC. The results revealed that chlorpyrifos binds to one class of sites on sex hormones [68].
+
+Results of SPME technology from in vitro samples are shown in Table 1. Only after accurate SPME analysis is achieved with in vitro samples can the new technique be applied to in vivo samples.
+
+3.2 In vivo analysis
+3.2.1 Botanicals
+The health benefits of herbs and edible plants are remarkable, and botanical materials have been used as preventative measures or as treatments for disease for thousands of years. Thus, the composition of botanical matrixes from living plants has gained more attention in recent years. With the rapid development of technology, botanicals and their metabolites can be determined using SPME coupled with other advanced analytical methods.
+
+Orchids are one example of botanicals that can be analyzed using SPME coupled methods. When SPME was applied to Italian grown orchids, HS-SPME-GC/MS proved a suitable technique for distinguishing the volatile fingerprint of different orchid species [69]. One study tested whether SPME could uncover the fingerprints of volatile and semi-volatile metabolites in complex samples. With SPME-comprehensive two-dimensional gas chromatography-time-of-flight mass spectrometry (GC/GC/TOF-MS), 399 metabolites of apples were identified [70]. These results confirm that metabolites can be characterized in botanical samples in vivo.
+
+3.2.2 Food science
+SPME is compatible with methods for analyzing food samples. For rapid food analysis and cleanliness monitoring, the volatile metabolites in farmed and wild European sea bass have been accurately distinguished by SPME followed by GC/MS. These data increased our knowledge of the quality of raw and processed sea bass. For example, the off-flavor components in live fish were detected by SPME, and the detection limit was as low as 0.12ng/g for geosmin and 0.21 ng/g for 2-methylisoborneol, which are far below human sensory thresholds [71,72]. Similarly, the uptake and elimination of organic pesticides in fish muscle were traced by SPME plus GC/MS [73].
+
+One in vivo experiment showed that SPME was reliable for detecting changes in the volatile fingerprint of Achillea collina, changes separately induced by an infestation of aphids, mechanical damage, or jasmonic acid. Differences were clear between control, infested, damaged and jasmonic-treated plants [74]. The responses of plants to external stimuli are traceable and of value in food science. In another example, the biosynthesis of sesquiterpenes in the grape berry exocarp of Vitis vinifera was evidence for transport of farnesyl diphosphate precursors from plastids to the cytosol. The method used was HS-SPME-GC/MS [75]. This SPME has also been applied in the deep processing of grapes. Notable changes in some aroma compounds of Moscatel sparking-wine were detected in the production process. Data showed the 75 compounds were co-eluted [76]. Even extremely small differences in the components could be detected.
+
+3.2.3 Pharmaceutical research and development
+Most pharmaceuticals are synthetic or semi-synthetic compounds. The absorption, distribution, metabolism and excretion of pharmaceutical compounds have been studied with SPME. The technology has also contributed to drug discovery. The anti-microbial potential of extracts of the liverwort Scapania aspera was investigated, and the chemical composition of the extracts was determined by SPME-GC/MS. The experimental results suggested that S. aspera contains natural anti-microbial agents [28].
+
+The diffusion-based calibration interface model of SPME has been proposed for the analysis of the pharmacokinetics of selected drugs. For in vivo SPME sampling, this model has several advantages over other kinetic calibration models: (1) it does not require the addition of a standard into the sample matrix, (2) it eliminates the need to pre-load a standard onto the SPME extraction phase, and (3) the calibration constant can be calculated [77]. The in vivo detection of drugs and their metabolites can contribute to pharmaceutical research. A SPME probe inserted directly into the peripheral vein of a living animal can monitor and quantify the concentration of drugs and their metabolites [1].
+
+A space-resolved SPME technique was used to study the tissue-specific bio-concentration of pharmaceutical agents in live fish, which is critical for monitoring antibiotic abuse. SPME needles were segmented and coated with novel fibers to detect specific pharmaceutical residues in fish dorsal epaxial muscles and adipose tissues with repeat in vivo sampling of tissues. Precision was acceptable [78,79]. As material science and analytical technology further develop, the accuracy of this technique will be further improved.
+
+3.2.4 Microorganisms in the body
+Metabolomics studies the anabolic and catabolic pathways of bacteria and fungi and the dynamics of their metabolism. Metabolites with low molecular weights can be qualitatively and quantitatively analyzed. VOCs fingerprinting of Listeria monocytogenes was recognized by SPME-GC/MS and E-nose in pure culture medium. Analysis of the VOCs fingerprint of microorganisms has the potential to become routine in microbiology studies [80].
+
+Aliphatic amides were applied to detect Helicobacter pylori using SPME coupled with GC/MS. Propionic and butyric acid were the biomarkers for H. pylori after incubation with the corresponding amides. SPME also detected the acids and verified their hepatic stability. The sensitivity of detection of both acids was in amounts as low as 0.8 μg [81].
+
+Human gastrointestinal microbiota have become the subject of extensive research in recent years. Fecal microbiota excreted by 30 healthy volunteers after treatment with Khorasan wheat was detected by SPME-GC/MS. The data verified the anti-inflammatory effect and counteraction of oxidative stress by Khorasan-based cereal foods [82].
+
+3.2.5 Analysis of environmental pollutants
+Environmental pollution is becoming a serious problem in the world, so effective sampling methods may strengthen environmental governance. In vivo sampling of organic contaminants in fish with SPME improved the sensitivity and extraction kinetics of the determination of trace pharmaceutical pollutants in fish tissue. A novel thin film micro-extraction configuration based on C18 thin film was introduced [83]. Another study developed and improved SPME for the sampling of pharmaceuticals in fish tissue. SPME with a PDMS extraction phase was a robust tool and was simpler than the traditional device. The new device is a platform for rapid sampling of carbamazepine, diazepam, and nordiazepam in fish muscle with acceptable precision [83].
+
+The quantitative evaluation of (+)-Δ3-carene metabolites from the living larvae of Spodoptera litura was possible with HS-SPME. The method was sensitive enough to quantitate the (+)-Δ3-carene metabolites released from the Spodoptera larvae [84]. The medication lindane, widely used to treat agricultural pests, was evaluated for its toxicity, persistence and tendency to bioaccumulate in terrestrial and aquatic ecosystems. In the study, lindane was extracted by SPME and identified by GC/MS. Its metabolite, 1,3,4,5,6-pentachloro-cyclohexene, contributed to the in situ bioremediation of this pollutant [85]. In the common reed, in vivo sampling was performed on a site highly polluted with methyl tertiary butyl ether. SPME fiber was directly introduced into the aerenchyma of the botanical stem. This method seems feasible for the screening of VOCs in wetlands [86].
+
+3.2.6 Disease diagnosis
+Supported by many studies, SPME is a reliable technology for early diagnosis. Rapid breath analysis was performed by SPME in cystic fibrosis patients, and the analytical data helped the diagnosis of the disease in the near future [87]. TF-SPME combines sampling and sample preparation into a single step. In vivo sampling using TF-SPME coupled with GC and LC for 5 minutes revealed a wide range of analytes with different physical and chemical properties [7]. HS-SPME sampling for VOCs in humans significantly reduced background signal intensity, and resulted in reproducible analysis. The method can be used to detect the biomarkers of garlic intake and alcohol ingestion [88].
+
+During surgery, metabolites can be collected directly with SPME for biochemical analysis and for biomarker identification [89]. SPME coatings functionalized with a DNA aptamer can selectively enrich aspecific proteins from diluted human plasma. This SPME was successfully applied to detect thrombin in human plasma [19]. When SPME was used to screen for VOCs, the results suggested a possible cause of death from a rare case of captan ingestion [90]. With convenient sample preparation [91], SPME could be a valuable tool for the early diagnosis of cardiovascular, oncologic and neurodegenerative illnesses. Selected reports that used SPME for in vivo sample analysis are shown in Table 2.
+
+4. Conclusion and outlook
+Sample collection is critical to the determination of various compounds and their metabolites in different matrices. In the last few years, there has been a notable increase in the application of SPME. This new technology is sensitive, selective, simple, reproducible and relatively noninvasive. Thus, SPME is a well-established technique for the study of the chemical composition of botanicals, food and pharmaceuticals, all of which could be affected by microorganisms and the environmental factors. SPME is particularly useful for medical diagnosis because its tissue damage is minimal. The application of SPME to the diagnosis of human diseases, however, is still in its early stage. In the future, the application of SPME in metabolite analysis will depend on advances in specific analytical technologies and material science. It is anticipated that the sensitivity and accuracy of the detection and analysis of non-volatile compounds from minute samples will be increased. SPME has a promising future in biomedical and pharmaceutical research.
+
+Acknowledgement
+This work was supported by the Fundamental and Frontier Research Fund of Chongqing under Grant cstc2014jcyjA10108; Fundamental Research Funds for the Central Universities under Grant CQDXWL-2014-Z007; Special Fund for Basic Scientific Research of Central Colleges, Chongqing University under Grant No. 201310611045 and Fundamental Research Funds for the Central Universities under Grant CQDXWL-2012-031; Tang Foundations. We thank Sally Kozlik for editing the manuscript.
+
+Fig. 1 Application of solid-phase microextraction (SPME) technology. This technique has been used in food science research, botanical component analysis, and pharmaceutical studies. In addition, the SPME has also been reported in research related to microorganisms, environmental factors, and medical diagnosis. The small endogenous molecules detected using SPME investigations are critical for metabolomic analysis and biomarker identification to improve human health.
+
+Fig. 2 Schematic diagram of the in vitro and in vivo SPME needle apparatuses for metabolite analysis. The tips of the needles can be covered by various coating materials. PDMS, polydimethylsiloxane; CAR, carboxen; HLB, hydrophilic lipophilic balanced; DVB, divinylbenzene; C18, octadecylsilyl derivatized silica column packing material; CW, carbowax; TPR, templated resin; PAN, polyacrylonitrile; BSA, benzenesulfonic acid.
+
+Fig. 3 Flow chart of the analytical process using SPME as sample preparation technology. The sampling is influenced by six factors, which are listed on the right and left.
+
+Fig. 4 Different investigations using SPME technology. A representative study in each category is selected.
+
+Table 1 Selected reports using the SPME technology in in vitro sample analysis
+
+	Study subject	Fiber coating	Thickness (μm)	Sample (g), part	Condition
+(°C/min)	Analytical
+method	Ref.	
+
+Plant Extract
+								
+Pinene, sabinene	
+Peucedanum cervaria
+	PDMS	30	2.0, fruit	RT/30	GC/MS	[30]	
+Aldehydes	
+Hypericum perforatum
+	PDMS; PDMS/CAR	75; 100	Extract	40/20	GC/ECD	[31]	
+VOCs, carotenoid	
+Dracaena draco
+	PDMS/DVB	65	0.1, leaf	45/20	GC/MS	[32]	
+Sesquiterpene, monoterpenes	
+Ficuscarica
+	PDMS/DVB	65	Fruit	40/60	GC/MS	[33]	
+VOCs	
+Plinia cerrocampanensis
+	DVB/CAR/PDMS	30; 50	0.5, leaf	49/14	GC/MS	[34]	
+VOCs	
+Pelargonium graveolens
+	PDMS/DVB	65	0.1/0.2, leaf	RT/2	GC/MS	[35]	
+Terpinyl acetate, monoterpenes	Plectranthus spp.	PDMS	100	1.0, callus	60/20	GC/MS	[37]	
+Terpinene, cymene, thymol	
+Thymus vulgaris
+	PDMS/DVB	65	0.2, leaf	60/15	GC/MS	[39]	
+Volatile ethyl esters	Dwarf Cavendish banana	PDMS/DVB	65	0.5, fruit	50/60	GC/MS	[40]	
+
+Diet Sample
+								
+Cineole, limonene, pinene, terpinene	
+Eucalyptus
+	PDMS/DVB	65	5.0, essential oil	RT/10	GC/MS	[41]	
+Ester, alcohol, acid, hydrocarbon	Gingko wine	PDMS /CAR	75	5.0 ml, wine	50/45	GC/MS	[43]	
+Monoterpene, aldehyde, alcohol	Vitis vinifera grapevine	DVB/CAR/PDMS	30; 50	5.0, grape berry	40/40	GC/MS	[45]	
+Metabolite	Fecal microbiota	PDMS/CAR	85	3.0, stool/urine	45/40	GC/MS	[82]	
+
+Biomedical Research
+								
+Chlorpromazine	Aqueous containing albumin	PA	30	0.2, solution	RT/420	LC/UV	[49]	
+Carbamazepine	Albumin or mouse plasma	C18		1.8 ml, plasma	RT/50	LC/NMR	[50]	
+Risperidone/9-OH risperidone	Cunninghamella fungal	C18	45	2.0 ml, supernatant	RT/30	LC/MS	[53]	
+
+Naturally-occurring Microorganisms
+								
+Acid, alcohol, aldehyde, ester	Vastedda-like cheese	DBV/CAR/PDMS		10.0, cheese	60/30	GC/MS	[54]	
+Metabolites	Stool sample	CAR/PDMS	85	3.0, feces	45/40	GC/MS	[56]	
+Pinene, caryophyllene	Tobacco	PDMS/DVB	65	6.0 ml, culture	25/30	GC/MS	[57]	
+VOCs: alcohol, heterocycle, etc.	Yoghurt	Carboxen/PDMS	75	3.0 ml, culture	RT/10	GC/NMR	[59]	
+
+Environmental Pollutants
+								
+MVOCs: methylpropanol, etc.	Indoor mold	DVB/CAR/PDMS	30; 50	Fresh culture	35/30	GC/MS	[60]	
+Alkylbenzene, tetralin, naphthalene	Seafood	PDMS; PDMS/DVB	65; 100	20.0, seafood	65/3	GC/MS	[63]	
+
+Sample for Medical Diagnosis
+								
+Penicillin binding protein 2a	PBP2a extraction solution	Immuno-SPME		25.0, extraction	RT/720	LC/MS	[20]	
+Biomarker library	
+Staphylococcus aureus
+	CW/DVB; CAR/PDMS	70;75	5.0 ml, culture	RT/10-480	GC/MS	[66]	
+Chlorpyrfos, sex hormone	CPS and hormone solution	PA-HF	400	Solution	42/30	LC/UV	[68]	
+Abbreviations: Apt-PANCMA-aptamer functionalized poly (acrylonitiile-co-maleic acid); CAR-Carboxen; HLB-hydrophilic lipophilic balanced particles; MVOCs-microbial volatile organic compounds; PA-polyacrylate; PDMS-polydimethylsiloxane; RT-room tempreture; VOCs-volatile organic compounds.
+
+Table 2 Selected reports using the SPME technology in in vivo sample analysis
+
+	Study subject	Fiber coating	Thickness (μm)	Sample (g), part	Condition
+(°C/min)	Analytical
+method	Ref.	
+
+Botanical
+								
+Hydrocarbon, aldehyde, furan, etc.	
+Ophrys sphegodes
+	DVB/CAR/PDMS	50; 30	Flowering plant	280/180	GC/MS	[69]	
+
+Food Science
+								
+Geosmin, 2-methyl isoborneol	Rainbow trout	PDMS	65	4.0, tissue	RT/30	GC/MS	[72]	
+Pesticide Residue	Tilapias, Pomfrets	PDMS	44; 165	Epaxial muscle	RT/10,20	GC/LC/MS	[73]	
+Precursor of sesquiterpene	
+Vitis vinifera
+	PA	85	1×10−4 , precursor	60/10	GC/MS	[75]	
+Monoterpene, ester, alcohol	Moscatel sparkling wine	PDMS/DVB	65	2.0 ml, wine	40/10	GC/GC/MS	[76]	
+
+Pharmacy Research &amp; Development
+								
+Methoxy fenoterol/fenoterol	Rat	C18/Cyanopropyl		Organ	RT /4	LC/MS	[77]	
+Drug residues	Rainbow trout	PDMS	330	Organ	RT /10	LC/MS	[78]	
+Mefenamic acid/fluoxetine	Fish	PS@PDA-GA	100	Organ	RT /10	LC/MS	[79]	
+
+Microorganisms in the Body
+								
+Propionic / butyric acid	H. pylori reference strain	CW/DVB		25.0 ml, fresh culture	37/5	GC/MS	[81]	
+
+Analysis of Environmental Pollutants
+								
+Fluoxetine, venlafaxine, sertraline, etc.	Rainbow trout, Fathead minnow	C18	45	Epaxial muscle	RT/1440	LC/MS	[83]	
+(+)-Δ3-carene metabolite	
+Spodoptera litura
+	DVB/CAR/PDMS	50; 30	0.5, larvae	25/30	GC/MS	[84]	
+Pentachloro cyclohexene	
+Hymeniacidon perlevis
+	PDMS	100	15.0, seawater	50/30	GC/MS	[85]	
+Methyl tert-butyl ether	
+Phragmites australis
+	CAR/PDMS	85	Plant sampling	RT/120	GC/MS	[86]	
+
+Disease Diagnosis
+								
+Endogenous steroid	Human saliva	PDMS/HLB/C18	65	1.0 ml, saliva	RT/5	GC/MS	[7]	
+Thrombin	Human plasma	Apt-PANCMA		2.0 ml, plasma	RT/60	LC/MS	[19]	
+VOCs	Human exhaled breath	CAR/PDMS	75	100.0 ml, EB	RT/10	GC/MS	[87]	
+DMSO, AMS, allyl-mercaptan	Skin	PDMS	254	Skin	40/60	GC/MS	[88]	
+Methylprednisolone	Male Yorkshire pig	C18/BA	45	Organ	RT/20,30	LC/MS	[89]	
+Captan and its metabolites	Human viscera content	PDMS	100	1.0 ml, blood/GI	40/20	GC/MS	[90]	
+Abbreviations: Apt-PANCMA-aptamer functionalized poly (acrylonitiile-co-maleic acid); BA-benzenesulfonic acid; CAR-Carboxen; EB-exhaled breath; HLB-hydrophilic lipophilic balanced particles; MVOCs-microbial volatile organic compounds; PA-polyacrylate; PDMS-polydimethylsiloxane; RT-room tempreture; VOCs-volatile organic compounds.
+
+
+   References
+[1] 
+            Lord HL  
+            Zhang X  
+            Musteata FM  
+            Vuckovic D  
+            Pawliszyn J  
+           In vivo solid-phase microextraction for monitoring intravenous concentrations of drugs and metabolites Nat. Protoc 2011 6 896 924 21637206 
+[2] 
+            Wulfkuhle JD  
+            Liatta LA  
+            Petricoin EF  
+           Proteomic applications for the early detection of cancer Nat. Rev. Cancer 2003 3 267 275 12671665 
+[3] 
+            Abaffy T  
+            Duncan R  
+            Riemer DD  
+            Tietje O  
+            Elgart G  
+            Milikowski C  
+             
+           Differential volatile signatures from skin, naevi and melanoma: a novel approach to detect a pathological process BMC Bioinformatics 2015 16 158 170 25971258 
+[4] 
+            Vas G  
+            Vékey K  
+           Solid-phase microextraction: a powerful sample preparation tool prior to mass spectrometric analysis J. Mass Spectrom 2004 39 233 254 15039931 
+[5] 
+            Attari SG  
+            Bahrami A  
+            Shahna FG  
+            Heidari M  
+           Solid-phase microextraction fiber development for sampling and analysis of volatile organohalogen compounds in air JEHSE 2014 12 123 131 25279223 
+[6] 
+            Vuckovic D  
+            de Lannoy I  
+            Gien B  
+            Yang Y  
+            Musteata FM  
+            Shirey R  
+             
+           In vivo solid-phase microextraction for single rodent pharmacokinetics studies of carbamazepine and carbamazepine-10,11-epoxide in mice J. Chromatogr. A 2011 1218 3367 3375 20723905 
+[7] 
+            Bessonneau V  
+            Boyaci E  
+            Maciazek-Jurczyk M  
+            Pawliszyn J  
+           In vivo solid phase microextraction sampling of human saliva for non-invasive and on-site monitoring Anal. Chim. Acta 2015 856 35 45 25542356 
+[8] 
+            Pereira J  
+            Silva CL  
+            Perestrelo R  
+            Gonçalves J  
+            Alves V  
+            Câmara JS  
+           Re-exploring the high-throughput potential of microextraction techniques, SPME and MEPS, as powerful strategies for medical diagnostic purposes. Innovative approaches, recent applications and future trends Anal. Bioanal. Chem 2014 406 2101 2122 24442008 
+[9] 
+            Zhang X  
+            Oakes KD  
+            Wang S  
+            Servos MR  
+            Cui S  
+            Pawliszyn J  
+           In vivo sampling of environmental organic contaminants in fish by solid-phase microextraction Trends Anal. Chem 2012 32 31 39 
+[10] 
+            Żwir-Ferenc A  
+            Biziuk M  
+           Solid phase extraction technique - Trends, opportunities and applications Polish J. Environ. Stud 2006 5 677 690 
+[11] 
+            Ekström S  
+            Wallman L  
+            Hök D  
+            Marko-Varga G  
+            Laurell T  
+           Miniaturized solid-phase extraction and sample preparation for MALDI MS using a microfabricated integrated selective enrichment target J. Proteome. Res 2006 5 1071 1081 16674096 
+[12] 
+            Arthur CL  
+            Pawliszyn J  
+           Solid phase microextraction with thermal desorption using fused silica optical fibers Anal. Chem 1990 62 2145 2148 
+[13] 
+            Belardi R  
+            Pawliszyn J  
+           The application of chemically modified fused silica fibres in the extraction of organics from water matrix samples and their rapid transfer to capillary columns Water Pollut. Res. J. Can 1989 24 179 
+[14] 
+            Kataoka H  
+            Lord HL  
+            Pawliszyn J  
+           Applications of solid-phase microextraction in food analysis J. Chromatogr. A 2000 880 35 62 10890509 
+[15] 
+            Pawliszyn J  
+           
+            Pawliszyn J  
+           SPME commercial devices and fibre coatings Handbook of Solid Phase Microextraction 2009 Chemical Industry Press 
+[16] 
+            Hinshaw JV  
+            Serveron C  
+           Solid-Phase Microextraction, LC·GC 12 2003 2 5 GC Connections Europe 
+[17] 
+            Hook GL  
+            Kimm GL  
+            Hall T  
+            Smith PA  
+           Solid-phase microextraction (SPME) for rapid field sampling and analysis by gas chromatography-mass spectrometry (GC-MS) Trends Anal. Chem 2002 21 534 543 
+[18] 
+            Tong Y  
+            Bohm S  
+            Song M  
+           Graphene based materials and their composites as coatings Austin J. Nanomed Nanotechnol 2013 1 01 16 
+[19] 
+            Du F  
+            Alam MN  
+            Pawliszyn J  
+           Aptamer-functionalized solid phase microextraction-liquid chromatography/tandem mass spectrometry for selective enrichment and determination of thrombin Anal. Chim. Acta 2014 845 45 52 25201271 
+[20] 
+            Liu Y  
+            Lord H  
+            Jurczyk MM  
+            Jolly S  
+            Hussain MA  
+            Pawliszyn J  
+           Development of an immunoaffinity solid phase microextraction method for the identification of penicillin binding protein 2a J. Chromatogr. A 2014 1364 64 73 25182856 
+[21] 
+            Pavlović DM  
+            Babić S  
+            Horvat AJM  
+            Kaštelan-Macan M  
+           Sample preparation in analysis of pharmaceuticals Trends Anal. Chem 2007 26 1062 1075 
+[22] 
+            Stephen JT  
+           Comparison and Integration of Analytical Methods for the Characterization of Vanilla Chemistry, Proquest 2012 86 92 Umi Dissertation Publishing 
+[23] 
+            Mohammad MM  
+            Rana S  
+            Fatma B  
+            Mohamed AR  
+           Solid phase microextraction and related techniques for drugs in biological samples J. Anal. Methods Chem 2014 2014 1 24 
+[24] 
+            Lao YM  
+            Jiang JG  
+            Yan L  
+           Application of metabonomic analytical techniques in the modernization and toxicology research of traditional Chinese medicine Br. J. Pharmacol 2009 157 1128 1141 19508399 
+[25] 
+            Wang C  
+            Li P  
+            Lian A  
+            Sun B  
+            Wang X  
+            Guo L  
+             
+           Blood volatile compounds as biomarkers for colorectal cancer Cancer Biol. Ther 2014 15 200 206 24100612 
+[26] 
+            Caris JA  
+            Silva BJ  
+            Moisés EC  
+            Lanchote VL  
+            Queiroz ME  
+           Automated analysis of lidocaine and its metabolite in plasma by in-tube solid-phase microextraction coupled with LC-UV for pharmacokinetic study J. Sep. Sci 2012 35 734 741 22318808 
+[27] 
+            Vuckovic D  
+            Lannoy ID  
+            Gien B  
+            Shirey RE  
+            Sidisky LM  
+            Dutta S  
+             
+           In vivo solid-phase microextraction: capturing the elusive portion of metabolome Angew. Chem. Int. Ed. Engl 2011 50 5344 5348 21509917 
+[28] 
+            Bukvicki DR  
+            Tyagi AK  
+            Gottardi DG  
+            Veljic MM  
+            Jankovic SM  
+            Guerzoni ME  
+             
+           Assessment of the chemical composition and in vitro antimicrobial potential of extracts of the liverwort Scapaniaaspera  Nat. Prod. Commun 2013 8 1313 1316 24273874 
+[29] 
+            Phillips CA  
+            Gkatzionis K  
+            Laird K  
+            Score J  
+            Kant A  
+            Fielder MD  
+           Identification and quantification of the antimicrobial components of a citrus essential oil vapor Nat. Prod. Commun 2012 7 103 107 22428260 
+[30] 
+            Skalicka-Wozniak K  
+            Los R  
+            Glowniak K  
+            Malm A  
+           Volatile compounds in fruits of Peucedanum cervaria (Lap.) L Chem. Biodivers 2009 6 1087 1092 19623554 
+[31] 
+            Gioti EM  
+            Fiamegos YC  
+            Skalkos DC  
+            Stalikas CD  
+           Improved method for the in vitro assessment of antioxidant activity of botanical extracts by headspace solid-phase microextraction and gas chromatography-electron capture detection J. Chromatogr. A 2007 1152 150 155 17316667 
+[32] 
+            Santosa RP  
+            Mendes LS  
+            Silva BM  
+            de Pinho PG  
+            Valentão P  
+            Andrade PB  
+           Phytochemical profiles and inhibitory effect on free radical-induced human erythrocyte damage of Dracaena draco  leaf: a potential novel antioxidant agent Food Chem 2011 124 927 934 
+[33] 
+            Oliveira AP  
+            Silva LR  
+            Ferreres F  
+            de Guedes PP  
+            Valentão P  
+            Silva BM  
+             
+           Chemical assessment and in vitro antioxidant capacity of Ficus carica  Latex J. Agric. Food Chem 2010 58 3393 3398 20158255 
+[34] 
+            Durant AA  
+            Rodríguez C  
+            Herrera L  
+            Almanza A  
+            Santana AI  
+            Spadafora C  
+           Anti-malarial activity and HS-SPME-GC-MS chemical profiling of Plinia cerrocampanensis  leaf essential oil Malar J 2014 13 18 27 24410874 
+[35] 
+            Afifi FU  
+            Kasabri V  
+            Abu-Dahab R  
+            Abaza IM  
+           Chemical composition and in vitro studies of the essential oil and aqueous extract of Pelargonium graveolens  growing in Jordan for hypoglycaemic and hypolipidemic properties European J. Med. Plants 2014 4 220 233 
+[36] 
+            Pistelli L  
+            Noccioli C  
+            Angiolillo FD’  
+            Pistelli L  
+           Composition of volatile in micropropagated and field grown aromatic botanicals from Tuscany Islands Acta. Biochim. Pol 2013 60 43 50 23441303 
+[37] 
+            Passinho-Soares HC  
+            Meira PR  
+            David JP  
+            Mesquita PR  
+            do Vale AE  
+            de F  
+            Rodrigues M  
+           Volatile organic compounds obtained by in vitro callus cultivation of Plectranthus ornatus  Codd. (Lamiaceae) Molecules 2013 18 10320 10333 24064448 
+[38] 
+            Reale S  
+            Pace L  
+            D’Archivio AA  
+            De Angelis F  
+            Marcozzi G  
+           Volatiles fingerprint of Artemisia umbelliformis  subsp. eriantha by headspace-solid phase microextraction GC-MS Nat. Prod.Res 2014 28 61 66 23962361 
+[39] 
+            Affonso VR  
+            Bizzo HR  
+            Lage CLS  
+            Sato A  
+           Influence of growth regulators in biomass production and volatile profile of in vitro  botanicals of Thymus vulgaris  L. J. Agric. Food Chem 2009 57 6392 6395 19601670 
+[40] 
+            Pontes M  
+            Pereira J  
+            Câmara JS  
+           Dynamic headspace solid-phase microextraction combined with one-dimensional gas chromatography-mass spectrometry as a powerful tool to differentiate banana cultivars based on their volatile metabolite profile Food Chem 2012 134 2509 2520 23442718 
+[41] 
+            Tyagi AK  
+            Bukvicki D  
+            Gottardi D  
+            Tabanelli G  
+            Montanari C  
+            Malik A  
+             
+           Eucalyptus essential oil as a natural food preservative: in vivo  and in vitro  antiyeast potential Biomed. Res. Int 2014 2014 969143 25177704 
+[42] 
+            Dimitrellou D  
+            Kandylis P  
+            Kourkoutas Y  
+            Koutinas AA  
+            Kanellaki M  
+           Cheese production using Kefir culture entrapped in milk proteins Appl. Biochem. Biotechnol 2015 176 213 230 25809991 
+[43] 
+            Wang X  
+            Xie K  
+            Zhuang H  
+            Ye R  
+            Fang Z  
+            Feng T  
+           Volatile flavor compounds, total polyphenolic contents and antioxidant activities of a China gingko wine Food Chem 2015 182 41 46 25842306 
+[44] 
+            Mansour AB  
+            Gargouri B  
+            Flamini G  
+            Bouaziz M  
+           Effect of agricultural sites on differentiation between Chemlali and Neb Jmel olive oils J. Oleo. Sci 2015 64 381 392 25833451 
+[45] 
+            Gil M  
+            Bottini R  
+            Berli F  
+            Pontin M  
+            Silva MF  
+            Piccoli P  
+           Volatile organic compounds characterized from grapevine (Vitisvinifera  L. cv. Malbec) berries increase at pre-harvest and in response to UV-B radiation Phytochemistry 2013 96 148 157 24075072 
+[46] 
+            Terra L  
+            Lonzarich V  
+            Asquini E  
+            Navarini L  
+            Graziosi G  
+            Suggi Liverani F  
+             
+           Functional characterization of three Coffea arabica  L. monoterpene synthases: insights into the enzymatic machinery of coffee aroma Phytochemistry 2013 89 6 14 23398891 
+[47] 
+            Zhang X  
+            Oakes KD  
+            Hoque ME  
+            Luong D  
+            Taheri-Nia S  
+            Lee C  
+           Depth-profiling of environmental pharmaceuticals in biological tissue by solid-phase microextraction Anal. Chem 2012 84 6956 6962 22799574 
+[48] 
+            Broeders JJ  
+            Eijkeren JCV  
+            Blaauboer BJ  
+            Hermens JL  
+           Transport of chlorpromazine in the Caco-2 cell permeability assay: a kinetic study Chem. Res. Toxicol 2012 25 1442 1451 22702643 
+[49] 
+            Broeders JJ  
+            Blaauboer BJ  
+            Hermens JL  
+           Development of a negligible depletion-solid phase microextraction method to determine the free concentration of chlorpromazine in aqueous samples containing albumin J. Chromatogr. A 2011 1218 8529 8535 21993514 
+[50] 
+            Bojko B  
+            Vuckovic D  
+            Pawliszyn J  
+           Comparison of solid phase microextraction versus spectroscopic techniques for binding studies of carbamazepine J. Pharm. Biomed. Anal 2012 66 91 99 22480477 
+[51] 
+            Simões RA  
+            Bonato PS  
+            Mirnaghi FS  
+            Bojko B  
+            Pawliszyn J  
+           Bioanalytical method for in vitro  metabolism study of repaglinide using 96-blade thin-film solid-phase microextraction and LC-MS/MS Bioanalysis 2015 7 65 77 25558936 
+[52] 
+            Ruiz-Palomero C  
+            Soriano ML  
+            Valcárcel M  
+           β-Cyclodextrin decorated nanocellulose: a smart approach towards the selective fluorimetric determination of danofloxacin in milk samples Analyst 2015 140 3431 3438 25781312 
+[53] 
+            Bocato MZ  
+            Simões RA  
+            Calixto LA  
+            de Gaitani CM  
+            Pupo MT  
+            de Oliveira AR  
+           Solid phase microextraction and LC-MS/MS for the determination of paliperidone after stereoselective fungal biotransformation of risperidone Anal. Chim. Acta 2012 742 80 89 22884211 
+[54] 
+            Gaglio R  
+            Scatassa ML  
+            Cruciata M  
+            Miraglia V  
+            Corona O  
+            Di Gerlando R  
+           In vivo application and dynamics of lactic acid bacteria for the four-season production of Vastedda-like cheese Int. J. Food Microbiol 2014 177 37 48 24598514 
+[55] 
+            Settachaimongkon S  
+            van Valenberg HJ  
+            Winata V  
+            Wang X  
+            Nout MJ  
+            van Hooijdonk TC  
+             
+           Effect of sublethal preculturing on the survival of probiotics and metabolite formation in set-yoghurt Food Microbiol 2015 49 104 115 25846920 
+[56] 
+            Vitali B  
+            Ndagijimana M  
+            Maccaferri S  
+            Biagi E  
+            Guerzoni ME  
+            Brigidi P  
+           An in vitro evaluation of the effect of probiotics and prebiotics on the metabolic profile of human microbiota Anaerobe 2012 18 386 391 22579985 
+[57] 
+            Paul D  
+            Park KS  
+           Identification of volatiles produced by Cladosporium cladosporioides  CL-1, a fungal biocontrol agent that promotes botanical growth Sensors 2013 13 13969 13977 24135990 
+[58] 
+            He Z  
+            Lu ZM  
+            Xu HY  
+            Shi JS  
+            Xu ZH  
+           Analyze on volatile compounds of Antrodia camphorata  using HS-SPME-GC-MS Zhong Yao Cai 2011 34 1722 1725 22506397 
+[59] 
+            Settachaimongkon S  
+            Nout MJ  
+            Antunes-Fernandes EC  
+            Hettinga KA  
+            Vervoort JM  
+            van Hooijdonk TC  
+             
+           Influence of different proteolytic strains of Streptococcus thermophilus  in co-culture with Lactobacillus delbrueckii  subsp. bulgaricus  on the metabolite profile of set-yoghurt Int. J. Food Microbiol 2014 177 29 36 24598513 
+[60] 
+            van Lancker F  
+            Adams A  
+            Delmulle B  
+            de Saeger S  
+            Moretti A  
+            van Peteghem C  
+             
+           Use of headspace SPME-GC-MS for the analysis of the volatiles produced by indoor molds grown on different substrates J. Environ. Monit 2008 10 1127 1133 18843388 
+[61] 
+            Engler KN  
+            Lemley AT  
+           Development of an in vitro thin-film solid-phase microextraction method to determine the bioavailability of xenoestrogens in soil Environ. Toxicol. Chem 2013 32 1962 1968 23720405 
+[62] 
+            Comber MH  
+            Girling A  
+            den Haan KH  
+            Whale G  
+           Oil refinery experience with the assessment of refinery effluents and receiving waters using biologically-based methods Integr. Environ. Assess. Manag 2015 9999 1 13 
+[63] 
+            Bencsath FA  
+            Benner RA jr  
+            Abraham A  
+            Wang Y  
+            el Said KR  
+            Jester EL  
+             
+           Screening for petrochemical contamination in seafood by headspace solid-phase microextraction gas chromatography-mass spectrometry Anal. Bioanal. Chem 2015 407 4079 4090 25796529 
+[64] 
+            Bessonneau V  
+            Bojko B  
+            Azad A  
+            Keshavjee S  
+            Azad S  
+            Pawliszyn J  
+           Determination of bronchoalveolar lavage bile acids by solid phase microextraction liquid chromatography-tandem mass spectrometry in combination with metabolite profiling: comparison with enzymatic assay J. Chromatogr. A 2014 1367 33 38 25305784 
+[65] 
+            Natekar A  
+            Motok I  
+            Walasek P  
+            Rao C  
+            Clare-Fasullo G  
+            Koren G  
+           Cocaethylene as a biomarker to predict heavy alcohol exposure among cocaine users J. Popul. Ther. Clin. Pharmacol 2012 19 e466 472 23123412 
+[66] 
+            Jia B  
+            Sohnlein B  
+            Mortelmans K  
+            Coggiola M  
+            Oser H  
+           Distinguishing methicillin-resistant and sensitive Staphylococcus aureus  using volatile headspace metabolites IEEE Sensors J 2010 10 71 75 
+[67] 
+            Dixon E  
+            Clubb C  
+            Pittman S  
+            Ammann L  
+            Rasheed Z  
+            Kazmi N  
+             
+           Couch RD. Solid-phase microextraction and the human fecal VOC metabolome PLoS One 2011 6 e18471 21494609 
+[68] 
+            Farhadi K  
+            Tahmasebi R  
+            Biparva P  
+            Maleki R  
+           In vitro study of the binding between chlorpyrfos and sex hormones using headspace solid-phase microextraction combined with high-performance liquid chromatography: a new aspect of pesticides and breast cancer risk Hum. Exp. Toxicol 2015 34 819 827 25677505 
+[69] 
+            Manzo A  
+            Panseri S  
+            Vagge I  
+            Giorgi A  
+           Volatile fingerprint of Italian populations of orchids using solid phase microextraction and gas chromatography coupled with mass spectrometry Molecules 2014 19 7913 7936 24962394 
+[70] 
+            Risticevic S  
+            DeEll JR  
+            Pawliszyn J  
+           Solid phase microextraction coupled with comprehensive two-dimensional gas chromatography-time-of-flight mass spectrometry for high-resolution metabolite profiling in apples: implementation of structured separations for optimization of sample preparation procedure in complex samples J. Chromatogr. A 2012 1251 208 218 22771060 
+[71] 
+            Vidal NP  
+            Manzanos MJ  
+            Goicoechea E  
+            Guillén MD  
+           Farmed and wild sea bass (Dicentrarchus labrax ) volatile metabolites. A comparative study by SPME-GC/MS J. Sci. Food Agric 2015 7201 
+[72] 
+            Bai Z  
+            Pilote A  
+            Sarker PK  
+            Vandenberg G  
+            Pawliszyn J  
+           In vivo solid-phase microextraction with in vitro calibration: determination of off-flavor components in live fish Anal. Chem 2013 85 2328 2332 23330671 
+[73] 
+            Xu JQ  
+            Luo JP  
+            Ruan JW  
+            Zhu F  
+            Luan TG  
+            Liu H  
+             
+           In Vivo Tracing Uptake and Elimination of Organic Pesticides in Fish Muscle Environ. Sci. Technol 2014 48 8012 8020 24932803 
+[74] 
+            Giorgi A  
+            Manzo A  
+            Nanayakkara N. Nanayakkarawasam Masachchige Chandrika  
+            Giupponi L  
+            Cocucci M  
+            Panseri S  
+           Effect of biotic and abiotic stresses on volatile emission of Achillea collina  Becker ex Rchb Nat. Prod. Res 2015 29 1695 1672 25564988 
+[75] 
+            May B  
+            Lange BM  
+            Wüst M  
+           Biosynthesis of sesquiterpenes in grape berry exocarp of Vitisvinifera  L.: evidence for a transport of farnesyl diphosphate precursors from plastids to the cytosol Phytochemistry 2013 95 135 144 23954075 
+[76] 
+            Soares RD  
+            Welke JE  
+            Nicolli KP  
+            Zanus M  
+            Caramão EB  
+            Manfroi V  
+             
+           Monitoring the evolution of volatile compounds using gas chromatography during the stages of production of Moscatel sparkling wine Food Chem 2015 183 291 304 25863638 
+[77] 
+            Yeung JC  
+            de Lannoy I  
+            Gien B  
+            Vuckovic D  
+            Yang Y  
+            Bojko B  
+           Semi-automated in vivo solid-phase microextraction sampling and the diffusion-based interface calibration model to determine the pharmacokinetics of methox and fenoterol in rats Anal. Chim. Acta 2012 742 37 44 22884205 
+[78] 
+            Zhang X  
+            Oakes KD  
+            Cui S  
+            Bragg L  
+            Servos MR  
+            Pawliszyn J  
+           Tissue-specific in vivo  bioconcentration of pharmaceuticals in rainbow trout (Oncorhynchus mykiss ) using space-resolved solid-phase microextraction Environ. Sci. Technol 2010 44 3417 3422 20387810 
+[79] 
+            Xu J  
+            Huang S  
+            Wu R  
+            Jiang R  
+            Zhu F  
+            Wang J  
+             
+           Bioinspired polydopamine sheathed nanofibers for high-efficient in vivo solid-phase microextraction of pharmaceuticals in fish muscle Anal. Chem 2015 87 3453 3459 25711806 
+[80] 
+            Yu YX  
+            Sun XH  
+            Liu Y  
+            Pan YJ  
+            Zhao Y  
+           Odor fingerprinting of Listeria monocytogenes  recognized by SPME-GC-MS and E-nose Can. J. Microbiol 2014 61 367 372 25847596 
+[81] 
+            Ferreira JA  
+            Dias E  
+            Rocha SM  
+            Coimbra MA  
+           Process for detecting Helicobacter pylori  using aliphatic amides Anal. Bioanal. Chem 2011 401 1889 1898 21822779 
+[82] 
+            Saa DT  
+            Turroni S  
+            Serrazanetti DI  
+            Rampelli S  
+            Maccaferri S  
+            Candela M  
+             
+           Impact of Kamut Khorasan on gut microbiota and metabolome in healthy volunteers Food Res. Int 2014 63 227 232 
+[83] 
+            Togunde OP  
+            Lord H  
+            Oakes KD  
+            Servos MR  
+            Pawliszyn J  
+           Development and evaluation of a new in vivo solid-phase microextraction sampler J. Sep. Sci 2013 36 219 223 23255404 
+[84] 
+            Miyazawa M  
+            Koutari S  
+           Quantitative evaluation of (+)-Δ3 -carene metabolites from living larvae of Spodoptera litura  by headspace solid-phase microextraction J. Oleo Sci 2012 61 65 68 22277889 
+[85] 
+            Aresta A  
+            Nonnis Marzano C  
+            Lopane C  
+            Corriero G  
+            Longo C  
+            Zambonin C  
+             
+           Analytical investigations on the lindane bioremediation capability of the demosponge Hymeniacidon perlevis  Mar. Pollut. Bull 2015 90 143 149 25467876 
+[86] 
+            Reiche N  
+            Mothes F  
+            Fiedler P  
+            Borsdorf HA  
+           solid-phase microextraction method for the in vivo  sampling of MTBE in common reed (Phragmites australis ) Environ. Monit. Assess 2013 185 7133 7144 23329197 
+[87] 
+            Kramer R  
+            Sauer-Heilborn A  
+            Welte T  
+            Guzman CA  
+            Höfle MG  
+            Abraham WR  
+           A rapid method for breath analysis in cystic fibrosis patients Eur. J. Clin. Microbiol. Infect. Dis 2015 34 745 751 25431363 
+[88] 
+            Jiang R  
+            Cudjoe E  
+            Bojko B  
+            Abaffy T  
+            Pawliszyn J  
+           A non-invasive method for in vivo skin volatile compounds sampling Anal. Chim. Acta 2013 804 111 119 24267071 
+[89] 
+            Bojko B  
+            Gorynski K  
+            Gomez-Rios GA  
+            Knaak JM  
+            Machuca T  
+            Cudjoe E  
+             
+           Low invasive in vivo tissue sampling for monitoring biomarkers and drugs during surgery Lab. Invest 2014 94 586 594 24687119 
+[90] 
+            Gottzein AK  
+            Musshoff F  
+            Madea B  
+           Systematic toxicological analysis revealing a rare case of captan ingestion J. Forensic.Sci 2013 58 1099 1103 23692481 
+[91] 
+            Silva C  
+            Cavaco C  
+            Perestrelo R  
+            Pereira J  
+            Câmara JS  
+           Microextraction by packed sorbent (MEPS) and solid-phase microextraction (SPME) as sample preparation procedures for the metabolomic profiling of urine Metabolites 2014 4 71 97 24958388 
+

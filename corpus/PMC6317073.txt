@@ -1,0 +1,208 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   10112012132148Foodborne Pathog DisFoodborne Pathog. Dis.Foodborne pathogens and disease1535-31411556-712528926300631707310.1089/fpd.2017.2324HHSPA1003613ArticleAn Updated Scheme for Categorizing Foods Implicated in Foodborne Disease Outbreaks: A Tri-Agency Collaboration Richardson LaTonia Clay 1Bazaco Michael C. 2Parker Cary Chen 2Dewey-Mattia Daniel 1Golden Neal 3Jones Karen 4Klontz Karl 2Travis Curtis 3Kufel Joanna Zablotsky 3Cole Dana 51 U.S. Department of Health and Human Services, Centers for Disease Control and Prevention (CDC), Division of Foodborne, Water-borne, and Environmental Diseases, Atlanta, Georgia.2 U.S. Department of Health and Human Services, Food and Drug Administration (FDA), College Park, Maryland.3 U.S. Department of Agriculture, Food Safety and Inspection Service (USDA-FSIS), Washington, District of Columbia.4 Arnold School of Public Health, University of South Carolina, Columbia, South Carolina.5 U.S. Department of Agriculture, Animal and Plant Health Inspection Service, Fort Collins, Colorado.Address correspondence to: LaTonia Clay Richardson, PhD, U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Division of Foodborne, Waterborne, and Environmental Diseases, Mailstop C-09, 1600 Clifton Road, Atlanta, GA 30333, lcrichardson@cdc.gov27 12 2018 19 9 2017 12 2017 03 1 2019 14 12 701 710 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.Background:
+Foodborne disease data collected during outbreak investigations are used to estimate the percentage of foodborne illnesses attributable to specific food categories. Current food categories do not reflect whether or how the food has been processed and exclude many multiple-ingredient foods.
+
+Materials and Methods:
+Representatives from three federal agencies worked collaboratively in the Interagency Food Safety Analytics Collaboration (IFSAC) to develop a hierarchical scheme for categorizing foods implicated in outbreaks, which accounts for the type of processing and provides more specific food categories for regulatory purposes. IFSAC also developed standard assumptions for assigning foods to specific food categories, including some multiple-ingredient foods. The number and percentage of outbreaks assignable to each level of the hierarchy were summarized.
+
+Results:
+The IFSAC scheme is a five-level hierarchy for categorizing implicated foods with increasingly specific subcategories at each level, resulting in a total of 234 food categories. Subcategories allow distinguishing features of implicated foods to be reported, such as pasteurized versus unpasteurized fluid milk, shell eggs versus liquid egg products, ready-to-eat versus raw meats, and five different varieties of fruit categories. Twenty-four aggregate food categories contained a sufficient number of outbreaks for source attribution analyses. Among 9791 outbreaks reported from 1998 to 2014 with an identified food vehicle, 4607 (47%) were assignable to food categories using this scheme. Among these, 4218 (92%) were assigned to one of the 24 aggregate food categories, and 840 (18%) were assigned to the most specific category possible.
+
+Conclusions:
+Updates to the food categorization scheme and new methods for assigning implicated foods to specific food categories can help increase the number of outbreaks attributed to a single food category. The increased specificity of food categories in this scheme may help improve source attribution analyses, eventually leading to improved foodborne illness source attribution estimates and enhanced food safety and regulatory efforts.
+
+food categorizationfoodborneoutbreakIFSAC
+   Introduction
+State, local, and territorial health departments report foodborne disease outbreaks to the Centers for Disease Control and Prevention’s (CDC) Foodborne Disease Outbreak Surveillance System (FDOSS). Outbreak surveillance provides important insights into the agents, foods, and settings associated with foodborne illness. Public health, regulatory, and food industry professionals use this information to target prevention efforts. Nearly 2000 distinct foods have been implicated in foodborne disease outbreaks in the United States since electronic reporting of outbreaks began in 1998, complicating efforts to summarize this information (Painter et al., 2009). Categorizing implicated foods for analytical purposes improves the usefulness of outbreak surveillance data for federal agencies, industry, and consumers. One such approach for food categorization was the 17 mutually exclusive category scheme described by Painter et al. (2009).
+
+The Painter et al. (2009) scheme represented an important step forward in developing a systematic approach to categorizing foods implicated in outbreaks, but did not adequately partition foods into categories needed by two food safety regulatory agencies, U.S. Department of Agriculture’s Food Safety and Inspection Service (USDA-FSIS) and the U.S. Food and Drug Administration (FDA). To distinguish between USDA-FSIS and FDA-regulated foods, new processing subcategories for larger food categories were needed; for example, separate categories for shell eggs (FDA-regulated) and pasteurized egg products (USDA-regulated). In addition, fruits and nuts were previously combined within a Fruits–Nuts category, but separate categories were needed. The scheme also did not further classify Poultry foods into Chicken, Turkey, and Other Poultry categories useful for USDA-FSIS regulatory purposes. It also did not indicate the manner in which some foods are processed, prepared, or consumed (Painter et al., 2009).
+
+To address these limitations, the Interagency Food Safety Analytics Collaboration (IFSAC)—a tri-agency working group formed in 2011 by the CDC, USDA-FSIS, and FDA to improve coordination of federal food safety analytic efforts—refined the Painter et al. (2009) scheme to improve its usefulness for multiple types of analyses.
+
+Materials and Methods
+Data
+CDC defines a foodborne disease outbreak as two or more cases of a similar illness resulting from ingestion of a common food (National Notifiable Diseases Surveillance System, 2016). State, local, and territorial health departments report the results of outbreak investigations to FDOSS through a standard, internet-based form where information on implicated foods and ingredients is collected in two data fields: “implicated food” and “ingredient,” respectively. A third field, “contaminated ingredient,” indicates which, if any, ingredients were known to be contaminated. This information is used to assign each implicated food to a food category. In most instances, data are not available to determine if all of the reported foods in a given outbreak were confirmed to be the outbreak source or if some were confirmed while others were suspected. For many foodborne pathogens, it is unlikely that more than one food would be implicated as the source of an outbreak, but there are exceptions (e.g., some norovirus outbreaks involve contamination of more than one food).
+
+Tri-agency food categorization scheme
+IFSAC formed subject matter expert (SME) teams composed of statisticians/mathematicians, epidemiologists, public health analysts, microbiologists, and food policy analysts. Using the list of nearly 2000 implicated foods and ingredients in FDOSS, the teams conducted a series of informal expert elicitations to identify new food categories, consult on revisions to Painter et al. (2009) categories, and assign specific foods to a tri-agency hierarchical (multi-level) food categorization scheme. To facilitate consistency, SMEs evaluated the compatibility of the new food categories with those used by Painter et al. (2009), as well as those used internally by USDAFSIS and FDA. The teams also incorporated feedback from public meetings and interactions with stakeholders. For some levels of the hierarchy, an explicit “Other” category was added to capture federally regulated foods that did not fit within defined categories. In other cases, an implicit “Other” category was not shown on the hierarchy, recognizing that there may be other foods not captured by any existing categories.
+
+Standard method to assign foods to categories
+We assigned implicated foods in the FDOSS database to one food category if it contained a single ingredient (e.g., apple and salmon) or if all ingredients in the food belonged to a single food category (e.g., salsa containing cilantro, tomato, and onion, which all belong to the broader Produce food category). Implicated foods and ingredients that could be assigned to a single food category were referred to as “assignable” foods while foods that could not be assigned to a single food category were considered “unassignable” foods. There were two types of unassignable foods: (1) Multiple-Ingredient Foods, defined as foods with multiple ingredients belonging to more than one food category (e.g., pizza and chicken salad) and (2) Unclassifiable Foods, defined as foods with uncertain ingredients (e.g., “buffet” and “ethnic food”).
+
+Our goal was to assign foods to the most specific hierarchical level possible based on the information provided about the food or contaminated ingredient. Because many items in the “ingredient” data field contained multiple components (e.g., salsa and bread) and processing information was often unknown, the team developed a standard set of assumptions for assigning foods to the most specific category possible and for categorizing certain foods when information regarding processing, preparation, or consumption was not explicitly provided in the outbreak report. Based on these assumptions, food assignments were made to the most specific food category or processing subcategory possible. For example, meat–poultry foods with specific organs indicated, such as “liver and chicken,” were assumed to be “intact raw” forms of the broader meat food category, such as Intact Raw Chicken. Sausage with a specific type of meat listed (e.g., pork) was assigned to the Raw Otherwise Processed (Pork) food category. In many cases, the standard set of assumptions resulted in the assignment of some foods to broader, less-specific food categories. For example, “delicatessen meat” was assigned to the Meat–Poultry category when the species of meat was unknown. Many multiple-ingredient foods were also assignable based on assumptions about the constituent ingredients. For example, guacamole was assigned to the Produce food category based on the assumption that it only contains ingredients from both the Fruits and Vegetables categories.
+
+Process for assigning outbreak reports to a food category
+Decision rules were developed to assign foodborne outbreaks reported during 1998–2014 to a single food category or an unassignable food category based on the information in the “implicated food,” “ingredient,” and “contaminated ingredient” fields. The rules are graphically depicted in Figure 1, which describes the logical progression of considerations, with the contaminated food vehicle representing the highest-priority consideration.
+
+Data analysis
+We conducted descriptive analyses to summarize reported foodborne disease outbreaks using the IFSAC categorization scheme. For analytical purposes, we combined the categories of Multiple-Ingredient Foods, Multiple Foods Reported, Unclassifiable, and No Food Entered into an aggregate Un-assignable food category to group all outbreaks that could not be assigned to a single food category. We used SAS software (version 9.3; SAS Institute, Inc., Cary, NC) to generate summary tables depicting the number and percentage of outbreaks assignable to each hierarchical level of the IFSAC categorization scheme, stratified by 24 aggregate food categories containing a sufficient number of outbreaks to facilitate appropriate outbreak summary analyses. Hereafter, we refer to these 24 categories as the current analytical food categories (CAFCs).
+
+Results
+The IFSAC food categorization scheme consists of a five-level hierarchy for categorizing implicated foods (Fig. 2A–C). Like the Painter et al. (2009) scheme, aquatic, land animals, and plant foods are divided based on species. In addition, a new “Other” category captures items such as alcohol, coffee, other beverages, and condiments. In the IFSAC scheme, foods can now be assigned to 234 food categories representing five distinct levels of implicated food information (see Appendix Fig. 1 for food category examples). After differentiating into Aquatic Animals, Land Animals, or Plants, foods are further classified into increasingly specific animal (e.g., Fish, Dairy, and Beef) or botanical (e.g., Fruits, Fungi, and Root/Underground) food categories. Foods are then differentiated by food processing, preparation, and consumption type (e.g., ready-to-eat [RTE] meats and canned/containerized produce). All foods or ingredients with processing information included in the outbreak report are assigned to the appropriate subcategory. Compared to the Painter et al. (2009) scheme, the IFSAC scheme expanded the number of CAFCs from 17 to 24. Foods that could not be assigned to food categories using the Painter et al. (2009) scheme can now be assigned to 1 of 4 types of unassignable categories.
+
+A total of 18,203 foodborne disease outbreaks with 358,300 outbreak-associated illnesses were reported from 1998 to 2014 as of August 27, 2015. A food vehicle was identified in 9791 (54%) outbreaks. A total of 4607 outbreaks (25% of all outbreaks, 47% of outbreaks with a known food vehicle) were due to confirmed or suspected foods that could be assigned to one of the categories in the IFSAC scheme (Table 1). Nearly all assignable food outbreaks could be classified under the Aquatic Animals, Land Animals, or Plant groups, and &lt;1% fell under the Other major food category. A total of 13,596 (75%) outbreaks could not be assigned to one of the categories in the IFSAC scheme (i.e., unassignable food outbreaks). Most of the unassignable outbreaks (46% of all reported outbreaks) contained unknown food information.
+
+Among the 4218 outbreaks in the 24 CAFCs, a total of 1155 (27%) belonged to the Aquatic Animal group (Table 2); 261 (23%) of them contained sufficient information to further classify into the most specific Aquatic Animal subcategories of Bivalve and Non-bivalve Mollusks (Level 4).
+
+Land Animal foods were implicated in 1986 (47%) CAFC-assignable outbreaks; nearly half (41%) could be assigned to the lowest processing categories. For example, 74% of Dairy outbreaks could be assigned to either a Pasteurized or Unpasteurized processing subcategory. Unlike the Dairy food category, only 31% of outbreaks assigned to Eggs could be assigned to a pasteurization status (Level 3), leaving 69% of egg outbreaks unassignable to lower subcategories. Approximately 1% of Land Animal outbreaks were assigned to the new Other Meat (Sheep, goat, etc.) food category, and all of these outbreaks were assignable to a specific food variety (Level 4). Among the major meat and poultry food categories, only 19% of Pork outbreaks, 5% of Chicken outbreaks, and 14% of Turkey outbreaks could be assigned to Level 5. In contrast, 81% of Beef outbreaks could be assigned to Level 5.
+
+Plant foods were implicated in 912 (22%) CAFC-assignable outbreaks. Although nearly all Grains–Beans outbreaks could be assigned to a major food subtype (90% assignable to Level 3), there was only adequate information to assign 1% of these outbreaks to the processing sub-categories (whole versus ground). The Nuts–Seeds and Fungi subcategories similarly included a small number of outbreaks, with 33% of Nuts–Seeds outbreaks and fewer than 1% of Fungi outbreaks assignable to Level 5. Although many outbreaks could be assigned to different types of fruit (e.g., Melons, Stone fruit), no additional information was available to further classify the fruits into more specific processing subcategories (e.g., Dried, Frozen, Raw, or Canned). There was also limited processing information for the outbreaks associated with Vegetable Row Crops, with 3% of these outbreaks assignable to Level 5. However, 62% of outbreaks assigned to Herbs, 3% to Root/Underground, and &lt;1% Seeded Vegetables could be assigned to Level 5.
+
+Discussion
+IFSAC developed an updated food categorization scheme that allows more specific delineation of the foods that cause outbreaks in the United States. The IFSAC scheme represents an expansion of the Painter et al. (2009) 17-category scheme previously used by CDC for outbreak surveillance and attribution efforts, yet remains compatible with the food categories used in previous publications (Batz et al., 2012; DeWaal and Glassman, 2013). It also closely aligns with the food product definitions used by FDA and USDA-FSIS for regulatory efforts and interventions. This updated scheme was officially introduced to stakeholders in a 2013 webinar (Interagency Food Safety Analytics Collaboration, 2013) hosted by IFSAC and is now officially implemented in FDOSS, as reflected in recent foodborne disease outbreak surveillance summaries (CDC, 2016, 2017). The IFSAC scheme is also adopted in other IFSAC projects, including a tri-agency effort to estimate foodborne illness source attribution for illnesses caused by Salmonella, Escherichia coli O157:H7, Listeria monocytogenes, and Campylobacter (IFSAC Project Report, 2015).
+
+The IFSAC scheme also allows characterization of processing status for foods implicated in outbreaks. For example, new categories for pasteurized and unpasteurized fluid milk help distinguish raw milk outbreaks from other dairy outbreaks. This has become increasingly important, as unpasteurized milk has been implicated in a number of dairy outbreaks (Oliver et al., 2009; Langer et al., 2012), and this number has increased in recent years (Mungai et al., 2015). As another example, 81% of outbreaks assigned to the Beef food category using the Painter et al. (2009) categorization scheme can now be assigned to more specific processing subcategories, which may help to characterize outbreaks associated with various beef subcategories over time (Laufer et al., 2015). Similarly, the ability to distinguish between different types of fruit may help to characterize outbreaks associated with various fruit subcategories over time. For example, a recent study found that melon-associated outbreaks increased from 0.5 outbreaks per year during 1973–1991 to 1.3 outbreaks per year during 1992–2011 (Walsh et al., 2014). Data at the subcategory levels could inform future decisions about the categorization scheme level most appropriate for outbreak surveillance summaries, foodborne illness source attribution studies, and other analyses.
+
+The IFSAC scheme also provides new opportunities to capture more detailed processing information to help inform prevention efforts. For example, information about whether or not shell eggs were consumed as shell eggs or as pasteurized egg products is currently not available in the outbreak data, but such information could help to quantify the effect of policies and regulations on the number of outbreaks due to shell eggs, such as anticipated decreased numbers following voluntary egg safety guidelines and, more recently, national egg safety regulations (Mumma et al., 2004; Braden and Tauxe, 2013; Wright et al., 2016). Capturing more detailed processing information could also help determine if certain food types or processing methods require different prevention efforts than others.
+
+In addition to the limitations associated with the outbreak data used to develop this scheme, which are well documented in the scientific literature (Gould et al., 2013; CDC, 2016, 2017), there are also limitations with the categorization scheme itself. First, as the number of categories increase, each category may have fewer outbreaks, which limits the sample size for any subcategory analyses. Removing or aggregating categories with only a few foods assigned to them—such as Sprouts and Fungi—can result in a more even distribution of foods assigned to each food category, but a loss of specificity. Consequently, differential specificity in food categories could lead to inconsistent granularity in attribution analyses. Thus, the 24 CAFCs may be useful in providing a coarse set of food categories to aid in attribution and other outbreak summary analyses.
+
+Another limitation of the IFSAC scheme is that some of the new subcategories contain multiple ingredients that would prevent assignment to a single animal or botanical food category (e.g., RTE Fully-Cooked Pork Spreads/Pate subcategory under Pork and the Biscuits, Cookies, and Wafers subcategory under Grains). However, foods are assigned to these categories only when specific information regarding both the contaminated ingredients and processing is available. For example, an outbreak associated with contaminated flour in raw cookie dough would be assigned to Dough, a subcategory under Grains.
+
+Finally, the new food categories may not consistently reflect their epidemiological, regulatory, or botanical importance. Although the regulatory authority for the foods was a high priority when developing the scheme, knowledge of food production practices and botanical relatedness of foods was also important in fine-tuning these categories. The IFSAC scheme does not provide an all-inclusive categorization of every possible food implicated in foodborne outbreaks. Moreover, not all food categories shown in Figures 2A–C have been linked to outbreaks, but may, however, be linked to future outbreaks.
+
+Conclusions
+The IFSAC food categorization scheme reflects an important step forward in better characterizing foodborne outbreaks and should improve the usefulness of categorized outbreak data, while also ensuring hierarchical collapsibility of the categories for multiple types of analyses. These new categories and the methods for applying them will likely allow public health, regulatory, and food industry professionals to better target food safety and source attribution efforts. The incorporation of new processing categories and the collapsibility of the scheme allows for the systematic capture of this information. Furthermore, the standard set of assumptions developed for assigning outbreaks to the most specific category possible and classifying certain multiple-ingredient foods to a single food category allows for this scheme to be adaptable and reproducible as new food vehicles are implicated in outbreaks. Finally, this work demonstrates how a partnership like IFSAC can effectively advance methods and approaches related to important foodborne illness issues, ultimately leading to improved food safety and regulatory efforts.
+
+Acknowledgments
+The authors thank additional IFSAC members for their feedback on the methods and analyses and for their suggested revisions to multiple iterations of this report. The authors also thank the National Outbreak Reporting System Team for their guidance in the management and interpretation of the FDOSS data. Finally, the authors thank the state, local, tribal, and territorial health departments who submit foodborne disease outbreak data to FDOSS, as the findings in this study are based, in part, on their contributions. The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention, U.S. Food and Drug Administration, or U.S. Department of Agriculture, Food Safety and Inspection Service.
+
+Disclosure Statement
+
+No competing financial interests exist.
+
+APPENDIX FIG. 1.
+IFSAC food glossary with examples of foods for each food category. Foods are assigned to one of four food groups: aquatic animals, land animals, plants, and other. Food groups include increasingly specific food categories.
+
+FIG. 1. Decision Rules for Assigning Outbreaks to Food Categories. *If multiple contaminated ingredients or multiple implicated foods are assigned to different subcategories within the same overarching category, then the outbreak is assigned to the highest common category (e.g., if implicated foods are assigned to Melons and Tropical Fruit, then the outbreak is assigned to Fruits).
+
+FIG. 2. IFSAC Food Categorization Scheme. (A) Aquatic Animal and Land Animal Categories. (B) Oils–Sugars, Fruits, and Vegetable Categories. (C) Grains–Beans and Nuts–Seeds Categories. Green boxes show current analytical food categories, that is, categories which contain a sufficient number of outbreaks to facilitate appropriate outbreak summary analyses and correspond to the Painter et al. (2009) categories in most instances. **All levels include an “Other” category in which to place foods. Some of these “Other” categories are explicitly included in the new scheme because of their regulatory importance. IFSAC, Interagency Food Safety Analytics Collaboration.
+
+Table 1. Assignable and Unassignable Outbreaks by Major Food Groups, 1998–2014 (N = 18,203)
+
+	
+              Outbreaks
+            	
+
+              Food category
+            	N	%	
+Total	18,203	100.0	
+Assignable to food hierarchy	4607	25.3	
+ Aquatic animals	1189	6.5	
+ Land animals	2174	11.9	
+ Plants	1079	5.9	
+ Othera	165	0.9	
+Unassignable to food hierarchy	13,596	74.7	
+ Multiple-Ingredient Food	3740	20.5	
+ Multiple Foods Reportedb	1023	5.6	
+ Unclassifiablec	421	2.3	
+ No food entered	8412	46.2	
+a Other outbreaks are those with implicated foods such as alcohol, coffee, other beverages, and condiments.
+
+b “Multiple Foods Reported” outbreaks are those with more than one food reported and with the reported items belonging to different food categories.
+
+c Unclassifiable outbreaks are those with ill-defined foods implicated (e.g., buffet, appetizer).
+
+Table 2. Frequency and Percentage of Outbreaks Assignable to Each Level of the Interagency Food Safety Analytics Collaboration Food Categorization Scheme, by Current Analytical Food Category, 1998–2014 (N = 4218)
+
+		
+              Assignable to level 1: major food group
+            	
+              Assignable to level 2: major food type
+            	
+              Assignable to level 3: major food subtype
+            	
+              Assignable to level 4: specific food subtype
+            	
+              Assignable to level 5: specific processing, preparation, or consumption type
+            	
+CAFCc	
+              Total outbreaks
+            	N	
+              %
+            	N	
+              %
+            	N	
+              %
+            	N	
+              %
+            	N	
+              %
+            	
+Aquatic animals	1155	1155	100.0	1155	100.0	907	78.5	261	22.6			
+ Fish	794	794	100.0	794	100.0	551	69.4					
+ Crustaceans	95	95	100.0	95	100.0	95	100.0					
+ Mollusks	261	261	100.0	261	100.0	261	100.0	261	100.0			
+ Other aquatic animals	5	5	100.0	5	100.0							
+Land animals	1986	1986	100.0	1986	100.0	1834	92.3	1527	76.9	804	40.5	
+ Dairy	265	265	100.0	265	100.0	255	96.2			195	73.6	
+ Eggs	168	168	100.0	168	100.0	52	31.0			0	0.0	
+ Beef	630	630	100.0	630	100.0	630	100.0	630	100.0	510	81.0	
+ Game	26	26	100.0	26	100.0							
+ Pork	267	267	100.0	267	100.0	267	100.0	267	100.0	51	19.1	
+ Other meata	13	13	100.0	13	100.0	13	100.0	13	100.0	1	7.7	
+ Other poultry	8	8	100.0	8	100.0	8	100.0	8	100.0	2	25.0	
+ Turkey	175	175	100.0	175	100.0	175	100.0	175	100.0	25	14.3	
+ Chicken	434	434	100.0	434	100.0	434	100.0	434	100.0	20	4.6	
+Plant	912	912	100.0	912	100.0	886	97.1	655	71.8	36	3.9	
+ Grains-beans	155	155	100.0	155	100.0	140	90.3			1	0.6	
+ Oils-sugars	11	11	100.0	11	100.0							
+ Nuts-seeds	21	21	100.0	21	100.0	21	100.0			7	33.3	
+ Fruits	210	210	100.0	210	100.0	210	100.0	140	66.7	0	0.0	
+ Vegetable row crops	213	213	100.0	213	100.0	213	100.0	213	100.0	7	3.3	
+ Herbs	29	29	100.0	29	100.0	29	100.0	29	100.0	18	62.1	
+ Seeded vegetables	120	120	100.0	120	100.0	120	100.0	120	100.0	1	0.8	
+ Root/underground	72	72	100.0	72	100.0	72	100.0	72	100.0	2	2.8	
+ Sprouts	46	46	100.0	46	100.0	46	100.0	46	100.0			
+ Fungi	35	35	100.0	35	100.0	35	100.0	35	100.0	0	0.0	
+Other	165	165	100.0									
+Total	4218	4218	100.0	4053	96.1	3627	86.0	2443	57.9	840	19.0	
+Excludes outbreaks that were not assignable to one of the CAFCs (e.g., outbreaks assigned to “Produce”).
+
+a Other Meat includes items such as sheep and goat.
+
+b Merged (blank) cells represent levels that have no corresponding category.
+
+c CAFC, current analytical food category.
+
+
+   References
+Batz MB , Hoffmann S , Morris JG Jr. Ranking the disease burden of 14 pathogens in food sources in the United States using attribution data from outbreak investigations and expert elicitation . J Food Prot 
+2012 ;75 :1278 –1291 .22980012 
+Braden CR , Tauxe RV . Emerging trends in foodborne diseases .Infect Dis Clin North Am 
+2013 ;27 :517 –533 .24011828 
+Centers for Disease Control and Prevention (CDC) . Surveil-lance for Foodborne Disease Outbreaks, United States, 2014, Annual Report . Atlanta, GA : U.S. Department of Health and Human Services, CDC , 2016 .
+Centers for Disease Control and Prevention (CDC) . Surveil-lance for Foodborne Disease Outbreaks, United States, 2015, Annual Report . Atlanta, Georgia : US Department of Health and Human Services, CDC , 2017 .
+DeWaal CS , Glassman M . Outbreak Alert! 2001–2010: A Review of Foodborne Illness in America . Washington, DC : Center for Science in the Public Interest , 2013 .
+Gould LH , Walsh KA , Vieira AR , 
+Surveillance for Foodborne Disease Outbreaks—United States, 1998–2008 . MMWR 
+2013 ;62 (SS02 ):1 –34 .
+IFSAC Project Report. 
+Foodborne Illness Source Attribution Estimates for Salmonella, Escherichia coli O157 (E. coli O157), Listeria monocytogenes (Lm), and Campylobacter using Outbreak Surveillance Data . 2015 
+Accessed at : www.fsis.usda.gov/wps/wcm/connect/df7eebf6-911c-47c4-aee6-36b60ea04663/IFSAC-Project-Report-022415.pdf?MOD=AJPERES , accessed 
+September 29, 2016.
+Interagency Food Safety Analytics Collaboration (IFSAC) . Improving the Categories Used to Classify Foods Implicated in Outbreaks . 2013 
+Accessed at : www.cdc.gov/foodsafety/ifsac/events.html , accessed 
+July 10, 2017.
+Langer AJ , Ayers T , Grass J , Lynch M , Angulo FJ , Mahon BE . Nonpasteurized dairy products, disease outbreaks, and state laws—United States, 1993–2006 . Emerg Infect Dis 
+2012 ; 18 :385 –391 .22377202 
+Laufer AS , Grass J , Holt K , Whichard JM , Griffin PM , Gould LH . Outbreaks of Salmonella infections attributed to beef—United States, 1973–2011 . Epidemiol Infect 
+2015 ;143 :2003 –2013 .25427978 
+Mumma GA , Griffin PM , Meltzer MI , Braden CR , Tauxe RV . Egg quality assurance programs and egg-associated Salmonella Enteritidis infections, United States . Emerg Infect Dis 
+2004 ;10 :1782 –1789 .15504264 
+Mungai EA , Behravesh CB , Gould LH . Increased outbreaks associated with nonpasteurized milk, United States, 2007– 2012 . Emerg Infect Dis 
+2015 ;21 :119 –122 .25531403 
+National Notifiable Diseases Surveillance System (NNDSS) . Foodborne disease outbreak 2011 case definition . 2016 
+Available at : wwwn.cdc.gov/nndss/conditions/foodborne-disease-outbreak/case-definition/2011 , accessed 
+July 22, 2016.
+Oliver SP , Boor KJ , Murphy SC , Murinda SE . Food safety hazards associated with consumption of raw milk . Foodborne Pathog Dis 
+2009 ;6 :793 –806 .19737059 
+Painter JA , Ayers T , Woodruff R , Blanton E , Perez N , Hoekstra RM , Griffin PM , Braden C . Recipes for foodborne outbreaks: A scheme for categorizing and grouping implicated foods . Foodborne Pathog Dis 
+2009 ;6 :1259 –1264 .19968563 
+Walsh KA , Bennett SD , Mahovic M , Gould LH . Outbreaks associated with cantaloupe, watermelon, and honeydew in the United States, 1973–2011 . Foodborne Pathog Dis 
+2014 ;11 :945 –952 .25407556 
+Wright AP , Richardson L , Mahon BE , Rothenberg R , Cole DJ . The rise and decline in Salmonella enterica serovar Enteritidis outbreaks attributed to egg-containing foods in the United States, 1973–2009 . Epidemiol Infect 
+2016 ;144 :810 –819 .26289100 
+
