@@ -1,0 +1,964 @@
+EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+
+      Food Sci Nutr
+      Food Sci Nutr
+      10.1002/(ISSN)2048-7177
+      FSN3
+
+        Food Science &amp; Nutrition
+
+      2048-7177
+
+        John Wiley and Sons Inc.
+        Hoboken
+
+      32724578
+      7382206
+      10.1002/fsn3.1552
+      FSN31552
+
+          Original Research
+
+          Original Research
+
+        Methodology and application of PCR&#x2010;RFLP for species identification in tuna sashimi
+        YAO et al.
+
+            Yao
+            Lin
+
+1
+
+2
+
+            Lu
+            Jianping
+
+3
+
+            Qu
+            Meng
+
+1
+
+2
+
+            Jiang
+            Yanhua
+
+1
+
+2
+
+            Li
+            Fengling
+
+1
+
+2
+
+            Guo
+            Yingying
+
+1
+
+2
+
+            Wang
+            Lianzhu
+
+          https://orcid.org/0000-0002-6338-2339
+
+1
+
+2
+
+            lianzhu_wang@aliyun.com
+
+            Zhai
+            Yuxiu
+
+1
+
+2
+
+1
+Key Laboratory of Testing and Evaluation for Aquatic Product Safety and Quality
+Ministry of Agriculture and Rural Affairs
+Qingdao
+China
+
+2
+Yellow Sea Fisheries Research Institute
+Chinese Academy of Fishery Sciences
+Qingdao
+China
+
+3
+College of Food Science and Engineering
+Ocean University of China
+Qingdao
+China
+
+        *Correspondence
+Lianzhu Wang, Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences, Qingdao, Shandong Province 266071, China.
+Email: lianzhu_wang@aliyun.com
+
+        07
+        6
+        2020
+
+        7
+        2020
+
+      8
+      7
+      10.1002/fsn3.v8.7
+      3138
+      3146
+
+          12
+          8
+          2019
+
+          03
+          1
+          2020
+
+          22
+          1
+          2020
+
+        <!-- &#x000a9; 2020 Published by Wiley Periodicals, Inc. 
+        &#xA9; 2020 The Authors. Food Science &amp; Nutrition published by Wiley Periodicals, Inc.
+
+          This is an open access article under the terms of the http://creativecommons.org/licenses/by/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+
+        Abstract
+        The Thunnini, or tuna, comprise many species with very different commercial values. The principal raw tuna product on the market is sashimi, for which the species used is difficult to identify through conventional morphological analysis. The present study amplified the cytochrome b gene (Cytb) of 4 major tuna species used for preparing sashimi&#x2014;yellowfin tuna (Thunnus albacares), southern bluefin tuna (Thunnus maccoyii), bigeye tuna (Thunnus obesus), and Atlantic bluefin tuna (Thunnus thynnus)&#x2014;and 4 species commonly mislabeled as components of tuna sashimi&#x2014;albacore tuna (Thunnus alalunga), skipjack tuna (Katsuwonus pelamis), striped marlin (Tetrapturus audax), and swordfish (Xiphias gladius). Polymerase chain reaction (PCR) amplicons were digested with 5 restriction enzymes&#x2014;Eco147 I, Hinf I, Mbo I, Xag I, and Hind II&#x2014;to obtain characteristic restriction maps of the above&#x2010;mentioned raw tuna species and the commonly mislabeled species. An identification method using PCR restriction fragment length polymorphism (PCR&#x2010;RFLP) was established and validated using 39 commercial tuna sashimi samples, which verified that this method provides results consistent with those obtained by classical sequencing. PCR&#x2010;RFLP has several advantages over classical sequencing, such as simplicity, speed and accuracy. This technique could support species identification for raw tuna and sashimi.
+
+        Find out the restriction fragment length polymorphism in the Cyt b gene of most common kinds of tuna for sashimi preparation. Established a simply and accurate method for most common kinds of tuna identification. This method provides the technology needed to support the rapid identification of raw tuna species for quality inspections and scientific research.
+
+        Cyt b
+        PCR&#x2010;RFLP
+        sashimi
+        species identification
+        tuna
+
+          National Key Research and Development Program of China
+          2016YFF0201805
+
+          source-schema-version-number
+          2.0
+
+          cover-date
+          July 2020
+
+          details-of-publishers-convertor
+          Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.5 mode:remove_FC converted:25.07.2020
+
+Yao
+L
+, 
+Lu
+J
+, 
+Qu
+M
+, et al. Methodology and application of PCR&#x2010;RFLP for species identification in tuna sashimi. Food Sci Nutr. 2020;8:3138&#x2013;3146. 10.1002/fsn3.1552
+
+          Lin Yao and Jianping Lu contributed equally to this research and co&#x2010;first authors.
+
+      1
+
+INTRODUCTION
+
+      Tuna is one of the 3 major types of fish recommended by the International Union of Nutritional Sciences for its high nutritional value. The Thunnus and Katsuwonus genera, including the Atlantic bluefin tuna (Thunnus thynnus), southern bluefin tuna (Thunnus maccoyii), yellowfin tuna (Thunnus albacares), bigeye tuna (Thunnus obesus), albacore tuna (Thunnus alalunga), and skipjack tuna (Katsuwonus pelamis), are generally of great economic value (FAO, 2010). Atlantic and southern bluefin, yellowfin, and bigeye tuna are high&#x2010;end seafood products primarily sold in the form of sashimi and sushi (Kurokura, Takagi, Sakai, &amp; Yagi, 2012). These species account for more than half of all tuna production. The commercial value of different tuna species varies widely, leading to fraudulent seafood mislabeling in both domestic and international markets. For example, fresh striped marlin (Tetrapturus audax), swordfish (Xiphias gladius), and albacore tuna are often mislabeled, while yellowfin and bigeye tuna are mislabeled in sushi (Lowenstein, Amato, &amp; Kolokotronis, 2009). In addition, between 60% and 94% of the fish sold as red snapper in the United States are mislabeled (Marko et al., 2004). Seafood mislabeling circumvents consumer choice, which poses health risks, impacts the normal business order of the market, and undermines conservation strategies. Therefore, it is necessary to establish a method to identify the species of raw tuna used to produce sashimi.
+      Methods for species identification primarily include conventional morphological identification, protein&#x2010;based analysis, and molecular biology techniques based on PCR. Morphological identification relies on the specialist's knowledge of systematic taxonomy and long&#x2010;term experience, but it is difficult to differentiate similar species with close genetic relationships using this approach. Protein&#x2010;based analyses, exemplified by isozyme analysis and immunological analysis, still lack stability and specificity. Therefore, molecular biology techniques are currently more widely used for species identification in research (Aranishi, Okimoto, &amp; Izumi, 2005; Calo&#x2010;Mata et al., 2009). This includes random amplified polymorphic DNA (RAPD), amplified fragment length polymorphism (AFLP), and forensically informative nucleotide sequencing (FINS). However, these methods also exhibit some limitations, such as complex procedures, poor stability, and poor reproducibility (Chapela et al., 2007; Larra&#xED;n, D&#xED;az, Lamas, Uribe, &amp; Araneda, 2014; Rasmussen &amp; Morrissey, 2009). The polymerase chain reaction&#x2010;restriction fragment length polymorphism (PCR&#x2010;RFLP) technique, which was developed based on fingerprinting technology, is most widely used for species identification because of its simple procedure, low cost, and good reproducibility (Sivaraman et al., 2018; Wilwet, Jeyasekaran, Shakila, Sivaraman, &amp; Padmavathy, 2018). Moreover, it just needs PCR thermocycler and electrophoresis apparatus, which means most laboratories could bear the cost, that is also a realistic factor in most developing countries.
+      The present study investigated 4 major tuna species for sashimi preparation (yellowfin, southern and Atlantic bluefin, and bigeye tuna) and 4 commonly mislabeled species (albacore and skipjack tuna, striped marlin, and swordfish). A method for identifying raw tuna species was established using PCR amplification of the cytochrome b gene (Cytb) and restriction enzyme digestion, and was validated in commercial samples. This method provides a novel approach for the rapid and simple identification of raw tuna species.
+
+      2
+
+MATERIALS AND METHODS
+
+        2.1
+        Samples
+        Eight kinds of species samples including albacore tuna (cm), yellowfin tuna (hu), Atlantic bluefin tuna (lq), southern bluefin tuna (ms), bigeye tuna (dd), striped marlin (da), swordfish (ji), and skipjack tuna (jy) from main fishing ocean were collected by Shandong ZhongLu Oceanic Fisheries Co., Ltd. Each kind of species had 20 muscle samples from 20 individual fish, which were morphologically identified by expert. The 39 commercial sashimi products labeled as yellowfin tuna (Shu), southern bluefin tuna (Sms), bigeye tuna (Sdd), and Atlantic bluefin tuna (Slq) were purchased randomly from 4 major supermarkets and 4 sushi restaurants with different suppliers and batches in Qingdao, China.
+
+        2.2
+        Instruments and reagents
+        TIANGEN Marine Animal Tissue DNA Extraction Kit and 2&#xD7; Taq PCR MasterMix were purchased from TIANGEN BIOTECH Co., Ltd. The DNA marker was purchased from Solarbio Science &amp; Technology Co., Ltd. The restriction enzymes Eco147 I, Hinf I, Mbo I, Xag I, and Hind II were purchased from Takara Biomedical Technology Co., Ltd. Primer synthesis and sequencing were performed by Sangon Biotech Co., Ltd. The PCR machine used was the traditional T1 PCR instrument (Whatman Biometra). The gel imaging system used was INFINITY 3000 (Vilber Lourmat St&#xE9;). Spectrophotometer used was NanoPhotometer Pearl (Implen LLC, German).
+
+        2.3
+        DNA extraction
+        Thirty milligrams of fish flesh was cut into pieces and placed in a centrifuge tube. DNA extraction was performed according to the manufacturer's protocol. The DNA concentration and purity were measured using the NanoPhotometer Pearl. The samples were stored at &#x2212;20&#xB0;C.
+
+        2.4
+        PCR amplification of the Cytb gene
+        The primers used in this study were Cytb&#x2010;1:5'&#x2010;CCATCCAACATCTCAGCATGATGAAA&#x2010;3' and Cytb&#x2010;2:5'&#x2010;CCCTCAGAATGATATTTGTCCTCA&#x2010;3'. The length of the amplified fragment was approximately 350&#xA0;bp (Marko et al., 2004). The PCR system is shown in Table&#xA0;1.
+
+          Table 1
+
+            PCR system of Cyt b gene
+
+                Reagent
+                Concentration
+                Sampling volume
+
+                PCR MasterMix
+                2&#xD7;
+                25&#xA0;&#x3BC;l
+
+                Cyt b&#x2010;1
+                10.0&#xA0;&#x3BC;M
+                1.0&#xA0;&#x3BC;l
+
+                Cyt b&#x2010;2
+                10.0&#xA0;&#x3BC;M
+                1.0&#xA0;&#x3BC;l
+
+                DNA
+                ~100&#xA0;ng/&#x3BC;l
+                1.0&#xA0;&#x3BC;l
+
+                ddH2O
+                &#x2013;
+                22.0&#xA0;&#x3BC;l
+
+            John Wiley &amp; Sons, Ltd
+
+        Conditions for the PCR were as follows: pre&#x2010;denaturation at 95&#xB0;C for 10&#xA0;min; 35 cycles of 94&#xB0;C for 1&#xA0;min, 53&#xB0;C for 1&#xA0;min, 72&#xB0;C for 1&#xA0;min; and extension at 72&#xB0;C for 10&#xA0;min.
+        The PCR amplicons were subjected to electrophoresis on a 1.0% agarose gel at 120&#xA0;V for 40&#xA0;min. The experimental results were observed and recorded using a gel imaging system. The PCR amplicons were sequenced by Sangon Biotech Co., Ltd.
+
+        2.5
+        Sequence alignment and phylogenetic tree analysis
+        Following manual correction, the sequences of the 8 fish species were aligned using the Blast online tool (http://blast.ncbi.nlm.nih.gov/). The Cytb gene of yak (Bos grunniens; GeneBank: KM233416) was used as the out&#x2010;group, and the Cytb genes of 8 tuna species (Thunnus alalunga AB101291, Thunnus albacares JN086153, Thunnus maccoyii KF925362, Thunnus obesus GU256525, Thunnus thynnus KF906720, Katsuwonus pelamis AB101290, Thunnus tonggo HQ425780, and Thunnus atlanticus KM405517) and 2 deep&#x2010;sea fish species (Tetrapturus audax AB470302 and Xiphias gladius KR007752) were selected from the NCBI Web site as reference genes. A phylogenetic tree was constructed using the MEGA 7 software (https://www.megasoftware.net) with 1,000 bootstrap replicates. The Kimura 2&#x2010;parameter was used for modeling, and neighbor&#x2010;joining was used to construct the phylogenetic tree.
+
+        2.6
+        Restriction enzyme analysis
+        The cleavage sites of the Cytb PCR amplicons were analyzed using DNAMAN (https://www.lynnon.com). Five species&#x2010;specific restriction enzymes were selected and used to digest the PCR amplicons of the Cytb gene: Eco147 I, Hinf I, Mbo I, Xag I, and Hind II (for identification of samples dd and jy only).
+        The PCR amplicons (10.0&#xA0;&#x3BC;l) were mixed with 1.0&#xA0;&#x3BC;l of the respective restriction enzymes, 2.0&#xA0;&#x3BC;l of 10&#xD7; FastDigest&#xAE;Buffer, and 17.0&#xA0;&#x3BC;l of deionized water. After enzyme digestion at 37&#xB0;C for 60&#xA0;min, the results were analyzed using agarose gel electrophoresis on a 3.0% gel.
+
+      3
+
+RESULTS
+
+        3.1
+        PCR amplification
+        A single fragment was amplified from each experimental sample. No fragment length polymorphism was detected. All fragments had a length of 357&#xA0;bp (Figure&#xA0;1), as expected.
+
+          Figure 1
+
+            Electrophoresis of Cyt b gene PCR products in eight species of fish
+
+        3.2
+        Sequence alignment and phylogenetic tree analysis
+        The sequencing products were aligned against the GenBank database to determine the Cytb region in the mitochondrial DNA (mtDNA). The phylogenetic tree constructed based on the Cytb gene of the 8 fish species is shown in Figure&#xA0;2. Each of the following sample/species pairs clustered together in a single branch: the southern bluefin tuna sample (ms) and Thunnus maccoyii; the Atlantic bluefin tuna sample (lq) and Thunnus thynnus; the bigeye tuna sample (dd) and Thunnus obesus; the yellowfin tuna sample (hu) and Thunnus albacares; the albacore tuna sample (cm) and Thunnus alalunga; the skipjack tuna (jy) and Katsuwonus pelamis; the striped marlin sample (da) and Tetrapturus audax; and the swordfish sample (ji) and Xiphias gladius. The phylogenetic analysis shows that the result of molecular identifies was in accordance with the morphological identification completely, confirming the authenticity of 8 species samples used in this study.
+
+          Figure 2
+
+            Eight species of fish Cyt b gene phylogenetic tree
+
+        3.3
+        Results and analysis of enzymatic digestion of the PCR amplicons
+
+          3.3.1
+          Albacore tuna (Thunnus alalunga)
+          The Cytb PCR amplicon of albacore tuna was digested by Eco147 I into 2 bands of 233&#x2010; and 124&#x2010;bp lengths, and by Hinf I into 3 bands of 109&#x2010;, 52&#x2010;, and 196&#x2010;bp lengths. There were no restriction sites for Mbo I and Xag I in the Cytb PCR amplicon of albacore tuna; hence, a single band of 357&#x2010;bp length was obtained upon digestion by these enzymes. The enzyme digestion results for albacore tuna are shown in Figure&#xA0;3 and are consistent with the predictions made using the DNAMAN software.
+
+            Figure 3
+
+              Enzyme digestion result of Cyt b gene PCR product in T.&#xA0;alalunga
+
+          3.3.2
+          Yellowfin tuna (Thunnus albacare)
+          The Cytb PCR amplicon of yellowfin tuna was digested by Hinf I into 3 bands of 109&#x2010;, 52&#x2010;, and 96&#x2010;bp lengths, and by Xag I into 2 bands of 101&#x2010; and 256&#x2010;bp lengths. There were no restriction sites for Eco147 I and Mbo I in the Cytb PCR amplicon of yellowfin tuna; hence, a single band of 357&#x2010;bp length was obtained upon digestion by these enzymes. The enzyme digestion results for yellowfin tuna are shown in Figure&#xA0;4 and are consistent with the predictions made using the DNAMAN software.
+
+            Figure 4
+
+              Enzyme digestion result of Cyt b gene PCR product in T.&#xA0;albacares
+
+          3.3.3
+          Atlantic bluefin tuna (Thunnus thynnus)
+          The Cytb PCR amplicon of Atlantic bluefin tuna was digested by Hinf I into 2&#xA0;bands of 109&#x2010; and 248&#x2010;bp lengths, and by Mbo I into 2 bands of 62&#x2010; and 295&#x2010;bp lengths. There were no restriction sites for Eco147 I and Xag I in the Cytb PCR amplicon of Atlantic bluefin tuna; hence, a single band of 357&#x2010;bp length was obtained upon digestion by these enzymes. The enzyme digestion results for Atlantic bluefin tuna are shown in Figure&#xA0;5 and are consistent with the predictions made using the DNAMAN software.
+
+            Figure 5
+
+              Enzyme digestion result of Cyt b gene PCR product in T.thynnus
+
+          3.3.4
+          Southern bluefin tuna (Thunnus maccoyii)
+          The Cytb PCR amplicon of southern bluefin tuna was digested by Hinf I into 2&#xA0;bands of 109&#x2010; and 248&#x2010;bp lengths. There were no restriction sites for Mbo I, Eco147 I, and Xag I in the Cytb PCR amplicon of southern bluefin tuna; hence, a single band of 357&#x2010;bp length was obtained upon digestion by these enzymes. The enzyme digestion results for southern bluefin tuna are shown in Figure&#xA0;6 and are consistent with the predictions made using the DNAMAN software.
+
+            Figure 6
+
+              Enzyme digestion result of Cyt b gene PCR product in T.&#xA0;maccoyii
+
+          3.3.5
+          Striped marlin (Tetrapturus audax)
+          The Cytb PCR amplicon of striped marlin was digested by Eco147 I into 3&#xA0;bands of 124&#x2010;, 74&#x2010;, and 159&#x2010;bp lengths, and by Hinf I into 2 bands of 196&#x2010; and 161&#x2010;bp lengths. There were no restriction sites for Mbo I and Xag I in the Cytb PCR amplicon of striped marlin; hence, a single band of 357&#x2010;bp length was obtained upon digestion by these enzymes. The enzyme digestion results for striped marlin are shown in Figure&#xA0;7 and are consistent with the predictions made by the DNAMAN software.
+
+            Figure 7
+
+              Enzyme digestion result of Cyt b gene PCR product in T.&#xA0;audax
+
+          3.3.6
+          Swordfish (Xiphias gladius)
+          The Cytb PCR amplicon of swordfish was digested by Eco147 I into 2 bands of 283&#x2010; and 74&#x2010;bp lengths, and by Hinf I into 2 bands of 196&#x2010; and 161&#x2010;bp lengths. There were no restriction sites for Mbo I and Xag I in the Cytb PCR amplicon of swordfish; hence, a single band of 357&#x2010;bp length was obtained upon digestion by these enzymes. The enzyme digestion results for swordfish are shown in Figure&#xA0;8 and are consistent with the predictions made by the DNAMAN software.
+
+            Figure 8
+
+              Enzyme digestion result of Cyt b gene PCR product in X.&#xA0;gladius
+
+          3.3.7
+          Bigeye tuna (Thunnus obesus)
+          The Cytb PCR amplicon of bigeye tuna was digested by Hinf I into 3 bands of 109&#x2010;, 52&#x2010;, and 196&#x2010;bp lengths, and by Hind II into 3 bands of 150&#x2010;, 10&#x2010;, and 197&#x2010;bp lengths. There were no restriction sites for Eco147 I, Mbo I, and Xag I in the Cytb PCR amplicon of bigeye tuna; hence, a single band of 357&#x2010;bp length was obtained upon digestion by these enzymes. The enzyme digestion results for bigeye tuna are shown in Figure&#xA0;9 and are consistent with the predictions made by the DNAMAN software.
+
+            Figure 9
+
+              Enzyme digestion result of Cyt b gene PCR product in T.&#xA0;obesus
+
+          3.3.8
+          Skipjack tuna (Katsuwonus pelamis)
+          The Cytb PCR amplicon of skipjack tuna was digested by Hinf I into 3 bands of 109&#x2010;, 52&#x2010;, and 196&#x2010;bp lengths. There were no restriction sites for Eco147 I, Mbo I, Xag I, and Hind II in the Cytb PCR amplicon of skipjack tuna; hence, a single band of 357&#x2010;bp length was obtained upon digestion by these enzymes. The enzyme digestion results for skipjack tuna are shown in Figure&#xA0;10 and are consistent with the predictions made by the DNAMAN software.
+
+            Figure 10
+
+              Enzyme digestion result of Cyt b gene PCR product in K.&#xA0;pelamis
+
+          The results of restriction enzyme analysis of the Cytb gene PCR amplicons of the 8 fish species are shown in Table&#xA0;2.
+
+            Table 2
+
+              Statistics of enzyme digestion results for 8 kinds of fish of Cyt b gene PCR product
+
+                  Number
+                  Species
+                  Restriction enzyme
+
+Eco147 I
+
+Hinf I
+
+Mbo I
+
+Xag I
+
+Hind II
+
+                  cm
+
+T.&#xA0;alalunga
+
+                  233, 124
+                  109, 52, 196
+                  357
+                  357
+                  &#x2013;
+
+                  hu
+
+T.&#xA0;albacares
+
+                  357
+                  109, 52, 196
+                  357
+                  101, 256
+                  &#x2013;
+
+                  lq
+
+T.&#xA0;thynnus
+
+                  357
+                  109, 248
+                  62,295
+                  357
+                  &#x2013;
+
+                  ms
+
+T.&#xA0;maccoyii
+
+                  357
+                  109, 248
+                  357
+                  357
+                  &#x2013;
+
+                  da
+
+T.&#xA0;audax
+
+                  124, 74, 159
+                  196, 161
+                  357
+                  357
+                  &#x2013;
+
+                  ji
+
+X.&#xA0;gladius
+
+                  283, 74
+                  196, 161
+                  357
+                  357
+                  &#x2013;
+
+                  dd
+
+T.&#xA0;obesus
+
+                  357
+                  109, 52, 196
+                  357
+                  357
+                  150, 10, 197
+
+                  jy
+
+K.&#xA0;pelamis
+
+                  357
+                  109, 52, 196
+                  357
+                  357
+                  357
+
+              John Wiley &amp; Sons, Ltd
+
+          3.3.9
+          Results of commercial sample analysis
+          After the method of identifying raw tuna by PCR&#x2010;RFLP was established, this study identified the species of 39 commercial tuna samples and compared these results against the phylogenetic tree constructed based on Cytb gene sequences of the 39 commercial samples (shown in Figure&#xA0;11). Of the 10 samples labeled as Atlantic bluefin tuna, the PCR&#x2010;RFLP results identified 8 samples as Atlantic bluefin tuna and the other 2 samples as albacore tuna, which is consistent with the sequence alignment results and phylogenetic tree analysis. Out of the 6 samples labeled as southern bluefin tuna, the PCR&#x2010;RFLP results identified all samples as southern bluefin tuna, which was consistent with the results of the sequence alignment and phylogenetic tree analysis. Of the 13 samples labeled as yellowfin tuna, the PCR&#x2010;RFLP results identified 10 samples as yellowfin tuna and the other 3 samples as bigeye tuna which was consistent with the results obtained using sequence alignment and phylogenetic tree analysis. Of the 10 samples labeled as bigeye tuna, the PCR&#x2010;RFLP results identified 8 samples as bigeye tuna and the other 2 samples as striped marlin, which was consistent with the sequence alignment results and phylogenetic tree analysis. Detailed results of the identification of the commercial samples are shown in Table&#xA0;3.
+
+            Figure 11
+
+              Phylogenetic tree of Cyt b gene in 39 sample fishes on market
+
+            Table 3
+
+              Commercial sample sequence analysis and PCR&#x2010;RFLP identification results
+
+                  Sample number
+                  Sample nominal
+                  Sequence analysis
+                  PCR&#x2010;RFLP identification
+
+                  Slq&#x2010;2
+                  Atlantic bluefin tuna
+
+Thunnus thynnus
+
+Thunnus thynnus
+
+                  Slq&#x2010;4
+                  Atlantic bluefin tuna
+
+Thunnus thynnus
+
+Thunnus thynnus
+
+                  Slq&#x2010;5
+                  Atlantic bluefin tuna
+
+Thunnus thynnus
+
+Thunnus thynnus
+
+                  Slq&#x2010;6
+                  Atlantic bluefin tuna
+
+Thunnus thynnus
+
+Thunnus thynnus
+
+                  Slq&#x2010;7
+                  Atlantic bluefin tuna
+
+Thunnus thynnus
+
+Thunnus thynnus
+
+                  Slq&#x2010;8
+                  Atlantic bluefin tuna
+
+Thunnus thynnus
+
+Thunnus thynnus
+
+                  Slq&#x2010;10
+                  Atlantic bluefin tuna
+
+Thunnus thynnus
+
+Thunnus thynnus
+
+                  Slq&#x2010;11
+                  Atlantic bluefin tuna
+
+Thunnus thynnus
+
+Thunnus thynnus
+
+                  Slq&#x2010;24*
+
+                  Atlantic bluefin tuna
+
+Thunnus alalunga
+
+Thunnus alalunga
+
+                  Slq&#x2010;31*
+
+                  Atlantic bluefin tuna
+
+Thunnus alalunga
+
+Thunnus alalunga
+
+                  Sms&#x2010;10
+                  Southern bluefin tuna
+
+Thunnus maccoyii
+
+Thunnus maccoyii
+
+                  Sms&#x2010;11
+                  Southern bluefin tuna
+
+Thunnus maccoyii
+
+Thunnus maccoyii
+
+                  Sms&#x2010;12
+                  Southern bluefin tuna
+
+Thunnus maccoyii
+
+Thunnus maccoyii
+
+                  Sms&#x2010;13
+                  Southern bluefin tuna
+
+Thunnus maccoyii
+
+Thunnus maccoyii
+
+                  Sms&#x2010;14
+                  Southern bluefin tuna
+
+Thunnus maccoyii
+
+Thunnus maccoyii
+
+                  Sms&#x2010;15
+                  Southern bluefin tuna
+
+Thunnus maccoyii
+
+Thunnus maccoyii
+
+                  Shu&#x2010;1
+                  Yellowfin tuna
+
+Thunnus albacares
+
+Thunnus albacares
+
+                  Shu&#x2010;2
+                  Yellowfin tuna
+
+Thunnus albacares
+
+Thunnus albacares
+
+                  Shu&#x2010;3
+                  Yellowfin tuna
+
+Thunnus albacares
+
+Thunnus albacares
+
+                  Shu&#x2010;4
+                  Yellowfin tuna
+
+Thunnus albacares
+
+Thunnus albacares
+
+                  Shu&#x2010;5
+                  Yellowfin tuna
+
+Thunnus albacares
+
+Thunnus albacares
+
+                  Shu&#x2010;6
+                  Yellowfin tuna
+
+Thunnus albacares
+
+Thunnus albacares
+
+                  Shu&#x2010;7
+                  Yellowfin tuna
+
+Thunnus albacares
+
+Thunnus albacares
+
+                  Shu&#x2010;8
+                  Yellowfin tuna
+
+Thunnus albacares
+
+Thunnus albacares
+
+                  Shu&#x2010;9
+                  Yellowfin tuna
+
+Thunnus albacares
+
+Thunnus albacares
+
+                  Shu&#x2010;11
+                  Yellowfin tuna
+
+Thunnus albacares
+
+Thunnus albacares
+
+                  Shu&#x2010;12*
+
+                  Yellowfin tuna
+
+Thunnus obesus
+
+Thunnus obesus
+
+                  Shu&#x2010;17*
+
+                  Yellowfin tuna
+
+Thunnus obesus
+
+Thunnus obesus
+
+                  Shu&#x2010;27*
+
+                  Yellowfin tuna
+
+Thunnus obesus
+
+Thunnus obesus
+
+                  Sdd&#x2010;1
+                  Bigeye tuna
+
+Thunnus obesus
+
+Thunnus obesus
+
+                  Sdd&#x2010;2
+                  Bigeye tuna
+
+Thunnus obesus
+
+Thunnus obesus
+
+                  Sdd&#x2010;3
+                  Bigeye tuna
+
+Thunnus obesus
+
+Thunnus obesus
+
+                  Sdd&#x2010;4
+                  Bigeye tuna
+
+Thunnus obesus
+
+Thunnus obesus
+
+                  Sdd&#x2010;5
+                  Bigeye tuna
+
+Thunnus obesus
+
+Thunnus obesus
+
+                  Sdd&#x2010;6
+                  Bigeye tuna
+
+Thunnus obesus
+
+Thunnus obesus
+
+                  Sdd&#x2010;7
+                  Bigeye tuna
+
+Thunnus obesus
+
+Thunnus obesus
+
+                  Sdd&#x2010;8
+                  Bigeye tuna
+
+Thunnus obesus
+
+Thunnus obesus
+
+                  Sdd&#x2010;14*
+
+                  Bigeye tuna
+
+Tetrapturus audax
+
+Tetrapturus audax
+
+                  Sdd&#x2010;15*
+
+                  Bigeye tuna
+
+Tetrapturus audax
+
+Tetrapturus audax
+
+              Note
+
+                "*" sample nominal is inconsistent with the result of identification
+
+              John Wiley &amp; Sons, Ltd
+
+      4
+
+DISCUSSION
+
+      The rapid development of modern molecular biotechnology has led to an evolution in research approaches for species identification ranging from morphological, physiological, and biochemical levels, to the molecular level. The basis for identification has also evolved from the shape, size, color, bone, and structure of the fish, to macrobiomolecules, such as DNA, RNA, and proteins (Liu, Xu, Wu, Xie, &amp; Feng, 2016). DNA&#x2010;based molecular identification approaches have been widely used for the identification of species commonly mislabeled as tuna. Liu et al. (2016) successfully identified 5 tuna species (southern bluefin, bigeye, yellowfin, albacore, and skipjack tuna) using real&#x2010;time fluorescent PCR. Lin and Hwang (2008) established a multiplex PCR assay to distinguish 5&#xA0;small&#x2010;sized tuna species, including Euthynnus pelamis (also known as skipjack tuna), Auxis rochei (bullet tuna), Auxis thazard (frigate tuna), Sarda orientalis (striped bonito), and Euthynnus affinis (mackerel tuna). Abdullah and Rehbein (2016) utilized single&#x2010;strand conformation polymorphism to distinguish bullet tuna from the Thunnus genus. Vinas and Tudela (2009) successfully identified 8 tuna species (albacore, yellowfin, southern bluefin, bigeye, Atlantic bluefin, blackfin, longtail, and Pacific bluefin tuna) using the mitochondrial (mtDNA) control region gene and the Internal Transcribed Spacer&#x2010;1 (ITS1) gene. Puncher et al. (2015) utilized the cytochrome c oxidase subunit I (COI) and ITS1 genes to successfully identify the larvae of Atlantic bluefin tuna collected from 3 spawning areas in the Mediterranean. Lowenstein et al. (2009) used DNA barcoding technology to identify 68 tuna sushi samples purchased from restaurants in Manhattan and found that the labels of 22 samples did not match the identified species. These techniques and approaches are relatively accurate at identifying the species of tuna and its products, but they also have several limitations, including complex operational procedures, lengthy identification times, or expensive equipment.
+      PCR&#x2010;RFLP has been successfully applied for the identification of a variety of fish species and their products due to its simplicity and low cost. Wolf, H&#xFC;bner, and L&#xFC;thy (1999) identified 8 species of carp using PCR&#x2010;RFLP. Chakraborty, Aranishi, and Iwatsuki (2005) developed a PCR&#x2010;RFLP approach that could successfully identify 3 closely related hairtail species (genus Trichiurus). Akasaki, Yanagimoto, Yamakami, Tomonaga, and Sato (2006) found that PCR&#x2010;RFLP could rapidly identify 9 species of cod. Espi&#xF1;eira, Gonz&#xE1;lez&#x2010;Lav&#xED;n, Vieites, and Santaclara (2008) used PCR&#x2010;RFLP to distinguish 7 species of anglerfish. Chen et al. (2012) successfully identified 5 species of pufferfish using PCR&#x2010;RFLP analysis and a chip bioanalysis system. Lin and Hwang (2007) utilized PCR&#x2010;RFLP, wherein 2 sets of primers were designed to partially amplify 126&#x2010; and 146&#x2010;bp sequences of the Cytb gene and 5 restriction enzymes were used for digestion. They successfully identified the species in 18 commercial canned tuna products and could distinguish albacore, yellowfin, bigeye, and Atlantic bluefin tuna, but not southern bluefin tuna, which is mainly consumed raw.
+      In this study, PCR amplification of the Cytb gene was performed on 4 major sashimi tuna species (yellowfin, Atlantic and southern bluefin, and bigeye tuna) and 4 commonly mislabeled species (albacore and skipjack tuna, striped marlin, and swordfish). Five restriction enzymes, including Eco147 I, Hinf I, Mbo I, Xag I, and Hind II, were used to digest the Cytb sequences of the 8&#xA0;species to establish restriction maps specific for each species. Compared with the Lin and Hwang (2007) study, the current study placed more emphasis on the identification of fish species used for sashimi. In addition, only 1 pair of universal Cytb primers was used to successfully distinguish 6 tuna species, including southern bluefin tuna and 2 deep&#x2010;sea fish species, striped marlin and swordfish. This study also identified the species in 39 samples of commercial tuna sashimi by PCR&#x2010;RFLP and verified the results through phylogenetic tree analysis. The results showed that the species identified by PCR&#x2010;RFLP concurred with the sequencing and phylogenetic tree analysis results, demonstrating the accuracy of the method. The procedures required for PCR&#x2010;RFLP are simple and rapid, enabling the accurate identification of raw tuna and mislabeled species in a short time. Thus, this method provides the technology needed to support the rapid identification of raw tuna species for quality inspections and scientific research.
+
+      CONFLICT OF INTEREST
+      The authors declare that they do not have any conflict of interest.
+
+      ACKNOWLEDGMENTS
+      This work was supported by National Key Research and Development Program of China (2016YFF0201805).
+
+      REFERENCES
+
+Abdullah, A.
+, &amp; 
+Rehbein, H.
+ (2016). The differentiation of tuna (family: Scombridae) products through the PCR&#x2010;based analysis of the cytochrome b gene and parvalbumin introns. Journal of the Science of Food and Agriculture, 96, 456&#x2013;464. 10.1002/jsfa.7111
+25639273
+
+Akasaki, T.
+, 
+Yanagimoto, T.
+, 
+Yamakami, K.
+, 
+Tomonaga, H.
+, &amp; 
+Sato, S.
+ (2006). Species identification and PCR&#x2010;RFLP analysis of cytochrome b gene in cod fish (order Gadiformes) products. Journal of Food Science, 71, C190&#x2013;C195. 10.1111/j.1365-2621.2006.tb15616.x
+
+Aranishi, F.
+, 
+Okimoto, T.
+, &amp; 
+Izumi, S.
+ (2005). Identification of gadoid species (Pisces, Gadidae) by PCR&#x2010;RFLP analysis. Journal of Applied Genetics, 46, 69&#x2013;73.15741666
+
+Calo&#x2010;Mata, P.
+, 
+Pascoal, A.
+, 
+Fernandez&#x2010;No, I.
+, 
+Bohme, K.
+, 
+Gallardo, J. M.
+, &amp; 
+Barros&#x2010;Velazquez, J.
+ (2009). Evaluation of a novel 16S rRNA/tRNAVal mitochondrial marker for the identification and phylogenetic analysis of shrimp species belonging to the superfamily Penaeoidea. Analytical Biochemistry, 391, 127&#x2013;134. 10.1016/j.ab.2009.05.020
+19457430
+
+Chakraborty, A.
+, 
+Aranishi, F.
+, &amp; 
+Iwatsuki, Y.
+ (2005). Molecular identification of hairtail species (Pisces: Trichiuridae) based on PCR&#x2010;RFLP analysis of the mitochondrial 16S rRNA gene. Journal of Applied Genetics, 46, 381&#x2013;385.16278511
+
+Chapela, M. J.
+, 
+Sotelo, C. G.
+, 
+P&#xE9;rez&#x2010;Mart&#xED;n, R. I.
+, 
+Pardo, M. &#xC1;.
+, 
+P&#xE9;rez&#x2010;Villareal, B.
+, 
+Gilardi, P.
+, &amp; 
+Riese, J.
+ (2007). Comparison of DNA extraction methods from muscle of canned tuna for species identification. Food Control, 18, 1211&#x2013;1215. 10.1016/j.foodcont.2006.07.016
+
+Chen, S. Y.
+, 
+Chen, W. B.
+, 
+Zhang, J.
+, 
+Chen, W. L.
+, 
+Dun&#x2010;Ming, X. U.
+, &amp; 
+Zhou, Y.
+ (2012). Identification of puffer species by PCR&#x2010;RFLP analysis and chip bio&#x2010;analysis system. Food Science, 33, 200&#x2013;202. 10.1007/s11783-011-0280-z
+
+Espi&#xF1;eira, M.
+, 
+Gonz&#xE1;lez&#x2010;Lav&#xED;n, N.
+, 
+Vieites, J. M.
+, &amp; 
+Santaclara, F. J.
+ (2008). Authentication of anglerfish species (Lophius spp) by means of polymerase chain reaction&#x2010;restriction fragment length polymorphism (PCR&#x2010;RFLP) and forensically informative nucleotide sequencing (FINS) methodologies. Journal of Agricultural and Food Chemistry, 56, 10594&#x2013;10599. 10.1021/jf801728q
+18975961
+
+FAO
+(2010). The State of World Fisheries and Aquaculture 2010. State of World Fisheries &amp; Aquaculture, 4, 40&#x2013;41.
+
+Kurokura, H.
+, 
+Takagi, A.
+, 
+Sakai, Y.
+, &amp; 
+Yagi, N.
+ (2012). Tuna goes around the world on sushi. Aquaculture Economics &amp; Management, 16, 155&#x2013;166. 10.1080/13657305.2012.678553
+
+Larra&#xED;n, M. A.
+, 
+D&#xED;az, N. F.
+, 
+Lamas, C.
+, 
+Uribe, C.
+, &amp; 
+Araneda, C.
+ (2014). Traceability of mussel (Mytilus chilensis) in southern Chile using microsatellite molecular markers and assignment algorithms. Exploratory survey. Food Research International, 62, 104&#x2013;110. 10.1016/j.foodres.2014.02.016
+
+Lin, W. F.
+, &amp; 
+Hwang, D. F.
+ (2007). Application of PCR&#x2010;RFLP analysis on species identification of canned tuna. Food Control, 18, 1050&#x2013;1057. 10.1016/j.foodcont.2006.07.001
+
+Lin, W.&#x2010;F.
+, &amp; 
+Hwang, D.&#x2010;F.
+ (2008). A multiplex PCR assay for species identification of raw and cooked bonito. Food Control, 19, 879&#x2013;885. 10.1016/j.foodcont.2007.08.015
+
+Liu, S.
+, 
+Xu, K.
+, 
+Wu, Z.
+, 
+Xie, X.
+, &amp; 
+Feng, J.
+ (2016). Identification of five highly priced tuna species by quantitative real&#x2010;time polymerase chain reaction. Mitochondrial DNA Part A, 27, 3270&#x2013;3279. 10.3109/19401736.2015.1015004
+
+Lowenstein, J. H.
+, 
+Amato, G.
+, &amp; 
+Kolokotronis, S. O.
+ (2009). The real maccoyii: Identifying tuna sushi with DNA barcodes&#x2013;contrasting characteristic attributes and genetic distances. PLoS ONE, 4, e7866
+10.1371/journal.pone.0007866
+19924239
+
+Marko, P. B.
+, 
+Lee, S. C.
+, 
+Rice, A. M.
+, 
+Gramling, J. M.
+, 
+Fitzhenry, T. M.
+, 
+McAlister, J. S.
+, &#x2026; 
+Moran, A. L.
+ (2004). Fisheries: Mislabelling of a depleted reef fish. Nature, 430, 309&#x2013;310. 10.1038/430309b
+
+Puncher, G. N.
+, 
+Arrizabalaga, H.
+, 
+Alemany, F.
+, 
+Cariani, A.
+, 
+Oray, I. K.
+, 
+Karakulak, F. S.
+, &#x2026; 
+Tinti, F.
+ (2015). Molecular identification of Atlantic Bluefin Tuna (Thunnus thynnus, Scombridae) larvae and development of a DNA character&#x2010;based identification key for Mediterranean Scombrids. PLoS ONE, 10, e0130407
+10.1371/journal.pone.0130407
+26147931
+
+Rasmussen, R. S.
+, &amp; 
+Morrissey, M. T.
+ (2009). Application of DNA&#x2010;based methods to identify fish and seafood substitution on the commercial market. Comprehensive Reviews in Food Science and Food Safety, 8, 118&#x2013;154. 10.1111/j.1541-4337.2009.00073.x
+
+Sivaraman, B.
+, 
+Jeyasekaran, G.
+, 
+Shakila, R. J.
+, 
+Alamelu, V.
+, 
+Wilwet, L.
+, 
+Aanand, S.
+, &amp; 
+Sukumar, D.
+ (2018). PCR&#x2010;RFLP for authentication of different species of processed snappers using mitochondrial D&#x2010;loop region by single enzyme. Food Control, 90, 58&#x2013;65. 10.1016/j.foodcont.2018.02.028
+
+Vinas, J.
+, &amp; 
+Tudela, S.
+ (2009). A validated methodology for genetic identification of tuna species (genus Thunnus). PLoS ONE, 4, e7606
+10.1371/journal.pone.0007606
+19898615
+
+Wilwet, L.
+, 
+Jeyasekaran, G.
+, 
+Shakila, R. J.
+, 
+Sivaraman, B.
+, &amp; 
+Padmavathy, P.
+ (2018). A single enzyme PCR&#x2010;RFLP protocol targeting 16S rRNA/tRNA(val) region to authenticate four commercially important shrimp species in India. Food Chemistry, 239, 369&#x2013;376. 10.1016/j.foodchem.2017.06.132
+28873581
+
+Wolf, C.
+, 
+H&#xFC;bner, P.
+, &amp; 
+L&#xFC;thy, J.
+ (1999). Differentiation of sturgeon species by PCR&#x2010;RFLP. Food Research International, 32, 699&#x2013;705. 10.1016/S0963-9969(99)00150-7
+
+</pmc-articlese

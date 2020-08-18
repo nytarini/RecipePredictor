@@ -1,0 +1,408 @@
+fication Trial (DMT) was a randomized clinical trial of 48,835 postmenopausal women in the United States with a primary aim of testing whether a low-fat (20% of total calories) dietary pattern intervention including 5 servings of fruits and vegetables and 6 servings of grains per day, would reduce the incidence of breast cancer and colorectal cancers. Coronary heart disease (CHD) was the designated secondary outcome. Prentice et al. (1) reported a significant risk reduction for CHD (HR: 0.70; 95% CI: 0.56, 0.87) in normotensive women without a prior history of cardiovascular disease (CVD), defined as self-report before randomization of myocardial infarction, coronary artery bypass graft, or stroke. Hypertension was defined as self-report of ever taking medication for hypertension before randomization, or clinic-measured systolic/diastolic blood pressure (SBP/DBP) &#x2265;140/90 mm Hg, at randomization. This result was statistically significant even after adjustment for multiple comparisons of the 15 subgroups considered in the original DMT and cardiovascular disease report (2) (Bonferroni-corrected P&#xA0;=&#xA0;0.001). Conversely there was a possible elevation in stroke risk (HR: 1.29; 95% CI: 1.00, 1.66), but this was not apparent after allowing for multiple testing.
+      In normotensive women without a history of CVD, there was no evidence of postrandomization confounding by changes in antihypertensive and/or cholesterol-lowering medications based on periodic medication inventories in the trial cohort (1). In contrast, there was evidence of postrandomization group imbalances in starting and stopping these medications in women with hypertension without prior CVD, as well as those with a prior history of CVD. For this latter group LDL-cholesterol values tended to increase during trial follow-up in the intervention group, even during a time of rapid increase in statin use, whereas LDL-cholesterol values dropped in the comparison group. This and periodic medication inventories were consistent with postrandomization confounding by statin use in participants who had hypertension or prior CVD (1). This report therefore focuses exclusively on participants who were normotensive at baseline (SBP/DBP&#xA0;&lt;140/90 mmHg) and not taking medication for high blood pressure (see&#xA0;Figure 1) and were without prior CVD. These participants, who represent a substantial percentage of the population, self-selected a variety of approaches to achieve the dietary changes needed to meet low-fat dietary pattern goals. Participants were coached on lowering total fat, but not specifically on the type of fats to reduce. Some, but not all, of the eating pattern changes made individually were consistent with dietary recommendations for cardiovascular health (e.g., greater reduction in saturated than unsaturated fat; increased dietary fiber, fruits, vegetables, low-fat dairy products, whole grains).
+
+        FIGURE 1
+
+          Participant flow diagram. Participant flow diagram for the Women's Health Initiative trial of a low-fat dietary pattern in women without hypertension or prior history of CVD at baseline but who reported intake of total fat above the median. All participants were postmenopausal and in the age range 50&#x2013;79 y when enrolled during 1993&#x2013;1998 at 40 US clinical centers. 1Hypertension was defined as self-report of ever taking medication for hypertension before randomization, or clinic-measured systolic/diastolic blood pressure&#xA0;&#x2265;140/90 mm Hg. 2Prior history of CVD was defined as self-report before randomization of MI, CABG/PCI, or stroke. 3Time-origin for Cox regression models began at year 1. 4Implausible energy intakes of &lt;600 kcal/d or &gt;5000 kcal/d. CABG/PCI, coronary artery bypass graft/percutaneous coronary intervention; CVD, cardiovascular disease; MI, myocardial infarction.
+
+      Because of the potential for dissemination of these preventive dietary strategies across the broader population, the WHI DMT provides a unique opportunity to specifically study the impact of postrandomization dietary changes made to achieve low-fat diet study goals using self-reported FFQ data, and their subsequent effects on CHD, stroke, and overall CVD.
+
+      Methods
+
+        Analytical sample
+        Methods and initial results for the DMT have been previously reported (2&#x2013;4). Briefly, all women (n&#xA0;=&#xA0;48,835) were postmenopausal and in the age range of 50&#x2013;79 y at randomization and signed Institutional Review Board approved written consent at all 40 clinical centers. Intervention participants (40% of the DMT participants) were randomly allocated to a behavioral low-total-fat diet intervention program administered by trained nutritionists in groups of 8&#x2013;15 individuals (Figure 1). There were 18 group sessions in the first year and quarterly sessions thereafter. Nutritional concepts and behavioral skills were presented to help achieve the DMT goals: reduce total fat to 20% of total energy intake; increase vegetable and fruit intake to&#xA0;&#x2265;5 servings/d; and increase grain intake to&#xA0;&#x2265;6 servings/d. There were no specific instructions regarding the types of fat to reduce, nor the compensatory carbohydrate, protein, or fatty acids to increase. The comparison group (60% of the DMT) received printed health-related materials only.
+        Dietary intake was assessed in both groups by periodic, self-administered FFQs (5), adapted from the Health Habits and Lifestyle Questionnaire (6). Three sections of the WHI FFQ included 122 composite and single-food items documenting frequency of consumption and portion size, 19 adjustment questions regarding type of fat intake, and 4 summary questions about usual intake of fruits, vegetables, and added fats for comparison with information gathered from the specific food items. The nutrient database used to analyze the WHI FFQ was derived from the Nutrition Data Systems for Research (7), providing nutrient information for&#xA0;&gt;140 nutrients and compounds, including energy, saturated fat, and sodium (7, 8).
+        The baseline FFQ percentage of energy from fat in the DMT tended to be upwardly distorted due to use in eligibility screening, with greater distortions in those whose total fat intake was just above the 32% cutoff. The FFQ assessment has considerable noise, and women who met eligibility criteria tended to have a percentage fat assessment that was substantially biased upward. To mitigate this problem DMT enrollees whose baseline percentage energy from fat was below the median were excluded and thus dietary screening influences on FFQ assessments were minimized (see&#xA0;Figure 1). Also, FFQ data can have better measurement properties for dietary change (e.g., year 1 minus baseline) compared with FFQ data at a particular time point (e.g., year 1) because systematic biases, related to participant characteristics such as BMI, age, and race/ethnicity (9), will tend to be &#x201C;differenced out&#x201D; of the dietary change assessment. Women with implausible energy intakes &lt;600 kcal/d or &gt;5000 kcal/d were excluded.
+        Cut points used to define normotensive participants at baseline were SBP/DBP&#xA0;&lt;140/90 mmHg, and no prior medication use for high blood pressure. Staff measured height, weight, and waist circumference among other clinical parameters. Comparisons between the normotensive women and those with CVD at baseline are presented in the Supplemental Tables.
+        The study protocol was reviewed and approved by the Fred Hutchinson Cancer Research Center Institutional Review Board (Protocol 6299) in Seattle, WA, where the WHI Clinical Coordinating Center is located, and by the institutional review boards at each of the 40 participating clinical centers.
+
+        Statistical analyses
+        Cox regression models used in our previous report (1) were extended by adding HR interaction terms defined as changes in postrandomization FFQ data (year 1 minus baseline) with time-origin for follow-up beginning at the year 1 FFQ. Specifically, the CHD HR function was modeled by including the randomization indicator variable (Z&#xA0;=&#xA0;0 for comparison group; Z&#xA0;=&#xA0;1 for intervention group) and a product term defined as Z multiplied by change in percentage of energy from carbohydrates, modeled as a continuous linear variable. The model also included interaction terms for changes in percentage of energy from protein and alcohol. These macronutrient regression terms were normalized to be perfectly colinear with fat so that an increase of 14%, 1%, and 0% of energy from carbohydrates, protein, and alcohol, for example, necessarily corresponds to a 15% decrease in energy from total fat. To summarize the clinical relevance of these estimated regression coefficients, corresponding HR estimates were computed at the average change in eating pattern reported by the intervention group for these macronutrients, within quartiles of change for carbohydrate intake. HRs were also estimated by quartiles of change in protein intake. Exploratory analyses examined the potential for differential influence by source of macronutrient (e.g., animal compared with plant-based protein), by replacing the macronutrient interaction (e.g., Z multiplied by change in energy from protein) with source-specific interaction terms (e.g., Z multiplied by changes in energy from animal and plant-based protein).
+        To address potential confounding related to starting the follow-up period at 1 y postrandomization (the earliest postrandomization time for full cohort dietary assessment), Cox regression models included distinct baseline hazard functions stratified by 5-y age group, BMI (&lt;25; 25 to &lt;30; 30 to &lt;35; &gt;35 kg/m2), race/ethnicity (white; black; Hispanic; other), FFQ percentage energy from fat (quintiles), randomization status in the hormone therapy trials, and hysterectomy status, along with linear regression terms for age, BMI, and baseline FFQ percentage energy from fat. The first 3 stratifying variables are strong correlates of total energy, for which FFQ estimates include major systematic biases (9). The stratification by, and regression modeling of, baseline FFQ percentage energy from fat aims to ensure that HR estimates were derived from women having similar baseline percentage energy from fat. Forest plots displayed whether HR estimates were influenced by pertinent study subject characteristics. Residual diagnostics assessed robustness of model fit (10). To elucidate potential mechanisms, linear regression models, which also included product terms for the interaction between randomization group and change in percentage of energy from macronutrients, were fit with changes in components of metabolic syndrome (year 1 minus baseline) as the dependent variable.
+        Scores for common diet quality indices were also computed to characterize dietary changes in the intervention, and included: the Healthy Eating Index (HEI)-2005 (11); Dietary Approaches to Stop Hypertension Trial (DASH) diet score (12, 13); Alternative Healthy Eating Index (AHEI)-2010 (14); and the Alternate Mediterranean Diet (aMed) score (15, 16); score definitions are summarized in Supplemental Table S1. &#x201C;Effects sizes&#x201D; (17) were used to graphically quantify the healthfulness of the intervention according to diet quality scores, and to facilitate comparisons across scores; effect size = (mean change of the intervention group minus comparison group divided by their pooled SD).
+        Cox model analyses are presented as HRs with 95% CIs and nominal 2-sided significance levels. Analyses were performed with SAS 9.4 software (SAS Institute), and figures produced with R 3.2 software (R Foundation for Statistical Computing).
+
+      Results
+      Of the total DMT normotensive cohort (n&#xA0;=&#xA0;23,348 participants), baseline characteristics and eating patterns for the 10,371 normotensive participants without CVD at baseline who consumed &#x2265;36.6% energy from total fat (the median FFQ consumption of this group) were balanced between groups (Table 1). On average, this subgroup reported consuming &#x223C;41% of calories from total fat, a nearly equal amount from total carbohydrates, and 16% energy from total protein with three-fourths derived from animal sources.
+
+        TABLE 1
+
+          Baseline characteristics of normotensive dietary trial participants who consumed&#xA0;&#x2265;36.6% energy from fat without history of CVD by randomization group (n&#xA0;&#xA0;=&#xA0;10,371)
+
+              Intervention (n&#xA0;=&#xA0;4245)
+              Comparison (n&#xA0;=&#xA0;6126)
+
+              Age at screening, y
+              61.3&#xA0;&#xB1;&#xA0;6.6
+              61.1&#xA0;&#xB1;&#xA0;6.6
+
+              Race/ethnicity
+
+              &#x2003;White
+              3579 (84.3)
+              5227 (85.3)
+
+              &#x2003;Black
+              339 (8.0)
+              439 (7.2)
+
+              &#x2003;Hispanic
+              182 (4.3)
+              211 (3.4)
+
+              &#x2003;American Indian/Alaskan Native
+              13 (0.3)
+              16 (0.3)
+
+              &#x2003;Asian/Pacific Islander
+              81 (1.9)
+              138 (2.3)
+
+              &#x2003;Unknown
+              51 (1.2)
+              95 (1.6)
+
+              Smoking
+
+              &#x2003;Never
+              2117 (50.4)
+              3095 (50.9)
+
+              &#x2003;Past
+              1708 (40.7)
+              2443 (40.2)
+
+              &#x2003;Current
+              375 (8.9)
+              537 (8.8)
+
+              Hypertensive medication
+              275 (6.5)
+              366 (6.0)
+
+              History of high cholesterol requiring pills
+              304 (7.3)
+              441 (7.3)
+
+              Statin use
+              149 (3.5)
+              231 (3.8)
+
+              Treated diabetes (pills or shots)
+              98 (2.3)
+              140 (2.3)
+
+              Aspirin use
+              592 (13.9)
+              936 (15.3)
+
+              BMI, kg/m2
+              28.4&#xA0;&#xB1;&#xA0;5.7
+              28.3&#xA0;&#xB1;&#xA0;5.5
+
+              Height, cm
+              162.5&#xA0;&#xB1;&#xA0;6.5
+              162.5&#xA0;&#xB1;&#xA0;6.7
+
+              Weight, kg
+              75.3&#xA0;&#xB1;&#xA0;15.9
+              75.0&#xA0;&#xB1;&#xA0;15.7
+
+              Waist circumference, cm
+              87.4&#xA0;&#xB1;&#xA0;13.4
+              87.1&#xA0;&#xB1;&#xA0;13.1
+
+              Systolic BP, mm Hg
+              118.6&#xA0;&#xB1;&#xA0;11.3
+              118.5&#xA0;&#xB1;&#xA0;11.2
+
+              Diastolic BP, mm Hg
+              72.8&#xA0;&#xB1;&#xA0;7.5
+              72.9&#xA0;&#xB1;&#xA0;7.4
+
+              Dietary energy, kcal
+              1886.6&#xA0;&#xB1;&#xA0;740.1
+              1877.9&#xA0;&#xB1;&#xA0;725.7
+
+              Percentage calories from:
+
+              &#x2003;Fat
+              41.5&#xA0;&#xB1;&#xA0;3.9
+              41.4&#xA0;&#xB1;&#xA0;3.9
+
+              &#x2003;&#x2003;SFAs
+              14.0&#xA0;&#xB1;&#xA0;2.5
+              14.0&#xA0;&#xB1;&#xA0;2.5
+
+              &#x2003;&#x2003;Polyunsaturated fatty acids (PUFAs)
+              8.5&#xA0;&#xB1;&#xA0;2.1
+              8.4&#xA0;&#xB1;&#xA0;2.1
+
+              &#x2003;&#x2003;Monounsaturated fatty acids (MUFAs)
+              15.9&#xA0;&#xB1;&#xA0;1.9
+              15.8&#xA0;&#xB1;&#xA0;2.0
+
+              &#x2003;&#x2003;TFAs
+              3.0&#xA0;&#xB1;&#xA0;1.2
+              3.0&#xA0;&#xB1;&#xA0;1.2
+
+              &#x2003;Carbohydrates
+              42.2&#xA0;&#xB1;&#xA0;5.3
+              42.4&#xA0;&#xB1;&#xA0;5.4
+
+              &#x2003;&#x2003;Added sugar
+              10.8&#xA0;&#xB1;&#xA0;4.5
+              10.8&#xA0;&#xB1;&#xA0;4.5
+
+              &#x2003;&#x2003;Other sources
+              31.5&#xA0;&#xB1;&#xA0;5.0
+              31.6&#xA0;&#xB1;&#xA0;5.1
+
+              &#x2003;Protein
+              16.1&#xA0;&#xB1;&#xA0;2.9
+              16.0&#xA0;&#xB1;&#xA0;2.8
+
+              &#x2003;&#x2003;Animal protein
+              11.7&#xA0;&#xB1;&#xA0;3.1
+              11.6&#xA0;&#xB1;&#xA0;3.1
+
+              &#x2003;&#x2003;Vegetable protein
+              4.4&#xA0;&#xB1;&#xA0;1.0
+              4.4&#xA0;&#xB1;&#xA0;1.0
+
+              &#x2003;Alcohol
+              1.7&#xA0;&#xB1;&#xA0;2.9
+              1.6&#xA0;&#xB1;&#xA0;2.8
+
+              Fruits/vegetables, med serv/d
+              3.3&#xA0;&#xB1;&#xA0;1.7
+              3.3&#xA0;&#xB1;&#xA0;1.7
+
+              Grains, med serv/d
+              4.7&#xA0;&#xB1;&#xA0;2.5
+              4.7&#xA0;&#xB1;&#xA0;2.5
+
+              Dietary fiber, g/d
+              14.8&#xA0;&#xB1;&#xA0;6.1
+              14.8&#xA0;&#xB1;&#xA0;6.1
+
+              Dietary cholesterol, mg/d
+              288.5&#xA0;&#xB1;&#xA0;150.4
+              286.2&#xA0;&#xB1;&#xA0;142.2
+
+              Diet quality scores1
+
+              &#x2003;Healthy Eating Index-20052
+              60.1&#xA0;&#xB1;&#xA0;9.3
+              60.1&#xA0;&#xB1;&#xA0;9.5
+
+              &#x2003;Alternate Mediterranean Diet score3
+              4.0&#xA0;&#xB1;&#xA0;1.7
+              4.0&#xA0;&#xB1;&#xA0;1.7
+
+              &#x2003;Alternative Healthy Eating Index 20104
+              49.1&#xA0;&#xB1;&#xA0;9.7
+              49.0&#xA0;&#xB1;&#xA0;9.9
+
+              &#x2003;Adherence to DASH score5
+              23.4&#xA0;&#xB1;&#xA0;4.3
+              23.3&#xA0;&#xB1;&#xA0;4.4
+
+            1
+            Diet quality scores are summarized in Supplemental Table S1.
+
+            2
+            Healthy Eating Index-2005 scores range from 0 (worst) to 100 (best).
+
+            3
+            Alternate Mediterranean Diet ranges from 0 (worst) to 9 (best).
+
+            4
+            Alternative Healthy Eating Index 2010 ranges from 0 (worst) to 110 (best).
+
+            5
+            DASH score ranges from 8 (worst) to 40 (best).
+
+      The normotensive intervention group reported changes in their dietary habits at 1 y postrandomization that were substantially different from baseline and from the comparison group, who reported minimal dietary change (Table 2). The noteworthy reduction reported in percentage of energy from total fat, manifested in all types of fats (saturated, polyunsaturated, monounsaturated, and trans-fat), were mostly replaced by increased percentage of energy from total carbohydrates, including added sugar sources. On average, there was a comparatively modest increase in percentage of energy from total protein relative to the comparison group, exclusively due to a significant self-reported increase in plant protein, independent of change in energy from animal protein. The increase in plant protein had little variability in intervention participants (CV = SD/mean&#xA0;=&#xA0;1.0;&#xA0;Table 2), whereas change in animal protein was rather variable (CV&#xA0;=&#xA0;17.5). Small reductions in body weight, central adiposity, and blood pressure were observed for this cohort of relatively high-fat eaters at baseline (&#x2265;36.6% energy from fat) randomly assigned to the intervention.
+
+        TABLE 2
+
+          Change (year 1 minus baseline) of selected participant characteristics of normotensive dietary trial who consumed&#xA0;&#x2265;36.6% energy from fat without prior history of CVD by randomization group (n&#xA0;=&#xA0;10,371)1
+
+              Intervention (n&#xA0;=&#xA0;4245)
+              Comparison (n&#xA0;=&#xA0;6126)
+
+P value
+
+              Dietary targets2
+
+              &#x2003;Percentage of energy from total fat
+              25.3&#xA0;&#xB1;&#xA0;7.9
+              37.7&#xA0;&#xB1;&#xA0;6.8
+              &lt;0.001
+
+              &#x2003;Fruits/vegetables, med serv/d
+              4.9&#xA0;&#xB1;&#xA0;2.3
+              3.6&#xA0;&#xB1;&#xA0;1.9
+              &lt;0.001
+
+              &#x2003;Grains, med serv/d
+              5.1&#xA0;&#xB1;&#xA0;2.6
+              4.3&#xA0;&#xB1;&#xA0;2.3
+              &lt;0.001
+
+              &#x2003;&#x2003;Dietary fiber,3 g/d
+              17.7&#xA0;&#xB1;&#xA0;7.1
+              14.5&#xA0;&#xB1;&#xA0;6.1
+              &lt;0.001
+
+              Percentage change in energy from:
+
+              &#x2003;Total fat
+              &#x2212;16.2&#xA0;&#xB1;&#xA0;8.3
+              &#x2212;3.8&#xA0;&#xB1;&#xA0;6.4
+              &lt;0.001
+
+              &#x2003;&#x2003;Saturated fat
+              &#x2212;5.6&#xA0;&#xB1;&#xA0;3.4
+              &#x2212;1.3&#xA0;&#xB1;&#xA0;2.8
+              &lt;0.001
+
+              &#x2003;&#x2003;Polyunsaturated fat
+              &#x2212;3.1&#xA0;&#xB1;&#xA0;2.4
+              &#x2212;0.8&#xA0;&#xB1;&#xA0;2.2
+              &lt;0.001
+
+              &#x2003;&#x2003;Monounsaturated fat
+              &#x2212;6.6&#xA0;&#xB1;&#xA0;3.5
+              &#x2212;1.5&#xA0;&#xB1;&#xA0;2.8
+              &lt;0.001
+
+              &#x2003;&#x2003;Trans-fat
+              &#x2212;1.3&#xA0;&#xB1;&#xA0;1.3
+              &#x2212;0.4&#xA0;&#xB1;&#xA0;1.1
+              &lt;0.001
+
+              &#x2003;Carbohydrates
+              15.1&#xA0;&#xB1;&#xA0;9.0
+              3.3&#xA0;&#xB1;&#xA0;7.0
+              &lt;0.001
+
+              &#x2003;&#x2003;Added sugar
+              1.3&#xA0;&#xB1;&#xA0;4.9
+              0.3&#xA0;&#xB1;&#xA0;4.5
+              &lt;0.001
+
+              &#x2003;&#x2003;Other sources
+              13.8&#xA0;&#xB1;&#xA0;8.7
+              3.0&#xA0;&#xB1;&#xA0;6.6
+              &lt;0.001
+
+              &#x2003;Protein
+              1.5&#xA0;&#xB1;&#xA0;3.2
+              0.5&#xA0;&#xB1;&#xA0;3.0
+              &lt;0.001
+
+              &#x2003;&#x2003;Animal protein
+              0.2&#xA0;&#xB1;&#xA0;3.5
+              0.3&#xA0;&#xB1;&#xA0;3.2
+              0.15
+
+              &#x2003;&#x2003;Vegetable protein
+              1.3&#xA0;&#xB1;&#xA0;1.3
+              0.2&#xA0;&#xB1;&#xA0;1.1
+              &lt;0.001
+
+              &#x2003;Alcohol
+              0.4&#xA0;&#xB1;&#xA0;2.4
+              0.2&#xA0;&#xB1;&#xA0;2.1
+              &lt;0.001
+
+              Change in dietary cholesterol, mg/d
+              &#x2212;110.5&#xA0;&#xB1;&#xA0;138.6
+              &#x2212;37.2&#xA0;&#xB1;&#xA0;128.3
+              &lt;0.001
+
+              Change in participant characteristics:
+
+              &#x2003;Weight, kg
+              &#x2212;2.4&#xA0;&#xB1;&#xA0;7.7
+              0.2&#xA0;&#xB1;&#xA0;8.8
+              &lt;0.001
+
+              &#x2003;Waist circumference, cm
+              &#x2212;2.0&#xA0;&#xB1;&#xA0;6.6
+              &#x2212;0.1&#xA0;&#xB1;&#xA0;6.6
+              &lt;0.001
+
+              &#x2003;Systolic BP, mmHg
+              &#x2212;0.6&#xA0;&#xB1;&#xA0;12.4
+              0.5&#xA0;&#xB1;&#xA0;12.2
+              &lt;0.001
+
+              &#x2003;Diastolic BP, mmHg
+              &#x2212;1.3&#xA0;&#xB1;&#xA0;7.8
+              &#x2212;0.4&#xA0;&#xB1;&#xA0;7.6
+              &lt;0.001
+
+            1
+            Change values are mean&#xA0;&#xB1;&#xA0;SD. BP, blood pressure; CVD, cardiovascular disease; med serv, medium serving.
+
+            2
+            Intervention goals were 20% of energy from total fat, &#x2265;5 servings of vegetables and fruit per day, and&#xA0;&#x2265;6 servings of grains per day.
+
+            3
+            Dietary fiber was not an intervention goal, but can be helpful in distinguishing between changes in complex vs. refined carbohydrates. The mean change in fiber was 3.0 &#xB1; 6.9 and&#xA0;&#x2212;&#xA0;0.3 &#xB1; 5.3 g/d in the intervention and comparison groups, respectively; P value&#xA0;&lt;&#xA0;0.001.
+
+      Overall, all 4 diet quality scores improved in relation to assignment to the intervention (P&#xA0;&lt;&#xA0;0.001), but the magnitude of change varied according to scoring system (Figure 2). The effect size for dietary change was largest for HEI 2005, followed by DASH, but more modest when scored by AHEI and aMed. Across all scores, the intervention had a favorable influence on components related to increased consumption of fruit, vegetables, and whole grains. Consumption of legumes also increased, when scored separately from nuts and seeds (aMed). Components of diet scores that emphasized low-fat dairy consumption (HEI, DASH) were favorably changed, but components of scores that emphasized fish (EPA&#xA0;+&#xA0;DHA aspect of AHEI and aMed) and other unsaturated fatty acids were unchanged. Improvements in diet quality scores (Figure 2) were related mostly to reduced saturated fat and trans-fat intakes.
+
+        FIGURE 2
+
+          Diet quality scores by randomization group among normotensive participants consuming a high-fat diet at baseline. Mean (SD) change (year 1 minus baseline) and effect size of diet quality scores by randomization group in normotensive participants who consumed&#xA0;&#x2265;36.6% energy from fat without a history of CVD (n&#xA0;=&#xA0;10,371); diet quality scores are summarized in Supplemental Table S1. Changes in diet quality scores are ranked by effect size (best to worst) to facilitate comparisons between scores. Likewise, components are ranked to facilitate within-score comparisons. Vertical reference lines indicate effects that are large (0.8 SD), median (0.5 SD), and small (0.2 SD) (17). Diet quality scores and components can have different ranges, so mean (SD) should not be compared across or within scores. AHEI, Alternative Healthy Eating Index; aMed, Alternate Mediterranean Diet; CVD, cardiovascular disease; DASH, Dietary Approaches to Stop Hypertension Trial; HEI, Healthy Eating Index.
+
+      The CHD HR for this analytic cohort of participants with relatively high baseline fat intake (HR&#xA0;=&#xA0;0.67;&#xA0;Figure 3) was similar to results reported by Prentice et al. (1) for the full normotensive cohort (HR&#xA0;=&#xA0;0.70), and not significantly different from the HR of participants who consumed lower percentage energy from total fat and were excluded (HR&#xA0;=&#xA0;0.76; P-interaction&#xA0;=&#xA0;0.55). The HR was robust to choice of timescale (time from baseline compared with time from year 1; HR&#xA0;=&#xA0;0.68 when follow-up starts at year 1 FFQ) and to fine multivariable adjustment for potential confounding factors through extensive stratification (HR&#xA0;=&#xA0;0.63 following adjustment).
+
+        FIGURE 3
+
+          HRs in normotensive participants consuming a high-fat diet at baseline. Forest plot of HR estimates by pertinent study subject characteristics in normotensive participants who consumed&#xA0;&#x2265;36.6% energy from fat without a history of CVD (n&#xA0;=&#xA0;10,371). Fitted HRs (lower half; intervention vs. comparison) for CHD risk are based on the estimated regression coefficients (Supplemental Table S2) evaluated at the average eating patterns reported by the intervention group overall and for increasing changes in energy from protein (Supplemental Table S3) and carbohydrates (Supplemental Table S4). For example, the HRs (0.92, 0.67, 0.55, 0.39) that correspond to increasing change in energy from protein (quartiles: &lt;&#x2212;0.6%, &#x2212;0.6 to &lt;1.3%, 1.3 to &lt;3.3%, &#x2265;3.3%) were computed from the regression coefficients at the observed (average) change in energy from protein (&#x2212;2.6, 0.4, 2.2, 5.3%), carbohydrates (17.1, 14.6, 14.1, 11.9%), and alcohol (0.7, 0.4, 0.3, 0.1%); these changes offset the observed decrease in energy from total fat (&#x2212;15.3, &#x2212;15.3, &#x2212;16.6, &#x2212;17.3%). P values for fitted HRs correspond to tests for trend of the observed eating pattern and are intended to complement, not supersede, P values for specific HR interactions shown in Supplemental Table S2. CHD, coronary heart disease; CVD, cardiovascular disease.
+
+      Simultaneous inclusion of intervention group interaction terms for change in percentage of energy from carbohydrates (P-interaction&#xA0;=&#xA0;0.89; Supplemental Table S2), protein (P-interaction&#xA0;=&#xA0;0.04), and alcohol indicated that the HR reduction for CHD was significantly enhanced in intervention group participants who made relatively larger increases in percentage of energy from protein.
+      Corresponding HR estimates (Figure 3; lower half) evaluated at the average change in eating pattern reported by the intervention group for these macronutrients, illustrate that the reduction in CHD risk was significantly enhanced with increasing protein, particularly vegetable protein consumption (P-trend&#xA0;=&#xA0;0.04). For example, in participants who made the largest increase in protein consumption (upper quartile; Supplemental Table S3), the average change in percentage energy from protein (+5.3%), carbohydrates (+11.9%), and alcohol (0.1%) was necessarily offset by a commensurate reduction in fat (&#x2212;17.3%) that corresponded to a fitted HR = 0.39 (95% CI: 0.22, 0.71). In contrast, the reduction in CHD risk showed little association with the magnitude of carbohydrate increase (P-trend&#xA0;=&#xA0;0.89), with larger carbohydrate increases corresponding to relatively larger fat decreases and also to relatively small protein increases (Figure 3; Supplemental Table S4).
+      Similar analyses were performed for stroke and total CVD but the interactions with change in percentage of energy from protein (P-interaction&#xA0;=&#xA0;0.83 and P-interaction&#xA0;=&#xA0;0.07, respectively; Supplemental Tables S5 and S6) and carbohydrates (P-interaction&#xA0;=&#xA0;0.19 and P-interaction&#xA0;=&#xA0;0.09, respectively). Additional analyses of the significant interaction of protein content with CHD differentiated between sources of protein (animal compared with plant), but yielded similar regression coefficients (Supplemental Table S7), so did not suggest differential benefit (P-heterogeneity&#xA0;=&#xA0;0.87). Additional exploratory analyses that differentiated between sources of carbohydrates (added sugar compared with other) did not suggest a differential effect (P-heterogeneity&#xA0;=&#xA0;0.22). Further analyses investigated an interaction term for unsaturated fat, where its coefficient can be interpreted in terms of replacing energy from saturated and trans-fats by unsaturated fat, but this interaction was not significant (P-interaction&#xA0;=&#xA0;0.78). However, reported decreases in percentage energy from unsaturated fat correlated strongly with reported decreases in percentage energy from saturated and trans-fat, so there was little ability to examine the influence of this type of fat substitution (Supplemental Tables S3, S4, and S8).
+      Exploratory analyses examined components of metabolic syndrome associated with eating patterns changes (Figure 4). Waist circumference decreased with increased protein consumption (P-trend&#xA0;&lt;&#xA0;0.001; Figure 4, left side) with tempered increase in total carbohydrates (Supplemental Table S3). Larger increases in carbohydrate intake, and diminishing increases in animal protein (Supplemental Table S4), were also associated with decreased waist circumference (P-trend&#xA0;&lt;&#xA0;0.001;&#xA0;Figure 4, right side), and decreased systolic (P-trend&#xA0;&lt;&#xA0;0.001) and diastolic (P-trend&#xA0;&lt;&#xA0;0.001) blood pressure, but also reduced HDL-cholesterol (P-trend&#xA0;=&#xA0;0.02).
+
+        FIGURE 4
+
+          Changes in metabolic syndrome components among normotensive participants consuming a high-fat diet at baseline. Forest plot of estimated average change (intervention vs. comparison) for metabolic syndrome components in normotensive participants who consumed&#xA0;&#x2265;36.6% energy from fat without a history of CVD (n&#xA0;=&#xA0;10,371). Estimates of change are based on the estimated regression coefficients evaluated at the average eating patterns reported by the intervention group for increasing changes in energy from protein (Supplemental Table S3) and carbohydrates (Supplemental Table S4). Laboratory measurements based on a 5.8% subsample of trial participants. Because of skewed distributions glucose and triglycerides were log-transformed and ratios of geometric means were presented. BP, blood pressure; CVD, cardiovascular disease; HDL-C, HDL-cholesterol.
+
+      Discussion
+      These analyses examined the self-selected dietary changes made by normotensive intervention participants that were accompanied by significant reductions in their risk of CHD (1). In the full normotensive cohort (HR&#xA0;=&#xA0;0.70; n&#xA0;=&#xA0;23,348) and those above the median intake of percentage energy from total fat (HR&#xA0;=&#xA0;0.67; n&#xA0;=&#xA0;10,371), the significant reduction in CHD was associated with an eating pattern that replaced energy from total fat with total carbohydrate and a small increase in plant-based vegetable protein, primarily derived from beans and legumes. Intervention participants chose varying approaches to achieve dietary goals, and specifically toward reducing total fat intake to &lt;20% of energy intake. The HR reduction for CHD was significantly enhanced in intervention group participants who reported increased percentage energy intake from protein, especially plant-based protein. These findings suggest improvement in CHD risk reduction in these normotensive participants with baseline high fat intake by substituting total protein, as well as carbohydrate, for total fat.
+      WHI nutritionists presented 18 standardized group sessions during the first year, integrating diet and nutrition principles with behavioral concepts aimed at application (18, 19). The first 6 weekly sessions focused on total fat reduction by identifying major sources and introducing skills needed to achieve fundamental changes including label reading and navigating restaurant menus (18, 19). Selection, economic value, and preparation techniques for dark-green vegetables and legumes were emphasized as options for nondairy sources of calcium (Session #3), low-fat alternatives for meat protein (Session #5), and sources of complex carbohydrates high in vegetable protein and dietary fiber (Session #14). Few participants chose to increase intake of soy foods (Session #2), or nuts and seeds (Session #2) to achieve the low-fat goal, but beans and legumes were increased. Group maintenance sessions that occurred quarterly following the first year reinforced the recommended preparation techniques and nutrition principles.
+      Percentage of energy intake specifically from animal protein foods did not differ between randomization groups, consistent with interventions that focused on substituting fish, poultry, or leaner cuts of meat for red or processed meat (20) (Session #5). Participants did not choose to increase fish intake (2, 4) but favored other fat-reduction strategies, including avoidance of fried foods or substituting jam for butter or margarine, as reflected by increased percentage energy from added sugar intake.
+      Although increased consumption of low-fat dairy was not a defined intervention goal the intervention group increased their intake of these foods, thereby resulting in improved HEI scores and especially DASH scores. Intervention sessions in these postmenopausal women emphasized the importance of dietary calcium as essential for bone health that could be maintained by substituting low- or nonfat dairy for high-fat sources (Session #3) similar to eating behavior observed in the antecedent Women's Health Trial (18). Neither the aMed nor AHEI scoring algorithms specify low-fat dairy as a measure of diet quality for disease prevention (14, 15), nor was dairy promoted as part of the Mediterranean diet in the Prevencion con Dieta Mediterranea (PREDIMED) Trial (21). The seminal paper on the Mediterranean dietary pattern by Trichopoulou et al. (16) favored low intake of dairy products.
+      The observed contrast in eating patterns between the WHI DMT groups is more consistent with the landmark DASH feeding trials (13, 22, 23). The DASH &#x201C;combination diet&#x201D; rich in fruits, vegetables, and low-fat dairy, included less total and saturated fat and cholesterol, and larger amounts of potassium, calcium, magnesium, dietary fiber, and protein than the typical American diet. The DASH &#x201C;fruit and vegetable diet&#x201D; was intended to provide higher amounts of potassium, magnesium, and fiber. After 8 wk, both the DASH &#x201C;combination diet&#x201D; and &#x201C;fruit and vegetable diet&#x201D; significantly reduced systolic blood pressure, by 5.5 mmHg and 2.8 mmHg, respectively (13). The 2 DASH diets reduced LDL-cholesterol, by 10.7 mg/dL and 1.9 mg/dL, respectively, but only the combination diet achieved statistical significance (24). Of note, a significant 1.2-mmHg reduction in systolic blood pressure was observed in the WHI normotensive cohort reported here at year 1, with a smaller reduction reported in the full WHI cohort (1, 25), along with a significant 1.9-mg/dL reduction in LDL-cholesterol (1).
+      Adjuncts to a DASH diet (OmniHeart), regarding LDL-cholesterol and systolic blood pressure, were demonstrated (26) by partial substitution of protein, about half from plant sources, or monounsaturated fat for total carbohydrate. The DASH diet was further enhanced and favorably affected a wider range of lipoproteins, by substituting unsaturated fat and protein for total carbohydrate, but no improvement was noted in insulin sensitivity (27).
+      In the setting of a designated clinical outcome for the WHI intervention, dietary changes that achieved greater protein density accompanied by relatively smaller increases in carbohydrate density were associated with further reduced incidence of CHD (28). The catalyzing 30% significant reduction in CHD risk (1) reported in the full cohort of normotensive women (n&#xA0;=&#xA0;23,248) corresponded to a higher average total protein intake in the intervention group compared with the comparison group (17.6% compared with 16.8% at year 1) (1), specifically from increased plant-based protein sources (5.8 compared with 4.8%), with no increase in animal protein (11.8 compared with 11.9%). The present analysis did not reveal this differential benefit between protein sources (P-heterogeneity&#xA0;=&#xA0;0.87) but the choice of a higher protein diet had favorable CHD results. In addition, beans are scored by the HEI as a protein source only after the vegetable requirement has been met, thereby further influencing these scores (29).
+      There was no evidence to suggest that these dietary pattern changes differently influenced incidence of stroke, not a protocol-designated outcome, in women who did or did not have hypertension. In contrast to major benefits in stroke reduction reported by PREDIMED's Mediterranean diets (21), a possible increased stroke risk among normotensive intervention women without prior CVD in the DMT could have been due to chance. As noted by Appel and Van Horn (30) other than the extra virgin olive oil and nuts, there were no major differences in nutrient or food group content compared with the PREDIMED control diet. Both PREDIMED Mediterranean diet groups increased nut consumption, relative to the control diet that, in Spain, inherently includes more olive oil than is typically consumed in the United States. WHI's intervention group avoided nuts and reduced all sources of oil intake in efforts to achieve the low-fat goal.
+      Small decreases in systolic blood pressure were associated with cardiovascular events in large clinical trials (31), but changes in blood pressure did not explain the observed CHD benefit. Reduced total fat intake substituted with increased protein intake accompanied lower energy intake and reduced CHD (Figure 3), but weight loss that accompanied a 2.54-cm (1-inch) reduction in waist circumference can only partially explain this result (Figure 4). Whether involvement of inflammatory, microbial, or other cardiovascular biomarkers as mediators of favorable CHD risk reduction influences is associated with these dietary pattern changes is under investigation (32&#x2013;34).
+      Study strengths include long-term follow-up of a large cohort (n&#xA0;=&#xA0;10,371) within a randomized clinical trial that reinforced dietary changes throughout the trial intervention period (35), demonstrating self-selected response to a dietary behavioral intervention similar to outpatient nutrition programs recommended throughout the United States (36).
+      Limitations include the self-reported FFQ data that prevent more detailed analyses of eating patterns and sources of vegetable protein intake (Supplemental Table S3). Also, the FFQ data might incorporate substantial random and systematic biases. The influence of systematic bias can be expected to be reduced for the dietary change FFQ data as used in our principal analyses, compared with the contributing FFQ estimates, because of differencing out biases related to such characteristics as BMI, age, or race/ethnicity. Random biases can be expected to primarily attenuate the estimated interaction HRs toward the null, thereby reducing the strength of evidence for interaction. Also, as with any free-living diet intervention study, the participants were not blinded and differences in food choices between randomization groups other than those targeted could have emerged. Analysis of other specific dietary changes that were potentially beneficial related to CHD risk (e.g., substitution of unsaturated fat for saturated or trans-fat, or the impact of dietary cholesterol and egg intake), or corroboration of PREDIMED's report (21) were not possible. DMT intervention sessions presented strategies to reduce intake of foods like eggs that are often accompanied by bacon or sausage, and nuts, to help reduce total fat intake. The potential influence of such changes on CVD risk factors, as opposed to the primary aim of reducing risk of breast and colorectal cancers, was not part of the study design. Sacks and colleagues (22) demonstrated that a low-fat diet rich in fruits and vegetables (DASH-diet compared with control), even independent of sodium intake, reduced risk of hypertension. Multiple testing is also an important consideration here, because CHD was a secondary trial outcome, and because these analyses focused on the subset of trial participants who were normotensive and without CVD at baseline, and whose baseline FFQ percentage of energy from fat was above the median. However, these subset restrictions were imposed to avoid biases due to postrandomization by statin use and due to the use of the FFQ, with its substantial random measurement error component, for eligibility screening, rather than being imposed on the basis of subset data analytic results.
+      Data from randomized clinical trials of dietary pattern changes are limited, and large long-term trials with clinical outcomes are even rarer. PREDIMED (21) results increased interest in the Mediterranean-style eating pattern as included within the systematic review of evidence underlying the recommended 2015&#x2013;2020 US Dietary Guidelines (37, 38). Although PREDIMED involved a relatively high total fat intake (38% of total calories) these WHI DMT data (1, 25, 36) reinforce findings showing that reduced total fat intake, similar to a DASH-like pattern, among US women with relatively high baseline fat intake, is a practical and effective alternative to the Mediterranean dietary pattern. This approach is further consistent with reported cancer-related and diabetes prevention benefits (3, 36, 39). In addition, replacement of dietary fat with total carbohydrate did not increase all-cause mortality (1), as was previously suggested by international study data (40), at least not among healthy postmenopausal women in the United States. It is also possible that compliant participants, who had frequent contact with staff and other participants, could have adopted other beneficial lifestyle changes beyond diet such as increased physical activity or stopping smoking, but the dietary changes reported here offer novel insights beyond those available through purely observational studies.
+      In conclusion, these WHI results demonstrate that a behaviorally focused dietary intervention advocating reduction of total fat intake through replacement with plant-based carbohydrate and protein foods favorably reduced risk of CHD with no clear stroke impact. Dissemination of these approaches across a broader population seems plausible but further exploration of specific foods, food groups, and eating patterns best suited for personalized adaptation toward reducing risk for all chronic diseases is highly warranted.
+
+      Supplementary Material
+
+        nzaa021_Supplemental_Tables
+
+            Click here for additional data file.
+
+      ACKNOWLEDGEMENTS
+      The authors&#x2019; contributions were as follows&#x2014;LVH, AKA, BVH, and RLP: designed research (project conception, development of overall research plan, and study oversight); LVH, AKA, CRI, MAA, JEM, MLN, YM-R, CAT, MZV, RBW, and RLP: conducted research (hands-on conduct of the experiments and data collection); AKA and RLP: analyzed data or performed statistical analysis; LVH, AKA, BVH, RLP, JEM, MLN, YM-R, CAT, MZV, and RBW: wrote the paper (only authors who made a major contribution); LVH, AKA, BVH, and RLP: had primary responsibility for final content; and all authors: read and approved the final manuscript.
+
+      Notes
+      The WHI program is supported by the National Heart, Lung, and Blood Institute, NIH, Department of Health and Human Services, Bethesda, MD, USA, through contracts N01WH22110, 24152, 32100&#x2013;2, 32105&#x2013;6, 32108&#x2013;9, 32111&#x2013;13, 32115, 32118&#x2013;32119, 32122, 42107&#x2013;26, 42129&#x2013;32, and 44221.
+      Author disclosures: The authors report no conflicts of interest.
+      Supplemental Tables 1&#x2013;8 are available from the &#x201C;Supplementary data&#x201D; link in the online posting of the article and from the same link in the online table of contents at https://academic.oup.com/cdn/.
+      Abbreviations used: AHEI, Alternative Healthy Eating Index; aMed, Alternate Mediterranean Diet; CHD, coronary heart disease; CVD, cardiovascular disease; DASH, Dietary Approaches to Stop Hypertension Trial; DBP, diastolic blood pressure; DM, dietary modification; DMT, Diet Modification Trial; HEI, Healthy Eating Index; PREDIMED, Prevention with Mediterranean Diet; SBP, systolic blood pressure; WHI, Women's Health Initiative.
+
+      

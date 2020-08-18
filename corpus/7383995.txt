@@ -1,0 +1,1379 @@
+ns are popular and widely used. They have been used as herbal medicines since ancient times and their efficacy has been extensively corroborated. They can promote health and increase lifespan and enhance quality of life,1 and they display a broad spectrum of pharmacological activities, including antimicrobial, anti&#x2010;inflammatory, adaptogenic, stimulatory, and sedative action. Herbs and phytopreparations are effective in therapy and in the prevention of various diseases, e.g. cardiovascular and nervous, gastrointestinal disorders, dermatological conditions, and even different malignancies.1, 2
+
+      Herbal material contains multiple active compounds but, precisely because of their complex composition, herbs are challenging to analyze. There is a wealth of experience and expertise in organic compounds from plant material, including an array of established methods of qualitative and quantitative analysis. However, at the same time, the mineral composition of plants has been downplayed or underinvestigated.
+      There are renowned examples where particular elements have drawn the attention of scientists, such as manganese in tea leaves, selenium in garlic, or iron in spinach &#x2013; usually due to supposed nutritional benefits. Potentially hazardous, toxic elements, e.g. lead, cadmium, mercury, arsenic, or the rising concerns about fluoride in tea3, 4 are controlled; however, even this aspect is scarcely investigated. Due to the lack of research, the World Health Organization states that it is currently unable to recommend limits for contaminants and residues in herbal materials and medicines and that it would be desirable to harmonize limits for toxic metals and standards.5, 6
+
+      Fortunately, in recent decades the development of cutting&#x2010;edge methods of elemental analysis have allowed comprehensive determination of the elements within raw and processed herbal material. Such investigations can focus on food authenticity, traceability, and the determination of geographical and botanical origin. The spectrometric methods employed often include variants of atomic absorption spectroscopy, such as flame atomic absorption spectrometry (FAAS) and similar techniques; inductively coupled plasma (ICP) techniques, e.g. optical emission spectrometry (ICP&#x2010;OES), formerly referred to as atomic emission spectroscopy (ICP&#x2010;AES), or mass spectrometry (ICP&#x2010;MS); and total reflection X&#x2010;ray fluorescence spectrometry (TXRF). Flame atomic absorption spectrometry is useful in the analysis of major and minor elements but is rather time consuming and to extend the analyzable range of elements it is often used in combination with other analytical techniques &#x2013; e.g. FAAS with flame atomic emission spectrometry,7 FAAS with ICP&#x2010;MS,8 FAAS with ICP&#x2010;AES/ICP&#x2010;OES.9, 10 Inductively coupled plasma&#x2010;based techniques allow fast and accurate analysis of a wide range of elements but require matrix&#x2010;matching standards for quantification.8, 11, 12, 13, 14
+
+      Total reflection X&#x2010;ray fluorescence spectrometry offers a compelling alternative to the techniques mentioned above &#x2013; a universal and inexpensive multi&#x2010;element method suitable for macro&#x2010;, micro&#x2010; and trace element analysis, without the need for complex sample preparation.15 Detailed information on the method can be found in Klockenk&#xE4;mper and von Bohlen (2014).16 Total reflection X&#x2010;ray fluorescence was successfully applied for the analysis of teas17, 18, 19 and manufactured herbal blends.18 In the current work, we present our routine for TXRF analysis and show its application for the direct analysis of brewed teas and infusions of medical plants, which are often used for preparation of home&#x2010;made remedies and manufactured tea / herbal blends. The paper is based on the A. Winkler&#x2019;s master's thesis: &#x2018;Total reflection X&#x2010;ray fluorescence analysis of trace elements in black teas and herbal infusions&#x2019;.20
+
+      In this study, we hypothesized that the elemental content of infusions of individual plant material can reflect certain features, i.e. affiliation of plant with a botanical family, influence of production processing (i.e. loose herbs or tea bags), and, specifically for teas (Camellia sinensis), the type of tea and influence of sample preparation when the multiple steeping procedure is used. The objective of the study was to apply multi&#x2010;elemental TXRF analysis to the infusions of selected individual herbs and teas, and further evaluate them by chemometrics analysis (PCA), to find specific fingerprints or common features within the analyzed samples based on their elemental composition.
+
+      MATERIALS AND METHODS
+
+        Sample selection
+        Thirteen kinds of plants and three different teas were selected. Herbal samples included anise, calamus, chamomile, fennel, lapacho (Pau d&#x2019;Arco), lavender, mallow, nettle, peppermint, sage, thyme, valerian, and yarrow. The selection was made subjectively; priority was given to herbs that are well known as traditional medicines or home remedies. For example, anise, calamus, chamomile, fennel, mallow, peppermint, and yarrow are used for relieving stomach conditions; sage and thyme as cough relief; valerian as a sedative, and lapacho, lavender and nettle have a wide range of pharmacological effects and are used in a number of conditions. All the herbs are often used as components in manufactured teas and tea&#x2010;like herbal blends. We focused on investigating the single herbs, to test whether we could determine traits specific to each sample.
+        Most of the loose herbal samples were acquired from Austrian pharmacies or supermarkets, except for the fennel 1 sample, which was purchased in a Latvian pharmacy, and one of the peppermint samples (wild peppermint &#x2013; peppermint W), which was hand&#x2010;picked in Latvia (P&#x13C;avi&#x146;as region). Herbs in tea bags were bought in Austrian supermarkets. Most herbal samples are typical for the flora of Europe, with the exception of lapacho, a tree that is common from north&#x2010;western Mexico to north&#x2010;western Argentina.
+        The teas used were Darjeeling, Oolong and Pu&#x2010;erh. Depending on the processing procedures used, teas can be divided into green tea (non&#x2010;fermented), oolong tea (semi&#x2010;fermented), black tea (fully fermented by oxidizing enzymes) and dark tea (post&#x2010;fermented by microbes).21 Our project therefore covered three of those groups &#x2013; oolong tea, black tea (Darjeeling), and dark tea (Pu&#x2010;erh). Samples of Darjeeling were purchased in Austrian supermarkets. Samples of Oolong and Pu&#x2010;erh were bought in China. For these types of tea, several steepings are recommended (Oolong: three to four times; Pu&#x2010;erh tea: up to 12 times). We therefore analyzed extracts from consecutive brewing steps.
+        Table 1 provides a complete list of herbal material and teas analyzed in this study.
+
+TXRF spectrometer
+        The Atomika 8030C TXRF(Atomika Instruments GmbH, Oberschleissheim, Germany) spectrometer was employed for the measurements. The spectrometer performs simultaneous and fast determination of all elements within the range from sodium to uranium and provides detection limits down to the &#x3BC;g/L level. The spectrometer has a 2.5 kW high power X&#x2010;ray tube with a molybdenum&#x2010;tungsten (Mo/W) mix anode. An 80&#x2009;mm2 Si(Li) detector was used for the analysis of the characteristic fluorescence radiation. The measurement parameters were: measurement time (live time, LT) 1000&#x2009;s; excitation Mo&#x2010;K&#x3B1;; filter 20&#x2009;&#x3BC;m Zr foil; tube current 37&#x2009;mA. Measurements were performed in air.
+
+        Sample carrier cleaning
+        The Atomika 8030C spectrometer is designed for sample carriers that are 3 cm in diameter and about 3&#x2009;mm in height. Usually quartz reflectors are used. After a thorough cleaning, which included ultrasonic baths with Decon 90 cleaning solution (about 20&#x2009;mL Decon 90 in 300&#x2009;mL tri&#x2010;distilled water) and nitric acid (20%&#x2013;30% HNO3), each reflector was measured for 1000&#x2009;s. When no contamination was detected (see supplementary material) the carriers were used for sample measurements.
+        The beakers used for sample preparation were cleaned in a similar way to sample carriers, and controlled before every use. In this case, about 150&#x2009;mL of tri&#x2010;distilled water was boiled in the cleaned beaker for a few minutes; 10&#x2009;&#x3BC;L of this water was pipetted on a clean quartz reflector, tried and measured for 1000&#x2009;s. Only if this procedure did not reveal any contamination was the beaker used for sample preparation.
+        More detailed information on the cleaning procedure can be found in Winkler (2017).20
+
+        Sample preparation
+        The samples selected for analysis are often used in tea / herbal blends but if infusions of such a blended mix were to have been measured, the contribution of single component could not have been determined. In our project we exclusively aimed to detect the elemental composition of each extract separately; the established sample preparation protocol was therefore identical for all the loose herbs, and for the Darjeeling tea samples.
+        Each portion of plant material was weighed using an analytical balance; 50&#x2009;mL of boiling hot tri&#x2010;distilled water was poured over 1 g of the material (i.e. leaves, bark, flowers, fruits), which then was steeped in the hot water for 10 min. This procedure was chosen to maximize the resemblance to &#x2018;homemade&#x2019; tea.
+        As the quantity of the herb in a tea bag was slightly different for each product, 150&#x2009;mL of boiling hot tri&#x2010;distilled water was used for each tea bag. The tea bag was then left in the hot water for 10 min. Tea bags ranged from 1.5 g to 2.25&#x2009;g in mass.
+        As mentioned above, Oolong and Pu&#x2010;erh teas require multiple steepings, due to the specific preparation recommendations for these types of tea. The same leaves were brewed several times using fresh water for the preparation of each steeping. The infusions from each brewing step were taken as separate samples.
+        For the preparation of the Pu&#x2010;erh tea samples, the whole package (a small disc of pressed tea leaves weighting about 4.96&#x2009;g) was used. These leaves were steeped five times in 85&#x2009;mL of tri&#x2010;distilled water. Each time, leaves were left to brew for 30&#x2009;s. Then the liquid infusion (sample) was filled in a test tube. Fresh boiling water was added to the leaves and the next sample was taken after 30&#x2009;s.
+        For the Oolong tea samples, 1 g of the tea leaves was steeped twice in 50&#x2009;mL of tri&#x2010;distilled water. Each steeping took 10 min.
+        Finally, after an infusion was ready and cooled down, approximately 500&#x2009;mg of pure sample were spiked with a suitable amount of Ga to give a final Ga concentration of 1 mg/L (the exact amounts were controlled using laboratory scales, and correction factors were applied to calculate the final concentrations when needed). On five different quartz sample carriers, an aliquot of 10 &#x3BC;L of Ga&#x2010;spiked specimen were pipetted. Samples were dried on a heating plate (5 min) and then measured for 1000&#x2009;s live time.
+
+        Quantification and data analysis
+        Quantification of the samples was performed with respect to the internal standard using the software of the spectrometer. To validate the built&#x2010;in calibration of the software a standard reference material (NIST SRM 1640 &#x2013; Natural Water) was used (additional information in supplementary material). Mean concentrations and standard deviations (out of five replicates) for every element in each sample were calculated with Microsoft Excel. Principal component analysis (PCA) was performed using R statistical software. For this purpose, the data were normalized using standard deviation. Only the elements (i) which were present in all the samples investigated and (ii) for which the data of all five measurements were available were included in the PCA.
+
+      RESULTS AND DISCUSSION
+      The analysis of the 29 different herbal infusions and tea samples identified 13 &#x2018;default&#x2019; elements, which were found in most of the measured samples: P, S, Cl, K, Ca, Mn, Fe, Ni, Cu, Zn, Br, Rb, and Sr. There are also three &#x2018;occasional&#x2019; elements, which could be found only in few samples: Sc, Co, and Ba. The acquired element concentrations for all the samples are presented in the Table 2 (default elements) and Table 3 (occasional elements). They are given as the mean values out of the five replicated measurements and their standard deviations, unless stated otherwise. For reference only we have also included the results for elements present in four measurements out of five in Tables 2 and 3. For this reason, Ti is not included in the list of occasional elements, although it was detected in two and three measurements out of five for valerian 1 and 2 correspondingly (see the Ti peak in the spectrum on Fig. 1). Scandium is difficult to confirm in the presence of calcium, due to the spectral overlap of Sc&#x2010;K&#x3B1; with Ca&#x2010;K&#x3B2;, in the case of nettle; Sc was determined by the fitting software of the Atomika 8030C spectrometer in four out of five samples.
+
+        Table 1
+
+          List of all the analyzed samples
+
+              Nr.
+              Sample name
+              Latin name
+              Part of the plant
+              Source
+
+              Herbs
+              1
+              Anis
+
+Pimpinella anisum L.
+              Fruits
+              Purchased in Austria
+
+              2
+              Calamus
+
+Acorus calamus L.
+              Rhizome
+              Purchased in Austria
+
+              3
+              Chamomile
+
+Matricaria recutita L.
+              Flowers
+              Purchased in Austria
+
+              4
+              Chamomile TB
+              Egypt, East Europe (purchased in Austria)
+
+              5
+              Fennel 1
+              Foeniculum vulgare Mill.
+              Fruits
+              Purchased in Latvia
+
+              6
+              Fennel 2
+              Purchased in Austria
+
+              7
+              Fennel TB
+              Purchased in Austria
+
+              8
+              Lapacho
+
+Handroanthus impetiginosus
+
+              Bark
+              Purchased in Austria
+
+              9
+              Lavender
+              Lavandula angustifolia Mill.
+              Flowers
+              Purchased in Austria
+
+              10
+              Mallow
+
+Malva silvestris L. and Malva neglecta L.
+              Leaves
+              Purchased in Austria
+
+              11
+              Nettle
+
+Urtica dioica L.
+              Leaves
+              Romania (purchased in Austria)
+
+              12
+              Peppermint
+
+Mentha piperita L.
+              Leaves
+              Purchased in Austria
+
+              13
+              Peppermint W
+              collected in Latvia, P&#x13C;avi&#x146;as region
+
+              14
+              Peppermint TB
+              Egypt, East Europe (purchased in Austria)
+
+              15
+              Sage
+
+Salvia officinalis L.
+              Leaves
+              Purchased in Austria
+
+              16
+              Sage TB
+              Purchased in Austria
+
+              17
+              Thyme
+
+Thymus vulgaris L.
+              Whole plant
+              Egypt, Morocco, East Europe, Turkey (purchased in Austria)
+
+              18
+              Valerian 1
+
+Valeriana officinalis L.
+              Roots
+              Purchased in Austria
+
+              19
+              Valerian 2
+
+              20
+              Yarrow
+
+Achillea millefolium L.
+              Whole plant
+              Purchased in Austria
+
+              Tea
+              21
+              Darjeeling
+
+Camellia sinensis (L.) Kuntze
+
+              Leaves
+              Darjeeling region, North India (purchased in Austria)
+
+              22
+              Darjeeling Bio
+              Darjeeling region, North India (purchased in Austria)
+
+              23&#x2013;24
+              Oolong (Oolong#1&#x2013;#2)
+              China, purchased in Yunnan region
+
+              25&#x2013;29
+              Pu&#x2010;erh (Pu&#x2010;erh#1&#x2013;#5)
+              China, purchased in Yunnan region
+
+            For herbs, if not stated otherwise, loose material was used; plant material received from several sources is differentiated by index number. TB stands for manufactured tea bags. The sample obtained from hand&#x2010;picked wild peppermint leaves is denoted as Peppermint W. Several steepings of Oolong and Pu&#x2010;erh teas are denoted with # and index number. For tea only loose material was used.
+
+        Table 2
+
+          Means and standard deviations of the default elements for all measured samples are given in mg/L
+
+              P&#x2010;K
+              S&#x2010;K
+              Cl&#x2010;K
+              K&#x2013;K
+              Ca&#x2010;K
+              Mn&#x2010;K
+              Fe&#x2010;K
+              Ni&#x2010;K
+              Cu&#x2010;K
+              Zn&#x2010;K
+              Br&#x2010;K
+              Rb&#x2010;K
+              Sr&#x2010;K
+
+Herbs
+
+              Anis
+              6.22&#x2009;&#xB1;&#x2009;0.32
+              13.9&#x2009;&#xB1;&#x2009;0.6
+              18.7&#x2009;&#xB1;&#x2009;0.7
+              233&#x2009;&#xB1;&#x2009;5
+              35.7&#x2009;&#xB1;&#x2009;0.5
+              0.095&#x2009;&#xB1;&#x2009;0.005
+              0.18&#x2009;&#xB1;&#x2009;0.04
+              0.0570&#x2009;&#xB1;&#x2009;0.0024
+              0.0357&#x2009;&#xB1;&#x2009;0.0025
+              0.1130&#x2009;&#xB1;&#x2009;0.0032
+              0.101&#x2009;&#xB1;&#x2009;0.004
+              0.1351&#x2009;&#xB1;&#x2009;0.0026
+              0.0622&#x2009;&#xB1;&#x2009;0.0017
+
+              Calamus
+              27&#x2009;&#xB1;&#x2009;6
+              18&#x2009;&#xB1;&#x2009;4
+              28&#x2009;&#xB1;&#x2009;5
+              135&#x2009;&#xB1;&#x2009;13
+              7.3&#x2009;&#xB1;&#x2009;0.7
+              0.231&#x2009;&#xB1;&#x2009;0.016
+              0.38&#x2009;&#xB1;&#x2009;0.05
+              &#x2014;
+              0.0393&#x2009;&#xB1;&#x2009;0.0031
+              0.051&#x2009;&#xB1;&#x2009;0.006
+              0.0579&#x2009;&#xB1;&#x2009;0.0016
+              0.0806&#x2009;&#xB1;&#x2009;0.0031
+              0.0171&#x2009;&#xB1;&#x2009;0.0015
+
+              Chamomile
+              55.5&#x2009;&#xB1;&#x2009;2.8
+              37.7&#x2009;&#xB1;&#x2009;2.2
+              117&#x2009;&#xB1;&#x2009;9
+              456&#x2009;&#xB1;&#x2009;22
+              29.7&#x2009;&#xB1;&#x2009;1.0
+              1.44&#x2009;&#xB1;&#x2009;0.04
+              0.081&#x2009;&#xB1;&#x2009;0.024
+              0.1260&#x2009;&#xB1;&#x2009;0.0032
+              0.112&#x2009;&#xB1;&#x2009;0.006
+              0.308&#x2009;&#xB1;&#x2009;0.012
+              0.616&#x2009;&#xB1;&#x2009;0.022
+              0.142&#x2009;&#xB1;&#x2009;0.005
+              0.0235&#x2009;&#xB1;&#x2009;0.0013
+
+              Chamomile TB
+              18.9&#x2009;&#xB1;&#x2009;1.6
+              31.4&#x2009;&#xB1;&#x2009;1.2
+              197&#x2009;&#xB1;&#x2009;20
+              277.7&#x2009;&#xB1;&#x2009;3.1
+              42.6&#x2009;&#xB1;&#x2009;0.4
+              0.322&#x2009;&#xB1;&#x2009;0.009
+              0.105&#x2009;&#xB1;&#x2009;0.025
+              0.0312&#x2009;&#xB1;&#x2009;0.0029
+              0.0679&#x2009;&#xB1;&#x2009;0.0026
+              1.051&#x2009;&#xB1;&#x2009;0.006
+              0.358&#x2009;&#xB1;&#x2009;0.006
+              0.0535&#x2009;&#xB1;&#x2009;0.0026
+              0.4317&#x2009;&#xB1;&#x2009;0.0023
+
+              Fennel 1
+              5.7&#x2009;&#xB1;&#x2009;0.8
+              37.9&#x2009;&#xB1;&#x2009;2.0
+              208&#x2009;&#xB1;&#x2009;13
+              550&#x2009;&#xB1;&#x2009;40
+              92.5&#x2009;&#xB1;&#x2009;2.3
+              0.189&#x2009;&#xB1;&#x2009;0.005
+              0.32&#x2009;&#xB1;&#x2009;0.10
+              0.021&#x2009;&#xB1;&#x2009;0.005
+              0.0833&#x2009;&#xB1;&#x2009;0.0025
+              0.877&#x2009;&#xB1;&#x2009;0.009
+              0.298&#x2009;&#xB1;&#x2009;0.006
+              0.365&#x2009;&#xB1;&#x2009;0.007
+              0.739&#x2009;&#xB1;&#x2009;0.005
+
+              Fennel 2
+              5.2&#x2009;&#xB1;&#x2009;0.4
+              6.23&#x2009;&#xB1;&#x2009;0.30
+              13.0&#x2009;&#xB1;&#x2009;0.6
+              113&#x2009;&#xB1;&#x2009;4
+              11.24&#x2009;&#xB1;&#x2009;0.23
+              0.0126&#x2009;&#xB1;&#x2009;0.0021
+              0.036&#x2009;&#xB1;&#x2009;0.021
+              &#x2014;
+              0.0188&#x2009;&#xB1;&#x2009;0.0028
+              0.020&#x2009;&#xB1;&#x2009;0.007
+              0.0333&#x2009;&#xB1;&#x2009;0.0014
+              0.0210&#x2009;&#xB1;&#x2009;0.0016
+              0.0209&#x2009;&#xB1;&#x2009;0.0015
+
+              Fennel TB
+              8.3&#x2009;&#xB1;&#x2009;1.1
+              25.6&#x2009;&#xB1;&#x2009;0.7
+              99.5&#x2009;&#xB1;&#x2009;3.3
+              347&#x2009;&#xB1;&#x2009;8
+              24.98&#x2009;&#xB1;&#x2009;0.30
+              0.097&#x2009;&#xB1;&#x2009;0.006
+              0.234&#x2009;&#xB1;&#x2009;0.029
+              0.0300&#x2009;&#xB1;&#x2009;0.0024
+              0.1163&#x2009;&#xB1;&#x2009;0.0034
+              0.219&#x2009;&#xB1;&#x2009;0.004
+              0.060&#x2009;&#xB1;&#x2009;0.005
+              0.1205&#x2009;&#xB1;&#x2009;0.0027
+              0.2461&#x2009;&#xB1;&#x2009;0.0014
+
+              Lapacho
+              &#x2014;
+              3.8&#x2009;&#xB1;&#x2009;0.4
+              5.2&#x2009;&#xB1;&#x2009;1.8
+              39.1&#x2009;&#xB1;&#x2009;0.8
+              16.6&#x2009;&#xB1;&#x2009;0.4
+              0.110&#x2009;&#xB1;&#x2009;0.005
+              0.127&#x2009;&#xB1;&#x2009;0.028
+              0.0106&#x2009;&#xB1;&#x2009;0.0028
+              0.0158&#x2009;&#xB1;&#x2009;0.0021
+              0.128&#x2009;&#xB1;&#x2009;0.021
+              0.190&#x2009;&#xB1;&#x2009;0.008
+              0.0596&#x2009;&#xB1;&#x2009;0.0022
+              0.1559&#x2009;&#xB1;&#x2009;0.0031
+
+              Lavender
+              12.3&#x2009;&#xB1;&#x2009;1.2
+              18.4&#x2009;&#xB1;&#x2009;1.1
+              33.7&#x2009;&#xB1;&#x2009;1.6
+              319&#x2009;&#xB1;&#x2009;7
+              37.5&#x2009;&#xB1;&#x2009;0.9
+              0.193&#x2009;&#xB1;&#x2009;0.009
+              0.177&#x2009;&#xB1;&#x2009;0.022
+              0.0143&#x2009;&#xB1;&#x2009;0.0025
+              0.089&#x2009;&#xB1;&#x2009;0.004
+              0.1294&#x2009;&#xB1;&#x2009;0.0030
+              0.0943&#x2009;&#xB1;&#x2009;0.0033
+              0.321&#x2009;&#xB1;&#x2009;0.005
+              0.0652&#x2009;&#xB1;&#x2009;0.0020
+
+              Mallow
+              113&#x2009;&#xB1;&#x2009;10
+              99.2&#x2009;&#xB1;&#x2009;2.8
+              122.0&#x2009;&#xB1;&#x2009;3.3
+              1001&#x2009;&#xB1;&#x2009;35
+              261&#x2009;&#xB1;&#x2009;5
+              0.46&#x2009;&#xB1;&#x2009;0.04
+              0.43&#x2009;&#xB1;&#x2009;0.07
+              0.108&#x2009;&#xB1;&#x2009;0.011
+              0.191&#x2009;&#xB1;&#x2009;0.016
+              0.58&#x2009;&#xB1;&#x2009;0.04
+              0.220&#x2009;&#xB1;&#x2009;0.007
+              0.123&#x2009;&#xB1;&#x2009;0.007
+              0.210&#x2009;&#xB1;&#x2009;0.005
+
+              Nettle
+              15.2&#x2009;&#xB1;&#x2009;1.7
+              76&#x2009;&#xB1;&#x2009;8
+              59&#x2009;&#xB1;&#x2009;4
+              710&#x2009;&#xB1;&#x2009;60
+              176.5&#x2009;&#xB1;&#x2009;2.1
+              0.178&#x2009;&#xB1;&#x2009;0.007
+              0.21&#x2009;&#xB1;&#x2009;0.04
+              0.025&#x2009;&#xB1;&#x2009;0.008
+              0.068&#x2009;&#xB1;&#x2009;0.007
+              0.460&#x2009;&#xB1;&#x2009;0.025
+              0.079&#x2009;&#xB1;&#x2009;0.005
+              0.083&#x2009;&#xB1;&#x2009;0.009
+              0.951&#x2009;&#xB1;&#x2009;0.027
+
+              Peppermint
+              54.7&#x2009;&#xB1;&#x2009;1.9
+              36.3&#x2009;&#xB1;&#x2009;1.0
+              269&#x2009;&#xB1;&#x2009;11
+              793&#x2009;&#xB1;&#x2009;18
+              101.6&#x2009;&#xB1;&#x2009;1.1
+              0.349&#x2009;&#xB1;&#x2009;0.005
+              0.080&#x2009;&#xB1;&#x2009;0.011
+              0.053&#x2009;&#xB1;&#x2009;0.004
+              0.099&#x2009;&#xB1;&#x2009;0.008
+              0.182&#x2009;&#xB1;&#x2009;0.010
+              0.389&#x2009;&#xB1;&#x2009;0.010
+              0.088&#x2009;&#xB1;&#x2009;0.004
+              0.0627&#x2009;&#xB1;&#x2009;0.0028
+
+              Peppermint W
+              16.2&#x2009;&#xB1;&#x2009;1.3
+              65.8&#x2009;&#xB1;&#x2009;0.5
+              138.1&#x2009;&#xB1;&#x2009;1.6
+              284.9&#x2009;&#xB1;&#x2009;2.2
+              55.76&#x2009;&#xB1;&#x2009;0.19
+              0.289&#x2009;&#xB1;&#x2009;0.004
+              0.16&#x2009;&#xB1;&#x2009;0.05
+              0.0172&#x2009;&#xB1;&#x2009;0.0034
+              0.0394&#x2009;&#xB1;&#x2009;0.0032
+              0.116&#x2009;&#xB1;&#x2009;0.006
+              0.189&#x2009;&#xB1;&#x2009;0.004
+              0.089&#x2009;&#xB1;&#x2009;0.004
+              0.427&#x2009;&#xB1;&#x2009;0.005
+
+              Peppermint TB
+              22.4&#x2009;&#xB1;&#x2009;1.7
+              108&#x2009;&#xB1;&#x2009;6
+              61.9&#x2009;&#xB1;&#x2009;2.3
+              123&#x2009;&#xB1;&#x2009;4
+              132&#x2009;&#xB1;&#x2009;4
+              1.139&#x2009;&#xB1;&#x2009;0.020
+              0.269&#x2009;&#xB1;&#x2009;0.008
+              0.016&#x2009;&#xB1;&#x2009;0.004
+              0.050&#x2009;&#xB1;&#x2009;0.008
+              0.136&#x2009;&#xB1;&#x2009;0.008
+              0.974&#x2009;&#xB1;&#x2009;0.021
+              0.1903&#x2009;&#xB1;&#x2009;0.0035
+              0.380&#x2009;&#xB1;&#x2009;0.010
+
+              Sage
+              7.9&#x2009;&#xB1;&#x2009;1.2
+              39.3&#x2009;&#xB1;&#x2009;1.1
+              28.4&#x2009;&#xB1;&#x2009;1.6
+              306&#x2009;&#xB1;&#x2009;10
+              113.5&#x2009;&#xB1;&#x2009;1.6
+              0.257&#x2009;&#xB1;&#x2009;0.005
+              0.071&#x2009;&#xB1;&#x2009;0.012
+              0.0120&#x2009;&#xB1;&#x2009;0.0028
+              0.0395&#x2009;&#xB1;&#x2009;0.0024
+              0.176&#x2009;&#xB1;&#x2009;0.005
+              0.114&#x2009;&#xB1;&#x2009;0.004
+              0.274&#x2009;&#xB1;&#x2009;0.011
+              0.0657&#x2009;&#xB1;&#x2009;0.0022
+
+              Sage TB
+              10.7&#x2009;&#xB1;&#x2009;1.2
+              22.3&#x2009;&#xB1;&#x2009;0.8
+              20.1&#x2009;&#xB1;&#x2009;2.6
+              235&#x2009;&#xB1;&#x2009;7
+              78.6&#x2009;&#xB1;&#x2009;1.0
+              0.295&#x2009;&#xB1;&#x2009;0.007
+              0.25&#x2009;&#xB1;&#x2009;0.04
+              0.0229&#x2009;&#xB1;&#x2009;0.0030
+              0.021&#x2009;&#xB1;&#x2009;0.005
+              0.1582&#x2009;&#xB1;&#x2009;0.0022
+              0.133&#x2009;&#xB1;&#x2009;0.005
+              0.166&#x2009;&#xB1;&#x2009;0.006
+              0.0909&#x2009;&#xB1;&#x2009;0.0032
+
+              Thyme
+              15.4&#x2009;&#xB1;&#x2009;2.0
+              25.8&#x2009;&#xB1;&#x2009;0.6
+              42.3&#x2009;&#xB1;&#x2009;1.2
+              273.4&#x2009;&#xB1;&#x2009;2.9
+              123.4&#x2009;&#xB1;&#x2009;1.4
+              0.858&#x2009;&#xB1;&#x2009;0.018
+              0.24&#x2009;&#xB1;&#x2009;0.04
+              0.0135&#x2009;&#xB1;&#x2009;0.0029
+              0.062&#x2009;&#xB1;&#x2009;0.004
+              0.1782&#x2009;&#xB1;&#x2009;0.0032
+              0.298&#x2009;&#xB1;&#x2009;0.006
+              0.494&#x2009;&#xB1;&#x2009;0.010
+              0.0798&#x2009;&#xB1;&#x2009;0.0029
+
+              Valerian 1
+              33.6&#x2009;&#xB1;&#x2009;2.6
+              17.6&#x2009;&#xB1;&#x2009;1.4
+              10.2&#x2009;&#xB1;&#x2009;0.7
+              257&#x2009;&#xB1;&#x2009;9
+              5.17&#x2009;&#xB1;&#x2009;0.20
+              0.284&#x2009;&#xB1;&#x2009;0.009
+              0.47&#x2009;&#xB1;&#x2009;0.04
+              0.0221&#x2009;&#xB1;&#x2009;0.0031
+              0.025&#x2009;&#xB1;&#x2009;0.004
+              0.128&#x2009;&#xB1;&#x2009;0.006
+              0.0114&#x2009;&#xB1;&#x2009;0.0009
+              0.101&#x2009;&#xB1;&#x2009;0.004
+              0.0167&#x2009;&#xB1;&#x2009;0.0022
+
+              Valerian 2
+              23.6&#x2009;&#xB1;&#x2009;1.0
+              15.8&#x2009;&#xB1;&#x2009;0.5
+              8.48&#x2009;&#xB1;&#x2009;0.23
+              209.3&#x2009;&#xB1;&#x2009;2.6
+              6.97&#x2009;&#xB1;&#x2009;0.07
+              0.345&#x2009;&#xB1;&#x2009;0.004
+              0.80&#x2009;&#xB1;&#x2009;0.11
+              0.0204&#x2009;&#xB1;&#x2009;0.0026
+              0.0406&#x2009;&#xB1;&#x2009;0.0016
+              0.112&#x2009;&#xB1;&#x2009;0.004
+              0.0163&#x2009;&#xB1;&#x2009;0.0017
+              0.1498&#x2009;&#xB1;&#x2009;0.0016
+              0.0113&#x2009;&#xB1;&#x2009;0.0018
+
+              Yarrow
+              41.7&#x2009;&#xB1;&#x2009;1.4
+              19.1&#x2009;&#xB1;&#x2009;0.6
+              126.2&#x2009;&#xB1;&#x2009;2.2
+              457&#x2009;&#xB1;&#x2009;7
+              28.21&#x2009;&#xB1;&#x2009;0.14
+              0.381&#x2009;&#xB1;&#x2009;0.010
+              0.18&#x2009;&#xB1;&#x2009;0.07
+              0.056&#x2009;&#xB1;&#x2009;0.009
+              0.0691&#x2009;&#xB1;&#x2009;0.0034
+              0.117&#x2009;&#xB1;&#x2009;0.007
+              0.828&#x2009;&#xB1;&#x2009;0.014
+              0.142&#x2009;&#xB1;&#x2009;0.004
+              0.0825&#x2009;&#xB1;&#x2009;0.0019
+
+Teas
+
+              Darjeeling
+              46.8&#x2009;&#xB1;&#x2009;1.5
+              42.8&#x2009;&#xB1;&#x2009;0.7
+              18.2&#x2009;&#xB1;&#x2009;0.7
+              525&#x2009;&#xB1;&#x2009;7
+              4.69&#x2009;&#xB1;&#x2009;0.15
+              3.267&#x2009;&#xB1;&#x2009;0.022
+              0.166&#x2009;&#xB1;&#x2009;0.011
+              0.203&#x2009;&#xB1;&#x2009;0.005
+              0.078&#x2009;&#xB1;&#x2009;0.005
+              0.542&#x2009;&#xB1;&#x2009;0.004
+              0.0918&#x2009;&#xB1;&#x2009;0.0027
+              2.006&#x2009;&#xB1;&#x2009;0.019
+              0.015&#x2009;&#xB1;&#x2009;0.004a
+
+              Darjeeling Bio
+              33.1&#x2009;&#xB1;&#x2009;2.4
+              34.6&#x2009;&#xB1;&#x2009;1.6
+              13.8&#x2009;&#xB1;&#x2009;0.8
+              495&#x2009;&#xB1;&#x2009;12
+              3.50&#x2009;&#xB1;&#x2009;0.15
+              4.29&#x2009;&#xB1;&#x2009;0.06
+              0.075&#x2009;&#xB1;&#x2009;0.027
+              0.171&#x2009;&#xB1;&#x2009;0.006
+              0.1269&#x2009;&#xB1;&#x2009;0.0023
+              0.433&#x2009;&#xB1;&#x2009;0.015
+              0.0646&#x2009;&#xB1;&#x2009;0.0024
+              1.403&#x2009;&#xB1;&#x2009;0.015
+              0.0143&#x2009;&#xB1;&#x2009;0.0029
+
+              Oolong#1
+              26.0&#x2009;&#xB1;&#x2009;1.0
+              13.40&#x2009;&#xB1;&#x2009;0.23
+              27.4&#x2009;&#xB1;&#x2009;0.4
+              286.3&#x2009;&#xB1;&#x2009;2.6
+              1.22&#x2009;&#xB1;&#x2009;0.04
+              2.035&#x2009;&#xB1;&#x2009;0.011
+              0.021&#x2009;&#xB1;&#x2009;0.007
+              0.0293&#x2009;&#xB1;&#x2009;0.0019
+              0.13&#x2009;&#xB1;&#x2009;0.23
+              0.196&#x2009;&#xB1;&#x2009;0.009
+              0.0103&#x2009;&#xB1;&#x2009;0.0013
+              0.5605&#x2009;&#xB1;&#x2009;0.0025
+              &#x2014;
+
+              Oolong#2
+              7.0&#x2009;&#xB1;&#x2009;0.8
+              4.3&#x2009;&#xB1;&#x2009;0.5
+              3.2&#x2009;&#xB1;&#x2009;0.6
+              92.0&#x2009;&#xB1;&#x2009;3.4
+              0.419&#x2009;&#xB1;&#x2009;0.021
+              0.600&#x2009;&#xB1;&#x2009;0.010
+              0.020&#x2009;&#xB1;&#x2009;0.006
+              &#x2014;
+              0.0104&#x2009;&#xB1;&#x2009;0.0017
+              0.057&#x2009;&#xB1;&#x2009;0.004
+              &#x2014;
+              0.1729&#x2009;&#xB1;&#x2009;0.0029
+              &#x2014;
+
+              Pu&#x2010;erh#1
+              10.26&#x2009;&#xB1;&#x2009;0.13
+              4.48&#x2009;&#xB1;&#x2009;0.32
+              3.98&#x2009;&#xB1;&#x2009;0.28
+              62.4&#x2009;&#xB1;&#x2009;1.0
+              0.724&#x2009;&#xB1;&#x2009;0.014
+              0.489&#x2009;&#xB1;&#x2009;0.011
+              0.074&#x2009;&#xB1;&#x2009;0.006
+              0.0131&#x2009;&#xB1;&#x2009;0.0031
+              &#x2014;
+              0.037&#x2009;&#xB1;&#x2009;0.004
+              0.0080&#x2009;&#xB1;&#x2009;0.0018a
+
+              0.317&#x2009;&#xB1;&#x2009;0.006
+              0.0092&#x2009;&#xB1;&#x2009;0.0013
+
+              Pu&#x2010;erh#2
+              38.5&#x2009;&#xB1;&#x2009;0.7
+              17.96&#x2009;&#xB1;&#x2009;0.31
+              12.9&#x2009;&#xB1;&#x2009;0.4
+              273.9&#x2009;&#xB1;&#x2009;3.3
+              2.91&#x2009;&#xB1;&#x2009;0.11
+              2.416&#x2009;&#xB1;&#x2009;0.025
+              0.32&#x2009;&#xB1;&#x2009;0.04
+              0.0612&#x2009;&#xB1;&#x2009;0.0031
+              0.0244&#x2009;&#xB1;&#x2009;0.0014
+              0.1338&#x2009;&#xB1;&#x2009;0.0031
+              0.0374&#x2009;&#xB1;&#x2009;0.0017
+              1.430&#x2009;&#xB1;&#x2009;0.024
+              0.0479&#x2009;&#xB1;&#x2009;0.0026
+
+              Pu&#x2010;erh#3
+              50.6&#x2009;&#xB1;&#x2009;3.0
+              24.2&#x2009;&#xB1;&#x2009;1.0
+              15.2&#x2009;&#xB1;&#x2009;1.2
+              372&#x2009;&#xB1;&#x2009;12
+              4.93&#x2009;&#xB1;&#x2009;0.08
+              3.75&#x2009;&#xB1;&#x2009;0.09
+              0.603&#x2009;&#xB1;&#x2009;0.020
+              0.084&#x2009;&#xB1;&#x2009;0.005
+              0.0368&#x2009;&#xB1;&#x2009;0.0020
+              0.198&#x2009;&#xB1;&#x2009;0.008
+              0.0494&#x2009;&#xB1;&#x2009;0.0034
+              1.96&#x2009;&#xB1;&#x2009;0.05
+              0.0694&#x2009;&#xB1;&#x2009;0.0018
+
+              Pu&#x2010;erh#4
+              26.6&#x2009;&#xB1;&#x2009;1.8
+              12.3&#x2009;&#xB1;&#x2009;0.4
+              5.6&#x2009;&#xB1;&#x2009;0.9
+              229.4&#x2009;&#xB1;&#x2009;3.3
+              2.97&#x2009;&#xB1;&#x2009;0.08
+              2.223&#x2009;&#xB1;&#x2009;0.029
+              0.265&#x2009;&#xB1;&#x2009;0.021
+              0.049&#x2009;&#xB1;&#x2009;0.004
+              0.0245&#x2009;&#xB1;&#x2009;0.0026
+              0.116&#x2009;&#xB1;&#x2009;0.006
+              0.0244&#x2009;&#xB1;&#x2009;0.0017
+              1.190&#x2009;&#xB1;&#x2009;0.011
+              0.0339&#x2009;&#xB1;&#x2009;0.0021
+
+              Pu&#x2010;erh#5
+              8.9&#x2009;&#xB1;&#x2009;1.4
+              4.26&#x2009;&#xB1;&#x2009;0.18
+              2.20&#x2009;&#xB1;&#x2009;0.25
+              111.7&#x2009;&#xB1;&#x2009;3.5
+              1.71&#x2009;&#xB1;&#x2009;0.06
+              0.955&#x2009;&#xB1;&#x2009;0.018
+              0.18&#x2009;&#xB1;&#x2009;0.05
+              0.0186&#x2009;&#xB1;&#x2009;0.0015
+              0.0122&#x2009;&#xB1;&#x2009;0.0008
+              0.0586&#x2009;&#xB1;&#x2009;0.0017
+              0.0098&#x2009;&#xB1;&#x2009;0.0009
+              0.591&#x2009;&#xB1;&#x2009;0.015
+              0.0122&#x2009;&#xB1;&#x2009;0.0014a
+
+            Means and standard deviation were calculated from the results of five measurements for each sample, with the exception of the fourth steeping of the Pu&#x2010;erh tea (Pu&#x2010;ehr#4), which was measured six times.
+
+            a
+            Detected in four out of five measurements.
+
+        Table 3
+
+          Means and standard deviations of the occasional elements for all measured samples are given in mg/L
+
+              Sc&#x2010;K
+              Co&#x2010;K
+              Ba&#x2010;L
+
+Herbs
+
+              Anis
+              &#x2010;
+              0.012&#xB1;0.004
+              &#x2010;
+
+              Calamus
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Chamomile
+              &#x2010;
+              0.016&#xB1;0.005
+              &#x2010;
+
+              Chamomile TB
+              &#x2010;
+              0.0199&#xB1;0.0019
+              &#x2010;
+
+              Fennel 1
+              &#x2010;
+              0.035&#xB1;0.006
+              &#x2010;
+
+              Fennel 2
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Fennel TB
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Lapacho
+              &#x2010;
+              &#x2010;
+              0.210&#xB1;0.035
+
+              Lavender
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Mallow
+              &#x2010;
+              0.055&#xB1;0.011
+              &#x2010;
+
+              Nettle
+              0.24&#xB1;0.05a
+
+              0.030&#xB1;0.008
+              &#x2010;
+
+              Peppermint
+              &#x2010;
+              0.039&#xB1;0.010
+              &#x2010;
+
+              Peppermint W
+              &#x2010;
+              &#x2010;
+              0.165&#xB1;0.031
+
+              Peppermint TB
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Sage
+              &#x2010;
+              0.0146&#xB1;0.0026
+              &#x2010;
+
+              Sage TB
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Thyme
+              &#x2010;
+              0.0165&#xB1;0.0029a
+
+              0.204&#xB1;0.020a
+
+              Valerian 1
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Valerian 2
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Yarrow
+              &#x2010;
+              0.0146&#xB1;0.0035
+              &#x2010;
+
+Teas
+
+              Darjeeling
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Darjeeling Bio
+              &#x2010;
+              0.0161&#xB1;0.0013a
+
+              &#x2010;
+
+              Oolong#1
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Oolong#2
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Pu&#x2010;erh#1
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Pu&#x2010;erh#2
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Pu&#x2010;erh#3
+              &#x2010;
+              0.0125&#xB1;0.0017a
+
+              &#x2010;
+
+              Pu&#x2010;erh#4
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+              Pu&#x2010;erh#5
+              &#x2010;
+              &#x2010;
+              &#x2010;
+
+            Means and standard deviation were calculated from the results of five measurements for each sample, with the exception of the fourth steeping of the Pu&#x2010;erh tea (Pu&#x2010;ehr#4), which was measured six times.
+
+            a
+            Detected in four out of five measurements.
+
+        Figure 1
+
+          Spectra of typical tea (Darjeeling sample) and typical herbal infusion (Valerian 1 sample).
+
+      As stated above, only the elements which were found in all five samples, and for which all five measurements were quantifiable, were included in the PCA.
+
+        Elemental composition of infusions and teas
+        Figure 1 shows a comparison of the typical spectra from a tea and a herbal infusion. The mineral content of the tea has been well investigated,17, 19 and as expected, Mn and Rb concentrations in tea sample were higher, than in the herbal infusion.
+        We aimed to identify the potential fingerprints for individual herbal / tea infusions. Naturally, however, even the samples of the same plant material, but obtained from different sources, demonstrate variations in the concentrations of elements (Fig. 2). Factors such as plant origin, soil composition, production processing, and packaging can be responsible for these variations.
+
+          Figure 2
+
+            Comparison of the average values and standard deviations within similar plant material. Left&#x2010;hand side: Peppermint samples. Note the logarithmic scale in the range 10&#x2013;815&#x2009;mg/L. Right&#x2010;hand side: Darjeeling samples. Note the logarithmic scale in the range 1,2&#x2013;550&#x2009;mg/L. Asterisk marks the elements detected only in four out of five measurements.
+
+        To evaluate the data trends, we therefore performed PCA, using the mineral content of the analyzed samples as chemical descriptors. Principal component analysis is normally used for data with large numbers of dimensions. The analysis serves to structure, simplify and illustrate the extensive data sets by approximating a large number of statistical variables by a smaller number of possible linear combinations (the so&#x2010;called main components). As we had the two apparent groups within our data set &#x2013; herbal infusions and teas &#x2013; these groups were compared in the first instance. The result can be seen on Fig. 3. PC1 and PC2 are the most meaningful components, representing 65.5% of the total variance (PC1 = 39.7%, PC2 = 25.8%), so they were chosen for graphical representation. Contributions of the elements to the first (x&#x2010;axis) and the second (y&#x2010;axis) PCA dimensions are shown on the right (Mn and Rb contribute the most in PC2).
+
+          Figure 3
+
+            Teas versus herbal infusions: PCA plot (left) and variables factor map (right). On the PCA plot tea is represented by black dots and herbal infusions by green dots.
+
+        The distinct separation of the herbal infusions and teas can be seen. We could demonstrate that the method of TXRF is sensitive enough to measure the relevant elements and covers wide range of elements &#x2013; not only metals, but also non&#x2010;metallic elements (e.g. S, Cl). Broader range of elements might aid the differentiation of the samples. The method of sample preparation &#x2013; infusions &#x2013; is also practical and straightforward and was adequate for characterization of the samples. It is important to note that we did not detect lead (Pb) or other potentially hazardous and toxic metals (e.g. Cd, As, Hg) in any of our samples.
+        Similar studies, aiming to differentiate teas and herbs, were performed by Dalipi et al.18 and Veljkovi&#x107; et al.22 Dalipi et al., and compared the manufactured mixed herbal tea bags and teas (various kinds of green, black, and oolong) using TXRF. In their case PCA was used to differentiate between green, black, and oolong teas, mixed herbs, and ginseng infusions, and revealed K, Ca, Ba, and Sr as the most significant variables for differentiation. Remarkably, Pb was detected in low concentration in the herbal infusions (0.25&#x2013;0.50&#x2009;mg/kg). Veljkovi&#x107; et al. used ICP&#x2010;AES for analysis of teas (black and green) and other herbs (manufactured tea bags). The group of teas (compared with three herbal groups) could be distinguished by means of PCA based on higher concentrations of Cu, Mn, As, Al, and Pb.
+        These studies support our assumption, that various plant materials can be characterized and differentiated based on the elemental composition only. The difference in the relevant assigned elements can be explained by different types of analyzed herbal material (manufactured, mixed herbs, tea bags, single herbs) and its origin, different approaches to the sample preparation, various analytical methods employed, etc. The influence of sample preparation was investigated in numerous studies, which demonstrated that different elements have different extractability.13, 23
+
+        We believe that the clear separation obtained in our case can be explained by selected samples &#x2013; only single herbs and no mixed samples, and the possible influence of the production processing or tea bag materials itself (see below) was minimal, as in our study only four types of herbs were packed in tea bags.
+
+        Differentiation of botanical families
+        Chemotaxonomy is a branch of science aiming to classify biological organisms (plants) based on the &#x2018;perceptible differences and similarities in their biochemical compositions&#x2019;.24 It was demonstrated in a study by Arceusz et al. that it is possible to identify and classify, according to the plant families, the digested raw plant material based on elemental composition.25 The representatives of five plant families were investigated in their study, including Apiaceae, Asteraceae, and Lamiaceae, with regard to microelements (B, Zn, Fe, and Na) and macroelements (Mg, Ca, and K).
+        We hypothesized, that infusions of plants belonging to the same botanical family and sharing morphological similarities, can also display resemblance in mineral composition. We therefore grouped the plant material, independently of the formulation (loose or in tea bags; or steeping &#x2013; for teas), according to its botanical families and, thus, identified four groups corresponding to the following families:Apiaceae: samples anise, fennel 1 and fennel 2;Asteraceae: chamomile, chamomile TB and yarrow;Lamiaceae: lavender, peppermint, peppermint W, peppermint TB, sage, sage TB and thyme;Theaceae: Darjeeling, Darjeeling bio, Oolong #1&#x2013;#2, Pu&#x2010;erh #1&#x2013;#5.
+
+        The results are displayed in Fig. 4. It can be seen that the tea samples (Theaceae) can be distinguished as a separate group. As for the Apiaceae, Asteraceae, Lamiaceae families, no clear clustering can be observed.
+
+          Figure 4
+
+            Analysis on the herbal families: PCA plot (left) and variables factor map (right).
+
+        The reasons for this could be the sample preparation and the differential extractability of various elements into infusions mentioned above, which would cause the individual traits of herbs to be obscured. The fact that within our analysis we combined samples, representing different parts of the plant &#x2013; in case of Asteraceae (flowers, whole plant) and Lamiaceae (flowers, leaves, whole plant) &#x2013; could also have an impact on the outcome. For example, De La Calle et al. performed a TXRF analysis of digested herbal material (various plants), represented by different anatomical parts, and clearly identified groups corresponding to flower, leaf or fruit using linear discriminant analysis &#x2013; confirming the common traits in the elemental composition of those organs.26 However, Arceusz et al. used different parts of the plants as well, which did not hinder differentiation.25 Finally, it is likely, that the sample pool of our study is not sufficient, and analysis of more samples could help to reveal the trend for separation between the other three plant families.
+
+        Influence of packaging
+        Within our sample set, four herbs were present in both loose and packaged tea bag forms, namely chamomile, fennel, peppermint and sage. To estimate the possible influence of manufacturing / packaging on the extracts we also ran a PCA on this subset of the data. Figure 5 presents the three main components PC1, PC2, and PC3 for this comparison. In all three subfigures, loose herbal material samples have little in common; they are scattered over the whole plot, and are often rather far away from the corresponding packaged teas, except for the sage samples. At the same time, similarities in packaged teas are notable. Tea bags (marked as squares) are grouped in the center of the plots, independently of the herb. Therefore, this effect cannot be attributed to the type of herb, as the plants belong to the three different botanical families (Apiaceae, Asteraceae, Lamiaceae). Different organs of the plants were also present (flowers, fruits, leaves). It should be noted that plant material is crushed before packaging in the production of tea bags, so the extractability of the components will be increased in comparison with crude material. Furthermore, some unwanted elemental contamination might happen during production. Finally, the elemental composition of the tea bag material itself deserves further investigation.
+
+          Figure 5
+
+            Loose herbal material and packaged herbal tea: PCA plot (left) and variables factor map (right).
+
+        Teas (Camellia sinensis) and effect of consecutive steepings
+        The change in elemental concentrations in the consecutive extractions with fresh portions of water on the same material (steepings) was investigated in two kinds of teas &#x2013; Oolong and Pu&#x2010;erh. Traditionally, the preparation procedure for both of these teas involves multiple steepings, and in Pu&#x2010;erh the first portion of water is used for rinsing the tea leaves but is not intended for drinking.
+        For the Oolong sample we used two steepings, and the bar diagram on Fig. 6 shows a decrease in concentration in the second steeping for all the elements.
+
+          Figure 6
+
+            Concentration (mg/L) distribution of the different measured elements for the two steepings of the same leaves for Oolong tea. Each given concentration is an average out of five measurements. Note the logarithmic scale in the range 1,1&#x2013;300&#x2009;mg/L.
+
+        We expected a similar trend in Pu&#x2010;her tea. However, the maximum extraction actually happened at the third steeping for all the elements (Fig. 7, right). This discovery justifies the tradition of pouring boiling water over the same leaves several times. Interestingly, the color of the steepings seems to correlate with the element content, becoming darker and more intense towards the third steeping and decreasing again afterwards (Fig. 7, left).
+
+          Figure 7
+
+            Pu&#x2010;erh tea steepings. Left&#x2010;hand side: color correlation of the five steepings of Pu&#x2010;erh tea. Right&#x2010;hand side: concentration (mg/L) distribution of the different measured elements for the five steepings of the same leaves for Pu&#x2010;erh tea. Note the logarithmic scale in the range 0.72&#x2013;400&#x2009;mg/L. Asterisks mark the elements detected in four out of five measurements.
+
+        Finally, we ran a PCA on tea samples exclusively, including all the steepings of Pu&#x2010;her and Oolong teas (Fig. 8). In this case the sample pool was rather small; however, similarities in the two Darjeeling samples can be seen, and the steepings of the Pu&#x2010;erh tea demonstrate an interesting pattern &#x2013; pairs of steepings 2 and 4, and 1 and 5 fall close together. At the same time, the two Oolong steepings lie apart from one another.
+
+          Figure 8
+
+            Tea analysis: PCA plot (left) and variables factor map (right).
+
+        There are number of papers reporting on successful differentiation and identification depending on the cultivar fingerprint,27 the type of the tea28 or geographical origin29, 30, 31, 32 based on the elemental composition in raw material. We therefore believe that increasing the number of samples that are investigated could provide insights into the traits in the teas that have been prepared as well.
+
+      CONCLUSIONS
+      The samples of herbal infusions and teas were analyzed with respect to their elemental content using TXRF. This allowed us to quantitatively identify metallic and non&#x2010;metallic components, with 13 default elements and three occasional elements. Running PCA analysis aided:clear discrimination between teas and herbal infusions;differentiation of the Theaceae family (teas), although the Apiaceae, Asteraceae and Lamiaceae families could not be distinguishedidentification of possible influence of packaging when comparing infusions obtained from loose herbal material versus packaged in tea bagspossible identification of the type of prepared tea.
+
+      Supporting information
+
+Figure S1. Spectrum of a clean reflector
+
+Table S1. TXRF analysis of the certified reference material NIST 1640 (Trace Elements in Natural Water)
+
+            Click here for additional data file.
+
+      ACKNOWLEDGEMENTS
+      The authors acknowledge TU Wien University Library for financial support through its Open Access Funding Programme.
+
+      REFERENCES
+
+        1
+
+Carlsen
+MH
+, 
+Halvorsen
+BL
+, 
+Holte
+K
+, 
+B&#xF8;hn
+SK
+, 
+Dragland
+S
+, 
+Sampson
+L
+
+et al, in Herbal Medicine: Biomolecular and Clinical Aspects, 2nd edn, ed. by IFFB and Wachtel&#x2010;GalorS
+CRC Press, Boca Raton, FL (2011). Available from: https://www.taylorfrancis.com/books/9781439807163.
+
+        2
+
+Lovkova
+MY
+, 
+Buzuk
+GN
+, 
+Sokolova
+SM
+ and 
+Kliment'eva
+NI
+, Chemical features of medicinal plants (review). Appl Biochem Microbiol
+37:229&#x2013;237 (2001). 10.1023/A:1010254131166.
+
+        3
+
+Lung
+SCC
+, 
+Cheng
+HW
+ and 
+Fu
+CB
+, Potential exposure and risk of fluoride intakes from tea drinks produced in Taiwan. J Expo Sci Environ Epidemiol
+18:158&#x2013;166 (2008). 10.1038/sj.jes.7500574.17410113
+
+        4
+
+Chan
+L
+, 
+Mehra
+A
+, 
+Saikat
+S
+ and 
+Lynch
+P
+, Human exposure assessment of fluoride from tea (Camellia sinensis L.): a UK based issue?
+Food Res Int
+51:564&#x2013;570 (2013). 10.1016/j.foodres.2013.01.025.
+
+        5
+
+World Health Organization (WHO)
+. Quality control methods for herbal materials [Internet]. 2011 187 p. Available: https://www.who.int/medicines/publications/qas_herbalmed/en/
+
+        6
+
+World Health Organization (WHO)
+. WHO guidelines for assessing quality of herbal medicines with reference to contaminants and residues [Internet]. 2007 105 p. Available: https://apps.who.int/iris/handle/10665/43510
+
+        7
+
+Samoli&#x144;ska
+W
+, 
+Kiczorowska
+B
+, 
+Kwiecie&#x144;
+M
+ and 
+Rusinek&#x2010;Prystupa
+E
+, Determination of minerals in herbal infusions promoting weight loss. Biol Trace Elem Res
+175:495&#x2013;502 (2017). 10.1007/s12011-016-0790-4.27352790
+
+        8
+
+Pasias
+IN
+, 
+Farmaki
+EG
+, 
+Thomaidis
+NS
+ and 
+Piperaki
+EA
+, Elemental content and total antioxidant activity of Salvia fruticosa
+. Food Anal Methods
+3:195&#x2013;204 (2010). 10.1007/s12161-009-9122-z.
+
+        9
+
+Ba&#x15F;gel
+S
+ and 
+Erdemo&#x1E7;lu
+SB
+, Determination of mineral and trace elements in some medicinal herbs and their infusions consumed in Turkey. Sci Total Environ
+359:82&#x2013;89 (2006). 10.1016/j.scitotenv.2005.04.016.15907975
+
+        10
+
+Szymczycha&#x2010;Madeja
+A
+, 
+Welna
+M
+ and 
+Pohl
+P
+, Determination of essential and non&#x2010;essential elements in green and black teas by FAAS and ICP OES simplified &#x2010; multivariate classification of different tea products. Microchem J
+121:122&#x2013;129 (2015). 10.1016/j.microc.2015.02.009.
+
+        11
+
+Kara
+D
+, Evaluation of trace metal concentrations in some herbs and herbal teas by principal component analysis. Food Chem
+114:347&#x2013;354 (2009). 10.1016/j.foodchem.2008.09.054.
+
+        12
+
+Filipiak&#x2010;Szok
+A
+, 
+Kurzawa
+M
+, 
+Cichosz
+M
+ and 
+Sz&#x142;yk
+E
+, Elemental analysis of medicinal herbs and dietary supplements. Anal Lett
+48:2626&#x2013;2638 (2015). 10.1080/00032719.2015.1041031.
+
+        13
+
+Szymczycha&#x2010;Madeja
+A
+, 
+Welna
+M
+ and 
+Pohl
+P
+, Elemental analysis of teas and their infusions by spectrometric methods. Trends Anal Chem
+35:165&#x2013;181 (2012). 10.1016/j.trac.2011.12.005.
+
+        14
+
+Pytlakowska
+K
+, 
+Kita
+A
+, 
+Janoska
+P
+, 
+Po&#x142;owniak
+M
+ and 
+Kozik
+V
+, Multi&#x2010;element analysis of mineral and trace elements in medicinal herbs and their infusions. Food Chem
+135:494&#x2013;501 (2012). 10.1016/j.foodchem.2012.05.002.22868119
+
+        15
+
+Wobrauschek
+P
+, Total reflection X&#x2010;ray fluorescence analysis&#x2014;a review. X&#x2010;Ray Spectrom
+36:289&#x2013;300 (2007). 10.1002/xrs.985.
+
+        16
+
+Klockenk&#xE4;mper
+R
+ and 
+von Bohlen
+A
+, Total&#x2010;Reflection X&#x2010;Ray Fluorescence Analysis and Related Methods, 2nd edn
+John Wiley &amp; Sons Inc., Hoboken, New Jersey (2014). 552 p. 10.1002/9781118985953
+
+        17
+
+Xie
+M
+, 
+von Bohlen
+A
+, 
+Klockenk&#xE4;mper
+R
+, 
+Jian
+X
+ and 
+G&#xFC;nther
+K
+, Multielement analysis of Chinese tea ( Camellia sinensis ) by total&#x2010;reflection X&#x2010;ray fluorescence. Zeitschrift f&#xFC;r Leb und &#x2010;forsch A
+207:31&#x2013;38 (1998). 10.1007/s002170050291.
+
+        18
+
+Dalipi
+R
+, 
+Borgese
+L
+, 
+Tsuji
+K
+, 
+Bontempi
+E
+ and 
+Depero
+LE
+, Elemental analysis of teas, herbs and their infusions by means of total reflection X&#x2010;ray fluorescence. J Food Compos Anal
+67:128&#x2013;134 (2018). 10.1016/j.jfca.2018.01.010.
+
+        19
+
+Margu&#xED;
+E
+ and 
+Voutchkov
+M
+, Multielement analysis of tea and mint infusions by total reflection X&#x2010;ray fluorescence spectrometry. Food Anal Methods
+11:282&#x2013;291 (2018). 10.1007/s12161-017-0998-8.
+
+        20
+
+Winkler
+A
+, Total reflection X&#x2010;ray fluorescence analysis of trace elements in black teas and herbal infusions. TU Wien
+134 (2017). Available: http://repositum.tuwien.ac.at/obvutwhs/content/titleinfo/1863692.
+
+        21
+
+Lv
+H&#x2010;P
+, 
+Zhang
+Y
+, 
+Lin
+Z
+ and 
+Liang
+Y
+, Processing and chemical constituents of Pu&#x2010;erh tea: a review. Food Res Int
+53:608&#x2013;618 (2013). 10.1016/j.foodres.2013.02.043.
+
+        22
+
+Veljkovi&#x107;
+JN
+, 
+Pavlovi&#x107;
+AN
+, 
+Brcanovi&#x107;
+JM
+, 
+Miti&#x107;
+SS
+, 
+To&#x161;i&#x107;
+SB
+, 
+Pecev&#x2010;Marinkovi&#x107;
+ET
+
+et al, Differentiation of black, green, herbal and fruit bagged teas based on multi&#x2010;element analysis using inductively&#x2010;coupled plasma atomic emission spectrometry. Chem Pap
+70:488&#x2013;494 (2016). Available from: http://www.degruyter.com/view/j/chempap.2016.70.issue-4/chempap-2015-0215/chempap-2015-0215.xml.
+
+        23
+
+Pohl
+P
+, 
+Bielawska&#x2010;Pohl
+A
+, 
+Dzimitrowicz
+A
+, 
+Greda
+K
+, 
+Jamroz
+P
+, 
+Lesniewicz
+A
+
+et al, Understanding element composition of medicinal plants used in herbalism&#x2014;a case study by analytical atomic spectrometry. J pharm biomed anal [internet]. 2018;159:262&#x2013;71. 159:262&#x2013;271. 10.1016/j.jpba.2018.06.017.
+
+        24
+
+Da Cheng
+Hao
+, 
+Xiao&#x2010;Jie
+Gu
+, 
+Pie
+Xiao
+, 1&#x2010;Chemotaxonomy: a phylogeny&#x2010;based approach (eds.): Da Cheng Hao, Xiao&#x2010;Jie Gu, Pei Gen Xiao, Medicinal Plants, Woodhead Publishing, 2015, Pages 1&#x2013;48, ISBN 9780081000854, 10.1016/B978-0-08-100085-4.00001-3. (http://www.sciencedirect.com/science/article/pii/B9780081000854000013).
+
+        25
+
+Arceusz
+A
+, 
+Radecka
+I
+ and 
+Wesolowski
+M
+, Identification of diversity in elements content in medicinal plants belonging to different plant families. Food Chem
+120:52&#x2013;58 (2010). 10.1016/j.foodchem.2009.09.068.
+
+        26
+
+De La Calle
+I
+, 
+Costas
+M
+, 
+Cabaleiro
+N
+, 
+Lavilla
+I
+ and 
+Bendicho
+C
+, Fast method for multielemental analysis of plants and discrimination according to the anatomical part by total reflection X&#x2010;ray fluorescence spectrometry. Food Chem
+138:234&#x2013;241 (2013). 10.1016/j.foodchem.2012.09.105.23265482
+
+        27
+
+Chen
+Y
+, 
+Yu
+M
+, 
+Xu
+J
+, 
+Chen
+X
+ and 
+Shi
+J
+, Differentiation of eight tea (Camellia sinensis) cultivars in China by elemental fingerprint of their leaves. J Sci Food Agric
+89:2350&#x2013;2355 (2009). 10.1002/jsfa.3716.
+
+        28
+
+McKenzie
+JS
+, 
+Jurado
+JM
+ and 
+de Pablos
+F
+, Characterisation of tea leaves according to their total mineral content by means of probabilistic neural networks. Food Chem
+123:859&#x2013;864 (2010). 10.1016/j.foodchem.2010.05.007.
+
+        29
+
+Moreda&#x2010;Pi&#xF1;eiro
+A
+, 
+Fisher
+A
+ and 
+Hill
+SJ
+, The classification of tea according to region of origin using pattern recognition techniques and trace metal data. J Food Compos Anal
+16:195&#x2013;211 (2003). 10.1016/S0889-1575(02)00163-1.
+
+        30
+
+Kov&#xE1;cs
+Z
+, 
+Dalmadi
+I
+, 
+Luk&#xE1;cs
+L
+, 
+L&#xE1;szl&#xF3;
+S
+, 
+Sz&#xE1;ntai&#x2010;Kohegyi
+K
+, 
+K&#xF3;kai
+Z
+
+et al, Geographical origin identification of pure Sri Lanka tea infusions with electronic nose, electronic tongue and sensory profile analysis. J Chemometr
+24:121&#x2013;130 (2010). 10.1002/cem.1280.
+
+        31
+
+Zhang
+J
+, 
+Yang
+R
+, 
+Chen
+R
+, 
+Li
+Y
+, 
+Peng
+Y
+ and 
+Liu
+C
+, Multielemental Analysis Associated with Chemometric Techniques for Geographical Origin Discrimination of Tea Leaves (Camelia sinensis) in Guizhou Province, SW China. Molecules
+23:3013 (2018). Available: http://www.mdpi.com/1420-3049/23/11/3013.
+
+        32
+
+Marcos
+A
+, 
+Fisher
+A
+, 
+Rea
+G
+ and 
+Hill
+SJ
+, Preliminary study using trace element concentrations and a chemometrics approach to determine the geographical origin of tea. J Anal At Spectrom
+13:521&#x2013;525 (1998). Available: http://xlink.rsc.org/?DOI=a708658j.
+
+</pmc-articlese

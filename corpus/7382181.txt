@@ -1,0 +1,473 @@
+of widely used vegetable oil in the Mediterranean diet. Nowadays, people all over the world tend to consume more olive oil due to its well&#x2010;known nutritional values, such as protecting low&#x2010;density lipoproteins (LDL) against oxidation (Fratianni et&#xA0;al.,&#xA0;2019; Vissers, Zock, &amp; Katan,&#xA0;2004), reducing potential cancer risk (Psaltopoulou, Kosti, Haidopoulos, Dimopoulos, &amp; Panagiotakos,&#xA0;2011), improving inflammatory disease (Parkinson &amp; Keast,&#xA0;2014; Schwingshackl, Christoph, &amp; Hoffmann,&#xA0;2015), and protecting the cardiovascular system (Hohmann et&#xA0;al.,&#xA0;2015; Piroddi et&#xA0;al.,&#xA0;2017). According to some previous literatures, the nutritional values of olive oil were mainly attributed to its high content of mono&#x2010;unsaturated fatty acid, especially high oleic acid content (Arlorio et&#xA0;al.,&#xA0;2010; Azadmard&#x2010;Damirchi,&#xA0;2010; Mannina et&#xA0;al.,&#xA0;2009). Besides, the triacylglycerol (TAG) compositions of vegetable oils, especially the sn&#x2010;position of fatty acids in TAGs might also play very important roles in the nutritional values and physicochemical properties (Mateos et al., 2005; Yoshinaga et&#xA0;al.,&#xA0;2015). In 2015, Yoshinaga and colleagues demonstrated that sn&#x2010;position of bioactive unsaturated fatty acids, such as eicosapntemacnioc acid (EPA) and docosahexaenoic acid (DHA) in TAG could effectively determine the lipid synthesis and cholesterol metabolism in vivo. Considered the healthy benefit and wide existence (more than 98% of weight in olive oil are contributed by TAGs) of TAGs in olive oil, the chemical compositions of TAGs could be used to represent the profiles of olive oil.
+      Due to its high nutritional value and relatively low productivity, olive oil has always been recognized as one type of high economic value vegetable oil, and most of the olive oil adulterations were driven by economic interests. Adulterated olive oils would not only damage the economic profit of consumers, but also threat the public health. One of the most serious olive oil adulterations happened in Spain in 1981, where over 20,000 consumers were affected by the adulterated olive oil, more than 300 of them dead (Gelp&#xED; et&#xA0;al.,&#xA0;2002). To protect both the public health and economic interests, efficient and accurate analytical methods should be developed to monitor olive oil adulteration.
+      Till now, different detection methods for olive oil adulteration have been developed and can be divided into three major approaches: chemical methods (Azizian, Mossoba, Fardin&#x2010;Kia, Karunathilaka, &amp; Kramer,&#xA0;2016; Georgouli, Martinez Del Rincon, &amp; Koidis,&#xA0;2017; Jabeur, Drira, Rebai, &amp; Bouaziz,&#xA0;2017; Jabeur et&#xA0;al.,&#xA0;2014; Li et&#xA0;al.,&#xA0;2018; S&#xE1;nchez&#x2010;Rodr&#xED;guez, S&#xE1;nchez&#x2010;L&#xF3;pez, Marinas, Urbano, &amp; Caridad,&#xA0;2019), biological methods (Santonico et&#xA0;al.,&#xA0;2015; Vietina, Agrimonti, &amp; Marmiroli,&#xA0;2013), sensory, and other methods (Biswas, Basumallick, Dasgupta, Ghosh, &amp; Bandyopadhyay,&#xA0;2016). Among them, chemical methods, including infrared spectrometry, Raman, LC&#x2010;MS, and GC&#x2010;MS, have been widely applied for olive oil adulteration detection. In 2017, Georgouli and colleagues reported a novel continuous statistical modeling for detecting extra virgin olive oil adulterated with hazelnut oil using Fourier transform infrared (FT&#x2010;IR) and Raman spectrometry. The results in this study represented that FT&#x2010;IR and Raman could be used to detect olive oil adulterated by small amount of hazelnut oil. In 2013, Yang and others reported the application of GC&#x2010;MS coupled with chemometrics to detect olive oil adulteration. Based on their results, data collected by GC&#x2010;MS, including the amounts of 22 fatty acids and 6 other parameters (the ratio of linoleic/linolenic acid, oleic/linoleic acid, total saturated fatty acids (SFAs), polyunsaturated fatty acids (PUFAs), monounsaturated fatty acids (MUFAs), and MUFAs/PUFAs), together with PLS&#x2010;DA could be used for the detection of olive oil adulteration with other vegetable oils in 1% detection limit and 90% prediction ability. High&#x2010;resolution mass spectrometry such as matrix&#x2010;assisted laser&#x2010;desorption/ionization time&#x2010;of&#x2010;flight (MALDI&#x2010;TOF) MS could also be used for the detection of olive oil adulterated by hazelnut oil (Calvano, Ceglie, D'Accolti, &amp; Zambonin,&#xA0;2014; De Ceglie, Calvano, &amp; Zambonin,&#xA0;2014). By detecting the possible hazelnut proteins or the phospholipids in the olive oil samples, MALDI&#x2010;TOF MS could detect 1% of hazelnut oil adulterated in olive oil (Calvano et&#xA0;al.,&#xA0;2014; De Ceglie et&#xA0;al.,&#xA0;2014). Although these chemical approaches could effectively detect olive oil adulteration, there are still some limitations of these methods. For instance, most of the GC analytical methods need sample derivatization, which are relatively high time&#x2010;cost and potential toxic to the researchers. Besides, previous chemical approaches could only supply limited chemical information about adulterants, or just appropriate for specific adulterant. All these limitations made it necessary to develop novel approaches to differentiate olive oil adulteration more accurately and effectively.
+      An improved supercritical fluid chromatography (SFC), the ultra&#x2010;performance convergence chromatography (UPC2) have been applied coupled with quadrupole time&#x2010;of&#x2010;flight mass spectrometry (QTOF MS) in detecting triacylglycerols from milk fat, vegetable oil, and other samples (Gao et&#xA0;al.,&#xA0;2017; Zhou et&#xA0;al.,&#xA0;2014). As an effective and environmental&#x2010;friendly analytical approach, UPC2&#x2010;QTOF MS is especially suitable in separating and identifying triacylglycerols from food matrixes. In this study, olive oil adulterated by other vegetable oils, including soybean oil, corn oil, and sunflower oil in different ratios, was detected using UPC2&#x2010;QTOF MS system; data were processed using multivariate data analysis. The aim of this study was to develop a whole solution, including an appropriate analytical method together with data processing approach to detect olive oil adulteration with trace amount of vegetable oils accurately and effectively.
+
+      2
+      MATERIALS AND METHODS
+
+        2.1
+        Materials and reagents
+        A total of 46 different brands of commercial vegetable oils, including 16 olive oils, 10 soybean oils, 10 corn oils, and 10 sunflower oils, were purchased from local groceries. Similar amount of each olive oil was mixed together as an olive oil representative. Soybean, corn, and sunflower oil representatives were processed in the same way. After that, soybean, corn, and sunflower oil representatives were individually mixed with olive oil representative in 1%, 0.75%, and 0.5% (v/v) to make the adulterated olive oil samples, respectively. LC&#x2010;MS grade acetonitrile, ammonium formate, methanol, and isopropanol were purchased from Sigma&#x2010;Aldrich (St. Louis, MO, USA). LC&#x2010;MS grade water was obtained from a Milli&#x2010;Q 10 ultra&#x2010;pure water system (Billerica, MA, USA). All the other reagents were analytical grade and used without further purification.
+
+        2.2
+        Sample preparation
+        All the pure oil samples were prepared based on our previous study.24 Briefly, 10&#xA0;&#x3BC;L of each oil sample was vortexed with 990&#xA0;&#x3BC;L of acetonitrile/methanol/isopropanol (10:9:1, v/v/v) for 20&#xA0;s. The mixture was centrifuged at 376&#xA0;g for 5&#xA0;min to remove the supernatant. Then, the residue was dissolved with 990&#xA0;&#x3BC;L of isopropanol before the UPC2&#x2010;QTOF MS analysis. All the oil samples were analyzed in triplicates.
+        For the adulterated oil samples, all the olive oil samples were mixed in the same volume to prepare the standard olive oil sample, similar progresses were performed for soybean, corn, and sunflower oils to prepare standard soybean, corn, and sunflower oil samples. Then, 100, 75, and 50&#xA0;&#x3BC;l of standard soybean oil were mixed with 9.9, 9.925, 9.95&#xA0;ml of standard olive oil to prepare 1%, 0.75%, and 0.5% soybean oil adulterated olive oil samples, respectively. Similar approaches were practiced to prepare corn oil and sunflower oil adulterated olive oil samples. After that, the adulterated oils were extracted using similar procedures as used in pure oil extraction.
+
+        2.3
+        UPC2&#x2010;QTOF MS conditions
+        A Waters Acquity UPC2 (Waters, Milford, MA, USA) coupled with Water Xevo&#x2010;G2 QTOF MS system was utilized in this study. An UPC2 HSS C18 column (150&#xA0;mm&#xA0;&#xD7;&#xA0;3.0&#xA0;mm i.d.; 1.7&#xA0;&#x3BC;m) was used with oven temperature at 30&#xB0;C. The mobile phase A was CO2, and the mobile phase B was methanol. A gradient elution started at 1% B, increased linearly to 1.8% B at 5&#xA0;min, 2% B at 12&#xA0;min, 3% at 15&#xA0;min, 30% at 16&#xA0;min, and 35% at 19&#xA0;min and went back to the initial ratio and equilibrium for the next injection. The injection volume was 2.0&#xA0;&#x3BC;l, and the flow rate was 1.6&#xA0;ml/min with the back&#x2010;pressure set at 1,800 psi. A Waters 1,525 single pump was selected as the compensated pump, using 0.1% ammonium formate in methanol as the solvent at a flow rate of 0.3&#xA0;ml/min.
+        For the MS condition, an electrospray ionization (ESI) positive mode was selected in this study. The data acquisition range was m/z 100&#x2013;1,200&#xA0;Da for both MS1 and MS2 modes. Leucine encephalin ([M&#xA0;+&#xA0;H]+ m/z 556.2,771) was used as the lock mass, with the infusion rate at 5&#xA0;&#x3BC;l/min. The capillary, sampling cone, and source offset voltage were 3.0&#xA0;kV, 50.0&#xA0;V, and 80.0&#xA0;V, respectively. The source and desolvation temperatures were 120&#xB0;C and 500&#xB0;C, respectively. The collision gas was argon with a flow rate of 150&#xA0;L/h, and the desolvation gas was nitrogen at the flow rate of 800&#xA0;L/h. MSE scan mode was selected in this study, for which both a low&#x2010;collision energy scan mode (collision energy at 6&#xA0;eV) for MS1 and a high&#x2010;collision energy scan mode (collision energy at 35&#xA0;eV) for MS2 were programmed. Data were collected with Waters Masslynx v4.1 software.
+
+        2.4
+        Data processing
+        Data were processed with Waters Nonlinear&#x2122; Progenesis QI (Waters, Milford, MA, USA) software and analyzed by SIMCA embedded in Waters Ezinfo software. All the raw data were imported to Progenesis QI, normalized, and aligned all the chromatograms by comparing with the selected reference chromatograms, grouping, and exported to Ezinfo. After that, both PCA and PLS&#x2010;DA were used to analyze the data. In data processing models, all the samples were autoscaled before analysis.
+
+      3
+      RESULTS AND DISCUSSION
+      This study aims to investigate the effects of UPC2&#x2010;QTOF MS coupled with chemometrics in differentiating olive oil adulterated with other commercial vegetable oils. So the first step is to distinguish olive oil from vegetable oils, including soybean, corn, and sunflower oils. After that, olive oils adulterated with different ratios of other vegetable oils will be analyzed to determine the efficiency of this approach, representative markers from this data model could be selected. And finally, 10 most representative markers will be used to create the new model, which could be used to differentiate olive oil adulteration effectively and accurately.
+
+        3.1
+        Differentiating pure soybean, corn, and sunflower oils from olive oil
+        Typical UPC2&#x2010;QTOF MS chromatograms for the triacylglycerols profiles of pure soybean, corn, sunflower, and olive oil representative samples were showed in Figure&#xA0;1. The triacylglycerol compositions of these vegetables oils were reported in our previous studies.24 Briefly, triacylglycerols LLL, PLL, BLL, and MLL could be detected in soybean, corn, and sunflower oils, but not in olive oil; on the other hand, triacylglycerols PoOPo, OPoO, and GOO could be detected only in olive oil sample. Besides, the relative amount of OOO was much greater in olive oils (more than 20% in the total amount of olive oil triacylglycerols), compared with that in other vegetable oils (less than 10%). These results could also be confirmed by previous studies that oleic acid was the most abundant fatty acid in olive oil fatty acids (Jabeur el al.,&#xA0;2014; Yang, Ferro, Cavaco, &amp; Liang,&#xA0;2013). Therefore, the compositions of these different triacylglycerols could be used as the target various in differentiating the olive oils from soybean, corn, or sunflower oils.
+
+          Figure 1
+
+            Typical UPC2&#x2010;QTOF MS chromatograms of triacylglycerols from pure (a) soybean oil, (b) corn oil, (c) sunflower oil, and (d) olive oil samples
+
+        Unbiased data processing method, principle component analysis (PCA) was used firstly in differentiating pure olive oil samples from soybean, corn, and sunflower oils by analyzing their triacylglycerol compositions. As the results, PCA could effectively differentiate pure olive oil from other three pure vegetable oils with unbiased data processing method (Figure&#xA0;2a), which could be confirmed by previous review article and our previous study that the triacylglycerol compositions of pure olive oils are quite different from pure soybean, corn, or sunflower oils and easy to be differentiate (Gao et&#xA0;al.,&#xA0;2017; Indelicato et&#xA0;al.,&#xA0;2017). On the other hand, results from PCA also represented that the triacylglycerol compositions of corn, soybean, and sunflower oil samples were almost similar and could not be differentiate. In order to better differentiate all the oil samples, other biased data processing methods might be utilized to perform better results.
+
+          Figure 2
+
+            (a) PCA scores plot and (b) PLS&#x2010;DA scores plot for pure vegetable oils
+
+        Then, the obtained triacylglycerol compositions of pure soybean, corn, sunflower, and olive oils were processed by a biased data analyzing approach, partial least squares&#x2010;discriminant analysis (PLS&#x2010;DA). As showed in Figure&#xA0;2b, the PLS&#x2010;DA scores plot indicated that all the olive oil samples were clustered tightly on the right side. All the soybean oil samples were clustered on the top left side of scores plot, while corn oil samples and sunflower oil samples were on the bottom left side. These results indicated that the combination of UPC2&#x2010;QTOF MS and PLS&#x2010;DA could effectively differentiate pure olive oil from soybean, corn, or sunflower oil samples through their triacylglycerol compositions. Results from the loading plot of this model represented that various with m/z at 479.4086 ([M&#xA0;+&#xA0;H]+, C30H55O4) and 451.3776 ([M&#xA0;+&#xA0;H]+, C28H51O4) contributed most to the olive oils, which should be the fragment ions of typical triacylglycerols in olive oils. On the other hand, m/z at 581.4567 ([M&#xA0;+&#xA0;H]+, C38H61O4), 317.2480 ([M&#xA0;+&#xA0;H]+, C21H33O2), and 653.4470 ([M&#xA0;+&#xA0;H]+, C44H61O4) contribute to soybean oils; whereas m/z 615.4984 ([M&#xA0;+&#xA0;H]+, C39H67O5), and 701.6062 ([M&#xA0;+&#xA0;H]+, C45H81O5) contribute most to both corn and sunflower oils. These results above proved that UPC2&#x2010;QTOF MS coupled with chemometrics could differentiate pure olive oils from other pure vegetable oils effectively. And the next step of this study is to differentiate pure olive oils adulterated with different ratios of other vegetable oils.
+
+        3.2
+        Differentiating pure olive oil and olive oil adulterated with other vegetable oils
+        The pure olive oil adulterated with 1%, 0.75%, and 0.5% (v/v) of soybean oil, corn oil, or sunflower oil samples was analyzed with UPC2&#x2010;Q TOF MS system using the similar approaches described before. There was no visual difference between the chromatograms for the TAG profiles of pure olive oil and the adulterated olive oils (data not shown). While analyzed by PLS&#x2010;DA, the adulterated olive oils could be easily differentiated from the pure olive oil based on their different TAG compositions, even at 0.5% adulteration level (Figure&#xA0;3a). The pure olive oil was clustered on the right side of the scores plot, whereas all the adulterated olive oils were on the left side. Among all the adulterated olive oils, olive oil adulterated with corn oil was on the top left side of scores plot and olive oil adulterated with soybean or sunflower oils was on the bottom left side of scores plot. These results represented that the UPC2&#x2010;QTOF MS together with PLS&#x2010;DA could be used to differentiate pure olive oil from olive oil adulterated with soybean, corn, or sunflower oils in a relatively low adulteration ratio.
+
+          Figure 3
+
+            PLS&#x2010;DA (a) scores plot and (b) loading plot of pure olive oil and olive oil adulterated by different ratios of soybean, corn, or sunflower oils, based on all the triacylglycerol information. S in O represented soybean oil adulterated in olive oil, F in O represented sunflower oil adulterated in olive oil, C in O represented corn oil adulterated in olive oil
+
+        Previous studies also reported the detection approaches in differentiating the purity of vegetable oils by using different analytical approaches. Among all those results, gas chromatography (GC) or GC&#x2010;MS was the most widely used method, and the working mechanism of GC/GC&#x2010;MS is to hydrolyze and methylate the triacylglycerol into free fatty acids, then analyze the compositions of free fatty acids in different oil samples to differentiate the triacylglycerol compositions of oils (Strashnov et&#xA0;al.,&#xA0;2019; Tian, Zeng, Zheng, Chiu, &amp; Liu,&#xA0;2019). The benefits of GC&#x2010;based methods are their stability and repeatability, but GC could not provide specific chemical information about the compositions of triacylglycerols directly. Other analytical methods, including Raman or FT&#x2010;IR, LC&#x2010;MS also performed remarkable abilities in differentiating vegetable oils, but no study before reported the results about detecting oil adulteration in less than 1% (Baeten et&#xA0;al.,&#xA0;2005; Farley et&#xA0;al.,&#xA0;2017; Fasciotti &amp; Pereira Netto, 2010).
+        PLS&#x2010;DA loading plot of this result indicated the contributions of triacylglycerol ions or triacylglycerol fragment ions to differentiating the pure olive oils from the adulterated olive oils. In Figure&#xA0;3b, the fragment ions at m/z 575.5708, 577.5992, 601.6018, 605.6336, and 606.6392 contribute most to the pure olive oils, while peak with greater natural abundant of ions at m/z 659.4629, 661.5725, 709.5707, 715.4868, and 1006.7811 are more likely contributed to the adulterated olive oils. In all these typical markers, ion at m/z 575.5708 could be identified as P&#x2010;L fragment ion, and ion at m/z 577.5992 might be the fragment ion of P&#x2010;O. These results indicated that some ions contributed more to differentiating the olive oil adulteration, and a novel mathematical model could be created based on these specific ions. These ions were selected based on their contributions in the loading plot, as well as the importance of their identifications as the triacylglycerols or fragments of triacylglycerols. Finally, a total of 10 ions were manually selected to create the model and aimed to differentiate the olive oil adulteration, including m/z 575.5708, 577.5992, 601.6018, 605.6336, 606.6392, 659.4629, 661.5725, 709.5707, 715.4868, and 1006.7811. These 10 ions were selected based on there are the markers contributed most in differentiating two groups of samples in the loading plots (Figure&#xA0;3b).
+
+        3.3
+        Differentiating pure olive oil from adulterated olive oils based on 10 selected triacylglycerol and/or fragment ions
+        The principal component analysis (PCA) about the pure olive oils and adulterated olive oils was analyzed based on 10 ions selected above. In Figure&#xA0;4a, all the pure olive oils were on the right side, and all the adulterated olive oils were on the left side. All the oil samples were included in the 95% confidence interval. These results represented that by using 10 selected ions, the adulterated olive oils could be differentiated from the pure olive oils using PCA, even in 0.5% adulteration ratio. In the loading plot of PCA results (Figure&#xA0;4b), ions at m/z 575.5708, 577.5992, 601.6018, 605.6336, and 606.6392 contributed more in pure olive oils, whereas ions at m/z 659.4629, 661.5725, 709.5707, 715.4868, and 1006.7811 contributed more in the adulterated olive oils.
+
+          Figure 4
+
+            PCA (a) scores plot and (b) loading plot of pure olive oil and olive oil adulterated by different ratios of soybean, corn, or sunflower oils, based on 10 selected triacylglycerols. S in O represented soybean oil adulterated in olive oil, F in O represented sunflower oil adulterated in olive oil, C in O represented corn oil adulterated in olive oil
+
+        To sum up, this study reported a novel application of UPC2&#x2010;QTOF MS together with chemometrics in differentiating olive oil adulteration. By analyzing the triacylglycerol compositions, olive oils adulterated with soybean, corn, or sunflower oils at 0.5% level could be differentiated from pure olive oil based on their different triacylglycerol ions or fragment ions information. Although such a low ratio of adulteration might not happen in the real food industry, this model could still be recognized as a novel tool in determining olive oil adulteration or the purity of olive oil samples effectively and accurately. In addition, 10 representative marker ions were selected to create the model, which could be used to differentiate olive oil adulteration rapidly and accurately. The application of this method could provide not only the triacylglycerol compositions information about vegetable oils, but also the approaches of detecting olive oil adulterated with other vegetable oils in very low ratios effectively and accurately.
+
+      CONFLICT OF INTEREST
+      None declared.
+
+      ETHICAL APPROVAL
+      This study does not involve any human or animal testing.
+
+      ACKNOWLEDGEMENTS
+      This research was supported by The National Key Research and Development Program of China (Grant No. 2018YFC1602400); the Open Project Program of China&#x2010;Canada Joint Lab of Food Nutrition and Health; and SJTU startup fund for young talent (Grant No. 18X100040051).
+
+      REFERENCES
+
+Arlorio, M.
+, 
+Coisson, J. D.
+, 
+Bordiga, M.
+, 
+Travaglia, F.
+, 
+Garino, C.
+, 
+Zuidmeer, L.
+, &#x2026; 
+Martelli, A.
+ (2010). Olive oil adulterated with hazelnut oils: Simulation to identify possible risks to allergic consumers. Food Additives and Contaminants: Part A, Chemistry, Analysis, Control, Exposure and Risk Assessment, 27, 11&#x2013;18. 10.1080/02652030903225799
+
+Azadmard&#x2010;Damirchi, S.
+ (2010). Review of the use of phytosterols as a detection tool for adulteration of olive oil with hazelnut oil. Food Additives and Contaminants: Part A, Chemistry, Analysis, Control, Exposure and Risk Assessment, 27, 1&#x2013;10. 10.1080/02652030903225773
+
+Azizian, H.
+, 
+Mossoba, M. M.
+, 
+Fardin&#x2010;Kia, A. R.
+, 
+Karunathilaka, S. R.
+, &amp; 
+Kramer, J. K.
+ (2016). Developing FT&#x2010;NIR and PLS1 methodology for predicting adulteration in representative varieties/blends of extra virgin olive oils. Lipids, 51, 1309&#x2013;1321. 10.1007/s11745-016-4195-0
+27677754
+
+Baeten, V.
+, 
+Fern&#xE1;ndez, P.
+, 
+Juan, A.
+, 
+Dardenne, P.
+, 
+Meurens, M.
+, 
+Garc&#xED;a&#x2010;Gonz&#xE1;lez, D. L.
+, &amp; 
+Aparicio&#x2010;Ruiz, R.
+ (2005). Detection of the presence of hazelnut oil in olive oil by FT&#x2010;Raman and FT&#x2010;MIR spectroscopy. Journal of Agricultural and Food Chemistry, 53, 6201&#x2013;6206
+10.1021/jf050595n
+16076094
+
+Biswas, P.
+, 
+Basumallick, N.
+, 
+Dasgupta, K.
+, 
+Ghosh, A.
+, &amp; 
+Bandyopadhyay, S.
+ (2016). Application of strongly overcoupled resonant modes of long&#x2010;period fiber gratings to measure the adulteration of olive oil. Applied Optics, 55, 5118&#x2013;5526. 10.1364/AO.55.005118
+27409199
+
+Calvano, C. D.
+, 
+Ceglie, C. D.
+, 
+D'Accolti, L.
+, &amp; 
+Zambonin, C. G.
+ (2014). MALDI&#x2010;TOF mass spectrometry detection of extra&#x2010;virgin olive oil adulteration with hazelnut oil by analysis of phospholipids using an ionic liquid as matrix and extraction solvent. Food Chemistry, 134, 1192&#x2013;1198. 10.1016/j.foodchem.2012.02.154
+
+De Ceglie, C.
+, 
+Calvano, C. D.
+, &amp; 
+Zambonin, C. G.
+ (2014). Determination of hidden hazelnut oil proteins in extra virgin olive oil by cold acetone precipitation followed by in&#x2010;solution tryptic digestion and MALDI&#x2010;TOF&#x2010;MS analysis. Journal of Agricultural and Food Chemistry, 62, 9401&#x2013;9409
+10.1021/jf504007d
+25209075
+
+Farley, C.
+, 
+Kassu, A.
+, 
+Bose, N.
+, 
+Jackson&#x2010;Davis, A.
+, 
+Boateng, J.
+, 
+Ruffin, P.
+, &amp; 
+Sharma, A.
+ (2017). Short distance standoff Raman detection of extra virgin olive oil adulterated with canola and grapeseed oils. Applied Spectroscopy, 71, 1340&#x2013;1347. 10.1177/0003702816681796
+27956592
+
+Fasciotti, M.
+, &amp; 
+Pereira Netto, A. D.
+ (2010). Optimization and application of methods of triacylglycerol evaluation for characterization of olive oil adulteration by soybean oil with HPLC&#x2013;APCI&#x2010;MS&#x2013;MS. Talanta, 81, 1116&#x2013;1125. 10.1016/j.talanta.2010.02.006
+20298902
+
+Fratianni, F.
+, 
+Cozzolino, R.
+, 
+Martignetti, A.
+, 
+Malorni, L.
+, 
+d&#x2019;Acierno, A.
+, 
+Feo, V. D.
+, &#x2026; 
+Nazzaro, F.
+ (2019). Biochemical composition and antioxidant activity of three extra virgin olive oils from the Irpinia Province, Southern Italy. Food Science &amp; Nutrition, 7, 3233&#x2013;3243. 10.1002/fsn3.1180
+31660137
+
+Gao, B.
+, 
+Luo, Y.
+, 
+Lu, W.
+, 
+Liu, J.
+, 
+Zhang, Y.
+, &amp; 
+Yu, L. L.
+ (2017). Triacylglycerol compositions of sunflower, corn and soybean oils examined with supercritical CO2 ultra&#x2010;performance convergence chromatography combined with quadrupole time&#x2010;of&#x2010;flight mass spectrometry. Food Chemistry, 218, 569&#x2013;574. 10.1016/j.foodchem.2016.09.099
+27719951
+
+Gelp&#xED;, E.
+, 
+de la Paz, M. P.
+, 
+Terracini, B.
+, 
+Abaitua, I.
+, 
+de la C&#xE1;mara, A. G.
+, &amp; 
+Kilbourne, E. M.
+, &#x2026; Centro de Investigaci&#xF3;n para el S&#xED;ndrome del Aceite T&#xF3;xico
+. (2002). The Spanish toxic oil syndrome 20 years after its onset: A multidisciplinary review of scientific knowledge. Environmental Health Perspectives, 110, 457&#x2013;464.12003748
+
+Georgouli, K.
+, 
+Martinez Del Rincon, J.
+, &amp; 
+Koidis, A.
+ (2017). Continuous statistical modelling for rapid detection of adulteration of extra virgin olive oil using mid infrared and Raman spectroscopic data. Food Chemistry, 217, 735&#x2013;742. 10.1016/j.foodchem.2016.09.011
+27664692
+
+Hohmann, C. D.
+, 
+Cramer, H.
+, &amp; 
+Michalsen, A.
+, 
+Kessler, C.
+, 
+Steckhan, N.
+, 
+Choi, K.
+, &amp; 
+Dobos, G.
+ (2015). Effects of high phenolic olive oil on cardiovascular risk factors: A systematic review and meta&#x2010;analysis. Phytomedicine, 22, 631&#x2013;640. 10.1016/j.phymed.2015.03.019
+26055128
+
+Indelicato, S.
+, 
+Bongiorno, D.
+, 
+Pitonzo, R.
+, 
+Di Stefano, V.
+, 
+Calabrese, V.
+, 
+Indelicato, S.
+, &amp; 
+Avellone, G.
+ (2017). Triacylglycerols in edible oils: Determination, characterization, quantitation, chemometric approach and evaluation of adulterations. Journal of Chromatography. A, 1515, 1&#x2013;16. 10.1016/j.chroma.2017.08.002
+28801042
+
+Jabeur, H.
+, 
+Drira, M.
+, 
+Rebai, A.
+, &amp; 
+Bouaziz, M.
+ (2017). Putative markers of adulteration of higher&#x2010;grade olive oil with less expensive pomace olive oil identified by gas chromatography combined with chemometrics. Journal of Agricultural and Food Chemsitry, 65, 5375&#x2013;5383. 10.1021/acs.jafc.7b00687
+
+Jabeur, H.
+, 
+Zribi, A.
+, 
+Makni, J.
+, 
+Rebai, A.
+, 
+Abdelhedi, R.
+, &amp; 
+Bouaziz, M.
+ (2014). Detection of Chemlali extra&#x2010;virgin olive oil adulteration mixed with soybean oil, corn oil, and sunflower oil by using GC and HPLC. Journal of Agricultural and Food Chemsitry, 62, 4893&#x2013;4904. 10.1021/jf500571n
+
+Li, Y.
+, 
+Fang, T.
+, 
+Zhu, S.
+, 
+Huang, F.
+, 
+Chen, Z.
+, &amp; 
+Wang, Y.
+ (2018). Detection of olive oil adulteration with waste cooking oil via Raman spectroscopy combined with iPLS and SiPLS. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 189, 37&#x2013;43. 10.1016/j.saa.2017.06.049
+
+Mannina, L.
+, 
+D'Imperio, M.
+, &amp; 
+Capitani, D.
+, 
+Rezzi, S.
+, 
+Guillou, C.
+, 
+Mavromoustakos, T.
+, &#x2026; 
+Aparicio, R.
+ (2009). 1H NMR&#x2010;based protocol for the detection of adulterations of refined olive oil with refined hazelnut oil. Journal of Agricultural and Food Chemistry, 57, 11550&#x2013;11556.19928817
+
+Mateos, R.
+, 
+Trujillo, M.
+, 
+P&#xE9;rez&#x2010;Camino, M. C.
+, 
+Moreda, W.
+, &amp; 
+Cert, A.
+ (2005). Relationships between oxidative stability, triacylglycerol composition, and antioxidant content in olive oil matrices. Journal of Agricultural and Food Chemistry, 53, 5766&#x2013;5771.15998146
+
+Parkinson, L.
+, &amp; 
+Keast, R.
+ (2014). Oleocanthal, a phenolic derived from virgin olive oil: A review of the beneficial effects on inflammatory disease. International Journal of Molecular Sciences, 15, 12323&#x2013;12334. 10.3390/ijms150712323
+25019344
+
+Piroddi, M.
+, 
+Albini, A.
+, 
+Fabiani, R.
+, 
+Giovannelli, L.
+, 
+Luceri, C.
+, 
+Natella, F.
+, &#x2026; 
+Galli, F.
+ (2017). Nutrigenomics of extra&#x2010;virgin olive oil: A review. BioFactors, 43, 17&#x2013;41. 10.1002/biof.1318
+27580701
+
+Psaltopoulou, T.
+, 
+Kosti, R. I.
+, 
+Haidopoulos, D.
+, 
+Dimopoulos, M.
+, &amp; 
+Panagiotakos, D. B.
+ (2011). Olive oil intake is inversely related to cancer prevalence: A systematic review and a meta&#x2010;analysis of 13,800 patients and 23, 340 controls in 19 observational studies. Lipids Health Disease, 10, 127
+10.1186/1476-511X-10-127
+
+S&#xE1;nchez&#x2010;Rodr&#xED;guez, M. I.
+, 
+S&#xE1;nchez&#x2010;L&#xF3;pez, E. M.
+, 
+Marinas, A.
+, 
+Urbano, F. J.
+, &amp; 
+Caridad, J. M.
+ (2019). Functional approach and agro&#x2010;climatic information to improve the estimation of olive oil fatty acid content from near&#x2010;infrared data. Food Science &amp; Nutrition, 8, 351&#x2013;360. 10.1002/fsn3.1312
+31993161
+
+Santonico, M.
+, 
+Grasso, S.
+, 
+Genova, F.
+, 
+Zompanti, A.
+, 
+Parente, F. R.
+, &amp; 
+Pennazza, G.
+ (2015). Unmasking of olive oil adulteration bia a multi&#x2010;sensor platform. Sensors (Basel, Switzerland), 15, 21660&#x2013;21672.
+
+Schwingshackl, L.
+, 
+Christoph, M.
+, &amp; 
+Hoffmann, G.
+ (2015). Effects of olive oil on markers of inflammation and endothelial function&#x2010;A systematic review and meta&#x2010;analysis. Nutrients, 7, 7651&#x2013;7675. 10.3390/nu7095356
+26378571
+
+Strashnov, I.
+, 
+Gilmour, D. J.
+, &amp; 
+Cannavan, A.
+, 
+Chen, G.
+, 
+Dissanayake, C.
+, 
+Fernando, B. R.
+, &#x2026; 
+Xu, Z.
+ (2019). Atmospheric pressure chemical ionisation (APCI) and photoionisation (APPI) mass spectrometry for detection of unsaturated fatty acids: Potential for rapid detection of adulteration of vegetable oils. Analytical Methods, 11, 3819&#x2013;3828
+10.1039/C9AY00977A
+
+Tian, L.
+, 
+Zeng, Y.
+, 
+Zheng, X.
+, 
+Chiu, Y.
+, &amp; 
+Liu, T.
+ (2019). Detection of peanut oil adulteration mixed with rapeseed oil using gas chromatography and gas chromatography&#x2010;ion mobility spectrometry. Food Analytical Methods, 12, 2282&#x2013;2292
+10.1007/s12161-019-01571-y
+
+Vietina, M.
+, 
+Agrimonti, C.
+, &amp; 
+Marmiroli, N.
+ (2013). Detection of plant oil DNA using high resolution melting (HRM) post PCR analysis: A tool for disclosure of olive oil adulteration. Food Chemistry, 141, 3820&#x2013;3286. 10.1016/j.foodchem.2013.06.075
+23993554
+
+Vissers, M. N.
+, 
+Zock, P. L.
+, &amp; 
+Katan, M. B.
+ (2004). Bioavailability and antioxidant effects of olive oil phenols in humans: A review. European Journal of Clinical Nutrition, 58, 955&#x2013;965. 10.1038/sj.ejcn.1601917
+15164117
+
+Yang, Y.
+, 
+Ferro, M. D.
+, 
+Cavaco, I.
+, &amp; 
+Liang, Y.
+ (2013). Detection and identification of extra virgin olive oil adulteration by GC&#x2010;MS combined with chemometrics. Journal of Agricaltural and Food Chemistry, 61, 3693&#x2013;3702. 10.1021/jf4000538
+
+Yoshinaga, K.
+, 
+Sasaki, K.
+, 
+Watanabe, H.
+, 
+Nagao, K.
+, 
+Inoue, N.
+, 
+Shirouchi, B.
+, &#x2026; 
+Gotoh, N.
+ (2015). Differential effects of triacylglycerol positional isomers containing n&#x2010;3 series highly unsaturated fatty acids on lipid metabolism in C57BL/6J mice. The Journal of Nutritional Biochemistry, 26, 57&#x2013;63. 10.1016/j.jnutbio.2014.09.004
+25448607
+
+Zhou, Q.
+, 
+Gao, B.
+, 
+Zhang, X.
+, 
+Xu, Y.
+, 
+Shi, H.
+, &amp; 
+Yu, L.
+ (2014). Chemical profiling of triacylglycerols and diacylglycerols in cow milk fat by ultra&#x2010;performance convergence chromatography combined with a quadrupole time&#x2010;of&#x2010;flight mass spectrometry. Food Chemistry, 143, 199&#x2013;204. 10.1016/j.foodchem.2013.07.114
+24054231
+
+</pmc-articles
